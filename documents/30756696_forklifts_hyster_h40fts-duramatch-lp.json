@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/h40fts-duramatch-lp/30756696",
+    "source_url_id": "30756696",
+    "source_url_model": "h40fts-duramatch-lp",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:29:12.083300",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "H40FTS DuraMatch LP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "5.5 in (13 cm)",
+            "Height to Top of Overhead Guard": "7.1 ft (2 m)",
+            "Length to Fork Face": "7.4 ft (2 m)",
+            "Max Fork Height": "10.7 ft (3 m)",
+            "Overall Height - mast lowered": "7 ft (2 m)",
+            "Overall Width": "3.6 ft (1 m)",
+            "Turning Radius": "6.6 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "122 cu in (0 m)",
+            "Engine Model": "Mazda 2.0L",
+            "Fuel Type": "LP",
+            "Number of Cylinders": "4",
+            "Power": "40 hp (30 kw)",
+            "Torque": "91 lbs/ft",
+            "Torque Measured @": "1800 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "112 ft/min",
+            "Load Capacity": "4215.3 lbs (1,912 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "100 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.8 mph (19 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "7262.1 lbs (3,294 kg)",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

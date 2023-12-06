@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combination-rollers/hamm/hdplus-80i-vt-s/30754065",
+    "source_url_id": "30754065",
+    "source_url_model": "hdplus-80i-vt-s",
+    "source_url_make": "hamm",
+    "source_url_category": "combination-rollers",
+    "source_date_scraped": "2023-09-13 17:39:08.553285",
+    "equipment_category": "Combination Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD+ 80i VT-S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "29.6 in (74 cm)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Overall Length": "176.4 in (447 cm)",
+            "Overall Width": "6 ft (2 m)",
+            "Turning Radius - Inside": "13.6 ft (4 m)",
+            "Wheelbase": "131.5 in (333 cm)",
+            "Width over tyres": "63.6 in (160 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "14163 lbs (6,424 kg)",
+            "Centrifugal Force - Low": "14163 lbs (6,424 kg)",
+            "Drum Diameter": "44.9 in (112 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "131.1 lbs/in",
+            "Tangential amplitude , rear - 1": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "42 hz (2,520 vpm)",
+            "Vibration Frequency 2": "50 hz (3,000 vpm)"
+        },
+        "Engine": {
+            "Emission Tier Level": "EPA Tier 4",
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 2.9 L4",
+            "Gross Power": "74.3 hp (55 kw)",
+            "Net Power": "74.2 hp (55 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Max Speed": "4.1 mph (6 kph)",
+            "Operating Weight": "22046.3 lbs (10,000 kg)",
+            "Operating weight Cabin": "16622.9 lbs (7,540 kg)",
+            "Operating weight ROPS": "16248.1 lbs (7,370 kg)",
+            "Oscillating angle": "10  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "185 gal (700 l)"
+        },
+        "Tires": {
+            "Tires": "11.00-20"
+        }
+    }
+}

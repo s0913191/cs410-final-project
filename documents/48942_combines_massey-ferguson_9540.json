@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/massey-ferguson/9540/48942",
+    "source_url_id": "48942",
+    "source_url_model": "9540",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:02.085535",
+    "equipment_category": "Combines",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "9540",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Chaffer area": "4588.1 cu in (0 m)",
+            "Total Cleaning Area": "9455.1 cu in (0 m)"
+        },
+        "Engine": {
+            "Displacement": "598.1 cu in (0 m)",
+            "Engine Model": "AGCO POWER 98 ATI",
+            "Number of Cylinders": "7",
+            "Power": "370.2 hp (276 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Feeding": {
+            "Chain size": "4-strand HD #557",
+            "Feeder Reverser Control": "Electro-hydraulic",
+            "Housing width": "55.5 in (140 cm)",
+            "Stone or  Rock Protection": "Standard stone trap"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "350 bu",
+            "Unloading auger diameter": "15 in (38 cm)",
+            "Unloading Auger Length": "24.3 ft (7 m)",
+            "Unloading Discharge Height": "14.3 ft (4 m)",
+            "Unloading Speed": "4.1 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "229.9 gal (867 l)",
+            "Hydraulic System Fluid Capacity": "22.6 gal (83 l)",
+            "Transmission Type": "2-speed hydrostatic / 4-speed"
+        },
+        "Separating": {
+            "Separating Area": "3410.1 cu in (0 m)"
+        },
+        "Threshing": {
+            "Concave Area": "2108.1 cu in (0 m)",
+            "Rotor Diameter": "31.5 in (79 cm)",
+            "Rotor Length": "140 in (356 cm)",
+            "Rotor Speed - High": "1235 rpm",
+            "Rotor Speed - Low": "264 rpm",
+            "Rotor Type": "Segmented element"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ecr38/32513",
+    "source_url_id": "32513",
+    "source_url_model": "ecr38",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:10.687679",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "ECR38",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "14.6 ft (4 m)",
+            "Max Digging Depth": "9 ft (3 m)",
+            "Max Loading Height": "10.5 ft (3 m)",
+            "Max Reach Along Ground": "15.8 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8.4 ft (2 m)",
+            "Shipping Height of Unit": "8.1 ft (2 m)",
+            "Shipping Length of Unit": "14.6 ft (4 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "15 ft (5 m)",
+            "Max Digging Depth": "9.9 ft (3 m)",
+            "Max Loading Height": "11 ft (3 m)",
+            "Max Reach Along Ground": "16.9 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "9.2 ft (3 m)",
+            "Shipping Height of Unit": "8.1 ft (2 m)",
+            "Shipping Length of Unit": "14.6 ft (4 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.3 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Length of Track on Ground": "5.3 ft (2 m)",
+            "Removal Counterweight Clearance": "2 ft (1 m)",
+            "Tail Swing Radius": "2.7 ft (1 m)",
+            "Width to Outside of Tracks": "5.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "100.2 cu in (0 m)",
+            "Engine Model": "D1.6",
+            "Gross Power": "27.6 hp (20 kw)",
+            "Max Torque": "76 lbs/ft",
+            "Net Power": "27 hp (20 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "1.4 gal (4 l)",
+            "Engine Oil Capacity": "1.9 gal (4 l)",
+            "Fuel Capacity": "13 gal (49 l)",
+            "Hydraulic Pump Flow Capacity": "24.9 gal/min (91 l/min)",
+            "Hydraulic System Fluid Capacity": "12.7 gal (45 l)",
+            "Hydraulic System Relief Valve Pressure": "3483 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "7355 lbs (3,336 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.4 psi",
+            "Max Travel Speed": "2.4 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Track Rollers per Side": "4",
+            "Shoe Size": "11.9 in (28 cm)",
+            "Track Gauge": "4.4 ft (1 m)"
+        }
+    }
+}

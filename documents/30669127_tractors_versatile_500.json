@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/versatile/500/30669127",
+    "source_url_id": "30669127",
+    "source_url_model": "500",
+    "source_url_make": "versatile",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:20.847118",
+    "equipment_category": "Tractors",
+    "equipment_make": "Versatile",
+    "equipment_model": "500",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "252.8 in (640 cm)",
+            "Wheelbase": "12.8 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "909.3 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSX15",
+            "Gross Power": "500 hp (373 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "400 hp (298 kw)",
+            "Stroke": "6.7 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center load sensing",
+            "Number of Remote Control Valves": "4 to 6",
+            "Pump Flow Capacity": "53 gal/min (201 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "IV",
+            "Alternator Supplied Amperage": "200  A",
+            "Drawbar Static Vertical Load Rating": "9000 lbs (4,082 kg)",
+            "Front Tire Size": "710/70R38",
+            "Fuel Capacity": "400 gal (1,514 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "42000.3 lbs (19,051 kg)",
+            "Rear Tire Size": "710/70R38"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

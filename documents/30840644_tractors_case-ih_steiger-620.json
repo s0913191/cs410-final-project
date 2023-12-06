@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/steiger-620/30840644",
+    "source_url_id": "30840644",
+    "source_url_model": "steiger-620",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:03.932055",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "STEIGER 620",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "620 hp (462 kw)"
+        },
+        "Production": {
+            "Series": "Steiger 4WD Series",
+            "Years Manufactured": "2014 -"
+        }
+    }
+}

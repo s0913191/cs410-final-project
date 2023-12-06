@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ef352t/31084931",
+    "source_url_id": "31084931",
+    "source_url_model": "ef352t",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:38.445825",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "EF352T",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "35 hp (26 kw)"
+        },
+        "Production": {
+            "Series": "EF Series",
+            "Years Manufactured": "2007 - 2017"
+        }
+    }
+}

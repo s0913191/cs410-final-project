@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/bm-l120b/32633",
+    "source_url_id": "32633",
+    "source_url_model": "bm-l120b",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:19.176632",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM L120B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "34330 lbs (15,572 kg)",
+            "Bucket Capacity - heaped": "3.7 cu yds (2 m)",
+            "Bucket Width": "9.4 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Hinge Pin - Max Height": "13.1 ft (4 m)",
+            "Length with Bucket on Ground": "25 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Model": "TD 71 G",
+            "Gross Power": "200 hp (149 kw)",
+            "Net Power": "190 hp (142 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.5 sec",
+            "Lower Time": "3.1 sec",
+            "Pump Flow Capacity": "51.8 gal/min (193 l/min)",
+            "Pump Type": "open center",
+            "Raise Time": "6.5 sec",
+            "Relief Valve Setting": "3050 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "17.2 gal (64 l)",
+            "Engine Oil Fluid Capacity": "6.7 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "9.3 gal (34 l)",
+            "Fuel Capacity": "67.4 gal (254 l)",
+            "Hydraulic System Fluid Capacity": "58.2 gal (220 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "33735 lbs (15,302 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "10.1 gal (38 l)",
+            "Static Tipping Weight": "27998.8 lbs (12,700 kg)",
+            "Tire Size": "23.5R25",
+            "Transmission Fluid Capacity": "8.8 gal (30 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24 mph (39 kph)",
+            "Max Speed - Reverse": "16.8 mph (26 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        }
+    }
+}

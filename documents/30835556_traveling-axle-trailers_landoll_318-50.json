@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/traveling-axle-trailers/landoll/318-50/30835556",
+    "source_url_id": "30835556",
+    "source_url_model": "318-50",
+    "source_url_make": "landoll",
+    "source_url_category": "traveling-axle-trailers",
+    "source_date_scraped": "2023-09-13 17:56:03.056331",
+    "equipment_category": "Traveling Axle Trailers",
+    "equipment_make": "Landoll",
+    "equipment_model": "318-50",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "50x8.5 ft (15 m)"
+        },
+        "Weights": {
+            "Equipment Weight": "21000 lbs (9,526 kg)",
+            "Weight Capacity": "100000 lbs (45,360 kg)"
+        }
+    }
+}

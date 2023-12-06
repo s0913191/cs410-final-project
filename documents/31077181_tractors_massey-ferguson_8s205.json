@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/8s205/31077181",
+    "source_url_id": "31077181",
+    "source_url_model": "8s205",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:39.676077",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "8S.205",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "205 hp (153 kw)"
+        },
+        "Production": {
+            "Series": "8S Series",
+            "Years Manufactured": "2020 -"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/8fg80u/30757181",
+    "source_url_id": "30757181",
+    "source_url_model": "8fg80u",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:43:01.796425",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "8FG80U",
+    "equipment_spec": {
+        "Dimensions": {
+            "Aisle width": "16.5 ft (5 m)",
+            "Gradeability": "26%",
+            "Length to Fork Face": "11.8 ft (3 m)",
+            "Overall Height - mast lowered": "7.6 ft (2 m)",
+            "Overall Width": "6.5 ft (2 m)",
+            "Right Angle Stack": "12.9 ft (4 m)"
+        },
+        "MAST": {
+            "Lift Speed": "81 ft/min",
+            "Load Capacity": "17500 lbs (7,938 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "11.8 mph (18 kph)",
+            "PrimaryLocation": "outdoor"
+        }
+    }
+}

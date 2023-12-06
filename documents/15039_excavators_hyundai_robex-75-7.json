@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hyundai/robex-75-7/15039",
+    "source_url_id": "15039",
+    "source_url_model": "robex-75-7",
+    "source_url_make": "hyundai",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:03:47.292665",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hyundai",
+    "equipment_model": "ROBEX 75-7",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "21.4 ft (6 m)",
+            "Max Digging Depth": "13.1 ft (4 m)",
+            "Max Loading Height": "14.9 ft (4 m)",
+            "Max Reach Along Ground": "21.9 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "10.6 ft (3 m)",
+            "Shipping Height of Unit": "8.4 ft (2 m)",
+            "Shipping Length of Unit": "20.6 ft (6 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.4 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Tail Swing Radius": "5.2 ft (2 m)",
+            "Width to Outside of Tracks": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "203.3 cu in (0 m)",
+            "Engine Model": "S4S",
+            "Net Power": "55.5 hp (41 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "2.7 gal (8 l)",
+            "Engine Oil Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "34.4 gal (129 l)",
+            "Hydraulic Pump Flow Capacity": "53.7 gal/min (201 l/min)",
+            "Hydraulic System Fluid Capacity": "22.5 gal (83 l)",
+            "Hydraulic System Relief Valve Pressure": "3700 psi",
+            "Operating Weight": "16380 lbs (7,430 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.7 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "12920 lbs (5,861 kg)",
+            "Ground Pressure": "5 psi",
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Shoe Size": "17.8 in (43 cm)",
+            "Track Gauge": "5.6 ft (2 m)"
+        }
+    }
+}

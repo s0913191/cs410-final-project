@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/holland-lift/x105el18/30758164",
+    "source_url_id": "30758164",
+    "source_url_model": "x105el18",
+    "source_url_make": "holland-lift",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:04.912756",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Holland Lift",
+    "equipment_model": "X105EL18",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.7 in (18 cm)",
+            "Height w/ Rails": "9.2 ft (3 m)",
+            "Height w/o Rails": "6.6 ft (2 m)",
+            "Overall Length": "11.5 in (28 cm)",
+            "Overall Width": "6 ft (2 m)",
+            "Wheelbase": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "240",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Max Speed": "2.2 mph (3 kph)",
+            "Operating Weight": "10890.9 lbs (4,940 kg)",
+            "Tire Size": "26x12x12"
+        },
+        "Platform": {
+            "Deck Extension": "55.2 in (140 cm)",
+            "Lift Time": "45 sec",
+            "Lower Time": "36 sec",
+            "Max Platform Height": "34.5 ft (10 m)",
+            "Max Platform Weight Capacity": "1102.4 lbs (500 kg)",
+            "Max Working Height": "41.1 ft (13 m)",
+            "Platform Inner Length": "126.4 in (320 cm)",
+            "Platform Inner Width": "68.6 in (173 cm)"
+        }
+    }
+}

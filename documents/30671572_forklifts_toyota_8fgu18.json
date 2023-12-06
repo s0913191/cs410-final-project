@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/8fgu18/30671572",
+    "source_url_id": "30671572",
+    "source_url_model": "8fgu18",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:43:13.014325",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "8FGU18",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Mechanical",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Free lift": "5.8 in (13 cm)",
+            "Gradeability": "45%",
+            "Ground Clearance": "4 in (10 cm)",
+            "Height to Top of Overhead Guard": "6.9 ft (2 m)",
+            "Length to Fork Face": "7.6 ft (2 m)",
+            "Max Fork Height": "11 ft (3 m)",
+            "Overall Height - mast lowered": "7.1 ft (2 m)",
+            "Overall Width": "3.6 ft (1 m)",
+            "Right Angle Stack": "7.9 ft (2 m)",
+            "Turning Radius": "6.5 ft (2 m)",
+            "Wheelbase": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Battery": "12 V",
+            "Displacement": "136 cu in (0 m)",
+            "Engine Make": "TOYOTA",
+            "Engine Model": "4Y - ECS",
+            "Fuel Type": "Gasoline",
+            "Number of Cylinders": "4",
+            "Power": "51 hp (38 kw)",
+            "Power Measured @": "2570 rpm",
+            "Torque": "118 lbs/ft",
+            "Torque Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Main pump flow standard": "17 gal/min (64 l/min)",
+            "Maximum operating pressure": "2275 psi"
+        },
+        "MAST": {
+            "Lift Speed": "131 ft/min",
+            "Load Capacity": "3527.4 lbs (1,600 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Lower Speed": "98 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "11  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Drawbar Pull": "3924.3 lbs (1,780 kg)",
+            "Fuel Capacity": "12 gal (45 l)",
+            "Max Speed": "11.5 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "5930.5 lbs (2,690 kg)",
+            "Tire Type": "Pneumatic"
+        },
+        "Tires": {
+            "Front Tires Size": "6.50-10-10PR",
+            "Rear Tires Size": "5.00-8-8PR"
+        }
+    }
+}

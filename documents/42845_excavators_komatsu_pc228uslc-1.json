@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc228uslc-1/42845",
+    "source_url_id": "42845",
+    "source_url_model": "pc228uslc-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:10:23.536445",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC228USLC-1",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "35.2 ft (11 m)",
+            "Max Digging Depth": "22.4 ft (7 m)",
+            "Max Loading Height": "25.5 ft (8 m)",
+            "Max Reach Along Ground": "31.8 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "19.4 ft (6 m)",
+            "Shipping Height of Unit": "9.9 ft (3 m)",
+            "Shipping Length of Unit": "29.2 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2 cu yds (2 m)",
+            "Minimum Bucket Capacity": "0.9 cu yds (0 m)",
+            "Reference Bucket Capacity": "1.1 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Length of Track on Ground": "12 ft (4 m)",
+            "Removal Counterweight Clearance": "3.5 ft (1 m)",
+            "Tail Swing Radius": "5.4 ft (2 m)",
+            "Width to Outside of Tracks": "10.2 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "358.9 cu in (0 m)",
+            "Engine Model": "S6D102E-1",
+            "Net Power": "128.8 hp (95 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "62.1 gal (235 l)",
+            "Hydraulic Pump Flow Capacity": "108.9 gal/min (409 l/min)",
+            "Hydraulic System Fluid Capacity": "63.2 gal (238 l)",
+            "Hydraulic System Relief Valve Pressure": "5050 psi",
+            "Operating Weight": "50485.9 lbs (22,900 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "6 psi",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

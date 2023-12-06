@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/m404/30757000",
+    "source_url_id": "30757000",
+    "source_url_model": "m404",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:54.526986",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "M40.4",
+    "equipment_spec": {
+        "Brakes": {
+            "Front Brakes": "4",
+            "Parking brake": "Oil immersed multi-disc mechanics on the front axle",
+            "Service brake": "Oil immersed multi-disc braking on front/rear axles"
+        },
+        "Capacities": {
+            "Fuel Tank": "22.5 gal (83 l)",
+            "Hydraulic oil tank": "21.2 gal (79 l)",
+            "Pump Capacity": "97000 in (246,380 cm)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "63.8 in (160 cm)",
+            "Height to Top of Overhead Guard": "8.2 ft (2 m)",
+            "Length to Fork Face": "12.1 ft (4 m)",
+            "Max Fork Height": "12.2 ft (4 m)",
+            "Overall Height - mast lowered": "9.6 ft (3 m)",
+            "Overall Width": "6.9 ft (2 m)",
+            "Turning Radius": "14.9 ft (4 m)",
+            "Wheelbase": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Cooling method": "Water",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "Euro 2 1104C 44",
+            "Injection": "Direct",
+            "Power": "75 hp (56 kw)",
+            "Torque": "234.6 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "MAST": {
+            "Lift height- largest mast": "15.8 in (38 cm)",
+            "Lift height-smallest mast": "11.9 in (28 cm)",
+            "Load Capacity": "8818.5 lbs (4,000 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Mast Tip Forward": "15  \t\u00b0",
+            "Mast Tip Rear": "15  \t\u00b0",
+            "Max Fork Spread": "65.8 in (165 cm)",
+            "Number of Mast Sections": "1"
+        },
+        "Operating Specifications": {
+            "Max Speed": "15 mph (24 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "14771 lbs (6,700 kg)",
+            "Tire Type": "front 18-22.5 163A8 MPT-06 TL, rear 340/80R18 XMCL 143A8"
+        }
+    }
+}

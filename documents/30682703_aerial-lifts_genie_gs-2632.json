@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/gs-2632/30682703",
+    "source_url_id": "30682703",
+    "source_url_model": "gs-2632",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:25:54.702840",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "GS-2632",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Height w/ Rails": "7.5 ft (2 m)",
+            "Height w/o Rails": "6.3 ft (2 m)",
+            "Overall Length": "8.1 in (20 cm)",
+            "Overall Width": "2.7 ft (1 m)",
+            "Turning Radius": "7 ft (2 m)",
+            "Wheelbase": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "3.8 gal (11 l)",
+            "Max Speed": "2.2 mph (3 kph)",
+            "Operating Weight": "4413.7 lbs (2,002 kg)",
+            "Tire Fill/Type": "Solid non-marking",
+            "Tire Size": "15x5x11"
+        },
+        "Platform": {
+            "Deck Extension": "35.9 in (89 cm)",
+            "Lift Time": "30 sec",
+            "Lower Time": "40 sec",
+            "Max Platform Height": "26 ft (8 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "32.6 ft (10 m)",
+            "Platform Inner Length": "89 in (226 cm)",
+            "Platform Inner Width": "31.9 in (79 cm)"
+        }
+    }
+}

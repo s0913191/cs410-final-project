@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/jcb/250t/30497925",
+    "source_url_id": "30497925",
+    "source_url_model": "250t",
+    "source_url_make": "jcb",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:34.604941",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "250T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Angle of departure": "29  \t\u00b0",
+            "Dig Depth": "393.7 in (998 cm)",
+            "Dump angle": "42  \t\u00b0",
+            "Dump Height": "89.8 in (226 cm)",
+            "Ground Clearance": "9.1 in (23 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length - with Bucket": "12.5 ft (4 m)",
+            "Loadover height": "9.5 ft (3 m)",
+            "Max. reach @ full height": "3.3 ft (1 m)",
+            "Pin height": "10.5 ft (3 m)",
+            "Reach @ ground level": "3.7 ft (1 m)",
+            "Rollback @ ground": "30  \t\u00b0",
+            "Wheelbase": "6.9 ft (2 m)",
+            "Width Over Tracks": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "95 A",
+            "Aspiration": "Liquid",
+            "Battery": "12 V",
+            "Cooling system": "Liquid",
+            "Displacement": "268.5 cu in (0 m)",
+            "Emissions Certification": "EPA-T4F (EU St3B)",
+            "Engine Model": "EcoMAX TCAE-55",
+            "Engine oil service interval hours": "500",
+            "Fuel": "Diesel",
+            "Gross Power": "73.8 hp (54 kw)",
+            "Peak Torque": "295.1 lbs/ft",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Loader": {
+            "Breakout Force": "6543.4 lbs (2,968 kg)",
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Bucket Width": "74.9 in (188 cm)",
+            "Operating Load": "10621.9 lbs (4,818 kg)",
+            "Tipping Angle": "7720.6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "27.3 gal (102 l)",
+            "Hydraulic System Fluid Capacity": "14.6 gal (53 l)",
+            "Operating Weight": "10621.9 lbs (4,818 kg)"
+        },
+        "Transmission": {
+            "Model": "Two Speed",
+            "Travelling speed": "7.7 / 12.5"
+        }
+    }
+}

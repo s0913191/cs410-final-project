@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/leeboy/7000c/30579870",
+    "source_url_id": "30579870",
+    "source_url_model": "7000c",
+    "source_url_make": "leeboy",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:20.112755",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Leeboy",
+    "equipment_model": "7000C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Kubota",
+            "Model": "64hp"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "6 lbs (3 kg)",
+            "Paving Speed": "220 ft/min",
+            "Paving Width - max": "up to 13 ft (0 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "12500 lbs (5,670 kg)"
+        }
+    }
+}

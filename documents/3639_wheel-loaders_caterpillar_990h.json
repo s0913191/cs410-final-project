@@ -1,0 +1,111 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/990h/3639",
+    "source_url_id": "3639",
+    "source_url_model": "990h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:02.797441",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "990H",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed",
+            "Maximum Single-Wheel Rise and Fall": "22.5 in (56 cm)",
+            "Oscillation Angle": "11  \t\u00b0",
+            "Rear": "Oscillating"
+        },
+        "Brakes": {
+            "Brakes": "Meet SAE/ISO 3450:1996"
+        },
+        "Bucket": {
+            "Breakout Force": "133650 lbs (60,623 kg)",
+            "Bucket Capacity - heaped": "11.3 cu yds (8 m)",
+            "Bucket Capacity - struck": "9.5 cu yds (7 m)",
+            "Bucket Width": "14.6 ft (4 m)",
+            "Dump Clearance at Max Raise": "13.7 ft (4 m)"
+        },
+        "Cab": {
+            "Cab - ROPS/FOPS": "Meets SAE and ISO standards",
+            "Sound Performance": "Meets ANSI, SAE and ISO standards"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "16.7 ft (5 m)",
+            "Hinge Pin - Max Height": "21.1 ft (6 m)",
+            "Length with Bucket on Ground": "41.2 ft (13 m)",
+            "Reach at Max Lift and Dump": "5.8 ft (2 m)",
+            "Wheelbase": "15.1 ft (5 m)",
+            "Width Over Tires": "13.8 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "1666 cu in (0 m)",
+            "Engine Model": "C27 MEUI ACERT",
+            "Gross Power": "687 hp (512 kw)",
+            "Net Power": "627 hp (468 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic Cycle Times": {
+            "Dump": "2.9 sec",
+            "Raise": "9.2 sec",
+            "Total Hydraulic Cycle Time": "15.9 sec"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.9 sec",
+            "Lower Time": "3.8 sec",
+            "Pump Flow Capacity": "172 gal/min (651 l/min)",
+            "Raise Time": "9.2 sec",
+            "Relief Valve Setting": "4500 psi"
+        },
+        "Loader Hydraulic System": {
+            "Cylinders, Double Acting - Lift, Bore and Stroke": "234 mm  1270 mm (9.25 in  50 in)",
+            "Cylinders, Double Acting - Tilt, Bore and Stroke": "292 mm  820 mm (11.5 in  32.3 in)",
+            "Relief Valve Setting": "4500 psi",
+            "Relief Valve Setting - Low Idle": "350 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "50.2 gal (189 l)",
+            "Engine Oil Fluid Capacity": "25 gal (95 l)",
+            "Front Axle/Diff Fluid Capacity": "71.6 gal (269 l)",
+            "Fuel Capacity": "284 gal (1,075 l)",
+            "Hydraulic System Fluid Capacity": "46 gal (174 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "171642 lbs (77,856 kg)",
+            "Rear Axle Oscillation": "22  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "68.9 gal (257 l)",
+            "Static Tipping Weight": "102428 lbs (46,461 kg)",
+            "Tire Size": "41.25 / 70",
+            "Transmission Fluid Capacity": "29 gal (110 l)",
+            "Turning Radius": "33.7 ft (10 m)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "50.2 gal (189 l)",
+            "Crankcase": "25 gal (95 l)",
+            "Differential - Final Drives - Front": "71.6 gal (269 l)",
+            "Differential - Final Drives - Rear": "68.9 gal (257 l)",
+            "Fuel Tank": "284 gal (1,075 l)",
+            "Hydraulic System - Lift/Tilt and Brakes": "113 gal (428 l)",
+            "Hydraulic System - Steering and Engine Cooling Fan": "50.5 gal (189 l)",
+            "Hydraulic System - Tank Only": "46 gal (174 l)",
+            "Transmission": "29 gal (110 l)"
+        },
+        "Steering System": {
+            "Steering": "Meets SAE and ISO standards",
+            "Total Steering Angle": "70  \t\u00b0"
+        },
+        "Tires": {
+            "Tires": "Tires used for measurement - 41.25/70-39 42 ply"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "14 mph (23 kph)",
+            "Max Speed - Reverse": "15.5 mph (24 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Weights": {
+            "Operating Weight": "172270 lbs (78,141 kg)"
+        }
+    }
+}

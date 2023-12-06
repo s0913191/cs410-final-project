@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/agco/rt140/30751506",
+    "source_url_id": "30751506",
+    "source_url_model": "rt140",
+    "source_url_make": "agco",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:08:47.961630",
+    "equipment_category": "Tractors",
+    "equipment_make": "Agco",
+    "equipment_model": "RT140",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "planetary"
+        },
+        "Dimensions": {
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "6.6L",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "140 hp (104 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "29 gal/min (110 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "14283 lbs (6,479 kg)",
+            "3 Point Hitch Type": "Category II-IIIN",
+            "Alternator Supplied Amperage": "150  A",
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "14446.9 lbs (6,553 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "32 mph (51 kph)",
+            "Number of Forward Gears": "2",
+            "Transmission Type": "continuously variable"
+        }
+    }
+}

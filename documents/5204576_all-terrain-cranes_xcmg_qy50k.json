@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/xcmg/qy50k/5204576",
+    "source_url_id": "5204576",
+    "source_url_model": "qy50k",
+    "source_url_make": "xcmg",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:19.762578",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "XCMG",
+    "equipment_model": "QY50K",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "183.1 ft (56 m)",
+            "Max Lift Capacity": "100000 lbs (45,360 kg)",
+            "Number of Sections": "5"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "276.3 hp (206 kw)",
+            "Make": "XCMG",
+            "Max Torque": "811.4 lbs/ft",
+            "Model": "WD615.67A",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Angle of departure": "11  \t\u00b0",
+            "Approach Angle": "16  \t\u00b0",
+            "Transport Height": "11 ft (3 m)",
+            "Transport Length": "43 ft (13 m)",
+            "Transport Width": "9.1 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "11.5 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "85054.4 lbs (38,580 kg)"
+        }
+    }
+}

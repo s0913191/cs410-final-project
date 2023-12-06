@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/daewoo/solar-140lc-v/8784",
+    "source_url_id": "8784",
+    "source_url_model": "solar-140lc-v",
+    "source_url_make": "daewoo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:49.541559",
+    "equipment_category": "Excavators",
+    "equipment_make": "Daewoo",
+    "equipment_model": "SOLAR 140LC V",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "18.5 ft (5 m)",
+            "Digging Reach": "27.1 ft (8 m)"
+        },
+        "Engine": {
+            "Net Power": "95 hp (71 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "30600 lbs (13,880 kg)"
+        }
+    }
+}

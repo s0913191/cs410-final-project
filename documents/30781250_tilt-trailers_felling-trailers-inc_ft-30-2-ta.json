@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/felling-trailers-inc/ft-30-2-ta/30781250",
+    "source_url_id": "30781250",
+    "source_url_model": "ft-30-2-ta",
+    "source_url_make": "felling-trailers-inc",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:49.651386",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Felling Trailers, Inc.",
+    "equipment_model": "FT-30-2 TA",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "30 ft (9 m)"
+        },
+        "Weights": {
+            "Equipment Weight": "9200 lbs (4,173 kg)",
+            "Weight Capacity": "30000 lbs (13,608 kg)"
+        }
+    }
+}

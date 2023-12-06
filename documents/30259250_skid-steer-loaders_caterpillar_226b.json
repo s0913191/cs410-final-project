@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/caterpillar/226b/30259250",
+    "source_url_id": "30259250",
+    "source_url_model": "226b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:09.473113",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "226B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.2 ft (2 m)",
+            "Ground Clearance": "7.7 in (18 cm)",
+            "Height - Top of Cab": "6.4 ft (2 m)",
+            "Length w/o Bucket": "8.3 ft (2 m)",
+            "Length with Bucket": "10.7 ft (3 m)",
+            "Reach at Max Lift and Dump": "19.9 in (48 cm)",
+            "Turning Radius from Center - inc bucket": "76.4 in (193 cm)",
+            "Turning Radius from Center - machine rear": "58.5 in (147 cm)",
+            "Wheelbase": "3.3 ft (1 m)",
+            "Width Over Tires": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Make": "Caterpillar",
+            "Engine Model": "3024C T",
+            "Gross Power": "57.7 hp (43 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15.9 gal/min (57 l/min)",
+            "Relief Valve Pressure": "3335.9 psi"
+        },
+        "Loader": {
+            "Breakout Force": "4083 psi",
+            "Operating Load Rating": "1499.2 lbs (680 kg)",
+            "Tipping Angle": "2998.3  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "85  A",
+            "Chain Box Fluid Capacity - each side": "1.6 gal (4 l)",
+            "Cooling System Fluid Capacity": "2.7 gal (8 l)",
+            "Engine Oil Fluid Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "14.6 gal (53 l)",
+            "Max Speed": "7.9 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "5833.5 lbs (2,646 kg)",
+            "Tire Size": "10x16.5 6PR"
+        }
+    }
+}

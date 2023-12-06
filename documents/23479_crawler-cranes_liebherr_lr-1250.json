@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/liebherr/lr-1250/23479",
+    "source_url_id": "23479",
+    "source_url_model": "lr-1250",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:41.891143",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LR 1250",
+    "equipment_spec": {
+        "Boom": {
+            "Boom luffing - Boom winch": "130 sec from 15  to 86  \t\u00b0",
+            "Line pull -Boom winch": "48783.6 lbs (22,128 kg)",
+            "Rope diameter- Boom winch": "1 in (3 cm)"
+        },
+        "Capacities": {
+            "Fuel Tank": "208.7 gal (787 l)",
+            "Hydraulic oil tank": "171.8 gal (647 l)",
+            "Rope capacity - Main winches": "1604.4 ft (489 m)"
+        },
+        "Engine": {
+            "Emission Tier Level": "Tier 4f",
+            "Engine Type": "Liebherr D 944 A7-04",
+            "Gross Power": "308.5 hp (230 kw)",
+            "Power Measured @": "1700 rpm"
+        },
+        "Operating Specifications": {
+            "Diameter - Main winches": "22.9 in (56 cm)",
+            "Drive speed - Crawlers": "1 mph (2 kph)",
+            "Line pull - Main winches": "26977.1 lbs (12,237 kg)",
+            "Luffing jib": "51 sec from 15  to 78  \t\u00b0",
+            "Luffing Line pull": "23605 lbs (10,707 kg)",
+            "Luffing Rope diameter": "0.8 in (0 cm)",
+            "Rope diameter- Main winches": "1.1 in (3 cm)",
+            "Rope speed - Main wiches": "446.2 ft/min",
+            "Track pads - Crawlers": "47.3 in (119 cm)"
+        },
+        "Transmission": {
+            "Working speed": "350 bar"
+        }
+    }
+}

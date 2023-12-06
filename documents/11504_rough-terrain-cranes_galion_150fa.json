@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/galion/150fa/11504",
+    "source_url_id": "11504",
+    "source_url_model": "150fa",
+    "source_url_make": "galion",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:20.907560",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Galion",
+    "equipment_model": "150FA",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "70  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "60 ft (18 m)",
+            "Max Lift Capacity": "30000.6 lbs (13,608 kg)",
+            "Max Operating Radius": "60 ft (18 m)",
+            "Min Height @ Max Raise Angle": "20 ft (6 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "4.4 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "16.9 ft (5 m)",
+            "Transport Height": "11.1 ft (3 m)",
+            "Transport Length": "29.6 ft (9 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Wheelbase": "108 in (274 cm)",
+            "Width w/ Outriggers Extended": "14.3 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "358.9 cu in (0 m)",
+            "Engine Make": "Komatsu",
+            "Engine Model": "S6D102E-1",
+            "Fuel Type": "Diesel",
+            "Max Torque": "368.1 lbs/ft",
+            "Net Power": "121 hp (90 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "62  A",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "41843.8 lbs (18,980 kg)",
+            "Tire Size": "14.00 x 24-16 PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "26.5 mph (42 kph)",
+            "Max Speed - Reverse": "26.5 mph (42 kph)",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

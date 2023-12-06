@@ -1,0 +1,91 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/315d-l/30748142",
+    "source_url_id": "30748142",
+    "source_url_model": "315d-l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:46.289097",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "315D L",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "28.7 ft (9 m)",
+            "Max Digging Depth": "18.8 ft (5 m)",
+            "Max Loading Height": "20.2 ft (6 m)",
+            "Max Reach Along Ground": "27.7 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "16.2 ft (5 m)",
+            "Shipping Height of Unit": "9.7 ft (3 m)",
+            "Shipping Length of Unit": "28 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "29.3 ft (9 m)",
+            "Max Digging Depth": "20 ft (6 m)",
+            "Max Loading Height": "7.7 ft (2 m)",
+            "Max Reach Along Ground": "28.8 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.6 ft (5 m)",
+            "Shipping Height of Unit": "10 ft (3 m)",
+            "Shipping Length of Unit": "28.1 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "29.2 ft (9 m)",
+            "Max Digging Depth": "20.9 ft (6 m)",
+            "Max Loading Height": "20.8 ft (6 m)",
+            "Max Reach Along Ground": "29.4 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.6 ft (5 m)",
+            "Shipping Height of Unit": "11.1 ft (3 m)",
+            "Shipping Length of Unit": "28.1 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "29.5 ft (9 m)",
+            "Max Digging Depth": "21.6 ft (6 m)",
+            "Max Loading Height": "21.7 ft (6 m)",
+            "Max Reach Along Ground": "30.4 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "19.2 ft (6 m)",
+            "Shipping Length of Unit": "28.1 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.2 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Removal Counterweight Clearance": "3.4 ft (1 m)",
+            "Tail Swing Radius": "8.3 ft (2 m)",
+            "Width to Outside of Tracks": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "259.4 cu in (0 m)",
+            "Engine Model": "C4.2 ACERT",
+            "Flywheel Power": "117 hp (87 kw)",
+            "Gross Power": "122 hp (91 kw)",
+            "Net Power": "115 hp (86 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Engine Oil Capacity": "4.7 gal (15 l)",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic Pump Flow Capacity": "39.7 gal/min (148 l/min)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Hydraulic System Relief Valve Pressure": "5076.4 psi",
+            "Operating Weight": "38095.9 lbs (17,280 kg)",
+            "Swing Drive Fluid Capacity": "0.8 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.2 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "35295.1 lbs (16,010 kg)",
+            "Ground Pressure": "6 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "6.6 ft (2 m)"
+        },
+        "Weights": {
+            "Operating Weight": "36817 lbs (16,700 kg)"
+        }
+    }
+}

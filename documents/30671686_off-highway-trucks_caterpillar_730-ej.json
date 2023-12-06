@@ -1,0 +1,126 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/730-ej/30671686",
+    "source_url_id": "30671686",
+    "source_url_model": "730-ej",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:16.425681",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "730 EJ",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Body Capacities": {
+            "Heaped (SAE 2:1)": "22.1 cu yds (17 m)",
+            "Struck": "17.7 cu yds (13 m)"
+        },
+        "Body Plate Thickness": {
+            "Base": "0.4 in (0 cm)",
+            "Front": "0.3 in (0 cm)",
+            "Side": "0.3 in (0 cm)"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "3 ft (1 m)",
+            "Dump Height": "10 ft (3 m)",
+            "Ground Clearance": "10.1 ft (3 m)",
+            "Overall Height": "12.4 ft (4 m)",
+            "Overall Length": "31.9 ft (9 m)",
+            "Overall Width": "11.7 ft (3 m)",
+            "Wheelbase": "7.5 ft (2 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "22.1 cu yds (17 m)",
+            "Capacity - Struck": "17.7 cu yds (13 m)",
+            "Lower Time": "12 sec",
+            "Raise Time": "15 sec",
+            "Rated Payload": "31 t (28,123 kg)"
+        },
+        "Ejector Cycle Times": {
+            "Eject Time": "12 sec",
+            "Retract Time": "15 sec"
+        },
+        "Engine": {
+            "Bore": "5.1 in (13 cm)",
+            "Displacement": "680 cu in (0 m)",
+            "Engine Model": "Cat C11 ACERT",
+            "Gross Power": "325 hp (242 kw)",
+            "Gross Power - SAE J1995": "325 hp (242 kw)",
+            "Make": "Cat",
+            "Model": "C11 ACERT",
+            "Net Power": "317 hp (236 kw)",
+            "Net Power - EEC 80/1269": "321 hp (239 kw)",
+            "Net Power - ISO 9249": "321 hp (239 kw)",
+            "Net Power - SAE J1349": "319 hp (238 kw)",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5.5 in (13 cm)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "18 gal (68 l)",
+            "Engine Oil Capacity": "11 gal (42 l)",
+            "Fuel Capacity": "94 gal (356 l)",
+            "Hydraulic System Fluid Capacity": "46.5 gal (174 l)",
+            "Transmission Fluid Capacity": "9.5 gal (34 l)"
+        },
+        "Operating Weights": {
+            "Center Axle - Empty": "13140 lbs (5,960 kg)",
+            "Center Axle - Loaded": "43144 lbs (19,570 kg)",
+            "Center Axle - Rated Load": "30005 lbs (13,610 kg)",
+            "Front Axle - Empty": "30821 lbs (13,980 kg)",
+            "Front Axle - Loaded": "32805 lbs (14,880 kg)",
+            "Front Axle - Rated Load": "1984 lbs (900 kg)",
+            "Rear Axle - Empty": "12368 lbs (5,610 kg)",
+            "Rear Axle - Loaded": "42373 lbs (19,220 kg)",
+            "Rear Axle - Rated Load": "30005 lbs (13,610 kg)",
+            "Total - Empty": "56328 lbs (25,550 kg)",
+            "Total - Loaded": "118322 lbs (53,671 kg)",
+            "Total - Rated Load": "61994 lbs (28,120 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "18 gal (68 l)",
+            "Engine Crankcase": "11 gal (42 l)",
+            "Final Drives/Differential": "43.3 gal (163 l)",
+            "Fuel Tank": "94 gal (356 l)",
+            "Hydraulic System": "46.5 gal (174 l)",
+            "Output Transfer Gear Box": "4.8 gal (15 l)",
+            "Transmission": "9.5 gal (34 l)"
+        },
+        "Sound Levels": {
+            "Interior Cab": "76 dB(A)"
+        },
+        "Standards": {
+            "Brakes": "ISO 3450  1996",
+            "Cab - FOPS": "ISO 3449 Level II  2005",
+            "Cab - ROPS": "ISO 3471  2008",
+            "Steering": "ISO 5010  2007"
+        },
+        "Transmission": {
+            "Forward - 1": "5 mph (8 kph)",
+            "Forward - 2": "9 mph (14 kph)",
+            "Forward - 3": "14 mph (23 kph)",
+            "Forward - 4": "21 mph (34 kph)",
+            "Forward - 5": "29 mph (47 kph)",
+            "Forward - 6": "34 mph (55 kph)",
+            "Max Speed": "34 mph (55 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Reverse - 1": "5 mph (8 kph)",
+            "Transmission Type": "electronic transmission"
+        },
+        "Weights": {
+            "Center Axle - empty": "13140 lbs (5,960 kg)",
+            "Center Axle - loaded": "43144 lbs (19,570 kg)",
+            "Front Axle - empty": "30821 lbs (13,980 kg)",
+            "Front Axle - loaded": "32805 lbs (14,880 kg)",
+            "Operating Weight": "118330 lbs (53,674 kg)",
+            "Rear Axle - empty": "12368 lbs (5,610 kg)",
+            "Rear Axle - loaded": "42373 lbs (19,220 kg)",
+            "Total Empty": "56328 lbs (25,550 kg)",
+            "Total Loaded": "118322 lbs (53,671 kg)"
+        }
+    }
+}

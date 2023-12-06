@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/terex/tsr80/31031",
+    "source_url_id": "31031",
+    "source_url_model": "tsr80",
+    "source_url_make": "terex",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:12.251287",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TSR80",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump angle": "46  \t\u00b0",
+            "Ground Clearance": "10.6 in (25 cm)",
+            "Height - Top of ROPS/FOPS": "3.3 in (8 cm)",
+            "Height to Hinge Pin": "125 in (318 cm)",
+            "Length with Bucket": "12.1 ft (4 m)",
+            "Rear Departure Angle": "26",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dual Stage",
+            "Displacement": "201.4 cu in (0 m)",
+            "Emissions Certification": "Tier 4",
+            "Engine Make": "Perkins",
+            "Engine Model": "804D-33T",
+            "Gross Power": "83 hp (62 kw)",
+            "Max Torque": "195.5 lbs/ft",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "21.4 gal/min (79 l/min)",
+            "Relief Valve Pressure": "3300 psi"
+        },
+        "Loader": {
+            "bucket breakout force (ISO 14397)": "5498.4 lbs (2,494 kg)",
+            "Tipping load (ISO 14397)": "4640.8 lbs (2,105 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Engine Oil Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "29.9 gal (110 l)",
+            "Hydraulic System Fluid Capacity": "10.1 gal (38 l)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "7749.3 lbs (3,515 kg)",
+            "Shipping Weight - Empty": "6900.5 lbs (3,130 kg)",
+            "Tire Size": "12x16.5"
+        }
+    }
+}

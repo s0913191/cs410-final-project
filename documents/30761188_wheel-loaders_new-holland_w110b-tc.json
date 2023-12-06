@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/new-holland/w110b-tc/30761188",
+    "source_url_id": "30761188",
+    "source_url_model": "w110b-tc",
+    "source_url_make": "new-holland",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:31.211241",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "W110B TC",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "FPT",
+            "Model": "445TA/EGE",
+            "Net Power": "124 hp (92 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2.1 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "25678 lbs (11,648 kg)"
+        }
+    }
+}

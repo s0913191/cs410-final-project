@@ -1,0 +1,84 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/nissan/pfd175h/30757107",
+    "source_url_id": "30757107",
+    "source_url_model": "pfd175h",
+    "source_url_make": "nissan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:37:45.992029",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Nissan",
+    "equipment_model": "PFD175H",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Drum and shoe",
+            "Service brake": "Mechinical Hand Lever"
+        },
+        "Chassis": {
+            "Headroom": "45.3 in (114 cm)"
+        },
+        "Dimensions": {
+            "Fork Size Length": "48.1 in (122 cm)",
+            "Fork Size Thickness": "2.6 in (5 cm)",
+            "Fork Size Width": "6 in (15 cm)",
+            "Fork Spread Max": "6.6 ft (2 m)",
+            "Fork Spread Min-outer edge to edge": "13.4 in (33 cm)",
+            "Ground Clearance": "9.7 in (23 cm)",
+            "Height to Top of Overhead Guard": "8.7 ft (2 m)",
+            "Length to Fork Face": "13.1 ft (4 m)",
+            "Max Fork Height": "9.9 ft (3 m)",
+            "Overall Height - mast lowered": "8.9 ft (2 m)",
+            "Overall Width": "7.2 ft (2 m)",
+            "Overhang Front": "2.4 ft (1 m)",
+            "Overhang Rear": "2.5 ft (1 m)",
+            "Turning Radius - Minimum": "11909.5 ft (3,630 m)",
+            "Wheelbase": "8.3 ft (2 m)"
+        },
+        "Electrical System": {
+            "Battery": "24V"
+        },
+        "Engine": {
+            "Displacement": "317.4 cu in (0 m)",
+            "Engine Model": "ISUZU 4HK1-TC",
+            "Fuel Type": "Diesel",
+            "Model Name": "L1F6F80V",
+            "Number of Cylinders": "4",
+            "Power": "116.7 hp (87 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque": "359 lbs/ft",
+            "Torque Measured @": "1500 rpm"
+        },
+        "MAST": {
+            "Load Capacity": "17637 lbs (8,000 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Mast Extended height with LBR": "174.1 in (442 cm)",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "counter weight height": "63.4 in (160 cm)",
+            "Fuel Capacity": "37 gal (140 l)",
+            "Hydraulic System Relief Valve Pressure": "2900 psi",
+            "Max Speed": "19.9 mph (31 kph)",
+            "Number of Front Wheels": "4X",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "24758 lbs (11,230 kg)",
+            "Tire Type": "Pneumatic"
+        },
+        "Performance": {
+            "Drawbar Pull Max -Full Load": "13444 lbs (6,098 kg)",
+            "Drawbar Pull Max -No Load": "6182 lbs (2,804 kg)",
+            "Gradeability Max  No Load": "20  \t\u00b0",
+            "Gradeability Max Full Load": "28  \t\u00b0"
+        },
+        "Tires": {
+            "Front Tires Size": "9.00 X 20-14 PR",
+            "Front Wheels": "63 in (160 cm)",
+            "Rear Tires Size": "9.00 X 20-14 PR",
+            "Rear Wheels": "67 in (170 cm)"
+        },
+        "Transmission": {
+            "Travelspeeds(BACKWRD)Speed range": "2-2",
+            "Type - TTS870": "Automatic Powershift"
+        }
+    }
+}

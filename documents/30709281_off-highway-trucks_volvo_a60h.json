@@ -1,0 +1,88 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/volvo/a60h/30709281",
+    "source_url_id": "30709281",
+    "source_url_model": "a60h",
+    "source_url_make": "volvo",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:57.923991",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "A60H",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Body": {
+            "Plate thickness-Bottom": "0.7 in (0 cm)",
+            "Plate thickness-Chute": "0.7 in (0 cm)",
+            "Plate thickness-Front": "0.4 in (0 cm)",
+            "Plate thickness-Sides": "0.6 in (0 cm)"
+        },
+        "Capacities": {
+            "Brake cooling system": "34.7 gal (129 l)",
+            "Cooling System": "19.9 gal (72 l)",
+            "Crankcase": "14.6 gal (53 l)",
+            "DEF Tank": "15.9 gal (57 l)",
+            "Dropbox": "3.2 gal (11 l)",
+            "Fuel Tank": "198.2 gal (749 l)",
+            "Hydraulic Tank": "52.4 gal (197 l)",
+            "Transmission": "15.4 gal (57 l)"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "3.4 ft (1 m)",
+            "Dump Height": "26.2 ft (8 m)",
+            "Ground Clearance": "2.3 ft (1 m)",
+            "Overall Height": "12.7 ft (4 m)",
+            "Overall Length": "40.2 ft (12 m)",
+            "Overall Width": "20.8 ft (6 m)",
+            "Wheelbase": "10.9 ft (3 m)"
+        },
+        "Drive System": {
+            "Axles": "AHW80",
+            "Dropbox": "IL3 ATC",
+            "Torque converter": "1.85:1",
+            "Transmission": "6630 ORS"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x6 and 6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "44 cu yds (34 m)",
+            "Capacity - Struck": "33.8 cu yds (25 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "10 sec",
+            "Rated Payload": "60.6 t (54,431 kg)"
+        },
+        "Electrical System": {
+            "Alternator": "2.264/80",
+            "Battery": "2x12",
+            "Battery capacity": "2x225",
+            "Starter motor": "9",
+            "Voltage": "24"
+        },
+        "Engine": {
+            "Displacement": "982 cu in (0 m)",
+            "Engine Model": "D16J",
+            "Gross Torque": "2183.2 lbs/ft",
+            "Horsepower per SAE J1349 Net": "626 hp (467 kw)",
+            "Horsepower, Gross-SAE J1995": "630 hp (470 kw)",
+            "Make": "Volvo",
+            "Max Engine Speed": "1800 rpm",
+            "Model": "D16J",
+            "Net Torque": "2170 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Maximum system pressure": "4061 psi"
+        },
+        "Transmission": {
+            "Max Speed": "34.2 mph (55 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Auto"
+        },
+        "Weights": {
+            "Operating Weight": "217700 lbs (98,748 kg)",
+            "Total Operating Weight": "217706.5 lbs (98,751 kg)"
+        }
+    }
+}

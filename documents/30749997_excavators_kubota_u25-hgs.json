@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/u25-hgs/30749997",
+    "source_url_id": "30749997",
+    "source_url_model": "u25-hgs",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:33.956837",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "U25-HGS",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Lift Height": "14.2 in (36 cm)",
+            "Maximum Drop below ground": "1.1 ft (0 m)",
+            "Overall Height": "7.7 ft (2 m)"
+        },
+        "Boom": {
+            "Boom swing left": "75  \t\u00b0",
+            "Boom swing right": "55  \t\u00b0"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "9.3 ft (3 m)",
+            "Max Digging Height": "14.9 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "8.5 ft (2 m)",
+            "Max.Dumping Height": "10.6 ft (3 m)",
+            "Mximum dig radius": "187.8 in (475 cm)"
+        },
+        "Dimensions": {
+            "Crawler length": "5.3 ft (2 m)",
+            "Ground Clearance": "0.5 ft (0 m)",
+            "Overall length": "11.7 ft (3 m)",
+            "Tail Swing Radius": "2.5 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "4180.2 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "D1105-E3",
+            "Gross Power": "20.9 hp (15 kw)",
+            "Model Name": "U25-HGS",
+            "Net Power": "19.8 hp (14 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Auxiliary hydraulic flow": "12.7 gal/min (45 l/min)",
+            "Fuel Capacity": "7.4 gal (27 l)",
+            "Hydraulic Pump Flow Capacity": "5.9 gal/min (19 l/min)",
+            "Hydraulic System Fluid Capacity": "9.8 gal (34 l)",
+            "Operating Weight": "5610.8 lbs (2,545 kg)",
+            "Travel speed, high range": "2.8 mph (3 kph)",
+            "Travel speed, low range": "1.6 mph (2 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.8 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "6745 lbs (3,060 kg)",
+            "Ground Pressure": "3.4 psi",
+            "Shoe Size": "11.9 in (28 cm)"
+        }
+    }
+}

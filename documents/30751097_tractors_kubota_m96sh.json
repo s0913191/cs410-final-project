@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m96sh/30751097",
+    "source_url_id": "30751097",
+    "source_url_model": "m96sh",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:02.863110",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M96SH",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "6.7 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.6 ft (2 m)",
+            "Overall Length": "13.6 in (33 cm)",
+            "Overall Width": "7.6 ft (2 m)",
+            "Wheelbase": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Model": "V3800-DI-T",
+            "Net Power": "95 hp (71 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "84 hp (63 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "17.2 gal/min (64 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4629.8 lbs (2,100 kg)",
+            "Alternator Supplied Amperage": "45  A",
+            "Fuel Capacity": "46.3 gal (174 l)",
+            "Operating Weight": "6261.2 lbs (2,840 kg)",
+            "Tire Size Front - 2wd / 4wd": "10.00-16",
+            "Turning Radius": "12.5 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4-30"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "fully synchronized"
+        }
+    }
+}

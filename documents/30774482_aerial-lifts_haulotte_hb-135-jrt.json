@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/hb-135-jrt/30774482",
+    "source_url_id": "30774482",
+    "source_url_model": "hb-135-jrt",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:27.799630",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HB 135 JRT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "507-992 lbs (230 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "140.5 ft (43 m)",
+            "Platform Size": "8x2.6 ft (2 m)",
+            "Stowed Height": "10 ft (3 m)",
+            "Stowed Width": "8.1 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "445/65-22.5"
+        },
+        "Transmission": {
+            "4WD": "yes"
+        }
+    }
+}

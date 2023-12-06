@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/salford/cs6060-laterale/30752486",
+    "source_url_id": "30752486",
+    "source_url_model": "cs6060-laterale",
+    "source_url_make": "salford",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:39.544578",
+    "equipment_category": "Combines",
+    "equipment_make": "Salford",
+    "equipment_model": "CS6060 Laterale",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Self Leveling?": "0.25",
+            "Total Cleaning Area": "6696.1 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "13 ft (4 m)",
+            "Overall Length": "26.8 ft (8 m)",
+            "Width Over Tires": "11.4 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "6.7 I (*)",
+            "Power": "258 hp (192 kw)",
+            "Power Boost Power": "272 hp (203 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "198.7 bu",
+            "Unloading Speed": "2.1 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Number of Gears": "3",
+            "Operating Weight w/o Attachment": "26058.7 lbs (11,820 kg)",
+            "Transmission Type": "hydrostatic"
+        },
+        "Separating": {
+            "Discharge Grate Area": "9346.6 cu in (0 m)",
+            "Separating Area": "8354.6 cu in (0 m)",
+            "Separator Length": "23.3 in (58 cm)",
+            "Separator Type": "Rotary"
+        },
+        "Threshing": {
+            "Rotor Diameter": "23.9 in (58 cm)",
+            "Rotor Length": "51.2 in (130 cm)",
+            "Rotor Speed - High": "1140 rpm",
+            "Rotor Speed - Low": "440 rpm"
+        }
+    }
+}

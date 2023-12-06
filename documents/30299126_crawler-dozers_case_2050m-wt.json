@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/2050m-wt/30299126",
+    "source_url_id": "30299126",
+    "source_url_model": "2050m-wt",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:21.383139",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "2050M WT",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Case",
+            "Model": "F4HFE613W Tier IV Interim",
+            "Net Power": "214 hp (160 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "46891 lbs (21,270 kg)"
+        }
+    }
+}

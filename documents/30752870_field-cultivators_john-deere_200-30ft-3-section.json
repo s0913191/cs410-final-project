@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/field-cultivators/john-deere/200-30ft-3-section/30752870",
+    "source_url_id": "30752870",
+    "source_url_model": "200-30ft-3-section",
+    "source_url_make": "john-deere",
+    "source_url_category": "field-cultivators",
+    "source_date_scraped": "2023-09-13 17:04:50.205445",
+    "equipment_category": "Field Cultivators",
+    "equipment_make": "John Deere",
+    "equipment_model": "200 30ft 3 section",
+    "equipment_spec": {
+        "Dimensions": {
+            "PTO Power Required per Width Ft.": "1 hp (1 kw)",
+            "Transport Width": "19.3 ft (6 m)"
+        },
+        "Frame": {
+            "Frame Type": "Single-fold",
+            "Main Frame Width": "15 ft (5 m)",
+            "Max Working Width": "30 ft (9 m)",
+            "Min Working Width": "30 ft (9 m)"
+        },
+        "Harrow": {
+            "Basket Diameter": "14 in (36 cm)",
+            "Option 3 Type": "Roller Basket"
+        },
+        "Operating Specifications": {
+            "Number of Sections": "3"
+        },
+        "Tires": {
+            "Tires": "9.5L -15FI Load Range D tires"
+        }
+    }
+}

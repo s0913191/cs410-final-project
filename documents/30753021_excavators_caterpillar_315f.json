@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/315f/30753021",
+    "source_url_id": "30753021",
+    "source_url_model": "315f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:47.403230",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "315F",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "19.5 ft (6 m)",
+            "Max Reach Along Ground": "28.5 ft (9 m)"
+        },
+        "Engine": {
+            "Net Power": "97.0 hp (72 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "33160 lbs (15,041 kg)"
+        }
+    }
+}

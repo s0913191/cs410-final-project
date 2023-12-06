@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/8052/17701",
+    "source_url_id": "17701",
+    "source_url_model": "8052",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:04:51.953310",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "8052",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "18.2 ft (5 m)",
+            "Max Digging Depth": "13.1 ft (4 m)",
+            "Max Loading Height": "13.5 ft (4 m)",
+            "Max Reach Along Ground": "19.9 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "8 ft (2 m)",
+            "Shipping Height of Unit": "8.5 ft (2 m)",
+            "Shipping Length of Unit": "15.8 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Removal Counterweight Clearance": "2.1 ft (1 m)",
+            "Tail Swing Radius": "4.3 ft (1 m)",
+            "Width to Outside of Tracks": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134 cu in (0 m)",
+            "Engine Model": "404-22",
+            "Gross Power": "47.8 hp (35 kw)",
+            "Max Torque": "104 lbs/ft",
+            "Net Power": "46.5 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "Torque Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "2.2 gal (8 l)",
+            "Engine Oil Capacity": "1.4 gal (4 l)",
+            "Fuel Capacity": "18.5 gal (68 l)",
+            "Hydraulic Pump Flow Capacity": "33 gal/min (125 l/min)",
+            "Hydraulic System Fluid Capacity": "17.7 gal (64 l)",
+            "Hydraulic System Relief Valve Pressure": "3626 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "11466 lbs (5,201 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.7 psi",
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Number of Track Rollers per Side": "5",
+            "Shoe Size": "15.8 in (38 cm)"
+        }
+    }
+}

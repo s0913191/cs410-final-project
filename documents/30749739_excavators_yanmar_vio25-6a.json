@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/yanmar/vio25-6a/30749739",
+    "source_url_id": "30749739",
+    "source_url_model": "vio25-6a",
+    "source_url_make": "yanmar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:48.085940",
+    "equipment_category": "Excavators",
+    "equipment_make": "Yanmar",
+    "equipment_model": "ViO25-6A",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Boom Swing - Left": "47  \t\u00b0",
+            "Boom Swing - Right": "74  \t\u00b0",
+            "Max Digging Depth": "10.4 ft (3 m)",
+            "Max Reach Along Ground": "16.11 ft (5 m)"
+        },
+        "Bucket": {
+            "Arm digging Force": "5203 lbs (2,360 kg)",
+            "Bucket digging Force - SAE": "4079 lbs (1,850 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Tail Swing Radius": "2.5 ft (1 m)",
+            "Width to Outside of Tracks": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "YANMAR",
+            "Engine Model": "3TNV80F-SXNBV",
+            "Net Power": "20.4 hp (15 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "8.1 gal (30 l)",
+            "Hydraulic Pump Flow Capacity": "7.9 gal/min (27 l/min)",
+            "Operating Weight": "5919 lbs (2,685 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "2987 psi",
+            "Max Travel Speed": "2.8 mph (3 kph)"
+        }
+    }
+}

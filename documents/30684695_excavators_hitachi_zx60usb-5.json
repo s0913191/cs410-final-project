@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx60usb-5/30684695",
+    "source_url_id": "30684695",
+    "source_url_model": "zx60usb-5",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:02:16.542775",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX60USB-5",
+    "equipment_spec": {
+        "Blades": {
+            "Maximum Drop below ground": "1.3 ft (0 m)",
+            "Maximum lift above ground": "1.6 ft (0 m)"
+        },
+        "Boom": {
+            "Boom swing left": "80  \t\u00b0",
+            "Boom swing right": "60  \t\u00b0"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "19.7 ft (6 m)",
+            "Max Digging Depth": "12.4 ft (4 m)",
+            "Max Digging Reach": "20.5 ft in (51 cm)",
+            "Max Reach Along Ground": "20.5 ft (6 m)",
+            "Max.Dumping Height": "13.8 ft (4 m)",
+            "Minimum swing radius": "96.5 in (244 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "20.4 ft (6 m)",
+            "Max Digging Depth": "13.6 ft (4 m)",
+            "Max Digging Reach": "21.6 ft (6 m)",
+            "Max.Dumping Height": "14.6 ft (4 m)",
+            "Minimum swing radius": "100 in (254 cm)"
+        },
+        "Bucket": {
+            "Arm digging Force": "6991.6 lbs (3,171 kg)",
+            "Bucket digging Force - SAE": "9239.7 lbs (4,191 kg)"
+        },
+        "Capacities": {
+            "Cooling system": "2.1 gal (8 l)",
+            "Engine oil with filter": "3 gal (11 l)",
+            "Fuel Tank": "31.8 gal (117 l)",
+            "Hydraulic Tank": "21.2 gal (79 l)"
+        },
+        "Dimensions": {
+            "Counterweight Clearance": "2.1 ft (1 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Tail Swing Radius": "4.3 ft (1 m)",
+            "Track length": "98.5 in (249 cm)",
+            "Track width": "1312.4 ft (400 m)"
+        },
+        "Engine": {
+            "Alternator": "55 A",
+            "Displacement": "201.4 cu in (0 m)",
+            "Emission Tier Level": "EPA Final Tier 4",
+            "Engine Model": "4TNV98C",
+            "Net Power": "53.2 hp (40 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "24.4 gal/min (91 l/min)"
+        },
+        "Operating Specifications": {
+            "Blade height": "16.6 in (41 cm)",
+            "Operating Weight": "13547 lbs (6,145 kg)"
+        },
+        "Performance": {
+            "Travel speed  low": "1.9 mph (2 kph)",
+            "Travel Speed - High": "3 mph (5 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.5 rpm"
+        }
+    }
+}

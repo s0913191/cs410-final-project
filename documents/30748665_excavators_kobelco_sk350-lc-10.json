@@ -1,0 +1,87 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk350-lc-10/30748665",
+    "source_url_id": "30748665",
+    "source_url_model": "sk350-lc-10",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:44.514877",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK350 LC-10",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Crowd Force - SAE": "44062.6 lbs (19,986 kg)",
+            "Bucket Digging Force - ISO": "51031.7 lbs (23,148 kg)",
+            "Bucket Digging Force - SAE": "45861.1 lbs (20,802 kg)",
+            "Max Digging Depth": "22.6 ft (7 m)",
+            "Max Digging Height": "33.8 ft (10 m)",
+            "Max Digging Reach": "34.1 ft (10 m)",
+            "Max Digging Reach on Ground": "34.1 ft (10 m)",
+            "Max Dumping Clearance": "23.2 ft (7 m)",
+            "Max Reach Along Ground": "36.9 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "19.2 ft (6 m)",
+            "Min Dumping Clearance": "10.2 ft (3 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Digging Depth": "24.1 ft (7 m)",
+            "Max Digging Reach": "36.2 ft (11 m)",
+            "Max Digging Reach on Ground": "36.3 ft (11 m)",
+            "Max Dumping Clearance": "24.2 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "21.8 ft (6 m)",
+            "Min Dumping Clearance": "8.7 ft (2 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Digging Depth": "27.7 ft (8 m)",
+            "Max Digging Reach on Ground": "38.8 ft (12 m)",
+            "Max Dumping Clearance": "24.8 ft (7 m)",
+            "Min Dumping Clearance": "5.1 ft (2 m)",
+            "Minimum swing radius": "14.6 in (36 cm)"
+        },
+        "Capacities": {
+            "Cooling system": "9.3 gal (34 l)",
+            "Diesel exhaust fluid (DEF) tank": "22 gal (83 l)",
+            "Engine Oil": "7.6 gal (27 l)",
+            "Fuel Tank": "132.9 gal (500 l)",
+            "Hydraulic system": "108.4 gal (409 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Overall Length": "444.9 in (1,128 cm)",
+            "Overall width -Upper Structure": "10.3 ft (3 m)",
+            "Tail Swing Radius": "11.9 ft (3 m)",
+            "Track Gauge": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.5 in (10 cm)",
+            "Displacement": "469 cu in (0 m)",
+            "Emission Tier Level": "EPA Tier 4 Final",
+            "Engine Model": "HINO J08EVV-KSDK",
+            "Engine Type": "Water-cooled",
+            "Max Digging Reach": "39.3 ft (12 m)",
+            "Max Torque": "729.5 lbs/ft",
+            "Net Power": "269.6 hp (201 kw)",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5.2 in (13 cm)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "155.4": "155.4 gal/min gal/min (587 l/min)",
+            "Boom cylinder": "5.6 in (13 cm)",
+            "Bucket  cylinder": "0.5 ft (0 m)",
+            "Pump Type": "Two variable displacement pumps + One gear pump"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "83300 lbs (37,785 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing radius": "11.9 ft (3 m)",
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3.7 mph (5 kph)"
+        },
+        "Weights": {
+            "Operating weight": "80689.2 lbs (36,600 kg)"
+        }
+    }
+}

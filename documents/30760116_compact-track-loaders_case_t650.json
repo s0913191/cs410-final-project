@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/case/t650/30760116",
+    "source_url_id": "30760116",
+    "source_url_model": "t650",
+    "source_url_make": "case",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:41.076321",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "T650",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2570 lbs (1,166 kg)",
+            "Operating Width": "72.9 in (183 cm)"
+        }
+    }
+}

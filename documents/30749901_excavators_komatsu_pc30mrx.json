@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc30mrx/30749901",
+    "source_url_id": "30749901",
+    "source_url_model": "pc30mrx",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:11:19.800904",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC30MRx",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "15.1 ft (5 m)",
+            "Max Digging Depth": "9.4 ft (3 m)",
+            "Max Loading Height": "10.3 ft (3 m)",
+            "Max Reach Along Ground": "16.6 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8.4 ft (2 m)",
+            "Shipping Height of Unit": "8.1 ft (2 m)",
+            "Shipping Length of Unit": "15.3 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "15.9 ft (5 m)",
+            "Max Digging Depth": "10.6 ft (3 m)",
+            "Max Loading Height": "11.1 ft (3 m)",
+            "Max Reach Along Ground": "17.8 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "9.7 ft (3 m)",
+            "Shipping Height of Unit": "8.1 ft (2 m)",
+            "Shipping Length of Unit": "15.3 ft (5 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Length of Track on Ground": "6.8 ft (2 m)",
+            "Tail Swing Radius": "2.9 ft (1 m)",
+            "Width to Outside of Tracks": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "91.3 cu in (0 m)",
+            "Engine Model": "3D84E-3KJ",
+            "Net Power": "28.2 hp (21 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "1.5 gal (4 l)",
+            "Engine Oil Capacity": "2.1 gal (8 l)",
+            "Fuel Capacity": "11.1 gal (42 l)",
+            "Hydraulic Pump Flow Capacity": "19.4 gal/min (72 l/min)",
+            "Hydraulic System Fluid Capacity": "7.6 gal (27 l)",
+            "Hydraulic System Relief Valve Pressure": "3843.6 psi",
+            "Operating Weight": "7539.9 lbs (3,420 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.3 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.8 psi",
+            "Max Travel Speed": "2.9 mph (3 kph)",
+            "Shoe Size": "11.9 in (28 cm)",
+            "Track Gauge": "4.2 ft (1 m)"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/ls-308h-ii/23892",
+    "source_url_id": "23892",
+    "source_url_model": "ls-308h-ii",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:50.947229",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "LS-308H II",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "160 ft (49 m)",
+            "Max Lift Capacity": "110 t (99,790 kg)"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/cc2000-1/30760267",
+    "source_url_id": "30760267",
+    "source_url_model": "cc2000-1",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:07.930600",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "CC2000-1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "552 ft (168 m)",
+            "Max Lift Capacity": "330 t (299,371 kg)"
+        }
+    }
+}

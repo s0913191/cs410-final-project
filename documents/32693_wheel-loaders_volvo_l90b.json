@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l90b/32693",
+    "source_url_id": "32693",
+    "source_url_model": "l90b",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:21.877528",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L90B",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "3.3 cu yds (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "TD 61 GB",
+            "Gross Power": "156 hp (116 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "27778.3 lbs (12,600 kg)",
+            "Static Tipping Weight": "22046.3 lbs (10,000 kg)",
+            "Tire Size": "20.5R25"
+        },
+        "Transmission": {
+            "Transmission Type": "Volvo BM Automatic Power Shift"
+        }
+    }
+}

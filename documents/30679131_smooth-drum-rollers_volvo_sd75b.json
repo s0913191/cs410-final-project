@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/sd75b/30679131",
+    "source_url_id": "30679131",
+    "source_url_model": "sd75b",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:38.100084",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "SD75B",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "66 Inches",
+            "Vibration Frequency": "30.8 hz (1,800 vpm)"
+        }
+    }
+}

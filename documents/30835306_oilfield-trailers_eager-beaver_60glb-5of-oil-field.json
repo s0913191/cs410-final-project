@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/oilfield-trailers/eager-beaver/60glb-5of-oil-field/30835306",
+    "source_url_id": "30835306",
+    "source_url_model": "60glb-5of-oil-field",
+    "source_url_make": "eager-beaver",
+    "source_url_category": "oilfield-trailers",
+    "source_date_scraped": "2023-09-13 17:54:34.703083",
+    "equipment_category": "Oilfield Trailers",
+    "equipment_make": "Eager Beaver",
+    "equipment_model": "60GLB-5OF (Oil Field)",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "43.5x8.5 ft (13 m)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "5",
+            "Suspension Type": "Air Ride"
+        },
+        "Weights": {
+            "Equipment Weight": "28600 lbs (12,973 kg)",
+            "Weight Capacity": "120000 lbs (54,432 kg)"
+        }
+    }
+}

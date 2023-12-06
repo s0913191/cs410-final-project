@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/goldoni/aster-40/30751318",
+    "source_url_id": "30751318",
+    "source_url_model": "aster-40",
+    "source_url_make": "goldoni",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:03.665454",
+    "equipment_category": "Tractors",
+    "equipment_make": "Goldoni",
+    "equipment_model": "Aster 40",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.8 in (28 cm)",
+            "Height - Top of Cab": "7.2 ft (2 m)",
+            "Overall Length": "10.1 in (25 cm)",
+            "Tire Size": "Front 200/70x16, Rear 320/70x24",
+            "Wheelbase": "5.4 ft (2 m)",
+            "Width Outside Frame": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "100.7 cu in (0 m)",
+            "Net Power": "36.3 hp (27 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2800 rpm",
+            "Torque Rise": "20%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8.8 gal/min (30 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Class I",
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Operating Weight": "3648.7 lbs (1,655 kg)",
+            "Turning Radius": "9.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "18.7 mph (29 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12"
+        }
+    }
+}

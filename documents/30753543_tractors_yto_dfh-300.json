@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yto/dfh-300/30753543",
+    "source_url_id": "30753543",
+    "source_url_model": "dfh-300",
+    "source_url_make": "yto",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:39:00.641939",
+    "equipment_category": "Tractors",
+    "equipment_make": "YTO",
+    "equipment_model": "DFH-300",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.8 in (33 cm)",
+            "Height - Top of ROPS/FOPS": "4.9 ft (1 m)",
+            "Overall Length": "11.1 in (28 cm)",
+            "Overall Width": "5.4 ft (2 m)",
+            "Wheelbase": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "SL2105ABT",
+            "Net Power": "29.7 hp (22 kw)",
+            "Number of Cylinders": "2",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "3527.4 lbs (1,600 kg)"
+        }
+    }
+}

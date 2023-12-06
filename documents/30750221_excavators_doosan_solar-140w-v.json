@@ -1,0 +1,82 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/solar-140w-v/30750221",
+    "source_url_id": "30750221",
+    "source_url_model": "solar-140w-v",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:11.667812",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "SOLAR 140W-V",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "26.4 ft (8 m)",
+            "Max Digging Depth": "15.2 ft (5 m)",
+            "Max Loading Height": "18.5 ft (5 m)",
+            "Max Reach Along Ground": "24 ft (7 m)",
+            "Max Vertical Wall Dig Depth": "13.5 ft (4 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "26.4 ft (8 m)",
+            "Max Digging Depth": "14.5 ft (4 m)",
+            "Max Loading Height": "18.5 ft (5 m)",
+            "Max Reach Along Ground": "24 ft (7 m)",
+            "Max Vertical Wall Dig Depth": "13.5 ft (4 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 3": {
+            "Max Cutting Height": "26.2 ft (8 m)",
+            "Max Digging Depth": "15.7 ft (5 m)",
+            "Max Loading Height": "18.9 ft (5 m)",
+            "Max Reach Along Ground": "24.5 ft (7 m)",
+            "Max Vertical Wall Dig Depth": "14.1 ft (4 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 4": {
+            "Max Cutting Height": "27.5 ft (8 m)",
+            "Max Digging Depth": "16.5 ft (5 m)",
+            "Max Loading Height": "19.6 ft (6 m)",
+            "Max Reach Along Ground": "25.4 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "15.4 ft (5 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.9 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.3 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.6 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Overall Width": "8.2 in (20 cm)",
+            "Upper Structure Clearance": "4.1 ft (1 m)",
+            "Wheelbase": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "353 cu in (0 m)",
+            "Engine Model": "DB 58TIS",
+            "Net Power": "128 hp (95 kw)",
+            "Net Torque": "362 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.2 gal (30 l)",
+            "Engine Oil Capacity": "5.1 gal (19 l)",
+            "Fuel Capacity": "74 gal (280 l)",
+            "Hydraulic Pump Flow Capacity": "85.6 gal/min (322 l/min)",
+            "Hydraulic System Fluid Capacity": "44.4 gal (167 l)",
+            "Hydraulic System Relief Valve Pressure": "4978 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "28440 lbs (12,900 kg)",
+            "Tire Size": "9.00-20-14PR(OTR)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.5 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "23 mph (37 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic powershift"
+        }
+    }
+}

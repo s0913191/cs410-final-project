@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/kx71-3hgls/30750017",
+    "source_url_id": "30750017",
+    "source_url_model": "kx71-3hgls",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:27.810119",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "KX71-3HGLS",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Lift Height": "11.9 in (28 cm)",
+            "Blade Width": "5 ft (2 m)",
+            "Maximum Drop below ground": "1.2 ft (0 m)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "9.6 ft (3 m)",
+            "Max Digging Height": "15.5 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "6.9 ft (2 m)",
+            "Max.Dumping Height": "11.5 ft (3 m)",
+            "Mximum dig radius": "189.4 in (480 cm)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height": "11.9 in (28 cm)",
+            "Height - Top of Cab": "8 ft (2 m)",
+            "Length of Track on Ground": "5.3 ft (2 m)",
+            "Shoe width": "1 ft (0 m)",
+            "Tail Swing Radius": "5.3 ft (2 m)",
+            "Width": "5 ft in (13 cm)"
+        },
+        "Electrical System": {
+            "Battery capacity": "55 AH",
+            "Battery voltage": "12VDC",
+            "Engine shut-off": "Key"
+        },
+        "Engine": {
+            "Air filter type": "Dual element",
+            "Displacement": "91.4 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V1505-E4",
+            "Engine Type": "Water cooled",
+            "Fuel Type": "Diesel",
+            "Gross Power": "26.4 hp (19 kw)",
+            "Injection": "Indirect",
+            "Model Name": "KX71-3HGLS",
+            "Net Power": "24.4 hp (18 kw)",
+            "Number of Cylinders": "4",
+            "Oil filtration": "Spin on type",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "1.5 gal (4 l)",
+            "Fuel Capacity": "11.9 gal (42 l)",
+            "Hydraulic Pump Flow Capacity": "8.6 gal/min (30 l/min)",
+            "Hydraulic System Fluid Capacity": "13.4 gal (49 l)",
+            "Operating Weight": "6547.8 lbs (2,970 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.4 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "15837788.7 lbs (7,183,974 kg)",
+            "Ground Pressure": "3.5 psi",
+            "Max Travel Speed": "2.8 mph (3 kph)"
+        }
+    }
+}

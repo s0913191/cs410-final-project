@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/tb100/31055",
+    "source_url_id": "31055",
+    "source_url_model": "tb100",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:29.436813",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "TB100",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "35%",
+            "Ground Clearance": "10.9 in (25 cm)",
+            "Overall Length": "34.6 in (86 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Shipping weight": "39300 lbs (17,826 kg)",
+            "Stowed Height": "9 ft (3 m)",
+            "Tail Swing Radius": "3 ft (1 m)",
+            "Turning Radius": "22.6 ft (7 m)",
+            "Wheel track": "6.9 in (15 cm)",
+            "Wheelbase": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Make": "Ford",
+            "Engine Model": "LRG-425",
+            "Fuel Type": "Gasoline",
+            "Gross Power": "76 hp (57 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "52 gal (197 l)",
+            "Max Speed": "3.1 mph (5 kph)",
+            "Tire Size": "15 x 19.5 13 P.R"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "67.4 ft (20 m)",
+            "Max Platform Height": "100 ft (30 m)",
+            "Max Platform Weight Capacity": "500 lbs (227 kg)",
+            "Max Working Height": "106 ft (32 m)",
+            "Platform Inner Length": "72 in (183 cm)",
+            "Platform Inner Width": "36 in (91 cm)",
+            "Platform Rotation": "160  \t\u00b0"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/sd200f/30760227",
+    "source_url_id": "30760227",
+    "source_url_model": "sd200f",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:33.928341",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "SD200F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "3 ft (1 m)",
+            "Turning Radius - Inside": "11.3 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Frequency": "1700 - 1,850 hz (102,000 - 111,000 vpm)",
+            "Vibration Frequency": "30.8 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "98 in (249 cm)"
+        }
+    }
+}

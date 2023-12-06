@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/m2639j/30758283",
+    "source_url_id": "30758283",
+    "source_url_model": "m2639j",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:29.031957",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "M2639J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height - mast lowered": "6.5 ft (2 m)",
+            "Overall Length": "9.2 in (23 cm)",
+            "Overall Width": "3.3 ft (1 m)",
+            "Turning Radius": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "375",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Max Speed": "1.9 mph (2 kph)",
+            "Operating Weight": "5890.8 lbs (2,672 kg)",
+            "Tire Fill/Type": "solid/non marking"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "9.9 ft (3 m)",
+            "Max Platform Height": "26.3 ft (8 m)",
+            "Max Platform Weight Capacity": "474 lbs (215 kg)",
+            "Max Working Height": "32.9 ft (10 m)",
+            "Platform Inner Length": "31 in (79 cm)",
+            "Platform Inner Width": "29 in (74 cm)"
+        }
+    }
+}

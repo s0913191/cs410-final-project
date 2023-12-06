@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/bobcat/t630/30476910",
+    "source_url_id": "30476910",
+    "source_url_model": "t630",
+    "source_url_make": "bobcat",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:26.803593",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "T630",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Length - with Bucket": "11.4 ft (3 m)",
+            "Length - without Bucket": "9.1 ft (3 m)",
+            "Overall height": "6.8 ft (2 m)",
+            "Overall width": "6.1 ft (2 m)",
+            "Reach at Max Lift and Dump": "2.1 ft (1 m)",
+            "Turning Radius from Center - machine rear": "88.1 in (224 cm)",
+            "Width Over Tracks": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Emission Tier Level": "Tier 4",
+            "Fuel": "Diesel",
+            "Gross Power": "74.3 hp (55 kw)",
+            "Horsepower - Gross": "74 hp (55 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "23 gal/min (87 l/min)",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Loader": {
+            "Operating Load": "2100 lbs (953 kg)",
+            "Operating Width": "74 in (188 cm)",
+            "Tipping Angle": "6000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3 gal (11 l)",
+            "Fuel Capacity": "27.3 gal (102 l)",
+            "Max Speed - low range": "6.6 mph (10 kph)",
+            "Operating Weight": "8555 lbs (3,881 kg)",
+            "Travel Speed": "6.2 mph (10 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.3 psi",
+            "Length of Track on Ground": "58.5 ft (18 m)",
+            "Width of Track": "12.6 in (30 cm)"
+        }
+    }
+}

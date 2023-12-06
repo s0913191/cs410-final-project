@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/yt2/30751630",
+    "source_url_id": "30751630",
+    "source_url_model": "yt2",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:57.798899",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "YT2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.8 in (25 cm)",
+            "Overall height": "7.5 ft (2 m)",
+            "Overall Length": "117 in (297 cm)",
+            "Wheelbase": "5.4 ft (2 m)",
+            "Width": "4.9 ft in (10 cm)"
+        },
+        "Engine": {
+            "Bore": "3.5 in (8 cm)",
+            "Displacement": "100.3 cu in (0 m)",
+            "Engine Make": "Yanmar",
+            "Engine Model": "3TNV88C",
+            "Gross Power": "34.2 hp (25 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2800 rpm",
+            "PTO Power": "27 hp (20 kw)",
+            "Stroke": "3.6 in (8 cm)"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "2425 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1764 lbs (800 kg)",
+            "3 Point Hitch Type": "Category 1",
+            "Fuel Capacity": "7.4 gal (27 l)"
+        },
+        "Transmission": {
+            "Max Speed - Reverse": "8.2 mph (13 kph)",
+            "Transmission Type": "Hydrostatic -Dual Touch Pedal"
+        }
+    }
+}

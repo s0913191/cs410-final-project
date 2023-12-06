@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/walk-tow-behind-compactors/bomag/bw-219-pd-2/30753906",
+    "source_url_id": "30753906",
+    "source_url_model": "bw-219-pd-2",
+    "source_url_make": "bomag",
+    "source_url_category": "walk-tow-behind-compactors",
+    "source_date_scraped": "2023-09-13 17:46:10.001953",
+    "equipment_category": "Walk / Tow Behind Compactors",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 219 PD-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "19.7 in (48 cm)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Overall Length w/o Blade": "19.8 ft (6 m)",
+            "Wheelbase": "10.2 in (25 cm)",
+            "Width Over Tires": "6.9 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "70972.2 lbs (32,193 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Number of Pads": "150",
+            "Pad Surface Area": "22.2 cu in (0 m)",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Engine Model": "BF6L913",
+            "Gross Power": "169.6 hp (126 kw)",
+            "Net Power": "160.5 hp (119 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "42937.3 lbs (19,476 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1/18-26/8PR"
+        }
+    }
+}

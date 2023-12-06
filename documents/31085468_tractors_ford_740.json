@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/740/31085468",
+    "source_url_id": "31085468",
+    "source_url_model": "740",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:32.207776",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "740",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "33  hp"
+        },
+        "Production": {
+            "Series": "700 Series",
+            "Year Manufactured": "1954 - 1957"
+        }
+    }
+}

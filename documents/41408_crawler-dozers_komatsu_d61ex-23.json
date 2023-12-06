@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d61ex-23/41408",
+    "source_url_id": "41408",
+    "source_url_model": "d61ex-23",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:43.617133",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D61Ex-23",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Length w/o Blade": "18 ft (5 m)",
+            "Width Over Tracks": "10.7 ft in (25 cm)"
+        },
+        "Engine": {
+            "Displacement": "408.3 cu in (0 m)",
+            "Engine Model": "SAA6D107E-2",
+            "Gross Power": "169 hp (126 kw)",
+            "Make": "Komatsu",
+            "Model": "SAA6D107E-2",
+            "Net Power": "168 hp (125 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "98.3 gal (371 l)",
+            "Operating Weight": "41138.3 lbs (18,660 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.6 mph (8 kph)",
+            "Max Speed - Reverse": "5.6 mph (8 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "46",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "33.9 in (84 cm)"
+        }
+    }
+}

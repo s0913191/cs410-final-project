@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/case/90xt/2537",
+    "source_url_id": "2537",
+    "source_url_model": "90xt",
+    "source_url_make": "case",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:53.582080",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "90XT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.9 ft (2 m)",
+            "Ground Clearance": "9.1 in (23 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length w/o Bucket": "8.8 ft (2 m)",
+            "Length with Bucket": "11.5 ft (3 m)",
+            "Reach at Max Lift and Dump": "26.7 in (66 cm)",
+            "Turning Radius from Center - inc bucket": "84.3 in (213 cm)",
+            "Turning Radius from Center - machine rear": "62.3 in (157 cm)",
+            "Wheelbase": "3.9 ft (1 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "4T-390",
+            "Gross Power": "74 hp (55 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "25.1 gal/min (95 l/min)",
+            "Pump Type": "gear pump with integrated constant pressure valve",
+            "Relief Valve Pressure": "3002 psi"
+        },
+        "Loader": {
+            "Breakout Force": "5290 psi",
+            "Bucket Capacity": "0.8 cu yds (0 m)",
+            "Operating Load Rating": "2450 lbs (1,111 kg)",
+            "Tipping Angle": "4900  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Chain Box Fluid Capacity - each side": "2.1 gal (8 l)",
+            "Cooling System Fluid Capacity": "4.4 gal (15 l)",
+            "Engine Oil Fluid Capacity": "2.8 gal (8 l)",
+            "Fuel Capacity": "20.7 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "17 gal (64 l)",
+            "Max Speed": "11.1 mph (18 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "8950 lbs (4,060 kg)",
+            "Tire Size": "15.5x16.5"
+        }
+    }
+}

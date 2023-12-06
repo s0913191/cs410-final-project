@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/new-holland/cr9040/26302",
+    "source_url_id": "26302",
+    "source_url_model": "cr9040",
+    "source_url_make": "new-holland",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:17.488640",
+    "equipment_category": "Combines",
+    "equipment_make": "New Holland",
+    "equipment_model": "CR9040",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning system width": "52.1 in (132 cm)",
+            "Total Cleaning Area": "8370.1 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "13 ft (4 m)",
+            "Transport width": "10.9 ft (3 m)",
+            "Turning Radius": "14.5 ft (4 m)",
+            "Wheelbase": "12.4 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "549 cu in (0 m)",
+            "Number of Cylinders": "6",
+            "Power": "371.5 hp (277 kw)",
+            "Power Boost Power": "51 hp (38 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "315 bu",
+            "Unloading Speed": "3.2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "198.2 gal (749 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "34308.4 lbs (15,562 kg)",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Threshing": {
+            "Rotor Diameter": "17.1 in (43 cm)",
+            "Rotor Length": "104.1 in (264 cm)"
+        }
+    }
+}

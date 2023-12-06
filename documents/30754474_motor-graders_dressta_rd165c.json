@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/dressta/rd165c/30754474",
+    "source_url_id": "30754474",
+    "source_url_model": "rd165c",
+    "source_url_make": "dressta",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:42.061217",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Dressta",
+    "equipment_model": "RD165C",
+    "equipment_spec": {
+        "Circle": {
+            "Diameter": "53.2 in (135 cm)",
+            "Max Lift Above Ground": "19.7 in (48 cm)",
+            "Rotation": "360  \t\u00b0"
+        },
+        "Dimensions": {
+            "Blade Base": "8.6 ft (2 m)",
+            "Height to Top of Isomount Cab": "11.5 ft (3 m)",
+            "Overall Length": "28.6 ft (9 m)",
+            "Tandem Axle Wheelbase": "5 ft (2 m)",
+            "Wheelbase": "20.9 ft (6 m)",
+            "Width Over Tires": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged and CAC",
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Model": "QSB 6.7",
+            "Max Power": "160 hp (119 kw)",
+            "Net Power Gear 5-6": "160 hp (119 kw)",
+            "Net Torque Gears 5-6": "590.1 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Oscillation - Total": "40  \t\u00b0",
+            "Wheel Lean": "22  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "16.3 gal/min (61 l/min)",
+            "Pump Type": "axial piston pump",
+            "Relief Valve Pressure": "2030.6 psi"
+        },
+        "Moldboard": {
+            "Max Depth of Cut": "13.8 in (33 cm)",
+            "Moldboard Height": "25.6 in (64 cm)",
+            "Moldboard Thickness": "0.7 in (0 cm)",
+            "Moldboard Width": "12 ft (4 m)",
+            "Side Shift Left": "31.5 in (79 cm)",
+            "Side Shift Right": "31.5 in (79 cm)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Fuel Capacity": "85.9 gal (322 l)",
+            "Hydraulic System Fluid Capacity": "31 gal (117 l)",
+            "Operating Voltage": "24 V V",
+            "Rear Diff/Final Drive Fluid Capacity": "9.3 gal (34 l)",
+            "Std Operation Weight - Total": "31526.2 lbs (14,300 kg)",
+            "Tandem Case Fluid Capacity (each)": "6.7 gal (23 l)",
+            "Tire Size": "16.9-24 IND TI04 12PR",
+            "Transmission Fluid Capacity": "9.3 gal (34 l)"
+        },
+        "Steering System": {
+            "Articulation Angle": "27  \t\u00b0",
+            "Turning Radius": "23 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "16.8 mph (26 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "3",
+            "Transmission Type": "powershift transmission"
+        }
+    }
+}

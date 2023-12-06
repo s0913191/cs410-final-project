@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/landini/landpower-125-tdi/30751825",
+    "source_url_id": "30751825",
+    "source_url_model": "landpower-125-tdi",
+    "source_url_make": "landini",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:45.207442",
+    "equipment_category": "Tractors",
+    "equipment_make": "Landini",
+    "equipment_model": "Landpower 125 TDI",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "20.5 in (51 cm)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Overall Length": "16.9 in (41 cm)",
+            "Tire Size": "3Front 80/70R28, Rear 480/70R38",
+            "Wheelbase": "9.2 ft (3 m)",
+            "Width Outside Frame": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo/air-to-air intercooler",
+            "Displacement": "365 cu in (0 m)",
+            "Engine Model": "1106-E60TA",
+            "Gross Power": "117.6 hp (87 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "107 hp (80 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "25.7 gal/min (95 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat 2 and 3",
+            "Fuel Capacity": "68 gal (257 l)",
+            "Operating Weight": "12760 lbs (5,788 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "72",
+            "Number of Reverse Gears": "72",
+            "Transmission Type": "Power six, speed six"
+        }
+    }
+}

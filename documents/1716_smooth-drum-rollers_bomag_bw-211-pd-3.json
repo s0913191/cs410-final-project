@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-211-pd-3/1716",
+    "source_url_id": "1716",
+    "source_url_model": "bw-211-pd-3",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:15.013993",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 211 PD-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "4.9 ft (1 m)",
+            "Ground Clearance": "19.3 in (48 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length": "18.5 in (46 cm)",
+            "Overall Length w/o Blade": "18.5 ft (5 m)",
+            "Overall Width": "7.4 ft (2 m)",
+            "Turning Radius - Inside": "137.6 in (348 cm)",
+            "Wheelbase": "9.5 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "61822.5 lbs (28,042 kg)",
+            "Centrifugal Force - Low": "44512.2 lbs (20,191 kg)",
+            "Drum Diameter": "60.3 in (152 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Frequency": "1800 - 2,160 hz (108,000 - 129,600 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency": "1,800-2,160 hz (108,000 vpm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibration Frequency 2": "36 hz (2,160 vpm)",
+            "Vibratory Frequency 2": "36 hz (2,160 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BF4M2012C",
+            "Gross Power": "131.5 hp (98 kw)",
+            "Make": "Deutz",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Max Speed": "8.4 mph (13 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "25088.7 lbs (11,380 kg)",
+            "Operating Width": "88.6 in (224 cm)"
+        },
+        "Tires": {
+            "Tires": "23.1/18-26/12PR"
+        }
+    }
+}

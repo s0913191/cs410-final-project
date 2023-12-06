@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd-70hf/30783713",
+    "source_url_id": "30783713",
+    "source_url_model": "dd-70hf",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:35.326048",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD-70HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "22 in (56 cm)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Overall Length": "14.5 in (36 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "21080 lbs (9,562 kg)",
+            "Centrifugal Force - Low": "7820 lbs (3,547 kg)",
+            "Drum Diameter": "3.4 in (8 cm)",
+            "Drum Width": "57.1 in (145 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "Naturally aspirated 4-cylinder",
+            "Engine Model": "4B 3.9",
+            "Net Power": "80 hp (60 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "37 gal (140 l)",
+            "Hydraulic System Fluid Capacity": "17 gal (64 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "14895 lbs (6,756 kg)"
+        }
+    }
+}

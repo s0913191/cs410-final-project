@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/versatile/485/34648",
+    "source_url_id": "34648",
+    "source_url_model": "485",
+    "source_url_make": "versatile",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:20.599982",
+    "equipment_category": "Tractors",
+    "equipment_make": "Versatile",
+    "equipment_model": "485",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "21.7 in (53 cm)",
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Overall Length": "298.9 in (757 cm)",
+            "Wheelbase": "12.8 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "909.3 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSX15",
+            "Gross Power": "485 hp (362 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "6.7 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center load sensing",
+            "Number of Remote Control Valves": "4 to 6",
+            "Pump Flow Capacity": "55 gal/min (208 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "160  A",
+            "Cooling System Fluid Capacity": "22 gal (83 l)",
+            "Drawbar Static Vertical Load Rating": "9000 lbs (4,082 kg)",
+            "Engine Oil Capacity": "12.7 gal (45 l)",
+            "Front Tire Size": "710/70R42",
+            "Fuel Capacity": "350 gal (1,325 l)",
+            "Hydraulic System Fluid Capacity": "30 gal (114 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "48499.5 lbs (21,999 kg)",
+            "Rear Tire Size": "710/70R42"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Partially synchronized"
+        }
+    }
+}

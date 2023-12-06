@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/bobcat/e10/30684536",
+    "source_url_id": "30684536",
+    "source_url_model": "e10",
+    "source_url_make": "bobcat",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:52:57.649544",
+    "equipment_category": "Excavators",
+    "equipment_make": "Bobcat",
+    "equipment_model": "E10",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Digging Force": "1248 lbs (566 kg)",
+            "Boom Swing - Left": "67  \t\u00b0",
+            "Boom Swing - Right": "64  \t\u00b0",
+            "Bucket Digging Force": "1865 lbs (846 kg)",
+            "Max Digging Depth": "6 ft (2 m)",
+            "Max Reach Along Ground": "10.2 ft (3 m)",
+            "Max.Dumping Height": "6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height": "87 in (221 cm)",
+            "Length": "110 in (279 cm)",
+            "Width": "28 in (71 cm)"
+        },
+        "Engine": {
+            "Emissions": "Tier 4",
+            "Fuel": "Diesel",
+            "Net Power": "10.2 hp (7 kw)",
+            "Power Measured @": "2370 rpm"
+        },
+        "Hydraulic System": {
+            "Operating pressure": "2756 psi",
+            "Pump Flow Capacity": "5.3 gal/min (19 l/min)"
+        },
+        "Lift System": {
+            "Lift Radius": "118 in (300 cm)",
+            "Max Lift Capacity": "527 lbs (239 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "4.2 gal (15 l)",
+            "Operating Weight": "2593 lbs (1,176 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "1.7 mph (2 kph)",
+            "Min Travel Speed": "1.3 mph (2 kph)"
+        }
+    }
+}

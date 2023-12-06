@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d21a-8/10529585",
+    "source_url_id": "10529585",
+    "source_url_model": "d21a-8",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:55.958955",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D21A-8",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Length w/ Blade": "11.1 ft (3 m)",
+            "Width Over Tracks": "4.4 ft in (10 cm)"
+        },
+        "Engine": {
+            "Aspiration": "naturally aspirated",
+            "Displacement": "186 cu in (0 m)",
+            "Engine Model": "4D94LE-2",
+            "Gross Power": "43.1 hp (32 kw)",
+            "Make": "Komatsu",
+            "Model": "4D94LE-2",
+            "Net Power": "40 hp (30 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "2.6 gal (8 l)",
+            "Engine Oil Capacity": "1.7 gal (4 l)",
+            "Final Drives Fluid Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Hydraulic Fluid Capacity": "5.5 gal (19 l)",
+            "Operating Weight": "8690 lbs (3,942 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Height": "2.7 in (5 cm)",
+            "Width": "7.1 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "2.7 mph (3 kph)",
+            "Max Speed - Reverse": "3.5 mph (5 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Komatsu HYDROSHIFT transmission"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "1570 cu in (0 m)",
+            "Ground Pressure": "4.8 psi",
+            "Number of Shoes per Side": "37",
+            "Number of Track Rollers per Side": "5",
+            "Standard Shoe Size": "11.8 in (28 cm)"
+        }
+    }
+}

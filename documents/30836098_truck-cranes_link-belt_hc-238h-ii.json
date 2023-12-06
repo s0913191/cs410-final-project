@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/link-belt/hc-238h-ii/30836098",
+    "source_url_id": "30836098",
+    "source_url_model": "hc-238h-ii",
+    "source_url_make": "link-belt",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:56.452101",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HC-238H II",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "240 ft (73 m)",
+            "Max Lift Capacity": "150 t (136,078 kg)"
+        }
+    }
+}

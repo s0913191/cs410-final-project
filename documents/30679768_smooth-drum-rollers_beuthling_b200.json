@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/beuthling/b200/30679768",
+    "source_url_id": "30679768",
+    "source_url_model": "b200",
+    "source_url_make": "beuthling",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:47.380708",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Beuthling",
+    "equipment_model": "B200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "72 in (183 cm)"
+        },
+        "Drum": {
+            "Drum Width": "41 in (104 cm)"
+        },
+        "Engine": {
+            "Make": "Kohler"
+        },
+        "Operating Specifications": {
+            "Operating Width": "44 in (112 cm)"
+        }
+    }
+}

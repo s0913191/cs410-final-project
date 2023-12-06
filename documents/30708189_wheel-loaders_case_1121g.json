@@ -1,0 +1,81 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/1121g/30708189",
+    "source_url_id": "30708189",
+    "source_url_model": "1121g",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:41:40.025176",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "1121G",
+    "equipment_spec": {
+        "Brakes": {
+            "Service brake": "Wet Multi Disc"
+        },
+        "Bucket": {
+            "Breakout Force": "49930.1 lbs (22,648 kg)",
+            "Bucket Capacity - heaped": "6.3 cu yds (5 m)",
+            "Dump Clearance at Max Raise": "10.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Bucket reach - fully raised, 45\u00c3?\u00c2\u00b0 dump": "50.2 in (127 cm)",
+            "Dump height - fully raised, 45 degrees dump": "126.4 in (320 cm)",
+            "Dump reach @ full height, 45 degrees dump": "4.2 ft (1 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.8 ft (3 m)",
+            "Hinge Pin - Max Height": "14.6 ft (4 m)",
+            "Operating height - fully raised with spillgaurd": "242.1 in (615 cm)",
+            "Overall length (L/bucket)": "29.6 ft (9 m)",
+            "Overall width without bucket": "117.3 in (297 cm)",
+            "Reach at Max Lift and Dump": "6.8 ft (2 m)",
+            "Turning Radius Outside Tires": "20.9 ft (6 m)",
+            "Wheelbase": "11.7 ft (3 m)",
+            "Width Over Tires": "9.8 ft (3 m)"
+        },
+        "Engine": {
+            "Alternator": "120 A",
+            "Displacement": "531 cu in (0 m)",
+            "Emissions": "Tier 4",
+            "Engine Model": "FPT F2CFE614F",
+            "Gross Power": "347 hp (259 kw)",
+            "Make": "Case",
+            "Max Torque": "1183.1 lbs/ft",
+            "Net Power": "284 hp (212 kw)",
+            "Number of Cylinders": "6",
+            "Rated engine speed": "2100 rpm",
+            "Torque Rise": "50%"
+        },
+        "Hydraulic cycle times (unloaded)": {
+            "Total cycle time": "10.7 sec"
+        },
+        "Hydraulic System": {
+            "Maximum system pressure": "3650 psi",
+            "Pump Flow Capacity": "50.2 gal/min (189 l/min)",
+            "Pump Type": "Piston",
+            "Steering pump type": "Articulation"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "15.1 gal (57 l)",
+            "DEF tank capacity": "24 gal (91 l)",
+            "Front Axle/Diff Fluid Capacity": "17 gal (64 l)",
+            "Fuel Capacity": "125 gal (473 l)",
+            "Operating Weight": "61650.1 lbs (27,964 kg)",
+            "Rated Bucket Capacity": "6.3 cu yds (5 m)",
+            "Rear Axle/Diff Fluid Capacity": "17 gal (64 l)",
+            "Transmission Fluid Capacity": "12 gal (45 l)"
+        },
+        "Performance": {
+            "Bucket breakout force, SAE": "45051.8 lbs (20,435 kg)"
+        },
+        "Transmission": {
+            "Differential lock": "F: Open / R: Open",
+            "Max Speed - Forward": "23.2 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Weights": {
+            "Operational Weight": "61650 lbs (27,964 kg)"
+        }
+    }
+}

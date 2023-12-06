@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/85zv-2/30755208",
+    "source_url_id": "30755208",
+    "source_url_model": "85zv-2",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:42.464347",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "85ZV-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "40680 lbs (18,452 kg)",
+            "Bucket Capacity - heaped": "4.9 cu yds (3 m)",
+            "Bucket Capacity - struck": "4.4 cu yds (3 m)",
+            "Bucket Width": "10.2 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.6 ft (3 m)",
+            "Hinge Pin - Max Height": "14.2 ft (4 m)",
+            "Length with Bucket on Ground": "26.8 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)",
+            "Width Over Tires": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "504 cu in (0 m)",
+            "Engine Model": "QSC8.3",
+            "Gross Power": "240 hp (179 kw)",
+            "Make": "Cummins",
+            "Net Power": "224 hp (167 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1500 rpm",
+            "Torque Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.3 sec",
+            "Lower Time": "4.2 sec",
+            "Pump Flow Capacity": "20.1 gal/min (76 l/min)",
+            "Pump Type": "gear type",
+            "Raise Time": "6.3 sec",
+            "Relief Valve Setting": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "15.9 gal (57 l)",
+            "Engine Oil Fluid Capacity": "8 gal (30 l)",
+            "Front Axle/Diff Fluid Capacity": "19.6 gal (72 l)",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "55.5 gal (208 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "46275 lbs (20,990 kg)",
+            "Rated Bucket Capacity": "4.8 cu yds (3 m)",
+            "Rear Axle Oscillation": "22  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "21.2 gal (79 l)",
+            "Static Tipping Weight": "35252 lbs (15,990 kg)",
+            "Tire Size": "26.5x25-20PR (L-3)",
+            "Transmission Fluid Capacity": "14.1 gal (53 l)",
+            "Turning Radius": "21.8 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.2 mph (35 kph)",
+            "Max Speed - Reverse": "22.7 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "full powershift"
+        },
+        "Weights": {
+            "Operational Weight": "46275 lbs (20,990 kg)"
+        }
+    }
+}

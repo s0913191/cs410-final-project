@@ -1,0 +1,93 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-dozers/caterpillar/854k/30749659",
+    "source_url_id": "30749659",
+    "source_url_model": "854k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-dozers",
+    "source_date_scraped": "2023-09-13 16:41:15.849223",
+    "equipment_category": "Wheel Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "854K",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed",
+            "Maximum Single-Wheel Rise and Fall": "22.6 in (56 cm)",
+            "Rear": "Oscillating at 10  \t\u00b0"
+        },
+        "Blades": {
+            "Blade Capacity": "58 cu yds (44 m)",
+            "Blade Height": "7.2 ft (2 m)",
+            "Blade Width": "20.8 ft (6 m)"
+        },
+        "Brakes": {
+            "Brakes": "Meets ISO 3540:2011"
+        },
+        "Dimensions": {
+            "Centerline of Front Axle to Hitch": "9.7 ft (3 m)",
+            "Centerline of Rear Axle to Edge of Bumper": "13.8 ft (4 m)",
+            "Ground Clearance": "2.3 ft (1 m)",
+            "Height - Top of Cab": "18.4 ft (5 m)",
+            "Height - Top of Hood": "13 ft (4 m)",
+            "Length with Blade on Ground": "44 ft (13 m)",
+            "Wheel Base": "19.3 ft (6 m)",
+            "Wheelbase": "19.4 ft (6 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Bore": "5.7 in (13 cm)",
+            "Displacement": "1958.9 cu in (0 m)",
+            "Engine Make": "2236",
+            "Engine Model": "Cat C32 ACERT",
+            "Gross Power": "907 hp (676 kw)",
+            "Net Torque": "3129 lbs/ft",
+            "Number of Cylinders": "12",
+            "Power Measured @": "1750 rpm",
+            "Rated Speed": "1750 rpm",
+            "Stroke": "6.4 in (15 cm)",
+            "Torque Rise": "30%"
+        },
+        "Hydraulic System - Lift/Tilt": {
+            "Cylinders, Double Acting - Lift, Bore and Stroke": "177 mm  1760 mm (0.58 ft  5.8 ft)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "150  A",
+            "Cooling System Fluid Capacity": "52.9 gal (197 l)",
+            "Engine Oil Capacity": "31.8 gal (117 l)",
+            "Front Diff Fluid Capacity": "97.5 gal (367 l)",
+            "Fuel Capacity": "412.7 gal (1,559 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "217128.9 lbs (98,489 kg)",
+            "Rear Diff Fluid Capacity": "90.4 gal (341 l)",
+            "Tire Size": "45/65-R45",
+            "Transmission Fluid Capacity": "44.7 gal (167 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "53 gal (201 l)",
+            "Crankcase": "32 gal (121 l)",
+            "Differential - Final Drives - Front": "98 gal (371 l)",
+            "Fuel Tank - Standard": "413 gal (1,563 l)",
+            "Transmission": "45 gal (170 l)"
+        },
+        "Transmission": {
+            "Converter Drive - Forward 1": "4.4 mph (6 kph)",
+            "Converter Drive - Forward 2": "7.7 mph (11 kph)",
+            "Converter Drive - Forward 3": "13.2 mph (21 kph)",
+            "Converter Drive - Reverse 1": "4.8 mph (6 kph)",
+            "Converter Drive - Reverse 2": "8.4 mph (13 kph)",
+            "Converter Drive - Reverse 3": "14.6 mph (23 kph)",
+            "Direct Drive - Forward 1": "Lock-up disabled",
+            "Direct Drive - Forward 2": "8.1 mph (13 kph)",
+            "Direct Drive - Forward 3": "14.2 mph (23 kph)",
+            "Direct Drive - Reverse 1": "5 mph (8 kph)",
+            "Direct Drive - Reverse 3": "15.6 mph (24 kph)",
+            "Max Speed - Forward": "13.2 mph (21 kph)",
+            "Max Speed - Reverse": "14.7 mph (23 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Planetary power shift"
+        },
+        "Weights": {
+            "Operating Weight": "224254 lbs (101,721 kg)"
+        }
+    }
+}

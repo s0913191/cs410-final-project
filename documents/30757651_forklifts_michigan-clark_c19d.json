@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/michigan-clark/c19d/30757651",
+    "source_url_id": "30757651",
+    "source_url_model": "c19d",
+    "source_url_make": "michigan-clark",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:35.787651",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Michigan / Clark",
+    "equipment_model": "C19D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4.8 in (10 cm)",
+            "Height to Top of Overhead Guard": "7 ft (2 m)",
+            "Length to Fork Face": "7.3 ft (2 m)",
+            "Max Fork Height": "15.7 ft (5 m)",
+            "Right Angle Stack": "8.1 ft (2 m)",
+            "Turning Radius": "6.9 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "134 cu in (0 m)",
+            "Engine Model": "C15D"
+        },
+        "MAST": {
+            "Lift Speed": "120 ft/min",
+            "Load Capacity": "3000 lbs (1,361 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "88 ft/min",
+            "Max Fork Spread": "41 in (104 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "10.7 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "6507 lbs (2,952 kg)",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

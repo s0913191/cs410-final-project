@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/valtra/hitech-n121/30751759",
+    "source_url_id": "30751759",
+    "source_url_model": "hitech-n121",
+    "source_url_make": "valtra",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:13.971751",
+    "equipment_category": "Tractors",
+    "equipment_make": "Valtra",
+    "equipment_model": "HiTech N121",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Overall Length": "14.9 in (36 cm)",
+            "Tire Size": "14.9R28/18.4R38",
+            "Wheelbase": "8.5 ft (2 m)",
+            "Width Outside Frame": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "44CWA",
+            "Gross Power": "137 hp (102 kw)",
+            "Net Power": "133 hp (99 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "19.3 gal/min (72 l/min)",
+            "Relief Valve Pressure": "2842.8 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Operating Weight": "10912.9 lbs (4,950 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "power shuttle transmission"
+        }
+    }
+}

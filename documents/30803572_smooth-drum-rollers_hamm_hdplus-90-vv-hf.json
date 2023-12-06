@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hdplus-90-vv-hf/30803572",
+    "source_url_id": "30803572",
+    "source_url_model": "hdplus-90-vv-hf",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:14.564925",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD+ 90 VV HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "207 in (526 cm)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Vibration Frequency": "45 - 67 hz (2,700 - 4,020 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "70.5 in (178 cm)"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-100-ad-3/1878",
+    "source_url_id": "1878",
+    "source_url_model": "bw-100-ad-3",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:52.902366",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 100 AD-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.3 in (23 cm)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Overall Length": "8.2 in (20 cm)",
+            "Overall Width": "3.6 ft (1 m)",
+            "Turning Radius - Inside": "107 in (272 cm)",
+            "Wheelbase": "5.7 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "7643.6 lbs (3,467 kg)",
+            "Centrifugal Force - Low": "5170.7 lbs (2,345 kg)",
+            "Drum Width": "27.6 in (69 cm)",
+            "Frequency": "3300 - 3,960 hz (198,000 - 237,600 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "69.5 lbs/in",
+            "Vibration Frequency": "3,300-3,960 hz (198,000 vpm)",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)",
+            "Vibration Frequency 2": "66 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Engine Model": "F2L1011F",
+            "Gross Power": "33 hp (25 kw)",
+            "Make": "Deutz",
+            "Net Power": "29.6 hp (22 kw)",
+            "Number of Cylinders": "2",
+            "Power Measured @": "3000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "9.3 gal (34 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5445.5 lbs (2,470 kg)",
+            "Operating Width": "42.4 in (107 cm)"
+        }
+    }
+}

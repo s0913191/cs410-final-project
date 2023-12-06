@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/gt-19/31076561",
+    "source_url_id": "31076561",
+    "source_url_model": "gt-19",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:44.562726",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "GT-19",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "18 hp (13 kw)"
+        },
+        "Production": {
+            "Series": "GT Series",
+            "Years Manufactured": "2001 - 2002"
+        }
+    }
+}

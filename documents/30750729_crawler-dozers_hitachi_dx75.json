@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/hitachi/dx75/30750729",
+    "source_url_id": "30750729",
+    "source_url_model": "dx75",
+    "source_url_make": "hitachi",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:27.835813",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Hitachi",
+    "equipment_model": "DX75",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Length w/ Blade": "13 ft (4 m)",
+            "Length w/o Blade": "9.4 ft (3 m)",
+            "Width Over Tracks": "6.1 ft in (15 cm)"
+        },
+        "Engine": {
+            "Displacement": "276.1 cu in (0 m)",
+            "Engine Model": "JD 4045D",
+            "Gross Power": "73 hp (54 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "15183.3 lbs (6,887 kg)"
+        },
+        "Standard Blade": {
+            "Height": "32.7 in (81 cm)",
+            "Width": "8.1 ft (2 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "DPS"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "16 in (41 cm)",
+            "Track Pitch": "57.1 in (145 cm)"
+        }
+    }
+}

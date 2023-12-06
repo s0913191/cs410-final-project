@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/sp22/30758388",
+    "source_url_id": "30758388",
+    "source_url_model": "sp22",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:42.275083",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "SP22",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.6 in (36 cm)",
+            "Overall Height - mast lowered": "27 ft (8 m)",
+            "Overall Width": "7.9 ft (2 m)"
+        },
+        "Performance": {
+            "Operating Weight": "24017.2 lbs (10,894 kg)",
+            "Tire Size": "15 x 19.5 x 14ply"
+        },
+        "Platform": {
+            "Max Platform Height": "65 ft (20 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Platform Inner Length": "72.1 in (183 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        }
+    }
+}

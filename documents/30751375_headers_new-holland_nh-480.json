@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/headers/new-holland/nh-480/30751375",
+    "source_url_id": "30751375",
+    "source_url_model": "nh-480",
+    "source_url_make": "new-holland",
+    "source_url_category": "headers",
+    "source_date_scraped": "2023-09-13 17:07:38.951716",
+    "equipment_category": "Headers",
+    "equipment_make": "New Holland",
+    "equipment_model": "NH 480",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "9.8 in (23 cm)",
+            "Tire Size": "6.00-16 12.4/11-28"
+        },
+        "Engine": {
+            "Engine Model": "8035.06",
+            "Gross Power": "55 hp (41 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat. 1-2",
+            "Operating Weight": "3770 lbs (1,710 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Gearbox with constant-mesh gears"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/5230/3973",
+    "source_url_id": "3973",
+    "source_url_model": "5230",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:18.474012",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "5230",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "24.5 ft (7 m)",
+            "Height of Tracks": "7.5 ft (2 m)",
+            "Length of Track on Ground": "26.9 ft (8 m)",
+            "Length of Tracks": "33.9 ft (10 m)",
+            "Upper Structure Ground Clearance": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "3516 EUI",
+            "Net Power": "1470 hp (1,096 kw)"
+        },
+        "Loading Shovel": {
+            "Max Cutting Height": "49.3 ft (15 m)",
+            "Max Dig Depth": "12.5 ft (4 m)",
+            "Max Dig Reach": "32.9 ft (10 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "1408.1 gal (5,329 l)"
+        },
+        "Undercarriage": {
+            "Loading Shovel Ground Pressure": "22.2 psi",
+            "Loading Shovel Operating Weight": "702172.4 lbs (318,503 kg)",
+            "Loading Shovel Shoe Width": "59.1 in (150 cm)",
+            "Max Travel Speed": "1.6 mph (2 kph)"
+        }
+    }
+}

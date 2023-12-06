@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/m400a/30758325",
+    "source_url_id": "30758325",
+    "source_url_model": "m400a",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:25.582397",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "M400A",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "5.2 in (13 cm)",
+            "Overall Height - mast lowered": "6.5 ft (2 m)",
+            "Overall Length": "18.1 in (46 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Turning Radius": "10.4 ft (3 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "370",
+            "Number of Batteries": "8",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "13099.9 lbs (5,942 kg)",
+            "Tire Fill/Type": "Non-marking",
+            "Tire Size": "front: 22x6x17.5,  rear: 22x7x12"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "21.2 ft (6 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "40 ft (12 m)",
+            "Platform Inner Length": "48.1 in (122 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca610pd/30753876",
+    "source_url_id": "30753876",
+    "source_url_model": "ca610pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:38.083900",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA610PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "18.2 in (46 cm)",
+            "Gradeability": "43%",
+            "Ground Clearance": "17.8 in (43 cm)",
+            "Height": "9.9 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "7.4 ft (2 m)",
+            "Overall Length": "243.4 in (617 cm)",
+            "Overall length": "20.3 ft (6 m)",
+            "Overhang Front": "0.5 ft (0 m)",
+            "Overhang Rear": "0.4 ft (0 m)",
+            "Turning Radius - Inside": "10.5 ft in (25 cm)",
+            "Turning Radius - Outside": "17.8 ft (5 m)",
+            "Wheelbase": "117.8 in (297 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "71264.5 lbs (32,325 kg)",
+            "Centrifugal Force - Low": "51930.9 lbs (23,555 kg)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Pad Height": "4.1 in (10 cm)",
+            "Pad Surface Area": "22.7 cu in (0 m)",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibration Frequency 2": "30 hz (1,800 vpm)",
+            "Vibratory Frequency 2": "31 hz (1,860 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "6BTAA5.9-C170",
+            "Gross Power": "170 hp (127 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Weight": "46297.1 lbs (21,000 kg)",
+            "Operating weight ROPS": "45635.7 lbs (20,700 kg)",
+            "Tire Size": "23,1 x 26"
+        },
+        "Tires": {
+            "Tires": "23,1 x 26"
+        }
+    }
+}

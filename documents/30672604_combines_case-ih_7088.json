@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/case-ih/7088/30672604",
+    "source_url_id": "30672604",
+    "source_url_model": "7088",
+    "source_url_make": "case-ih",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:01:44.583503",
+    "equipment_category": "Combines",
+    "equipment_make": "Case Ih",
+    "equipment_model": "7088",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "9 cu in (0 m)",
+            "Engine Model": "Class VII",
+            "Power": "325 hp (242 kw)",
+            "Power Boost Power": "25 hp (19 kw)",
+            "Power Measured @": "375 rpm"
+        },
+        "Feeding": {
+            "Conveyor Length": "46 in (117 cm)",
+            "Conveyor Width": "46 in (117 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "300 bu"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "250 gal (946 l)",
+            "Operating Weight w/o Attachment": "33410 lbs (15,155 kg)"
+        },
+        "Threshing": {
+            "Rotor Diameter": "30 in (76 cm)",
+            "Rotor Length": "30 in (76 cm)",
+            "Rotor Speed - High": "3 rpm",
+            "Rotor Speed - Low": "3 rpm"
+        }
+    }
+}

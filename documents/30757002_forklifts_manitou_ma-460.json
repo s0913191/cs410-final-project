@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/ma-460/30757002",
+    "source_url_id": "30757002",
+    "source_url_model": "ma-460",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:56.160264",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "MA 460",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.9 in (46 cm)",
+            "Height to Top of Overhead Guard": "8.5 ft (2 m)",
+            "Length to Fork Face": "14.9 ft (4 m)",
+            "Max Fork Height": "13.2 ft (4 m)",
+            "Overall Height - mast lowered": "11.2 ft (3 m)",
+            "Overall Width": "7.2 ft (2 m)",
+            "Turning Radius": "16.4 ft (5 m)",
+            "Wheelbase": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "1104C.44 T",
+            "Power": "100 hp (75 kw)",
+            "Torque": "303.9 lbs/ft"
+        },
+        "MAST": {
+            "Load Capacity": "13227.8 lbs (6,000 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Mast Tip Forward": "17  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0",
+            "Max Fork Spread": "68.9 in (173 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "15.6 mph (24 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "20282.6 lbs (9,200 kg)",
+            "Tire Type": "18x22.5 XF"
+        }
+    }
+}

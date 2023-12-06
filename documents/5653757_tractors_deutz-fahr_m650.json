@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/m650/5653757",
+    "source_url_id": "5653757",
+    "source_url_model": "m650",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:16:02.633973",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "M650",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "181  hp"
+        },
+        "Production": {
+            "Series": "Agrotron M Series",
+            "Years Manufactured": "2007 - 2009"
+        }
+    }
+}

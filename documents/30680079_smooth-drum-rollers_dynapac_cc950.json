@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc950/30680079",
+    "source_url_id": "30680079",
+    "source_url_model": "cc950",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:35.265435",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC950",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Failsafe brake in both drums",
+            "Service brake": "Hydrostatic in forward and reverse lever"
+        },
+        "Dimensions": {
+            "Ground Clearance": "10.1 in (25 cm)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Overall Length": "83 in (211 cm)",
+            "Overall Width": "3.2 ft (1 m)",
+            "Overhang Front": "0.1 ft (0 m)",
+            "Overhang Rear": "0.1 ft (0 m)",
+            "Turning Radius - Outside": "9 ft (3 m)",
+            "Wheelbase": "53 in (135 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "3800 lbs (1,724 kg)",
+            "Drum Diameter": "23 in (58 cm)",
+            "Drum thickness": "0.4 in (0 cm)",
+            "Drum Width": "35 in (89 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "40 lbs/in",
+            "Vibration Frequency 1": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "watercooled",
+            "Engine Make": "Kubota",
+            "Engine Model": "D722-E4B",
+            "Gross Power": "20.3 hp (15 kw)",
+            "Power Measured @": "3600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6 gal (23 l)",
+            "Max Speed": "5 mph (8 kph)",
+            "Operating Weight": "3100 lbs (1,406 kg)",
+            "Operating weight ROPS": "3000 lbs (1,361 kg)",
+            "Oscillating angle": "13  \t\u00b0",
+            "Steering Angle": "34  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "50 gal (189 l)"
+        }
+    }
+}

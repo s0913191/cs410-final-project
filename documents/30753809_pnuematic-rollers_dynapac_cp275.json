@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/dynapac/cp275/30753809",
+    "source_url_id": "30753809",
+    "source_url_model": "cp275",
+    "source_url_make": "dynapac",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:22.473527",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CP275",
+    "equipment_spec": {
+        "Compaction": {
+            "Max - Tyre pressure": "113.2 psi",
+            "Min - Tyre pressure": "55.2 psi",
+            "Rolling width": "93.4 in (236 cm)",
+            "Tyre overlap": "2.1 in (5 cm)",
+            "Water spray system spray nozzle": "One per tyre",
+            "Water spray system type": "Pressurized",
+            "Wheel loads - with max. ballast": "7348.1 lbs (3,333 kg)",
+            "Wheel loads_without ballast": "3430.4 lbs (1,556 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of ROPS/FOPS": "10.2 ft (3 m)",
+            "Overall Length": "209.1 in (531 cm)",
+            "Overall Width": "7.8 ft (2 m)",
+            "Turning Radius - Outside": "29.6 ft (9 m)",
+            "Wheelbase": "14 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "4BTAA3.9-C125",
+            "Engine Type": "Turbocharged and Charge Air Cooled",
+            "Gross Power": "124.8 hp (92 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Max Speed": "11.2 mph (18 kph)",
+            "Operating Voltage": "24 V V",
+            "Water Spray Tank Fluid Capacity": "158.6 gal (598 l)"
+        },
+        "Weights": {
+            "Operating Weight - max ballast": "66138.7 lbs (30,000 kg)",
+            "Operating Weight - standard": "30864.8 lbs (14,000 kg)"
+        }
+    }
+}

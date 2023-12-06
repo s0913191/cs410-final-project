@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/sam/slc-5500/30753447",
+    "source_url_id": "30753447",
+    "source_url_model": "slc-5500",
+    "source_url_make": "sam",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:12.908571",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Sam",
+    "equipment_model": "SLC 5500",
+    "equipment_spec": {
+        "Boom": {
+            "Max Boom Width": "78.8 ft (24 m)",
+            "Min Boom Width": "39.4 ft (12 m)",
+            "Number of Sections": "7"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3.3 ft (1 m)",
+            "Overall Length": "26.2 in (66 cm)",
+            "Tire Size": "14.9/34",
+            "Transport Height": "11.9 ft (3 m)",
+            "Transport Width": "9.6 ft (3 m)",
+            "Wheelbase": "12.8 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Gross Power": "207 hp (154 kw)",
+            "Number of Cylinders": "6"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "20944 lbs (9,500 kg)",
+            "Rinse Tank Capacity": "150 gal (568 l)",
+            "Solution Tank Capacity": "1453 gal (5,500 l)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

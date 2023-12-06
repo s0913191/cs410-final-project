@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l-528-z/30761351",
+    "source_url_id": "30761351",
+    "source_url_model": "l-528-z",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:24.200166",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L 528 Z",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Model": "4045HFL93",
+            "Net Power": "134 hp (100 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.0 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "24030 lbs (10,900 kg)"
+        }
+    }
+}

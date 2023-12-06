@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/s1932e/30758174",
+    "source_url_id": "30758174",
+    "source_url_model": "s1932e",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:58.357194",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "S1932E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.8 in (5 cm)",
+            "Height w/ Rails": "6.4 ft (2 m)",
+            "Height w/o Rails": "3.1 ft (1 m)",
+            "Overall Length": "5.9 in (13 cm)",
+            "Overall Width": "2.8 ft (1 m)",
+            "Turning Radius": "5.5 ft (2 m)",
+            "Wheelbase": "4.7 ft (1 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "235",
+            "Charger Amps": "25",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Max Speed": "2.5 mph (3 kph)",
+            "Operating Weight": "2956.4 lbs (1,341 kg)",
+            "Tire Size": "4X12.5"
+        },
+        "Platform": {
+            "Deck Extension": "35.9 in (89 cm)",
+            "Height of Rails": "3.4 ft (1 m)",
+            "Lift Time": "25 sec",
+            "Lower Time": "30 sec",
+            "Max Platform Height": "19 ft (6 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "25 ft (8 m)",
+            "Platform Inner Length": "63 in (160 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/918m/30320267",
+    "source_url_id": "30320267",
+    "source_url_model": "918m",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:15.384535",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "918M",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "3.0 ft (1 m)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C4.4 ACERT",
+            "Net Power": "112 hp (84 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "1.7 - 2.50 cu yds (1 - 2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "20869 lbs (9,466 kg)"
+        }
+    }
+}

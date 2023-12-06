@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/challenger/mt655b/195",
+    "source_url_id": "195",
+    "source_url_model": "mt655b",
+    "source_url_make": "challenger",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:47.550358",
+    "equipment_category": "Tractors",
+    "equipment_make": "Challenger",
+    "equipment_model": "MT655B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "22.5 in (56 cm)",
+            "Height - Top of ROPS/FOPS": "10.4 ft (3 m)",
+            "Overall Length": "17.2 in (43 cm)",
+            "Overall Width": "9.9 ft (3 m)",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and Aftercooled",
+            "Displacement": "512.6 cu in (0 m)",
+            "Engine Model": "Endurance 74ETA",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "220 hp (164 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "38.9 gal/min (144 l/min)",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "15604.4 lbs (7,078 kg)",
+            "Alternator Supplied Amperage": "150  A",
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Engine Oil Capacity": "5.1 gal (19 l)",
+            "Fuel Capacity": "158.6 gal (598 l)",
+            "Hydraulic System Fluid Capacity": "26.5 gal (98 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "19550 lbs (8,868 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "25 mph (40 kph)",
+            "Transmission Type": "Tech Star CVT"
+        }
+    }
+}

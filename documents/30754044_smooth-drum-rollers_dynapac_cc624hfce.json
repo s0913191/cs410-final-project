@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc624hfce/30754044",
+    "source_url_id": "30754044",
+    "source_url_model": "cc624hfce",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:31.852547",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC624HFCE",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.3 in (30 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "16.4 in (41 cm)",
+            "Overall Width": "7.7 ft (2 m)",
+            "Wheelbase": "12.2 in (30 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "26077.9 lbs (11,828 kg)",
+            "Centrifugal Force - Low": "13713.4 lbs (6,220 kg)",
+            "Drum Diameter": "51.2 in (130 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "43 hz (2,580 vpm)",
+            "Vibration Frequency 2": "62 hz (3,720 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "water cooled turbo diesel with after cooler",
+            "Engine Model": "QSB 4.5 T3",
+            "Gross Power": "125 hp (93 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "63.5 gal (238 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "27778.3 lbs (12,600 kg)"
+        }
+    }
+}

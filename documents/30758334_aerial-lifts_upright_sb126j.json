@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/sb126j/30758334",
+    "source_url_id": "30758334",
+    "source_url_model": "sb126j",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:11.475537",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "SB126J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Overall Height - mast lowered": "10.5 ft (3 m)",
+            "Overall Length": "45 in (114 cm)",
+            "Overall Width": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "diesel",
+            "Gross Power": "81 hp (60 kw)"
+        },
+        "Performance": {
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "42150.2 lbs (19,119 kg)",
+            "Tire Fill/Type": "poly filled/lug",
+            "Tire Size": "18 x 22.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "63 ft (19 m)",
+            "Max Platform Height": "126 ft (38 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "132.6 ft (40 m)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "30 in (76 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

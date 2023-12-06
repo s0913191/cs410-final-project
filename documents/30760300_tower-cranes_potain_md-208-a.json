@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/md-208-a/30760300",
+    "source_url_id": "30760300",
+    "source_url_model": "md-208-a",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:21.277913",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "MD 208 A",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "211 ft (64 m)",
+            "Max Lift Capacity": "11 t (9,979 kg)"
+        }
+    }
+}

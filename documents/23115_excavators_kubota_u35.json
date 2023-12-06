@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/u35/23115",
+    "source_url_id": "23115",
+    "source_url_model": "u35",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:38.358607",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "U35",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "16.3 ft (5 m)",
+            "Max Digging Depth": "10.4 ft (3 m)",
+            "Max Loading Height": "11.6 ft (3 m)",
+            "Max Reach Along Ground": "16.9 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "7.4 ft (2 m)",
+            "Shipping Height of Unit": "8.1 ft (2 m)",
+            "Shipping Length of Unit": "15.5 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Width to Outside of Tracks": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "liquid-cooled, overhead valve diesel engine",
+            "Displacement": "91.5 cu in (0 m)",
+            "Engine Model": "D1503 - M",
+            "Net Power": "28 hp (21 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "1.5 gal (4 l)",
+            "Engine Oil Capacity": "1.4 gal (4 l)",
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Hydraulic Pump Flow Capacity": "20.6 gal/min (76 l/min)",
+            "Hydraulic System Fluid Capacity": "9.5 gal (34 l)",
+            "Operating Weight": "8234 lbs (3,735 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "6098 lbs (2,766 kg)",
+            "Ground Pressure": "4.8 psi",
+            "Max Travel Speed": "2.9 mph (3 kph)"
+        }
+    }
+}

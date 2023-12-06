@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd24-asphalt/30754231",
+    "source_url_id": "30754231",
+    "source_url_model": "dd24-asphalt",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:40.047407",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD24 Asphalt",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Overall Length": "8 in (20 cm)",
+            "Overall Width": "4.3 ft (1 m)",
+            "Wheelbase": "5.7 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "8992.4 lbs (4,079 kg)",
+            "Centrifugal Force - Low": "6294.7 lbs (2,855 kg)",
+            "Drum Diameter": "27.6 in (69 cm)",
+            "Drum Width": "47.3 in (119 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)",
+            "Vibration Frequency 2": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "A1700",
+            "Net Power": "32 hp (24 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Hydraulic System Fluid Capacity": "7.1 gal (27 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5725 lbs (2,597 kg)"
+        }
+    }
+}

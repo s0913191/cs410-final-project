@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/wacker-neuson/st-45/30760111",
+    "source_url_id": "30760111",
+    "source_url_model": "st-45",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:45.639143",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "ST 45",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "4500 lbs (2,041 kg)",
+            "Operating Width": "78 in (198 cm)"
+        }
+    }
+}

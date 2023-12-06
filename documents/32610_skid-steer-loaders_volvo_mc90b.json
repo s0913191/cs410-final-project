@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/volvo/mc90b/32610",
+    "source_url_id": "32610",
+    "source_url_model": "mc90b",
+    "source_url_make": "volvo",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:43.429016",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "MC90B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.7 ft (2 m)",
+            "Ground Clearance": "9.3 in (23 cm)",
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Length w/o Bucket": "9.5 ft (3 m)",
+            "Length with Bucket": "11.5 ft (3 m)",
+            "Reach at Max Lift and Dump": "22.3 in (56 cm)",
+            "Turning Radius from Center - inc bucket": "92.5 in (234 cm)",
+            "Turning Radius from Center - machine rear": "56.3 in (142 cm)",
+            "Wheelbase": "3.6 ft (1 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "201 cu in (0 m)",
+            "Engine Model": "D3.4A",
+            "Gross Power": "80.5 hp (60 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "20.3 gal/min (76 l/min)",
+            "Relief Valve Pressure": "2700 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.7 cu yds (0 m)",
+            "Operating Load Rating": "2000 lbs (907 kg)",
+            "Tipping Angle": "4016  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "4.1 gal (15 l)",
+            "Engine Oil Fluid Capacity": "2.9 gal (8 l)",
+            "Fuel Capacity": "23 gal (87 l)",
+            "Hydraulic System Fluid Capacity": "25.7 gal (95 l)",
+            "Max Speed": "6.7 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "6985 lbs (3,168 kg)"
+        }
+    }
+}

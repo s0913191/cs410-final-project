@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hitachi/lx170e/29988342",
+    "source_url_id": "29988342",
+    "source_url_model": "lx170e",
+    "source_url_make": "hitachi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:40.720020",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hitachi",
+    "equipment_model": "LX170E",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "27651.5 lbs (12,542 kg)",
+            "Bucket Capacity - heaped": "3.3 cu yds (2 m)",
+            "Bucket Width": "8.6 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Length with Bucket on Ground": "23.8 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.9 ft (1 m)",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "165 hp (123 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "59.2 gal (223 l)",
+            "Operating Weight": "29762.5 lbs (13,500 kg)",
+            "Static Tipping Weight": "25353.2 lbs (11,500 kg)",
+            "Tire Size": "20.5R25"
+        },
+        "Transmission": {
+            "Transmission Type": "ZF full powershift automatic"
+        }
+    }
+}

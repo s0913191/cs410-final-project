@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/new-holland/ec240/30709627",
+    "source_url_id": "30709627",
+    "source_url_model": "ec240",
+    "source_url_make": "new-holland",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:17:32.908300",
+    "equipment_category": "Excavators",
+    "equipment_make": "New Holland",
+    "equipment_model": "EC240",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "30.9 ft (9 m)",
+            "Max Digging Depth": "21 ft (6 m)",
+            "Max Loading Height": "22.4 ft (7 m)",
+            "Max Reach Along Ground": "31.9 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "11.2 ft (3 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "30.2 ft (9 m)",
+            "Max Digging Depth": "22.7 ft (7 m)",
+            "Max Loading Height": "22 ft (7 m)",
+            "Max Reach Along Ground": "32.9 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "9.9 ft (3 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "31.2 ft (9 m)",
+            "Max Digging Depth": "24.3 ft (7 m)",
+            "Max Loading Height": "22.5 ft (7 m)",
+            "Max Reach Along Ground": "34.5 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "11.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Length of Track on Ground": "12.6 ft (4 m)",
+            "Removal Counterweight Clearance": "3.7 ft (1 m)",
+            "Tail Swing Radius": "9.9 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "Cummins 6A 5.9C",
+            "Net Power": "176 hp (131 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "7.4 gal (27 l)",
+            "Engine Oil Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "111 gal (420 l)",
+            "Hydraulic System Fluid Capacity": "105.7 gal (397 l)",
+            "Swing Drive Fluid Capacity": "1 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm",
+            "Swing Torque": "56792 lbs/ft"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "49908 lbs (22,638 kg)",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "23.7 in (58 cm)"
+        }
+    }
+}

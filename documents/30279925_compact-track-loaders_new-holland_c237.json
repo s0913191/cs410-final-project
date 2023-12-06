@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/new-holland/c237/30279925",
+    "source_url_id": "30279925",
+    "source_url_model": "c237",
+    "source_url_make": "new-holland",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:04.829497",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "C237",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "3700 lbs (1,678 kg)",
+            "Operating Width": "76 in (193 cm)"
+        }
+    }
+}

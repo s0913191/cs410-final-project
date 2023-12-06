@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tg255/30103309",
+    "source_url_id": "30103309",
+    "source_url_model": "tg255",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:21.433256",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TG255",
+    "equipment_spec": {
+        "Engine": {
+            "Aspiration": "Turbocharged, air-to-air intercooled",
+            "Displacement": "505 cu in (0 m)",
+            "Gross Power": "255 hp (190 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "215 hp (160 kw)",
+            "Torque Rise": "54%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat III/IIIN",
+            "Fuel Capacity": "160 gal (606 l)",
+            "Operating Weight": "29500 lbs (13,381 kg)"
+        },
+        "Production": {
+            "Series": "TG Series",
+            "Years Manufactured": "2002 - 2006"
+        },
+        "Transmission": {
+            "Transmission Type": "Powershift"
+        }
+    }
+}

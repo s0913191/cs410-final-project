@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/laverda/m-306-rice/30752526",
+    "source_url_id": "30752526",
+    "source_url_model": "m-306-rice",
+    "source_url_make": "laverda",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:55.948062",
+    "equipment_category": "Combines",
+    "equipment_make": "Laverda",
+    "equipment_model": "M 306 Rice",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "350 rpm",
+            "Total Cleaning Area": "3487.6 cu in (0 m)"
+        },
+        "Engine": {
+            "Power": "335 hp (250 kw)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "0.3 bu",
+            "Unloading Auger Length": "16.5 ft (5 m)",
+            "Unloading Discharge Height": "14.8 ft (4 m)",
+            "Unloading Speed": "3 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "158.6 gal (598 l)",
+            "Number of Gears": "4",
+            "Transmission Type": "hydrostatic"
+        },
+        "Separating": {
+            "Discharge Grate Area": "8649.1 cu in (0 m)",
+            "Separating Area": "14043.1 cu in (0 m)",
+            "Separator Length": "23.7 in (58 cm)",
+            "Separator Type": "electric"
+        }
+    }
+}

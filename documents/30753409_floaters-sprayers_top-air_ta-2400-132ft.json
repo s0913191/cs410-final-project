@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/top-air/ta-2400-132ft/30753409",
+    "source_url_id": "30753409",
+    "source_url_model": "ta-2400-132ft",
+    "source_url_make": "top-air",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:30.150972",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Top Air",
+    "equipment_model": "TA 2400 132ft",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Overall Length": "25.3 in (64 cm)",
+            "Transport Height": "11.9 ft (3 m)",
+            "Transport Width": "12 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "15320 lbs (6,949 kg)",
+            "Rinse Tank Capacity": "165 gal (625 l)",
+            "Solution Tank Capacity": "2400 gal (9,084 l)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/600a/30683102",
+    "source_url_id": "30683102",
+    "source_url_model": "600a",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:53.855649",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "600A",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "AT/60.5 ft (0 m)",
+            "Stowed Height": "8.4 ft (2 m)",
+            "Stowed Width": "8 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "14x17.5"
+        },
+        "Transmission": {
+            "4WD": "avail"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/85f-open-station/30753304",
+    "source_url_id": "30753304",
+    "source_url_model": "85f-open-station",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:24:46.194276",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "85F Open Station",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "164.8 cu in (0 m)",
+            "Engine Make": "2393",
+            "Gross Power": "82.6 hp (61 kw)",
+            "Max Torque": "213 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "73 hp (54 kw)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "9.3 gal/min (34 l/min)",
+            "Relief Valve Setting": "2828 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5511.6 lbs (2,500 kg)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Tire Size Front - 2wd / 4wd": "240/70x16",
+            "Turning Radius": "9.6 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "380/70x20"
+        },
+        "Transmission": {
+            "Transmission Type": "8+8/16+8 Sync Reverser"
+        }
+    }
+}

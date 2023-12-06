@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/hbxg/ty165-2/30750718",
+    "source_url_id": "30750718",
+    "source_url_model": "ty165-2",
+    "source_url_make": "hbxg",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:22.479777",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Hbxg",
+    "equipment_model": "TY165-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Length of Track on Ground": "8.5 ft (2 m)",
+            "Length w/ Blade": "17.2 ft (5 m)"
+        },
+        "Engine": {
+            "Displacement": "640.8 cu in (0 m)",
+            "Engine Model": "C6121",
+            "Gross Power": "162.3 hp (121 kw)",
+            "Max Torque": "582.7 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "39242.3 lbs (17,800 kg)"
+        },
+        "Standard Blade": {
+            "Height": "46.1 in (117 cm)",
+            "Width": "10.9 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.1 mph (11 kph)",
+            "Max Speed - Reverse": "8.7 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "10.1 psi",
+            "Standard Shoe Size": "19.7 in (48 cm)"
+        }
+    }
+}

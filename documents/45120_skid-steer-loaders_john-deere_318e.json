@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/318e/45120",
+    "source_url_id": "45120",
+    "source_url_model": "318e",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:48.626738",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "318E",
+    "equipment_spec": {
+        "Axles": {
+            "Maximum Axle Torque": "4701 lbs/ft",
+            "Tractive Effort": "7728 lbs/ft"
+        },
+        "Dimensions": {
+            "Angle of departure": "26  \t\u00b0",
+            "Ground Clearance": "7.5 in (18 cm)",
+            "Height - Top of ROPS/FOPS": "78 in (198 cm)",
+            "Hinge pin height, maximum height": "120.1 in (305 cm)",
+            "Length w/o Bucket": "9.4 ft (3 m)",
+            "Length with Bucket": "11.4 ft (3 m)",
+            "Reach at Max Lift and Dump": "37.8 in (94 cm)",
+            "Turning Radius - TTS870": "6.7 ft (2 m)",
+            "Wheelbase": "3.8 ft (1 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Travel Speed": "2.4 mph (3 kph)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry dual element",
+            "Aspiration": "Turbocharged, inter cooled",
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "269 cu in (0 m)",
+            "Emissions Certification": "Tier 4",
+            "Engine Make": "Yanmar",
+            "Engine Model": "Cat C4.4 ACERT",
+            "Gross Power": "63 hp (47 kw)",
+            "Gross Power - SAE J1995": "120 hp (89 kw)",
+            "Net Torque": "177.8 lbs/ft",
+            "Net Torque Rise": "34%",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1625 rpm"
+        },
+        "Hydraulic System": {
+            "Hydraulic Horsepower-Standard Flow": "34 hp (25 kw)",
+            "Hydraulic Horsepower_High Flow": "47 hp (35 kw)",
+            "Pump Flow Capacity": "25.1 gal/min (95 l/min)",
+            "System Pressure at Couplers": "3250 psi"
+        },
+        "Loader": {
+            "Boom breakout force": "357221.4 lbs (162,034 kg)",
+            "bucket breakout force (ISO 14397)": "2101.1 lbs (953 kg)",
+            "Dump angle @ max. height": "43  \t\u00b0",
+            "Dump height": "8 ft (2 m)",
+            "Operating Load Rating": "1950 lbs (885 kg)",
+            "Operating Width": "63 in (160 cm)",
+            "Rollback - Ground Level": "33  \t\u00b0",
+            "Tipping load (ISO 14397)": "3904.4 lbs (1,771 kg)",
+            "Width without Bucket": "5.3 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "20.1 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "18 gal (68 l)",
+            "Max Speed": "10.1 mph (16 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "7006.3 lbs (3,178 kg)",
+            "Tire Size": "10 x 16.5 8 PR SKS Extra Wall Heavy Duty"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "6.3 gal (23 l)",
+            "Hydraulic Tank": "28 gal (106 l)"
+        }
+    }
+}

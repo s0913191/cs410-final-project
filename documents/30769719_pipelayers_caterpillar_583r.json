@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pipelayers/caterpillar/583r/30769719",
+    "source_url_id": "30769719",
+    "source_url_model": "583r",
+    "source_url_make": "caterpillar",
+    "source_url_category": "pipelayers",
+    "source_date_scraped": "2023-09-13 16:35:12.148445",
+    "equipment_category": "Pipelayers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "583R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height to Top of Suspended Cab": "11.2 ft (3 m)",
+            "Length": "18 ft (5 m)",
+            "Overall Length": "18 ft (5 m)",
+            "Shipping Height": "11.5 ft (3 m)",
+            "Shipping Width": "12 ft (4 m)",
+            "Width Over Tracks": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "3406C",
+            "Flywheel Power": "305 hp (227 kw)",
+            "Gross Power": "328.6 hp (245 kw)",
+            "Net Power - ISO 9249": "305 hp (227 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "92 gal (348 l)",
+            "Final Drives Fluid Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "109.9 gal (413 l)",
+            "Operating Weight": "98650 lbs (44,747 kg)"
+        },
+        "Pipelaying Equipment": {
+            "Lift Capacity": "140000 lbs (63,504 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "8.6 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Number of Shoes per Side": "47",
+            "Number of Track Rollers per Side": "9",
+            "Track Gauge": "7.7 ft (2 m)"
+        },
+        "Weights": {
+            "Operating Weight": "98650 lbs (44,747 kg)"
+        }
+    }
+}

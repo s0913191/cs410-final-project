@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/mitsubishi/bd2fs-1b6/30750903",
+    "source_url_id": "30750903",
+    "source_url_model": "bd2fs-1b6",
+    "source_url_make": "mitsubishi",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:50:08.751532",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Mitsubishi",
+    "equipment_model": "BD2FS-1B6",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "7.3 ft (2 m)",
+            "Length of Track on Ground": "5.7 ft (2 m)",
+            "Length w/ Blade": "10.8 ft (3 m)",
+            "Width Over Tracks": "6.3 ft in (15 cm)"
+        },
+        "Engine": {
+            "Displacement": "159.3 cu in (0 m)",
+            "Engine Model": "C S4E",
+            "Gross Power": "39 hp (29 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "9435.8 lbs (4,280 kg)"
+        },
+        "Standard Blade": {
+            "Height": "23.1 in (58 cm)",
+            "Width": "7.6 ft (2 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "DPS"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "19.7 in (48 cm)",
+            "Track Gauge": "4.6 ft (1 m)"
+        }
+    }
+}

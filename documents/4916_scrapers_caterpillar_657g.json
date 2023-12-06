@@ -1,0 +1,178 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/caterpillar/657g/4916",
+    "source_url_id": "4916",
+    "source_url_model": "657g",
+    "source_url_make": "caterpillar",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:46.093342",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "657G",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "44 cu yds (34 m)",
+            "Max Depth of Cut": "16.7 in (41 cm)",
+            "Rated Payload": "104058 lbs (47,200 kg)",
+            "Struck Capacity": "32 cu yds (24 m)",
+            "Width of Cut": "12.5 ft (4 m)"
+        },
+        "Dimensions": {
+            "Axle to Vertical Hitch Pin": "24 in (61 cm)",
+            "Bail Length - Maximum (Push-Pull)": "72.3 in (183 cm)",
+            "Front of Tractor to Front Axle": "148.4 in (376 cm)",
+            "Ground Clearance - Tractor": "25.4 in (64 cm)",
+            "Height - Overall Shipping": "185.4 in (470 cm)",
+            "Height - Scraper Blade Maximum": "26.8 in (66 cm)",
+            "Height - Top of Cab": "12.2 ft (4 m)",
+            "Length - Overall Machine": "636.4 in (1,615 cm)",
+            "Overall Height": "15.5 ft (5 m)",
+            "Overall Length": "53.1 ft (16 m)",
+            "Overall Width": "14.3 ft (4 m)",
+            "Rear Axle - Rear of Machine": "96 in (244 cm)",
+            "Tractor Ground Clearance": "2.2 ft (1 m)",
+            "Wheel Base": "36.1 ft (11 m)",
+            "Wheelbase": "32.7 ft (10 m)",
+            "Width - Inside of Bowl": "145 in (368 cm)",
+            "Width - Overall Machine": "171 in (434 cm)",
+            "Width - Rear Tire Center Lines": "110.8 in (279 cm)",
+            "Width - Tractor": "141.8 in (358 cm)"
+        },
+        "Engine": {
+            "Flywheel Power - Tractor/Scraper": "447 kw (600) / 337 kW (451)",
+            "Scraper Engine": "Cat C15 with ACERT Technology",
+            "Tractor Engine": "Cat C18 with ACERT Technology"
+        },
+        "Hydraulic System": {
+            "Apron Cylinder Bore": "9.3 in (23 cm)",
+            "Apron Cylinder Stroke": "30 in (76 cm)",
+            "Bowl Cylinder Bore": "9.3 in (23 cm)",
+            "Bowl Cylinder Stroke": "37.4 in (94 cm)",
+            "Compensator Settings - Cushion Hitch Circuit": "3002 psi",
+            "Cushion Hitch Circuit": "12.7 gal/min (45 l/min)",
+            "Ejector Cylinder Bore": "10.3 in (25 cm)",
+            "Ejector Cylinder Stroke": "76.7 in (193 cm)",
+            "Relief Valve - Implement Circuit": "1999 psi",
+            "Relief Valve - Steering Circuit": "1959 psi",
+            "Scraper Circuit": "153 gal/min (579 l/min)",
+            "Secondary Steering Circuit": "64.2 gal/min (242 l/min)",
+            "Steering Circuit": "99.9 gal/min (375 l/min)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "56.3 gal (212 l)",
+            "Differential Fluid Capacity": "79.5 gal (299 l)",
+            "Engine Oil Fluid Capacity": "26.9 gal (98 l)",
+            "Fuel Capacity": "421.9 gal (1,593 l)",
+            "Hydraulic System Fluid Capacity": "80 gal (303 l)",
+            "Operating Voltage": "24 V V",
+            "Rated Load": "110000 lbs (49,896 kg)",
+            "Scraper Capacity - Heaped": "73 cu yds (56 m)",
+            "Scraper Capacity - Struck": "59 cu yds (45 m)",
+            "Tire Size": "40.5/75 R39",
+            "Top Speed - Loaded": "33 mph (53 kph)",
+            "Transmission Fluid Capacity": "68 gal (257 l)",
+            "Wheel Coolant Fluid Capacity - each": "68.6 gal (257 l)"
+        },
+        "Scraper Bowl": {
+            "Apron Closure Force": "39200 lbs (17,781 kg)",
+            "Apron Opening": "92 in (234 cm)",
+            "Capacity - Struck": "32 cu yds (24 m)",
+            "Cutting Edge Thickness": "1.8 in (3 cm)",
+            "Depth of Cut - Maximum": "17 in (43 cm)",
+            "Depth of Spread - Maximum": "26 in (66 cm)",
+            "Ground Clearance - Maximum": "23 in (58 cm)",
+            "Rated Load": "104000 lbs (47,174 kg)",
+            "Scraper Capacity - Heaped": "44 cu yds (34 m)",
+            "Width - Cut - To Router Bits": "12.7 in (30 cm)"
+        },
+        "Scraper Engine": {
+            "Bore": "5.5 in (13 cm)",
+            "Displacement": "928 cu in (0 m)",
+            "Gross Power": "478 hp (356 kw)",
+            "Make": "Caterpillar",
+            "Model": "C15 ACERT",
+            "Stroke": "6.5 in (15 cm)"
+        },
+        "Service Refill Capacities - Scraper": {
+            "Cooling System": "24 gal (91 l)",
+            "Differential": "44 gal (167 l)",
+            "Final Drive - Each": "7.9 gal (27 l)",
+            "Transmission": "32 gal (121 l)",
+            "Wheel Coolant - Each": "34.3 gal (129 l)"
+        },
+        "Service Refill Capacities - Tractor": {
+            "Cooling System": "33 gal (125 l)",
+            "Crankcase": "17 gal (64 l)",
+            "Differential": "36 gal (136 l)",
+            "Final Drive - Each": "6 gal (23 l)",
+            "Hydraulic Reservoir": "80 gal (303 l)",
+            "Transmission": "36 gal (136 l)",
+            "Wheel Coolant - Each": "34.3 gal (129 l)",
+            "Windshield Washer": "0.5 gal (0 l)"
+        },
+        "Steering System": {
+            "Steering Angle - Left": "85  \t\u00b0",
+            "Steering Angle - Right": "90  \t\u00b0"
+        },
+        "Tractor Engine": {
+            "Bore": "5.7 in (13 cm)",
+            "Displacement": "1105 cu in (0 m)",
+            "Flywheel Power - Tractor/Scraper": "447 kW (600) / 337 kW (451)",
+            "Gross Power": "632 hp (471 kw)",
+            "Gross Power - Gears 3-8": "632 hp (471 kw)",
+            "Make": "Caterpillar",
+            "Model": "C18 ACERT",
+            "Net Power - Gears 1-2": "564 hp (421 kw)",
+            "Net Power - Gears 3-8": "600 hp (447 kw)",
+            "Stroke": "7.2 in (18 cm)"
+        },
+        "Transmission": {
+            "1 Forward": "3.5 mph (5 kph)",
+            "2 Forward": "6.3 mph (10 kph)",
+            "3 Forward": "7.8 mph (11 kph)",
+            "4 Forward": "10.6 mph (16 kph)",
+            "5 Forward": "14.1 mph (23 kph)",
+            "6 Forward": "19 mph (31 kph)",
+            "7 Forward": "25.6 mph (40 kph)",
+            "8 Forward": "34.6 mph (55 kph)",
+            "Max Speed Forward": "36 mph (58 kph)",
+            "Max Speed Reverse": "6 mph (10 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "1",
+            "Reverse": "6.1 mph (10 kph)",
+            "Top Speed - Loaded": "33 mph (53 kph)",
+            "Transmission Type": "8-speed automatic powershift with electronic control"
+        },
+        "Weights": {
+            "Front Axel - loaded": "129244 lbs (58,625 kg)",
+            "Front Axle - empty": "89650 lbs (40,665 kg)",
+            "Operating Weight - Loaded - Approximate": "268817 lbs (121,935 kg)",
+            "Rear Axle - empty": "59767 lbs (27,110 kg)",
+            "Rear Axle - loaded": "124176 lbs (56,326 kg)",
+            "Total Operating - empty": "149417 lbs (67,775 kg)",
+            "Total Operating - Loaded": "253420 lbs (114,951 kg)"
+        },
+        "Weights - Push-Pull": {
+            "Front Axle": "93842 lbs (42,567 kg)",
+            "Front Axle - Loaded": "134165 lbs (60,857 kg)",
+            "Rear Axle": "66663 lbs (30,238 kg)",
+            "Rear Axle - Loaded": "130340 lbs (59,122 kg)",
+            "Scraper Shipping": "64068 lbs (29,061 kg)",
+            "Total Operating - Empty": "160505 lbs (72,805 kg)",
+            "Total Operating - Loaded": "264505 lbs (119,979 kg)",
+            "Total Shipping": "160505 lbs (72,805 kg)",
+            "Tractor Shipping": "93635 lbs (42,473 kg)"
+        },
+        "Weights - Standard, Tandem": {
+            "Front Axle": "87924 lbs (39,882 kg)",
+            "Front Axle Weight - Loaded": "128246 lbs (58,172 kg)",
+            "Rear Axle": "62837 lbs (28,503 kg)",
+            "Rear Axle - Weight - Loaded": "126515 lbs (57,387 kg)",
+            "Scraper Shipping": "60242 lbs (27,326 kg)",
+            "Total Operating - Empty": "150761 lbs (68,385 kg)",
+            "Total Operating - Loaded": "254761 lbs (115,559 kg)",
+            "Total Shipping": "147959 lbs (67,114 kg)",
+            "Tractor Shipping": "87717 lbs (39,788 kg)"
+        }
+    }
+}

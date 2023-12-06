@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/2800/31077183",
+    "source_url_id": "31077183",
+    "source_url_model": "2800",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:27.302340",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2800",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "211 hp (157 kw)"
+        },
+        "Production": {
+            "Series": "2000 Series",
+            "Years Manufactured": "1976 - 1977"
+        }
+    }
+}

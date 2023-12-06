@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d155ax-6sl/30750874",
+    "source_url_id": "30750874",
+    "source_url_model": "d155ax-6sl",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:42.553659",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D155AX-6SL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "12.3 ft (4 m)",
+            "Length of Track on Ground": "10.8 ft (3 m)",
+            "Length w/o Blade": "18.2 ft (5 m)",
+            "Width Over Tracks": "9.1 ft in (23 cm)"
+        },
+        "Engine": {
+            "Displacement": "930 cu in (0 m)",
+            "Engine Model": "SAA6D140E-5",
+            "Make": "Komatsu",
+            "Model": "SAA6D140E-5",
+            "Net Power": "354 hp (264 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "96709 lbs (43,867 kg)"
+        },
+        "Standard Blade": {
+            "Height": "8.5 in (20 cm)",
+            "Width": "13.6 ft (4 m)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5685 cu in (0 m)",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22 in (56 cm)",
+            "Track Pitch": "84 in (213 cm)"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-213-pdh-4i/30679354",
+    "source_url_id": "30679354",
+    "source_url_model": "bw-213-pdh-4i",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:20.803736",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 213 PDH-4I",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "137.6 Inches"
+        },
+        "Drum": {
+            "Drum Width": "83.9 Inches",
+            "Vibration Frequency": "30/36 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "89.4 Inches"
+        }
+    }
+}

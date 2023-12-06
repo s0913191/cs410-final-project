@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tk90ma/30690993",
+    "source_url_id": "30690993",
+    "source_url_model": "tk90ma",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:29.351997",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TK90MA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "11.1 in (28 cm)",
+            "Track Width": "12.3 in (30 cm)",
+            "Wheelbase": "5.3 ft (2 m)",
+            "Width Outside Frame": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "238 cu in (0 m)",
+            "Gross Power": "87 hp (65 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "PTO Power": "76 hp (57 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "17.6 gal/min (64 l/min)",
+            "Relief Valve Pressure": "2755 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4078.6 lbs (1,850 kg)",
+            "3 Point Hitch Type": "Cat I & II",
+            "Alternator Supplied Amperage": "45  A",
+            "Fuel Capacity": "32 gal (121 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Max Speed": "7.5 mph (11 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "over-center controlled traction clutch"
+        }
+    }
+}

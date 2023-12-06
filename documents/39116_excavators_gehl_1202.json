@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/gehl/1202/39116",
+    "source_url_id": "39116",
+    "source_url_model": "1202",
+    "source_url_make": "gehl",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:21.177131",
+    "equipment_category": "Excavators",
+    "equipment_make": "Gehl",
+    "equipment_model": "1202",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "25.8 ft (8 m)",
+            "Max Digging Depth": "14.7 ft (4 m)",
+            "Max Loading Height": "18 ft (5 m)",
+            "Max Reach Along Ground": "25.5 ft (8 m)",
+            "Shipping Length of Unit": "23.3 ft (7 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "26.1 ft (8 m)",
+            "Max Digging Depth": "15.7 ft (5 m)",
+            "Max Loading Height": "19.4 ft (6 m)",
+            "Max Reach Along Ground": "26.2 ft (8 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.7 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Length of Track on Ground": "8.7 ft (2 m)",
+            "Tail Swing Radius": "5.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "277.2 cu in (0 m)",
+            "Engine Model": "e 4045TF270",
+            "Net Power": "99.2 hp (74 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "120 A",
+            "Fuel Capacity": "34.4 gal (129 l)",
+            "Hydraulic Pump Flow Capacity": "69.2 gal/min (261 l/min)",
+            "Hydraulic System Fluid Capacity": "33.9 gal (125 l)",
+            "Hydraulic System Relief Valve Pressure": "4350 psi",
+            "Operating Voltage": "12 V",
+            "Operating Weight": "25397 lbs (11,520 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "6.1 psi",
+            "Max Travel Speed": "3.9 mph (5 kph)",
+            "Number of Track Rollers per Side": "6",
+            "Shoe Size": "19.7 in (48 cm)"
+        }
+    }
+}

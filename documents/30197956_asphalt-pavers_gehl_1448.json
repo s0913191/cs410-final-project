@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/gehl/1448/30197956",
+    "source_url_id": "30197956",
+    "source_url_model": "1448",
+    "source_url_make": "gehl",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:14.271459",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Gehl",
+    "equipment_model": "1448",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "7.4 ft (2 m)",
+            "Transport Height": "7 ft (2 m)",
+            "Transport Width": "8.5 ft (2 m)",
+            "Width w/ Hopper Open": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "25 hp (19 kw)",
+            "Power Measured @": "3000 rpm"
+        },
+        "Hopper/Paver": {
+            "Paving Speed - max": "78.8 ft/min",
+            "Paving Thickness - max": "0.6 in (0 cm)",
+            "Paving Width - max": "12.1 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "8 gal (30 l)",
+            "Hydraulic System Fluid Capacity": "18 gal (68 l)",
+            "Operating Weight w/ Screed": "7775 lbs (3,527 kg)"
+        }
+    }
+}

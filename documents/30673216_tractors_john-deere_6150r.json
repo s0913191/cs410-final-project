@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6150r/30673216",
+    "source_url_id": "30673216",
+    "source_url_model": "6150r",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:22:14.320900",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6150R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "20.9 in (51 cm)",
+            "Height - Top of Cab": "116.1 ft (35 m)",
+            "Overall Length": "194.1 in (493 cm)",
+            "Wheelbase": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "turbocharged intercooled diesel",
+            "Gross Power": "165 hp (123 kw)",
+            "Net Power": "150 hp (112 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1995 rpm",
+            "PTO Power": "1000 hp (746 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "21.1 gal/min (79 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "17861 lbs (8,102 kg)",
+            "3 Point Hitch Type": "3N",
+            "Cooling System Fluid Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "92.5 gal (348 l)",
+            "Operating Weight": "24917 lbs (11,302 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "20",
+            "Number of Reverse Gears": "20",
+            "Transmission Type": "partial power shift"
+        },
+        "Years of Manufacture": {
+            "Approximate First Year of Manufacture": "2012",
+            "Approximate Last Year of Manufacture": "2016"
+        }
+    }
+}

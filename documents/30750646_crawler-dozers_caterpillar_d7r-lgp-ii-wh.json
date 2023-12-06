@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d7r-lgp-ii-wh/30750646",
+    "source_url_id": "30750646",
+    "source_url_model": "d7r-lgp-ii-wh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:27.719657",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D7R LGP II WH",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "11.8 ft (3 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Length w/ Blade": "20.6 ft (6 m)",
+            "Length w/o Blade": "15.5 ft (5 m)",
+            "Width Over Tracks": "8.4 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "629 cu in (0 m)",
+            "Engine Model": "3176C",
+            "Gross Power": "258 hp (192 kw)",
+            "Net Power": "240 hp (179 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "126.5 gal (477 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "61500 lbs (27,896 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "16.1 cu yds (12 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.6 mph (10 kph)",
+            "Max Speed - Reverse": "8.4 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "8974 cu in (0 m)",
+            "Ground Pressure": "6.6 psi",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "36 in (91 cm)",
+            "Track Gauge": "7.4 ft (2 m)"
+        }
+    }
+}

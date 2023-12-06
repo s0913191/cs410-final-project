@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/bolinder-munktell/vhk85/30754566",
+    "source_url_id": "30754566",
+    "source_url_model": "vhk85",
+    "source_url_make": "bolinder-munktell",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:33:45.220566",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Bolinder Munktell",
+    "equipment_model": "VHK85",
+    "equipment_spec": {
+        "Circle": {
+            "Diameter": "58.6 in (147 cm)",
+            "Max Lift Above Ground": "19.7 in (48 cm)",
+            "Max Reach Outside Tires - Left": "70.9 in (178 cm)",
+            "Max Reach Outside Tires - Right": "70.9 in (178 cm)",
+            "Rotation": "360  \t\u00b0"
+        },
+        "Dimensions": {
+            "Blade Base": "7.8 ft (2 m)",
+            "Front Ground Clearance": "2.1 ft (1 m)",
+            "Height to Top of Isomount Cab": "9.7 ft (3 m)",
+            "Overall Length": "24.7 ft (7 m)",
+            "Tandem Axle Wheelbase": "4.8 ft (1 m)",
+            "Wheelbase": "18.1 ft (5 m)",
+            "Width Over Tires": "7.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "410.7 cu in (0 m)",
+            "Engine Model": "D67A",
+            "Max Power": "85 hp (63 kw)",
+            "Net Power Gears 7-8": "85 hp (63 kw)",
+            "Net Torque Gears 7-8": "289 lbs/ft"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Wheel Lean": "23  \t\u00b0"
+        },
+        "Moldboard": {
+            "Blade Pull at Max Weight": "8928.8 lbs (4,050 kg)",
+            "Moldboard Height": "23.7 in (58 cm)",
+            "Moldboard Width": "10.1 ft (3 m)",
+            "Side Shift Left": "33.1 in (84 cm)",
+            "Side Shift Right": "33.1 in (84 cm)"
+        },
+        "Operating Specifications": {
+            "Max Operation Weight - Front Axle": "12639.2 lbs (5,733 kg)",
+            "Max Operation Weight - Rear Axle": "17454 lbs (7,917 kg)",
+            "Max Operation Weight - Total": "30093.2 lbs (13,650 kg)",
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Front Axle": "6173 lbs (2,800 kg)",
+            "Std Operation Weight - Rear Axle": "14991.5 lbs (6,800 kg)",
+            "Std Operation Weight - Total": "21164.4 lbs (9,600 kg)",
+            "Tire Size": "13.00-24 12ply"
+        },
+        "Steering System": {
+            "Turning Radius": "32480.4 ft (9,900 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "17.8 mph (27 kph)",
+            "Max Speed - Reverse": "4.3 mph (6 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "2",
+            "Transmission Type": "constant mesh"
+        }
+    }
+}

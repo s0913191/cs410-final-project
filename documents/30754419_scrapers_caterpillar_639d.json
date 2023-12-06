@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/caterpillar/639d/30754419",
+    "source_url_id": "30754419",
+    "source_url_model": "639d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:41.609571",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "639D",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "34.1 cu yds (26 m)",
+            "Max Depth of Cut": "15 in (38 cm)",
+            "Rated Payload": "74957.2 lbs (34,000 kg)",
+            "Width of Cut": "11.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "14.6 ft (4 m)",
+            "Overall Length": "47.7 ft (14 m)",
+            "Overall Width": "13 ft (4 m)",
+            "Wheelbase": "29.5 ft (9 m)"
+        },
+        "Elevator": {
+            "Number of Flights": "20"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "370.7 gal (1,400 l)",
+            "Tire Size": "37.25-35 42PR E-3"
+        },
+        "Tractor Engine": {
+            "Displacement": "1098.5 cu in (0 m)",
+            "Gross Power": "450.6 hp (336 kw)",
+            "Make": "Caterpillar",
+            "Model": "3408"
+        },
+        "Transmission": {
+            "Max Speed Forward": "33 mph (53 kph)",
+            "Number of Forward Gears": "8"
+        },
+        "Weights": {
+            "Front Axel - loaded": "101417.1 lbs (46,002 kg)",
+            "Front Axle - empty": "73100.9 lbs (33,158 kg)",
+            "Rear Axle - empty": "50799 lbs (23,042 kg)",
+            "Rear Axle - loaded": "97440 lbs (44,199 kg)",
+            "Total Operating - empty": "123899.8 lbs (56,200 kg)",
+            "Total Operating - Loaded": "198857 lbs (90,201 kg)"
+        }
+    }
+}

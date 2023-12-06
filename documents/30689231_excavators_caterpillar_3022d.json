@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/3022d/30689231",
+    "source_url_id": "30689231",
+    "source_url_model": "3022d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:55.166914",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "302.2D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "8.2 ft (2 m)",
+            "Max Reach Along Ground": "13.5 ft (4 m)"
+        },
+        "Engine": {
+            "Net Power": "17.7 hp (13 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "4707 lbs (2,135 kg)"
+        }
+    }
+}

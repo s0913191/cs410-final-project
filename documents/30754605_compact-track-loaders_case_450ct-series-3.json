@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/case/450ct-series-3/30754605",
+    "source_url_id": "30754605",
+    "source_url_model": "450ct-series-3",
+    "source_url_make": "case",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:37.153266",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "450CT Series 3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Ground Clearance": "11.3 in (28 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length - with Bucket": "11.8 ft (3 m)",
+            "Length - without Bucket": "9.2 ft (3 m)",
+            "Reach at Max Lift and Dump": "2.5 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "92.2 in (234 cm)",
+            "Turning Radius from Center - machine rear": "59.9 in (150 cm)",
+            "Width Over Tracks": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "274 cu in (0 m)",
+            "Engine Model": "445T/M3",
+            "Gross Power": "90 hp (67 kw)",
+            "Net Power": "83 hp (62 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "288 lbs/ft",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "22 gal/min (83 l/min)",
+            "Pump Type": "Gear"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.8 cu yds (0 m)",
+            "Operating Load": "3857 lbs (1,750 kg)",
+            "Tipping Angle": "7714  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "3.1 gal (11 l)",
+            "Engine Oil Capacity": "3.2 gal (11 l)",
+            "Fuel Capacity": "20.7 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "17 gal (64 l)",
+            "Max Speed - high range": "8 mph (13 kph)",
+            "Max Speed - low range": "5.1 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10925 lbs (4,956 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2293 cu in (0 m)",
+            "Ground Pressure": "4.8 psi",
+            "Length of Track on Ground": "5.4 ft (2 m)",
+            "Number of Track Rollers per Side": "4",
+            "Width of Track": "17.8 in (43 cm)"
+        }
+    }
+}

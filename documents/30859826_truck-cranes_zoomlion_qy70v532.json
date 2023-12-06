@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/zoomlion/qy70v532/30859826",
+    "source_url_id": "30859826",
+    "source_url_model": "qy70v532",
+    "source_url_make": "zoomlion",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:26.104684",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Zoomlion",
+    "equipment_model": "QY70V532",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "145.1 ft (44 m)",
+            "Max Lift Capacity": "154323.6 lbs (70,001 kg)",
+            "Min Height @ Max Raise Angle": "40.1 ft (12 m)",
+            "Number of Sections": "5"
+        },
+        "Dimensions": {
+            "Carrier Length": "40.3 ft (12 m)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Transport Height": "12.4 ft (4 m)",
+            "Transport Length": "46.3 ft (14 m)",
+            "Transport Width": "9.1 ft (3 m)",
+            "Width w/ Outriggers Extended": "25 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "99208.1 lbs (45,001 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)"
+        }
+    }
+}

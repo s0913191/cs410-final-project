@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/450h-lpg/30750747",
+    "source_url_id": "30750747",
+    "source_url_model": "450h-lpg",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:43.475678",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "450H LPG",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Length of Track on Ground": "7.2 ft (2 m)",
+            "Length w/o Blade": "13.2 ft (4 m)",
+            "Width Over Tracks": "2.1 ft in (5 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Altitude-compensating turbocharger",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "4045T",
+            "Gross Power": "79 hp (59 kw)",
+            "Max Torque": "254 lbs/ft",
+            "Net Power": "74 hp (55 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15 gal/min (57 l/min)",
+            "Pump type": "Gear",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Engine Oil Capacity": "3.7 gal (11 l)",
+            "Final Drives Fluid Capacity": "1.8 gal (4 l)",
+            "Fuel Capacity": "36 gal (136 l)",
+            "Hydraulic Fluid Capacity": "8.5 gal (30 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "16500 lbs (7,484 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "22.2  \t\u00b0",
+            "Capacity": "2 cu yds (2 m)",
+            "Height": "32.5 in (81 cm)",
+            "Width": "8.1 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5 mph (8 kph)",
+            "Max Speed - Reverse": "5 mph (8 kph)",
+            "Transmission Type": "Dual-path, electronic-controlled, hydrostatic drive"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4128 cu in (0 m)",
+            "Ground Pressure": "4 psi",
+            "Number of Shoes per Side": "40",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "24 in (61 cm)",
+            "Track Pitch": "6.3 in (15 cm)"
+        }
+    }
+}

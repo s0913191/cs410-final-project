@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/sunward/swtl4210/30754610",
+    "source_url_id": "30754610",
+    "source_url_model": "swtl4210",
+    "source_url_make": "sunward",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:08.455955",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Sunward",
+    "equipment_model": "SWTL4210",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.9 ft (2 m)",
+            "Ground Clearance": "9.3 in (23 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length - with Bucket": "12 ft (4 m)",
+            "Length - without Bucket": "9.2 ft (3 m)",
+            "Reach at Max Lift and Dump": "2.3 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "90.5 in (229 cm)",
+            "Turning Radius from Center - machine rear": "66.1 in (168 cm)",
+            "Width Over Tracks": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V3300DI",
+            "Net Power": "73.7 hp (54 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "180 lbs/ft",
+            "Power Measured @": "2600 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "33 gal/min (125 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "3626 psi"
+        },
+        "Loader": {
+            "Breakout Force": "6613.9 lbs (3,000 kg)",
+            "Bucket Capacity": "0.9 cu yds (0 m)",
+            "Operating Load": "2645.6 lbs (1,200 kg)",
+            "Tipping Angle": "7561.9  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "2.3 gal (8 l)",
+            "Engine Oil Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "22.5 gal (83 l)",
+            "Hydraulic System Fluid Capacity": "17.2 gal (64 l)",
+            "Max Speed - high range": "6.9 mph (10 kph)",
+            "Operating Weight": "9612.2 lbs (4,360 kg)"
+        },
+        "Undercarriage": {
+            "Length of Track on Ground": "5.3 ft (2 m)",
+            "Track Gauge": "5.1 ft (2 m)",
+            "Width of Track": "17.8 in (43 cm)"
+        }
+    }
+}

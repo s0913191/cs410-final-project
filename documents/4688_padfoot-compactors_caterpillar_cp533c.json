@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/caterpillar/cp533c/4688",
+    "source_url_id": "4688",
+    "source_url_model": "cp533c",
+    "source_url_make": "caterpillar",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:25.761595",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CP533C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "19.1 in (48 cm)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Overall Length w/ Blade": "17.3 ft (5 m)",
+            "Wheelbase": "9 in (23 cm)",
+            "Width Over Tires": "7.5 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "53000 lbs (24,041 kg)",
+            "Centrifugal Force - Low": "29700 lbs (13,472 kg)",
+            "Drum Diameter": "61 in (155 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "3116T",
+            "Gross Power": "145 hp (108 kw)"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "5.3 gal (19 l)",
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Max Speed": "8 mph (13 kph)",
+            "Operating Weight": "23721.8 lbs (10,760 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1 x 26-8 ply"
+        }
+    }
+}

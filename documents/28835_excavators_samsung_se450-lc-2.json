@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/samsung/se450-lc-2/28835",
+    "source_url_id": "28835",
+    "source_url_model": "se450-lc-2",
+    "source_url_make": "samsung",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:18:18.952632",
+    "equipment_category": "Excavators",
+    "equipment_make": "Samsung",
+    "equipment_model": "SE450 LC-2",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "36.1 ft (11 m)",
+            "Max Digging Depth": "25.4 ft (8 m)",
+            "Max Loading Height": "25 ft (8 m)",
+            "Max Reach Along Ground": "39.6 ft (12 m)",
+            "Shipping Height of Unit": "11.2 ft (3 m)",
+            "Shipping Length of Unit": "39.3 ft (12 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "3.2 cu yds (2 m)",
+            "Minimum Bucket Capacity": "2.6 cu yds (2 m)",
+            "Reference Bucket Capacity": "2.6 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length of Track on Ground": "14.4 ft (4 m)",
+            "Removal Counterweight Clearance": "4 ft (1 m)",
+            "Tail Swing Radius": "12.5 ft (4 m)",
+            "Width to Outside of Tracks": "11.4 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "LTA 10-C",
+            "Max Torque": "976 lbs/ft",
+            "Net Power": "296 hp (221 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "171.8 gal (647 l)",
+            "Hydraulic Pump Flow Capacity": "174.4 gal/min (659 l/min)",
+            "Hydraulic System Relief Valve Pressure": "4552 psi",
+            "Operating Weight": "96430.2 lbs (43,740 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "11 psi",
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "9.5 ft (3 m)"
+        }
+    }
+}

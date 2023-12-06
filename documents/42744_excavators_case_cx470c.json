@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx470c/42744",
+    "source_url_id": "42744",
+    "source_url_model": "cx470c",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:08.949606",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX470C",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "36.6 ft (11 m)",
+            "Max Digging Depth": "25.4 ft (8 m)",
+            "Max Loading Height": "25.4 ft (8 m)",
+            "Max Reach Along Ground": "38.7 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "35.5 ft (11 m)",
+            "Max Digging Depth": "22.6 ft (7 m)",
+            "Max Loading Height": "24.4 ft (7 m)",
+            "Max Reach Along Ground": "36.1 ft (11 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Length of Track on Ground": "17.9 ft (5 m)",
+            "Tail Swing Radius": "12.3 ft (4 m)",
+            "Width to Outside of Tracks": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger",
+            "Engine Make": "Isuzu",
+            "Engine Model": "AL-6UZ1X",
+            "Gross Power": "362.1 hp (270 kw)",
+            "Max Torque": "1058.5 lbs/ft",
+            "Net Power": "328.6 hp (245 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "12.5 gal (45 l)",
+            "Fuel Capacity": "171.8 gal (647 l)",
+            "Hydraulic Pump Flow Capacity": "192.4 gal/min (727 l/min)",
+            "Hydraulic System Fluid Capacity": "121.6 gal (458 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "105381 lbs (47,801 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "76435.1 lbs (34,671 kg)",
+            "Ground Pressure": "11.9 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "50",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "9.1 ft (3 m)"
+        }
+    }
+}

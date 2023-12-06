@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/r2900g/30755269",
+    "source_url_id": "30755269",
+    "source_url_model": "r2900g",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:18.994738",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "R2900G",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "60298 lbs (27,351 kg)",
+            "Bucket Capacity - heaped": "9.4 cu yds (7 m)",
+            "Bucket Width": "10 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Hinge Pin - Max Height": "15 ft (5 m)",
+            "Length with Bucket on Ground": "37.1 ft (11 m)",
+            "Reach at Max Lift and Dump": "5.5 ft (2 m)",
+            "Wheelbase": "12.5 ft (4 m)",
+            "Width Over Tires": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "927.9 cu in (0 m)",
+            "Engine Model": "C15 ACERT",
+            "Gross Power": "430 hp (321 kw)",
+            "Net Power": "389 hp (290 kw)",
+            "Power Measured @": "1900 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "3.4 sec",
+            "Lower Time": "3.1 sec",
+            "Raise Time": "9.2 sec"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "19.8 gal (72 l)",
+            "Engine Oil Fluid Capacity": "9 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "31.4 gal (117 l)",
+            "Fuel Capacity": "225.6 gal (852 l)",
+            "Hydraulic System Fluid Capacity": "37 gal (140 l)",
+            "Operating Weight": "148611 lbs (67,410 kg)",
+            "Rear Axle Oscillation": "16  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "33.5 gal (125 l)",
+            "Static Tipping Weight": "88015 lbs (39,923 kg)",
+            "Tire Size": "29.5 x 29 34 PLY STMS",
+            "Transmission Fluid Capacity": "16.4 gal (61 l)",
+            "Turning Radius": "24.1 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15.7 mph (24 kph)",
+            "Max Speed - Reverse": "16.4 mph (26 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

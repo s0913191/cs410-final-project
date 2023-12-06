@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d58p-1/21563",
+    "source_url_id": "21563",
+    "source_url_model": "d58p-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:31.268005",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D58P-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.2 ft (2 m)",
+            "Length of Track on Ground": "10.1 ft (3 m)",
+            "Length w/ Blade": "13.6 ft (4 m)",
+            "Width Over Tracks": "9.6 ft in (23 cm)"
+        },
+        "Engine": {
+            "Displacement": "674 cu in (0 m)",
+            "Engine Model": "6D125E"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Operating Weight": "27800.3 lbs (12,610 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.4 mph (8 kph)",
+            "Max Speed - Reverse": "6.4 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "33.9 in (84 cm)",
+            "Track Gauge": "6.8 ft (2 m)"
+        }
+    }
+}

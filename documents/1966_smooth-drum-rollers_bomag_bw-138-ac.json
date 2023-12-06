@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-138-ac/1966",
+    "source_url_id": "1966",
+    "source_url_model": "bw-138-ac",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:58.175294",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 138 AC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "142.2 in (361 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54.3 in (137 cm)",
+            "Vibration Frequency": "2760 - 3,120 hz (165,600 - 187,200 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "57.5 in (145 cm)"
+        }
+    }
+}

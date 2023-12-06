@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/sam/slc-4000/30753439",
+    "source_url_id": "30753439",
+    "source_url_model": "slc-4000",
+    "source_url_make": "sam",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:11.783594",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Sam",
+    "equipment_model": "SLC 4000",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "84.7 in (213 cm)",
+            "Max Boom Width": "78.8 ft (24 m)",
+            "Min Adjustable Height": "23.7 in (58 cm)",
+            "Number of Sections": "7"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3.2 ft (1 m)",
+            "Overall Length": "23.8 in (58 cm)",
+            "Tire Size": "13.6/28",
+            "Transport Height": "11.2 ft (3 m)",
+            "Transport Width": "9.6 ft (3 m)",
+            "Wheelbase": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, watercooled",
+            "Gross Power": "220 hp (164 kw)",
+            "Number of Cylinders": "6"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "15322 lbs (6,950 kg)",
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Hydraulic Fluid Capacity": "26.5 gal (98 l)",
+            "Rinse Tank Capacity": "79.3 gal (299 l)",
+            "Solution Tank Capacity": "1056.7 gal (3,997 l)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Transmission Type": "Fully hydrostatic 4 wheel drive with 4-speed transmission"
+        }
+    }
+}

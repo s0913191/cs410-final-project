@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx130-long-reach/30748123",
+    "source_url_id": "30748123",
+    "source_url_model": "cx130-long-reach",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:11.451488",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX130 Long Reach",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "31 ft (9 m)",
+            "Max Digging Depth": "20 ft (6 m)",
+            "Max Loading Height": "23.2 ft (7 m)",
+            "Max Reach Along Ground": "28.3 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.5 ft (5 m)",
+            "Shipping Height of Unit": "9.1 ft (3 m)",
+            "Shipping Length of Unit": "25 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "42.4 ft (13 m)",
+            "Max Digging Depth": "33.3 ft (10 m)",
+            "Max Loading Height": "36.1 ft (11 m)",
+            "Max Reach Along Ground": "42.9 ft (13 m)",
+            "Shipping Height of Unit": "9 ft (3 m)",
+            "Shipping Length of Unit": "34.1 ft (10 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.5 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.4 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.4 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length of Track on Ground": "10 ft (3 m)",
+            "Removal Counterweight Clearance": "2.9 ft (1 m)",
+            "Tail Swing Radius": "7.2 ft (2 m)",
+            "Width to Outside of Tracks": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged and aftercooled",
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "4TA-390, Tier II certified",
+            "Gross Power": "110 hp (82 kw)",
+            "Max Torque": "325 lbs/ft",
+            "Net Power": "106 hp (79 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1450 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45 A",
+            "Cooling System Fluid Capacity": "4.7 gal (15 l)",
+            "Engine Oil Capacity": "2.5 gal (8 l)",
+            "Fuel Capacity": "66 gal (250 l)",
+            "Hydraulic Pump Flow Capacity": "67.1 gal/min (254 l/min)",
+            "Hydraulic System Fluid Capacity": "32 gal (121 l)",
+            "Hydraulic System Relief Valve Pressure": "4975 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "32187.5 lbs (14,600 kg)",
+            "Swing Drive Fluid Capacity": "0.6 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "13.8 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "22481 lbs (10,197 kg)",
+            "Ground Pressure": "4.5 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "6.6 ft (2 m)"
+        }
+    }
+}

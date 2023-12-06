@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tc29d/1836830",
+    "source_url_id": "1836830",
+    "source_url_model": "tc29d",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:13.434364",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TC29D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14 in (36 cm)",
+            "Height - Top of Cab": "7.4 ft (2 m)",
+            "Overall Length": "8.9 in (20 cm)",
+            "Tire Size": "Front 7x14, Rear 11.2x24",
+            "Wheelbase": "5.3 ft (2 m)",
+            "Width Outside Frame": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "81.2 cu in (0 m)",
+            "Gross Power": "29 hp (22 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2800 rpm",
+            "PTO Power": "25.1 hp (19 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "12.7 gal/min (45 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1635 lbs (742 kg)",
+            "Fuel Capacity": "7.3 gal (27 l)",
+            "Operating Weight": "2474 lbs (1,122 kg)",
+            "Turning Radius": "8.1 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "12.8 mph (19 kph)",
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Manual"
+        }
+    }
+}

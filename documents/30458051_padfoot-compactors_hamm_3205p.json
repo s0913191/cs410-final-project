@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/hamm/3205p/30458051",
+    "source_url_id": "30458051",
+    "source_url_model": "3205p",
+    "source_url_make": "hamm",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:39.510730",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Hamm",
+    "equipment_model": "3205P",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Overall Length w/o Blade": "14.3 ft (4 m)",
+            "Turning Radius - Inside": "117 in (297 cm)",
+            "Width Over Tires": "4.9 ft (1 m)"
+        },
+        "Drum": {
+            "Drum Width": "54 in (137 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "84",
+            "Pad Height": "3.2 in (8 cm)",
+            "Vibration Frequency": "1,800-2,520 hz (108,000 vpm)",
+            "Vibration Frequency 1": "42 hz (2,520 vpm)"
+        },
+        "Engine": {
+            "Displacement": "177 cu in (0 m)",
+            "Engine Model": "TD2011",
+            "Gross Power": "64.4 hp (48 kw)",
+            "Make": "Deutz",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "46.3 gal (174 l)",
+            "Operating Weight": "12632.5 lbs (5,730 kg)",
+            "Operating Width": "54 in (137 cm)"
+        }
+    }
+}

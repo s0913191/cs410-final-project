@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/s2669-2wd/30758194",
+    "source_url_id": "30758194",
+    "source_url_model": "s2669-2wd",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:01.119386",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "S2669 2WD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.3 in (23 cm)",
+            "Height w/ Rails": "7.9 ft (2 m)",
+            "Height w/o Rails": "4.3 ft (1 m)",
+            "Overall Length": "10.5 in (25 cm)",
+            "Overall Width": "6 ft (2 m)",
+            "Turning Radius": "7.6 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "WG750 Dual Fuel",
+            "Gross Power": "20 hp (15 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "13 gal (49 l)",
+            "Hydraulic System Fluid Capacity": "14.1 gal (53 l)",
+            "Max Speed": "3.5 mph (5 kph)",
+            "Operating Weight": "6400.1 lbs (2,903 kg)",
+            "Tire Fill/Type": "Air",
+            "Tire Size": "27x8.5-15"
+        },
+        "Platform": {
+            "Deck Extension": "35.5 in (89 cm)",
+            "Height of Rails": "3.7 ft (1 m)",
+            "Lift Time": "25 sec",
+            "Lower Time": "25 sec",
+            "Max Platform Height": "26.3 ft (8 m)",
+            "Max Platform Weight Capacity": "1250.1 lbs (567 kg)",
+            "Max Working Height": "32.2 ft (10 m)",
+            "Platform Inner Length": "120.1 in (305 cm)",
+            "Platform Inner Width": "63.8 in (160 cm)"
+        }
+    }
+}

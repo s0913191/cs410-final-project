@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/sw770nd/30198189",
+    "source_url_id": "30198189",
+    "source_url_model": "sw770nd",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:50.939781",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "SW770ND",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "67 in (170 cm)",
+            "Vibration Frequency": "50 hz (3,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Isuzu"
+        },
+        "Operating Specifications": {
+            "Operating Width": "6 in (15 cm)"
+        }
+    }
+}

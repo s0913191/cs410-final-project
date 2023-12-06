@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/claas/rollant-354-rf/30752445",
+    "source_url_id": "30752445",
+    "source_url_model": "rollant-354-rf",
+    "source_url_make": "claas",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:59:36.872369",
+    "equipment_category": "Balers",
+    "equipment_make": "Claas",
+    "equipment_model": "Rollant 354 RF",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Diameter - max": "4.2 ft (1 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Overall Width": "6.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "7.6 ft (2 m)",
+            "Overall Length": "15.5 ft (5 m)",
+            "Overall Width": "9.1 ft (3 m)"
+        }
+    }
+}

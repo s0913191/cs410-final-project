@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/650k-lgp-series-3/30760462",
+    "source_url_id": "30760462",
+    "source_url_model": "650k-lgp-series-3",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:26.904298",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "650K LGP Series 3",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Case",
+            "Model": "445T M2 diesel",
+            "Net Power": "74.8 hp (55 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "19400 lbs (8,800 kg)"
+        }
+    }
+}

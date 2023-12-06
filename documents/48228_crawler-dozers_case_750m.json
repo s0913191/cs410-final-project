@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/750m/48228",
+    "source_url_id": "48228",
+    "source_url_model": "750m",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:37.599723",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "750M",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Capacity": "2.2 cu yds (2 m)",
+            "Blade Type": "PAT",
+            "Blade Width": "10 ft in (25 cm)"
+        },
+        "Capacities": {
+            "Engine oil with filter": "2.2 gal (8 l)"
+        },
+        "Dimensions": {
+            "Blade depth below ground": "22.9 in (56 cm)",
+            "Blade lift above ground": "33.9 in (84 cm)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)"
+        },
+        "Drive System": {
+            "Final drive": "2 helical gear",
+            "Max drawbar pull": "41005.2 lbs (18,600 kg)",
+            "Parking brakes": "Heavy-duty, spring-applied,"
+        },
+        "Electrical System": {
+            "Alternator": "120 amp",
+            "Batteries": "2 V",
+            "Battery": "12-volt low-maintenance"
+        },
+        "Engine": {
+            "Displacement": "207.5 cu in (0 m)",
+            "Emission Tier Level": "Tier3",
+            "Engine Model": "FPT F5HFL413J",
+            "Fuel": "2 Diesel",
+            "Fuel tank": "50 gal (189 l)",
+            "Gross Power": "96 hp (72 kw)",
+            "Net Power": "92 hp (69 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Pump operating angles - Fore and aft": "45  \t\u00b0",
+            "Pump operating angles -Side-to-side": "35  \t\u00b0",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Hydraulic System": {
+            "Lift cylinder - Rod diameter": "1.8 in (3 cm)",
+            "Lift cylinder - Stroke": "15.6 in (38 cm)",
+            "Lift cylinder(s)": "2",
+            "Lift cylinder-Bore diameter": "3.5 in (8 cm)",
+            "Pump Flow Capacity": "2476.4 gal/min (9,372 l/min)",
+            "Pump type": "Variable Displacement Piston"
+        },
+        "Operating Specifications": {
+            "Long track": "20040.1 lbs (9,090 kg)",
+            "Low ground pressure": "20666.2 lbs (9,374 kg)",
+            "Operating Weight": "20666.2 lbs (9,374 kg)",
+            "Winch": "1982 lbs (899 kg)"
+        },
+        "Performance": {
+            "Pump Flow": "20.3 gal/min (76 l/min)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.2 mph (8 kph)",
+            "Max Speed - Reverse": "5.2 mph (8 kph)"
+        },
+        "Undercarriage": {
+            "Number of bottom rollers per side": "6",
+            "Number of Shoes per Side": "39",
+            "Number of Upper Rollers": "1",
+            "Width of Shoes": "28 in (71 cm)"
+        },
+        "Weights": {
+            "Cab": "560 lbs (254 kg)",
+            "counterweight": "826.8 lbs (375 kg)",
+            "Ripper weight": "1400 lbs (635 kg)"
+        }
+    }
+}

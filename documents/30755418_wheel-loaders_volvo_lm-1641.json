@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/lm-1641/30755418",
+    "source_url_id": "30755418",
+    "source_url_model": "lm-1641",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:27.894211",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "LM 1641",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4.2 cu yds (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "TD 100 A",
+            "Gross Power": "240 hp (179 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "37478.6 lbs (17,000 kg)",
+            "Static Tipping Weight": "25794.1 lbs (11,700 kg)",
+            "Tire Size": "23.5-25"
+        }
+    }
+}

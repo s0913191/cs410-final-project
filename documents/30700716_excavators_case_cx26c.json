@@ -1,0 +1,93 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx26c/30700716",
+    "source_url_id": "30700716",
+    "source_url_model": "cx26c",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:49.890282",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX26C",
+    "equipment_spec": {
+        "Boom": {
+            "Arm Length": "6.5 ft (2 m)",
+            "Boom Length": "3.8 ft (1 m)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "13.7 ft (4 m)",
+            "Max Digging Depth": "8 ft (2 m)",
+            "Max Loading Height": "9.7 ft (3 m)",
+            "Max Reach Along Ground": "14.3 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "4.8 ft (1 m)",
+            "Max.Dumping Height": "9.7 ft (3 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "13.3 ft (4 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "13.9 ft (4 m)",
+            "Max Digging Depth": "8.7 ft (2 m)",
+            "Max Loading Height": "10 ft (3 m)",
+            "Max Reach Along Ground": "14.9 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "5.3 ft (2 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "13.3 ft (4 m)"
+        },
+        "Capacities": {
+            "Engine oil w/ filter change": "1.6 gal (4 l)",
+            "Fuel Tank": "8 gal (30 l)",
+            "Hydraulic Tank": "14.6 gal (53 l)",
+            "Radiator": "1.4 gal (4 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Length of Track on Ground": "4.9 ft (1 m)",
+            "Tail Swing Radius": "2.5 ft (1 m)",
+            "Width to Outside of Tracks": "5 ft (2 m)"
+        },
+        "Drive System": {
+            "Gradeability": "30  \t\u00b0",
+            "Ground pressure": "4.6 psi",
+            "Max drawbar pull": "3124.9 lbs (1,417 kg)",
+            "Maximum traction force": "3300 lbs (1,497 kg)"
+        },
+        "Electrical System": {
+            "Alternator": "40 amp",
+            "Battery": "1 x 12 V x 58 Ah",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Cooling system": "Water-cooled",
+            "Displacement": "77 cu in (0 m)",
+            "Emissions level": "Tier 4 Final",
+            "Engine Model": "Kubota D1305",
+            "Fuel": "Diesel",
+            "Fuel injection": "Mechanical",
+            "Gross Power": "24.8 hp (18 kw)",
+            "Max speed": "2.7 mph (3 kph)",
+            "Max Torque": "60.1 lbs/ft",
+            "Net Power": "23.2 hp (17 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Main pump - Maximum flow": "14.6 gal/min (53 l/min)",
+            "Relief pressure": "3130 psi, 220 bar"
+        },
+        "Lift System": {
+            "Bucket Breakout Force": "4743.5 lbs (2,151 kg)",
+            "Lift over end Max. reach - lbs": "1697.6 lbs (770 kg)",
+            "Lift over side Max. reach": "463 lbs (210 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "5853.3 lbs (2,655 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.1 rpm"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "3"
+        }
+    }
+}

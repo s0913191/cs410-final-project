@@ -1,0 +1,124 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-dozers/caterpillar/814f/30684976",
+    "source_url_id": "30684976",
+    "source_url_model": "814f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-dozers",
+    "source_date_scraped": "2023-09-13 16:41:06.082581",
+    "equipment_category": "Wheel Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "814F",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed",
+            "Maximum Single-Wheel Rise and Fall": "18.4 in (46 cm)",
+            "Rear": "Oscillating 12  \t\u00b0"
+        },
+        "Blades": {
+            "Blade Capacity": "3.49 cu yds (2 m)",
+            "Blade Height": "3.7 ft (1 m)",
+            "Blade Tilt Angle - Left": "8  \t\u00b0",
+            "Blade Tilt Angle - Right": "4.5  \t\u00b0",
+            "Blade Tip Angle - Back": "4.5  \t\u00b0",
+            "Blade Tip Angle - Forward": "10  \t\u00b0",
+            "Blade Tip Angle - Total": "51.9  \t\u00b0",
+            "Blade Width": "11.8 ft (3 m)",
+            "Maximum Lift Above Ground": "2.4 ft (1 m)",
+            "Moldboard - Length": "11.8 ft (3 m)",
+            "Straight Blade - Capacity": "3.5 cu yds (2 m)",
+            "Straight Blade - Digging Depth": "1.8 ft (0 m)",
+            "Straight Blade - Ground Clearance": "2.4 ft (1 m)",
+            "Straight Blade - Height": "3.6 ft (1 m)",
+            "Straight Blade - Maximum Tilt": "2.6 ft (1 m)",
+            "Straight Blade - Overall Width": "11.8 ft (3 m)"
+        },
+        "Brakes": {
+            "Brakes": "Meet OSHA regulations"
+        },
+        "Cab": {
+            "ROPS/FOPS": "Meets SAE and ISO standards"
+        },
+        "Dimensions": {
+            "Centerline of Rear Axle to Edge of Bumper": "6.2 ft (2 m)",
+            "Centerline of Rear Axle to Hitch": "66 in (168 cm)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Ground Clearance - Bumper": "2.5 ft (1 m)",
+            "Height - Bottom of Ladder": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Height - Top of Exhaust": "130.1 in (330 cm)",
+            "Height - Top of Hood": "93.5 in (236 cm)",
+            "Length - With Blade on Ground": "22.6 ft (7 m)",
+            "Length with Blade on Ground": "22.6 ft (7 m)",
+            "Wheel Base": "11 ft (3 m)",
+            "Wheelbase": "11 ft (3 m)",
+            "Width Over Tires": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "5 in (13 cm)",
+            "Displacement": "628.6 cu in (0 m)",
+            "Engine Make": "2236",
+            "Engine Model": "Cat 3176C ATAAC",
+            "Flywheel Power": "240 hp (179 kw)",
+            "Gross Power": "254 hp (189 kw)",
+            "Net Power - EEC 80/1269": "240 hp (179 kw)",
+            "Net Power - ISO 9249": "240 hp (179 kw)",
+            "Net Power - SAE J1349 (JAN90)": "240 hp (179 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5.6 in (13 cm)",
+            "Torque Rise": "45%"
+        },
+        "Hydraulic System": {
+            "Lift Cylinder, Bore and Stroke": "120.65 mm x 913.9 mm   4.74 in x 35.98 in",
+            "Relief Valve Setting": "2255 psi",
+            "Steering Cylinder, Bore and Stroke": "101.6 mm x 597 mm   3.99 in x 23.5 in"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Axle Oscillation": "12  \t\u00b0",
+            "Cooling System Fluid Capacity": "14.6 gal (53 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Front Diff Fluid Capacity": "17.2 gal (64 l)",
+            "Fuel Capacity": "117.9 gal (443 l)",
+            "Ground Clearance": "1.5 ft in ft (0 m)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "47869 lbs (21,713 kg)",
+            "Rear Diff Fluid Capacity": "17.2 gal (64 l)",
+            "Steering Angle": "30  \t\u00b0",
+            "Tire Size": "23.5-25 12PR",
+            "Transmission Fluid Capacity": "13.3 gal (49 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "14.5 gal (53 l)",
+            "Crankcase": "9 gal (34 l)",
+            "Differential - Final Drives - Front": "17.1 gal (64 l)",
+            "Fuel Tank - Standard": "117.8 gal (443 l)",
+            "Hydraulic Tank": "23.2 gal (87 l)",
+            "Transmission": "13.2 gal (49 l)"
+        },
+        "Steering System": {
+            "Turning Radius - With Straight Blade": "15.6 ft (5 m)"
+        },
+        "Tires": {
+            "Standard Tire Size": "23.5-25,12PR",
+            "Tires": "4 options available"
+        },
+        "Transmission": {
+            "Forward - 1": "3.6 mph (5 kph)",
+            "Forward - 2": "6.3 mph (10 kph)",
+            "Forward - 3": "10.9 mph (16 kph)",
+            "Forward - 4": "19.2 mph (31 kph)",
+            "Max Speed - Forward": "19.3 mph (31 kph)",
+            "Max Speed - Reverse": "21.9 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Reverse - 1": "4.1 mph (6 kph)",
+            "Reverse - 2": "7.1 mph (11 kph)",
+            "Reverse - 3": "12.5 mph (19 kph)",
+            "Reverse - 4": "21.8 mph (34 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "47877 lbs (21,717 kg)"
+        }
+    }
+}

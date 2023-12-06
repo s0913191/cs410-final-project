@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/1930es/31960189",
+    "source_url_id": "31960189",
+    "source_url_model": "1930es",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:24.077476",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "1930ES",
+    "equipment_spec": {
+        "Dimensional Data": {
+            "Ground Clearance": "0.09 m / 4 in.",
+            "Machine Height": "2.02 m / 6.6 ft",
+            "Machine Height - Rails Folded": "1.59 m / 5.2 ft",
+            "Machine Length": "1.87 m / 6.1 ft",
+            "Machine Width": "0.76 m / 2.5 ft",
+            "Overall Height": "2.02 m / 6.6 ft",
+            "Overall Length": "1.87 m / 6.1 ft",
+            "Platform Dimension A": "0.76 m / 2.5 ft",
+            "Platform Dimension B": "1.87 m / 6.1 ft",
+            "Platform Extension Length": "0.90 m / 3 ft",
+            "Platform Height": "5.72 m / 18.8 ft",
+            "Platform Height - Lowered": "0.89 m / 2.9 ft",
+            "Platform Railing Height": "1.10 m / 3.6 ft",
+            "Tyre Size": "32 x 10 cm",
+            "Wheelbase": "1.60 m / 5.2 ft"
+        },
+        "General Specifications": {
+            "Brakes": "Electric, Friction",
+            "Capacity - Hydraulic Reservoir": "4.73 L / 1.2 gal.",
+            "Drive Speed - Platform Elevated": "0.80 km/h / 0.5 mph",
+            "Drive Speed - Platform Lowered": "4.80 km/h / 3 mph",
+            "Drive System": "24V Electric",
+            "Gradeability": "25%",
+            "Ground Bearing Pressure": "8.65 Kg/cm2",
+            "Hydraulic Pump": "Fixed Displacement Gear",
+            "Lift Time": "20 sec.",
+            "Lower Time": "30 sec.",
+            "Machine Weight": "1506 kg / 3320.2 lb",
+            "Machine Weight (ANSI Export & CSA)": "1230 kg / 2711.7 lb",
+            "Machine Weight (CE & GOST)": "1506 kg / 3320.2 lb",
+            "Maximum Drive Height": "5.72 m / 18.8 ft",
+            "Maximum Lift Height": "5.72 m / 18.8 ft",
+            "Platform Capacity - Extension": "120 kg / 264.6 lb",
+            "Platform Capacity - Unrestricted": "230 kg / 507.1 lb",
+            "Turning Radius - Inside": "0 m / 0 ft",
+            "Turning Radius - Outside": "1.75 m / 5.7 ft"
+        },
+        "Power Source": {
+            "Batteries": "4 x 6V, 220 A-h",
+            "Charger": "20 A automatic"
+        },
+        "Reach Specifications": {
+            "Platform Height": "5.72 m / 18.8 ft",
+            "Working Height": "7.72 m / 25.3 ft"
+        }
+    }
+}

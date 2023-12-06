@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/john-deere/460e/30677269",
+    "source_url_id": "30677269",
+    "source_url_model": "460e",
+    "source_url_make": "john-deere",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:04.343916",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "John Deere",
+    "equipment_model": "460E",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Overall Height": "12.8 ft (4 m)",
+            "Overall Length": "35.5 ft (11 m)",
+            "Overall Width": "11.3 ft (3 m)",
+            "Wheelbase": "29.2 ft (9 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "33.4 cu yds (25 m)",
+            "Capacity - Struck": "26.9 cu yds (20 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "10 sec",
+            "Raise Time": "20 sec",
+            "Rated Payload": "46.1 t (41,731 kg)"
+        },
+        "Engine": {
+            "Aspiration": "1771",
+            "Engine Model": "PowerTech 6135",
+            "Make": "Deere PowerTech",
+            "Model": "13.5L IT4 engine",
+            "Net Power": "481 hp (359 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "161 gal (609 l)",
+            "Tire Size": "29.5R25"
+        },
+        "Transmission": {
+            "Max Speed": "34 mph (55 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Auto"
+        },
+        "Weights": {
+            "Gross Weight": "163223.7 lbs (74,038 kg)",
+            "Operating Weight": "71024 lbs (32,216 kg)"
+        }
+    }
+}

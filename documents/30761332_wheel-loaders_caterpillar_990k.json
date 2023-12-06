@@ -1,0 +1,81 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/990k/30761332",
+    "source_url_id": "30761332",
+    "source_url_model": "990k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:03.200802",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "990K",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "14.7 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C27 ACERT",
+            "Net Power": "699 hp (521 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "11.25 - 13 cu yds (8 - 10 m)"
+        },
+        "Weights": {
+            "Operational Weight": "188713 lbs (85,600 kg)"
+        },
+        "Axles": {
+            "Front": "Fixed",
+            "Oscillation Angle": "8.5  \t\u00b0",
+            "Rear": "Trunnion"
+        },
+        "Brakes": {
+            "Brakes": "SAE J1473 OCT90, ISO 3450:1992"
+        },
+        "Hydraulic Cycle Times": {
+            "Dump": "2.9 sec",
+            "Lower": "3.7 sec",
+            "Lower Float Down": "3.6 sec",
+            "Rack Back": "4.3 sec",
+            "Raise": "8.2 sec",
+            "Total Hydraulic Cycle Time - Empty Bucket": "13.8 sec"
+        },
+        "Hydraulic System - Lift/Tilt": {
+            "Cylinders, Double Acting - Lift, Bore and Stroke": "235 mm  1287 mm (9.3 in  50.7 in)",
+            "Cylinders, Double Acting - Tilt, Bore and Stroke": "292.1 mm  820 mm (11.5 in  32.3 in)",
+            "Lift/Tilt System": "Variable displacement piston",
+            "Lift/Tilt System - Circuit": "Positive flow control",
+            "Pilot System": "Open loop and pressure reducing",
+            "Relief Valve Setting": "507 psi",
+            "Relief Valve Setting - Lift/Tilt": "4786 psi"
+        },
+        "Hydraulic System - Steering": {
+            "Relief Valve Setting - Steering": "4641 psi",
+            "Steering System - Circuit": "Pilot, load sensing",
+            "Steering System - Pump": "Piston, variable displacement"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "54.9 gal (204 l)",
+            "Differential - Final Drives - Front": "71.6 gal (269 l)",
+            "Differential - Final Drives - Rear": "68.9 gal (257 l)",
+            "Engine Crankcase": "20 gal (76 l)",
+            "Fuel Tank": "294.3 gal (1,113 l)",
+            "Hydraulic System Factory Fill": "210 gal (795 l)",
+            "Transmission": "29.1 gal (110 l)"
+        },
+        "Transmission": {
+            "Direct Drive - Forward 1": "Lock-up disabled",
+            "Direct Drive - Forward 2": "8.5 mph (13 kph)",
+            "Direct Drive - Forward 3": "15.2 mph (24 kph)",
+            "Direct Drive - Reverse 1": "5.4 mph (8 kph)",
+            "Direct Drive - Reverse 2": "9.6 mph (14 kph)",
+            "Direct Drive - Reverse 3": "16.4 mph (26 kph)",
+            "Forward - 1": "4.5 mph (6 kph)",
+            "Forward - 2": "8.3 mph (13 kph)",
+            "Forward - 3": "14.2 mph (23 kph)",
+            "Reverse - 1": "4.9 mph (6 kph)",
+            "Reverse - 2": "9.1 mph (14 kph)",
+            "Reverse - 3": "15.5 mph (24 kph)",
+            "Transmission Type": "Cat planetary power shift"
+        }
+    }
+}

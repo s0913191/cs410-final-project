@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/belaz/75710/31053354",
+    "source_url_id": "31053354",
+    "source_url_model": "75710",
+    "source_url_make": "belaz",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:22:51.352679",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Belaz",
+    "equipment_model": "75710",
+    "equipment_spec": {
+        "Description:": {
+            "Cylinder Diameter": "165 mm (7 in)",
+            "Cylinder Displacement": "65",
+            "Engine Model": "MTU DD 16V4000",
+            "Number of Cylinders": "16",
+            "Piston Stoke": "190 mm (7 in)"
+        },
+        "Engine": {
+            "Cylinder Diameter": "165 mm (7 in)",
+            "Cylinder Displacement": "65",
+            "Engine Model": "MTU DD 16V4000",
+            "Number of Cylinders": "16",
+            "Piston Stoke": "190 mm (7 in)"
+        },
+        "Hydraulic system": {
+            "Body lowering time": "20 sec",
+            "Body raising time": "26 sec",
+            "Filtering degree, \u00b5m": "10 sec",
+            "Max pressure in hydraulic system, MPa": "26 sec"
+        },
+        "Tires": {
+            "Designation": "59/80R63",
+            "Internal pressure, MPa": "0.7",
+            "Rim designation": "44.00-63/5.0"
+        },
+        "Weight": {
+            "Empty Weight": "360 t (326,587 kg)",
+            "Gross Weight": "810 t (734,820 kg)",
+            "Payload": "450 t (408,233 kg)",
+            "Weight Dist. Front Axle Empty": "60%",
+            "Weight Dist. Front Axle Loaded": "50%",
+            "Weight Dist. Rear Axle Empty": "40%",
+            "Weight Dist. Rear Axle Loaded": "50%"
+        }
+    }
+}

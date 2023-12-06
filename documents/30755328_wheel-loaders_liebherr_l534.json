@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l534/30755328",
+    "source_url_id": "30755328",
+    "source_url_model": "l534",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:48.167791",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L534",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "3.2 cu yds (2 m)",
+            "Bucket Width": "8.3 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length with Bucket on Ground": "23.8 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.2 ft (1 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "274.7 cu in (0 m)",
+            "Engine Model": "D504Ti",
+            "Net Power": "134.2 hp (100 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "26676 lbs (12,100 kg)",
+            "Static Tipping Weight": "19014.9 lbs (8,625 kg)",
+            "Tire Size": "20.5R25",
+            "Turning Radius": "9.6 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.2 mph (34 kph)",
+            "Max Speed - Reverse": "21.2 mph (34 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

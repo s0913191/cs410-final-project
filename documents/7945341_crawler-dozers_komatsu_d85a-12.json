@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d85a-12/7945341",
+    "source_url_id": "7945341",
+    "source_url_model": "d85a-12",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:21.469121",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D85A-12",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length of Track on Ground": "9 ft (3 m)",
+            "Length w/ Blade": "22.8 ft (7 m)",
+            "Length w/o Blade": "15.1 ft (5 m)",
+            "Width Over Tracks": "8.6 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "742.7 cu in (0 m)",
+            "Engine Model": "NH-220-CI",
+            "Gross Power": "180 hp (134 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1850 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "17.2 gal (64 l)",
+            "Fuel Capacity": "111 gal (420 l)",
+            "Operating Weight": "48171.1 lbs (21,850 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "7.8 cu yds (5 m)",
+            "Height": "41.8 in (104 cm)",
+            "Width": "14 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.3 mph (10 kph)",
+            "Max Speed - Reverse": "7.5 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "K-C"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8.4 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "38",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "6.6 ft (2 m)",
+            "Track Pitch": "8.6 in (20 cm)"
+        }
+    }
+}

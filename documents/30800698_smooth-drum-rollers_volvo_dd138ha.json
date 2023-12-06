@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/dd138ha/30800698",
+    "source_url_id": "30800698",
+    "source_url_model": "dd138ha",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:23.464890",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "DD138HA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "179.6 in (455 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "2700 hz (162,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "92 in (234 cm)"
+        }
+    }
+}

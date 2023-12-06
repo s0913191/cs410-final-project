@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kubota/r350/30755426",
+    "source_url_id": "30755426",
+    "source_url_model": "r350",
+    "source_url_make": "kubota",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:10.098050",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kubota",
+    "equipment_model": "R350",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "7761 lbs (3,520 kg)",
+            "Dump Clearance at Max Raise": "8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Length with Bucket on Ground": "17.4 ft (5 m)",
+            "Width Over Tires": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Kubota",
+            "Engine Model": "V2607-CR-E4",
+            "Net Power": "47.9 hp (35 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "20509.7 lbs (9,303 kg)",
+            "Tire Size": "365/70 R18",
+            "Turning Radius": "11.1 ft (3 m)"
+        }
+    }
+}

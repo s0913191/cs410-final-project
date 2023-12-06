@@ -1,0 +1,153 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx870lc-6/30748206",
+    "source_url_id": "30748206",
+    "source_url_model": "zx870lc-6",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:02:35.441023",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX870LC-6",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Digging Force - ISO": "72613.3 lbs (32,937 kg)",
+            "Arm Digging Force - SAE": "70814.9 lbs (32,121 kg)",
+            "Bucket Digging Force - ISO": "89698.8 lbs (40,687 kg)",
+            "Bucket Digging Force - SAE": "80706.5 lbs (36,608 kg)",
+            "Max Cutting Height": "42.8 ft (13 m)",
+            "Max Digging Depth": "29.2 ft (9 m)",
+            "Max Loading Height": "29.8 ft (9 m)",
+            "Max Reach Along Ground": "45.4 ft (14 m)",
+            "Max Vertical Wall Digging Depth": "23.6 ft (7 m)",
+            "Shipping Height of Unit": "15.7 ft (5 m)",
+            "Shipping Length of Unit": "48.9 ft (15 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Arm Digging Force - ISO": "62946.5 lbs (28,552 kg)",
+            "Arm Digging Force - SAE": "61372.9 lbs (27,838 kg)",
+            "Bucket Digging Force - ISO": "89698.8 lbs (40,687 kg)",
+            "Bucket Digging Force - SAE": "80706.5 lbs (36,608 kg)",
+            "Max Cutting Height": "45.4 ft (14 m)",
+            "Max Digging Depth": "31.4 ft (9 m)",
+            "Max Loading Height": "32 ft (10 m)",
+            "Max Reach Along Ground": "48.1 ft (15 m)",
+            "Max Vertical Wall Digging Depth": "27.9 ft (8 m)",
+            "Shipping Height of Unit": "16.9 ft (5 m)",
+            "Shipping Length of Unit": "48.6 ft (15 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Arm Digging Force - SAE": "53279.8 lbs (24,167 kg)",
+            "Bucket Digging Force - ISO": "72613.3 lbs (32,937 kg)",
+            "Bucket Digging Force - SAE": "64969.8 lbs (29,470 kg)",
+            "Max Cutting Height": "47.7 ft (14 m)",
+            "Max Digging Depth": "34.7 ft (10 m)",
+            "Max Loading Height": "34.2 ft (10 m)",
+            "Max Reach Along Ground": "51.5 ft (16 m)",
+            "Max Vertical Wall Digging Depth": "32 ft (10 m)",
+            "Shipping Height of Unit": "18.9 ft (5 m)",
+            "Shipping Length of Unit": "48.1 ft (15 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "39.5 ft (12 m)",
+            "Max Digging Depth": "23.5 ft (7 m)",
+            "Max Loading Height": "26.7 ft (8 m)",
+            "Max Reach Along Ground": "39.5 ft (12 m)",
+            "Max Vertical Wall Dig Depth": "13.5 ft (4 m)",
+            "Shipping Length of Unit": "44.5 ft (13 m)"
+        },
+        "Boom/Stick Excavator Option 5": {
+            "Arm Digging Force - ISO": "62946.5 lbs (28,552 kg)",
+            "Arm Digging Force - SAE": "61372.9 lbs (27,838 kg)",
+            "Bucket Digging Force - ISO": "89698.8 lbs (40,687 kg)",
+            "Bucket Digging Force - SAE": "80706.5 lbs (36,608 kg)",
+            "Max Cutting Height": "48.1 ft (15 m)",
+            "Max Digging Depth": "36.7 ft (11 m)",
+            "Max Loading Height": "35.5 ft (11 m)",
+            "Max Reach Along Ground": "53.6 ft (16 m)",
+            "Max Vertical Wall Dig Depth": "32.4 ft (10 m)",
+            "Shipping Height of Unit": "16.9 ft (5 m)",
+            "Shipping Length of Unit": "48.6 ft (15 m)"
+        },
+        "Boom/Stick Excavator Option 6": {
+            "Max Cutting Height": "50.4 ft (15 m)",
+            "Max Digging Depth": "39.9 ft (12 m)",
+            "Max Loading Height": "37 ft (11 m)",
+            "Max Reach Along Ground": "56.9 ft (17 m)",
+            "Max Vertical Wall Dig Depth": "37.3 ft (11 m)",
+            "Shipping Height of Unit": "18.9 ft (5 m)",
+            "Shipping Length of Unit": "48.1 ft (15 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "7.6 cu yds (5 m)",
+            "Minimum Bucket Capacity": "2 cu yds (2 m)"
+        },
+        "Capacities": {
+            "Cooling system": "32.8 gal (121 l)",
+            "Diesel exhaust fluid (DEF) tank": "25.1 gal (95 l)",
+            "Engine oil with filter": "15.1 gal (57 l)",
+            "Fuel Tank": "293.3 gal (1,109 l)",
+            "Hydraulic system": "275.3 gal (1,041 l)",
+            "Hydraulic Tank": "132.1 gal (500 l)",
+            "Pump Drive": "1.7 gal (4 l)",
+            "Swing drive": "2.8 gal (8 l)"
+        },
+        "Cylinders": {
+            "Bore (Arm)": "8.9 in (20 cm)",
+            "Bore (Boom)": "8.5 in (20 cm)",
+            "Bore (Bucket)": "7.9 in (18 cm)",
+            "Rod Diameter (Arm)": "6.3 in (15 cm)",
+            "Rod Diameter (Boom)": "6 in (15 cm)",
+            "Rod Diameter (Bucket)": "5.6 in (13 cm)",
+            "Stroke (Arm)": "87.6 in (221 cm)",
+            "Stroke (Boom)": "72.3 in (183 cm)",
+            "Stroke (Bucket)": "61.3 in (155 cm)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3 ft (1 m)",
+            "Height - Top of Cab": "12.2 ft (4 m)",
+            "Length of Track on Ground": "48.9 ft (15 m)",
+            "Removal Counterweight Clearance": "5.6 ft (2 m)",
+            "Tail Swing Radius": "14.9 ft (4 m)",
+            "Width to Outside of Tracks": "14.3 ft (4 m)"
+        },
+        "Electrical System": {
+            "Alternator rating": "50 amp",
+            "Batteries": "2 x 12 V V",
+            "Battery capacity": "500 CCA",
+            "Work Lights": "5 halogen"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, air-to-air charge-air cooler",
+            "Cooling system": "2 cool-on-demand hydraulic-driven, suction-type fans with remote-mounted drives",
+            "Displacement": "956.9 cu in (0 m)",
+            "Emissions level": "EPA Final Tier 4 / EU Stage IV",
+            "Engine Make": "Isuzu",
+            "Engine Model": "Isuzu 6WG1-FT4",
+            "Net Power": "512 hp (382 kw)",
+            "Off-Level Capacity": "70%",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Controls": "Pilot levers, short-stroke, low-effort hydraulic pilot controls with shutoff lever",
+            "Hydraulic System Type": "Open center, load sensing",
+            "Implement - Operating Pressure": "4626.8 psi",
+            "Main pump - Maximum flow": "149.6 gal (564 l)",
+            "Main pump type": "2 variable-displacement pumps",
+            "Travel - Operating Pressure": "4974.8 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "188715.7 lbs (85,601 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "7.8 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "125850 lbs (57,085 kg)",
+            "Ground Pressure": "15.5 psi",
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "9"
+        }
+    }
+}

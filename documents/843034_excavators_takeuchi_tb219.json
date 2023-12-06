@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/takeuchi/tb219/843034",
+    "source_url_id": "843034",
+    "source_url_model": "tb219",
+    "source_url_make": "takeuchi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:19:11.851809",
+    "equipment_category": "Excavators",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TB219",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "7.5 ft (2 m)",
+            "Max Loading Height": "8.9 ft (2 m)",
+            "Max Reach Along Ground": "13.3 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "6.1 ft (2 m)",
+            "Shipping Height of Unit": "7.6 ft (2 m)",
+            "Shipping Length of Unit": "14.1 ft (4 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.7 ft (0 m)",
+            "Length of Track on Ground": "5.1 ft (2 m)",
+            "Tail Swing Radius": "3.8 ft (1 m)",
+            "Width to Outside of Tracks": "4.5 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "52.2 cu in (0 m)",
+            "Engine Model": "3TNV70",
+            "Net Power": "15.5 hp (11 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "13.6 gal/min (49 l/min)",
+            "Hydraulic System Relief Valve Pressure": "3132.9 psi",
+            "Operating Weight": "4111.7 lbs (1,865 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.5 mph (3 kph)",
+            "Shoe Size": "9.1 in (23 cm)"
+        }
+    }
+}

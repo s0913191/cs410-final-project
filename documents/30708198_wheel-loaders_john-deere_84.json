@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/84/30708198",
+    "source_url_id": "30708198",
+    "source_url_model": "84",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:42.456754",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "84",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "9040 lbs (4,101 kg)",
+            "Bucket Capacity - heaped": "1 cu yds (1 m)",
+            "Bucket Capacity - struck": "0.9 cu yds (0 m)",
+            "Bucket Width": "6.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "11.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Hinge Pin - Max Height": "10 ft (3 m)",
+            "Length with Bucket on Ground": "15.3 ft (5 m)",
+            "Wheelbase": "7.3 ft (2 m)",
+            "Width Over Tires": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "211 cu in (0 m)",
+            "Engine Model": "4TN100",
+            "Gross Power": "55 hp (41 kw)",
+            "Net Power": "52 hp (39 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1 sec",
+            "Lower Time": "3.5 sec",
+            "Pump Flow Capacity": "21.1 gal/min (79 l/min)",
+            "Pump Type": "Gear",
+            "Raise Time": "5.4 sec",
+            "Relief Valve Setting": "2500 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "25  A",
+            "Cooling System Fluid Capacity": "5.3 gal (19 l)",
+            "Engine Oil Fluid Capacity": "3.4 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "15.3 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "18.5 gal (68 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "11246 lbs (5,101 kg)",
+            "Rear Axle Oscillation": "16  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "2.6 gal (8 l)",
+            "Static Tipping Weight": "8930 lbs (4,051 kg)",
+            "Tire Size": "17.5/65-20",
+            "Transmission Fluid Capacity": "6.1 gal (23 l)",
+            "Turning Radius": "12.5 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "17.7 mph (27 kph)",
+            "Max Speed - Reverse": "7.1 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Powershiift"
+        }
+    }
+}

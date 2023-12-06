@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/4100e/31085506",
+    "source_url_id": "31085506",
+    "source_url_model": "4100e",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:57.915800",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "4100E",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "95  hp"
+        },
+        "Production": {
+            "Series": "4E Series",
+            "Years Manufactured": "2018 -"
+        }
+    }
+}

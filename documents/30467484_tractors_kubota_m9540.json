@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m9540/30467484",
+    "source_url_id": "30467484",
+    "source_url_model": "m9540",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:53.259420",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M9540",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.4 in (46 cm)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.5 ft (2 m)",
+            "Overall Length": "12.4 in (30 cm)",
+            "Overall Width": "6.3 ft (2 m)",
+            "Tire Size": "front 12.4-24 rear 18.4-30",
+            "Wheelbase": "7.4 ft (2 m)",
+            "Width Outside Frame": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Model": "V3800TIE2",
+            "Net Power": "94.5 hp (70 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "84 hp (63 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "17 gal/min (64 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4629.8 lbs (2,100 kg)",
+            "3 Point Hitch Type": "Cat II",
+            "Alternator Supplied Amperage": "45  A",
+            "Fuel Capacity": "29.1 gal (110 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5511.6 lbs (2,500 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.50-18",
+            "Turning Radius": "13.5 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4-30"
+        },
+        "Transmission": {
+            "Max Speed": "20.9 mph (32 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "synchronized shift"
+        }
+    }
+}

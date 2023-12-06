@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/bolinder-munktell/vhk310/30754583",
+    "source_url_id": "30754583",
+    "source_url_model": "vhk310",
+    "source_url_make": "bolinder-munktell",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:33:44.151211",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Bolinder Munktell",
+    "equipment_model": "VHK310",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "D 70 A",
+            "Max Power": "157 hp (117 kw)",
+            "Net Power Gears 7-8": "157 hp (117 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "24.7 in (61 cm)",
+            "Moldboard Width": "12 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Std Operation Weight - Total": "26135.9 lbs (11,855 kg)",
+            "Tire Size": "13.00-24/12"
+        },
+        "Transmission": {
+            "Transmission Type": "mechanical"
+        }
+    }
+}

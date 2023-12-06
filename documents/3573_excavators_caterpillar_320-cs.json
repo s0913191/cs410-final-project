@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/320-cs/3573",
+    "source_url_id": "3573",
+    "source_url_model": "320-cs",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:59.328235",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "320 CS",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "35.9 ft (11 m)",
+            "Max Digging Depth": "13.5 ft (4 m)",
+            "Max Loading Height": "25.5 ft (8 m)",
+            "Max Reach Along Ground": "30.7 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "10.6 ft (3 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "33.1 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "37.2 ft (11 m)",
+            "Max Digging Depth": "14.9 ft (4 m)",
+            "Max Loading Height": "28.3 ft (9 m)",
+            "Max Reach Along Ground": "32.2 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "12.2 ft (4 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "31.9 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "38.4 ft (12 m)",
+            "Max Digging Depth": "16.3 ft (5 m)",
+            "Max Loading Height": "29.4 ft (9 m)",
+            "Max Reach Along Ground": "33.6 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "13.5 ft (4 m)",
+            "Shipping Height of Unit": "13.2 ft (4 m)",
+            "Shipping Length of Unit": "31.9 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "40.9 ft (12 m)",
+            "Max Digging Depth": "19.4 ft (6 m)",
+            "Max Loading Height": "31.8 ft (9 m)",
+            "Max Reach Along Ground": "36.6 ft (11 m)",
+            "Max Vertical Wall Dig Depth": "16.4 ft (5 m)",
+            "Shipping Length of Unit": "30.9 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.8 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.6 cu yds (0 m)",
+            "Reference Bucket Capacity": "1.1 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Length of Track on Ground": "11.5 ft (3 m)",
+            "Tail Swing Radius": "9.1 ft (3 m)",
+            "Width to Outside of Tracks": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "ATAAC engine 3066",
+            "Net Power": "138 hp (103 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "50794.6 lbs (23,040 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "44062.6 lbs (19,986 kg)",
+            "Shoe Size": "21.7 in (53 cm)",
+            "Track Gauge": "6.3 ft (2 m)"
+        }
+    }
+}

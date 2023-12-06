@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l526/30755027",
+    "source_url_id": "30755027",
+    "source_url_model": "l526",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:46.773934",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L526",
+    "equipment_spec": {
+        "Bucket": {
+            "Arm length": "8.5 ft (2 m)",
+            "Breakout Force": "22480 lbs (10,197 kg)",
+            "Bucket Capacity - heaped": "2.7 cu yds (2 m)",
+            "Bucket Width": "8.2 ft (2 m)",
+            "Digging depth": "5 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Hinge Pin - Max Height": "12.8 ft (4 m)",
+            "Length with Bucket on Ground": "25.3 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.1 ft (1 m)",
+            "Wheelbase": "9.7 ft (3 m)"
+        },
+        "Electrical System": {
+            "Alternator": "24/100 (V/A)",
+            "Battery": "2 x 135 Ah",
+            "Starter": "24/10.5 (V/HP)",
+            "Voltage": "24 V"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type filter with main and safety element, pre-cleaner, service indicator on the Liebherr display",
+            "Aspiration": "Water-cooled turbocharged in-line engine with\u00c3?\u00c2\u00a0cooled exhaust gas recirculation, exhaust after-treatment with a closed diesel particle filter system and SCR technology",
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "275 cu in (0 m)",
+            "Engine Model": "4045HLC07",
+            "Fuel injection": "Electronic Common Rail high-pressure injection",
+            "Gross Power": "138 hp (103 kw)",
+            "Max Torque": "404 lbs/ft",
+            "Net Power": "135 hp (101 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.1 sec",
+            "Lower Time": "3.6 sec",
+            "Pump Flow Capacity": "36 gal/min (136 l/min)",
+            "Pump Type": "Load-sensing variable axial piston pump with output and flow control, and pressure cut-off in the control block",
+            "Raise Time": "5.3 sec",
+            "Relief Valve Setting": "4351.2 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.2 gal (30 l)",
+            "Engine Oil Fluid Capacity": "5.8 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "4.2 gal (15 l)",
+            "Fuel Capacity": "54.2 gal (204 l)",
+            "Hydraulic Fluid Capacity": "25.1 gal (95 l)",
+            "Hydraulic System Fluid Capacity": "44.9 gal (167 l)",
+            "Operating Weight": "24800 lbs (11,249 kg)",
+            "Rear Axle/Diff Fluid Capacity": "4.2 gal (15 l)",
+            "Static Tipping Weight": "16975 lbs (7,700 kg)",
+            "Tire Size": "17.5R25 L3",
+            "Transmission Fluid Capacity": "0.7 gal (0 l)",
+            "Turning Radius": "19.6 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

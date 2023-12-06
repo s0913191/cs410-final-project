@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/dynapac/f182cs/30473955",
+    "source_url_id": "30473955",
+    "source_url_model": "f182cs",
+    "source_url_make": "dynapac",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:09.431227",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "F182CS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length of Track on Ground": "11.1 ft (3 m)",
+            "Length w/ Screed": "23.1 ft (7 m)",
+            "Transport Height": "11.9 ft (3 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Width w/ Hopper Open": "11.3 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB6.7-C220",
+            "Gross Power": "234 hp (174 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "17 in (43 cm)",
+            "Hopper Capacity": "10.3 lbs (5 kg)",
+            "Paving Speed - max": "65.7 ft/min",
+            "Paving Thickness - max": "13.8 in (33 cm)",
+            "Paving Width - max": "42.7 ft (13 m)",
+            "Travel Speed - max": "2.4 mph (3 kph)"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/ Screed": "44753.9 lbs (20,300 kg)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/john-deere/435c/30756034",
+    "source_url_id": "30756034",
+    "source_url_model": "435c",
+    "source_url_make": "john-deere",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:05.466078",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "435C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "6068T",
+            "Net Power": "170.4 hp (127 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "163 gal/min (617 l/min)",
+            "Pump Type": "gear",
+            "Relief Valve Pressure": "2700 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "75.3 gal (284 l)",
+            "Hydraulic System Fluid Capacity": "99.9 gal (375 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "29500 lbs (13,381 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm",
+            "Swing Torque": "35999.7 lbs/ft"
+        },
+        "Undercarriage": {
+            "(KB Only) Width w/Stabilizers Down": "17.9 ft (5 m)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/new-holland/tr86/52665",
+    "source_url_id": "52665",
+    "source_url_model": "tr86",
+    "source_url_make": "new-holland",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:26.249301",
+    "equipment_category": "Combines",
+    "equipment_make": "New Holland",
+    "equipment_model": "TR86",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "12.8 ft (4 m)",
+            "Overall Length": "29.5 ft (9 m)"
+        },
+        "Engine": {
+            "Engine Make": "Caterpillar",
+            "Engine Model": "3208",
+            "Number of Cylinders": "8",
+            "Power Boost Power": "173 hp (129 kw)"
+        },
+        "HEADER": {
+            "Width - Table": "16.1 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "80.1 gal (303 l)",
+            "Max Speed": "15.6 mph (24 kph)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "19444.8 lbs (8,820 kg)",
+            "Transmission Type": "Hydraulic transmission"
+        },
+        "Separating": {
+            "Separator Type": "Transverse mounted with angled spike teeth",
+            "Width": "61.3 in (155 cm)"
+        },
+        "Tires": {
+            "Front Tires Size": "23,1-26",
+            "Rear Tires Size": "43785"
+        }
+    }
+}

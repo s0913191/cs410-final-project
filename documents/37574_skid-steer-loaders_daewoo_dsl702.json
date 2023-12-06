@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/daewoo/dsl702/37574",
+    "source_url_id": "37574",
+    "source_url_model": "dsl702",
+    "source_url_make": "daewoo",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:37.030922",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Daewoo",
+    "equipment_model": "DSL702",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.3 ft (2 m)",
+            "Ground Clearance": "7.5 in (18 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length w/o Bucket": "8.3 ft (2 m)",
+            "Length with Bucket": "10.6 ft (3 m)",
+            "Reach at Max Lift and Dump": "25.4 in (64 cm)",
+            "Turning Radius from Center - inc bucket": "74.9 in (188 cm)",
+            "Turning Radius from Center - machine rear": "63.3 in (160 cm)",
+            "Wheelbase": "3.6 ft (1 m)",
+            "Width Over Tires": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "164.8 cu in (0 m)",
+            "Engine Model": "D427",
+            "Gross Power": "51 hp (38 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15.9 gal/min (57 l/min)"
+        },
+        "Loader": {
+            "Breakout Force": "3284.9 psi",
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load Rating": "1499.2 lbs (680 kg)",
+            "Tipping Angle": "3946.3  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "14.3 gal (53 l)",
+            "Max Speed": "6.8 mph (10 kph)",
+            "Operational Weight": "6095.8 lbs (2,765 kg)",
+            "Tire Size": "10 x 16.5"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/tl510/30755370",
+    "source_url_id": "30755370",
+    "source_url_model": "tl510",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:47.982633",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TL510",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "6.7 cu yds (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "12 ft (4 m)",
+            "Length with Bucket on Ground": "305.2 ft (93 m)",
+            "Reach at Max Lift and Dump": "4.3 ft (1 m)",
+            "Wheelbase": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSM11",
+            "Net Power": "364.8 hp (271 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "129.5 gal (488 l)",
+            "Operating Weight": "65036.4 lbs (29,500 kg)",
+            "Static Tipping Weight": "45635.7 lbs (20,700 kg)",
+            "Tire Size": "29.5R25"
+        }
+    }
+}

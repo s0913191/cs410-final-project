@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/shuttlelift/3339/29049",
+    "source_url_id": "29049",
+    "source_url_model": "3339",
+    "source_url_make": "shuttlelift",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:27.571252",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Shuttlelift",
+    "equipment_model": "3339",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "72  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "32.9 ft (10 m)",
+            "Max Lift Capacity": "18000 lbs (8,165 kg)",
+            "Max Working Radius": "31 ft (9 m)",
+            "Min Height @ Max Raise Angle": "13.8 ft (4 m)",
+            "Min Working Radius": "5 ft (2 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.1 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "201.4 cu in (0 m)",
+            "Gross Power": "99 hp (74 kw)",
+            "Make": "Shuttlelift",
+            "Model": "QSB 3.3L",
+            "Power Measured @": "2600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "12 ft (4 m)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "7.3 ft (2 m)",
+            "Transport Length": "17.6 ft (5 m)",
+            "Transport Width": "6.5 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "4.4 ft (1 m)",
+            "Width w/ Outriggers Extended": "10.2 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "63  A",
+            "Carrier Fuel Capacity": "18.5 gal (68 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15800.6 lbs (7,167 kg)",
+            "Tire Size": "10.00x15 14PR",
+            "Upper Structure Hydraulic System Fluid Capacity": "23.6 gal (87 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.2 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Clark synchromesh"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/iveco/at260t31-2005/30759288",
+    "source_url_id": "30759288",
+    "source_url_model": "at260t31-2005",
+    "source_url_make": "iveco",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:56:45.833952",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Iveco",
+    "equipment_model": "AT260T31 (2005)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Number of Rear Axles": "2",
+            "Tire Size": "315/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length from Back of Cab to End of Frame": "216.8 in (549 cm)",
+            "Length From Back of Cab to End of Frame": "216.74 in (549 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "58.9 in (147 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "58.86 in (147 cm)",
+            "Overall Length": "26.9 ft (8 m)",
+            "Total Chassis Weight": "17559.9 lbs (7,965 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "28.7 ft (9 m)",
+            "Wheelbase": "150.4 in (381 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length from Back of Cab to End of Frame": "217.6 in (551 cm)",
+            "Length From Back of Cab to End of Frame": "217.52 in (551 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "44.7 in (112 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "44.69 in (112 cm)",
+            "Overall Length": "26.9 ft (8 m)",
+            "Total Chassis Weight": "17515.8 lbs (7,945 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "30.2 ft (9 m)",
+            "Wheelbase": "165.4 in (419 cm)"
+        },
+        "Wheelbase Cab Chassis Option 3": {
+            "Length From Back of Cab to End of Frame": "255.32 in (648 cm)",
+            "Length from Back of Cab to End of Frame": "255.4 in (648 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "58.9 in (147 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "58.86 in (147 cm)",
+            "Overall Length": "30.1 ft (9 m)",
+            "Total Chassis Weight": "17626 lbs (7,995 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "32.7 ft (10 m)",
+            "Wheelbase": "189 in (480 cm)"
+        }
+    }
+}

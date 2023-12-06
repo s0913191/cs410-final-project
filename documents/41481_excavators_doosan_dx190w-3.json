@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx190w-3/41481",
+    "source_url_id": "41481",
+    "source_url_model": "dx190w-3",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:33.313270",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX190W-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "18.8 ft (5 m)",
+            "Max Reach Along Ground": "30.3 ft (9 m)"
+        },
+        "Engine": {
+            "Net Power": "176 hp (131 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "41446 lbs (18,800 kg)"
+        }
+    }
+}

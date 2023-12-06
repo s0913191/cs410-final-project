@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tm250/13044",
+    "source_url_id": "13044",
+    "source_url_model": "tm250",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:33.630405",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TM250",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "75  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "82 ft (25 m)",
+            "Max Lift Capacity": "50000 lbs (22,680 kg)",
+            "Max Working Radius": "75 ft (23 m)",
+            "Min Height @ Max Raise Angle": "36 ft (11 m)",
+            "Min Working Radius": "12 ft (4 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "501 cu in (0 m)",
+            "Gross Power": "214.8 hp (160 kw)",
+            "Make": "Grove",
+            "Max Torque": "451 lbs/ft",
+            "Model": "RD-501",
+            "Number of cylinders": "6",
+            "Power Measured @": "3000 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "27.1 ft (8 m)",
+            "Transport Height": "11.7 ft (3 m)",
+            "Transport Length": "35.2 ft (11 m)",
+            "Width w/ Outriggers Extended": "16 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "37  A",
+            "Carrier Fuel Capacity": "60 gal (227 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "front 18.00x22.5 rear 11.00x20",
+            "Upper Structure Fuel Capacity": "50 gal (189 l)",
+            "Upper Structure Hydraulic System Fluid Capacity": "140 gal (530 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "51.8 mph (82 kph)",
+            "Max Speed - Reverse": "6.4 mph (10 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Fuller"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "168 hp (125 kw)",
+            "Make": "Grove",
+            "Max Torque": "330 lbs/ft",
+            "Model": "361",
+            "Number of cylinders": "8",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "2000 rpm"
+        }
+    }
+}

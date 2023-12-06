@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/takeuchi/tl10/30474030",
+    "source_url_id": "30474030",
+    "source_url_model": "tl10",
+    "source_url_make": "takeuchi",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:10.059373",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TL10",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "230 cu in (0 m)",
+            "Engine Make": "Kubato",
+            "Engine Model": "V3800CR",
+            "Gross Power": "92 hp (69 kw)",
+            "Horsepower - Gross": "92 hp (69 kw)",
+            "Peak Torque": "247.1 lbs/ft",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "20 gal/min (76 l/min)",
+            "Hydraulic Reservoir": "12.7 gal (45 l)",
+            "Relief Valve Pressure": "3045.8 psi"
+        },
+        "Loader": {
+            "Breakout Force": "7425.2 lbs (3,368 kg)",
+            "Bucket Breakout Force": "7400 lbs (3,357 kg)",
+            "Operating Load": "2403.1 lbs (1,090 kg)",
+            "Operating Width": "69.7 in (175 cm)",
+            "Tipping Load": "3434.9 lbs (1,558 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "4.1 gal (15 l)",
+            "Engine Oil Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Max Speed - high range": "7.2 mph (11 kph)",
+            "Max Speed - low range": "4.6 mph (6 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10516.1 lbs (4,770 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.5 psi"
+        }
+    }
+}

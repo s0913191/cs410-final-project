@@ -1,0 +1,76 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/160d-lc/18622",
+    "source_url_id": "18622",
+    "source_url_model": "160d-lc",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:58.811846",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "160D LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "29.2 ft (9 m)",
+            "Max Digging Depth": "19.7 ft (6 m)",
+            "Max Loading Height": "20.3 ft (6 m)",
+            "Max Reach Along Ground": "28.6 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17 ft (5 m)",
+            "Shipping Height of Unit": "9.5 ft (3 m)",
+            "Shipping Length of Unit": "28.1 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "30 ft (9 m)",
+            "Max Digging Depth": "21.3 ft (6 m)",
+            "Max Loading Height": "21 ft (6 m)",
+            "Max Reach Along Ground": "30.1 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "18.7 ft (5 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "28.2 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.2 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.6 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.9 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Length of Track on Ground": "10.2 ft (3 m)",
+            "Removal Counterweight Clearance": "3.3 ft (1 m)",
+            "Tail Swing Radius": "8.2 ft (2 m)",
+            "Width to Outside of Tracks": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, air-to-air charge air cooler",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "4045H",
+            "Net Power": "121 hp (90 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80 A",
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Hydraulic Pump Flow Capacity": "101 gal/min (382 l/min)",
+            "Hydraulic System Fluid Capacity": "52 gal (197 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "39508 lbs (17,921 kg)",
+            "Swing Drive Fluid Capacity": "1.6 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "13.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "38030 lbs (17,250 kg)",
+            "Ground Pressure": "6.2 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "8.6 ft (2 m)"
+        }
+    }
+}

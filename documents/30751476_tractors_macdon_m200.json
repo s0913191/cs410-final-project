@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/macdon/m200/30751476",
+    "source_url_id": "30751476",
+    "source_url_model": "m200",
+    "source_url_make": "macdon",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:58.323088",
+    "equipment_category": "Tractors",
+    "equipment_make": "Macdon",
+    "equipment_model": "M200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Wheel Tread Width": "134.3 in (340 cm)",
+            "Ground Clearance": "45.7 in (114 cm)",
+            "Rear Wheel tread Width - max": "134.2 in (340 cm)",
+            "Rear Wheel Tread Width - min": "94.9 in (239 cm)",
+            "Tire Size": "10x16",
+            "Track Width": "134.3 in (340 cm)",
+            "Wheelbase": "13 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "403 cu in (0 m)",
+            "Gross Power": "213 hp (159 kw)",
+            "Number of Cylinders": "6",
+            "Power": "213 hp (159 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "135  A",
+            "Front Tire Size": "18.4 x 26",
+            "Fuel Capacity": "97 gal (367 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight w/o Attachment": "11000 lbs (4,990 kg)",
+            "Rear Tire Size": "10 x 16"
+        },
+        "Transmission": {
+            "Final Drive Type": "Planetary gear reduction",
+            "Max Speed": "23 mph (37 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "hydrostatic 3-speed electric shift motors"
+        }
+    }
+}

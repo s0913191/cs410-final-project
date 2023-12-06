@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/sd-116dx/30789709",
+    "source_url_id": "30789709",
+    "source_url_model": "sd-116dx",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:45.378030",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "SD-116DX",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "19.1 in (48 cm)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Overall Length": "19.4 in (48 cm)",
+            "Overall Width": "7.5 ft (2 m)",
+            "Turning Radius - Inside": "136 in (345 cm)",
+            "Wheelbase": "10.2 in (25 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Low": "47884.4 lbs (21,720 kg)",
+            "Centrifugal Force - Med High": "60024 lbs (27,227 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum Width": "84 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency": "1225 - 2,050 hz (73,500 - 123,000 vpm)",
+            "Vibration Frequency 1": "24 hz (1,440 vpm)",
+            "Vibration Frequency 2": "34 hz (2,040 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "QSB5.9-30T",
+            "Gross Power": "115 hp (86 kw)",
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "67.9 gal (254 l)",
+            "Hydraulic System Fluid Capacity": "22.2 gal (83 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Width": "90 in (229 cm)"
+        }
+    }
+}

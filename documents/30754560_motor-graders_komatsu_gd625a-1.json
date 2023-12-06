@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/komatsu/gd625a-1/30754560",
+    "source_url_id": "30754560",
+    "source_url_model": "gd625a-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:28.166144",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "GD625A-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Base": "8.6 ft (2 m)",
+            "Height to Top of Isomount Cab": "10.9 ft (3 m)",
+            "Overall Length": "27.9 ft (8 m)",
+            "Rear Ground Clearance": "1.2 ft (0 m)",
+            "Tandem Axle Wheelbase": "5.1 ft (2 m)",
+            "Wheelbase": "19.7 ft (6 m)",
+            "Width Over Tires": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "674.4 cu in (0 m)",
+            "Engine Model": "6D125",
+            "Max Power": "155.6 hp (116 kw)",
+            "Net Power Gear 5-6": "155.6 hp (116 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1.2 ft (0 m)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "25.4 in (64 cm)",
+            "Moldboard Width": "12.1 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "75.3 gal (284 l)",
+            "Std Operation Weight - Total": "30203.4 lbs (13,700 kg)",
+            "Tire Size": "13.00-24-10PR"
+        },
+        "Steering System": {
+            "Articulation Angle": "26  \t\u00b0",
+            "Turning Radius": "22 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "28 mph (45 kph)",
+            "Max Speed - Reverse": "34.1 mph (55 kph)",
+            "Number of Gears - Forward": "6"
+        }
+    }
+}

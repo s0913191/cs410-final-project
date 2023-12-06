@@ -1,0 +1,99 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/305e2-cr/30750150",
+    "source_url_id": "30750150",
+    "source_url_model": "305e2-cr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:14.770067",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "305E2 CR",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "14.8 in (36 cm)",
+            "Blade Lift Height": "15.9 in (38 cm)",
+            "Blade Width": "6.5 ft (2 m)",
+            "Dig Depth": "21.9 in (53 cm)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "10.8 ft (3 m)",
+            "Max Reach Along Ground": "17.5 ft (5 m)"
+        },
+        "Dimensions - Long Stick": {
+            "Boom In Reach": "100 in (254 cm)",
+            "Boom Swing - Left": "27 in (69 cm)",
+            "Boom Swing - Right": "31 in (79 cm)",
+            "Dig Depth": "144 in (366 cm)",
+            "Maximum Blade Depth": "22 in (56 cm)",
+            "Maximum Blade Height": "16 in (41 cm)",
+            "Maximum Dig Height": "214 in (544 cm)",
+            "Maximum Dump Clearance": "154 in (391 cm)",
+            "Maximum Reach": "235 in (597 cm)",
+            "Maximum Reach - Ground Level": "229 in (582 cm)",
+            "O/A Shipping Length": "208 in (528 cm)",
+            "O/A Track Width": "78 in (198 cm)",
+            "O/A Undercarriage Length": "102 in (259 cm)",
+            "Swing Bearing - Height": "24 in (61 cm)",
+            "Track Belt/Shoe Width": "16 in (41 cm)",
+            "Vertical Wall": "104 in (264 cm)"
+        },
+        "Dimensions - Standard Stick": {
+            "Boom In Reach": "93 in (236 cm)",
+            "Boom Swing - Left": "27 in (69 cm)",
+            "Boom Swing - Right": "31 in (79 cm)",
+            "Dig Depth": "129 in (328 cm)",
+            "Maximum Blade Depth": "22 in (56 cm)",
+            "Maximum Blade Height": "16 in (41 cm)",
+            "Maximum Dig Height": "207 in (526 cm)",
+            "Maximum Dump Clearance": "129 in (328 cm)",
+            "Maximum Reach": "220 in (559 cm)",
+            "Maximum Reach - Ground Level": "210 in (533 cm)",
+            "O/A Shipping Length": "204 in (518 cm)",
+            "O/A Track Width": "78 in (198 cm)",
+            "O/A Undercarriage Length": "102 in (259 cm)",
+            "Swing Bearing - Height": "24 in (61 cm)",
+            "Track Belt/Shoe Width": "16 in (41 cm)",
+            "Vertical Wall": "91 in (231 cm)"
+        },
+        "Engine": {
+            "Bore": "3.4 in (8 cm)",
+            "Displacement": "146 cu in (0 m)",
+            "Emissions": "Meets U.S. EPA Tier 4 Final/EU Stage IIIA emission standards.",
+            "Engine Model": "Cat C2.4",
+            "Net Power": "40.2 hp (30 kw)",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Digging Force - Bucket": "10050 lbs (4,559 kg)",
+            "Digging Force - Stick - Long": "4788 lbs (2,172 kg)",
+            "Digging Force - Stick - Standard": "5550 lbs (2,518 kg)",
+            "Hydraulic System Type": "Load Sensing Hydraulics with Variable Displacement Piston Pump",
+            "Operating Pressure - Equipment": "3553 psi",
+            "Operating Pressure - Swing": "3132 psi",
+            "Operating Pressure - Travel": "3553 psi",
+            "Pump Flow at 2,400 rpm": "39.6 gal/min (148 l/min)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "11443 lbs (5,191 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "2.8 gal (8 l)",
+            "Engine Oil": "2.5 gal (8 l)",
+            "Fuel Tank": "16.6 gal (61 l)",
+            "Hydraulic System": "20.6 gal (76 l)",
+            "Hydraulic Tank": "18 gal (68 l)"
+        },
+        "Swing System": {
+            "Boom Swing - Left - With Stop": "60  \t\u00b0",
+            "Boom Swing - Left - Without Stop": "80  \t\u00b0",
+            "Machine Swing Speed": "10 rpm"
+        },
+        "Travel System": {
+            "Gradeability - Maximum": "30  \t\u00b0",
+            "Maximum Traction Force - High Speed": "5418 lbs (2,458 kg)",
+            "Maximum Traction Force - Low Speed": "10161 lbs (4,609 kg)",
+            "Travel Speed - High": "2.7 mph (3 kph)",
+            "Travel Speed - Low": "1.7 mph (2 kph)"
+        }
+    }
+}

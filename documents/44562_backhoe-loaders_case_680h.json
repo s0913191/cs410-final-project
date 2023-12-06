@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/case/680h/44562",
+    "source_url_id": "44562",
+    "source_url_model": "680h",
+    "source_url_make": "case",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:22.489029",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "680H",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "16.6 ft (5 m)",
+            "Dig Depth - Extended": "20.6 ft (6 m)",
+            "Load Height": "11.3 ft (3 m)",
+            "Load Height - Extended": "14 ft (4 m)",
+            "Reach at Load Height - Extended": "12 ft (4 m)",
+            "Reach From Swivel": "19.9 ft (6 m)",
+            "Reach From Swivel - Extended": "24.1 ft (7 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Suspended Cab": "9.6 ft (3 m)",
+            "Transport Length": "22.8 ft (7 m)",
+            "Transport Width": "7.6 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "336 cu in (0 m)",
+            "Engine Model": "A336BD",
+            "Gross Power": "87 hp (65 kw)",
+            "Net Max Torque": "236 lbs/ft",
+            "Net Power": "80 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26 gal/min (98 l/min)",
+            "Relief Valve Pressure": "2550 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "1.6 cu yds (1 m)",
+            "Bucket Width": "96 in (244 cm)",
+            "Clearance at Max Dump Height": "9.5 ft (3 m)",
+            "Dig Depth": "2.7 in (5 cm)",
+            "Reach at Max Dump Height": "2.6 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "9.1 gal (34 l)",
+            "Fuel Capacity": "33 gal (125 l)",
+            "Hydraulic System Fluid Capacity": "13.8 gal (49 l)",
+            "Oil System Fluid Capacity": "4 gal (15 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight 2wd": "15855 lbs (7,192 kg)",
+            "Rear Axle Fluid Capacity": "2.1 gal (8 l)",
+            "Transmission Fluid Capacity": "4 gal (15 l)",
+            "Turning Radius": "19.6 ft (6 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9x24 R4"
+        },
+        "Transmission": {
+            "Max Speed": "19.3 mph (31 kph)",
+            "Max Speed - Reverse": "19.3 mph (31 kph)"
+        }
+    }
+}

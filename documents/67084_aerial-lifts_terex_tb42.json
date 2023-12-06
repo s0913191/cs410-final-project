@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/tb42/67084",
+    "source_url_id": "67084",
+    "source_url_model": "tb42",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:31.939863",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "TB42",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "35%",
+            "Ground Clearance": "10.5 in (25 cm)",
+            "Overall Length": "25.2 in (64 cm)",
+            "Overall Width": "7.2 ft (2 m)",
+            "Shipping weight": "13050 lbs (5,919 kg)",
+            "Stowed Height": "7.1 ft (2 m)",
+            "Tail Swing Radius": "2.8 ft (1 m)",
+            "Turning Radius": "16 ft (5 m)",
+            "Wheel track": "6.1 in (15 cm)",
+            "Wheelbase": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Ford",
+            "Engine Model": "LRG-425",
+            "Fuel Type": "Gasoline",
+            "Gross Power": "62 hp (46 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "25 gal (95 l)",
+            "Hydraulic System Fluid Capacity": "38 gal (144 l)",
+            "Hydraulic System Relief Valve Pressure": "2500 psi",
+            "Max Speed": "3.1 mph (5 kph)",
+            "Tire Size": "12 x 16.5 8 P.R",
+            "Wheel load": "7350 lbs (3,334 kg)",
+            "Wheel load concentrated pressure": "170 psi"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "37 ft (11 m)",
+            "Max Platform Height": "43.6 ft (13 m)",
+            "Max Platform Weight Capacity": "650 lbs (295 kg)",
+            "Max Working Height": "49.6 ft (15 m)",
+            "Platform Inner Length": "72 in (183 cm)",
+            "Platform Inner Width": "36 in (91 cm)",
+            "Platform Rotation": "360  \t\u00b0"
+        }
+    }
+}

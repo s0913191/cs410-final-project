@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-25m/9613",
+    "source_url_id": "9613",
+    "source_url_model": "td-25m",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:21.451968",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-25M",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "12.5 ft (4 m)",
+            "Length w/o Blade": "16.6 ft (5 m)",
+            "Width Over Tracks": "10.5 ft in (25 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and CAC",
+            "Displacement": "912 cu in (0 m)",
+            "Engine Model": "QSX15",
+            "Gross Power": "375 hp (280 kw)",
+            "Net Power": "330 hp (246 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "1 gal/min (4 l/min)",
+            "Pump type": "Multiple vane pumps, driven from torque converter",
+            "Relief Valve Pressure": "1 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "15 gal (57 l)",
+            "Engine Oil Capacity": "13 gal (49 l)",
+            "Final Drives Fluid Capacity": "16.9 gal (61 l)",
+            "Fuel Capacity": "218 gal (825 l)",
+            "Hydraulic Fluid Capacity": "34 gal (129 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "79873 lbs (36,230 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "15 cu yds (11 m)",
+            "Height": "69.3 in (175 cm)",
+            "Width": "14.3 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.4 mph (10 kph)",
+            "Max Speed - Reverse": "7.6 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Modular, countershaft type power shift, electro-hydraulic control."
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5456 cu in (0 m)",
+            "Ground Pressure": "14.6 psi",
+            "Number of Shoes per Side": "38",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22 in (56 cm)"
+        }
+    }
+}

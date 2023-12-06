@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/bobcat/341/1664",
+    "source_url_id": "1664",
+    "source_url_model": "341",
+    "source_url_make": "bobcat",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:52:54.503300",
+    "equipment_category": "Excavators",
+    "equipment_make": "Bobcat",
+    "equipment_model": "341",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "19.1 ft (6 m)",
+            "Max Digging Depth": "13.1 ft (4 m)",
+            "Max Loading Height": "13.6 ft (4 m)",
+            "Max Reach Along Ground": "20.1 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "10.1 ft (3 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "18.5 ft (5 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Removal Counterweight Clearance": "2.2 ft (1 m)",
+            "Tail Swing Radius": "5.3 ft (2 m)",
+            "Width to Outside of Tracks": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "122.1 cu in (0 m)",
+            "Engine Model": "V2003-M-DI-TE2B",
+            "Net Power": "47.9 hp (35 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "22.1 gal (83 l)",
+            "Hydraulic Pump Flow Capacity": "46.9 gal/min (174 l/min)",
+            "Operating Weight": "11660.3 lbs (5,289 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.3 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.5 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Shoe Size": "15.8 in (38 cm)",
+            "Track Gauge": "5 ft (2 m)"
+        }
+    }
+}

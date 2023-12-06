@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-219-dh-4/41312",
+    "source_url_id": "41312",
+    "source_url_model": "bw-219-dh-4",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:22.452607",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 219 DH-4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Overall Length": "20.8 in (51 cm)",
+            "Overall Width": "7.6 ft (2 m)"
+        },
+        "Drum": {
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "26 hz (1,560 vpm)",
+            "Vibration Frequency 2": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BF 6 M 2012C",
+            "Gross Power": "197.2 hp (147 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Operating Weight": "46142.8 lbs (20,930 kg)"
+        }
+    }
+}

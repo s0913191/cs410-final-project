@@ -1,0 +1,84 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/caterpillar/262/6539",
+    "source_url_id": "6539",
+    "source_url_model": "262",
+    "source_url_make": "caterpillar",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:28.541279",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "262",
+    "equipment_spec": {
+        "Cab": {
+            "FOPS": "SAEJ/ISO 3449 APR98 Level I and ISO3449:1992 Level I",
+            "FOPS Level II": "SAEJ/ISO 3449 APR 98 Level II and ISO 3449:1992 Level II (optional)",
+            "ROPS": "SAE J1040 MAY94 and ISO3471:1994"
+        },
+        "Dimensions": {
+            "Bucket Pin Height - Carry Position": "9.6 in (23 cm)",
+            "Bucket Pin Height - Maximum Lift": "10.7 ft (3 m)",
+            "Bumper Overhang - Rear Axle": "41 in (104 cm)",
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Clearance at Maximum Lift and Dump": "98.2 in (249 cm)",
+            "Ground Clearance": "9 in (23 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length - With Bucket on Ground": "142.4 in (361 cm)",
+            "Length - Without Bucket": "114.3 in (290 cm)",
+            "Length w/o Bucket": "9.6 ft (3 m)",
+            "Length with Bucket": "11.9 ft (3 m)",
+            "Maximum Overall Height": "161 in (409 cm)",
+            "Reach - Maximum Lift/Dump": "32.5 in (81 cm)",
+            "Reach at Max Lift and Dump": "30.8 in (76 cm)",
+            "Turning Radius from Center - inc bucket": "89.2 in (226 cm)",
+            "Vehicle Width over Tires": "72 in (183 cm)",
+            "Wheel Base": "4.1 ft (1 m)",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "3.9 in (8 cm)",
+            "Displacement": "183 cu in (0 m)",
+            "Engine Make": "Caterpillar",
+            "Engine Model": "Cat 3034C",
+            "Gross Power": "74 hp (55 kw)",
+            "Net Flywheel Power": "74 hp (55 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic Flow": "Standard flow",
+            "Loader Hydraulic Flow": "22 gal/min (83 l/min)",
+            "Loader Hydraulic Pressure": "3300 psi",
+            "Pump Flow Capacity": "22 gal/min (83 l/min)"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Operating Load Rating": "2500 lbs (1,134 kg)",
+            "Tipping Angle": "4779.6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Breakout Force - Lift Cylinder": "5020 lbs (2,277 kg)",
+            "Breakout Force - Tilt Cylinder": "5212 lbs (2,364 kg)",
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Hydraulic System Fluid Capacity": "14.1 gal (53 l)",
+            "Max Speed": "7.6 mph (11 kph)",
+            "Operating Speed": "7.6 mph (11 kph)",
+            "Operational Weight": "3552 lbs (1,611 kg)",
+            "Rated Operating Capacity": "2500 lbs (1,134 kg)",
+            "Rated Operating Capacity with Optional Counterweight": "2550 lbs (1,157 kg)",
+            "Tipping Load": "5000 lbs (2,268 kg)"
+        },
+        "Service Refill Capacities": {
+            "Chain Box - Each Side": "2.1 gal (8 l)",
+            "Cooling System": "2.6 gal (8 l)",
+            "Engine Crankcase": "1.8 gal (4 l)",
+            "Fuel Tank": "23.8 gal (87 l)",
+            "Hydraulic System": "14 gal (53 l)",
+            "Hydraulic Tank": "9.2 gal (34 l)"
+        },
+        "Weights": {
+            "Operating Weight": "7655 lbs (3,472 kg)"
+        }
+    }
+}

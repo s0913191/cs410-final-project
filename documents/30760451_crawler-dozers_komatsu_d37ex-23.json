@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d37ex-23/30760451",
+    "source_url_id": "30760451",
+    "source_url_model": "d37ex-23",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:30.254109",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D37EX-23",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA4D95LE-6",
+            "Net Power": "89 hp (66 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18695 lbs (8,480 kg)"
+        }
+    }
+}

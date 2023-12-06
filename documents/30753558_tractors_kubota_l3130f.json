@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l3130f/30753558",
+    "source_url_id": "30753558",
+    "source_url_model": "l3130f",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:29:33.280361",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L3130F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.2 in (36 cm)",
+            "Height": "7.1 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "7.6 ft (2 m)",
+            "Overall Length": "10 in (25 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Wheelbase": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "E-TVCS indirect injection",
+            "Displacement": "91.5 cu in (0 m)",
+            "Engine Model": "L3130",
+            "Gross Power": "32.1 hp (24 kw)",
+            "Net Power": "31 hp (23 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2700 rpm",
+            "PTO Power": "25.5 hp (19 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "13.3 gal/min (49 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2645.6 lbs (1,200 kg)",
+            "Alternator Supplied Amperage": "40  A",
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3119.6 lbs (1,415 kg)",
+            "Tire Size Front - 2wd / 4wd": "6.0-16",
+            "Turning Radius": "8.6 ft (2 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "12.4-24"
+        },
+        "Transmission": {
+            "Max Speed": "16.6 mph (26 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "FST"
+        }
+    }
+}

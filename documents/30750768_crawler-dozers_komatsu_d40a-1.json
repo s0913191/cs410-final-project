@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d40a-1/30750768",
+    "source_url_id": "30750768",
+    "source_url_model": "d40a-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:51.435973",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D40A-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Length of Track on Ground": "6.8 ft (2 m)",
+            "Length w/ Blade": "14 ft (4 m)",
+            "Length w/o Blade": "10.8 ft (3 m)",
+            "Width Over Tracks": "6.4 ft in (15 cm)"
+        },
+        "Engine": {
+            "Displacement": "242.9 cu in (0 m)",
+            "Engine Model": "S4D105",
+            "Gross Power": "80 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Fuel Capacity": "55.5 gal (208 l)",
+            "Operating Weight": "20547.1 lbs (9,320 kg)"
+        },
+        "Standard Blade": {
+            "Height": "29.6 in (74 cm)",
+            "Width": "10.4 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6 mph (10 kph)",
+            "Max Speed - Reverse": "4.8 mph (6 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "DD"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.2 psi",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "37",
+            "Number of Track Rollers per Side": "5",
+            "Standard Shoe Size": "15.8 in (38 cm)",
+            "Track Gauge": "5.1 ft (2 m)",
+            "Track Pitch": "6.9 in (15 cm)"
+        }
+    }
+}

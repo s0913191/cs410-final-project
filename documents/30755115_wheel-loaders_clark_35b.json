@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/clark/35b/30755115",
+    "source_url_id": "30755115",
+    "source_url_model": "35b",
+    "source_url_make": "clark",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:24.258038",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Clark",
+    "equipment_model": "35B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "10656 lbs (4,834 kg)",
+            "Bucket Capacity - heaped": "1.4 cu yds (1 m)",
+            "Bucket Capacity - struck": "1.2 cu yds (1 m)",
+            "Bucket Width": "7 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Hinge Pin - Max Height": "11.2 ft (3 m)",
+            "Length with Bucket on Ground": "18.1 ft (5 m)",
+            "Reach at Max Lift and Dump": "3.3 ft (1 m)",
+            "Wheelbase": "7.8 ft (2 m)",
+            "Width Over Tires": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "303.8 cu in (0 m)",
+            "Engine Model": "D500PL",
+            "Gross Power": "84 hp (63 kw)",
+            "Net Power": "74 hp (55 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "3.4 sec",
+            "Pump Flow Capacity": "32.3 gal/min (121 l/min)",
+            "Pump Type": "gear type",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "2275 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "25  A",
+            "Cooling System Fluid Capacity": "7.2 gal (27 l)",
+            "Engine Oil Fluid Capacity": "3.5 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "3.7 gal (11 l)",
+            "Fuel Capacity": "25.1 gal (95 l)",
+            "Hydraulic System Fluid Capacity": "21.7 gal (79 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "14418.3 lbs (6,540 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "3.7 gal (11 l)",
+            "Static Tipping Weight": "9479.9 lbs (4,300 kg)",
+            "Tire Size": "12.00-24 8PR (L-2)",
+            "Transmission Fluid Capacity": "4.5 gal (15 l)",
+            "Turning Radius": "16.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.2 mph (34 kph)",
+            "Max Speed - Reverse": "21.5 mph (34 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "countershaft powershift"
+        }
+    }
+}

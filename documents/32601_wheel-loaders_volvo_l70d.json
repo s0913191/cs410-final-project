@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l70d/32601",
+    "source_url_id": "32601",
+    "source_url_model": "l70d",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:17.053092",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L70D",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "19540 lbs (8,863 kg)",
+            "Bucket Capacity - heaped": "2.5 cu yds (2 m)",
+            "Bucket Width": "8.3 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Hinge Pin - Max Height": "12.8 ft (4 m)",
+            "Length with Bucket on Ground": "23.4 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.2 ft (1 m)",
+            "Wheelbase": "9.4 ft (3 m)",
+            "Width Over Tires": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with Intercooler",
+            "Displacement": "334 cu in (0 m)",
+            "Engine Model": "TD 63 KGE",
+            "Gross Power": "128 hp (95 kw)",
+            "Net Power": "122 hp (91 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1100 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "42.3 gal/min (159 l/min)",
+            "Pump Type": "double axial piston pump",
+            "Raise Time": "5.4 sec",
+            "Relief Valve Setting": "3771 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Engine Oil Fluid Capacity": "4.3 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "50.2 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "17.2 gal (64 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "24980 lbs (11,331 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "6.4 gal (23 l)",
+            "Static Tipping Weight": "19250 lbs (8,732 kg)",
+            "Tire Size": "20.5R25*L2",
+            "Transmission Fluid Capacity": "4.5 gal (15 l)",
+            "Turning Radius": "18.3 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "27.3 mph (43 kph)",
+            "Max Speed - Reverse": "27.3 mph (43 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Volvo HT 90 countershaft-type"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/180c-w/18465",
+    "source_url_id": "18465",
+    "source_url_model": "180c-w",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:06:02.966917",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "180C W",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "30.5 ft (9 m)",
+            "Max Digging Depth": "19 ft (6 m)",
+            "Max Loading Height": "21.3 ft (6 m)",
+            "Max Reach Along Ground": "30.7 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "17.1 ft (5 m)",
+            "Shipping Height of Unit": "11.6 ft (3 m)",
+            "Shipping Length of Unit": "30.8 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "30.4 ft (9 m)",
+            "Max Digging Depth": "19.3 ft (6 m)",
+            "Max Loading Height": "21.1 ft (6 m)",
+            "Max Reach Along Ground": "29.7 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "16.5 ft (5 m)",
+            "Shipping Height of Unit": "11.6 ft (3 m)",
+            "Shipping Length of Unit": "30.3 ft (9 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Overall Width": "8.4 in (20 cm)",
+            "Overall Width - Outriggers Down": "12.2 ft (4 m)",
+            "Tail Swing Radius": "8.1 ft (2 m)",
+            "Upper Structure Clearance": "4.2 ft (1 m)",
+            "Wheelbase": "8.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "264 cu in (0 m)",
+            "Engine Model": "4BG1XABFA",
+            "Net Power": "121 hp (90 kw)",
+            "Net Torque": "330 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "5.1 gal (19 l)",
+            "Engine Oil Capacity": "4.2 gal (15 l)",
+            "Front Diff Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "74 gal (280 l)",
+            "Hydraulic Pump Flow Capacity": "104 gal/min (394 l/min)",
+            "Hydraulic Pump Type": "Variable Axial-Piston",
+            "Hydraulic System Fluid Capacity": "71.4 gal (269 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "41447 lbs (18,800 kg)",
+            "Oscillating Axle Angle": "12  \t\u00b0",
+            "Rear Diff Fluid Capacity": "3 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.8 rpm",
+            "Swing Torque": "29800 lbs/ft"
+        },
+        "Transmission": {
+            "Max Travel Speed": "18.6 mph (29 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

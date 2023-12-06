@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pipelayers/caterpillar/72h/30769723",
+    "source_url_id": "30769723",
+    "source_url_model": "72h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "pipelayers",
+    "source_date_scraped": "2023-09-13 16:35:15.210210",
+    "equipment_category": "Pipelayers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "72H",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Lift Capacity at Max Reach": "90000 lbs (40,824 kg)",
+            "Overall Height": "22.6 ft (7 m)",
+            "Overall Width": "18.2 ft (5 m)"
+        },
+        "Engine": {
+            "Bore": "4.6 in (10 cm)",
+            "Displacement": "567.6 cu in (0 m)",
+            "Engine Model": "C9.3 ACERT",
+            "Gross Power": "229 hp (171 kw)",
+            "Net Power": "205.2 hp (153 kw)",
+            "Stroke": "5.9 in (13 cm)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "64390 lbs (29,207 kg)"
+        }
+    }
+}

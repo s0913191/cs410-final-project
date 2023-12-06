@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex/t-300-1xl/30873733",
+    "source_url_id": "30873733",
+    "source_url_model": "t-300-1xl",
+    "source_url_make": "terex",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:13.250175",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "T 300-1XL",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "150 ft (46 m)",
+            "Max Lift Capacity": "30-40 t (27,216 kg)"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/325d-lre/30748933",
+    "source_url_id": "30748933",
+    "source_url_model": "325d-lre",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:30.355732",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "325D LRE",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "C7 ACERT",
+            "Net Power": "190 hp (142 kw)"
+        },
+        "Operating Specifications": {
+            "Maximum Cutting Height": "44.5 ft (13 m)",
+            "Maximum Digging Depth": "37.3 ft (11 m)",
+            "Maximum Reach": "52.46 ft (16 m)"
+        }
+    }
+}

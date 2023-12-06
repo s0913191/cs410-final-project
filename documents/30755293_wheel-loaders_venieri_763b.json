@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/venieri/763b/30755293",
+    "source_url_id": "30755293",
+    "source_url_model": "763b",
+    "source_url_make": "venieri",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:04.534209",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Venieri",
+    "equipment_model": "763B",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Bucket Width": "7.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Length with Bucket on Ground": "19.4 ft (6 m)",
+            "Reach at Max Lift and Dump": "2.5 ft (1 m)",
+            "Wheelbase": "8.3 ft (2 m)",
+            "Width Over Tires": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "1104-44T",
+            "Net Power": "92.6 hp (69 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16534.7 lbs (7,500 kg)",
+            "Static Tipping Weight": "9590.2 lbs (4,350 kg)",
+            "Tire Size": "15.5x25",
+            "Turning Radius": "8.5 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23 mph (37 kph)",
+            "Max Speed - Reverse": "23 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

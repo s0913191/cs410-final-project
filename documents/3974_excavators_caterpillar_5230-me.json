@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/5230-me/3974",
+    "source_url_id": "3974",
+    "source_url_model": "5230-me",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:19.412926",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "5230 ME",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.7 ft (1 m)",
+            "Height - Top of Cab": "24.5 ft (7 m)",
+            "Length of Track on Ground": "20.6 ft (6 m)",
+            "Removal Counterweight Clearance": "8.1 ft (2 m)",
+            "Tail Swing Radius": "21.2 ft (6 m)",
+            "Width to Outside of Tracks": "20.7 ft (6 m)"
+        },
+        "Engine": {
+            "Displacement": "4210.7 cu in (0 m)",
+            "Engine Model": "3516 EUI",
+            "Net Power": "1470 hp (1,096 kw)"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "594 gal/min (2,248 l/min)",
+            "Hydraulic System Relief Valve Pressure": "5080 psi",
+            "Operating Weight": "697983.6 lbs (316,603 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "340875 lbs (154,620 kg)",
+            "Max Travel Speed": "1.6 mph (2 kph)",
+            "Shoe Size": "51.2 in (130 cm)",
+            "Track Gauge": "17.1 ft (5 m)"
+        }
+    }
+}

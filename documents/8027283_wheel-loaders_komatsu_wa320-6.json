@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa320-6/8027283",
+    "source_url_id": "8027283",
+    "source_url_model": "wa320-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:28.048373",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA320-6",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Model": "SAA6D107E-1",
+            "Net Power": "167 hp (125 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3 - 4.20 cu yds (2 - 3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "31590 - 32,070 lbs (14,329 - 14,547 kg)"
+        }
+    }
+}

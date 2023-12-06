@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/ranger/f67-grapple/30756055",
+    "source_url_id": "30756055",
+    "source_url_model": "f67-grapple",
+    "source_url_make": "ranger",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:37.395134",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Ranger",
+    "equipment_model": "F67 Grapple",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Width": "53.6 ft (16 m)",
+            "Cable Width": "315 in (800 cm)",
+            "Drum Capacity at Cable Width": "33271.8 ft (10,141 m)",
+            "Drum Diameter": "0.7 in (0 cm)",
+            "Grapple Capacity - tongs tip to tip": "12 CUBIC ft",
+            "Ground Clearance": "10.5 ft (3 m)",
+            "Height": "3 ft (1 m)",
+            "Height - Top of Cab": "1.9 ft (0 m)",
+            "Height of Grapple from Ground": "8.4 ft ft (2 m)",
+            "Max Blade Height": "9 in (23 cm)",
+            "Max Height of Boom": "6.8 ft (2 m)",
+            "Max Line Pull - bare drum": "303 lbs (137 kg)",
+            "Overall Width": "10.7 ft (3 m)",
+            "Tong Opening at Tips": "447 in (1,135 cm)",
+            "Wheelbase": "2.93 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "26521.7",
+            "Engine Model": "132",
+            "Gross Power": "118 hp (88 kw)",
+            "Net Power": "2500 hp (1,864 kw)",
+            "Peak Torque": "1500 lbs/ft",
+            "Power Measured @": "358.9 rpm",
+            "Torque Measured @": "66.9 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Type": "36.8",
+            "Relief Valve Pressure": "18 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "clark model R-28",
+            "Operating Voltage": "65  A",
+            "Operating Weight": "12 V lbs (5 kg)",
+            "Steering Angle": "24.5 - 32 V  -",
+            "Tire Size": "7.1",
+            "Transmission Fluid Capacity": "22.2 gal (83 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "16.3 mph (26 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "16.3",
+            "Transmission Type": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "gear type cu in (0 m)",
+            "Length of Track on Ground": "6BTA5.9 ft (2 m)"
+        },
+        "Winch - Grapple Skidder": {
+            "Drum Capacity - 25.4mm (1 in)": "24  \t\u00b0"
+        }
+    }
+}

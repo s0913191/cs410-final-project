@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/wacker-neuson/38z3/42958",
+    "source_url_id": "42958",
+    "source_url_model": "38z3",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:28.944990",
+    "equipment_category": "Excavators",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "38Z3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "14.9 ft (4 m)",
+            "Max Digging Depth": "10.3 ft (3 m)",
+            "Max Loading Height": "10.6 ft (3 m)",
+            "Max Reach Along Ground": "17.4 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8 ft (2 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "15.8 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "15.3 ft (5 m)",
+            "Max Digging Depth": "11.1 ft (3 m)",
+            "Max Loading Height": "11 ft (3 m)",
+            "Max Reach Along Ground": "17.9 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8.8 ft (2 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "15.8 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Tail Swing Radius": "3.6 ft (1 m)",
+            "Width to Outside of Tracks": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "3TNV86",
+            "Net Power": "36.8 hp (27 kw)",
+            "Number of Cylinders": "3"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "32 gal/min (121 l/min)",
+            "Hydraulic System Fluid Capacity": "10.2 gal (38 l)",
+            "Hydraulic System Relief Valve Pressure": "3481 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "7716.2 lbs (3,500 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4 psi",
+            "Max Travel Speed": "2.9 mph (3 kph)",
+            "Shoe Size": "12 in (30 cm)"
+        }
+    }
+}

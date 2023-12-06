@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/450b/18761",
+    "source_url_id": "18761",
+    "source_url_model": "450b",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:38.443198",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "450B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Width Over Tracks": "6 ft in (15 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Naturally aspirated",
+            "Displacement": "219 cu in (0 m)",
+            "Engine Model": "300 Series",
+            "Max Torque": "178 lbs/ft",
+            "Net Power": "65 hp (48 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14 gal/min (53 l/min)",
+            "Pump type": "Open-center",
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Engine Oil Capacity": "2.3 gal (8 l)",
+            "Final Drives Fluid Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Hydraulic Fluid Capacity": "8 gal (30 l)",
+            "Operating Weight": "14500 lbs (6,577 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "HLR: 4 speed ranges"
+        }
+    }
+}

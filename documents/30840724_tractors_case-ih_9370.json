@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/9370/30840724",
+    "source_url_id": "30840724",
+    "source_url_model": "9370",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:28.263327",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "9370",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.9 in (46 cm)",
+            "Height - Top of Cab": "12.5 ft (4 m)",
+            "Overall Length": "281 in (714 cm)",
+            "Wheelbase": "144 in (366 cm)",
+            "Width Outside Frame": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.6 in (13 cm)",
+            "Displacement": "854.4 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "N14-A368",
+            "Gross Power": "360 hp (268 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "310 hp (231 kw)",
+            "Stroke": "6 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center",
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "27 gal/min (102 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "17000 lbs (7,711 kg)",
+            "3 Point Hitch Type": "IV",
+            "Alternator Supplied Amperage": "125  A",
+            "Cooling System Fluid Capacity": "16.6 gal (61 l)",
+            "Engine Oil Capacity": "10.2 gal (38 l)",
+            "Front Tire Size": "20.8R-38",
+            "Fuel Capacity": "270 gal (1,022 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "40000.7 lbs (18,144 kg)",
+            "Rear Tire Size": "20.8R-38"
+        },
+        "Transmission": {
+            "Max Speed - forward": "19.7 mph (31 kph)",
+            "Max Speed - reverse": "9.6 mph (14 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

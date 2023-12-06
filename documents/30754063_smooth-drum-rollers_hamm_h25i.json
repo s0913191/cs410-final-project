@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/h25i/30754063",
+    "source_url_id": "30754063",
+    "source_url_model": "h25i",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:52.396798",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "H25i",
+    "equipment_spec": {
+        "Dimensions": {
+            "Angle of driving slope-Front": "43  \t\u00b0",
+            "Angle of driving slope-Rear": "28  \t\u00b0",
+            "Ground Clearance": "15.4 in (38 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Loadover height": "7.7 ft (2 m)",
+            "Overall Length": "259.9 in (658 cm)",
+            "Turning Radius - Inside": "13.8 ft (4 m)",
+            "Wheelbase": "128.6 in (325 cm)",
+            "Width over cab": "98.8 in (249 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "74411.8 lbs (33,753 kg)",
+            "Centrifugal Force - Low": "54403.8 lbs (24,677 kg)",
+            "Drum Diameter": "63 in (160 cm)",
+            "Drum thickness": "1.8 in (3 cm)",
+            "Drum Type": "smooth",
+            "Drum Width": "84.3 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "776 lbs/in",
+            "Vibration Frequency 1": "27 hz (1,620 vpm)",
+            "Vibration Frequency 2": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Diesel Fuel Tank Capacity - Standard Tank": "8.5 gal (30 l)",
+            "Emissions Certification": "EU Stage IV / EPA Tier 4",
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 6.1 L6",
+            "Engine power@ISO 14396": "214.6 hp (160 kw)",
+            "Engine power@SAEJ1349": "214.6 hp (160 kw)",
+            "Exhaust Gas Recirculation (EGR)": "DOC-DPF-SCR",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "36629.9 lbs (16,615 kg)",
+            "Axle load - rear": "18078 lbs (8,200 kg)",
+            "Fuel Capacity": "74 gal (280 l)",
+            "Max Speed": "12 mph (19 kph)",
+            "Max Weight": "55005.4 lbs (24,950 kg)",
+            "Operating weight Cabin": "54707.8 lbs (24,815 kg)"
+        },
+        "Speeds": {
+            "Size of tyres, rear": "EM 23.5-R25 XTLA"
+        },
+        "Steering System": {
+            "Oscillating angle": "10  \t\u00b0",
+            "Steering Method": "Articulated steering"
+        }
+    }
+}

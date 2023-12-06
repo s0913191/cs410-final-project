@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/kx080-4sg/30750007",
+    "source_url_id": "30750007",
+    "source_url_model": "kx080-4sg",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:11.478705",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "KX080-4SG",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Lift Height": "19.7 in (48 cm)",
+            "Blade Width": "7.3 ft (2 m)",
+            "Maximum Drop below ground": "1.7 ft (0 m)",
+            "Overall Height": "8.4 ft (2 m)"
+        },
+        "Boom": {
+            "Boom swing left": "70  \t\u00b0",
+            "Boom swing right": "60  \t\u00b0"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "15.1 ft (5 m)",
+            "Max Digging Height": "24 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "12.7 ft (4 m)",
+            "Max.Dumping Height": "17.3 ft (5 m)",
+            "Mximum dig radius": "288.6 in (732 cm)"
+        },
+        "Dimensions": {
+            "Crawler length": "9.6 ft (3 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Overall length": "21.2 ft (6 m)",
+            "Overall Width": "86.7 in (218 cm)",
+            "Tail Swing Radius": "4.8 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "9739.4 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V3307-CR-TE4",
+            "Gross Power": "66.6 hp (49 kw)",
+            "Model Name": "KX080-4",
+            "Net Power": "62.3 hp (46 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Auxiliary fuel tank": "17.6 gal (64 l)",
+            "Auxiliary hydraulic flow": "26.5 gal/min (98 l/min)",
+            "Fuel Capacity": "30.4 gal (114 l)",
+            "Hydraulic Pump Flow Capacity": "19.9 gal/min (72 l/min)",
+            "Hydraulic System Fluid Capacity": "35.7 gal (132 l)",
+            "Operating Weight": "41160.4 lbs (18,670 kg)",
+            "Operating weight Cabin": "27337.4 lbs (12,400 kg)",
+            "Travel speed, high range": "3.1 mph (5 kph)",
+            "Travel speed, low range": "1.7 mph (2 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.3 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.4 psi",
+            "Shoe Size": "17.8 in (43 cm)"
+        }
+    }
+}

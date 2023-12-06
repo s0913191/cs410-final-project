@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/bobcat/463/1488",
+    "source_url_id": "1488",
+    "source_url_model": "463",
+    "source_url_make": "bobcat",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:10.103450",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "463",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "6.2 ft (2 m)",
+            "Ground Clearance": "5.6 in (13 cm)",
+            "Height - Top of Cab": "6 ft (2 m)",
+            "Length w/o Bucket": "6.3 ft (2 m)",
+            "Length with Bucket": "8.4 ft (2 m)",
+            "Reach at Max Lift and Dump": "18.5 in (46 cm)",
+            "Turning Radius from Center - machine rear": "61.3 in (155 cm)",
+            "Wheelbase": "2.4 ft (1 m)",
+            "Width Over Tires": "3 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "D1005- E 2B-BC -3",
+            "Gross Power": "22.5 hp (16 kw)"
+        },
+        "Hydraulic": {
+            "Pump Flow Capacity": "10 gal/min (38 l/min)"
+        },
+        "Loader": {
+            "Operating Load Rating": "700 lbs (318 kg)",
+            "Tipping Angle": "1405  \t\u00b0"
+        },
+        "Operational": {
+            "Fuel Capacity": "6.5 gal (23 l)",
+            "Max Speed": "6.5 mph (10 kph)",
+            "Operational Weight": "2708 lbs (1,228 kg)"
+        }
+    }
+}

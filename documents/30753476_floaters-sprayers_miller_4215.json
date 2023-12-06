@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/miller/4215/30753476",
+    "source_url_id": "30753476",
+    "source_url_model": "4215",
+    "source_url_make": "miller",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:45.189490",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Miller",
+    "equipment_model": "4215",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "28.2 in (71 cm)",
+            "Transport Height": "13.2 ft (4 m)",
+            "Transport Width": "12.9 ft (4 m)",
+            "Wheelbase": "12.8 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB 6.7 Liter",
+            "Gross Power": "215 hp (160 kw)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "24150 lbs (10,954 kg)",
+            "Fuel Capacity": "150 gal (568 l)",
+            "Rinse Tank Capacity": "150 gal (568 l)",
+            "Solution Tank Capacity": "1000 gal (3,785 l)"
+        },
+        "Transmission": {
+            "Transmission Type": "Torq-Trac hydrostatic"
+        }
+    }
+}

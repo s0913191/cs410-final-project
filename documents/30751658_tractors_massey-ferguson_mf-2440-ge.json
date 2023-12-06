@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-2440-ge/30751658",
+    "source_url_id": "30751658",
+    "source_url_model": "mf-2440-ge",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:44.885139",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 2440 GE",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Overall Length": "13.1 in (33 cm)",
+            "Tire Size": "front 320/70R20 rear 14.9R28",
+            "Wheelbase": "7 ft (2 m)",
+            "Width Outside Frame": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Model": "800 Series",
+            "Gross Power": "82 hp (61 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15.1 gal/min (57 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4629.8 lbs (2,100 kg)",
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Operating Weight": "6724.1 lbs (3,050 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "15",
+            "Number of Reverse Gears": "15",
+            "Transmission Type": "synchro shuttle"
+        }
+    }
+}

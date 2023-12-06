@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/1021f-xr/30761215",
+    "source_url_id": "30761215",
+    "source_url_model": "1021f-xr",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:41:36.600609",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "1021F XR",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4.8 cu yds (3 m)",
+            "Bucket Capacity - struck": "4.1 cu yds (3 m)",
+            "Bucket Width": "10.5 ft (3 m)",
+            "Dump Clearance at Max Raise": "12.3 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "11.8 ft (3 m)",
+            "Hinge Pin - Max Height": "15.9 ft (5 m)",
+            "Length with Bucket on Ground": "30.5 ft (9 m)",
+            "Reach at Max Lift and Dump": "3.9 ft (1 m)",
+            "Wheelbase": "11.7 ft (3 m)",
+            "Width Over Tires": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "531 cu in (0 m)",
+            "Engine Model": "F2CFE614C",
+            "Gross Power": "320 hp (239 kw)",
+            "Make": "Case",
+            "Net Power": "296 hp (221 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1200 rpm",
+            "Torque Rise": "49%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.3 sec",
+            "Lower Time": "2.6 sec",
+            "Pump Flow Capacity": "93 gal/min (352 l/min)",
+            "Raise Time": "6.2 sec"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "15 gal (57 l)",
+            "Engine Oil Fluid Capacity": "8.1 gal (30 l)",
+            "Front Axle/Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Fuel Capacity": "125 gal (473 l)",
+            "Hydraulic System Fluid Capacity": "66 gal (250 l)",
+            "Operating Weight": "56452 lbs (25,607 kg)",
+            "Rated Bucket Capacity": "5.5 cu yds (4 m)",
+            "Rear Axle/Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Static Tipping Weight": "35504 lbs (16,105 kg)",
+            "Tire Size": "26.5R25",
+            "Transmission Fluid Capacity": "12 gal (45 l)",
+            "Turning Radius": "24 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.2 mph (37 kph)",
+            "Max Speed - Reverse": "16.1 mph (26 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3"
+        },
+        "Weights": {
+            "Operational Weight": "56632 lbs (25,688 kg)"
+        }
+    }
+}

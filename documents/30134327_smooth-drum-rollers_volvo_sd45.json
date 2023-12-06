@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/sd45/30134327",
+    "source_url_id": "30134327",
+    "source_url_model": "sd45",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:35.365723",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "SD45",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "101.1 in (257 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54 in (137 cm)",
+            "Vibration Frequency": "32 hz (1,920 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota V3600T"
+        },
+        "Operating Specifications": {
+            "Operating Width": "62.6 in (157 cm)"
+        }
+    }
+}

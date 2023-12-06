@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l70g/32995",
+    "source_url_id": "32995",
+    "source_url_model": "l70g",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:19.535695",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L70G",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "TURBOCHARGED",
+            "Displacement": "347.9 cu in (0 m)",
+            "Engine Model": "D6H TIER 4H",
+            "Gross Power": "171 hp (128 kw)",
+            "Make": "Volvo",
+            "Model": "D6H (Tier 4i)",
+            "Net Power": "171 hp (128 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1700 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "2.7 sec",
+            "Raise Time": "5.1 sec"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "30732.5 lbs (13,940 kg)",
+            "Rated Bucket Capacity": "2.6 - 8.70 cu yds (2 - 6 m)",
+            "Tire Size": "20.5"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "28.6 mph (45 kph)",
+            "Max Speed - Reverse": "28.6 mph (45 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "HTE 125"
+        },
+        "Weights": {
+            "Operational Weight": "29910 lbs (13,567 kg)"
+        }
+    }
+}

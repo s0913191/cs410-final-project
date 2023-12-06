@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/bestway/field-pro-iv-1600/30753470",
+    "source_url_id": "30753470",
+    "source_url_model": "field-pro-iv-1600",
+    "source_url_make": "bestway",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:05:55.996104",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Bestway",
+    "equipment_model": "Field Pro IV 1600",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "72 in (183 cm)",
+            "Max Boom Width": "90 ft (27 m)",
+            "Min Adjustable Height": "20 in (51 cm)",
+            "Min Boom Width": "80 ft (24 m)"
+        },
+        "Dimensions": {
+            "Overall Length": "25 in (64 cm)",
+            "Tire Size": "380/90R46",
+            "Transport Height": "10 ft (3 m)",
+            "Transport Width": "12 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "8100 lbs (3,674 kg)",
+            "Foam Marker Tank Capacity": "50 gal (189 l)",
+            "Rinse Tank Capacity": "100 gal (379 l)",
+            "Solution Tank Capacity": "1600 gal (6,056 l)"
+        }
+    }
+}

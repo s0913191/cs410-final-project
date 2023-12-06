@@ -1,0 +1,90 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/volvo/mc115d/30749435",
+    "source_url_id": "30749435",
+    "source_url_model": "mc115d",
+    "source_url_make": "volvo",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:34.491673",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "MC115D",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout force, curl": "6543.4 lbs (2,968 kg)",
+            "Breakout force, lift": "6056.1 lbs (2,747 kg)",
+            "General Purpose Bucket Heaped": "0.7 cu yds (0 m)",
+            "General Purpose Bucket Height": "1.8 ft (0 m)",
+            "General Purpose Bucket Length": "2.7 ft (1 m)",
+            "General Purpose Bucket Weight": "542.4 lbs (246 kg)",
+            "General Purpose Bucket Width": "6.5 ft (2 m)",
+            "Landscape Bucket Heaped cap": "0.8 cu yds (0 m)",
+            "Landscape Bucket Height": "1.8 ft (0 m)",
+            "Landscape Bucket Length": "3.2 ft (1 m)",
+            "Landscape Bucket Weight": "0.5 cu in (0 m)",
+            "Landscape Bucket Width": "6.5 ft (2 m)",
+            "Multi Purpose Bucket Heaped cap": "0.8 cu yds (0 m)",
+            "Multi Purpose Bucket Height": "2.3 ft (1 m)",
+            "Multi Purpose Bucket Length": "3.2 ft (1 m)",
+            "Multi Purpose Bucket Weight": "842.2 lbs (382 kg)",
+            "Multi Purpose Bucket Width": "6.5 ft (2 m)"
+        },
+        "Capacities": {
+            "Cooling system": "5.9 gal (19 l)",
+            "Engine oil w/ filter change": "4 gal (15 l)",
+            "Fuel Tank": "27.3 gal (102 l)",
+            "Hydraulic oil reservoir": "6.9 gal (23 l)",
+            "Hydraulic system": "14.6 gal (53 l)",
+            "Tipping Load": "5447.7 lbs (2,471 kg)"
+        },
+        "Dimensions": {
+            "Angle of departure": "29  \t\u00b0",
+            "Dump angle": "42  \t\u00b0",
+            "Dump Height": "7.6 ft (2 m)",
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height to Hinge Pin": "126 in (320 cm)",
+            "Overall height": "6.9 ft (2 m)",
+            "Overall length (L/bucket)": "9.9 ft (3 m)",
+            "Overall length (W/bucket)": "12.5 ft (4 m)",
+            "Turning Radius": "5.8 ft (2 m)",
+            "Turning radius front L/bucket": "5 ft (2 m)",
+            "Turning radius front W/bucket": "7.6 ft (2 m)",
+            "Wheelbase": "4.2 ft (1 m)"
+        },
+        "Engine": {
+            "Alternator": "342000 A",
+            "Aspiration": "Turbo",
+            "Battery": "12/109",
+            "Displacement": "268.5 cu in (0 m)",
+            "Engine Model": "TCAE-55",
+            "Fuel Type": "Diesel",
+            "Gross horsepower - SAE J1995": "73.8 hp (54 kw)",
+            "Gross Power": "72.5 hp (54 kw)",
+            "Max Torque": "295.1 lbs/ft",
+            "Number of Cylinders": "4",
+            "Starter": "5.7 hp (4 kw)"
+        },
+        "Loader": {
+            "Bucket Width": "74.9 in (188 cm)",
+            "High flow pump output": "33.1 gal/min (125 l/min)",
+            "Operating Load Rating": "2580 lbs (1,170 kg)",
+            "Operating Width": "72 in (183 cm)",
+            "Standard hydraulic pump output": "23.8 gal/min (87 l/min)",
+            "System pressure": "3336 psi"
+        },
+        "Performance": {
+            "Curl": "1.8 sec",
+            "Dump": "2.1 sec",
+            "Lift arm path": "Vertical",
+            "Lower (power down)": "2.5 sec",
+            "Raise (lifting)": "3.7 sec",
+            "Rated operating capacity (ISO 14397)": "1235 lbs (560 kg)"
+        },
+        "Speeds": {
+            "Single speed": "6.8 mph (10 kph)",
+            "Two speed": "12.4 mph (19 kph)"
+        },
+        "Weights": {
+            "Weight": "8679.6 lbs (3,937 kg)"
+        }
+    }
+}

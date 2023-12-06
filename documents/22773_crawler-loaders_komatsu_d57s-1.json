@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/komatsu/d57s-1/22773",
+    "source_url_id": "22773",
+    "source_url_model": "d57s-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:50.410349",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D57S-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "9.5 ft (3 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Length with Bucket on Ground": "18.6 ft (5 m)",
+            "Reach at Dump Height": "4 ft (1 m)",
+            "Width to Outside of Tracks": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "518 cu in (0 m)",
+            "Engine Model": "S4D130-1A",
+            "Net Power": "135 hp (101 kw)",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Breakout Force  Bucket": "25680 lbs (11,648 kg)",
+            "Bucket Capacity - heaped": "2.1 cu yds (2 m)",
+            "Cooling System Fluid Capacity": "15.4 gal (57 l)",
+            "Fuel Capacity": "68.7 gal (257 l)",
+            "Max Speed": "6 mph (10 kph)",
+            "Operating Weight": "33686.7 lbs (15,280 kg)",
+            "Static Tipping Load": "20770 lbs (9,421 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "10.9 psi",
+            "Length of Track on Ground": "8 ft (2 m)",
+            "Number of Track Rollers per Side": "6",
+            "Track Gauge": "67 in (170 cm)",
+            "Track Shoe Width": "15.8 in (38 cm)"
+        }
+    }
+}

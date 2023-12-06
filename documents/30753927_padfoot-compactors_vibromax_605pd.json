@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/vibromax/605pd/30753927",
+    "source_url_id": "30753927",
+    "source_url_model": "605pd",
+    "source_url_make": "vibromax",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:40:10.704223",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Vibromax",
+    "equipment_model": "605PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15 in (38 cm)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Overall Length w/o Blade": "15.7 ft (5 m)",
+            "Turning Radius - Inside": "117 in (297 cm)",
+            "Wheelbase": "8.6 in (20 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "18884 lbs (8,566 kg)",
+            "Drum Diameter": "43.4 in (109 cm)",
+            "Drum Width": "68.9 in (173 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Number of Pads": "96",
+            "Pad Height": "4 in (10 cm)",
+            "Pad Surface Area": "17.5 cu in (0 m)",
+            "Vibration Frequency": "1,740/2,160 hz (104,400 vpm)",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibratory Frequency 2": "36 hz (2,160 vpm)"
+        },
+        "Engine": {
+            "Displacement": "240 cu in (0 m)",
+            "Engine Model": "4B3.9C",
+            "Gross Power": "76 hp (57 kw)",
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60.8 gal (227 l)",
+            "Max Speed": "7.2 mph (11 kph)",
+            "Operating Weight": "14975 lbs (6,793 kg)",
+            "Operating Width": "73.6 in (185 cm)"
+        },
+        "Tires": {
+            "Tires": "14.9x24 6PR"
+        }
+    }
+}

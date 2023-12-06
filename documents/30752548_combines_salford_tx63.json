@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/salford/tx63/30752548",
+    "source_url_id": "30752548",
+    "source_url_model": "tx63",
+    "source_url_make": "salford",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:50.677551",
+    "equipment_category": "Combines",
+    "equipment_make": "Salford",
+    "equipment_model": "TX63",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "860 rpm",
+            "Cleaning Fan Speed - Low": "435 rpm",
+            "Total Cleaning Area": "8370.1 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "13 ft (4 m)",
+            "Overall Length": "26.7 ft (8 m)",
+            "Width Over Tires": "10.6 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "NH 675 TA/CB",
+            "Power": "238 hp (177 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "204.4 bu",
+            "Unloading Speed": "2.1 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "22079.3 lbs (10,015 kg)",
+            "Transmission Type": "hydrostatic"
+        },
+        "Separating": {
+            "Separator Type": "rotary"
+        },
+        "Threshing": {
+            "Beater Grate Area": "775.1 cu in (0 m)",
+            "Concave Area": "1116.1 cu in (0 m)",
+            "Rotor Diameter": "23.9 in (58 cm)",
+            "Rotor Length": "51.2 in (130 cm)",
+            "Rotor Speed - High": "1140 rpm",
+            "Rotor Speed - Low": "385 rpm"
+        }
+    }
+}

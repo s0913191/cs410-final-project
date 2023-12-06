@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/40804e/31085518",
+    "source_url_id": "31085518",
+    "source_url_model": "40804e",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:53.788185",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "4080.4E",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "78  hp"
+        },
+        "Production": {
+            "Series": "4E Series",
+            "Years Manufactured": "2018 -"
+        }
+    }
+}

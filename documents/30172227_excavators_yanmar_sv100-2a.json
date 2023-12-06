@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/yanmar/sv100-2a/30172227",
+    "source_url_id": "30172227",
+    "source_url_model": "sv100-2a",
+    "source_url_make": "yanmar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:44.584524",
+    "equipment_category": "Excavators",
+    "equipment_make": "Yanmar",
+    "equipment_model": "SV100-2A",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Raise": "1.6 ft (0 m)",
+            "Blade Stroke": "1.8 ft (0 m)",
+            "Blade Width": "7.7 ft (2 m)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Boom Swing - Left": "60  \t\u00b0",
+            "Boom Swing - Right": "60  \t\u00b0",
+            "Max Digging Depth": "15.9 ft (5 m)",
+            "Max Reach Along Ground": "24.84 ft (7 m)"
+        },
+        "Bucket": {
+            "Arm digging Force": "9500 lbs (4,309 kg)",
+            "Bucket digging Force - SAE": "12216 lbs (5,541 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Overall height": "25.4 ft (8 m)",
+            "Tail Swing Radius": "4.4 ft (1 m)",
+            "Wheelbase": "10.1 ft (3 m)",
+            "Width to Outside of Tracks": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Water-cooled 4-cycle diesel",
+            "Engine Model": "4TNV98CT-VBV",
+            "Net Power": "72 hp (54 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "30.3 gal (114 l)",
+            "Hydraulic Pump Flow Capacity": "61.5 gal/min (231 l/min)",
+            "Hydraulic System Relief Valve Pressure": "12238 psi",
+            "Operating Weight": "21550 lbs (9,775 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.1 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Min Travel Speed": "1.6 mph (2 kph)"
+        },
+        "Weights": {
+            "Ground bearing pressure (rubber tracks)": "5.5 psi",
+            "Ground bearing pressure (steel tracks)": "5.6 psi",
+            "Rubber Tracks": "21550 lbs (9,775 kg)",
+            "Steel tracks": "21660 lbs (9,825 kg)"
+        }
+    }
+}

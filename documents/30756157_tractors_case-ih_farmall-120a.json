@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/farmall-120a/30756157",
+    "source_url_id": "30756157",
+    "source_url_model": "farmall-120a",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:03.846216",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "FARMALL 120A",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "118 hp (88 kw)"
+        },
+        "Production": {
+            "Series": "Farmall 100A Series",
+            "Years Manufactured": "2012 -"
+        }
+    }
+}

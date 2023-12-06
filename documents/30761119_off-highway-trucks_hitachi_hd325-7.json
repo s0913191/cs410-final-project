@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/hd325-7/30761119",
+    "source_url_id": "30761119",
+    "source_url_model": "hd325-7",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:41.604893",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "HD325-7",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "RWD"
+        },
+        "Dump": {
+            "Rated Payload": "40 t (36,287 kg)"
+        },
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA6D140E-5"
+        },
+        "Weights": {
+            "Operating Weight": "152740 lbs (69,282 kg)"
+        }
+    }
+}

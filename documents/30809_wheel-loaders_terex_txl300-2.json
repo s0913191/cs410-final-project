@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/txl300-2/30809",
+    "source_url_id": "30809",
+    "source_url_model": "txl300-2",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:58.353393",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TXL300-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "36419 lbs (16,520 kg)",
+            "Bucket Capacity - heaped": "4 cu yds (3 m)",
+            "Bucket Width": "9.6 ft (3 m)",
+            "Dump Clearance at Max Raise": "4.3 ft (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Hinge Pin - Max Height": "13.2 ft (4 m)",
+            "Length with Bucket on Ground": "26.8 ft (8 m)",
+            "Reach at Max Lift and Dump": "4.3 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "466 cu in (0 m)",
+            "Engine Model": "DL08",
+            "Gross Power": "217 hp (162 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.9 sec",
+            "Lower Time": "3.7 sec",
+            "Pump Flow Capacity": "74 gal/min (280 l/min)",
+            "Pump Type": "tandem vane pump",
+            "Raise Time": "5.9 sec",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "13.3 gal (49 l)",
+            "Engine Oil Fluid Capacity": "9.3 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Hydraulic System Fluid Capacity": "55.5 gal (208 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "38140 lbs (17,300 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "8 gal (30 l)",
+            "Static Tipping Weight": "31967.1 lbs (14,500 kg)",
+            "Tire Size": "23.5-25-16PR-L3",
+            "Transmission Fluid Capacity": "12.7 gal (45 l)",
+            "Turning Radius": "19.1 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Max Speed - Reverse": "14.8 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

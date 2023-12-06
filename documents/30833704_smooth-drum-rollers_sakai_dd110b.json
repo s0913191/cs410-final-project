@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/dd110b/30833704",
+    "source_url_id": "30833704",
+    "source_url_model": "dd110b",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:26.593107",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "DD110B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "153.1 in (389 cm)"
+        },
+        "Drum": {
+            "Drum Width": "66.9 in (168 cm)",
+            "Vibration Frequency": "50 - 70 hz (3,000 - 4,200 vpm)"
+        },
+        "Engine": {
+            "Make": "Volvo Deutz D4"
+        },
+        "Operating Specifications": {
+            "Operating Width": "75.6 in (191 cm)"
+        }
+    }
+}

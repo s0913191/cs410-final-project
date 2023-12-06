@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-6455/30751173",
+    "source_url_id": "30751173",
+    "source_url_model": "mf-6455",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:01.387840",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 6455",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "9.3 ft (3 m)",
+            "Overall Length": "13.9 in (33 cm)",
+            "Overall Width": "6.5 ft (2 m)",
+            "Tire Size": "front 340/85R24 rear 420/85R34",
+            "Wheelbase": "8.1 ft (2 m)",
+            "Width Outside Frame": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "1104C-44T",
+            "Gross Power": "100 hp (75 kw)",
+            "Max Torque": "306.1 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "26.5 gal/min (98 l/min)",
+            "Relief Valve Pressure": "2900.8 psi",
+            "Relief Valve Setting": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5511.6 lbs (2,500 kg)",
+            "Fuel Capacity": "34.4 gal (129 l)",
+            "Operating Weight": "9303.6 lbs (4,220 kg)",
+            "Tire Size Front - 2wd / 4wd": "340/85R24",
+            "Turning Radius": "13.8 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "420/85R34"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "Dyna-6 semi-powershift"
+        }
+    }
+}

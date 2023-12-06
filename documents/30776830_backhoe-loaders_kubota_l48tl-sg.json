@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/kubota/l48tl-sg/30776830",
+    "source_url_id": "30776830",
+    "source_url_model": "l48tl-sg",
+    "source_url_make": "kubota",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:56.995560",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Kubota",
+    "equipment_model": "L48TL-SG",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "9.4 ft (3 m)",
+            "Max Digging Depth": "11.2 ft (3 m)"
+        },
+        "Loader": {
+            "Lift Capacity": "3000 lbs (1,361 kg)",
+            "SAE - Net": "48 hp (36 kw)"
+        },
+        "Travel Speed": {
+            "4th Gear Fwd": "featherstep HST mph (0 kph)"
+        }
+    }
+}

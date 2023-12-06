@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/carelift/zb8044/2231",
+    "source_url_id": "2231",
+    "source_url_model": "zb8044",
+    "source_url_make": "carelift",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:24:11.394906",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Carelift",
+    "equipment_model": "ZB8044",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "19.2 in (48 cm)",
+            "Length to Fork Face": "20 ft (6 m)",
+            "Overall Height": "7.9 ft (2 m)",
+            "Turning Radius Outside Tires": "11.8 ft (3 m)",
+            "Wheelbase": "10 ft (3 m)",
+            "Width": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB 4.5",
+            "Gross Power": "110 hp (82 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "36 gal/min (136 l/min)"
+        },
+        "Lift System": {
+            "Max Forward Reach": "29.9 ft (9 m)",
+            "Max Lift Height": "44 ft (13 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "41 gal (155 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "24250.9 lbs (11,000 kg)",
+            "Tire Size": "14.00 x 24 - 12 ply"
+        },
+        "Transmission": {
+            "Max Speed - forward": "21.8 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Electronic powershift"
+        }
+    }
+}

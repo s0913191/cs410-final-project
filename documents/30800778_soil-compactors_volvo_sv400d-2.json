@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/soil-compactors/volvo/sv400d-2/30800778",
+    "source_url_id": "30800778",
+    "source_url_model": "sv400d-2",
+    "source_url_make": "volvo",
+    "source_url_category": "soil-compactors",
+    "source_date_scraped": "2023-09-13 17:45:59.685057",
+    "equipment_category": "Soil Compactors",
+    "equipment_make": "Volvo",
+    "equipment_model": "SV400D-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "115 in (292 cm)"
+        },
+        "Drum": {
+            "Drum Width": "67 in (170 cm)",
+            "Vibration Frequency": "1800 - 2,300 hz (108,000 - 138,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz TCD2011L04W"
+        },
+        "Operating Specifications": {
+            "Operating Width": "76 in (193 cm)"
+        }
+    }
+}

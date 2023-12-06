@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d10r/4426",
+    "source_url_id": "4426",
+    "source_url_model": "d10r",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:53.189657",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D10R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height - Top of Cab": "13.5 ft (4 m)",
+            "Length of Track on Ground": "12.8 ft (4 m)",
+            "Length w/ Blade": "25.5 ft (8 m)",
+            "Length w/o Blade": "17.5 ft (5 m)",
+            "Width Over Tracks": "10.4 ft in (25 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and Aftercooled",
+            "Displacement": "1649 cu in (0 m)",
+            "Engine Model": "3412E",
+            "Gross Power": "613 hp (457 kw)",
+            "Net Power": "570 hp (425 kw)",
+            "Number of Cylinders": "12",
+            "Power Measured @": "1900 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "108 gal/min (409 l/min)",
+            "Relief Valve Pressure": "2700 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "34.9 gal (129 l)",
+            "Engine Oil Capacity": "15.9 gal (57 l)",
+            "Final Drives Fluid Capacity": "6.1 gal (23 l)",
+            "Fuel Capacity": "293 gal (1,109 l)",
+            "Hydraulic Fluid Capacity": "28.6 gal (106 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "144190 lbs (65,404 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "28.8 cu yds (21 m)",
+            "Height": "83.5 in (211 cm)",
+            "Width": "17.3 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.7 mph (11 kph)",
+            "Max Speed - Reverse": "9.7 mph (14 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power shift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "7321 cu in (0 m)",
+            "Ground Pressure": "19.7 psi",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "0.7 ft (0 m)"
+        }
+    }
+}

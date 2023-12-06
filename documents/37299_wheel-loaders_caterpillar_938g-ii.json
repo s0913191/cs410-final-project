@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/938g-ii/37299",
+    "source_url_id": "37299",
+    "source_url_model": "938g-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:29.687717",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "938G II",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "28326 lbs (12,849 kg)",
+            "Bucket Capacity - heaped": "3.1 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.7 cu yds (2 m)",
+            "Bucket Width": "8.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Hinge Pin - Max Height": "12.7 ft (4 m)",
+            "Length with Bucket on Ground": "23.6 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.3 ft (1 m)",
+            "Wheelbase": "10 ft (3 m)",
+            "Width Over Tires": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "439.4 cu in (0 m)",
+            "Engine Model": "3126B HEUI",
+            "Gross Power": "179.7 hp (133 kw)",
+            "Torque Rise": "62%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "2.8 sec",
+            "Pump Flow Capacity": "43.1 gal/min (163 l/min)",
+            "Pump Type": "vane type",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "3597 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "12.7 gal (45 l)",
+            "Engine Oil Fluid Capacity": "8.2 gal (30 l)",
+            "Front Axle/Diff Fluid Capacity": "8 gal (30 l)",
+            "Fuel Capacity": "67.1 gal (254 l)",
+            "Hydraulic System Fluid Capacity": "23.8 gal (87 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "30818.5 lbs (13,979 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "8.5 gal (30 l)",
+            "Static Tipping Weight": "25229.8 lbs (11,444 kg)",
+            "Tire Size": "20.5R25",
+            "Transmission Fluid Capacity": "8 gal (30 l)",
+            "Turning Radius": "19.6 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.2 mph (39 kph)",
+            "Max Speed - Reverse": "14.5 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "electronic planetary powershift"
+        }
+    }
+}

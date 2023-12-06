@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/wacker-neuson/280/104879",
+    "source_url_id": "104879",
+    "source_url_model": "280",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:34.831310",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "280",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "6137 lbs (2,784 kg)",
+            "Bucket Capacity - heaped": "1.5 cu yds (1 m)",
+            "Dump Clearance at Max Raise": "7.6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "7.7 ft (2 m)",
+            "Hinge Pin - Max Height": "10 ft (3 m)",
+            "Length with Bucket on Ground": "15.2 ft (5 m)",
+            "Wheelbase": "5.8 ft (2 m)",
+            "Width Over Tires": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "4TNV88",
+            "Gross Power": "49 hp (37 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Dump Time": "0.6 sec",
+            "Lower Time": "3.7 sec",
+            "Pump Flow Capacity": "13.8 gal/min (49 l/min)",
+            "Pump Type": "Gear pump",
+            "Raise Time": "4.8 sec",
+            "Relief Valve Setting": "3481 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "17.2 gal (64 l)",
+            "Operating Weight": "7054.8 lbs (3,200 kg)",
+            "Rear Axle Oscillation": "28  \t\u00b0",
+            "Static Tipping Weight": "5158.9 lbs (2,340 kg)",
+            "Tire Size": "12.5 - 18",
+            "Turning Radius": "11.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12 mph (19 kph)",
+            "Transmission Type": "Continuously variable hydrostatic axial-piston gearbox"
+        }
+    }
+}

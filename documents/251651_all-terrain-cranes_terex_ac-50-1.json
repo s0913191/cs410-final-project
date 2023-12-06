@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/ac-50-1/251651",
+    "source_url_id": "251651",
+    "source_url_model": "ac-50-1",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:12.661158",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AC 50-1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "188.9 ft (57 m)",
+            "Max Elevating Angle": "81.5  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "141.1 ft (43 m)",
+            "Max Lift Capacity": "110231.2 lbs (50,001 kg)",
+            "Max Working Radius": "111.6 ft (34 m)",
+            "Min Height @ Max Raise Angle": "39.7 ft (12 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "1.7 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "321.9 hp (239 kw)",
+            "Make": "Terex",
+            "Max Torque": "958.9 lbs/ft",
+            "Model": "OM 926 LA",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "29.8 ft (9 m)",
+            "Transport Height": "11.6 ft (3 m)",
+            "Transport Length": "36.8 ft (11 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.4 ft (3 m)",
+            "Width w/ Outriggers Extended": "21 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "88.5 gal (333 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14.00R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49.8 mph (79 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "automated powershift"
+        }
+    }
+}

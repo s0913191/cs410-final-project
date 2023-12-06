@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca402d/30743586",
+    "source_url_id": "30743586",
+    "source_url_model": "ca402d",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:05.165519",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA402D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length": "18.3 in (46 cm)",
+            "Overall Width": "7 ft (2 m)",
+            "Wheelbase": "9.5 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "67442.7 lbs (30,592 kg)",
+            "Centrifugal Force - Low": "32822.2 lbs (14,888 kg)",
+            "Drum Diameter": "60.8 in (152 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "33 hz (1,980 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "water cooled turbo diesel with after cooler",
+            "Engine Model": "QSB 4.5",
+            "Gross Power": "125 hp (93 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Max Speed": "5.6 mph (8 kph)",
+            "Operating Weight": "30423.8 lbs (13,800 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1x26"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d65p-7/30750775",
+    "source_url_id": "30750775",
+    "source_url_model": "d65p-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:04.926652",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D65P-7",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Length of Track on Ground": "10.4 ft (3 m)",
+            "Length w/ Blade": "18.4 ft (5 m)",
+            "Length w/o Blade": "14.2 ft (4 m)",
+            "Width Over Tracks": "9.9 ft in (23 cm)"
+        },
+        "Engine": {
+            "Displacement": "742.7 cu in (0 m)",
+            "Engine Model": "NH220-CI",
+            "Gross Power": "170 hp (127 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1850 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "14.6 gal (53 l)",
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Operating Weight": "40124.2 lbs (18,200 kg)"
+        },
+        "Standard Blade": {
+            "Height": "41.4 in (104 cm)",
+            "Width": "13.1 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.6 mph (8 kph)",
+            "Max Speed - Reverse": "7.4 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TF"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "3.7 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "37.5 in (94 cm)",
+            "Track Gauge": "6.8 ft (2 m)",
+            "Track Pitch": "8 in (20 cm)"
+        }
+    }
+}

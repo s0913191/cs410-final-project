@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/astra/adt25c/30080125",
+    "source_url_id": "30080125",
+    "source_url_model": "adt25c",
+    "source_url_make": "astra",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:22:47.711350",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Astra",
+    "equipment_model": "ADT25C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height": "12.3 ft (4 m)",
+            "Overall Length": "33 ft (10 m)",
+            "Overall Width": "9.8 ft (3 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "19 cu yds (15 m)",
+            "Lower Time": "13 sec",
+            "Raise Time": "13 sec",
+            "Rated Payload": "51147.3 lbs (23,200 kg)"
+        },
+        "Engine": {
+            "Displacement": "628.6 cu in (0 m)",
+            "Engine Model": "Cursor 10",
+            "Gross Power": "315.2 hp (235 kw)",
+            "Max Torque": "1069.5 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1000 rpm"
+        },
+        "Operating Specifications": {
+            "Tire Size": "23.5R25"
+        },
+        "Transmission": {
+            "Max Speed": "29 mph (47 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3"
+        },
+        "Weights": {
+            "Total Empty": "49030.9 lbs (22,240 kg)"
+        }
+    }
+}

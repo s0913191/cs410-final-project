@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/bt/gt20n/30756466",
+    "source_url_id": "30756466",
+    "source_url_model": "gt20n",
+    "source_url_make": "bt",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:24:06.402382",
+    "equipment_category": "Forklifts",
+    "equipment_make": "BT",
+    "equipment_model": "GT20N",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.2 in (8 cm)",
+            "Height to Top of Overhead Guard": "6.9 ft (2 m)",
+            "Length to Fork Face": "7.9 ft (2 m)",
+            "Max Fork Height": "9.9 ft (3 m)",
+            "Overall Height - mast lowered": "6.5 ft (2 m)",
+            "Overall Width": "3.8 ft (1 m)",
+            "Turning Radius": "6.7 ft (2 m)",
+            "Wheelbase": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "136.6 cu in (0 m)",
+            "Engine Model": "4Y",
+            "Fuel Type": "LPG",
+            "Power": "51 hp (38 kw)",
+            "Power Measured @": "2570 rpm",
+            "Torque": "118.1 lbs/ft",
+            "Torque Measured @": "2100 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "126 ft/min",
+            "Load Capacity": "4409.3 lbs (2,000 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Lower Speed": "98.5 ft/min",
+            "Mast Tip Forward": "7  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "10.9 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "6944.6 lbs (3,150 kg)",
+            "Tire Type": "pneumatic front 21x8-9-14PR rear 18x7-8-10PR"
+        }
+    }
+}

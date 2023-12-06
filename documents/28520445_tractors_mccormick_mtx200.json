@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/mccormick/mtx200/28520445",
+    "source_url_id": "28520445",
+    "source_url_model": "mtx200",
+    "source_url_make": "mccormick",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:15.963561",
+    "equipment_category": "Tractors",
+    "equipment_make": "Mccormick",
+    "equipment_model": "MTX200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "17.2 in (43 cm)",
+            "Tire Size": "front 540/65R30 rear 650/65R42",
+            "Wheelbase": "9.5 ft (3 m)",
+            "Width Outside Frame": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged wastegate intercooler",
+            "Displacement": "360.1 cu in (0 m)",
+            "Gross Power": "191.8 hp (142 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Rise": "30%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "41 gal/min (155 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "24140.7 lbs (10,950 kg)",
+            "3 Point Hitch Type": "Cat III",
+            "Alternator Supplied Amperage": "120  A",
+            "Fuel Capacity": "91.7 gal (344 l)",
+            "Operating Weight": "16997.7 lbs (7,710 kg)",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "12"
+        }
+    }
+}

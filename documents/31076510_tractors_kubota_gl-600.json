@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/gl-600/31076510",
+    "source_url_id": "31076510",
+    "source_url_model": "gl-600",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:18.497439",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "GL-600",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "60 hp (45 kw)"
+        },
+        "Production": {
+            "Series": "GL Series",
+            "Years Manufactured": "1995 - 1998"
+        }
+    }
+}

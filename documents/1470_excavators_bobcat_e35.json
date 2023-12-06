@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/bobcat/e35/1470",
+    "source_url_id": "1470",
+    "source_url_model": "e35",
+    "source_url_make": "bobcat",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:00.366374",
+    "equipment_category": "Excavators",
+    "equipment_make": "Bobcat",
+    "equipment_model": "E35",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Digging Force": "4859 lbs (2,204 kg)",
+            "Boom Swing - Left": "75  \t\u00b0",
+            "Boom Swing - Right": "55  \t\u00b0",
+            "Bucket Digging Force": "6968 lbs (3,161 kg)",
+            "Max Digging Depth": "10.2 ft (3 m)",
+            "Max Reach Along Ground": "17.2 ft (5 m)",
+            "Max.Dumping Height": "11 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height": "96.2 in (244 cm)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Length": "189.9 in (480 cm)",
+            "Width": "69 in (175 cm)"
+        },
+        "Engine": {
+            "Emissions": "Tier 4",
+            "Fuel": "Diesel",
+            "Net Power": "24.8 hp (18 kw)",
+            "Net Power (35 HP)": "33.5 hp (25 kw)",
+            "Power Measured @": "2550 rpm",
+            "Power Measured @ (35 HP)": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Operating pressure": "2987 psi",
+            "Pump Flow Capacity": "16.9 gal/min (61 l/min)"
+        },
+        "Lift System": {
+            "Lift Radius": "118 in (300 cm)",
+            "Max Lift Capacity": "3232 lbs (1,466 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.7 gal (49 l)",
+            "Operating Weight": "7699 lbs (3,492 kg)",
+            "Operating Weight (35 HP)": "7909 lbs (3,588 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.9 mph (3 kph)",
+            "Min Travel Speed": "1.6 mph (2 kph)"
+        }
+    }
+}

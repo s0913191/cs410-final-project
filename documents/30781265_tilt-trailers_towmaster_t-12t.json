@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/towmaster/t-12t/30781265",
+    "source_url_id": "30781265",
+    "source_url_model": "t-12t",
+    "source_url_make": "towmaster",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:54.919504",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Towmaster",
+    "equipment_model": "T-12T",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x14 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "TORFLEX"
+        },
+        "Weights": {
+            "Equipment Weight": "3720 lbs (1,687 kg)",
+            "Weight Capacity": "12000 lbs (5,443 kg)"
+        }
+    }
+}

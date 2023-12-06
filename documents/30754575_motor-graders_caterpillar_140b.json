@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/caterpillar/140b/30754575",
+    "source_url_id": "30754575",
+    "source_url_model": "140b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:19.754507",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "140B",
+    "equipment_spec": {
+        "Circle": {
+            "Max Lift Above Ground": "14.1 in (36 cm)",
+            "Max Reach Outside Tires - Left": "94.5 in (239 cm)",
+            "Max Reach Outside Tires - Right": "94.5 in (239 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "9.1 ft (3 m)",
+            "Height to Top of Isomount Cab": "10.6 ft (3 m)",
+            "Overall Length": "26.5 ft (8 m)",
+            "Wheelbase": "20.2 ft (6 m)",
+            "Width Over Tires": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "640.8 cu in (0 m)",
+            "Max Power": "150.2 hp (112 kw)",
+            "Net Power Gear 5-6": "150.2 hp (112 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "27.6 in (69 cm)",
+            "Moldboard Width": "13 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60 gal (227 l)",
+            "Std Operation Weight - Total": "30027 lbs (13,620 kg)",
+            "Tire Size": "14.0-24 (10PR) (G-2)"
+        },
+        "Steering System": {
+            "Turning Radius": "38.1 ft (12 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.4 mph (37 kph)",
+            "Max Speed - Reverse": "16 mph (26 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "4"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/mitsubishi/mg130/30754479",
+    "source_url_id": "30754479",
+    "source_url_model": "mg130",
+    "source_url_make": "mitsubishi",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:47.151340",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Mitsubishi",
+    "equipment_model": "MG130",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "8.9 ft (2 m)",
+            "Overall Length": "22.7 ft (7 m)",
+            "Wheelbase": "16.1 ft (5 m)",
+            "Width Over Tires": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "259.3 cu in (0 m)",
+            "Engine Model": "C S4K-E2T",
+            "Max Power": "95 hp (71 kw)",
+            "Net Power Gear 5-6": "95 hp (71 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "Moldboard": {
+            "Moldboard Height": "24.1 in (61 cm)",
+            "Moldboard Thickness": "0.7 in (0 cm)",
+            "Moldboard Width": "10.2 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Total": "19081.1 lbs (8,655 kg)",
+            "Tire Size": "10.00-20-10PR"
+        },
+        "Steering System": {
+            "Turning Radius": "19.1 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.3 mph (32 kph)",
+            "Max Speed - Reverse": "20.7 mph (32 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "6",
+            "Transmission Type": "power shift, planetary gear, hydraulically actuated"
+        }
+    }
+}

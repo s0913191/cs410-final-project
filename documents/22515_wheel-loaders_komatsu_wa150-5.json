@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa150-5/22515",
+    "source_url_id": "22515",
+    "source_url_model": "wa150-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:08.885856",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA150-5",
+    "equipment_spec": {
+        "Driveline": {
+            "Ride control system": "Standard"
+        },
+        "Engine": {
+            "Air cleaner": "Dry-type",
+            "Aspiration": "Turbocharged, and air-to-air after cooled",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "239.3 cu in (0 m)",
+            "Engine Model": "SAA4D102E-2-B",
+            "Engine Type": "Water-cooled, 4-cycle",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "4.8 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "3.6 sec",
+            "Pump Flow Capacity": "32.5 gal/min (121 l/min)",
+            "Pump Type": "gear",
+            "Raise Time": "5.8 sec",
+            "Relief Valve Setting": "3045.8 psi",
+            "Steering pump type": "Gear"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "35.2 gal (132 l)",
+            "Operating Weight": "17295.3 lbs (7,845 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "hydrostatic transmission"
+        }
+    }
+}

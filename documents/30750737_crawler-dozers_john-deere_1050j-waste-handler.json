@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/1050j-waste-handler/30750737",
+    "source_url_id": "30750737",
+    "source_url_model": "1050j-waste-handler",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:34.180796",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "1050J Waste Handler",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height - Top of Cab": "12 ft (4 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Length w/ Blade": "21.4 ft (6 m)",
+            "Width Over Tracks": "9.2 ft in (23 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger w/ intercooler",
+            "Displacement": "733 cu in (0 m)",
+            "Engine Model": "D 946-L A6",
+            "Make": "Liebherr",
+            "Max Torque": "1254 lbs/ft",
+            "Model": "D946LA6",
+            "Net Power": "335 hp (250 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "68 gal/min (257 l/min)",
+            "Pump type": "Variable axial-piston",
+            "Relief Valve Pressure": "3700 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "15.1 gal (57 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Final Drives Fluid Capacity": "4.9 gal (15 l)",
+            "Fuel Capacity": "171.7 gal (647 l)",
+            "Hydraulic Fluid Capacity": "55.5 gal (208 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "80967 lbs (36,726 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "25.8 cu yds (19 m)",
+            "Height": "94 in (239 cm)",
+            "Width": "13.3 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "6.8 mph (10 kph)",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "6004 cu in (0 m)",
+            "Ground Pressure": "13.8 psi",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "7.2 ft (2 m)",
+            "Track Pitch": "8.5 in (20 cm)"
+        }
+    }
+}

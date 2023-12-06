@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/terex/760b/31064",
+    "source_url_id": "31064",
+    "source_url_model": "760b",
+    "source_url_make": "terex",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:28.735168",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "760B",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "11.4 ft (3 m)",
+            "Max Digging Depth": "14.7 ft (4 m)"
+        },
+        "Loader": {
+            "Breakout Force": "10485 lbs (4,756 kg)",
+            "Lift Capacity": "7604 lbs (3,449 kg)",
+            "SAE - Net": "86 hp (64 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "15151 lbs (6,872 kg)"
+        },
+        "Travel Speed": {
+            "4th Gear Fwd": "23.29 mph (37 kph)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/1920/30668099",
+    "source_url_id": "30668099",
+    "source_url_model": "1920",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:14.136310",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "1920",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "33  hp"
+        },
+        "Production": {
+            "Series": "Twenty Compact Series",
+            "Year Manufactured": "1987 - 2000"
+        }
+    }
+}

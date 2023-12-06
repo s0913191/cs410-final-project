@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/john-deere/400d/30672121",
+    "source_url_id": "30672121",
+    "source_url_model": "400d",
+    "source_url_make": "john-deere",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:02.882552",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "John Deere",
+    "equipment_model": "400D",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2.2 ft (1 m)",
+            "Dump Height": "23.8 ft (7 m)",
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Overall Height": "12.8 ft (4 m)",
+            "Overall Length": "34.6 ft (10 m)",
+            "Overall Width": "12.5 ft (4 m)",
+            "Wheelbase": "17.9 ft (5 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "29.3 cu yds (22 m)",
+            "Capacity - Struck": "22.1 cu yds (17 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "7.6 sec",
+            "Raise Time": "13 sec",
+            "Rated Payload": "81570 lbs (37,000 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and charge air cooled",
+            "Displacement": "729 cu in (0 m)",
+            "Engine Model": "OM501LA",
+            "Make": "Mercedes-Benz",
+            "Max Torque": "1454 lbs/ft",
+            "Model": "OM501LA",
+            "Net Power": "413 hp (308 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1080 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "8.9 gal (30 l)",
+            "Engine Oil Capacity": "8 gal (30 l)",
+            "Fuel Capacity": "128 gal (484 l)",
+            "Hydraulic System Fluid Capacity": "47 gal (178 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "29.5R25",
+            "Transmission Fluid Capacity": "9 gal (34 l)"
+        },
+        "Transmission": {
+            "Max Speed": "32 mph (51 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison 4500R ORS fully automatic engine"
+        },
+        "Weights": {
+            "Center Axle - empty": "17610 lbs (7,988 kg)",
+            "Center Axle - loaded": "53270 lbs (24,163 kg)",
+            "Front Axle - empty": "32920 lbs (14,932 kg)",
+            "Front Axle - loaded": "43340 lbs (19,659 kg)",
+            "Operating Weight": "147600 lbs (66,951 kg)",
+            "Rear Axle - empty": "15430 lbs (6,999 kg)",
+            "Rear Axle - loaded": "50920 lbs (23,097 kg)",
+            "Total Empty": "65960 lbs (29,919 kg)",
+            "Total Loaded": "147530 lbs (66,919 kg)"
+        }
+    }
+}

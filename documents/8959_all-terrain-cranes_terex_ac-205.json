@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/ac-205/8959",
+    "source_url_id": "8959",
+    "source_url_model": "ac-205",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:09.349391",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AC 205",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "164.1 ft (50 m)",
+            "Min Height @ Max Raise Angle": "35.8 ft (11 m)",
+            "Number of Sections": "6"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "375.5 hp (280 kw)",
+            "Make": "Terex",
+            "Max Torque": "1309.2 lbs/ft",
+            "Model": "OM 402 LA",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "32.8 ft (10 m)",
+            "Transport Height": "11.8 ft (3 m)",
+            "Transport Length": "39.8 ft (12 m)",
+            "Transport Width": "9.1 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "12.2 ft (4 m)",
+            "Width w/ Outriggers Extended": "23 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "105.7 gal (397 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "16.00 R 25"
+        },
+        "Transmission": {
+            "Transmission Type": "Allison automatic"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Terex"
+        }
+    }
+}

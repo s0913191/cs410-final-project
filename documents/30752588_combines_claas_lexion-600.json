@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/claas/lexion-600/30752588",
+    "source_url_id": "30752588",
+    "source_url_model": "lexion-600",
+    "source_url_make": "claas",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:01.087383",
+    "equipment_category": "Combines",
+    "equipment_make": "Claas",
+    "equipment_model": "Lexion 600",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Total Cleaning Area": "9610.1 cu in (0 m)"
+        },
+        "Engine": {
+            "Engine Model": "OM 502 LA",
+            "Number of Cylinders": "8",
+            "Power": "578 hp (431 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "340.6 bu"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "258.9 gal (977 l)"
+        },
+        "Threshing": {
+            "Concave Area": "1953.1 cu in (0 m)",
+            "Rotor Diameter": "23.7 in (58 cm)",
+            "Rotor Length": "67 in (170 cm)",
+            "Rotor Speed - High": "1150 rpm",
+            "Rotor Speed - Low": "395 rpm"
+        }
+    }
+}

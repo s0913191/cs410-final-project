@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/mxm155/30797859",
+    "source_url_id": "30797859",
+    "source_url_model": "mxm155",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:26.079211",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MXM155",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "153 hp (114 kw)"
+        },
+        "Production": {
+            "Series": "Maxxum Series",
+            "Years Manufactured": "2002 - 2007"
+        }
+    }
+}

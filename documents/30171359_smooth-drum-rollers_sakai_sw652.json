@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/sw652/30171359",
+    "source_url_id": "30171359",
+    "source_url_model": "sw652",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:49.129232",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "SW652",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "4.8 ft (1 m)",
+            "Turning Radius - Inside": "11 .9 in (28 cm)"
+        },
+        "Drum": {
+            "Drum Width": "58 in (147 cm)",
+            "Frequency": "3000 - 4,020 hz (180,000 - 241,200 vpm)",
+            "Vibration Frequency": "50 - 67 hz (3,000 - 4,020 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota",
+            "Model": "V3307-DI-T-KDN"
+        },
+        "Operating Specifications": {
+            "Operating Width": "5.3 in (13 cm)"
+        }
+    }
+}

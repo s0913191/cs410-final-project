@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d85e-18/21544",
+    "source_url_id": "21544",
+    "source_url_model": "d85e-18",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:23.931459",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D85E-18",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Length of Track on Ground": "9 ft (3 m)",
+            "Length w/o Blade": "14.4 ft (4 m)",
+            "Width Over Tracks": "8.6 ft in (20 cm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "855 cu in (0 m)",
+            "Engine Model": "NT-855",
+            "Gross Power": "220 hp (164 kw)",
+            "Max Torque": "759 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "20.9 gal (76 l)",
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Operating Weight": "42560 lbs (19,305 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "8.5 cu yds (6 m)",
+            "Height": "51.8 in (130 cm)",
+            "Width": "12.3 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7 mph (11 kph)",
+            "Max Speed - Reverse": "8.3 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "planetary gear"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.9 psi",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "6.6 ft (2 m)"
+        }
+    }
+}

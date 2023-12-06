@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca150p-brazil/30754033",
+    "source_url_id": "30754033",
+    "source_url_model": "ca150p-brazil",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:55.653483",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA150P (BRAZIL)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "16.5 in (41 cm)",
+            "Gradeability": "40%",
+            "Ground Clearance": "13.5 in (33 cm)",
+            "Height": "9.5 ft (3 m)",
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "9.5 ft (3 m)",
+            "Overall Length": "191.8 in (485 cm)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Overhang Front": "0.3 ft (0 m)",
+            "Overhang Rear": "0.3 ft (0 m)",
+            "Turning Radius - Inside": "9.1 ft (3 m)",
+            "Turning Radius - Outside": "16 ft (5 m)",
+            "Wheelbase": "100.2 in (254 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "40690.5 lbs (18,457 kg)",
+            "Centrifugal Force - Low": "39116.8 lbs (17,743 kg)",
+            "Drum Diameter": "48 in (122 cm)",
+            "Drum thickness": "0.9 in (0 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Pad Surface Area": "84 cu in (0 m)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB3.3",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "80.5 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "225 gal (852 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "19400.7 lbs (8,800 kg)",
+            "Operating weight ROPS": "16314.3 lbs (7,400 kg)",
+            "Tire Size": "420-70B24"
+        }
+    }
+}

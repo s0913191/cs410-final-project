@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/tigercat/635c/30713814",
+    "source_url_id": "30713814",
+    "source_url_model": "635c",
+    "source_url_make": "tigercat",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:40.976900",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Tigercat",
+    "equipment_model": "635C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "2.1 ft (1 m)",
+            "Max Blade Height": "21 in (53 cm)",
+            "Overall Length": "11 ft (3 m)",
+            "Overall Width": "10.4 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "50000.9",
+            "Engine Model": "250",
+            "Torque Measured @": "92.5 rpm"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "16.7 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "single-speed mechanical, variable speed hydrostatic",
+            "Operating Voltage": "24  A",
+            "Steering Angle": "front 30.5 x 32, rear 28L x 26",
+            "Transmission Fluid Capacity": "27.8 gal (102 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "8.4 mph (13 kph)",
+            "Number of Forward Gears": "1",
+            "Number of Reverse Gears": "8.4",
+            "Transmission Type": "1"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "variable displacement axial piston cu in (0 m)",
+            "Length of Track on Ground": "QSC8.3 ft (0 m)"
+        },
+        "Winch - Grapple Skidder": {
+            "Drum Capacity - 25.4mm (1 in)": "80  \t\u00b0"
+        }
+    }
+}

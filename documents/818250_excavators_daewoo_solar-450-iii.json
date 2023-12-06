@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/daewoo/solar-450-iii/818250",
+    "source_url_id": "818250",
+    "source_url_model": "solar-450-iii",
+    "source_url_make": "daewoo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:12.572043",
+    "equipment_category": "Excavators",
+    "equipment_make": "Daewoo",
+    "equipment_model": "SOLAR 450 III",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "36 ft (11 m)",
+            "Digging Reach": "36 ft (11 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "98100 lbs (44,498 kg)"
+        }
+    }
+}

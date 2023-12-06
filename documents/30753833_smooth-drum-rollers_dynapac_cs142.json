@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cs142/30753833",
+    "source_url_id": "30753833",
+    "source_url_model": "cs142",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:38.647873",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CS142",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "5 ft (2 m)",
+            "Drum Diameter - Rear": "5 ft (2 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height": "8.3 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "9.9 ft (3 m)",
+            "Overall Length": "15.7 in (38 cm)",
+            "Overall Width": "7.1 ft (2 m)",
+            "Wheelbase": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Model": "B4.5 T",
+            "Gross Power": "97.9 hp (72 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "29.1 gal (110 l)",
+            "Max Speed": "9.4 mph (14 kph)",
+            "Spray Water Capacity": "140.1 gal (530 l)"
+        },
+        "Weights": {
+            "Max Static Linear Load - Drive Drum": "853.5 lbs/in",
+            "Max Static Linear Load - guide drum": "839.2 lbs/in",
+            "Operating Weight - max ballast": "29101.1 lbs (13,200 kg)",
+            "Operating Weight - standard": "24250.9 lbs (11,000 kg)"
+        }
+    }
+}

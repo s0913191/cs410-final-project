@@ -1,0 +1,89 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/feller-bunchers/caterpillar/551/30704962",
+    "source_url_id": "30704962",
+    "source_url_model": "551",
+    "source_url_make": "caterpillar",
+    "source_url_category": "feller-bunchers",
+    "source_date_scraped": "2023-09-13 17:50:35.362400",
+    "equipment_category": "Feller Bunchers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "551",
+    "equipment_spec": {
+        "Boom": {
+            "Bare Pin Lift at Max Reach": "11023.2 lbs (5,000 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3 in (8 cm)",
+            "Height": "12 ft (4 m)",
+            "Height - Top of Cab": "12.1 ft (4 m)",
+            "Max Reach": "28.3 ft (9 m)",
+            "Overall Length": "31 ft (9 m)",
+            "Overall Width": "11 ft (3 m)",
+            "Shipping Length - With Attachment": "461 in (1,171 cm)",
+            "Shipping Length - Without Attachment": "371 in (942 cm)",
+            "Width 1": "131 in (333 cm)",
+            "Width 2": "142 in (361 cm)"
+        },
+        "Dimensions - Track Harvester Configuration": {
+            "Height - Without Attachment": "144 in (366 cm)",
+            "Shipping Length - Without Attachment": "536 in (1,361 cm)",
+            "Width 1 - Without Attachment": "131 in (333 cm)",
+            "Width 2 - Without Attachment": "142 in (361 cm)"
+        },
+        "Engine": {
+            "Displacement": "537.1 cu in (0 m)",
+            "Engine Model": "Cat C9 ACERT",
+            "Gross Power": "305 hp (227 kw)",
+            "Net Power": "282 hp (210 kw)",
+            "Power Measured @": "2100 rpm",
+            "Rated Power": "282 hp (210 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Size - Boom, Implements": "110 cu in (0 m)",
+            "Pump Size - Saw Motor": "30 cu in (0 m)",
+            "Pump Size - Travel Circuit": "110 cu in (0 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Bare Pin Lift at Maximum Reach - Without Attachment": "9400 kg (21,800 lb) @ 6.6 m (21.5 ft)",
+            "Bare Pin Lift at Maximum Reach - Without Attachment - Long Felling Linkage": "7400 kg (16,300 lb) @ 8.2 m (27 ft)",
+            "Bare Pin Lift at Maximum Reach - Without Attachment - Track Harvester Configuration": "5000 kg (11,000 lb) @ 10.7 m (35 ft)",
+            "Cooling System Fluid Capacity": "16.2 gal (61 l)",
+            "Engine Oil Capacity": "10.4 gal (38 l)",
+            "Fuel Capacity": "312 gal (1,181 l)",
+            "Hydraulic System Fluid Capacity": "97.8 gal (367 l)",
+            "Maximum Drawbar Pull": "101540 lbs (46,058 kg)",
+            "Maximum Reach - With Attachment": "28.2 ft (9 m)",
+            "Maximum Reach - With Attachment - Track Harvester Configuration": "37 ft (11 m)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/o Attachment": "68469 lbs (31,057 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "16.1 gal (61 l)",
+            "Engine Oil": "10.3 gal (38 l)",
+            "Fuel Tank": "312 gal (1,181 l)",
+            "Hydraulic System": "97.7 gal (367 l)",
+            "Hydraulic Tank": "85.3 gal (322 l)",
+            "Swing Drive": "2.7 gal (8 l)"
+        },
+        "Track": {
+            "Ground Clearance": "35 in (89 cm)",
+            "Number of Rollers": "9 per side",
+            "Track Length": "193 in (490 cm)",
+            "Tractive Effort": "104000 lbs (47,174 kg)",
+            "Undercarriage Pitch": "8.5 in (20 cm)",
+            "Undercarriage Size": "345 HEX"
+        },
+        "Undercarriage": {
+            "Shoe Size": "28 in (71 cm)",
+            "Track Gauge": "8.6 ft (2 m)",
+            "Track Pitch": "8.5 in (20 cm)",
+            "Tractive Effort": "104000.9 lbs (47,174 kg)"
+        },
+        "Weights": {
+            "Operating Weight - With Attachment - Track Harvester Configuration - Long Felling Linkage": "79339 lbs (35,988 kg)",
+            "Operating Weight - Without Attachment": "68468 lbs (31,057 kg)",
+            "Operating Weight - Without Attachment - Track Harvester Configuration": "69175 lbs (31,378 kg)"
+        }
+    }
+}

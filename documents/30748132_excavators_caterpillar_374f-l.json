@@ -1,0 +1,138 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/374f-l/30748132",
+    "source_url_id": "30748132",
+    "source_url_model": "374f-l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:07.283534",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "374F L",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "31.4 ft (9 m)",
+            "Max Digging Depth": "31.7 ft (9 m)",
+            "Max Loading Height": "29.6 ft (9 m)",
+            "Max Reach Along Ground": "46.7 ft (14 m)",
+            "Max Vertical Wall Digging Depth": "28 ft (9 m)",
+            "Shipping Height of Unit": "16.4 ft (5 m)",
+            "Shipping Length of Unit": "43.5 ft (13 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "29.6 ft (9 m)",
+            "Max Digging Depth": "30 ft (9 m)",
+            "Max Loading Height": "28.4 ft (9 m)",
+            "Max Reach Along Ground": "45 ft (14 m)",
+            "Max Vertical Wall Digging Depth": "25.8 ft (8 m)",
+            "Shipping Height of Unit": "15.3 ft (5 m)",
+            "Shipping Length of Unit": "43.7 ft (13 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "27.8 ft (8 m)",
+            "Max Digging Depth": "28.2 ft (9 m)",
+            "Max Loading Height": "10.9 ft (3 m)",
+            "Max Reach Along Ground": "43.3 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "23.4 ft (7 m)",
+            "Shipping Height of Unit": "14.2 ft (4 m)",
+            "Shipping Length of Unit": "43.8 ft (13 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "25.2 ft (8 m)",
+            "Max Digging Depth": "25.7 ft (8 m)",
+            "Max Loading Height": "13.4 ft (4 m)",
+            "Max Reach Along Ground": "41.2 ft (13 m)",
+            "Max Vertical Wall Dig Depth": "21.9 ft (6 m)",
+            "Shipping Length of Unit": "44.1 ft (13 m)"
+        },
+        "Boom/Stick Excavator Option 5": {
+            "Max Cutting Height": "24.7 ft (7 m)",
+            "Max Digging Depth": "25.1 ft (8 m)",
+            "Max Loading Height": "10.1 ft (3 m)",
+            "Max Reach Along Ground": "38.9 ft (12 m)",
+            "Max Vertical Wall Dig Depth": "14.5 ft (4 m)",
+            "Shipping Height of Unit": "15.5 ft (5 m)",
+            "Shipping Length of Unit": "41.5 ft (13 m)"
+        },
+        "Boom/Stick Excavator Option 6": {
+            "Max Cutting Height": "23.2 ft (7 m)",
+            "Max Digging Depth": "23.8 ft (7 m)",
+            "Max Loading Height": "23.2 ft (7 m)",
+            "Max Reach Along Ground": "37.6 ft (11 m)",
+            "Max Vertical Wall Dig Depth": "13.3 ft (4 m)",
+            "Shipping Height of Unit": "15.2 ft (5 m)",
+            "Shipping Length of Unit": "41.6 ft (13 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.8 ft (1 m)",
+            "Height - Top of Cab": "13.1 ft (4 m)",
+            "Length of Track on Ground": "15.5 ft (5 m)",
+            "Removal Counterweight Clearance": "5.1 ft (2 m)",
+            "Tail Swing Radius": "13.2 ft (4 m)",
+            "Width to Outside of Tracks": "9.1 ft (3 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Drawbar Pull": "110718 lbs (50,221 kg)"
+        },
+        "Engine": {
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "928 cu in (0 m)",
+            "Emissions": "The 374F L meets U.S. EPA Tier 4 Final, EU Stage IV and Korea Tier 4 emission standards.",
+            "Engine Make": "Caterpillar",
+            "Engine Model": "Cat C15 ACERT",
+            "Gross Power": "472.1 hp (352 kw)",
+            "Net Power": "472 hp (352 kw)",
+            "Stroke": "6.7 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "16.6": "16.6 gal/min gal/min (61 l/min)",
+            "Boom Cylinder - Bore": "7.5 in (18 cm)",
+            "Boom Cylinder - Stroke": "70.6 in (178 cm)",
+            "Main System - Maximum Flow ( 2 pumps) - Implement": "118 gal/min",
+            "Main System - Maximum Flow ( 2 pumps) - Travel": "126 gal/min",
+            "Main System - Maximum Flow - Total - Implement": "237 gal/min",
+            "Main System - Maximum Flow - Total - Travel": "251 gal/min",
+            "Maximum Pressure - Equipment - Normal": "5366 psi",
+            "Maximum Pressure - Swing": "4264 psi",
+            "Maximum Pressure - Travel": "5076 psi",
+            "Pilot System - Maximum Pressure": "580 - 638 psi",
+            "Stick Cylinder - Bore": "8.3 in (20 cm)",
+            "Stick Cylinder - Stroke": "83.4 in (211 cm)",
+            "Swing System - Maximum Flow": "No swing pump",
+            "VB2 Family Bucket Cylinder - Bore": "7.5 in (18 cm)",
+            "VB2 Family Bucket Cylinder - Stroke": "56.4 in (142 cm)",
+            "WB2 Family Bucket Cylinder - Bore": "7.9 in (18 cm)",
+            "WB2 Family Bucket Cylinder - Stroke": "57.4 in (145 cm)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "261.6 gal (988 l)",
+            "Hydraulic Pump Flow Capacity": "227.2 gal/min (859 l/min)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Weight": "156881 lbs (71,161 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "20 gal (76 l)",
+            "DEF Tank": "13 gal (49 l)",
+            "Engine Oil": "16 gal (61 l)",
+            "Final Drive - Each": "5.8 gal (19 l)",
+            "Fuel Tank Capacity": "247 gal (935 l)",
+            "Hydraulic System - Including Tank": "193 gal (731 l)",
+            "Hydraulic Tank": "162 gal (613 l)",
+            "Swing Drive - Each": "3.2 gal (11 l)"
+        },
+        "Standards": {
+            "Brakes": "SAE J1026 APR90",
+            "Cab/FOGS": "SAE J1356 FEB88 ISO 10262:2008"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "6.5 rpm"
+        },
+        "Undercarriage": {
+            "Track Gauge": "9.1 ft (3 m)"
+        },
+        "Weights": {
+            "Maximum Operating Weight": "165721 lbs (75,171 kg)",
+            "Minimum Operating Weight": "156461 lbs (70,970 kg)",
+            "Operating Weight": "165721 lbs (75,171 kg)"
+        }
+    }
+}

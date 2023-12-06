@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/dx45/30840694",
+    "source_url_id": "30840694",
+    "source_url_model": "dx45",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:56.126041",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "DX45",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "45 hp (34 kw)"
+        },
+        "Production": {
+            "Series": "DX Series",
+            "Years Manufactured": "2001 - 2006"
+        }
+    }
+}

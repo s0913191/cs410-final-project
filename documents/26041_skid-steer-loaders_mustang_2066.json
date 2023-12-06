@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/mustang/2066/26041",
+    "source_url_id": "26041",
+    "source_url_model": "2066",
+    "source_url_make": "mustang",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:29.971936",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Mustang",
+    "equipment_model": "2066",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "3.4 ft (1 m)",
+            "Ground Clearance": "7.9 in (18 cm)",
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Length w/o Bucket": "7.8 ft (2 m)",
+            "Length with Bucket": "10.8 ft (3 m)",
+            "Reach at Max Lift and Dump": "95 in (241 cm)",
+            "Turning Radius from Center - machine rear": "62.6 in (157 cm)",
+            "Wheelbase": "3.6 ft (1 m)",
+            "Width Over Tires": "5.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "202 cu in (0 m)",
+            "Engine Model": "4TNV98 / TIER III",
+            "Gross Power": "68 hp (51 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.5 gal/min (79 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Breakout Force": "6692 psi",
+            "Bucket Capacity": "0.7 cu yds (0 m)",
+            "Operating Load Rating": "2300 lbs (1,043 kg)",
+            "Tipping Angle": "4000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "950  A",
+            "Fuel Capacity": "19 gal (72 l)",
+            "Hydraulic System Fluid Capacity": "16 gal (61 l)",
+            "Max Speed": "11.4 mph (18 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "7460 lbs (3,384 kg)"
+        }
+    }
+}

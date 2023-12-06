@@ -1,0 +1,115 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx800b/30308188",
+    "source_url_id": "30308188",
+    "source_url_model": "cx800b",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:19.631155",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX800B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Bucket rotation": "167 \t\u00b0",
+            "Dig radius at ground line": "62.5 in (157 cm)",
+            "Dump height": "40.1 in (102 cm)",
+            "Max Digging Depth": "35 ft (11 m)",
+            "Max Reach Along Ground": "46.92 ft (14 m)",
+            "Max Vertical Wall Digging Depth": "3 ft (1 m)",
+            "Minimum swing radius": "24.5 in (61 cm)",
+            "Mximum dig radius": "63.5 in (160 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Bucket rotation": "167 \t\u00b0",
+            "Dig radius at ground line": "57.8 in (145 cm)",
+            "Dump height": "37.5 in (94 cm)",
+            "Max Vertical Wall Digging Depth": "2.6 ft (1 m)",
+            "Maximum dig radius": "58.9 in (147 cm)",
+            "Minimum swing radius": "24.2 in (61 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Bucket rotation": "167 \t\u00b0",
+            "Dig radius at ground line": "54.5 in (137 cm)",
+            "Dump height": "35.2 in (89 cm)",
+            "Max Digging Depth": "2.2 ft (1 m)",
+            "Maximum dig radius": "55.6 in (140 cm)",
+            "Minimum swing radius": "24.7 in (61 cm)",
+            "Overall height": "20.4 ft (6 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Bucket rotation": "162",
+            "Dig radius at ground line": "47.3 in (119 cm)",
+            "Dump height": "0.4 in (0 cm)",
+            "Max Digging Depth": "2.3 ft (1 m)",
+            "Max Vertical Wall Dig Depth": "1.4 ft (0 m)",
+            "Maximum dig radius": "4038.8 ft (1,231 m)",
+            "Maximum reach height": "46.3 in (117 cm)",
+            "Minimum swing radius": "0.3 in (0 cm)"
+        },
+        "Brakes": {
+            "Brakes Type": "Mechanical disc",
+            "Service brake": "SAHR disc - each motor",
+            "Travel control": "Dual stage relief or  counter balance design"
+        },
+        "Capacities": {
+            "Engine oil w/ filter change": "13.8 gal (49 l)",
+            "Final Drive": "3.7 gal (11 l)",
+            "Fuel Tank": "237.8 gal (897 l)",
+            "Hydraulic system": "190.3 gal (719 l)",
+            "Hydraulic Tank": "81.9 gal (307 l)",
+            "Swing drive": "3.6 gal (11 l)"
+        },
+        "Dimensions": {
+            "Boom length": "27.7 ft (8 m)",
+            "Cab height": "11.1 in (28 cm)",
+            "Center to center - idler to sprocket": "16.8 ft (5 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Ground pressure": "14.3 psi",
+            "Minimum ground clearance": "3.6 in (8 cm)",
+            "Overall height": "20.4 ft (6 m)",
+            "Tail Swing Radius": "14.1 ft (4 m)",
+            "Track Gauge": "11.4 ft (3 m)"
+        },
+        "Engine": {
+            "Air filter type": "Dry type element  with warning restriction indicator",
+            "Bore": "5.8 in (13 cm)",
+            "Displacement": "958.1 cu in (0 m)",
+            "Emission Tier Level": "Tier 3",
+            "Engine Make": "Isuzu",
+            "Engine Model": "Isuzu 6 WG1T",
+            "Fuel Filter": "In-line strainer",
+            "Fuel injection": "Direct",
+            "Fuel Type": "Diesel",
+            "Max Torque": "1659.6 lbs/ft",
+            "Net Power": "532 hp (397 kw)",
+            "Oil Filter": "Replaceable,  full flow spin-on cartridge",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "6.1 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Main pump - Maximum flow": "264.2 gal (999 l)",
+            "System relief pressure": "4554 psi"
+        },
+        "Operating Specifications": {
+            "Arm Breakout Force": "67442.7 lbs (30,592 kg)",
+            "Arm size": "12007.9 ft in ft (3,660 m)",
+            "Operating Weight": "178574.5 lbs (81,001 kg)"
+        },
+        "Performance": {
+            "Lift over end Max. reach": "16087.2 lbs (7,297 kg)",
+            "Lift over side Max. reach": "14687.2 lbs (6,662 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "6.4 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "3.5 mph (5 kph)"
+        },
+        "Undercarriage": {
+            "Track Shoe Width": "29.6 in (74 cm)"
+        },
+        "Weights": {
+            "counterweight": "8157.2 lbs (3,700 kg)"
+        }
+    }
+}

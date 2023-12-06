@@ -1,0 +1,104 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx300d/30131452",
+    "source_url_id": "30131452",
+    "source_url_model": "cx300d",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:55.382328",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX300D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Bucket rotation": "176 \t\u00b0",
+            "Dig radius at ground line": "413 in (1,049 cm)",
+            "Dump height": "278.8 in (706 cm)",
+            "Max Digging Depth": "23.3 ft (7 m)",
+            "Max Reach Along Ground": "34.5 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "20.1 ft (6 m)",
+            "Max.Dumping Height": "23.3 ft (7 m)",
+            "Minimum swing radius": "158.7 in (401 cm)",
+            "Mximum dig radius": "420.1 in (1,067 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Bucket rotation": "176 \t\u00b0",
+            "Dig radius at ground line": "394.9 in (1,001 cm)",
+            "Dump height": "272.9 in (691 cm)",
+            "Max Digging Depth": "21.6 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "18.9 ft (5 m)",
+            "Maximum dig radius": "402.4 in (1,021 cm)",
+            "Maximum reach height": "391 in (993 cm)",
+            "Minimum swing radius": "156.7 in (396 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Bucket rotation": "176 \t\u00b0",
+            "Dig radius at ground line": "432.3 in (1,097 cm)",
+            "Dump height": "291 in (739 cm)",
+            "Max Digging Depth": "24.9 ft (7 m)",
+            "Maximum dig radius": "439.4 in (1,115 cm)",
+            "Maximum reach height": "409.1 in (1,039 cm)",
+            "Minimum swing radius": "160.7 in (406 cm)"
+        },
+        "Brakes": {
+            "Brakes Type": "Dual stage relief or counter balance design",
+            "Service brake": "Mechanical disc",
+            "Travel control": "SAHR disc - each motor"
+        },
+        "Capacities": {
+            "Cooling system": "9.5 gal (34 l)",
+            "DEF Tank": "31.8 gal (117 l)",
+            "Engine oil w/ filter change": "10.9 gal (38 l)",
+            "Final Drive": "2.6 gal (8 l)",
+            "Fuel Tank": "120.8 gal (454 l)",
+            "Hydraulic system": "79.3 gal (299 l)",
+            "Hydraulic Tank": "38.9 gal (144 l)",
+            "Swing drive": "0.4 gal (0 l)"
+        },
+        "Dimensions": {
+            "Boom length": "0.1 ft (0 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Ground pressure": "6.4 psi",
+            "Tail Swing Radius": "10.4 ft (3 m)"
+        },
+        "Engine": {
+            "Air filter type": "Dry type element  w/ warning restriction indicator",
+            "Bore": "4.6 in (10 cm)",
+            "Displacement": "476 cu in (0 m)",
+            "Emission Tier Level": "Tier 4",
+            "Engine Make": "Isuzu",
+            "Engine Model": "Isuzu 6 HK1X",
+            "Fuel Filter": "Replaceable,  full flow spin-on cartridge",
+            "Fuel injection": "Direct injection - electronic",
+            "Fuel Type": "Requires ultra low-sulfur fuel  B5 biodiesel tolerant",
+            "Max Torque": "626.2 lbs/ft",
+            "Net Power": "154 hp (115 kw)",
+            "Oil Filter": "Replaceable,  full flow spin-on cartridge",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Main pump - Maximum flow": "128.4 gal (484 l)",
+            "System relief pressure": "49.8 psi"
+        },
+        "Operating Specifications": {
+            "Arm Breakout Force": "31473.3 lbs (14,276 kg)",
+            "Arm size": "10433.1 ft in ft (3,180 m)",
+            "Operating Weight": "66478.2 lbs (30,154 kg)"
+        },
+        "Performance": {
+            "Lift over end 10' radius": "19378.7 lbs (8,790 kg)",
+            "Lift over end Max. reach": "9347.6 lbs (4,240 kg)",
+            "Lift over side 10'  radius": "19378.7 lbs (8,790 kg)",
+            "Lift over side Max. reach": "7032.8 lbs (3,190 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "3.4 mph (5 kph)"
+        },
+        "Undercarriage": {
+            "Track Shoe Width": "31.5 in (79 cm)"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/airman/ax40u-4/1492175",
+    "source_url_id": "1492175",
+    "source_url_model": "ax40u-4",
+    "source_url_make": "airman",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:52:39.464168",
+    "equipment_category": "Excavators",
+    "equipment_make": "Airman",
+    "equipment_model": "AX40U-4",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "11 ft (3 m)",
+            "Max Loading Height": "12.9 ft (4 m)",
+            "Max Reach Along Ground": "18.9 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8.9 ft (2 m)",
+            "Shipping Height of Unit": "8.4 ft (2 m)",
+            "Shipping Length of Unit": "17.6 ft (5 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Length of Track on Ground": "6.6 ft (2 m)",
+            "Tail Swing Radius": "3.3 ft (1 m)",
+            "Width to Outside of Tracks": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "133.6 cu in (0 m)",
+            "Engine Model": "4TNV88",
+            "Net Power": "40 hp (30 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "33.1 gal/min (125 l/min)",
+            "Hydraulic System Relief Valve Pressure": "3481 psi",
+            "Operating Weight": "9656.3 lbs (4,380 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Shoe Size": "15.8 in (38 cm)"
+        }
+    }
+}

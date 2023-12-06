@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/manitowoc/1015/18253770",
+    "source_url_id": "18253770",
+    "source_url_model": "1015",
+    "source_url_make": "manitowoc",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:56.315158",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Manitowoc",
+    "equipment_model": "1015",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "200 ft (61 m)",
+            "Max Lift Capacity": "132 t (119,748 kg)"
+        }
+    }
+}

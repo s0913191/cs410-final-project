@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/bri-mar/ht18-14/30835210",
+    "source_url_id": "30835210",
+    "source_url_model": "ht18-14",
+    "source_url_make": "bri-mar",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:38.989300",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "HT18-14",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x18 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "3490 lbs (1,583 kg)",
+            "Weight Capacity": "10510 lbs (4,767 kg)"
+        }
+    }
+}

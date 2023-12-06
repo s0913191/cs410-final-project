@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/jcb/vm280/30754188",
+    "source_url_id": "30754188",
+    "source_url_model": "vm280",
+    "source_url_make": "jcb",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:02.911436",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "JCB",
+    "equipment_model": "VM280",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.1 in (28 cm)",
+            "Overall Length": "7.9 in (18 cm)",
+            "Wheelbase": "5.6 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "170 lbs (77 kg)",
+            "Drum Diameter": "27.6 in (69 cm)",
+            "Drum Width": "39.4 in (99 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "74.1 lbs/in",
+            "Vibration Frequency 1": "58 hz (3,480 vpm)"
+        },
+        "Engine": {
+            "Displacement": "85.5 cu in (0 m)",
+            "Engine Model": ", V2203",
+            "Gross Power": "29.2 hp (22 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "14  A",
+            "Fuel Capacity": "16.6 gal (61 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed": "6.8 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "6063 lbs (2,750 kg)"
+        }
+    }
+}

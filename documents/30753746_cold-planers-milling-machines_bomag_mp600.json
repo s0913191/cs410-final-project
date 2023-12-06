@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/bomag/mp600/30753746",
+    "source_url_id": "30753746",
+    "source_url_model": "mp600",
+    "source_url_make": "bomag",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:47.987604",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Bomag",
+    "equipment_model": "MP600",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Discharge Conveyor Width": "15.8 in (38 cm)"
+        },
+        "Dimensions": {
+            "Max Operating Height": "11.3 ft (3 m)",
+            "Operating Length": "37.1 ft (11 m)",
+            "Shipping Height": "8.4 ft (2 m)",
+            "Shipping Length": "30.1 ft (9 m)",
+            "Shipping Width": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "290.8 cu in (0 m)",
+            "Engine Model": "BF4M1013FC-EMR",
+            "Gross Power": "173 hp (129 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "74 gal (280 l)",
+            "Hydraulic System Fluid Capacity": "28.6 gal (106 l)",
+            "Operating Speed": "120.1 ft/min",
+            "Operating Voltage": "24 V",
+            "Shipping Weight - Empty": "29762.5 lbs (13,500 kg)",
+            "Travel Speed": "3.5 mph (5 kph)",
+            "Water Spray System Fluid Capacity": "153.3 gal (579 l)"
+        },
+        "Rotary Cutter": {
+            "Cutter Diameter": "42.2 in (107 cm)",
+            "Cutting Depth": "14.2 in (36 cm)",
+            "Cutting Width": "2 ft (1 m)",
+            "Number of Tools": "79",
+            "Tool Spacing": "0.6 in (0 cm)"
+        },
+        "Track": {
+            "Number of Track Units": "0"
+        }
+    }
+}

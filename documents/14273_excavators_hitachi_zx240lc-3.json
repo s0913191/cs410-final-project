@@ -1,0 +1,76 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx240lc-3/14273",
+    "source_url_id": "14273",
+    "source_url_model": "zx240lc-3",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:01:29.920859",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX240LC-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.3 ft (10 m)",
+            "Max Digging Depth": "22.5 ft (7 m)",
+            "Max Loading Height": "23.5 ft (7 m)",
+            "Max Reach Along Ground": "32.8 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "19.4 ft (6 m)",
+            "Shipping Height of Unit": "10.1 ft (3 m)",
+            "Shipping Length of Unit": "33.4 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "34.6 ft (10 m)",
+            "Max Digging Depth": "24.6 ft (7 m)",
+            "Max Loading Height": "24.8 ft (7 m)",
+            "Max Reach Along Ground": "35 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "21.8 ft (6 m)",
+            "Shipping Height of Unit": "10.4 ft (3 m)",
+            "Shipping Length of Unit": "33.5 ft (10 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "1.9 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "24 ft (7 m)",
+            "Digging Reach": "35 ft (11 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Length of Track on Ground": "12.6 ft (4 m)",
+            "Removal Counterweight Clearance": "3.6 ft (1 m)",
+            "Tail Swing Radius": "9.7 ft (3 m)",
+            "Width to Outside of Tracks": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, intercooled",
+            "Displacement": "317 cu in (0 m)",
+            "Engine Model": "AH-4HK1XYSA-01",
+            "Net Power": "177 hp (132 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "6.9 gal (23 l)",
+            "Engine Oil Capacity": "6.1 gal (23 l)",
+            "Fuel Capacity": "132.1 gal (500 l)",
+            "Hydraulic Pump Flow Capacity": "118.4 gal/min (447 l/min)",
+            "Hydraulic System Fluid Capacity": "63.5 gal (238 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "54654 lbs (24,791 kg)",
+            "Swing Drive Fluid Capacity": "1.9 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "13.5 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "49920 lbs (22,644 kg)",
+            "Ground Pressure": "5.4 psi",
+            "Max Travel Speed": "3.4 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "31.5 in (79 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        }
+    }
+}

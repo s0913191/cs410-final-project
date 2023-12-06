@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc142/30673770",
+    "source_url_id": "30673770",
+    "source_url_model": "cc142",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:14.884277",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC142",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.3 in (25 cm)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Overall Length": "9 in (23 cm)",
+            "Overall Width": "4.8 ft (1 m)",
+            "Turning Radius - Inside": "0.8 ft (0 m)",
+            "Wheelbase": "6.4 in (15 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "7418.7 lbs (3,365 kg)",
+            "Drum Diameter": "31.6 in (79 cm)",
+            "Drum Width": "51 in (130 cm)",
+            "Frequency": "52 hz (3,120 vpm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Vibration Frequency": "3000 hz (180,000 vpm)",
+            "Vibration Frequency 1": "52 hz (3,120 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "air cooled",
+            "Engine Model": "D2011 L03I",
+            "Gross Power": "45 hp (34 kw)",
+            "Make": "Deutz",
+            "Model": "D2011L031",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Weight": "8598.1 lbs (3,900 kg)",
+            "Operating Width": "55 in (140 cm)"
+        }
+    }
+}

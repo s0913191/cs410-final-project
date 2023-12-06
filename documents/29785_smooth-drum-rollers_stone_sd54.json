@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/sd54/29785",
+    "source_url_id": "29785",
+    "source_url_model": "sd54",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:06.884529",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "SD54",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "89 in (226 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54 in (137 cm)",
+            "Vibration Frequency": "35 hz (2,100 vpm)"
+        },
+        "Engine": {
+            "Make": "Deere 3029DF150"
+        },
+        "Operating Specifications": {
+            "Operating Width": "59 in (150 cm)"
+        }
+    }
+}

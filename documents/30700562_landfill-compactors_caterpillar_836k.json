@@ -1,0 +1,82 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/landfill-compactors/caterpillar/836k/30700562",
+    "source_url_id": "30700562",
+    "source_url_model": "836k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "landfill-compactors",
+    "source_date_scraped": "2023-09-13 17:39:18.821412",
+    "equipment_category": "Landfill Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "836K",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Planetary  Fixed",
+            "Oscillation Angle": "13  \t\u00b0",
+            "Rear": "Planetary  Oscillating"
+        },
+        "Brakes": {
+            "Parking Brake": "Spring Applied, Hydraulic Released"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Ground Clearance - Bumper": "3.4 ft (1 m)",
+            "Height - ROPS/Canopy": "14.1 ft (4 m)",
+            "Height - Top of Cab": "15.3 ft (5 m)",
+            "Height - Top of Cab with A/C": "15.3 ft (5 m)",
+            "Height - Top of Exhaust Pipe": "15.2 ft (5 m)",
+            "Height - Top of Hood": "11.3 ft (3 m)",
+            "Hitch to Centerline of Front Axle": "7.5 ft (2 m)",
+            "Length with Blade on Ground": "33.5 ft (10 m)",
+            "Length With Blade on Ground": "33.41 ft (10 m)",
+            "Wheel Base": "15 ft (5 m)",
+            "Wheelbase": "15 ft (5 m)",
+            "Width - Over Wheels": "14.1 ft (4 m)",
+            "Width Over Wheels": "14.1 ft (4 m)"
+        },
+        "Engine": {
+            "Bore": "5.8 in (13 cm)",
+            "Displacement": "1104.5 cu in (0 m)",
+            "Emissions": "Tier 4 Final/Stage IV/Korea Tier 4 Final or Tier 3/Stage IIIA equivalent",
+            "Engine Model": "Cat C18 ACERT",
+            "Gross Power": "562 hp (419 kw)",
+            "High Idle Speed": "2120 rpm",
+            "Low Idle Speed": "750 rpm",
+            "Max Torque": "2275 lbs/ft",
+            "Maximum Altitude - Without Derating": "7500 ft (2,286 m)",
+            "Net Power": "496 hp (370 kw)",
+            "Stroke": "7.2 in (18 cm)"
+        },
+        "Hydraulic System": {
+            "Main Relief Pressure": "3495 psi",
+            "Maximum Supply Pressure": "4640 psi"
+        },
+        "Hydraulic System - Steering": {
+            "Steering Pressure Limited": "3495 psi",
+            "Steering System - Circuit": "Steering Double Acting  End Mounted",
+            "Steering System - Pump": "Piston  Variable Displacement"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "28 gal (106 l)",
+            "Fuel Capacity": "209 gal (791 l)",
+            "Hydraulic System Fluid Capacity": "63 gal (238 l)",
+            "Operating Weight": "123319 lbs (55,937 kg)",
+            "Transmission Fluid Capacity": "32 gal (121 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "28 gal (106 l)",
+            "Crankcase": "16 gal (61 l)",
+            "Differential - Final Drives - Front": "49 gal (185 l)",
+            "Differential - Final Drives - Rear": "50 gal (189 l)",
+            "Fuel Tank": "209 gal (791 l)",
+            "Transmission": "32 gal (121 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Planetary - Powershift - ECPC"
+        },
+        "Weights": {
+            "Operating Weight": "123319 lbs (55,937 kg)"
+        }
+    }
+}

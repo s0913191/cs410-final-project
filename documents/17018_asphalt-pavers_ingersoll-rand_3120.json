@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/ingersoll-rand/3120/17018",
+    "source_url_id": "17018",
+    "source_url_model": "3120",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:15.778177",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "3120",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "13.2 ft (4 m)",
+            "Track Width": "12.1 in (30 cm)",
+            "Transport Height": "6.3 ft (2 m)",
+            "Transport Width": "8.6 ft (2 m)",
+            "Width w/ Hopper Open": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Net Power": "87 hp (65 kw)"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "10 in (25 cm)",
+            "Paving Speed - max": "119.8 ft/min",
+            "Paving Thickness - max": "6 in (15 cm)",
+            "Paving Width - max": "14.8 ft (4 m)",
+            "Travel Speed - max": "3.5 mph (5 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "28.1 gal (106 l)",
+            "Operating Weight w/ Screed": "16958 lbs (7,692 kg)"
+        }
+    }
+}

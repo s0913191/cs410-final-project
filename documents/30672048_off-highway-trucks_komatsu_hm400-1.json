@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hm400-1/30672048",
+    "source_url_id": "30672048",
+    "source_url_model": "hm400-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:32.920926",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HM400-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2.4 ft (1 m)",
+            "Dump Height": "23.4 ft (7 m)",
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Overall Height": "12.2 ft (4 m)",
+            "Overall Length": "36.2 ft (11 m)",
+            "Overall Width": "11.4 ft (3 m)",
+            "Wheelbase": "17.6 ft (5 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "29.2 cu yds (22 m)",
+            "Capacity - Struck": "21.6 cu yds (16 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Raise Time": "12 sec"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "927.6 cu in (0 m)",
+            "Engine Model": "SAA6D140E-3",
+            "Gross Power": "443.9 hp (330 kw)",
+            "Max Torque": "1467.8 lbs/ft",
+            "Net Power": "430.5 hp (321 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "13.8 gal (49 l)",
+            "Fuel Capacity": "130.8 gal (492 l)",
+            "Hydraulic System Fluid Capacity": "47.6 gal (178 l)",
+            "Tire Size": "29.5 R25",
+            "Transmission Fluid Capacity": "30.4 gal (114 l)"
+        },
+        "Transmission": {
+            "Max Speed": "36.5 mph (58 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "full-automatic"
+        },
+        "Weights": {
+            "Center Axle - empty": "14832.6 lbs (6,728 kg)",
+            "Center Axle - loaded": "52678.9 lbs (23,895 kg)",
+            "Front Axle - empty": "36848.5 lbs (16,714 kg)",
+            "Front Axle - loaded": "41789.9 lbs (18,955 kg)",
+            "Rear Axle - empty": "14832.6 lbs (6,728 kg)",
+            "Rear Axle - loaded": "52678.9 lbs (23,895 kg)",
+            "Total Empty": "66513.5 lbs (30,170 kg)",
+            "Total Loaded": "147147.6 lbs (66,745 kg)"
+        }
+    }
+}

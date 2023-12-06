@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/ab48-hsrt/30758387",
+    "source_url_id": "30758387",
+    "source_url_model": "ab48-hsrt",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:00.638381",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "AB48 HSRT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height - mast lowered": "9.1 ft (3 m)",
+            "Overall Length": "20.1 in (51 cm)",
+            "Overall Width": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "diesel",
+            "Gross Power": "32 hp (24 kw)"
+        },
+        "Performance": {
+            "Max Speed": "13.7 mph (21 kph)",
+            "Operating Weight": "7716.2 lbs (3,500 kg)"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "26 ft (8 m)",
+            "Max Platform Height": "48.6 ft (15 m)",
+            "Max Platform Weight Capacity": "474 lbs (215 kg)",
+            "Max Working Height": "55.2 ft (17 m)",
+            "Platform Inner Length": "47.3 in (119 cm)",
+            "Platform Inner Width": "31.5 in (79 cm)",
+            "Platform Rotation": "90  \t\u00b0"
+        }
+    }
+}

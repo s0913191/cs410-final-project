@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/pd43/30800942",
+    "source_url_id": "30800942",
+    "source_url_model": "pd43",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:31.065206",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "PD43",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "94 in (239 cm)"
+        },
+        "Drum": {
+            "Drum Width": "43 in (109 cm)",
+            "Vibration Frequency": "35 hz (2,100 vpm)"
+        },
+        "Engine": {
+            "Make": "Deere 3029DF150"
+        },
+        "Operating Specifications": {
+            "Operating Width": "49 in (124 cm)"
+        }
+    }
+}

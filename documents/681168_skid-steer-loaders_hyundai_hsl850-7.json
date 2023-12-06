@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/hyundai/hsl850-7/681168",
+    "source_url_id": "681168",
+    "source_url_model": "hsl850-7",
+    "source_url_make": "hyundai",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:20.733728",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HSL850-7",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Ground Clearance": "8.1 in (20 cm)",
+            "Height - Top of Cab": "6.6 ft (2 m)",
+            "Length w/o Bucket": "9.4 ft (3 m)",
+            "Length with Bucket": "11.4 ft (3 m)",
+            "Reach at Max Lift and Dump": "20.1 in (51 cm)",
+            "Turning Radius from Center - inc bucket": "81.9 in (206 cm)",
+            "Turning Radius from Center - machine rear": "65.4 in (165 cm)",
+            "Wheelbase": "3.7 ft (1 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V3300DI",
+            "Gross Power": "66 hp (49 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.7 gal/min (64 l/min)",
+            "Relief Valve Pressure": "2538 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load Rating": "1852 lbs (840 kg)",
+            "Tipping Angle": "3715  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "22 gal (83 l)",
+            "Hydraulic System Fluid Capacity": "15 gal (57 l)",
+            "Max Speed": "7.2 mph (11 kph)",
+            "Operational Weight": "7253.3 lbs (3,290 kg)",
+            "Tire Size": "12-16.5 12PR"
+        }
+    }
+}

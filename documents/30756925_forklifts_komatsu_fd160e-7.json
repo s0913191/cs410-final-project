@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/komatsu/fd160e-7/30756925",
+    "source_url_id": "30756925",
+    "source_url_model": "fd160e-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:33:25.774803",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Komatsu",
+    "equipment_model": "FD160E-7",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.6 in (36 cm)",
+            "Height to Top of Overhead Guard": "9.3 ft (3 m)",
+            "Length to Fork Face": "15.8 ft (5 m)",
+            "Max Fork Height": "9.9 ft (3 m)",
+            "Overall Height - mast lowered": "10.8 ft (3 m)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Right Angle Stack": "21.9 ft (6 m)",
+            "Turning Radius": "14.8 ft (4 m)",
+            "Wheelbase": "10.2 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "396 cu in (0 m)",
+            "Engine Model": "6BG1T",
+            "Fuel Type": "Diesel",
+            "Number of Cylinders": "6",
+            "Power": "160 hp (119 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque": "398 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "63 ft/min",
+            "Load Capacity": "35000 lbs (15,876 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Lower Speed": "88.6 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0",
+            "Number of Mast Sections": "2"
+        },
+        "Operating Specifications": {
+            "Max Speed": "17.4 mph (27 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "37590 lbs (17,051 kg)",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

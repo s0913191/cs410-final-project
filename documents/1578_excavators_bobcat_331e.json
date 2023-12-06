@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/bobcat/331e/1578",
+    "source_url_id": "1578",
+    "source_url_model": "331e",
+    "source_url_make": "bobcat",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:52:51.963825",
+    "equipment_category": "Excavators",
+    "equipment_make": "Bobcat",
+    "equipment_model": "331E",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "15.8 ft (5 m)",
+            "Max Digging Depth": "12.9 ft (4 m)",
+            "Max Loading Height": "11.2 ft (3 m)",
+            "Max Reach Along Ground": "18.5 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8.4 ft (2 m)",
+            "Shipping Height of Unit": "7.8 ft (2 m)",
+            "Shipping Length of Unit": "16.5 ft (5 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "12.8 ft (4 m)",
+            "Digging Reach": "12.8 ft (4 m)",
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Length of Track on Ground": "5.2 ft (2 m)",
+            "Removal Counterweight Clearance": "1.7 ft (0 m)",
+            "Tail Swing Radius": "4.6 ft (1 m)",
+            "Width to Outside of Tracks": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134.3 cu in (0 m)",
+            "Engine Model": "V-2203-M-DI-E2B",
+            "Net Power": "40.1 hp (30 kw)",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.3 gal (57 l)",
+            "Hydraulic Pump Flow Capacity": "24.1 gal/min (91 l/min)",
+            "Operating Weight": "7758.1 lbs (3,519 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.2 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.6 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "12.6 in (30 cm)",
+            "Track Gauge": "4.1 ft (1 m)"
+        }
+    }
+}

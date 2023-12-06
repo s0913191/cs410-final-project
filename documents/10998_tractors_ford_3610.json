@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/3610/10998",
+    "source_url_id": "10998",
+    "source_url_model": "3610",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:20.642657",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "3610",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "47  hp"
+        },
+        "Production": {
+            "Series": "10 Utility Series",
+            "Year Manufactured": "1982 - 1983"
+        }
+    }
+}

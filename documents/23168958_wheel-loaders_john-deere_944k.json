@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/944k/23168958",
+    "source_url_id": "23168958",
+    "source_url_model": "944k",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:47.799881",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "944K",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "103388 lbs (46,897 kg)",
+            "Bucket Capacity - Smallest": "8.6 cu yds (6 m)",
+            "Largest bucket capacity": "10.1 cu yds (8 m)"
+        },
+        "Capacities": {
+            "Heaped Capacity": "10.1 cu yds (8 m)",
+            "Hydraulic Tank": "99.9 gal (375 l)",
+            "Transmission": "9 gal (34 l)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "13.7 ft (4 m)",
+            "Hinge Pin - Max Height": "17.6 ft (5 m)",
+            "Length with Bucket on Ground": "38.4 ft (12 m)",
+            "Reach at Max Lift and Dump": "9.5 ft (3 m)",
+            "Turning Circle": "58.6 ft (18 m)",
+            "Wheelbase": "14.8 ft (4 m)",
+            "Width Over Tires": "12.3 ft (4 m)"
+        },
+        "Driveline": {
+            "Parking Brake Type": "Wet Multi Disc",
+            "Ride control system": "Optional",
+            "Service Brake - Location": "All Wheels",
+            "Service Brake Actuation": "Hydraulic",
+            "Service Brake Type": "Wet Multi Disc",
+            "Tire size - Standard": "35 / 65 R33"
+        },
+        "Engine": {
+            "Alternator": "150 A",
+            "Displacement": "823.9 cu in (0 m)",
+            "Emission level": "Interim Tier 4",
+            "Engine Make": "John Deere",
+            "Engine Model": "PowerTech PSX 6135",
+            "Engine Output-Net": "536.5 hp (400 kw)",
+            "Pump": "Axial Piston Pump",
+            "Rated Speed": "1600 rpm",
+            "System Voltage": "24 V",
+            "Torque": "1866.1 lbs/ft",
+            "Torque Rise": "23%",
+            "Transmission Type": "A/C Electric"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "201.1 gal (761 l)",
+            "Operating Weight": "117947.4 lbs (53,500 kg)"
+        },
+        "Transmission": {
+            "Pump Flow": "100.2 gal/min (379 l/min)",
+            "System Pressure": "350 psi"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl760-7a/15281",
+    "source_url_id": "15281",
+    "source_url_model": "hl760-7a",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:20.726905",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL760-7A",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Spring-applied, hydraulically released disc brake on transmission",
+            "Service brake": "Hydraulically actuated, wet disc brakes actuate all 4 wheels"
+        },
+        "Bucket": {
+            "Breakout Force": "6858920.3 lbs (3,111,186 kg)",
+            "Bucket Capacity - heaped": "4.1 cu yds (3 m)",
+            "Bucket Capacity - struck": "3.6 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "9.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Hinge Pin - Max Height": "13.7 ft (4 m)",
+            "Length with Bucket on Ground": "26.5 ft (8 m)",
+            "Reach at Max Lift and Dump": "4 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)",
+            "Width Over Tires": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry, dual elements",
+            "Aspiration": "Turbocharged",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emissions Certification": "Low emission",
+            "Engine Make": "CUMMINS",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "215 hp (160 kw)",
+            "Make": "Cummins",
+            "Model": "QSB6.7",
+            "Net Power": "205 hp (153 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm",
+            "Starter": "5 hp (4 kw)",
+            "Stroke": "4.9 in (10 cm)",
+            "Torque": "700 lbs/ft",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.3 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "74 gal/min (280 l/min)",
+            "Pump Type": "Open-centered, tandem circuit system",
+            "Raise Time": "6.2 sec",
+            "Relief Valve Setting": "2990 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "10.4 gal (38 l)",
+            "Front Axle/Diff Fluid Capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Hydraulic System Fluid Capacity": "68.7 gal (257 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "39462.8 lbs (17,900 kg)",
+            "Rated Bucket Capacity": "4.0 cu yds (3 m)",
+            "Rear Axle/Diff Fluid Capacity": "8.2 gal (30 l)",
+            "Tire Size": "23.5-25, 20 PR, L3",
+            "Transmission Fluid Capacity": "8.5 gal (30 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.3 mph (34 kph)",
+            "Max Speed - Reverse": "23.3 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Full automatic power shift"
+        },
+        "Weights": {
+            "Operational Weight": "39460 lbs (17,899 kg)"
+        }
+    }
+}

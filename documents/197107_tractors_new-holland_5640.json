@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/5640/197107",
+    "source_url_id": "197107",
+    "source_url_model": "5640",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:21.213791",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "5640",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "78 hp (58 kw)"
+        },
+        "Production": {
+            "Series": "PowerStar 40 Series",
+            "Years Manufactured": "1996 - 1998"
+        }
+    }
+}

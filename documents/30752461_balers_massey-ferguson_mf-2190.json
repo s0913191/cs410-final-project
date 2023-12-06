@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/massey-ferguson/mf-2190/30752461",
+    "source_url_id": "30752461",
+    "source_url_model": "mf-2190",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:47.435222",
+    "equipment_category": "Balers",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 2190",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "4 ft (1 m)",
+            "Bale Length - max": "8.9 ft (2 m)",
+            "Bale Width": "4.2 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Overall Width": "7.5 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Width": "10.8 ft (3 m)",
+            "Tractor PTO Power Required": "150.2 hp (112 kw)",
+            "Weight": "21680.3 lbs (9,834 kg)"
+        },
+        "Feeding Chamber": {
+            "Packer Type": "Fork type, 6 tine"
+        },
+        "Plunger": {
+            "SPM": "33",
+            "Stroke Length": "820 mm (32 in)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "30",
+            "Twine Type": "Double knot, twine tie"
+        }
+    }
+}

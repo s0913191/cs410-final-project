@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/m-26-2h/30756990",
+    "source_url_id": "30756990",
+    "source_url_model": "m-26-2h",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:45.963534",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "M 26-2H",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15 in (38 cm)",
+            "Height to Top of Overhead Guard": "8.4 ft (2 m)",
+            "Length to Fork Face": "4 ft (1 m)",
+            "Overall Height - mast lowered": "9 ft (3 m)",
+            "Overall Width": "6.3 ft (2 m)",
+            "Turning Radius": "11.5 ft (3 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Cooling method": "Water",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "Euro 2 1104C 44",
+            "Engine Type": "PERKINS 854F-E34T 54009.1.1",
+            "Injection": "Direct",
+            "Power": "100.6 hp (75 kw)",
+            "Torque": "234.6 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Lift System": {
+            "Max Lift Height": "2.3 ft (1 m)"
+        },
+        "MAST": {
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "13.8 mph (21 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "11226 lbs (5,092 kg)",
+            "Tire Type": "FRWD-145R20 18PR MPT80 TL,Backward-10R 17.5 134/132 M G291"
+        },
+        "Transmission": {
+            "Transmission Type": "Torque converter"
+        }
+    }
+}

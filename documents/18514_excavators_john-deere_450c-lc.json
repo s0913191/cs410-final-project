@@ -1,0 +1,106 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/450c-lc/18514",
+    "source_url_id": "18514",
+    "source_url_model": "450c-lc",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:06:31.223736",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "450C LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.7 ft (10 m)",
+            "Max Digging Depth": "23.9 ft (7 m)",
+            "Max Loading Height": "23.1 ft (7 m)",
+            "Max Reach Along Ground": "36.6 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "17.5 ft (5 m)",
+            "Shipping Height of Unit": "11.9 ft (3 m)",
+            "Shipping Length of Unit": "39.1 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "36.4 ft (11 m)",
+            "Max Digging Depth": "25.5 ft (8 m)",
+            "Max Loading Height": "25.2 ft (8 m)",
+            "Max Reach Along Ground": "38.8 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "21.9 ft (6 m)",
+            "Shipping Height of Unit": "11.5 ft (3 m)",
+            "Shipping Length of Unit": "39.2 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "36.7 ft (11 m)",
+            "Max Digging Depth": "27.1 ft (8 m)",
+            "Max Loading Height": "25.5 ft (8 m)",
+            "Max Reach Along Ground": "40.3 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "23.1 ft (7 m)",
+            "Shipping Height of Unit": "11.5 ft (3 m)",
+            "Shipping Length of Unit": "39.2 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "39 ft (12 m)",
+            "Max Digging Depth": "30 ft (9 m)",
+            "Max Loading Height": "28.8 ft (9 m)",
+            "Max Reach Along Ground": "43.3 ft (13 m)",
+            "Max Vertical Wall Dig Depth": "27.8 ft (8 m)",
+            "Shipping Length of Unit": "38.5 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 5": {
+            "Max Cutting Height": "35.8 ft (11 m)",
+            "Max Digging Depth": "20.5 ft (6 m)",
+            "Max Loading Height": "24.1 ft (7 m)",
+            "Max Reach Along Ground": "34.8 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "16.8 ft (5 m)",
+            "Shipping Height of Unit": "12.3 ft (4 m)",
+            "Shipping Length of Unit": "34.2 ft (10 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "6.6 cu yds (5 m)",
+            "Minimum Bucket Capacity": "2.1 cu yds (2 m)",
+            "Reference Bucket Capacity": "3.1 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "23 ft (7 m)",
+            "Digging Reach": "23 ft (7 m)",
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Length of Track on Ground": "14.7 ft (4 m)",
+            "Removal Counterweight Clearance": "4.5 ft (1 m)",
+            "Tail Swing Radius": "11.5 ft (3 m)",
+            "Width to Outside of Tracks": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger",
+            "Displacement": "763 cu in (0 m)",
+            "Engine Model": "6125H",
+            "Max Torque": "955 lbs/ft",
+            "Net Power": "316 hp (236 kw)",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45 A",
+            "Cooling System Fluid Capacity": "13.3 gal (49 l)",
+            "Engine Oil Capacity": "11.1 gal (42 l)",
+            "Fuel Capacity": "171 gal (647 l)",
+            "Hydraulic Pump Flow Capacity": "100 gal/min (379 l/min)",
+            "Hydraulic System Fluid Capacity": "74 gal (280 l)",
+            "Hydraulic System Relief Valve Pressure": "4410 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "102560 lbs (46,521 kg)",
+            "Swing Drive Fluid Capacity": "1.8 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "79590 lbs (36,102 kg)",
+            "Ground Pressure": "9.2 psi",
+            "Max Travel Speed": "3.4 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "53",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "30 in (76 cm)",
+            "Track Gauge": "9.5 ft (3 m)"
+        }
+    }
+}

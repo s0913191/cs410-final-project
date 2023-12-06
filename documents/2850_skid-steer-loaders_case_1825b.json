@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/case/1825b/2850",
+    "source_url_id": "2850",
+    "source_url_model": "1825b",
+    "source_url_make": "case",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:35.733516",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "1825B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Angle of departure": "31  \t\u00b0",
+            "Ground Clearance": "6.7 in (15 cm)",
+            "Height - Top of ROPS/FOPS": "70.1 in (178 cm)",
+            "Hinge pin height - fully raised": "98.1 in (249 cm)",
+            "Length w/o Bucket": "9.1 ft (3 m)",
+            "Wheelbase": "2.8 ft (1 m)",
+            "Width Over Tires": "3.3 ft (1 m)"
+        },
+        "Engine": {
+            "Bore": "3.1 in (8 cm)",
+            "Displacement": "91.6 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V1505",
+            "Gross Power": "27 hp (20 kw)",
+            "Max Torque": "67.2 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm",
+            "Stroke": "3.1 in (8 cm)",
+            "Torque Measured @": "2100 rpm"
+        },
+        "Hydraulic": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "2.5 sec",
+            "Pump Flow Capacity": "9.6 gal/min (34 l/min)",
+            "Pump Type": "Gear pump driven directl",
+            "Relief Valve Pressure": "2300 psi"
+        },
+        "Loader": {
+            "Bucket Width": "48.9 in (122 cm)",
+            "Operating Load Rating": "884.1 lbs (401 kg)"
+        },
+        "Operational": {
+            "Alternator Supplied Amperage": "30  A",
+            "Chain Box Fluid Capacity - each side": "0.8 gal (0 l)",
+            "Engine Oil Fluid Capacity": "1.7 gal (4 l)",
+            "Fuel Capacity": "8.6 gal (30 l)",
+            "Hydraulic System Fluid Capacity": "5.8 gal (19 l)",
+            "Max Speed": "5.8 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "3106.4 lbs (1,409 kg)",
+            "Tire Size": "5.70 x 15, 4PR"
+        }
+    }
+}

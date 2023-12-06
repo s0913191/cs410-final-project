@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/jlg/4610/30785094",
+    "source_url_id": "30785094",
+    "source_url_model": "4610",
+    "source_url_make": "jlg",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:09.323502",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "JLG",
+    "equipment_model": "4610",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6x10 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "1",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "2070 lbs (939 kg)",
+            "Weight Capacity": "4500 lbs (2,041 kg)"
+        }
+    }
+}

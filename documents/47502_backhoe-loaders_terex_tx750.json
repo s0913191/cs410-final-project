@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/terex/tx750/47502",
+    "source_url_id": "47502",
+    "source_url_model": "tx750",
+    "source_url_make": "terex",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:35.778620",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TX750",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "10082 lbs (4,573 kg)",
+            "Dig Depth": "14.7 ft (4 m)",
+            "Dig Depth - Extended": "19.3 ft (6 m)",
+            "Load Height": "12.3 ft (4 m)",
+            "Load Height - Extended": "15.6 ft (5 m)",
+            "Reach at Load Height - Extended": "9.2 ft (3 m)",
+            "Reach From Swivel": "19.3 ft (6 m)",
+            "Reach From Swivel - Extended": "23.5 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height to Top of Suspended Cab": "9 ft (3 m)",
+            "Transport Length": "23.8 ft (7 m)",
+            "Transport Width": "7.7 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "256.3 cu in (0 m)",
+            "Engine Make": "PERKINS",
+            "Engine Model": "Model 1 1004-40 T",
+            "Gross Power": "75 hp (56 kw)",
+            "Net Max Torque": "212 lbs/ft",
+            "Net Power": "69 hp (51 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21 gal/min (79 l/min)",
+            "Relief Valve Pressure": "3250 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "10485 lbs (4,756 kg)",
+            "Bucket Capacity": "1.4 cu yds (1 m)",
+            "Bucket Width": "91 in (231 cm)",
+            "Clearance at Max Dump Height": "8.8 ft (2 m)",
+            "Dig Depth": "7.4 in (18 cm)",
+            "Reach at Max Dump Height": "2.2 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Front Axle Fluid Capacity": "4.7 gal (15 l)",
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Hydraulic System Fluid Capacity": "23.8 gal (87 l)",
+            "Max Weight": "15820 lbs (7,176 kg)",
+            "Oil System Fluid Capacity": "2.9 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Rear Axle Fluid Capacity": "3.4 gal (11 l)",
+            "Tire Size Front - 2wd / 4wd": "11Lx16",
+            "Transmission Fluid Capacity": "4 gal (15 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9x28"
+        },
+        "Transmission": {
+            "Max Speed": "24.5 mph (39 kph)",
+            "Max Speed - Reverse": "24.5 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/case/340/30412997",
+    "source_url_id": "30412997",
+    "source_url_model": "340",
+    "source_url_make": "case",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:10.150159",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Case",
+    "equipment_model": "340",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "3.3 ft (1 m)",
+            "Dump Height": "22.7 ft (7 m)",
+            "Ground Clearance": "2 ft (1 m)",
+            "Overall Height": "12.6 ft (4 m)",
+            "Overall Length": "35.4 ft (11 m)",
+            "Overall Width": "11 ft (3 m)",
+            "Wheelbase": "20.6 ft (6 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "28.8 cu yds (21 m)",
+            "Capacity - Struck": "22.2 cu yds (17 m)",
+            "Dump Angle": "68  \t\u00b0",
+            "Lower Time": "13 sec",
+            "Raise Time": "11 sec",
+            "Rated Payload": "79366 lbs (36,000 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and Aftercooled",
+            "Displacement": "787 cu in (0 m)",
+            "Engine Model": "13F3B",
+            "Gross Power": "456 hp (340 kw)",
+            "Max Torque": "1475 lbs/ft",
+            "Net Power": "426 hp (318 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1000 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Engine Oil Capacity": "9.2 gal (34 l)",
+            "Fuel Capacity": "119 gal (450 l)",
+            "Hydraulic System Fluid Capacity": "79.3 gal (299 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "tubeless 29.5xR25xADN",
+            "Transmission Fluid Capacity": "9.4 gal (34 l)"
+        },
+        "Transmission": {
+            "Max Speed": "29.8 mph (47 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power Shift"
+        },
+        "Weights": {
+            "Front Axle - empty": "31614 lbs (14,340 kg)",
+            "Rear Axle - empty": "32319.8 lbs (14,660 kg)",
+            "Total Empty": "63934 lbs (29,000 kg)",
+            "Total Loaded": "143300 lbs (65,001 kg)"
+        }
+    }
+}

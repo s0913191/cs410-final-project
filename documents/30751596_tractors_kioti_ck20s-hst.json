@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kioti/ck20s-hst/30751596",
+    "source_url_id": "30751596",
+    "source_url_model": "ck20s-hst",
+    "source_url_make": "kioti",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:41.006680",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kioti",
+    "equipment_model": "CK20S HST",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.2 ft (2 m)",
+            "Overall Length": "8.9 in (20 cm)",
+            "Tire Size": "front 6-12 rear 9.5-16",
+            "Wheelbase": "4.9 ft (1 m)",
+            "Width Outside Frame": "3.7 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "61.5 cu in (0 m)",
+            "Engine Model": "3C100A",
+            "Gross Power": "22 hp (16 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2800 rpm",
+            "PTO Power": "16.2 hp (12 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "7.7 gal/min (27 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1109 lbs (503 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "5.3 gal (19 l)",
+            "Operating Weight": "2138.5 lbs (970 kg)",
+            "Turning Radius": "7.6 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "9.4 mph (14 kph)",
+            "Number of Forward Gears": "inf. 2",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

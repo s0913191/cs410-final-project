@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt75s/12954",
+    "source_url_id": "12954",
+    "source_url_model": "rt75s",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:36.040454",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT75S",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "76  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "112 ft (34 m)",
+            "Max Lift Capacity": "30000 lbs (13,608 kg)",
+            "Max Operating Radius": "26 ft (8 m)",
+            "Min Height @ Max Raise Angle": "33 ft (10 m)",
+            "Min Operating Radius": "3 ft (1 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.6 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "36.3 ft (11 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Transport Height": "11.9 ft (3 m)",
+            "Transport Length": "41.2 ft (13 m)",
+            "Transport Width": "10.3 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.5 ft (4 m)",
+            "Wheelbase": "12.5 in (30 cm)",
+            "Width w/ Outriggers Extended": "23 ft (7 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Full Flow",
+            "Displacement": "318 cu in (0 m)",
+            "Engine Model": "6V-53N",
+            "Max Torque": "396 lbs/ft",
+            "Net Power": "173 hp (129 kw)",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Fuel Capacity": "60 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "133 gal (503 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "67250 lbs (30,504 kg)",
+            "Tire Size": "21.00X25-24ply"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.8 mph (34 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "remote mounted full powershift"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/eco-log/564b/30755948",
+    "source_url_id": "30755948",
+    "source_url_model": "564b",
+    "source_url_make": "eco-log",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:48.070355",
+    "equipment_category": "Forwarders",
+    "equipment_make": "Eco Log",
+    "equipment_model": "564B",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Area": "46.3 CUBIC ft",
+            "Load Weight - 8wd": "26455.5 lbs (12,000 kg)"
+        },
+        "Crane": {
+            "Max Reach": "32.9 ft (10 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.2 ft (1 m)",
+            "Height to Top of crane": "12.09 ft (4 m)",
+            "Height to Top of Crane": "12.1 ft (4 m)",
+            "Length": "29.7 ft (9 m)",
+            "Length of Bunk Area": "13.5 ft (4 m)",
+            "Width Over Tires": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "366.2 cu in (0 m)",
+            "Engine Model": "3056E",
+            "Power": "174 hp (130 kw)",
+            "Torque": "512.7 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "150  A",
+            "Front/Rear Tire Size - 8wd": "710/50x26.5",
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "38.4 gal (144 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight - 8wd": "277562.1 lbs (125,901 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic Mechanical"
+        }
+    }
+}

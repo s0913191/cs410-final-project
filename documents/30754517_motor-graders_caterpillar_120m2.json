@@ -1,0 +1,90 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/caterpillar/120m2/30754517",
+    "source_url_id": "30754517",
+    "source_url_model": "120m2",
+    "source_url_make": "caterpillar",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:16.070063",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "120M2",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "40  \t\u00b0",
+            "Blade Tip Angle - Rear": "5  \t\u00b0",
+            "Diameter": "60.3 in (152 cm)",
+            "Max Lift Above Ground": "16.9 in (41 cm)",
+            "Max Reach Outside Tires - Left": "68.6 in (173 cm)",
+            "Max Reach Outside Tires - Right": "75 in (191 cm)",
+            "Rotation": "360  \t\u00b0",
+            "Shift Left": "25.9 in (64 cm)",
+            "Shift Right": "25.9 in (64 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "8.3 ft (2 m)",
+            "Height to Top of Isomount Cab": "10.9 ft (3 m)",
+            "Overall Length": "29 ft (9 m)",
+            "Rear Ground Clearance": "1.2 ft (0 m)",
+            "Tandem Axle Wheelbase": "5 ft (2 m)",
+            "Wheelbase": "19.5 ft (6 m)",
+            "Width Over Tires": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "427.8 cu in (0 m)",
+            "Engine Model": "C7.1 ACERT",
+            "Net Power Gear 1-2": "145 hp (108 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque": "692.6 lbs/ft"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Oscillation - Total": "32  \t\u00b0",
+            "Wheel Lean": "18  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "55.7 gal/min (208 l/min)",
+            "Pump Type": "Variable Piston",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Moldboard": {
+            "Blade Down Pressure": "27236 lbs (12,354 kg)",
+            "Blade Pull at Max Weight": "29980.7 lbs (13,599 kg)",
+            "Max Depth of Cut": "28.4 in (71 cm)",
+            "Moldboard Height": "24 in (61 cm)",
+            "Moldboard Thickness": "0.9 in (0 cm)",
+            "Moldboard Width": "12 ft (4 m)",
+            "Side Shift Left": "20.1 in (51 cm)",
+            "Side Shift Right": "26 in (66 cm)"
+        },
+        "Operating Specifications": {
+            "Circle Gearbox Fluid Capacity": "1.9 gal (4 l)",
+            "Cooling System Fluid Capacity": "13 gal (49 l)",
+            "Fuel Capacity": "99.9 gal (375 l)",
+            "Hydraulic System Fluid Capacity": "17 gal (64 l)",
+            "Max Operation Weight - Front Axle": "15675 lbs (7,110 kg)",
+            "Max Operation Weight - Rear Axle": "33312 lbs (15,110 kg)",
+            "Max Operation Weight - Total": "48987 lbs (22,220 kg)",
+            "Oil System Fluid Capacity": "8 gal (30 l)",
+            "Rear Diff/Final Drive Fluid Capacity": "16.6 gal (61 l)",
+            "Std Operation Weight - Front Axle": "10563 lbs (4,791 kg)",
+            "Std Operation Weight - Rear Axle": "29329 lbs (13,304 kg)",
+            "Std Operation Weight - Total": "39892 lbs (18,095 kg)",
+            "Tandem Case Fluid Capacity (each)": "15.6 gal (57 l)",
+            "Tire Size": "17.5 R25"
+        },
+        "Steering System": {
+            "Articulation Angle": "20  \t\u00b0",
+            "Turning Radius": "24.3 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "28.4 mph (45 kph)",
+            "Max Speed - Reverse": "22.5 mph (35 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "6",
+            "Transmission Type": "Direct Drive, Powershift"
+        }
+    }
+}

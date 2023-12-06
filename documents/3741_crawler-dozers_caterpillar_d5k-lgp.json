@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d5k-lgp/3741",
+    "source_url_id": "3741",
+    "source_url_model": "d5k-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:35.032464",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D5K LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length of Track on Ground": "7.6 ft (2 m)",
+            "Length w/o Blade": "10.8 ft (3 m)",
+            "Width Over Tracks": "8 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "269 cu in (0 m)",
+            "Engine Model": "C4.4 ACERT",
+            "Gross Power": "100 hp (75 kw)",
+            "Make": "Cat",
+            "Model": "C4.4 ACERT",
+            "Net Power": "96 hp (72 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "19.4 gal/min (72 l/min)",
+            "Relief Valve Pressure": "2988 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "120  A",
+            "Cooling System Fluid Capacity": "6 gal (23 l)",
+            "Engine Oil Capacity": "3 gal (11 l)",
+            "Final Drives Fluid Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "51.5 gal (193 l)",
+            "Hydraulic Fluid Capacity": "15.7 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "21347 lbs (9,683 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "3.1 cu yds (2 m)",
+            "Height": "39.8 in (99 cm)",
+            "Width": "10.6 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.6 mph (8 kph)",
+            "Max Speed - Reverse": "6.2 mph (10 kph)",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4726 cu in (0 m)",
+            "Ground Pressure": "4.6 psi",
+            "Number of Shoes per Side": "40",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "26 in (66 cm)",
+            "Track Gauge": "5.8 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/5fd120/30757152",
+    "source_url_id": "30757152",
+    "source_url_model": "5fd120",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:41:35.829833",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "5FD120",
+    "equipment_spec": {
+        "Dimensions": {
+            "Aisle width": "19.4 ft (6 m)",
+            "Gradeability": "45%",
+            "Length to Fork Face": "14.1 ft (4 m)",
+            "Overall Height - mast lowered": "9.6 ft (3 m)",
+            "Overall Width": "7.9 ft (2 m)",
+            "Right Angle Stack": "15.5 ft (5 m)"
+        },
+        "MAST": {
+            "Lift Speed": "89 ft/min",
+            "Load Capacity": "26000 lbs (11,794 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "17.4 mph (27 kph)",
+            "PrimaryLocation": "outdoor"
+        }
+    }
+}

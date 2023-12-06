@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/777/40888",
+    "source_url_id": "40888",
+    "source_url_model": "777",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:39.785185",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "777",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "13.6 ft (4 m)",
+            "Dump Height": "30.6 ft (9 m)",
+            "Overall Height": "16.1 ft (5 m)",
+            "Overall Length": "32.2 ft (10 m)",
+            "Overall Width": "11.6 ft (3 m)",
+            "Wheelbase": "15 ft (5 m)"
+        },
+        "Dump": {
+            "Load Capacity - heaped": "67.1 cu yds (51 m)",
+            "Load Capacity - Struck": "47.5 cu yds (36 m)",
+            "Rated Payload": "170000 lbs (77,112 kg)"
+        },
+        "Engine": {
+            "Displacement": "1788 cu in (0 m)",
+            "Engine Model": "D348",
+            "Gross Power": "870 hp (649 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "250.2 gal (946 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Tire Size": "24x49 42 PR"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "170000 gal (643,450 l)"
+        },
+        "Transmission": {
+            "Max Speed": "36.3 mph (58 kph)"
+        },
+        "Weights": {
+            "Empty Weight": "124402.5 lbs (56,428 kg)",
+            "Loaded Weight": "294405.4 lbs (133,541 kg)"
+        }
+    }
+}

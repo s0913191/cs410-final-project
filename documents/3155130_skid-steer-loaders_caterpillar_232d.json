@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/caterpillar/232d/3155130",
+    "source_url_id": "3155130",
+    "source_url_model": "232d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:14.553452",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "232D",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "60 hp (45 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "1850 lbs (839 kg)",
+            "Operating Width": "60 in (152 cm)"
+        }
+    }
+}

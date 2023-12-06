@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/wacker-neuson/wl60t/30755141",
+    "source_url_id": "30755141",
+    "source_url_model": "wl60t",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:48.014225",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "WL60T",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "1.5 cu yds (1 m)",
+            "Tipping load Standard bucket": "7433.9 lbs (3,372 kg)"
+        },
+        "Dimensions": {
+            "Articulation Angle": "42 \t\u00b0",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Hinge Pin - Max Height": "5.3 ft (2 m)",
+            "Length with Bucket on Ground": "17.1 ft (5 m)",
+            "Overall length": "21 ft (6 m)",
+            "Reach at Max Lift and Dump": "3.1 ft (1 m)",
+            "Track Width": "56 in (142 cm)",
+            "Turning Radius - Inside": "6.5 ft (2 m)",
+            "Wheelbase": "7.2 ft (2 m)",
+            "Width Over Tires": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "207.4 cu in (0 m)",
+            "Engine Make": "Perkins",
+            "Engine Model": "854F-E34TA",
+            "Net Power": "102 hp (76 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26 gal/min (98 l/min)",
+            "Relief Valve Pressure": "3408.4 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "120  A",
+            "Fuel Capacity": "27.3 gal (102 l)",
+            "Hydraulic System Fluid Capacity": "100.3 gal (379 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "13448 lbs (6,100 kg)",
+            "Payload": "7433.9 lbs (3,372 kg)",
+            "Tire Size": "600/40-22.5 AS ET-50"
+        },
+        "Transmission": {
+            "Travel Speed": "12.4 mph (19 kph)"
+        }
+    }
+}

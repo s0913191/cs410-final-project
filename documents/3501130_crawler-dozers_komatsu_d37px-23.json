@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d37px-23/3501130",
+    "source_url_id": "3501130",
+    "source_url_model": "d37px-23",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:35.966899",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D37PX-23",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Length of Track on Ground": "7.4 ft (2 m)",
+            "Length w/ Blade": "14.1 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "199 cu in (0 m)",
+            "Engine Model": "SAA4D95LE-6",
+            "Gross Power": "91 hp (68 kw)",
+            "Make": "Komatsu",
+            "Model": "SAA4D95LE-6",
+            "Net Power": "89 hp (66 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26.2 gal/min (98 l/min)",
+            "Relief Valve Pressure": "3974 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Engine Oil Capacity": "3 gal (11 l)",
+            "Final Drives Fluid Capacity": "1 gal (4 l)",
+            "Fuel Capacity": "50.2 gal (189 l)",
+            "Hydraulic Fluid Capacity": "17 gal (64 l)",
+            "Operating Weight": "16887.5 lbs (7,660 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.3 mph (8 kph)",
+            "Max Speed - Reverse": "5.3 mph (8 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4148 cu in (0 m)",
+            "Ground Pressure": "4.7 psi",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "41",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "600 in (1,524 cm)",
+            "Track Gauge": "5.7 ft (2 m)"
+        }
+    }
+}

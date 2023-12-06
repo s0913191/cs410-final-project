@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/dynapac/pl600s/30753747",
+    "source_url_id": "30753747",
+    "source_url_model": "pl600s",
+    "source_url_make": "dynapac",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:54.522245",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Dynapac",
+    "equipment_model": "PL600S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Operating Length": "35.3 ft (11 m)",
+            "Shipping Height": "9.2 ft (3 m)",
+            "Shipping Width": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB 5.9-30-TAA",
+            "Gross Power": "173 hp (129 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Hydraulic System Fluid Capacity": "34.4 gal (129 l)",
+            "Operating Speed": "98.5 ft/min",
+            "Operating Weight - Full Load": "24400 lbs (11,068 kg)",
+            "Shipping Weight - Empty": "22800 lbs (10,342 kg)",
+            "Travel Speed": "3.8 mph (5 kph)",
+            "Water Spray System Fluid Capacity": "317.1 gal (1,200 l)"
+        },
+        "Rotary Cutter": {
+            "Cutter Diameter": "36.7 in (91 cm)",
+            "Cutting Depth": "11.9 in (28 cm)",
+            "Cutting Width": "2 ft (1 m)",
+            "Number of Tools": "62",
+            "Tool Spacing": "0.6 in (0 cm)"
+        },
+        "Track": {
+            "Number of Track Units": "0"
+        }
+    }
+}

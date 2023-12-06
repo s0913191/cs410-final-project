@@ -1,0 +1,103 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk500lc-9/30748377",
+    "source_url_id": "30748377",
+    "source_url_model": "sk500lc-9",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:56.405331",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK500LC-9",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Crowd Force - SAE": "48109.2 lbs (21,822 kg)",
+            "Arm Crowd Force-ISO": "50132.4 lbs (22,740 kg)",
+            "Bucket Digging Force": "52380.5 lbs (23,759 kg)",
+            "Bucket Digging Force - SAE": "59799.2 lbs (27,125 kg)",
+            "Max Cutting Height": "36.7 ft (11 m)",
+            "Max Digging Depth": "24.2 ft (7 m)",
+            "Max Digging Reach": "38.7 ft (12 m)",
+            "Max Dumping Clearance": "25.4 ft (8 m)",
+            "Max Reach Along Ground": "37.1 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "21.2 ft (6 m)",
+            "Min Dumping Clearance": "10.7 ft (3 m)",
+            "Minimum swing radius": "207.5 in (526 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Arm Crowd Force-ISO": "45636.3 lbs (20,700 kg)",
+            "Arm Crowd Force-SAE": "43837.8 lbs (19,884 kg)",
+            "Bucket Digging Force - ISO": "60024 lbs (27,227 kg)",
+            "Bucket Digging Force - SAE": "52605.3 lbs (23,862 kg)",
+            "Horizontal Digging Stroke - Ground": "20 ft (6 m)",
+            "Max Cutting Height": "35.1 ft (11 m)",
+            "Max Digging Depth": "25.7 ft (8 m)",
+            "Max Digging Reach": "39.7 ft (12 m)",
+            "Max Dumping Clearance": "24.1 ft (7 m)",
+            "Max Reach Along Ground": "38.1 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "23.4 ft (7 m)",
+            "Min Dumping Clearance": "9.2 ft (3 m)",
+            "Minimum swing radius": "202.4 in (513 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Arm Crowd Force-ISO": "40690.5 lbs (18,457 kg)",
+            "Arm Crowd Force-SAE": "39566.4 lbs (17,947 kg)",
+            "Bucket Digging Force - ISO": "59349.6 lbs (26,921 kg)",
+            "Bucket Digging Force - SAE": "52605.3 lbs (23,862 kg)",
+            "Horizontal Digging Stroke - Ground": "23.2 ft (7 m)",
+            "Max Cutting Height": "36.6 ft (11 m)",
+            "Max Digging Depth": "27.7 ft (8 m)",
+            "Max Dumping Clearance": "25.7 ft (8 m)",
+            "Max Reach Along Ground": "40.8 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "24.7 ft (7 m)",
+            "Min Dumping Clearance": "7.2 ft (2 m)",
+            "Minimum swing radius": "204.8 in (518 cm)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "38.5 ft (12 m)",
+            "Max Digging Depth": "44.3 ft (13 m)",
+            "Max Digging Reach": "50.1 ft (15 m)",
+            "Max Reach Along Ground": "43.7 ft (13 m)",
+            "Max Vertical Wall Dig Depth": "27.7 ft (8 m)",
+            "Minimum swing radius": "208.7 in (528 cm)"
+        },
+        "Dimensions": {
+            "Gradeability": "70%",
+            "Ground Clearance": "20.1 ft (6 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Overall Length": "39.8 in (99 cm)",
+            "Overall width -Upper Structure": "11.5 ft (3 m)",
+            "Tail Swing Radius": "12.3 ft (4 m)"
+        },
+        "Engine": {
+            "Bore": "4.9 in (10 cm)",
+            "Displacement": "642 cu in (0 m)",
+            "Engine Type": "Direct injection",
+            "Max Digging Reach": "47.1 ft (14 m)",
+            "Net Power": "345 hp (257 kw)",
+            "Power Measured @": "1850 rpm",
+            "Stroke": "6 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "195.5": "195.5 gal/min gal/min (738 l/min)",
+            "Pump Type": "Two variable displacement pumps and 1 gear pump"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "12.6 gal (45 l)",
+            "Engine Oil Capacity": "11.3 gal (42 l)",
+            "Fuel Capacity": "169.1 gal (640 l)",
+            "Hydraulic System Fluid Capacity": "142.2 gal (537 l)",
+            "Hydraulic System Relief Valve Pressure": "4550 psi",
+            "Operating Weight": "111333.5 lbs (50,500 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "7.8 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "93295.8 lbs (42,318 kg)",
+            "Ground Pressure": "8.4 psi",
+            "Max Travel Speed": "3.4 mph (5 kph)",
+            "Number of Shoes per Side": "50",
+            "Track Gauge": "9 ft (3 m)"
+        }
+    }
+}

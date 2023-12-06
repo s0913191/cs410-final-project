@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx40b/2712",
+    "source_url_id": "2712",
+    "source_url_model": "cx40b",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:06.476738",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX40B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "11.2 ft (3 m)",
+            "Max Reach Along Ground": "18.1 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8.7 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Length of Track on Ground": "6 ft (2 m)",
+            "Tail Swing Radius": "3.3 ft (1 m)",
+            "Width to Outside of Tracks": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "2190 cu in (0 m)",
+            "Engine Model": "4TNV88A-XYB",
+            "Max Torque": "102.8 lbs/ft",
+            "Net Power": "43 hp (32 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "1.6 gal (4 l)",
+            "Engine Oil Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "14.1 gal (53 l)",
+            "Hydraulic Pump Flow Capacity": "15.1 gal/min (57 l/min)",
+            "Hydraulic System Fluid Capacity": "16.7 gal (61 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.8 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Track Gauge": "5.2 ft (2 m)"
+        }
+    }
+}

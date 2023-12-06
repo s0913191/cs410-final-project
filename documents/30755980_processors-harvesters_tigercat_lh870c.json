@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/tigercat/lh870c/30755980",
+    "source_url_id": "30755980",
+    "source_url_model": "lh870c",
+    "source_url_make": "tigercat",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:21.491353",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "Tigercat",
+    "equipment_model": "LH870C",
+    "equipment_spec": {
+        "Boom": {
+            "Lift Capacity at Max Reach": "11816.8 lbs (5,360 kg)",
+            "Max Reach w/ Head": "30.9 ft (9 m)"
+        },
+        "Dimensions": {
+            "Forward Tilt": "20  \t\u00b0",
+            "Height - Top of Cab": "12.2 ft (4 m)",
+            "Overall Width": "11 ft (3 m)",
+            "Side Tilt": "16  \t\u00b0"
+        },
+        "Engine": {
+            "Engine Model": "QSL9",
+            "Gross Power": "300 hp (224 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "110  A",
+            "Fuel Capacity": "256.3 gal (969 l)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "79200 lbs (35,925 kg)"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "24.1 in (61 cm)",
+            "Track Length": "15.6 ft (5 m)",
+            "Track Pitch": "8.5 in (20 cm)"
+        }
+    }
+}

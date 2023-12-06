@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/terex/pt-75/30760107",
+    "source_url_id": "30760107",
+    "source_url_model": "pt-75",
+    "source_url_make": "terex",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:30.748284",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "PT-75",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "71 hp (53 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "6200 lbs (2,812 kg)",
+            "Operating Width": "70 in (178 cm)"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/fendt/308-ci/30751220",
+    "source_url_id": "30751220",
+    "source_url_model": "308-ci",
+    "source_url_make": "fendt",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:16:23.874165",
+    "equipment_category": "Tractors",
+    "equipment_make": "Fendt",
+    "equipment_model": "308 Ci",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.9 in (46 cm)",
+            "Height": "8.6 ft (2 m)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.9 ft (2 m)",
+            "Overall Length": "13.2 in (33 cm)",
+            "Overall Width": "7.1 ft (2 m)",
+            "Wheelbase": "7.9 ft (2 m)",
+            "Width Outside Frame": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, intercooler",
+            "Displacement": "246.5 cu in (0 m)",
+            "Gross Power": "96.6 hp (72 kw)",
+            "Max Torque": "315.7 lbs/ft",
+            "Net Power": "88.6 hp (66 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1500 rpm",
+            "Torque Rise": "45%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "18.5 gal/min (68 l/min)",
+            "Relief Valve Pressure": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "29.1 gal (110 l)",
+            "Operating Weight": "8487.8 lbs (3,850 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "21",
+            "Number of Reverse Gears": "6"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/sunward/swl3210/30175261",
+    "source_url_id": "30175261",
+    "source_url_model": "swl3210",
+    "source_url_make": "sunward",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:04.595959",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Sunward",
+    "equipment_model": "SWL3210",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.9 ft (2 m)",
+            "Ground Clearance": "8.1 in (20 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length w/o Bucket": "9.1 ft (3 m)",
+            "Length with Bucket": "11.8 ft (3 m)",
+            "Reach at Max Lift and Dump": "24.7 in (61 cm)",
+            "Turning Radius from Center - inc bucket": "85.9 in (216 cm)",
+            "Turning Radius from Center - machine rear": "67 in (170 cm)",
+            "Wheelbase": "3.7 ft (1 m)",
+            "Width Over Tires": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V3300DI",
+            "Gross Power": "73.7 hp (54 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "33 gal/min (125 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "3626 psi"
+        },
+        "Loader": {
+            "Breakout Force": "5357.3 psi",
+            "Bucket Capacity": "0.7 cu yds (0 m)",
+            "Operating Load Rating": "2094.4 lbs (950 kg)",
+            "Tipping Angle": "4188.8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Chain Box Fluid Capacity - each side": "8 gal (30 l)",
+            "Cooling System Fluid Capacity": "2.3 gal (8 l)",
+            "Engine Oil Fluid Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "22.5 gal (83 l)",
+            "Hydraulic System Fluid Capacity": "17.2 gal (64 l)",
+            "Max Speed": "7.9 mph (11 kph)",
+            "Operational Weight": "7165.1 lbs (3,250 kg)",
+            "Tire Size": "12-16.5"
+        }
+    }
+}

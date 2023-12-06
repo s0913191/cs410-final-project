@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hm400-3/30671070",
+    "source_url_id": "30671070",
+    "source_url_model": "hm400-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:34.220856",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HM400-3",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "28.9 ft (9 m)",
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Overall Height": "12.3 ft (4 m)",
+            "Overall Length": "36.5 ft (11 m)",
+            "Overall Width": "11.4 ft (3 m)",
+            "Wheelbase": "9.8 ft (3 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6WD"
+        },
+        "Dump": {
+            "Capacity - Heaped": "24 cu yds (18 m)",
+            "Capacity - Struck": "18.2 cu yds (14 m)",
+            "Rated Payload": "40 t (36,287 kg)"
+        },
+        "Engine": {
+            "Displacement": "15.3 cu in (0 m)",
+            "Engine Model": "Komatsu SAA6D140E-5",
+            "Gross Power": "338 hp (252 kw)",
+            "Make": "Komatsu",
+            "Model": "SAA6D140E-6",
+            "Net Power": "334 hp (249 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "518 gal (1,961 l)",
+            "Tire Size": "29.5R25"
+        },
+        "Transmission": {
+            "Max Speed": "58.5 mph (93 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Auto"
+        },
+        "Weights": {
+            "Operating Weight": "162569 lbs (73,741 kg)",
+            "Total Empty": "43 lbs (20 kg)",
+            "Total Loaded": "71 lbs (32 kg)"
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/444k/18551",
+    "source_url_id": "18551",
+    "source_url_model": "444k",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:48:16.656196",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "444K",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "17549 lbs (7,960 kg)",
+            "Bucket Capacity - Smallest": "2.5 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "8.8 ft (2 m)",
+            "Largest bucket capacity": "4.1 cu yds (3 m)"
+        },
+        "Capacities": {
+            "Heaped Capacity": "2.5 cu yds (2 m)",
+            "Hydraulic Tank": "31.4 gal (117 l)",
+            "Transmission": "4.9 gal (15 l)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Hinge Pin - Max Height": "11.9 ft (3 m)",
+            "Length with Bucket on Ground": "22.6 ft (7 m)",
+            "Reach at Max Lift and Dump": "4.8 ft (1 m)",
+            "Turning Circle": "38.3 ft (12 m)",
+            "Wheelbase": "9.1 ft (3 m)",
+            "Width Over Tires": "8 ft (2 m)"
+        },
+        "Driveline": {
+            "Differential lock": "Front- Locking, Rear- Open",
+            "Parking Brake Type": "Wet Multi Disc",
+            "Ride control system": "Optional",
+            "Service Brake - Location": "All Wheels",
+            "Service Brake Actuation": "Hydraulic",
+            "Service Brake Type": "Wet Multi Disc",
+            "Tire size - Standard": "17.5 R25"
+        },
+        "Engine": {
+            "Alternator": "100 A",
+            "Displacement": "274.7 cu in (0 m)",
+            "Emission level": "Tier 4",
+            "Engine Make": "John Deere",
+            "Engine Model": "PowerTech PSS 4045",
+            "Engine Output-Net": "123.4 hp (92 kw)",
+            "Make": "Deere PowerTech",
+            "Model": "PVX 4045",
+            "Net Power": "124 hp (92 kw)",
+            "Pump": "Piston",
+            "Rated Speed": "2100 rpm",
+            "System Voltage": "24 V",
+            "Torque": "374 lbs/ft",
+            "Torque Rise": "34%",
+            "Transmission Type": "Powershift"
+        },
+        "Operating Specifications": {
+            "Front Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Operating Weight": "25022.5 lbs (11,350 kg)",
+            "Rated Bucket Capacity": "2.0 cu yds (2 m)",
+            "Rear Axle/Diff Fluid Capacity": "5.9 gal (19 l)"
+        },
+        "Transmission": {
+            "Pump Flow": "37 gal/min (140 l/min)",
+            "System Pressure": "248.3 psi"
+        },
+        "Weights": {
+            "Operational Weight": "24698 lbs (11,203 kg)"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/hs4388rt/30758124",
+    "source_url_id": "30758124",
+    "source_url_model": "hs4388rt",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:36.272805",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HS4388RT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,103 lbs (500 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "48.8 ft (15 m)",
+            "Gradeability": "45%",
+            "Ground Clearance": "14 in (36 cm)",
+            "Overall Length": "166.8 in (422 cm)",
+            "Overall Width": "7.5 ft (2 m)",
+            "Platform Size": "19.7x6.1 ft (6 m)",
+            "Stowed Height": "9.1 ft (3 m)",
+            "Stowed Width": "7.4 ft (2 m)",
+            "Turning Radius": "16.3 ft (5 m)",
+            "Wheelbase": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "95",
+            "Fuel Type": "Diesel",
+            "Gross Power": "31.4 hp (23 kw)",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Fuel Capacity": "17 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "26 gal (98 l)",
+            "Max Speed": "3.6 mph (5 kph)",
+            "Operating Weight": "13892 lbs (6,301 kg)",
+            "Tire Fill/Type": "Foam",
+            "Tire Size": "10-16.5"
+        },
+        "Platform": {
+            "Deck Extension": "78 in (198 cm)",
+            "Extended platform length": "19.8 ft (6 m)",
+            "Lift Time": "46 sec",
+            "Lower Time": "57 sec",
+            "Max Platform Height": "42.8 ft (13 m)",
+            "Max Platform Weight Capacity": "1103 lbs (500 kg)",
+            "Max Working Height": "48.8 ft (15 m)",
+            "Number of Extensions": "2",
+            "Platform Extension Length": "3.3 in (8 cm)",
+            "Platform Inner Length": "157.2 in (399 cm)",
+            "Platform Inner Width": "74.4 in (188 cm)"
+        },
+        "Tires": {
+            "Tire Size": "10-16.5"
+        },
+        "Transmission": {
+            "4WD": "yes"
+        }
+    }
+}

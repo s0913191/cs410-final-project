@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/clark/475c/30755391",
+    "source_url_id": "30755391",
+    "source_url_model": "475c",
+    "source_url_make": "clark",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:25.290179",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Clark",
+    "equipment_model": "475C",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "95633.8 lbs (43,379 kg)",
+            "Bucket Capacity - heaped": "12.1 cu yds (9 m)",
+            "Bucket Capacity - struck": "9.9 cu yds (7 m)",
+            "Bucket Width": "14.7 ft (4 m)",
+            "Dump Clearance at Max Raise": "15.5 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height - Top of Cab": "16.1 ft (5 m)",
+            "Hinge Pin - Max Height": "20.6 ft (6 m)",
+            "Length with Bucket on Ground": "40.9 ft (12 m)",
+            "Reach at Max Lift and Dump": "6 ft (2 m)",
+            "Wheelbase": "15.2 ft (5 m)",
+            "Width Over Tires": "13.6 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "1708.7 cu in (0 m)",
+            "Engine Model": "VTA-1710C",
+            "Gross Power": "700.1 hp (522 kw)",
+            "Net Power": "630.3 hp (470 kw)",
+            "Number of Cylinders": "12",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "3.7 sec",
+            "Lower Time": "6.3 sec",
+            "Pump Flow Capacity": "230.9 gal/min (871 l/min)",
+            "Pump Type": "three gear type",
+            "Raise Time": "12 sec",
+            "Relief Valve Setting": "2700 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Cooling System Fluid Capacity": "60 gal (227 l)",
+            "Engine Oil Fluid Capacity": "27 gal (102 l)",
+            "Front Axle/Diff Fluid Capacity": "29.1 gal (110 l)",
+            "Fuel Capacity": "273 gal (1,033 l)",
+            "Hydraulic System Fluid Capacity": "150 gal (568 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "167763 lbs (76,097 kg)",
+            "Rear Axle Oscillation": "20  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "29.1 gal (110 l)",
+            "Static Tipping Weight": "101550 lbs (46,063 kg)",
+            "Tire Size": "41.25/70-39 34PR",
+            "Transmission Fluid Capacity": "33 gal (125 l)",
+            "Turning Radius": "34.3 ft (10 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "18.6 mph (29 kph)",
+            "Max Speed - Reverse": "18.6 mph (29 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Clark countershaft powershift"
+        }
+    }
+}

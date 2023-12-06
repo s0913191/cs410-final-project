@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t9020/53676",
+    "source_url_id": "53676",
+    "source_url_model": "t9020",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:03.442894",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T9.020",
+    "equipment_spec": {
+        "Axles": {
+            "Axle Diameter": "4.1 in (10 cm)",
+            "Final Drive": "Inboard 3-planetary"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.9 ft (3 m)",
+            "Overall Length": "23 in (58 cm)",
+            "Tire Size": "20.8R42",
+            "Wheelbase": "11.6 ft (3 m)",
+            "Width Outside Frame": "3.1 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, air to air after cooled",
+            "Displacement": "549.3 cu in (0 m)",
+            "Gross Power": "368 hp (274 kw)",
+            "Net Power": "335 hp (250 kw)",
+            "Power Measured @": "1800 rpm",
+            "Torque Rise": "35%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "40 gal/min (151 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "15668.3 lbs (7,107 kg)",
+            "3 Point Hitch Type": "Cat IV-N/III",
+            "Alternator Supplied Amperage": "150  A",
+            "Cooling System Fluid Capacity": "12.5 gal (45 l)",
+            "Drawbar Static Vertical Load Rating": "4499.7 lbs (2,041 kg)",
+            "Engine Oil Capacity": "7.4 gal (27 l)",
+            "Fuel Capacity": "200 gal (757 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "39599.5 lbs (17,962 kg)",
+            "Turning Radius": "15.1 ft (5 m)"
+        },
+        "Production": {
+            "Series": "T9000 Series",
+            "Years Manufactured": "2007 - 2010"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "powershift"
+        }
+    }
+}

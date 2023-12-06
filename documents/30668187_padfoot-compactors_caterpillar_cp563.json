@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/caterpillar/cp563/30668187",
+    "source_url_id": "30668187",
+    "source_url_model": "cp563",
+    "source_url_make": "caterpillar",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:26.691342",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CP563",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Width": "9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length w/ Blade": "17.3 ft (5 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "50000 lbs (22,680 kg)",
+            "Centrifugal Force - Low": "35000 lbs (15,876 kg)",
+            "Drum Diameter": "61 in (155 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "3116",
+            "Gross Power": "145 hp (108 kw)"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "67.1 gal (254 l)",
+            "Hydraulic System Fluid Capacity": "34.9 gal (129 l)",
+            "Max Speed": "8 mph (13 kph)",
+            "Operating Weight": "25529.6 lbs (11,580 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1x26"
+        }
+    }
+}

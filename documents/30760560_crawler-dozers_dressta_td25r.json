@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td25r/30760560",
+    "source_url_id": "30760560",
+    "source_url_model": "td25r",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:09.714474",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD25R",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSX 15  (Tier IV interim)",
+            "Net Power": "330 hp (246 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "90720 lbs (41,150 kg)"
+        }
+    }
+}

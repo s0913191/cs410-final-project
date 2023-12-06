@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/ap1050/28517342",
+    "source_url_id": "28517342",
+    "source_url_model": "ap1050",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:57.803544",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "AP1050",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length of Track on Ground": "10.1 ft (3 m)",
+            "Length w/ Screed": "21.3 ft (6 m)",
+            "Track Width": "14.1 in (36 cm)",
+            "Transport Height": "8.9 ft (2 m)",
+            "Transport Width": "10 ft (3 m)",
+            "Width w/ Hopper Open": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo",
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "3116 Turbo",
+            "Gross Power": "145 hp (108 kw)"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "16 in (41 cm)",
+            "Hopper Capacity": "7.9 lbs (3 kg)",
+            "Paving Speed - max": "186.1 ft/min",
+            "Paving Width - max": "30 ft (9 m)",
+            "Travel Speed - max": "5 mph (8 kph)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "7.5 gal (27 l)",
+            "Fuel Capacity": "60.9 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "39.7 gal (148 l)",
+            "Operating Weight w/ Screed": "38801.4 lbs (17,600 kg)",
+            "Operating Weight w/o Screed": "35800.9 lbs (16,239 kg)"
+        }
+    }
+}

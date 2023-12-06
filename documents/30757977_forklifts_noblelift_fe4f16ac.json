@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/noblelift/fe4f16ac/30757977",
+    "source_url_id": "30757977",
+    "source_url_model": "fe4f16ac",
+    "source_url_make": "noblelift",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:38:21.706780",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Noblelift",
+    "equipment_model": "FE4F16AC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.4 in (5 cm)",
+            "Height to Top of Overhead Guard": "7 ft (2 m)",
+            "Length to Fork Face": "6.6 ft (2 m)",
+            "Max Fork Height": "9.9 ft (3 m)",
+            "Overall Height - mast lowered": "6.6 ft (2 m)",
+            "Overall Width": "3.6 ft (1 m)",
+            "Turning Radius": "6.3 ft (2 m)",
+            "Wheelbase": "4.2 ft (1 m)"
+        },
+        "Engine": {
+            "Fuel Type": "electric",
+            "Power": "10.8 hp (7 kw)"
+        },
+        "MAST": {
+            "Lift Speed": "72.9 ft/min",
+            "Load Capacity": "3527.4 lbs (1,600 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Lower Speed": "82.7 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0",
+            "Max Fork Spread": "36.3 in (91 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "9.4 mph (14 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "6627.1 lbs (3,006 kg)",
+            "Tire Type": "front 6.50-10-10PR rear 5.00-8-8PR"
+        }
+    }
+}

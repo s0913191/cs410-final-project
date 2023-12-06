@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/b3030hsdc/30716443",
+    "source_url_id": "30716443",
+    "source_url_model": "b3030hsdc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:26:29.790413",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "B3030HSDC",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "spur gear"
+        },
+        "Dimensions": {
+            "Ground Clearance": "14.6 in (36 cm)",
+            "Overall Length": "8.7 in (20 cm)",
+            "Tire Size": "front 7-12 rear 12.4-16",
+            "Wheelbase": "5.5 ft (2 m)",
+            "Width Outside Frame": "4.5 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "E-TVCS liquid cooled",
+            "Displacement": "91.5 cu in (0 m)",
+            "Engine Model": "V1505-E2-D21-Q",
+            "Gross Power": "30 hp (22 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "23 hp (17 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "9.2 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1675.6 lbs (760 kg)",
+            "3 Point Hitch Type": "cat. I",
+            "Cooling System Fluid Capacity": "1.2 gal (4 l)",
+            "Engine Oil Capacity": "1.1 gal (4 l)",
+            "Fuel Capacity": "8.2 gal (30 l)",
+            "Operating Weight": "2270.8 lbs (1,030 kg)",
+            "Turning Radius": "6.9 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "12.2 mph (19 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "HST 3 range"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex-american/stinger-4400/30836147",
+    "source_url_id": "30836147",
+    "source_url_model": "stinger-4400",
+    "source_url_make": "terex-american",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:18.994104",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex American",
+    "equipment_model": "STINGER 4400",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "41.1 ft (13 m)",
+            "Max Lift Capacity": "19.9 t (17,237 kg)"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-110/30679528",
+    "source_url_id": "30679528",
+    "source_url_model": "hd-110",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:55.282682",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 110",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "31.2 in (79 cm)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Maximum width": "5839.9 ft (1,780 m)",
+            "Overall Length": "15.1 in (38 cm)",
+            "Overall Width": "6 ft (2 m)",
+            "Turning Radius - Inside": "13 ft (4 m)",
+            "Wheelbase": "133.9 in (338 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "26977.1 lbs (12,237 kg)",
+            "Centrifugal Force - Low": "22256.1 lbs (10,095 kg)",
+            "Drum Diameter": "47.3 in (119 cm)",
+            "Drum thickness": "0.9 in (0 cm)",
+            "Drum Type": "Smooth/non-divided",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "176.4 lbs/in",
+            "Vibration Frequency 1": "42 hz (2,520 vpm)",
+            "Vibration Frequency 2": "50 hz (3,000 vpm)"
+        },
+        "Engine": {
+            "Emissions Certification": "EPA Tier 3",
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 2012 L04 2V",
+            "Gross Power": "134.2 hp (100 kw)",
+            "Net Power": "134.2 hp (100 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "48.9 gal (182 l)",
+            "Operating Weight": "29057 lbs (13,180 kg)",
+            "Operating weight Cabin": "23214.7 lbs (10,530 kg)",
+            "Operating weight ROPS": "22630.5 lbs (10,265 kg)",
+            "Oscillating angle": "10  \t\u00b0",
+            "Water Spray System Fluid Capacity": "237.8 gal (897 l)"
+        },
+        "Speeds": {
+            "Speed -  transportation gear": "9.2 mph (14 kph)",
+            "Speed -  working gear": "4.6 mph (6 kph)"
+        }
+    }
+}

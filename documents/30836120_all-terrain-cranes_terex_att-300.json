@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/att-300/30836120",
+    "source_url_id": "30836120",
+    "source_url_model": "att-300",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:16.528278",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "ATT 300",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "147.6 ft (45 m)",
+            "Max Lift Capacity": "30 t (27,216 kg)"
+        }
+    }
+}

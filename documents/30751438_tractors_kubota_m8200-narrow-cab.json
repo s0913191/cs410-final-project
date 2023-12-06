@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m8200-narrow-cab/30751438",
+    "source_url_id": "30751438",
+    "source_url_model": "m8200-narrow-cab",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:45.168274",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M8200 Narrow CAB",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "inboard planetary"
+        },
+        "Dimensions": {
+            "Ground Clearance": "12.3 in (30 cm)",
+            "Height - Top of Cab": "7.5 ft (2 m)",
+            "Overall Length": "11.2 in (28 cm)",
+            "Tire Size": "front 8.0-16R1 rear 12.4R24 radial",
+            "Wheelbase": "6.6 ft (2 m)",
+            "Width Outside Frame": "3.4 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "E-TVCS liquid cooled",
+            "Displacement": "202 cu in (0 m)",
+            "Engine Model": "V3300-TE",
+            "Net Power": "82 hp (61 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "73 hp (54 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.1 gal/min (64 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3307 lbs (1,500 kg)",
+            "3 Point Hitch Type": "Cat I with Cat II link ends",
+            "Cooling System Fluid Capacity": "2.4 gal (8 l)",
+            "Engine Oil Capacity": "2.9 gal (8 l)",
+            "Fuel Capacity": "20.7 gal (76 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "4740 lbs (2,150 kg)",
+            "Turning Radius": "10.5 ft (3 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "fully synchronized"
+        }
+    }
+}

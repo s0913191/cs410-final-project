@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/daewoo/solar-175lc-v/8785",
+    "source_url_id": "8785",
+    "source_url_model": "solar-175lc-v",
+    "source_url_make": "daewoo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:51.463462",
+    "equipment_category": "Excavators",
+    "equipment_make": "Daewoo",
+    "equipment_model": "SOLAR 175LC V",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "20.4 ft (6 m)",
+            "Digging Reach": "20.4 ft (6 m)"
+        },
+        "Engine": {
+            "Net Power": "118 hp (88 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "38360 lbs (17,400 kg)"
+        }
+    }
+}

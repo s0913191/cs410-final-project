@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/felling-trailers-inc/ft-14t/38521",
+    "source_url_id": "38521",
+    "source_url_model": "ft-14t",
+    "source_url_make": "felling-trailers-inc",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:45.523702",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Felling Trailers, Inc.",
+    "equipment_model": "FT-14T",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "18 ft (5 m)"
+        },
+        "Weights": {
+            "Equipment Weight": "3300 lbs (1,497 kg)",
+            "Weight Capacity": "14000 lbs (6,350 kg)"
+        }
+    }
+}

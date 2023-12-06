@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/mecalac/tlb840r/30750404",
+    "source_url_id": "30750404",
+    "source_url_model": "tlb840r",
+    "source_url_make": "mecalac",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:03.586292",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Mecalac",
+    "equipment_model": "TLB840R",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14.5 ft (4 m)",
+            "Load Height": "11.8 ft (3 m)",
+            "Reach From Swivel": "18.7 ft (5 m)"
+        },
+        "Dimensions": {
+            "Dump Angle": "45 \t\u00b0",
+            "Hinge pin height, maximum height": "133.9 in (338 cm)",
+            "Loading height (EVW)": "10.4 ft (3 m)",
+            "Reach @ ground level": "5003.3 ft (1,525 m)"
+        },
+        "Engine": {
+            "Displacement": "219.7 cu in (0 m)",
+            "Engine Model": "TCD 3.6 L4",
+            "Gross Power": "74 hp (55 kw)",
+            "Net Power": "69.9 hp (51 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "22 gal/min (83 l/min)",
+            "Relief Valve Pressure": "3626 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "9442 lbs (4,283 kg)",
+            "Bucket Capacity": "3680 cu yds (2,813 m)",
+            "Lift Capacity": "8287 lbs (3,759 kg)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Front Axle Fluid Capacity": "1.9 gal (4 l)",
+            "Fuel Capacity": "37 gal (140 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "16137.9 lbs (7,320 kg)",
+            "Rear Axle Fluid Capacity": "4.6 gal (15 l)"
+        },
+        "Transmission": {
+            "Max Speed": "24 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

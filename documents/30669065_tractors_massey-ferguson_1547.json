@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/1547/30669065",
+    "source_url_id": "30669065",
+    "source_url_model": "1547",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:07.750210",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "1547",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.8 in (36 cm)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "7.6 ft (2 m)",
+            "Overall Length": "11.1 in (28 cm)",
+            "Overall Width": "5.6 ft (2 m)",
+            "Track Width": "61.7 in (155 cm)",
+            "Wheelbase": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134.1 cu in (0 m)",
+            "Gross Power": "59.1 hp (44 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "PTO Power": "46.4 hp (34 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "439 gal/min (1,662 l/min)",
+            "Relief Valve Setting": "16.5 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3483.4 lbs (1,580 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Operating Weight": "3597 lbs (1,632 kg)"
+        },
+        "Production": {
+            "Series": "1500 Series",
+            "Years Manufactured": "2005 - 2008"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8"
+        }
+    }
+}

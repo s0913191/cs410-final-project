@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/daewoo/mega-300-v/8822",
+    "source_url_id": "8822",
+    "source_url_model": "mega-300-v",
+    "source_url_make": "daewoo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:32.795806",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Daewoo",
+    "equipment_model": "MEGA 300 V",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "40785 lbs (18,500 kg)",
+            "Bucket Capacity - heaped": "4 cu yds (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Hinge Pin - Max Height": "13.2 ft (4 m)",
+            "Length with Bucket on Ground": "26.6 ft (8 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.4 in (10 cm)",
+            "Displacement": "492.5 cu in (0 m)",
+            "Engine Model": "DE08TIS",
+            "Gross Power": "209.2 hp (156 kw)",
+            "Net Torque": "665.3 lbs/ft",
+            "Power Measured @": "2100 rpm",
+            "Starter": "8.9 hp (6 kw)",
+            "Stroke": "5.5 in (13 cm)",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "72.7 gal/min (273 l/min)",
+            "Pump Type": "gear type",
+            "Relief Valve Setting": "2845 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Front Axle/Diff Fluid Capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Hydraulic System Fluid Capacity": "55.5 gal (208 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "83383.3 lbs (37,822 kg)",
+            "Rear Axle/Diff Fluid Capacity": "8 gal (30 l)",
+            "Tire Size": "23.5 - 25 - 16PR - L3",
+            "Turning Radius": "42 ft (13 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.1 mph (34 kph)",
+            "Max Speed - Reverse": "21.1 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full auto power-shift countershaft"
+        }
+    }
+}

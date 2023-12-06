@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/valtra/vineyard-3500-v/30751107",
+    "source_url_id": "30751107",
+    "source_url_model": "vineyard-3500-v",
+    "source_url_make": "valtra",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:19.216819",
+    "equipment_category": "Tractors",
+    "equipment_make": "Valtra",
+    "equipment_model": "Vineyard 3500 V",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "7.6 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.6 ft (2 m)",
+            "Overall Length": "9.5 in (23 cm)",
+            "Tire Size": "6.50-16",
+            "Wheelbase": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Engine Model": "Deutz",
+            "Gross Power": "76 hp (57 kw)",
+            "Max Torque": "131.3 lbs/ft",
+            "Net Power": "76 hp (57 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2350 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "16.7 gal/min (61 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5456.5 lbs (2,475 kg)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "5489.6 lbs (2,490 kg)",
+            "Tire Size Front - 2wd / 4wd": "5.5-15",
+            "Turning Radius": "12.8 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "11.2R28"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "24+24 speeds with splitter and synchronized forward reverse shuttle"
+        }
+    }
+}

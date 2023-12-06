@@ -1,0 +1,89 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/volvo/mc60c/36157",
+    "source_url_id": "36157",
+    "source_url_model": "mc60c",
+    "source_url_make": "volvo",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:37.895583",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "MC60C",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout force, curl": "4012.5 lbs (1,820 kg)",
+            "Breakout force, lift": "3174.7 lbs (1,440 kg)",
+            "General Purpose Bucket Heaped": "0.5 cu yds (0 m)",
+            "General Purpose Bucket Height": "1.8 ft (0 m)",
+            "General Purpose Bucket Length": "2.7 ft (1 m)",
+            "General Purpose Bucket Weight": "299.9 lbs (136 kg)",
+            "General Purpose Bucket Width": "4.6 ft (1 m)",
+            "Landscape Bucket Heaped cap": "0.6 cu yds (0 m)",
+            "Landscape Bucket Height": "1.8 ft (0 m)",
+            "Landscape Bucket Length": "3.2 ft (1 m)",
+            "Landscape Bucket Weight": "0.3 cu in (0 m)",
+            "Landscape Bucket Width": "4.6 ft (1 m)",
+            "Multi Purpose Bucket Heaped cap": "0.5 cu yds (0 m)",
+            "Multi Purpose Bucket Height": "2.3 ft (1 m)",
+            "Multi Purpose Bucket Length": "3.2 ft (1 m)",
+            "Multi Purpose Bucket Weight": "447.6 lbs (203 kg)",
+            "Multi Purpose Bucket Width": "4.6 ft (1 m)"
+        },
+        "Capacities": {
+            "Cooling system": "2.7 gal (8 l)",
+            "Engine oil w/ filter change": "2.6 gal (8 l)",
+            "Fuel Tank": "25.9 gal (95 l)",
+            "Hydraulic oil reservoir": "26 gal (98 l)",
+            "Hydraulic system": "43.5 gal (163 l)"
+        },
+        "Dimensions": {
+            "Angle of departure": "25  \t\u00b0",
+            "Attachment roll back angle": "30  \t\u00b0",
+            "Dump angle": "42  \t\u00b0",
+            "Dump Height": "0.3 ft (0 m)",
+            "Dump reach": "22.1 in (56 cm)",
+            "Ground Clearance": "8.3 in (20 cm)",
+            "Height to Hinge Pin": "4.7 in (10 cm)",
+            "Overall height": "6.5 ft (2 m)",
+            "Overall length (L/bucket)": "9 ft (3 m)",
+            "Overall length (W/bucket)": "11.5 ft (3 m)",
+            "Turning Radius": "5.5 ft (2 m)",
+            "Turning radius front L/bucket": "3.4 ft (1 m)",
+            "Turning radius front W/bucket": "6.9 ft (2 m)",
+            "Wheelbase": "3.6 ft (1 m)"
+        },
+        "Engine": {
+            "Alternator": "288000 A",
+            "Aspiration": "Turbo",
+            "Battery": "12 - 109 (V - Ah)",
+            "Displacement": "113.5 cu in (0 m)",
+            "Engine Model": "KDI 1903 TCR",
+            "Fuel Type": "Diesel",
+            "Gross horsepower - SAE J1995": "36 hp (27 kw)",
+            "Gross Power": "35.5 hp (26 kw)",
+            "Max Torque": "166 lbs/ft",
+            "Number of Cylinders": "3",
+            "Starter": "2.8 hp (1 kw)"
+        },
+        "Loader": {
+            "Bucket Width": "60 in (152 cm)",
+            "Operating Load Rating": "1350 lbs (612 kg)",
+            "Operating Width": "59.8 in (150 cm)",
+            "Standard hydraulic pump output": "18.5 gal/min (68 l/min)",
+            "System pressure": "230 psi"
+        },
+        "Performance": {
+            "Curl": "1.4 sec",
+            "Dump": "1.8 sec",
+            "Lift arm path": "Radial",
+            "Lower (power down)": "1.4 sec",
+            "Raise (lifting)": "2.8 sec",
+            "Rated operating capacity (ISO 14397)": "2989.5 lbs (1,356 kg)"
+        },
+        "Speeds": {
+            "Single speed": "12 mph (19 kph)"
+        },
+        "Weights": {
+            "Weight": "6153.2 lbs (2,791 kg)"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/580/30750975",
+    "source_url_id": "30750975",
+    "source_url_model": "580",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:25.691519",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "580",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "12.9L 6-cyl diesel",
+            "Gross Power": "580 hp (433 kw)",
+            "Net Power": "638 hp (476 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "42 gal/min (159 l/min)",
+            "Pump type": "prpessure flow compensated"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "470 gal (1,779 l)",
+            "Operating Weight": "48780 lbs (22,127 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "25 mph (40 kph)",
+            "Max Speed - Reverse": "9 mph (14 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "full power shift"
+        }
+    }
+}

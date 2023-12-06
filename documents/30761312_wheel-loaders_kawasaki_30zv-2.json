@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/30zv-2/30761312",
+    "source_url_id": "30761312",
+    "source_url_model": "30zv-2",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:06.707524",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "30ZV-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Kubota",
+            "Model": "D1803-M-DI",
+            "Net Power": "29.8 hp (22 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "0.52 cu yds (0 m)"
+        }
+    }
+}

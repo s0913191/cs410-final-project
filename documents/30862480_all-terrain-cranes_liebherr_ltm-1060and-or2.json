@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1060and-or2/30862480",
+    "source_url_id": "30862480",
+    "source_url_model": "ltm-1060and-or2",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:46.637122",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1060/2",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "137.8 ft (42 m)",
+            "Min Height @ Max Raise Angle": "35.8 ft (11 m)",
+            "Number of Sections": "5"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "362.1 hp (270 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "1217 lbs/ft",
+            "Model": "D 926 TI-E A4",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "33.3 ft (10 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Transport Height": "12.4 ft (4 m)",
+            "Transport Length": "40.9 ft (12 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13 ft (4 m)",
+            "Width w/ Outriggers Extended": "20.7 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "92.5 gal (348 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14.00 R 25"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "ZF automatic"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Liebherr"
+        }
+    }
+}

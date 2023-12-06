@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tms-tts870/30758423",
+    "source_url_id": "30758423",
+    "source_url_model": "tms-tts870",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:37.744203",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TMS-TTS870",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "110 ft (34 m)",
+            "Max Working Radius": "17 ft (5 m)",
+            "Min Height @ Max Raise Angle": "36 ft (11 m)",
+            "Min Working Radius": "9.4 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Aspiration": "Turbochanged",
+            "Displacement": "661 cu in (0 m)",
+            "Gross Power": "399.7 hp (298 kw)",
+            "Make": "Grove",
+            "Max Torque": "1450.1 lbs/ft",
+            "Model": "Cummins MII 400E Plus diesel",
+            "Number of cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "38.8 ft (12 m)",
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Transport Height": "11.3 ft (3 m)",
+            "Transport Length": "43 ft (13 m)",
+            "Transport Width": "8.6 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13.9 ft (4 m)",
+            "Width w/ Outriggers Extended": "15.5 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "99.4 gal (375 l)",
+            "Carrier Hydraulic System Fluid Capacity": "170 gal (643 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "8501.1 lbs (3,856 kg)",
+            "Tire Size": "445/65R 22.5"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "55 mph (89 kph)"
+        }
+    }
+}

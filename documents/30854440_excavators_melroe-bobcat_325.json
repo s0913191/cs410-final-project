@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/melroe-bobcat/325/30854440",
+    "source_url_id": "30854440",
+    "source_url_model": "325",
+    "source_url_make": "melroe-bobcat",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:16:24.842903",
+    "equipment_category": "Excavators",
+    "equipment_make": "Melroe Bobcat",
+    "equipment_model": "325",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "8.3 ft (2 m)",
+            "Digging Reach": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Net Power": "27.5 hp (20 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "5760 lbs (2,613 kg)"
+        }
+    }
+}

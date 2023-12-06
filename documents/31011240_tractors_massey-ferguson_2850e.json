@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/2850e/31011240",
+    "source_url_id": "31011240",
+    "source_url_model": "2850e",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:28.202709",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2850E",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "28 hp (21 kw)"
+        },
+        "Production": {
+            "Series": "2800E Series",
+            "Years Manufactured": "2020 -"
+        }
+    }
+}

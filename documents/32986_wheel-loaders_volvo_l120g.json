@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l120g/32986",
+    "source_url_id": "32986",
+    "source_url_model": "l120g",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:34.907472",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L120G",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Volvo",
+            "Model": "D8H (Tier 4i)",
+            "Net Power": "267 hp (199 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.5 - 12.40 cu yds (2 - 9 m)"
+        },
+        "Weights": {
+            "Operational Weight": "42460 lbs (19,260 kg)"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/bx2350/23134",
+    "source_url_id": "23134",
+    "source_url_model": "bx2350",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:26:48.188704",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "BX2350",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "spud gear"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.8 in (0 cm)",
+            "Overall Length": "8 in (20 cm)",
+            "Tire Size": "front 18x8.50 turf rear 26x12.00-12 turf",
+            "Wheelbase": "4.6 ft (1 m)",
+            "Width Outside Frame": "2.7 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "E-TVCS liquid cooled",
+            "Displacement": "54.8 cu in (0 m)",
+            "Engine Model": "D902",
+            "Gross Power": "23 hp (17 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "3200 rpm",
+            "PTO Power": "17.7 hp (13 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "6.4 gal/min (23 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "661.4 lbs (300 kg)",
+            "3 Point Hitch Type": "cat. I",
+            "Cooling System Fluid Capacity": "0.8 gal (0 l)",
+            "Engine Oil Capacity": "0.9 gal (0 l)",
+            "Fuel Capacity": "6.7 gal (23 l)",
+            "Operating Weight": "1322.8 lbs (600 kg)",
+            "Turning Radius": "7.6 ft (2 m)"
+        },
+        "Production": {
+            "Series": "BX50 Series",
+            "Years Manufactured": "2006 - 2008"
+        },
+        "Transmission": {
+            "Max Speed": "8.1 mph (13 kph)",
+            "Transmission Type": "HST 2 range"
+        }
+    }
+}

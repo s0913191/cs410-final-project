@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/hyundai/hsl275t/30754607",
+    "source_url_id": "30754607",
+    "source_url_model": "hsl275t",
+    "source_url_make": "hyundai",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:28.774928",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HSL275T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "3.9 ft (1 m)",
+            "Ground Clearance": "6 in (15 cm)",
+            "Height - Top of Cab": "4.3 ft (1 m)",
+            "Length - with Bucket": "6.7 ft (2 m)",
+            "Length - without Bucket": "5.3 ft (2 m)",
+            "Reach at Max Lift and Dump": "0.9 ft (0 m)",
+            "Turning Radius from Center - inc bucket": "50.3 in (127 cm)",
+            "Turning Radius from Center - machine rear": "38.4 in (97 cm)",
+            "Width Over Tracks": "3.6 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "D1105",
+            "Gross Power": "25 hp (19 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "8.6 gal/min (30 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Operating Load": "421.1 lbs (191 kg)",
+            "Tipping Angle": "1199.4  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "8.2 gal (30 l)",
+            "Hydraulic System Fluid Capacity": "11.1 gal (42 l)",
+            "Max Speed - high range": "4.5 mph (6 kph)",
+            "Operating Weight": "2350.2 lbs (1,066 kg)"
+        }
+    }
+}

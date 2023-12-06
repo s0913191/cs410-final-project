@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/490d/19122",
+    "source_url_id": "19122",
+    "source_url_model": "490d",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:06:34.156284",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "490D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "27.7 ft (8 m)",
+            "Max Digging Depth": "18.2 ft (5 m)",
+            "Max Loading Height": "19.9 ft (6 m)",
+            "Max Reach Along Ground": "26.6 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "16 ft (5 m)",
+            "Shipping Height of Unit": "9.4 ft (3 m)",
+            "Shipping Length of Unit": "25.2 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "28.9 ft (9 m)",
+            "Max Digging Depth": "28.7 ft (9 m)",
+            "Max Loading Height": "21 ft (6 m)",
+            "Max Reach Along Ground": "28.3 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.5 ft (5 m)",
+            "Shipping Height of Unit": "9.4 ft (3 m)",
+            "Shipping Length of Unit": "25.3 ft (8 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.7 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Length of Track on Ground": "9.2 ft (3 m)",
+            "Removal Counterweight Clearance": "3 ft (1 m)",
+            "Tail Swing Radius": "7.3 ft (2 m)",
+            "Width to Outside of Tracks": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "4276D",
+            "Gross Power": "80 hp (60 kw)",
+            "Max Torque": "215 lbs/ft",
+            "Net Power": "75 hp (56 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.8 gal (15 l)",
+            "Engine Oil Capacity": "2.4 gal (8 l)",
+            "Fuel Capacity": "66 gal (250 l)",
+            "Hydraulic Pump Flow Capacity": "31.7 gal/min (117 l/min)",
+            "Hydraulic System Fluid Capacity": "34 gal (129 l)",
+            "Hydraulic System Relief Valve Pressure": "5050 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "27430 lbs (12,442 kg)",
+            "Swing Drive Fluid Capacity": "0.9 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "18300 lbs (8,301 kg)",
+            "Ground Pressure": "4.2 psi",
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "6.6 ft (2 m)"
+        }
+    }
+}

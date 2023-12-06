@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/al-ghazi/ghazi/30751117",
+    "source_url_id": "30751117",
+    "source_url_model": "ghazi",
+    "source_url_make": "al-ghazi",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:13.155206",
+    "equipment_category": "Tractors",
+    "equipment_make": "Al-Ghazi",
+    "equipment_model": "Ghazi",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "178.9 cu in (0 m)",
+            "Gross Power": "65 hp (48 kw)",
+            "Max Torque": "174.1 lbs/ft",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "6 gal/min (23 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3637.7 lbs (1,650 kg)",
+            "Fuel Capacity": "14.3 gal (53 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3902.2 lbs (1,770 kg)",
+            "Tire Size Front - 2wd / 4wd": "6.00-16"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9/13-28"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "gearbox with constant mesh"
+        }
+    }
+}

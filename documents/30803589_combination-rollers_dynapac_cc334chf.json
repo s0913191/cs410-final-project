@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combination-rollers/dynapac/cc334chf/30803589",
+    "source_url_id": "30803589",
+    "source_url_model": "cc334chf",
+    "source_url_make": "dynapac",
+    "source_url_category": "combination-rollers",
+    "source_date_scraped": "2023-09-13 17:39:04.576195",
+    "equipment_category": "Combination Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC334CHF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "195 in (495 cm)"
+        },
+        "Drum": {
+            "Drum Width": "68 in (173 cm)",
+            "Vibration Frequency": "2880/4020 hz (172,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "74 in (188 cm)"
+        }
+    }
+}

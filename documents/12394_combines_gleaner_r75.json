@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/gleaner/r75/12394",
+    "source_url_id": "12394",
+    "source_url_model": "r75",
+    "source_url_make": "gleaner",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:21.033451",
+    "equipment_category": "Combines",
+    "equipment_make": "Gleaner",
+    "equipment_model": "R75",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1150 rpm",
+            "Total Cleaning Area": "7734.6 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "11.8 ft (3 m)",
+            "Overall Length": "25.3 ft (8 m)",
+            "Wheelbase": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "512.6 cu in (0 m)",
+            "Engine Model": "84 CTA",
+            "Power": "350 hp (261 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Feeding": {
+            "Conveyor Width": "36 in (91 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "330.1 bu",
+            "Unloading Auger Length": "20.9 ft (6 m)",
+            "Unloading Discharge Height": "13.9 ft (4 m)",
+            "Unloading Speed": "2.9 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "150.1 gal (568 l)",
+            "Operating Weight w/o Attachment": "28500 lbs (12,928 kg)",
+            "Transmission Type": "4 speed hydrostatic"
+        },
+        "Separating": {
+            "Separating Area": "4603.6 cu in (0 m)",
+            "Separator Type": "transverse"
+        },
+        "Threshing": {
+            "Concave Area": "837.1 cu in (0 m)",
+            "Rotor Diameter": "25 in (64 cm)",
+            "Rotor Length": "88 in (224 cm)",
+            "Rotor Speed - High": "1096 rpm",
+            "Rotor Speed - Low": "200 rpm"
+        }
+    }
+}

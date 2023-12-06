@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/jx1070u/30789728",
+    "source_url_id": "30789728",
+    "source_url_model": "jx1070u",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:37.460569",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "JX1070U",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "71 hp (53 kw)"
+        },
+        "Production": {
+            "Series": "JXU Maxxima Series",
+            "Years Manufactured": "2004 - 2008"
+        }
+    }
+}

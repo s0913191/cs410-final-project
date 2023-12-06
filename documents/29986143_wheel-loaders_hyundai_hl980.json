@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl980/29986143",
+    "source_url_id": "29986143",
+    "source_url_model": "hl980",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:44.040410",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL980",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Scania",
+            "Model": "DC 13",
+            "Net Power": "376 hp (280 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "7.3 cu yds (5 m)"
+        },
+        "Weights": {
+            "Operational Weight": "69600 lbs (31,570 kg)"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/bobcat/t450/30476912",
+    "source_url_id": "30476912",
+    "source_url_model": "t450",
+    "source_url_make": "bobcat",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:24.833882",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "T450",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length - with Bucket": "10.6 ft (3 m)",
+            "Length - without Bucket": "8.2 ft (2 m)",
+            "Overall height": "6.5 ft (2 m)",
+            "Overall Track Length": "4.2 ft (1 m)",
+            "Overall width": "4.6 ft (1 m)",
+            "Reach at Max Lift and Dump": "2 ft (1 m)",
+            "Turning Radius from Center - machine rear": "6.5 in (15 cm)",
+            "Width Over Tracks": "1 ft (0 m)"
+        },
+        "Engine": {
+            "Emission Tier Level": "Tier 4",
+            "Fuel": "Diesel",
+            "Gross Power": "61 hp (45 kw)",
+            "Horsepower - Gross": "61.1 hp (45 kw)"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "16.7 gal/min (61 l/min)",
+            "Relief Valve Pressure": "3300 psi"
+        },
+        "Loader": {
+            "Operating Load": "1400 lbs (635 kg)",
+            "Operating Width": "55 in (140 cm)",
+            "Tipping Angle": "4000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17.3 gal (64 l)",
+            "Operating Weight": "6148 lbs (2,789 kg)",
+            "Travel Speed": "7.3 mph (11 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.7 psi",
+            "Width of Track": "11.8 in (28 cm)"
+        }
+    }
+}

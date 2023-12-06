@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dump-trailers/bri-mar/dt816-20gn/30835250",
+    "source_url_id": "30835250",
+    "source_url_model": "dt816-20gn",
+    "source_url_make": "bri-mar",
+    "source_url_category": "dump-trailers",
+    "source_date_scraped": "2023-09-13 17:54:07.001091",
+    "equipment_category": "Dump Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "DT816-20GN",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "8x16 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "6850 lbs (3,107 kg)",
+            "Weight Capacity": "8700 lbs (3,946 kg)"
+        }
+    }
+}

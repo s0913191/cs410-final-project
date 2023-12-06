@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/letourneau/l1850/30755406",
+    "source_url_id": "30755406",
+    "source_url_model": "l1850",
+    "source_url_make": "letourneau",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:16.894046",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Letourneau",
+    "equipment_model": "L1850",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "280672 lbs (127,312 kg)",
+            "Bucket Capacity - heaped": "31 cu yds (24 m)",
+            "Bucket Width": "21 ft (6 m)",
+            "Dump Clearance at Max Raise": "24.2 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Height - Top of Cab": "22 ft (7 m)",
+            "Hinge Pin - Max Height": "32.2 ft (10 m)",
+            "Length with Bucket on Ground": "60.1 ft (18 m)",
+            "Reach at Max Lift and Dump": "9.6 ft (3 m)",
+            "Wheelbase": "23 ft (7 m)",
+            "Width Over Tires": "19.9 ft (6 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "2746 cu in (0 m)",
+            "Engine Model": "QSK 60",
+            "Gross Power": "2000 hp (1,491 kw)",
+            "Number of Cylinders": "16",
+            "Power Measured @": "1900 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "4 sec",
+            "Lower Time": "6 sec",
+            "Pump Flow Capacity": "500 gal/min (1,893 l/min)",
+            "Pump Type": "piston",
+            "Raise Time": "14 sec",
+            "Relief Valve Setting": "3300 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "109.9 gal (413 l)",
+            "Engine Oil Fluid Capacity": "53.9 gal (201 l)",
+            "Front Axle/Diff Fluid Capacity": "25.1 gal (95 l)",
+            "Fuel Capacity": "1050.1 gal (3,974 l)",
+            "Hydraulic System Fluid Capacity": "374.9 gal (1,416 l)",
+            "Operating Weight": "511005.1 lbs (231,790 kg)",
+            "Rear Axle Oscillation": "22  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "25.1 gal (95 l)",
+            "Static Tipping Weight": "215003.7 lbs (97,525 kg)",
+            "Tire Size": "58/85-57 84 PR (L-4)",
+            "Transmission Fluid Capacity": "7.2 gal (27 l)",
+            "Turning Radius": "44.1 ft (13 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "10.6 mph (16 kph)",
+            "Max Speed - Reverse": "10.6 mph (16 kph)",
+            "Transmission Type": "infinitely variable"
+        }
+    }
+}

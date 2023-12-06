@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/hamm/hd-754k/30753827",
+    "source_url_id": "30753827",
+    "source_url_model": "hd-754k",
+    "source_url_make": "hamm",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:31.997512",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 75.4K",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "9.6 ft (3 m)",
+            "Overall Length": "14.3 in (36 cm)",
+            "Overall Width": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "BF4M1011F",
+            "Gross Power": "75.4 hp (56 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "34.4 gal (129 l)",
+            "Water Spray Tank Fluid Capacity": "190.3 gal (719 l)"
+        },
+        "Weights": {
+            "Operating Weight - standard": "16645 lbs (7,550 kg)"
+        }
+    }
+}

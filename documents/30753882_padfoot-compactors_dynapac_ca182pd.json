@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca182pd/30753882",
+    "source_url_id": "30753882",
+    "source_url_model": "ca182pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:32.617444",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA182PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.5 in (33 cm)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Overall Length w/o Blade": "16 ft (5 m)",
+            "Width Over Tires": "5.5 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "32147.7 lbs (14,582 kg)",
+            "Centrifugal Force - Low": "30574.1 lbs (13,868 kg)",
+            "Drum Diameter": "48 in (122 cm)",
+            "Drum Width": "66 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "132",
+            "Pad Height": "3 in (8 cm)",
+            "Pad Surface Area": "13.1 cu in (0 m)",
+            "Vibration Frequency 1": "33 hz (1,980 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "water cooled turbo diesel",
+            "Engine Model": "B4.5T",
+            "Gross Power": "99 hp (74 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "59.5 gal (223 l)",
+            "Max Speed": "4.1 mph (6 kph)",
+            "Operating Weight": "19400.7 lbs (8,800 kg)"
+        },
+        "Tires": {
+            "Tires": "420-70 B24"
+        }
+    }
+}

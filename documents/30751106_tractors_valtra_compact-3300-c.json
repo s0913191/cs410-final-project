@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/valtra/compact-3300-c/30751106",
+    "source_url_id": "30751106",
+    "source_url_model": "compact-3300-c",
+    "source_url_make": "valtra",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:11.758511",
+    "equipment_category": "Tractors",
+    "equipment_make": "Valtra",
+    "equipment_model": "Compact 3300 C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "7.9 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.5 ft (2 m)",
+            "Overall Length": "12.4 in (30 cm)",
+            "Wheelbase": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "naturally aspirated",
+            "Engine Model": "Deutz F3L 913",
+            "Max Torque": "126.9 lbs/ft",
+            "Net Power": "60 hp (45 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "16.7 gal/min (61 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5456.5 lbs (2,475 kg)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "5677 lbs (2,575 kg)",
+            "Tire Size Front - 2wd / 4wd": "6.5-16",
+            "Turning Radius": "9.9 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9R28"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "24+24 speeds with splitter and synchronized forward reverse shuttle"
+        }
+    }
+}

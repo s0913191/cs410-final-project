@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/850k-wlt/18922",
+    "source_url_id": "18922",
+    "source_url_model": "850k-wlt",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:24.543744",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "850K WLT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/o Blade": "13.2 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "415 cu in (0 m)",
+            "Engine Model": "PowerTech PSS 6068",
+            "Max Torque": "675 lbs/ft",
+            "Net Power": "205 hp (153 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "46 gal/min (174 l/min)",
+            "Pump type": "Piston",
+            "Relief Valve Pressure": "3625 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "94 gal (356 l)",
+            "Hydraulic Fluid Capacity": "46 gal (174 l)",
+            "Operating Weight": "44858 lbs (20,348 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "23.8  \t\u00b0",
+            "Capacity": "5.6 cu yds (4 m)",
+            "Height": "48 in (122 cm)",
+            "Width": "158 in (401 cm)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.3 mph (10 kph)",
+            "Max Speed - Reverse": "6.3 mph (10 kph)",
+            "Number of Forward Gears": "1",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "7758 cu in (0 m)",
+            "Ground Pressure": "5.8 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "30 in (76 cm)",
+            "Track Gauge": "88 ft (27 m)",
+            "Track Pitch": "8 in (20 cm)"
+        }
+    }
+}

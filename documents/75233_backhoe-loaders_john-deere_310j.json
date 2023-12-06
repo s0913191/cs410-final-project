@@ -1,0 +1,77 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/john-deere/310j/75233",
+    "source_url_id": "75233",
+    "source_url_model": "310j",
+    "source_url_make": "john-deere",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:09.977223",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "310J",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14.3 ft (4 m)",
+            "Dig Depth - Extended": "18 ft (5 m)",
+            "Load Height": "11 ft (3 m)",
+            "Load Height - Extended": "14 ft (4 m)",
+            "Reach From Swivel": "17.9 ft (5 m)",
+            "Reach From Swivel - Extended": "21.5 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height to Top of Suspended Cab": "9 ft (3 m)",
+            "Transport Length": "23.3 ft (7 m)",
+            "Transport Width": "7.2 ft (2 m)",
+            "Wheelbase": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "4045D",
+            "Net Max Torque": "209 lbs/ft",
+            "Net Power": "72 hp (54 kw)",
+            "Net Torque Rise": "0.36",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "28 gal/min (106 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "3625 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "8497.8 lbs (3,854 kg)",
+            "Bucket Capacity": "1.1 cu yds (1 m)",
+            "Bucket Width": "86 in (218 cm)",
+            "Clearance at Max Dump Height": "8.9 ft (2 m)",
+            "Dig Depth": "6.3 in (15 cm)",
+            "Lift Capacity": "2227 lbs (1,010 kg)",
+            "Reach at Max Dump Height": "2.6 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Cooling System Fluid Capacity": "5.6 gal (19 l)",
+            "Front Axle Fluid Capacity": "1.8 gal (4 l)",
+            "Fuel Capacity": "41 gal (155 l)",
+            "Hydraulic System Fluid Capacity": "24.1 gal (91 l)",
+            "Max Weight": "1750 lbs (794 kg)",
+            "Oil System Fluid Capacity": "3.5 gal (11 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 2wd": "13800 lbs (6,260 kg)",
+            "Operating Weight 4wd": "16140 lbs (7,321 kg)",
+            "Rear Axle Fluid Capacity": "4.8 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "11L-15 SL F-3(8)(12)/12-16.5 NHS SS-1(8)",
+            "Transmission Fluid Capacity": "4 gal (15 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5L-24 R-4(10)"
+        },
+        "Transmission": {
+            "Max Speed": "22.4 mph (35 kph)",
+            "Max Speed - Reverse": "8.2 mph (13 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

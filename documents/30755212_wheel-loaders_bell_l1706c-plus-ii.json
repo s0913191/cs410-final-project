@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/bell/l1706c-plus-ii/30755212",
+    "source_url_id": "30755212",
+    "source_url_model": "l1706c-plus-ii",
+    "source_url_make": "bell",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:41:30.161902",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Bell",
+    "equipment_model": "L1706C Plus II",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "36868.7 lbs (16,723 kg)",
+            "Bucket Capacity - heaped": "3.2 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "9.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Length with Bucket on Ground": "24.3 ft (7 m)",
+            "Reach at Max Lift and Dump": "2.9 ft (1 m)",
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "e 6068TF250",
+            "Net Power": "161 hp (120 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Operating Weight": "29101.1 lbs (13,200 kg)",
+            "Static Tipping Weight": "22954.6 lbs (10,412 kg)",
+            "Tire Size": "20.5x25"
+        },
+        "Transmission": {
+            "Transmission Type": "ZF 4WG160 counterhsaft"
+        }
+    }
+}

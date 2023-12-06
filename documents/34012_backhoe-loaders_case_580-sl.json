@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/case/580-sl/34012",
+    "source_url_id": "34012",
+    "source_url_model": "580-sl",
+    "source_url_make": "case",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:07.407243",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "580 SL",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "13126 lbs (5,954 kg)",
+            "Bucket Dig Force - Extended": "13126 lbs (5,954 kg)",
+            "Dig Depth": "14.5 ft (4 m)",
+            "Dig Depth - Extended": "18.3 ft (5 m)",
+            "Load Height": "8.9 ft (2 m)",
+            "Load Height - Extended": "13.3 ft (4 m)",
+            "Reach at Load Height - Extended": "11.6 ft (3 m)",
+            "Reach From Swivel": "18.1 ft (5 m)",
+            "Reach From Swivel - Extended": "21.1 ft (6 m)"
+        },
+        "Dimensions": {
+            "Front Wheel Tread Width": "67.5 in (170 cm)",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height to Top of Suspended Cab": "8.1 ft (2 m)",
+            "Rear Wheel Tread Width - min": "61.2 in (155 cm)",
+            "Transport Length": "22.7 ft (7 m)",
+            "Transport Width": "7.2 ft (2 m)",
+            "Wheelbase": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "239 cu in (0 m)",
+            "Engine Make": "Case",
+            "Engine Model": "4T-390",
+            "Gross Power": "91 hp (68 kw)",
+            "Net Max Torque": "252 lbs/ft",
+            "Net Power": "86 hp (64 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "27.5 gal/min (102 l/min)",
+            "Pump Type": "Front mounted, positive displacement, gear-type tandem",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "9667 lbs (4,385 kg)",
+            "Bucket Capacity": "1.1 cu yds (1 m)",
+            "Bucket Width": "82 in (208 cm)",
+            "Clearance at Max Dump Height": "8.1 ft (2 m)",
+            "Dig Depth": "5.9 in (13 cm)",
+            "Lift Capacity": "1603 lbs (727 kg)",
+            "Reach at Max Dump Height": "2.4 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "4.4 gal (15 l)",
+            "Front Axle Fluid Capacity": "1.5 gal (4 l)",
+            "Fuel Capacity": "31.4 gal (117 l)",
+            "Hydraulic System Fluid Capacity": "33 gal (125 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 4wd": "13283 lbs (6,025 kg)",
+            "Rear Axle Fluid Capacity": "3.8 gal (11 l)",
+            "Tire Size Front - 2wd / 4wd": "11L x 16, 10PR /  12 x 16.5, 8PR",
+            "Transmission Fluid Capacity": "4.9 gal (15 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "17.5L x 24, 10PR / 19.5L x 24, 10PR"
+        },
+        "Transmission": {
+            "Max Speed": "25.8 mph (40 kph)",
+            "Max Speed - Reverse": "31.1 mph (50 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Fully synchronized 4-speed forward reverse shuttle"
+        }
+    }
+}

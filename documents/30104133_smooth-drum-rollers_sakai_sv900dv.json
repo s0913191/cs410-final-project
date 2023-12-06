@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/sv900dv/30104133",
+    "source_url_id": "30104133",
+    "source_url_model": "sv900dv",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:42.549398",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV900DV",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.2 in (43 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length": "20.6 in (51 cm)",
+            "Overall Width": "8.4 ft (2 m)",
+            "Wheelbase": "10.3 in (25 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "77109.5 lbs (34,976 kg)",
+            "Centrifugal Force - Low": "77109.5 lbs (34,976 kg)",
+            "Drum Diameter": "65 in (165 cm)",
+            "Drum Width": "84.7 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "28 hz (1,680 vpm)",
+            "Vibration Frequency 2": "23 hz (1,380 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "396.3 cu in (0 m)",
+            "Engine Model": "BB-6BG1T",
+            "Gross Power": "169 hp (126 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "95.2 gal (360 l)",
+            "Hydraulic System Fluid Capacity": "19.1 gal (72 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "42769.7 lbs (19,400 kg)"
+        },
+        "Tires": {
+            "Tires": "23.5-25-16PR(OR)"
+        }
+    }
+}

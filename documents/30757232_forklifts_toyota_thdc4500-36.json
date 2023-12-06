@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/thdc4500-36/30757232",
+    "source_url_id": "30757232",
+    "source_url_model": "thdc4500-36",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:43:50.304113",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "THDC4500-36",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Mechanical",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Fork Spread Max": "5 ft (2 m)",
+            "Fork Spread Min-outer edge to edge": "16 in (41 cm)",
+            "Free lift": "41 in (104 cm)",
+            "Gradeability": "46.6%",
+            "Height to Top of Overhead Guard": "10 ft (3 m)",
+            "Length to Fork Face": "16.4 ft (5 m)",
+            "Max Fork Height": "8.4 ft (2 m)",
+            "Overall Height - mast lowered": "9.9 ft (3 m)",
+            "Overall Width": "6.4 ft (2 m)",
+            "Turning Radius": "14.5 ft (4 m)",
+            "Wheelbase": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "TOYOTA",
+            "Engine Model": "PSI V8 5.7L",
+            "Number of Cylinders": "8",
+            "Power": "147 hp (110 kw)",
+            "Power Measured @": "2500 rpm",
+            "Torque": "221.3 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "MAST": {
+            "Load Capacity": "44998.6 lbs (20,411 kg)",
+            "Load Center": "36 in (91 cm)",
+            "Mast Tip Forward": "8  \t\u00b0",
+            "Mast Tip Rear": "8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Auxiliary hydraulic flow": "54 gal/min (204 l/min)",
+            "Hydraulic System Relief Valve Pressure": "2500 psi",
+            "Max Speed": "10.3 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "67999.4 lbs (30,844 kg)",
+            "Tire Type": "Cushion"
+        },
+        "Performance": {
+            "Drawbar Pull Max -Full Load": "228.4 lbs (103 kg)",
+            "Drawbar Pull Max -No Load": "147.3 lbs (67 kg)"
+        },
+        "Tires": {
+            "Front Tires Size": "36 X 10 X 30",
+            "Number of Tires - Front": "4",
+            "Number of Tires - Rear": "2",
+            "Rear Tires Size": "28 X 14 X 22"
+        },
+        "Transmission": {
+            "Speed ranges (forwards/backward)": "3-3",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

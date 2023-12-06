@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1160/23512",
+    "source_url_id": "23512",
+    "source_url_model": "ltm-1160",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:51.801530",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1160",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "147.7 ft (45 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "523 hp (390 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "1533.4 lbs/ft",
+            "Model": "OM 424 A",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "46.5 ft (14 m)",
+            "Transport Height": "13.1 ft (4 m)",
+            "Transport Length": "55 ft (17 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "17.1 ft (5 m)",
+            "Width w/ Outriggers Extended": "28.3 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "132.1 gal (500 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14.00 R 24 x VC",
+            "Upper Structure Fuel Capacity": "79.3 gal (299 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison CLBT 754 Automatic"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "177.1 hp (132 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "448.5 lbs/ft",
+            "Model": "OM 362 LA",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        }
+    }
+}

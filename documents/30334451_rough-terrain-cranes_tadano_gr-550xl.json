@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/tadano/gr-550xl/30334451",
+    "source_url_id": "30334451",
+    "source_url_model": "gr-550xl",
+    "source_url_make": "tadano",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:56.725028",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "GR-550XL",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "81  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "113.9 ft (34 m)",
+            "Max Lift Capacity": "110000.1 lbs (49,896 kg)",
+            "Min Height @ Max Raise Angle": "35.2 ft (11 m)",
+            "Number of Sections": "4"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Transport Height": "12.3 ft (4 m)",
+            "Transport Length": "42.9 ft (13 m)",
+            "Transport Width": "9.8 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.6 ft (4 m)",
+            "Wheelbase": "149.7 in (378 cm)",
+            "Width w/ Outriggers Extended": "23 ft (7 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type, replaceable element",
+            "Bore": "4.3 in (10 cm)",
+            "Cooling method": "Liquid pressurized",
+            "Displacement": "409 cu in (0 m)",
+            "Emission Tier Level": "Tier 4",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB6.7",
+            "Engine Type": "Direct injection diesel",
+            "Fuel Filter": "Full flow with replaceable element",
+            "Gross Power": "269.6 hp (201 kw)",
+            "Max Torque": "730.2 lbs/ft",
+            "Number of Cylinders": "6",
+            "Oil Filter": "Full flow with replaceable element",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "4.9 in (10 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "7.4 gal (27 l)",
+            "DEF tank capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Operating Voltage": "24 V V"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "31.1 mph (50 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Electronically controlled"
+        }
+    }
+}

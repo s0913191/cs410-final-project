@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hypac/c822d/30760200",
+    "source_url_id": "30760200",
+    "source_url_model": "c822d",
+    "source_url_make": "hypac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:25.246178",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hypac",
+    "equipment_model": "C822D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "5.5 ft (2 m)",
+            "Turning Radius - Inside": "9.1 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "56.1 in (142 cm)",
+            "Frequency": "34 hz (2,040 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        }
+    }
+}

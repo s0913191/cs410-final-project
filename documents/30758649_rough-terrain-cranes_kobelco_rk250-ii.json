@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/kobelco/rk250-ii/30758649",
+    "source_url_id": "30758649",
+    "source_url_model": "rk250-ii",
+    "source_url_make": "kobelco",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:43.966264",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Kobelco",
+    "equipment_model": "RK250-II",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "100.2 ft (30 m)",
+            "Max Lift Capacity": "55115.6 lbs (25,000 kg)",
+            "Min Height @ Max Raise Angle": "31.3 ft (9 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "3.3 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "24343.9 ft (7,420 m)",
+            "Transport Height": "11.4 ft (3 m)",
+            "Transport Length": "36.6 ft (11 m)",
+            "Transport Width": "7.3 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10 ft (3 m)",
+            "Wheelbase": "135.9 in (343 cm)",
+            "Width w/ Outriggers Extended": "20.7 ft (6 m)"
+        },
+        "Engine": {
+            "Engine Make": "Mitsubishi",
+            "Engine Model": "6D16T",
+            "Gross Power": "212 hp (158 kw)",
+            "Max Torque": "463 lbs/ft",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "57959.6 lbs (26,290 kg)",
+            "Tire Size": "16.00-25-28PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "31.1 mph (50 kph)"
+        }
+    }
+}

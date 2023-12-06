@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/volvo/mc110c/32979",
+    "source_url_id": "32979",
+    "source_url_model": "mc110c",
+    "source_url_make": "volvo",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:33.063744",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "MC110C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.1 ft (2 m)",
+            "Ground Clearance": "9.4 in (23 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length w/o Bucket": "8.9 ft (2 m)",
+            "Length with Bucket": "12.2 ft (4 m)",
+            "Reach at Max Lift and Dump": "23.3 in (58 cm)",
+            "Turning Radius from Center - inc bucket": "69.3 in (175 cm)",
+            "Turning Radius from Center - machine rear": "69.3 in (175 cm)",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "5.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "268 cu in (0 m)",
+            "Engine Model": "TC63",
+            "Gross Power": "84 hp (63 kw)",
+            "Max Torque": "267 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "23 gal/min (87 l/min)",
+            "Relief Valve Pressure": "3335 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.8 cu yds (0 m)",
+            "Bucket Width": "72 in (183 cm)",
+            "Operating Load Rating": "2250 lbs (1,021 kg)",
+            "Operating Width": "68 in (173 cm)",
+            "Tipping Angle": "4501  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "4.1 gal (15 l)",
+            "Engine Oil Fluid Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "27.3 gal (102 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed": "6.8 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "7476 lbs (3,391 kg)"
+        }
+    }
+}

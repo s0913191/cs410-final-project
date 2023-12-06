@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/toro/multi-pro-5700/30753382",
+    "source_url_id": "30753382",
+    "source_url_model": "multi-pro-5700",
+    "source_url_make": "toro",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:31.767261",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Toro",
+    "equipment_model": "Multi Pro 5700",
+    "equipment_spec": {
+        "Boom": {
+            "Min Boom Width": "18.5 ft (5 m)",
+            "Nozzle Spacing": "20 in (51 cm)",
+            "Number of Nozzles - min": "11",
+            "Number of Sections": "3"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.6 ft (0 m)",
+            "Overall Length": "12.9 in (30 cm)",
+            "Tire Size": "Front 23 x 10.5-12, Rear 26.5x14-12",
+            "Transport Height": "7.9 ft (2 m)",
+            "Transport Width": "5.8 ft (2 m)",
+            "Wheelbase": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "91 cu in (0 m)",
+            "Gross Power": "35.5 hp (26 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Dry Weight - max": "2700 lbs (1,225 kg)",
+            "Dry Weight - min": "2700 lbs (1,225 kg)",
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Solution Tank Capacity": "300 gal (1,136 l)"
+        },
+        "Transmission": {
+            "Max Speed": "10 mph (16 kph)",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

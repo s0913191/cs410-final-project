@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-135-ad-5/26098245",
+    "source_url_id": "26098245",
+    "source_url_model": "bw-135-ad-5",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:57.926794",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 135 AD-5",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Hydromec",
+            "Service brake": "Hydrostatic"
+        },
+        "Dimensions": {
+            "Drum Diameter - Front": "3 ft (1 m)",
+            "Drum Diameter - Rear": "3 ft (1 m)",
+            "Ground Clearance": "13.4 in (33 cm)",
+            "Height - Top of Cab": "6.3 ft (2 m)",
+            "Overall Length": "111.8 in (282 cm)",
+            "Overall Width": "4.6 ft (1 m)",
+            "Turning Radius - Inside": "104.9 in (264 cm)",
+            "Wheelbase": "74.8 in (188 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "10791 lbs (4,895 kg)",
+            "Drum Width": "51.2 in (130 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "82.9 lbs/in",
+            "Vibration Frequency": "58-47 hz (3,480 vpm)",
+            "Vibration Frequency 1": "50 hz (3,000 vpm)",
+            "Vibration Frequency 2": "56 hz (3,360 vpm)"
+        },
+        "Engine": {
+            "Cooling method": "Water",
+            "Engine Make": "Kubota",
+            "Engine Model": "V2403",
+            "Gross Power": "45.1 hp (34 kw)",
+            "Make": "Kubota",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "81.9 gal (307 l)",
+            "Max Speed": "6.2 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8488 lbs (3,850 kg)",
+            "Operating Width": "54.7 in (137 cm)"
+        },
+        "Steering System": {
+            "Steering Method": "Hydrostatic",
+            "System": "Oscillatory Articulation"
+        },
+        "Weights": {
+            "Grossweight": "9259 lbs (4,200 kg)"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/8080/17544",
+    "source_url_id": "17544",
+    "source_url_model": "8080",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:04:53.788429",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "8080",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "13 ft (4 m)",
+            "Digging Reach": "21 ft (6 m)"
+        },
+        "Engine": {
+            "Net Power": "48 hp (36 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18960 lbs (8,600 kg)"
+        }
+    }
+}

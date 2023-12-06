@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/doosan/470-plus/30689642",
+    "source_url_id": "30689642",
+    "source_url_model": "470-plus",
+    "source_url_make": "doosan",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:42.814979",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "470 PLUS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Ground Clearance": "8.6 in (20 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length w/o Bucket": "8.4 ft (2 m)",
+            "Length with Bucket": "10.7 ft (3 m)",
+            "Reach at Max Lift and Dump": "29.1 in (74 cm)",
+            "Turning Radius from Center - inc bucket": "76.4 in (193 cm)",
+            "Turning Radius from Center - machine rear": "62.3 in (157 cm)",
+            "Wheelbase": "3.5 ft (1 m)",
+            "Width Over Tires": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "198.9 cu in (0 m)",
+            "Engine Model": "B3.3T",
+            "Gross Power": "75 hp (56 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.7 gal/min (79 l/min)",
+            "Pump Type": "gear type",
+            "Relief Valve Pressure": "3001.5 psi"
+        },
+        "Loader": {
+            "Breakout Force": "4678 psi",
+            "Operating Load Rating": "2500 lbs (1,134 kg)",
+            "Tipping Angle": "5000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Max Speed": "7.7 mph (11 kph)",
+            "Operational Weight": "7478 lbs (3,392 kg)",
+            "Tire Size": "12-16.5-8PR"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ha15ip/30758297",
+    "source_url_id": "30758297",
+    "source_url_model": "ha15ip",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:07.873509",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HA15IP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6 in (15 cm)",
+            "Overall Height - mast lowered": "6.6 ft (2 m)",
+            "Overall Length": "21.7 in (53 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Turning Radius": "12.2 ft (4 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "360",
+            "Charger Amps": "50",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "13.3 gal (49 l)",
+            "Max Speed": "2.8 mph (3 kph)",
+            "Operating Weight": "16093.8 lbs (7,300 kg)",
+            "Tire Fill/Type": "non marking",
+            "Tire Size": "23x10x12"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "27.8 ft (8 m)",
+            "Max Platform Height": "42.7 ft (13 m)",
+            "Max Platform Weight Capacity": "507.1 lbs (230 kg)",
+            "Max Working Height": "49.3 ft (15 m)",
+            "Platform Inner Length": "47.3 in (119 cm)",
+            "Platform Inner Width": "31.5 in (79 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

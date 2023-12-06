@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d6t-xl-wh/30760652",
+    "source_url_id": "30760652",
+    "source_url_model": "d6t-xl-wh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:14.096004",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D6T XL WH",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C9.3 ACERT",
+            "Net Power": "205 hp (153 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "51121 lbs (23,188 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Length of Track on Ground": "8.7 ft (2 m)",
+            "Length w/ Blade": "16.8 ft (5 m)",
+            "Length w/o Blade": "13.4 ft (4 m)",
+            "Width Over Tracks": "8.7 ft in (20 cm)"
+        },
+        "Standard Blade": {
+            "Capacity": "14.3 cu yds (11 m)",
+            "Width": "10.7 ft (3 m)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4557 cu in (0 m)",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "22 in (56 cm)"
+        }
+    }
+}

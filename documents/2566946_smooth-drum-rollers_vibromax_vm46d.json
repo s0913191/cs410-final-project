@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/vibromax/vm46d/2566946",
+    "source_url_id": "2566946",
+    "source_url_model": "vm46d",
+    "source_url_make": "vibromax",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:18.212013",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Vibromax",
+    "equipment_model": "VM46D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.2 in (33 cm)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Overall Length": "14.4 in (36 cm)",
+            "Turning Radius - Inside": "122 in (310 cm)",
+            "Wheelbase": "7.3 in (18 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "22840.6 lbs (10,360 kg)",
+            "Drum Diameter": "39.4 in (99 cm)",
+            "Drum Width": "55.1 in (140 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "88 lbs/in",
+            "Vibration Frequency": "1920 hz (115,200 vpm)",
+            "Vibration Frequency 1": "32 hz (1,920 vpm)"
+        },
+        "Engine": {
+            "Displacement": "199 cu in (0 m)",
+            "Engine Model": "B 3.3",
+            "Gross Power": "60.4 hp (45 kw)",
+            "Make": "Cummins",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "3.7 gal (11 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed": "7.9 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10141.3 lbs (4,600 kg)",
+            "Operating Width": "59.8 in (150 cm)"
+        },
+        "Tires": {
+            "Tires": "12.00R20 XZL"
+        }
+    }
+}

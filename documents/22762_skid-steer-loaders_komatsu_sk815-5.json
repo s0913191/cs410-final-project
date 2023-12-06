@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/komatsu/sk815-5/22762",
+    "source_url_id": "22762",
+    "source_url_model": "sk815-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:13.272221",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "SK815-5",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7 ft (2 m)",
+            "Ground Clearance": "8.3 in (20 cm)",
+            "Height - Top of Cab": "6.4 ft (2 m)",
+            "Length w/o Bucket": "6.8 ft (2 m)",
+            "Length with Bucket": "11.4 ft (3 m)",
+            "Reach at Max Lift and Dump": "24.3 in (61 cm)",
+            "Turning Radius from Center - inc bucket": "79 in (201 cm)",
+            "Turning Radius from Center - machine rear": "64.8 in (163 cm)",
+            "Wheelbase": "3.5 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "S4D84E-1FD",
+            "Gross Power": "54 hp (40 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "16.4 gal/min (61 l/min)",
+            "Pump Type": "Komatsu Gear",
+            "Relief Valve Pressure": "2770 psi"
+        },
+        "Loader": {
+            "Breakout Force": "3355.5 psi",
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Operating Load Rating": "1554.3 lbs (705 kg)",
+            "Tipping Angle": "3086.5  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Chain Box Fluid Capacity - each side": "8.2 gal (30 l)",
+            "Cooling System Fluid Capacity": "2.2 gal (8 l)",
+            "Engine Oil Fluid Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "14.1 gal (53 l)",
+            "Hydraulic System Fluid Capacity": "10.1 gal (38 l)",
+            "Max Speed": "10 mph (16 kph)",
+            "Operating Speed": "6.6 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "10-16.5 8PR"
+        }
+    }
+}

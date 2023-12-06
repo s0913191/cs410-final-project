@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/dynapac/fc1700c/30761049",
+    "source_url_id": "30761049",
+    "source_url_model": "fc1700c",
+    "source_url_make": "dynapac",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:13.076805",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "FC1700C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSF3.8 (t4f)"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "9.5 lbs (4 kg)",
+            "Paving Speed": "140 ft/min",
+            "Paving Width - max": "1-18 ft (0 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18500 lbs (8,392 kg)"
+        }
+    }
+}

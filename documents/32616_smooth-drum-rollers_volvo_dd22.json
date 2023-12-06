@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/dd22/32616",
+    "source_url_id": "32616",
+    "source_url_model": "dd22",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:25.773370",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "DD22",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "3.9 ft (1 m)",
+            "Turning Radius - Inside": "12.6 ft (4 m)"
+        },
+        "Drum": {
+            "Drum Width": "47.2 in (119 cm)",
+            "Frequency": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/spra-coupe/4440/30753452",
+    "source_url_id": "30753452",
+    "source_url_model": "4440",
+    "source_url_make": "spra-coupe",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:16.482144",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Spra-Coupe",
+    "equipment_model": "4440",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "84 in (213 cm)",
+            "Max Boom Width": "80 ft (24 m)",
+            "Min Adjustable Height": "9 in (23 cm)",
+            "Min Boom Width": "60 ft (18 m)",
+            "Nozzle Spacing": "20 in (51 cm)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3.7 ft (1 m)",
+            "Tire Size": "Front 9.00x24, Rear 12.4x24 12 ply"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Gross Power": "110 hp (82 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "38 gal (144 l)",
+            "Solution Tank Capacity": "400 gal (1,514 l)"
+        },
+        "Transmission": {
+            "Transmission Type": "Borg Warner T-5"
+        }
+    }
+}

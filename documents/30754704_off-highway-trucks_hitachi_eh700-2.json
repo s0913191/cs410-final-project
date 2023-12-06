@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/eh700-2/30754704",
+    "source_url_id": "30754704",
+    "source_url_model": "eh700-2",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:39.010418",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EH700-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "1.6 ft (0 m)",
+            "Dump Height": "26.7 ft (8 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Overall Height": "14.2 ft (4 m)",
+            "Overall Length": "28.5 ft (9 m)",
+            "Overall Width": "15.7 ft (5 m)",
+            "Wheelbase": "12.5 ft (4 m)"
+        },
+        "Dump": {
+            "Dump Angle": "60  \t\u00b0",
+            "Load Capacity - heaped": "31.4 cu yds (24 m)",
+            "Load Capacity - Struck": "22.3 cu yds (17 m)",
+            "Lower Time": "14 sec",
+            "Raise Time": "13.9 sec",
+            "Rated Payload": "60  \t\u00b0"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged / aftercooled",
+            "Displacement": "915.4 cu in (0 m)",
+            "Engine Model": "QSX15-525",
+            "Gross Power": "525 hp (391 kw)",
+            "Net Power": "480 hp (358 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "turbocharged / aftercooled rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Brake/Hoist System Fluid Capacity": "47.1 gal (178 l)",
+            "Cooling System Fluid Capacity": "42.1 gal (159 l)",
+            "Diff and Final Drive Fluid Capacity": "13.3 gal (49 l)",
+            "Engine Oil Capacity": "16.2 gal (61 l)",
+            "Fuel Capacity": "120 gal (454 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Operating Voltage": "24 V V",
+            "Steering System Fluid Capacity": "25.7 gal (95 l)",
+            "Tire Size": "18R33(**)E4 Radial"
+        },
+        "Transmission": {
+            "Max Speed": "47.3 mph (76 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "2",
+            "Transmission Type": "Allison M5610A planetary, full automatic shift"
+        },
+        "Weights": {
+            "Empty Weight": "70327.5 lbs (31,900 kg)",
+            "Loaded Weight": "154103.2 lbs (69,901 kg)",
+            "Weight Distribution Front - empty": "49%",
+            "Weight Distribution Front - loaded": "33%",
+            "Weight Distribution Rear - empty": "51%",
+            "Weight Distribution Rear - loaded": "67%"
+        }
+    }
+}

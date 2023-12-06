@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/r36i/30751712",
+    "source_url_id": "30751712",
+    "source_url_model": "r36i",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:31.656292",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "R36i",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Overall Length": "9.8 in (23 cm)",
+            "Tire Size": "7-14, 4PR(6-14)",
+            "Wheelbase": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "107.3 cu in (0 m)",
+            "Engine Model": "S4L2",
+            "Gross Power": "38.5 hp (28 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "23 hp (17 kw)"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "2465.7 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2619.1 lbs (1,188 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Alternator Supplied Amperage": "50  A",
+            "Fuel Capacity": "8.5 gal (30 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Max Speed": "17.1 mph (27 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "synchro shuttle"
+        }
+    }
+}

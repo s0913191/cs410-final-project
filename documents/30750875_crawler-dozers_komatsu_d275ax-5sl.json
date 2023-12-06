@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d275ax-5sl/30750875",
+    "source_url_id": "30750875",
+    "source_url_model": "d275ax-5sl",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:08.303816",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D275AX-5SL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "14.2 ft (4 m)",
+            "Length of Track on Ground": "11.5 ft (3 m)",
+            "Length w/o Blade": "21.1 ft (6 m)",
+            "Width Over Tracks": "9.5 ft in (23 cm)"
+        },
+        "Engine": {
+            "Displacement": "930 cu in (0 m)",
+            "Engine Model": "SAA6D140E-5",
+            "Make": "Komatsu",
+            "Model": "SAA6D140E-5",
+            "Net Power": "410 hp (306 kw)",
+            "Number of Cylinders": "6"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "116528 lbs (52,857 kg)"
+        },
+        "Standard Blade": {
+            "Height": "9.5 in (23 cm)",
+            "Width": "15.2 ft (5 m)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "6580 cu in (0 m)",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "24 in (61 cm)"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/case/686g/2881",
+    "source_url_id": "2881",
+    "source_url_model": "686g",
+    "source_url_make": "case",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:24:17.895288",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Case",
+    "equipment_model": "686G",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16 in (41 cm)",
+            "Length to Fork Face": "19.7 ft (6 m)",
+            "Overall Height": "7.9 ft (2 m)",
+            "Turning Radius Outside Tires": "11.2 ft (3 m)",
+            "Wheelbase": "9.2 ft (3 m)",
+            "Width Over Tires": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "4-390",
+            "Gross Power": "80 hp (60 kw)",
+            "Max Torque": "198 lbs/ft",
+            "Net Power": "72 hp (54 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "34 gal/min (129 l/min)",
+            "Pump Type": "axial piston"
+        },
+        "Lift System": {
+            "Max Forward Reach": "20.6 ft (6 m)",
+            "Max Lift Capacity": "6700 lbs (3,039 kg)",
+            "Max Lift Height": "36.1 ft (11 m)",
+            "Max Load at Max Height": "6000 lbs (2,722 kg)",
+            "Max Load at Max Reach": "1700 lbs (771 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "62  A",
+            "Fuel Capacity": "20 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "39.9 gal (148 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "18300 lbs (8,301 kg)",
+            "Tire Size": "13.00x24 12PR L2/G2"
+        },
+        "Transmission": {
+            "Max Speed - forward": "21 mph (34 kph)",
+            "Max Speed - reverse": "21 mph (34 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power Shift"
+        }
+    }
+}

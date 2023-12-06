@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/dd31hf/30833700",
+    "source_url_id": "30833700",
+    "source_url_model": "dd31hf",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:28.208532",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "DD31HF",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "49.2 in (124 cm)",
+            "Vibration Frequency": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota V2203-M"
+        },
+        "Operating Specifications": {
+            "Operating Width": "49.2 in (124 cm)"
+        }
+    }
+}

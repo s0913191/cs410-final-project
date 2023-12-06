@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/agrotron-120-mk3/8427585",
+    "source_url_id": "8427585",
+    "source_url_model": "agrotron-120-mk3",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:15:32.640276",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "AGROTRON 120 MK3",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "125  hp"
+        },
+        "Production": {
+            "Series": "Agrotron Series",
+            "Years Manufactured": "2001 - 2003"
+        }
+    }
+}

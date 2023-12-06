@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d38e-1/20925",
+    "source_url_id": "20925",
+    "source_url_model": "d38e-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:37.572025",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D38E-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.2 ft (2 m)",
+            "Length of Track on Ground": "6.9 ft (2 m)",
+            "Length w/ Blade": "10.6 ft (3 m)",
+            "Width Over Tracks": "5.8 ft in (13 cm)"
+        },
+        "Engine": {
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "S4D102"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "10.2 gal (38 l)",
+            "Operating Weight": "13690.8 lbs (6,210 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.8 mph (8 kph)",
+            "Max Speed - Reverse": "7 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "15 in (38 cm)",
+            "Track Gauge": "4.5 ft (1 m)"
+        }
+    }
+}

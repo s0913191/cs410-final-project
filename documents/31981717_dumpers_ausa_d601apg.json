@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dumpers/ausa/d601apg/31981717",
+    "source_url_id": "31981717",
+    "source_url_model": "d601apg",
+    "source_url_make": "ausa",
+    "source_url_category": "dumpers",
+    "source_date_scraped": "2023-09-13 14:52:32.550359",
+    "equipment_category": "Dumpers",
+    "equipment_make": "Ausa",
+    "equipment_model": "D601APG",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking": "Negative",
+            "Service": "Hydraulic, sealed, multi-disc"
+        },
+        "Driving": {
+            "External turning radius": "232 in",
+            "Max. speed": "15.5 mph",
+            "Maximum gradient": "45%",
+            "Traction": "4x4",
+            "Tyres": "405/70-20"
+        },
+        "Engine": {
+            "Brand": "Deutz",
+            "Emissions": "Stage IIIB - EPA Tier 4F",
+            "Model": "TD3.6 L4",
+            "No. of cylinders": "4",
+            "Noise level (LwA)": "101 dB(A)",
+            "Power": "74.3 hp",
+            "Torque": "330@1600"
+        },
+        "General": {
+            "Chassis": "Articulated",
+            "Empty weight": "10,240 lb",
+            "Heaped skip capacity": "4.12 cu yd",
+            "Level skip capacity": "3.21 cu yd",
+            "Load capacity": "13,200 lb",
+            "Unloading system": "Rotating",
+            "Water skip capacity": "2.17 cu yd"
+        },
+        "Hydraulic system": {
+            "Flow rate": "12.1 gal/min",
+            "Hydraulic circuit": "Two gears pump",
+            "Working pressure": "2,610 psi"
+        },
+        "Tank capacity": {
+            "Fuel": "18.2 gal",
+            "Hydraulic system": "15.8 gal"
+        },
+        "Transmission": {
+            "Reversibility": "Non-reversible",
+            "Transmission": "Torque converter"
+        }
+    }
+}

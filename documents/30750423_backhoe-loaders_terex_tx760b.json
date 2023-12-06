@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/terex/tx760b/30750423",
+    "source_url_id": "30750423",
+    "source_url_model": "tx760b",
+    "source_url_make": "terex",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:36.896509",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TX760B",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14.7 ft (4 m)",
+            "Dig Depth - Extended": "19.3 ft (6 m)",
+            "Load Height": "11.5 ft (3 m)",
+            "Load Height - Extended": "14.7 ft (4 m)",
+            "Reach at Load Height - Extended": "9.2 ft (3 m)",
+            "Reach From Swivel": "19.3 ft (6 m)",
+            "Reach From Swivel - Extended": "23.5 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height to Top of Suspended Cab": "8.9 ft (2 m)",
+            "Transport Length": "23.7 ft (7 m)",
+            "Transport Width": "7.6 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "269 cu in (0 m)",
+            "Engine Model": "1004C-44TL",
+            "Gross Power": "92 hp (69 kw)",
+            "Net Max Torque": "275 lbs/ft",
+            "Net Power": "86 hp (64 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "37.6 gal/min (140 l/min)",
+            "Pump Type": "load-sensing twin gear pumps",
+            "Relief Valve Pressure": "3250 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "10485 lbs (4,756 kg)",
+            "Bucket Capacity": "1.4 cu yds (1 m)",
+            "Bucket Width": "91 in (231 cm)",
+            "Clearance at Max Dump Height": "8.4 ft (2 m)",
+            "Dig Depth": "7.4 in (18 cm)",
+            "Lift Capacity": "3126.2 lbs (1,418 kg)",
+            "Reach at Max Dump Height": "2.2 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Front Axle Fluid Capacity": "3.4 gal (11 l)",
+            "Fuel Capacity": "34.4 gal (129 l)",
+            "Hydraulic System Fluid Capacity": "37.8 gal (140 l)",
+            "Max Weight": "15151 lbs (6,872 kg)",
+            "Oil System Fluid Capacity": "2.3 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15151 lbs (6,872 kg)",
+            "Rear Axle Fluid Capacity": "4.7 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "12.5/80x18",
+            "Transmission Fluid Capacity": "4 gal (15 l)",
+            "Turning Radius": "12.7 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5Lx24"
+        },
+        "Transmission": {
+            "Max Speed": "23.3 mph (37 kph)",
+            "Max Speed - Reverse": "23.3 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Carraro power shuttle"
+        }
+    }
+}

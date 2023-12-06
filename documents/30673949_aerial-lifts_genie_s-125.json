@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/s-125/30673949",
+    "source_url_id": "30673949",
+    "source_url_model": "s-125",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:05.012500",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "S-125",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.8 in (3 cm)",
+            "Overall Height - mast lowered": "10.1 ft (3 m)",
+            "Overall Length": "46.8 in (117 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Turning Radius": "22.2 ft (7 m)",
+            "Wheelbase": "12.1 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "TD2011 L04i",
+            "Fuel Type": "diesel",
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "39.9 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "55 gal (208 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "44639.2 lbs (20,248 kg)",
+            "Tire Size": "445/65D22.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "80 ft (24 m)",
+            "Max Platform Height": "125.2 ft (38 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "131.8 ft (40 m)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "35.9 in (89 cm)",
+            "Platform Rotation": "160  \t\u00b0"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-90k/30782930",
+    "source_url_id": "30782930",
+    "source_url_model": "hd-90k",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:04.449255",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 90K",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "31.2 in (79 cm)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "9.9 ft (3 m)",
+            "Maximum width": "5741.5 ft (1,750 m)",
+            "Overall Length": "181.2 in (460 cm)",
+            "Overall Width": "6 ft (2 m)",
+            "Turning Radius - Inside": "156 in (396 cm)",
+            "Wheelbase": "133.9 in (338 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "13488.6 lbs (6,118 kg)",
+            "Drum Diameter": "47.3 in (119 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Type": "smooth/non-divided",
+            "Drum Width": "66 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "154 lbs/in",
+            "Vibration Frequency": "2,520-3,000 hz (151,200 vpm)",
+            "Vibration Frequency 1": "42 hz (2,520 vpm)",
+            "Vibration Frequency 2": "50 hz (3,000 vpm)"
+        },
+        "Engine": {
+            "Emissions Certification": "EPA Tier 3",
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 2012 L04 2V",
+            "Gross Power": "134.2 hp (100 kw)",
+            "Make": "Deutz",
+            "Net Power": "134.2 hp (100 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Operating Weight": "24780 lbs (11,240 kg)",
+            "Operating weight Cabin": "18926.7 lbs (8,585 kg)",
+            "Operating weight ROPS": "18342.5 lbs (8,320 kg)",
+            "Operating Width": "66 in (168 cm)",
+            "Steering Angle": "10  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "237.8 gal (897 l)"
+        },
+        "Speeds": {
+            "Speed -  transportation gear": "9.2 mph (14 kph)",
+            "Speed -  working gear": "4.6 mph (6 kph)"
+        },
+        "Tires": {
+            "Number of tyres, rear": "4",
+            "Size of tyres, rear": "11.00-20",
+            "Width over tyres, rear": "63.8 in (160 cm)"
+        },
+        "Weights": {
+            "Operating Weight - standard": "19070 lbs (8,650 kg)"
+        }
+    }
+}

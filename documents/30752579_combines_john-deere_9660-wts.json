@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/9660-wts/30752579",
+    "source_url_id": "30752579",
+    "source_url_model": "9660-wts",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:34.456176",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "9660 WTS",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1600 rpm",
+            "Cleaning Fan Speed - Low": "750 rpm",
+            "Total Cleaning Area": "7719.1 cu in (0 m)"
+        },
+        "Engine": {
+            "Displacement": "494.3 cu in (0 m)",
+            "Number of Cylinders": "6",
+            "Power": "305 hp (227 kw)",
+            "Power Boost Power": "338 hp (252 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Feeding": {
+            "Conveyor Length": "78 in (198 cm)",
+            "Conveyor Speed": "520 rpm",
+            "Conveyor Width": "65.6 in (165 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "312.2 bu",
+            "Unloading Auger Length": "21.4 ft (6 m)",
+            "Unloading Discharge Height": "14.2 ft (4 m)",
+            "Unloading Speed": "2.2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "184.2 gal (696 l)",
+            "Operating Weight w/o Attachment": "30027 lbs (13,620 kg)"
+        },
+        "Separating": {
+            "Separating Area": "11935.1 cu in (0 m)",
+            "Separator Length": "181.2 in (460 cm)",
+            "Separator Type": "6 walker + power separator"
+        },
+        "Threshing": {
+            "Beater Grate Area": "775.1 cu in (0 m)",
+            "Concave Area": "1937.6 cu in (0 m)",
+            "Rotor Diameter": "26 in (66 cm)",
+            "Rotor Length": "65.8 in (165 cm)",
+            "Rotor Speed - High": "990 rpm",
+            "Rotor Speed - Low": "240 rpm"
+        }
+    }
+}

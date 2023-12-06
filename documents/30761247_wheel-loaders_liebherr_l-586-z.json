@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l-586-z/30761247",
+    "source_url_id": "30761247",
+    "source_url_model": "l-586-z",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:41.093646",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L 586 Z",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "13.6 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Liebherr",
+            "Model": "D 936L A6",
+            "Net Power": "335 hp (250 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "7.8 cu yds (5 m)"
+        },
+        "Weights": {
+            "Operational Weight": "69996 lbs (31,750 kg)"
+        }
+    }
+}

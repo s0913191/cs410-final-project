@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/lm-218/30755041",
+    "source_url_id": "30755041",
+    "source_url_model": "lm-218",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:29.094383",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "LM 218",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "2.8 cu yds (2 m)",
+            "Bucket Capacity - struck": "0.8 cu yds (0 m)",
+            "Dump Clearance at Max Raise": "10.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Length with Bucket on Ground": "16.7 ft (5 m)",
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Gross Power": "60 hp (45 kw)",
+            "Net Power": "56 hp (42 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "34.4 gal/min (129 l/min)",
+            "Relief Valve Setting": "1070 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "13007.3 lbs (5,900 kg)",
+            "Static Tipping Weight": "6000 lbs (2,722 kg)",
+            "Tire Size": "front 14-30/10 rear 9-20/10",
+            "Turning Radius": "16.5 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "16.2 mph (26 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "5"
+        }
+    }
+}

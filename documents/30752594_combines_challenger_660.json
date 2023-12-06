@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/challenger/660/30752594",
+    "source_url_id": "30752594",
+    "source_url_model": "660",
+    "source_url_make": "challenger",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:01:50.205364",
+    "equipment_category": "Combines",
+    "equipment_make": "Challenger",
+    "equipment_model": "660",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Total Cleaning Area": "6768 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Transport Height": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "C9 8.8L",
+            "Power": "300 hp (224 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Feeding": {
+            "Conveyor Width": "44 in (112 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "300 bu",
+            "Unloading Speed": "2.5 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "160 gal (606 l)",
+            "Operating Weight w/o Attachment": "29400 lbs (13,336 kg)",
+            "Transmission Type": "4-Speed Hydrostatic"
+        },
+        "Threshing": {
+            "Concave Area": "2205 cu in (0 m)",
+            "Rotor Diameter": "27.6 in (69 cm)",
+            "Rotor Length": "140 in (356 cm)"
+        }
+    }
+}

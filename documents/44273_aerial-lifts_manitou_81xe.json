@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/manitou/81xe/44273",
+    "source_url_id": "44273",
+    "source_url_model": "81xe",
+    "source_url_make": "manitou",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:39.195333",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "81XE",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.8 in (8 cm)",
+            "Height w/ Rails": "7.1 ft (2 m)",
+            "Height w/o Rails": "6.3 ft (2 m)",
+            "Overall Length": "8.2 in (20 cm)",
+            "Overall Width": "2.7 ft (1 m)",
+            "Turning Radius": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "180",
+            "Charger Amps": "25",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Max Speed": "2.5 mph (3 kph)",
+            "Operating Weight": "3747.9 lbs (1,700 kg)",
+            "Tire Fill/Type": "Solid, Non-marking",
+            "Tire Size": "16x5x11"
+        },
+        "Platform": {
+            "Deck Extension": "39.4 in (99 cm)",
+            "Lift Time": "21 sec",
+            "Lower Time": "33 sec",
+            "Max Platform Height": "20.1 ft (6 m)",
+            "Max Platform Weight Capacity": "749.6 lbs (340 kg)",
+            "Max Working Height": "26.6 ft (8 m)",
+            "Platform Inner Length": "90.6 in (229 cm)",
+            "Platform Inner Width": "31.5 in (79 cm)"
+        }
+    }
+}

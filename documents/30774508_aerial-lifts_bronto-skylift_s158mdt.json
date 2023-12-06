@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/bronto-skylift/s158mdt/30774508",
+    "source_url_id": "30774508",
+    "source_url_model": "s158mdt",
+    "source_url_make": "bronto-skylift",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:25:43.581640",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Bronto Skylift",
+    "equipment_model": "S158MDT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,000 lbs (454 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "T 158 ft (0 m)",
+            "Platform Size": "3.4x6.6 ft (1 m)"
+        }
+    }
+}

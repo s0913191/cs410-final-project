@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/8345r/28518650",
+    "source_url_id": "28518650",
+    "source_url_model": "8345r",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:24:14.839890",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "8345R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "685.8 in (1,740 cm)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Overall Length": "20.2 in (51 cm)",
+            "Tire Size": "420/85R34/480/80R50",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "548 cu in (0 m)",
+            "Engine Model": "variable geometry turbocharger diesel",
+            "Gross Power": "345 hp (257 kw)",
+            "Net Power": "330 hp (246 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1802 rpm",
+            "PTO Power": "325.1 hp (242 kw)",
+            "Torque Rise": "47.7%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3 to 5",
+            "Pump Flow Capacity": "42 gal/min (159 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "29300 lbs (13,290 kg)",
+            "3 Point Hitch Type": "IVN/III",
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Engine Oil Capacity": "7.4 gal (27 l)",
+            "Fuel Capacity": "180 gal (681 l)",
+            "Hydraulic System Fluid Capacity": "40 gal (151 l)"
+        },
+        "Transmission": {
+            "Max Speed": "40 mph (64 kph)",
+            "Number of Forward Gears": "infinite",
+            "Number of Reverse Gears": "infinite",
+            "Transmission Type": "John Deere Infinitely Variable Transmission"
+        },
+        "Years of Manufacture": {
+            "Approximate First Year of Manufacture": "2009",
+            "Approximate Last Year of Manufacture": "2010"
+        }
+    }
+}

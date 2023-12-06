@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/cd222/30758601",
+    "source_url_id": "30758601",
+    "source_url_model": "cd222",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:06.724290",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "CD222",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "76  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "61.5 ft (19 m)",
+            "Max Lift Capacity": "44000.1 lbs (19,958 kg)",
+            "Min Height @ Max Raise Angle": "26.5 ft (8 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "3 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "22.8 ft (7 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Transport Height": "11.2 ft (3 m)",
+            "Transport Length": "26.4 ft (8 m)",
+            "Transport Width": "8.1 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "9 ft (3 m)",
+            "Wheelbase": "133.9 in (338 cm)",
+            "Width w/ Outriggers Extended": "14.6 ft (4 m)"
+        },
+        "Engine": {
+            "Air filter type": "Dry type",
+            "Aspiration": "Turbocharged and aftercooled",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "238.7 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "4BA3.9",
+            "Gross Power": "130 hp (97 kw)",
+            "Max Torque": "368.1 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "102  A",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "91 gal (344 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "42534 lbs (19,293 kg)",
+            "Tire Size": "14.00 x 24, 20 P.R"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.5 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Rangeshift type powershift"
+        }
+    }
+}

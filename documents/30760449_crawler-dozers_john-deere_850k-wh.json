@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/850k-wh/30760449",
+    "source_url_id": "30760449",
+    "source_url_model": "850k-wh",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:23.768207",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "850K WH",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "J. Deere PowerTech",
+            "Model": "PVX 6068",
+            "Net Power": "200 hp (149 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "48906 lbs (22,184 kg)"
+        }
+    }
+}

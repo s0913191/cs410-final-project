@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/wacker-neuson/mht-242hv/30755970",
+    "source_url_id": "30755970",
+    "source_url_model": "mht-242hv",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:24.105359",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "mht 242HV",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "9.7 ft (3 m)",
+            "Shipping Length - non tilt": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "e 8081 HF0270",
+            "Net Power": "230 hp (172 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Fuel Capacity": "185 gal (700 l)",
+            "Hydraulic System Fluid Capacity": "103.1 gal (390 l)",
+            "Max Speed": "2.1 mph (3 kph)",
+            "Operating Voltage": "24 V V"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Ground Pressure": "8.1 psi",
+            "Track Length": "14.5 ft (4 m)"
+        }
+    }
+}

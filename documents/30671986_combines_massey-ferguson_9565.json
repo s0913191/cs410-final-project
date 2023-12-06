@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/massey-ferguson/9565/30671986",
+    "source_url_id": "30671986",
+    "source_url_model": "9565",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:04.762107",
+    "equipment_category": "Combines",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "9565",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Chaffer area": "4588.1 cu in (0 m)",
+            "Cleaning Fan Description": "Transverse, 330.0 mm",
+            "Total Cleaning Area": "992.1 cu in (0 m)",
+            "Total Sieve Area-Fixed": "3875.1 cu in (0 m)"
+        },
+        "Engine": {
+            "Displacement": "598.1 cu in (0 m)",
+            "Engine Model": "AGCO Power\u2122 98 ATI",
+            "Number of Cylinders": "7",
+            "Power": "460 hp (343 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Feeding": {
+            "Chain size": "4-strand HD #557",
+            "Feeder Reverser Control": "Electro-hydraulic",
+            "Housing width": "55.5 in (140 cm)"
+        },
+        "Grain Handling": {
+            "Unloading auger diameter": "15 in (38 cm)",
+            "Unloading Auger Length": "292.6 ft (89 m)",
+            "Unloading Discharge Height": "14.3 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "229.9 gal (867 l)",
+            "Hydraulic System Fluid Capacity": "22.5 gal (83 l)"
+        },
+        "Separating": {
+            "Discharge Grate Area": "2108.1 cu in (0 m)",
+            "Separating Area": "3410.1 cu in (0 m)",
+            "Separator Type": "Rotary"
+        },
+        "Threshing": {
+            "Rotor Diameter": "31.5 in (79 cm)",
+            "Rotor Length": "140 in (356 cm)"
+        }
+    }
+}

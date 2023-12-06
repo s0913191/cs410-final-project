@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/caterpillar/130g/3114",
+    "source_url_id": "3114",
+    "source_url_model": "130g",
+    "source_url_make": "caterpillar",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:18.235215",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "130G",
+    "equipment_spec": {
+        "Engine": {
+            "Net Power Gear 1-2": "135 hp (101 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Width": "12 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Std Operation Weight - Total": "31540 lbs (14,307 kg)"
+        }
+    }
+}

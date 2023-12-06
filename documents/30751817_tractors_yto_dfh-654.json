@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yto/dfh-654/30751817",
+    "source_url_id": "30751817",
+    "source_url_model": "dfh-654",
+    "source_url_make": "yto",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:39:00.880546",
+    "equipment_category": "Tractors",
+    "equipment_make": "YTO",
+    "equipment_model": "DFH-654",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.2 in (36 cm)",
+            "Height - Top of Cab": "5.9 ft (2 m)",
+            "Overall Length": "12 in (30 cm)",
+            "Wheelbase": "7 ft (2 m)",
+            "Width Outside Frame": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "264.3 cu in (0 m)",
+            "Engine Model": "LR4105T7",
+            "Net Power": "64.4 hp (48 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "14.1 gal (53 l)",
+            "Operating Weight": "5322 lbs (2,414 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "19.3 mph (31 kph)"
+        }
+    }
+}

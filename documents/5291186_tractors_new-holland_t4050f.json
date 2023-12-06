@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t4050f/5291186",
+    "source_url_id": "5291186",
+    "source_url_model": "t4050f",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:41.478612",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T4.050F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Emissions Certification": "4",
+            "Engine Make": "NEW HOLLAND",
+            "Engine Model": "T4050F",
+            "Gross Power": "97 hp (72 kw)",
+            "Max Torque": "293.6 lbs/ft",
+            "Power Measured @": "2300 rpm",
+            "PTO Power": "63 hp (47 kw)",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum Operating Pressure": "2871.8 psi",
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "17 gal/min (64 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.3 gal (72 l)",
+            "Operating Weight": "9479.9 lbs (4,300 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.3 mph (39 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "Power Shuttle"
+        }
+    }
+}

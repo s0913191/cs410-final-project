@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/grove/yb4410/12867",
+    "source_url_id": "12867",
+    "source_url_model": "yb4410",
+    "source_url_make": "grove",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:25.609959",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "YB4410",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "70  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "24 ft (7 m)",
+            "Max Lift Capacity": "20000 lbs (9,072 kg)",
+            "Max Working Radius": "22 ft (7 m)",
+            "Min Height @ Max Raise Angle": "10.9 ft (3 m)",
+            "Min Working Radius": "5 ft (2 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "1.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "80.5 hp (60 kw)",
+            "Make": "Grove",
+            "Max Torque": "53.9 lbs/ft",
+            "Model": "4B3.9 L",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "14.4 ft (4 m)",
+            "Ground Clearance": "0.7 ft (0 m)",
+            "Transport Height": "7.8 ft (2 m)",
+            "Transport Length": "15.8 ft (5 m)",
+            "Transport Width": "7.1 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "3.6 ft (1 m)",
+            "Width w/ Outriggers Extended": "10.9 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "30.2 gal (114 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "17000 lbs (7,711 kg)",
+            "Tire Size": "10.00 x 15-16PR",
+            "Upper Structure Hydraulic System Fluid Capacity": "30.2 gal (114 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15 mph (24 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Automatic"
+        }
+    }
+}

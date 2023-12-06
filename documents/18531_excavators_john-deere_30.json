@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/30/18531",
+    "source_url_id": "18531",
+    "source_url_model": "30",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:06:21.260582",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "30",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "8.7 ft (2 m)",
+            "Max Loading Height": "9.3 ft (3 m)",
+            "Max Reach Along Ground": "14.9 ft (4 m)",
+            "Shipping Height of Unit": "7.9 ft (2 m)",
+            "Shipping Length of Unit": "15.3 ft (5 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Tail Swing Radius": "4.5 ft (1 m)",
+            "Width to Outside of Tracks": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "83 cu in (0 m)",
+            "Engine Model": "3TN82-RJB",
+            "Max Torque": "65 lbs/ft",
+            "Net Power": "24 hp (18 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2350 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "1.5 gal (4 l)",
+            "Engine Oil Capacity": "1.1 gal (4 l)",
+            "Fuel Capacity": "11.4 gal (42 l)",
+            "Hydraulic Pump Flow Capacity": "9 gal/min (34 l/min)",
+            "Hydraulic System Fluid Capacity": "22.5 gal (83 l)",
+            "Hydraulic System Relief Valve Pressure": "2130 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "6300 lbs (2,858 kg)",
+            "Swing Drive Fluid Capacity": "0.7 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.1 psi",
+            "Max Travel Speed": "1.3 mph (2 kph)",
+            "Number of Carrier Rollers per Side": "4",
+            "Number of Shoes per Side": "40",
+            "Number of Track Rollers per Side": "1",
+            "Shoe Size": "13 in (33 cm)",
+            "Track Gauge": "4 ft (1 m)"
+        }
+    }
+}

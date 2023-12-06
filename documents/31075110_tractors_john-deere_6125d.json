@@ -1,0 +1,16 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6125d/31075110",
+    "source_url_id": "31075110",
+    "source_url_model": "6125d",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:22:02.949740",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6125D",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "123 hp (92 kw)"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/landfill-compactors/caterpillar/826h/30678273",
+    "source_url_id": "30678273",
+    "source_url_model": "826h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "landfill-compactors",
+    "source_date_scraped": "2023-09-13 17:39:18.063955",
+    "equipment_category": "Landfill Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "826H",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Planetary - Fixed"
+        },
+        "Blades": {
+            "Blade Capacity": "17.1 cu yds (13 m)",
+            "Blade Height": "74.8 in (188 cm)",
+            "Blade Width": "14.8 ft (4 m)"
+        },
+        "Brakes": {
+            "Standards": "Meet OSHA, SAE J1473 DEC84, ISO 3450:1985 standards"
+        },
+        "Cab": {
+            "ROPS/FOPS": "Meets SAE and ISO standards"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "13.8 ft (4 m)",
+            "Length with Blade on Ground": "27.4 ft (8 m)",
+            "Length With Blade on Ground": "27.34 ft (8 m)",
+            "Wheelbase": "12.2 ft (4 m)",
+            "Width - Over Wheels": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "927.6 cu in (0 m)",
+            "Engine Model": "Cat C15 ACERT",
+            "Flywheel Power": "354 hp (264 kw)",
+            "Gross Power": "401 hp (299 kw)",
+            "Net Power": "354 hp (264 kw)",
+            "Stroke": "6.7 in (15 cm)",
+            "Torque Rise": "19%"
+        },
+        "Hydraulic System": {
+            "Lift Cylinder Bore x Stroke": "120.65 mm  915 mm (4.74 in  36.02 in)",
+            "Relief Valve Setting": "3506.29 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "21.7 gal (79 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Fuel Capacity": "177.6 gal (670 l)",
+            "Hydraulic System Fluid Capacity": "23.3 gal (87 l)",
+            "Operating Weight": "81498 lbs (36,967 kg)",
+            "Transmission Fluid Capacity": "16.4 gal (61 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "21.7 gal (79 l)",
+            "Crankcase": "9 gal (34 l)",
+            "Differential - Final Drives - Front": "23.8 gal (87 l)",
+            "Differential - Final Drives - Rear": "23.8 gal (87 l)",
+            "Fuel Tank": "177.6 gal (670 l)",
+            "Hydraulic Tank": "23.3 gal (87 l)",
+            "Transmission": "16.4 gal (61 l)"
+        },
+        "Sound Performance": {
+            "Standards": "Meet ANSI/SAE and ISO standards"
+        },
+        "Transmission": {
+            "Forward - 1": "3.6 mph (5 kph)",
+            "Forward - 2": "6.1 mph (10 kph)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Reverse - 1": "4.1 mph (6 kph)",
+            "Reverse - 2": "6.6 mph (10 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "81498 lbs (36,967 kg)"
+        },
+        "Wheels": {
+            "Front Wheels Drum Diameter": "60.4 in (152 cm)",
+            "Front Wheels Drum Width": "47.3 in (119 cm)",
+            "Rear Wheels Drum Diameter": "60.4 in (152 cm)",
+            "Rear Wheels Drum Width": "47.3 in (119 cm)"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kioti/ck25/30078050",
+    "source_url_id": "30078050",
+    "source_url_model": "ck25",
+    "source_url_make": "kioti",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:41.235574",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kioti",
+    "equipment_model": "CK25",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.9 in (33 cm)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Overall Length": "10.2 in (25 cm)",
+            "Tire Size": "front 7-14 rear 11.2-24",
+            "Wheelbase": "5.6 ft (2 m)",
+            "Width Outside Frame": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "79.3 cu in (0 m)",
+            "Engine Model": "TD1300LXA",
+            "Gross Power": "25 hp (19 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "19 hp (14 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "13 gal/min (49 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1763.7 lbs (800 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "8 gal (30 l)",
+            "Operating Weight": "3154.9 lbs (1,431 kg)",
+            "Turning Radius": "9.6 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "14.3 mph (23 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "synchro shuttle"
+        }
+    }
+}

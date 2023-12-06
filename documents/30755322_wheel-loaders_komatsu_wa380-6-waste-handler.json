@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa380-6-waste-handler/30755322",
+    "source_url_id": "30755322",
+    "source_url_model": "wa380-6-waste-handler",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:33.548389",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA380-6 Waste Handler",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "7.1 cu yds (5 m)",
+            "Bucket Width": "11.2 ft (3 m)",
+            "Dump Clearance at Max Raise": "9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Hinge Pin - Max Height": "13.6 ft (4 m)",
+            "Length with Bucket on Ground": "27.3 ft (8 m)",
+            "Reach at Max Lift and Dump": "4.6 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)",
+            "Width Over Tires": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "SAA6D107E",
+            "Net Power": "191 hp (142 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "45062.5 lbs (20,440 kg)",
+            "Static Tipping Weight": "33896.1 lbs (15,375 kg)",
+            "Tire Size": "23.5-25 L3",
+            "Turning Radius": "22.1 ft (7 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Auto shift"
+        }
+    }
+}

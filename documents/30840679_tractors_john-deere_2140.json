@@ -1,0 +1,16 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/2140/30840679",
+    "source_url_id": "30840679",
+    "source_url_model": "2140",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:19:27.497273",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "2140",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "61 hp (45 kw)"
+        }
+    }
+}

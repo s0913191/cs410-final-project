@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt500d/30758597",
+    "source_url_id": "30758597",
+    "source_url_model": "rt500d",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:24.288199",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT500D",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "75 ft (23 m)",
+            "Max Lift Capacity": "49100 lbs (22,272 kg)",
+            "Max Operating Radius": "65 ft (20 m)",
+            "Min Height @ Max Raise Angle": "31 ft (9 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "3 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "21.6 ft (6 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Transport Height": "10.7 ft (3 m)",
+            "Transport Length": "37.7 ft (11 m)",
+            "Transport Width": "19.7 ft (6 m)",
+            "Turning Radius": "18.2 ft (5 m)",
+            "Upper Structure Tail Swing Radius": "10.3 ft (3 m)",
+            "Wheelbase": "11.1 in (28 cm)",
+            "Width w/ Outriggers Extended": "20.4 ft (6 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Model": "6BT 5.9L",
+            "Gross Power": "144.9 hp (107 kw)",
+            "Max Torque": "399.8 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Max operating pressure": "3500 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "120 gal (454 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "54962 lbs (24,931 kg)",
+            "Tire Size": "20.5X25-24PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24 mph (39 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full powershift"
+        },
+        "Weights": {
+            "counterweight": "5600 lbs (2,540 kg)"
+        }
+    }
+}

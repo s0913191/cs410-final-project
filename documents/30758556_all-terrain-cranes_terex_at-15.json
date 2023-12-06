@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/at-15/30758556",
+    "source_url_id": "30758556",
+    "source_url_model": "at-15",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:15.337005",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AT 15",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "60  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "65.7 ft (20 m)",
+            "Max Lift Capacity": "33069.4 lbs (15,000 kg)",
+            "Max Operating Radius": "52.1 ft (16 m)",
+            "Min Height @ Max Raise Angle": "26.3 ft (8 m)",
+            "Min Operating Radius": "5.3 ft (2 m)",
+            "Number of Sections": "4"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "19.8 ft (6 m)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "9.8 ft (3 m)",
+            "Transport Length": "30.3 ft (9 m)",
+            "Transport Width": "8.2 ft (2 m)",
+            "Wheelbase": "12.8 in (30 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged + intercooled",
+            "Engine Model": "OM906LA",
+            "Max Torque": "523.7 lbs/ft",
+            "Net Power": "228 hp (170 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Hydraulic System Fluid Capacity": "31.8 gal (117 l)",
+            "Tire Size": "11.00 x 20 Bias Ply Duals"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "52.9 mph (84 kph)",
+            "Number of Forward Gears": "5",
+            "Transmission Type": "Allison 2000"
+        }
+    }
+}

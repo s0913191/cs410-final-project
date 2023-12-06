@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/744k-ii-high-lift/30761271",
+    "source_url_id": "30761271",
+    "source_url_model": "744k-ii-high-lift",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:34.991371",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "744K-II High Lift",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.8 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Deere",
+            "Model": "PSX 6091",
+            "Net Power": "288 hp (215 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "5.25 cu yds (4 m)"
+        },
+        "Weights": {
+            "Operational Weight": "54889 lbs (24,898 kg)"
+        }
+    }
+}

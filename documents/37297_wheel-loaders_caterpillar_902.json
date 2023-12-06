@@ -1,0 +1,88 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/902/37297",
+    "source_url_id": "37297",
+    "source_url_model": "902",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:01.047282",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "902",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "8190 lbs (3,715 kg)",
+            "Bucket Capacity - heaped": "0.7 cu yds (0 m)",
+            "Bucket Width": "5.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "7.7 ft (2 m)"
+        },
+        "Cab": {
+            "FOPS": "meets the following criteria: SAE J231 JAN81, ISO 3449:1992",
+            "ROPS": "meets the following criteria: SAE J1040 MAY94, ISO 3471-1:1986"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Length with Bucket on Ground": "17 ft (5 m)",
+            "Tread Width": "54 in (137 cm)",
+            "Width Over Tires": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "3.3 in (8 cm)",
+            "Displacement": "134.3 cu in (0 m)",
+            "EEC 80/1269 Rating": "46 hp (34 kw)",
+            "Engine Model": "3024",
+            "Gross Power": "48 hp (36 kw)",
+            "ISO 9249 Rating": "46 hp (34 kw)",
+            "Net Power": "46 hp (34 kw)",
+            "SAE J1349 Rating": "46 hp (34 kw)",
+            "Stroke": "3.9 in (8 cm)"
+        },
+        "Hydraulic System": {
+            "3rd Valve Flow": "12.4 gal/min (45 l/min)",
+            "Dump Time": "1.5 sec",
+            "Lower Time": "3.2 sec",
+            "Main Relief": "3400 psi",
+            "Raise Time": "4.5 sec"
+        },
+        "Operating Specifications": {
+            "Articulation": "43  \t\u00b0",
+            "Breakout Force": "8320 lbs (3,774 kg)",
+            "Dump Height at Full Lift": "7.7 ft in (18 cm)",
+            "Fuel Capacity": "19.6 gal (72 l)",
+            "Full Turn Static Tipping Load - Bucket": "5700 lbs (2,586 kg)",
+            "Full Turn Static Tipping Load - Forks": "4400 lb",
+            "Hydraulic Lift Capacity": "7800 lbs (3,538 kg)",
+            "Hydraulic System Fluid Capacity": "17.5 gal (64 l)",
+            "Oscillation +/-": "11  \t\u00b0",
+            "Rack Back - Transport Position": "50  \t\u00b0",
+            "Rated Bucket Capacity": "0.8 cu yds (0 m)",
+            "Rated Operating Load at Full Turn - Bucket": "2860 lbs (1,297 kg)",
+            "Rated Operating Load at Full Turn - Forks": "3520 lb",
+            "Reach - Without Teeth": "2.8 ft (1 m)",
+            "Static Tipping Weight": "6702.1 lbs (3,040 kg)",
+            "Straight Tipping Load - Bucket": "6600 lbs (2,994 kg)"
+        },
+        "Power Train, Axles and Brakes": {
+            "Axle and Final Drives": "fixed front axle with limited slip differential and planetary ge",
+            "Brake Standards": "Brake meets ISO 3450:1996",
+            "Maximum Travel Speeds - Forward and Reverse, High": "12 mph (19 kph)",
+            "Maximum Travel Speeds - With 12.5-18 Tires, Forward and Reverse, Low": "4 mph (6 kph)",
+            "Service and Parking Brake": "Are combined in a single, dry-disc driveline brake",
+            "Transmission Type": "Closed-loop, two-speed hydrostatic single-path transmission."
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "3.7 gal (11 l)",
+            "Engine Oil": "2.1 gal (8 l)",
+            "Fuel Tank": "19.6 gal (72 l)",
+            "Hydraulic System": "17.5 gal (64 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2"
+        },
+        "Weights": {
+            "Operating Weight": "9435 lbs (4,280 kg)"
+        }
+    }
+}

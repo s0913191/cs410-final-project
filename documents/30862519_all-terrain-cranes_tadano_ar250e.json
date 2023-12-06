@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/tadano/ar250e/30862519",
+    "source_url_id": "30862519",
+    "source_url_model": "ar250e",
+    "source_url_make": "tadano",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:01.250977",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "AR250E",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "86.3 ft (26 m)",
+            "Max Lift Capacity": "55115.6 lbs (25,000 kg)",
+            "Max Working Radius": "78.8 ft (24 m)",
+            "Min Height @ Max Raise Angle": "27.8 ft (8 m)",
+            "Min Working Radius": "9.2 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.7 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "712.2 cu in (0 m)",
+            "Gross Power": "226.9 hp (169 kw)",
+            "Make": "Tadano",
+            "Max Torque": "600 lbs/ft",
+            "Model": "PE6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Transport Height": "11.6 ft (3 m)",
+            "Transport Length": "33.4 ft (10 m)",
+            "Transport Width": "8.2 ft (2 m)",
+            "Width w/ Outriggers Extended": "19.1 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "52.9 gal (197 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "52800.8 lbs (23,950 kg)",
+            "Tire Size": "14.00R24"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "43.5 mph (69 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "constant mesh full power shift"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Tadano"
+        }
+    }
+}

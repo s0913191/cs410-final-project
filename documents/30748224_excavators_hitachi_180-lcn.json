@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/180-lcn/30748224",
+    "source_url_id": "30748224",
+    "source_url_model": "180-lcn",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:46.948739",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "180 LCN",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "30.5 ft (9 m)",
+            "Max Digging Depth": "20.1 ft (6 m)",
+            "Max Loading Height": "21.2 ft (6 m)",
+            "Max Reach Along Ground": "29.3 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.1 ft (5 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "29.6 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "30.9 ft (9 m)",
+            "Max Digging Depth": "21.6 ft (6 m)",
+            "Max Loading Height": "21.6 ft (6 m)",
+            "Max Reach Along Ground": "30.5 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "18.3 ft (5 m)",
+            "Shipping Height of Unit": "29.5 ft (9 m)",
+            "Shipping Length of Unit": "10.2 ft (3 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "32.2 ft (10 m)",
+            "Max Digging Depth": "23.2 ft (7 m)",
+            "Max Loading Height": "22.8 ft (7 m)",
+            "Max Reach Along Ground": "32.2 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "20.6 ft (6 m)",
+            "Shipping Height of Unit": "29.5 ft (9 m)",
+            "Shipping Length of Unit": "11.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Length of Track on Ground": "11.1 ft (3 m)",
+            "Removal Counterweight Clearance": "3.4 ft (1 m)",
+            "Tail Swing Radius": "8.2 ft (2 m)",
+            "Width to Outside of Tracks": "1.7 ft (0 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged , intercooler",
+            "Displacement": "375 cu in (0 m)",
+            "Engine Model": "A1-4JJ1X",
+            "Max Torque": "41 lbs/ft",
+            "Net Power": "121 hp (90 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70 A",
+            "Cooling System Fluid Capacity": "4.8 gal (15 l)",
+            "Engine Oil Capacity": "4.5 gal (15 l)",
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Hydraulic Pump Flow Capacity": "50.5 gal/min (189 l/min)",
+            "Hydraulic System Fluid Capacity": "58.2 gal (220 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "41942 lbs (19,025 kg)",
+            "Swing Drive Fluid Capacity": "1.7 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "14.1 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "764.4 lbs (347 kg)",
+            "Ground Pressure": "5.1 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "7",
+            "Number of Shoes per Side": "46",
+            "Number of Track Rollers per Side": "2",
+            "Track Gauge": "6.6 ft (2 m)"
+        }
+    }
+}

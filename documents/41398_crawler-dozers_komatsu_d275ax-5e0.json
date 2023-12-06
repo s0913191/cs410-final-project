@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d275ax-5e0/41398",
+    "source_url_id": "41398",
+    "source_url_model": "d275ax-5e0",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:06.602629",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D275AX-5E0",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "13.1 ft (4 m)",
+            "Length of Track on Ground": "11.5 ft (3 m)",
+            "Track Gauge": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbochanged",
+            "Bore": "5.6 in (13 cm)",
+            "Displacement": "930.1 cu in (0 m)",
+            "Engine Model": "SAA6D140E-5",
+            "Make": "Komatsu",
+            "Model": "SAA6D140E-5",
+            "Net Power": "449 hp (335 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "6.5 in (15 cm)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "113600 lbs (51,529 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "Torqflow"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "6580 cu in (0 m)",
+            "Ground Pressure": "12.7 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "7"
+        },
+        "Weights": {
+            "Ripper weight": "9837.1 lbs (4,462 kg)"
+        }
+    }
+}

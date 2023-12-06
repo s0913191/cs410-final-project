@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/988f-ii/6430",
+    "source_url_id": "6430",
+    "source_url_model": "988f-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:58.366225",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "988F II",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "82282 lbs (37,323 kg)",
+            "Bucket Capacity - heaped": "6.6 cu yds (5 m)",
+            "Bucket Capacity - struck": "4.1 cu yds (3 m)",
+            "Bucket Width": "12.4 ft (4 m)",
+            "Dump Clearance at Max Raise": "10.6 ft (3 m)",
+            "Maximum Bucket Capacity": "9 cu yds (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "13.6 ft (4 m)",
+            "Length with Bucket on Ground": "35.9 ft (11 m)",
+            "Reach at Max Lift and Dump": "5.3 ft (2 m)",
+            "Width Over Tires": "11.6 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "1098.5 cu in (0 m)",
+            "Engine Model": "Cat 3408E",
+            "Gross Power": "675 hp (503 kw)"
+        },
+        "Hydraulic Cycle Times": {
+            "Raise": "7.9 sec"
+        },
+        "Hydraulic System": {
+            "Dump Time": "3.3 sec",
+            "Lower Time": "4 sec",
+            "Raise Time": "7.9 sec"
+        },
+        "Operating Specifications": {
+            "Breakout Force": "129661 lbs (58,814 kg)",
+            "Dump Clearance": "13.9 ft (4 m)",
+            "Fuel Capacity": "174.1 gal (659 l)",
+            "Hydraulic System Fluid Capacity": "78 gal (295 l)",
+            "Operating Weight": "100702.8 lbs (45,678 kg)",
+            "Static Tipping Load - Full Turn": "80432 lbs (36,484 kg)",
+            "Static Tipping Weight": "67889.2 lbs (30,794 kg)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank": "252 gal (954 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.9 mph (34 kph)",
+            "Max Speed - Reverse": "14.7 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

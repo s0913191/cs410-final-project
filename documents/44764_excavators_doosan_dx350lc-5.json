@@ -1,0 +1,92 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx350lc-5/44764",
+    "source_url_id": "44764",
+    "source_url_model": "dx350lc-5",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:48.504966",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX350LC-5",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Digging Force": "41589.7 lbs (18,865 kg)",
+            "Bucket Digging Force": "57101.5 lbs (25,901 kg)",
+            "Max Cutting Height": "33.9 ft (10 m)",
+            "Max Digging Depth": "24.8 ft (7 m)",
+            "Max Loading Height": "8.9 ft (2 m)",
+            "Max Reach Along Ground": "36 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "19.4 ft (6 m)",
+            "Min Digging Reach": "36.7 ft (11 m)",
+            "Minimum swing radius": "175.4 in (445 cm)",
+            "Shipping Height of Unit": "10.8 ft (3 m)",
+            "Shipping Length of Unit": "37.1 ft (11 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "2 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Counterweight Clearance": "4 ft (1 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Length of Track on Ground": "16.2 ft (5 m)",
+            "Overall width -Upper Structure": "9.1 ft (3 m)",
+            "Tail Swing Radius": "11.6 ft (3 m)",
+            "Track shoe width": "31.5 ft (9 m)",
+            "Undercarriage Width": "11.5 ft (3 m)"
+        },
+        "Electrical System": {
+            "Alternator": "24 V, 100 amps A",
+            "Battery": "12 V, 200 AH, 1300",
+            "Starter": "24  V"
+        },
+        "Engine": {
+            "Air cleaner": "Double Elements",
+            "Bore": "5.2 in (13 cm)",
+            "Displacement": "567.6 cu in (0 m)",
+            "Engine Make": "Scania",
+            "Engine Model": "DC09",
+            "Gross Power": "318 hp (237 kw)",
+            "Max Torque": "976.6 lbs/ft",
+            "Net Power": "313 hp (233 kw)",
+            "Power Measured @": "1800 rpm",
+            "Starter": "8 hp (6 kw)",
+            "Stroke": "5.5 in (13 cm)",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "185": "185 gal/min gal/min (700 l/min)",
+            "Pilotpump-Gear Design": "6.4 gal/min",
+            "Relief Pressure - Boost": "5511 psi",
+            "Relief Pressure -Normal": "5511 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "13.8 gal (49 l)",
+            "DEF tank capacity": "18.5 gal (68 l)",
+            "Engine Oil Capacity": "9.6 gal (34 l)",
+            "Fuel Capacity": "158.6 gal (598 l)",
+            "Hydraulic System Fluid Capacity": "118.9 gal (447 l)",
+            "Hydraulic Tank": "100.4 gal (379 l)",
+            "Operating Weight": "80654 lbs (36,584 kg)",
+            "Swing Drive Fluid Capacity": "1.9 gal (4 l)"
+        },
+        "Performance": {
+            "Maximum Grade": "70%",
+            "Swing - Normal Mode": "5511 psi",
+            "Swing-Power Mode": "5511 psi",
+            "Traction Force -Draw bar Pull": "83335 lbs/ft",
+            "Travel-Normal Mode": "5511 psi",
+            "Travel-Power Mode": "5511 psi"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.5 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.5 psi",
+            "Number of bottom rollers per side": "9",
+            "Number of Shoes per Side": "48",
+            "Number of top rollers per side": "2",
+            "Shoe Size": "31.5 in (79 cm)",
+            "Track Gauge": "8.1 ft (2 m)"
+        }
+    }
+}

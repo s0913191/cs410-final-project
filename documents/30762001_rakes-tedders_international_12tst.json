@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rakes-tedders/international/12tst/30762001",
+    "source_url_id": "30762001",
+    "source_url_model": "12tst",
+    "source_url_make": "international",
+    "source_url_category": "rakes-tedders",
+    "source_date_scraped": "2023-09-13 17:08:25.560595",
+    "equipment_category": "Rakes / Tedders",
+    "equipment_make": "International",
+    "equipment_model": "12TST",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "20x6.83 ft (6 m)"
+        },
+        "Engine": {
+            "Speed Rating": "65 mph (105 kph)"
+        },
+        "Weights": {
+            "Equipment Weight": "3600 lbs (1,633 kg)",
+            "Weight Capacity": "12000 lbs (5,443 kg)"
+        }
+    }
+}

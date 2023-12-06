@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/bobcat/e20/43819",
+    "source_url_id": "43819",
+    "source_url_model": "e20",
+    "source_url_make": "bobcat",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:52:58.491492",
+    "equipment_category": "Excavators",
+    "equipment_make": "Bobcat",
+    "equipment_model": "E20",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Digging Force": "2086 lbs (946 kg)",
+            "Boom Swing - Left": "80  \t\u00b0",
+            "Boom Swing - Right": "60  \t\u00b0",
+            "Bucket Digging Force": "4684 lbs (2,125 kg)",
+            "Max Digging Depth": "8.5 ft (2 m)",
+            "Max Reach Along Ground": "14 ft (4 m)",
+            "Max.Dumping Height": "8.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height": "90.4 in (229 cm)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Length": "145.2 in (368 cm)",
+            "Width": "39 in (99 cm)"
+        },
+        "Engine": {
+            "Emissions": "Tier 4",
+            "Fuel": "Diesel",
+            "Net Power": "13.9 hp (10 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Operating pressure": "2610 psi",
+            "Pump Flow Capacity": "7.9 gal/min (27 l/min)"
+        },
+        "Lift System": {
+            "Lift Radius": "118 in (300 cm)",
+            "Max Lift Capacity": "1023 lbs (464 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "5 gal (19 l)",
+            "Operating Weight": "4306 lbs (1,953 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.5 mph (3 kph)",
+            "Min Travel Speed": "1.5 mph (2 kph)"
+        }
+    }
+}

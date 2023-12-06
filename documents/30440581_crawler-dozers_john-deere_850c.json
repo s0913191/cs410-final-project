@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/850c/30440581",
+    "source_url_id": "30440581",
+    "source_url_model": "850c",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:15.057635",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "850C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Width Over Tracks": "10.7 ft in (25 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "466 cu in (0 m)",
+            "Engine Model": "400 Series",
+            "Max Torque": "578 lbs/ft",
+            "Net Power": "180 hp (134 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "34 gal (129 l)",
+            "Final Drives Fluid Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "92 gal (348 l)",
+            "Hydraulic Fluid Capacity": "21 gal (79 l)",
+            "Operating Weight": "40043 lbs (18,163 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

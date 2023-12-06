@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/328e/36298",
+    "source_url_id": "36298",
+    "source_url_model": "328e",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:56.979378",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "328E",
+    "equipment_spec": {
+        "Axles": {
+            "Maximum Axle Torque": "6235 lbs/ft"
+        },
+        "Engine": {
+            "Displacement": "189.2 cu in (0 m)",
+            "Emissions Certification": "Tier 4",
+            "Engine Make": "Yanmar",
+            "Engine Model": "4TNV94CHT",
+            "Gross Power": "83 hp (62 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Loader": {
+            "Boom breakout force": "5000 lbs (2,268 kg)",
+            "bucket breakout force (ISO 14397)": "10300 lbs (4,672 kg)",
+            "Operating Load Rating": "2800 lbs (1,270 kg)",
+            "Operating Width": "77 in (196 cm)",
+            "Tipping load (ISO 14397)": "5600 lbs (2,540 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "26 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "2800 lbs (1,270 kg)"
+        }
+    }
+}

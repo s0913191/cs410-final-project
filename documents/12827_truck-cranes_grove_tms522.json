@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tms522/12827",
+    "source_url_id": "12827",
+    "source_url_model": "tms522",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:41.055051",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TMS522",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "75  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "70 ft (21 m)",
+            "Max Lift Capacity": "44000 lbs (19,958 kg)",
+            "Max Working Radius": "65 ft (20 m)",
+            "Min Height @ Max Raise Angle": "28 ft (9 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "3 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Make": "Grove"
+        },
+        "Dimensions": {
+            "Carrier Length": "27.7 ft (8 m)",
+            "Ground Clearance": "0.7 ft (0 m)",
+            "Transport Height": "11.8 ft (3 m)",
+            "Transport Length": "35.3 ft (11 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "9.5 ft (3 m)",
+            "Width w/ Outriggers Extended": "19 ft (6 m)"
+        },
+        "Hydraulic System": {
+            "Maximum operating pressure": "2500 psi"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "60 gal (227 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "44378 lbs (20,130 kg)",
+            "Tire Size": "front 15.00x22.5-16PR rear9.00x20 -10PR",
+            "Turning Radius": "36.1 ft (11 m)",
+            "Upper Structure Hydraulic System Fluid Capacity": "88 gal (333 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "13",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Fuller roadranger RT6613"
+        }
+    }
+}

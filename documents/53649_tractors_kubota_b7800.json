@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/b7800/53649",
+    "source_url_id": "53649",
+    "source_url_model": "b7800",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:26:41.571091",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "B7800",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "spur gear"
+        },
+        "Dimensions": {
+            "Ground Clearance": "14.6 in (36 cm)",
+            "Overall Length": "8.3 in (20 cm)",
+            "Tire Size": "front 7-12 rear 12.4-16",
+            "Wheelbase": "5.5 ft (2 m)",
+            "Width Outside Frame": "4.5 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "E-TVCS liquid cooled",
+            "Displacement": "91.5 cu in (0 m)",
+            "Engine Model": "V1505-E-D16",
+            "Gross Power": "30 hp (22 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2900 rpm",
+            "PTO Power": "22 hp (16 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "9.6 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1300.8 lbs (590 kg)",
+            "3 Point Hitch Type": "cat. I",
+            "Cooling System Fluid Capacity": "1.2 gal (4 l)",
+            "Engine Oil Capacity": "1.1 gal (4 l)",
+            "Fuel Capacity": "6.9 gal (23 l)",
+            "Operating Weight": "1741.7 lbs (790 kg)",
+            "Turning Radius": "6.9 ft (2 m)"
+        },
+        "Production": {
+            "Series": "B Series",
+            "Years Manufactured": "2003 - 2008"
+        },
+        "Transmission": {
+            "Max Speed": "11.9 mph (18 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "HST 3 range"
+        }
+    }
+}

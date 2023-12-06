@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt535e/12928",
+    "source_url_id": "12928",
+    "source_url_model": "rt535e",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:28.060225",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT535E",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "102 ft (31 m)",
+            "Max Lift Capacity": "70000 lbs (31,752 kg)",
+            "Max Operating Radius": "95 ft (29 m)",
+            "Min Height @ Max Raise Angle": "32 ft (10 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "23.3 ft (7 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Transport Height": "10.7 ft (3 m)",
+            "Transport Length": "38.7 ft (12 m)",
+            "Transport Width": "8.6 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "12.1 ft (4 m)",
+            "Wheelbase": "12.1 in (30 cm)",
+            "Width w/ Outriggers Extended": "20 ft (6 m)"
+        },
+        "Engine": {
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "QSB 5.9L",
+            "Gross Power": "155.6 hp (116 kw)",
+            "Max Torque": "440.4 lbs/ft",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "58 gal (220 l)",
+            "Hydraulic System Fluid Capacity": "104.7 gal (394 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "59135 lbs (26,824 kg)",
+            "Tire Size": "20.5x25-24 bias"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Range-shift"
+        }
+    }
+}

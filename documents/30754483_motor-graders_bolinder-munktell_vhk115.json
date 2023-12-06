@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/bolinder-munktell/vhk115/30754483",
+    "source_url_id": "30754483",
+    "source_url_model": "vhk115",
+    "source_url_make": "bolinder-munktell",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:33:43.158920",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Bolinder Munktell",
+    "equipment_model": "VHK115",
+    "equipment_spec": {
+        "Circle": {
+            "Diameter": "58.6 in (147 cm)",
+            "Max Lift Above Ground": "22.7 in (56 cm)",
+            "Max Reach Outside Tires - Left": "93.8 in (236 cm)",
+            "Max Reach Outside Tires - Right": "93.8 in (236 cm)",
+            "Rotation": "360  \t\u00b0"
+        },
+        "Dimensions": {
+            "Blade Base": "8.2 ft (2 m)",
+            "Front Ground Clearance": "2 ft (1 m)",
+            "Height to Top of Isomount Cab": "10 ft (3 m)",
+            "Overall Length": "25.5 ft (8 m)",
+            "Tandem Axle Wheelbase": "5 ft (2 m)",
+            "Wheelbase": "18.3 ft (5 m)",
+            "Width Over Tires": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "410.7 cu in (0 m)",
+            "Engine Model": "D67",
+            "Max Power": "110 hp (82 kw)",
+            "Net Power Gears 7-8": "110 hp (82 kw)"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Wheel Lean": "23  \t\u00b0"
+        },
+        "Moldboard": {
+            "Moldboard Height": "22.1 in (56 cm)",
+            "Moldboard Thickness": "0.8 in (0 cm)",
+            "Moldboard Width": "12.1 ft (4 m)",
+            "Side Shift Left": "39.4 in (99 cm)",
+            "Side Shift Right": "39.4 in (99 cm)"
+        },
+        "Operating Specifications": {
+            "Circle Gearbox Fluid Capacity": "6.7 gal (23 l)",
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Front Axle": "6922.6 lbs (3,140 kg)",
+            "Std Operation Weight - Rear Axle": "17041.8 lbs (7,730 kg)",
+            "Std Operation Weight - Total": "23964.3 lbs (10,870 kg)",
+            "Tire Size": "13.00-24 12ply",
+            "Transmission Fluid Capacity": "19.6 gal (72 l)"
+        },
+        "Steering System": {
+            "Turning Radius": "29.6 ft (9 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.6 mph (34 kph)",
+            "Max Speed - Reverse": "5.1 mph (8 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "2"
+        }
+    }
+}

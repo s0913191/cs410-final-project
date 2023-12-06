@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/tadano/3612/30758409",
+    "source_url_id": "30758409",
+    "source_url_model": "3612",
+    "source_url_make": "tadano",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:02.929244",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "3612",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "71 ft (22 m)",
+            "Min Height @ Max Raise Angle": "29.5 ft (9 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Tail Swing Radius": "10.1 ft (3 m)",
+            "Transport Length": "39.6 ft (12 m)",
+            "Transport Width": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged & Air Cooled",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "360.1 cu in (0 m)",
+            "Emissions level": "EPA Tier 3",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB173",
+            "Gross Power": "173 hp (129 kw)",
+            "Max Torque": "590.1 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "1000  A",
+            "Engine Oil Capacity": "4.4 gal (15 l)",
+            "Fuel Capacity": "55 gal (208 l)",
+            "Hydraulic System Fluid Capacity": "150.1 gal (568 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "51288.4 lbs (23,264 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8.9 psi",
+            "Width of Shoes": "18 in (46 cm)"
+        }
+    }
+}

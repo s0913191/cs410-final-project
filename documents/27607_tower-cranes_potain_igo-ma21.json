@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/igo-ma21/27607",
+    "source_url_id": "27607",
+    "source_url_model": "igo-ma21",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:19.320784",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "IGO MA21",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "63.3 ft (19 m)",
+            "Max Lift Capacity": "2 t (1,814 kg)"
+        }
+    }
+}

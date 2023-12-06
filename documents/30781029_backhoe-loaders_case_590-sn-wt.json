@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/case/590-sn-wt/30781029",
+    "source_url_id": "30781029",
+    "source_url_model": "590-sn-wt",
+    "source_url_make": "case",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:19.926323",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "590 SN WT",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "12.0 ft (4 m)",
+            "Max Digging Depth": "14.5 ft (4 m)"
+        },
+        "Loader": {
+            "Breakout Force": "11,450 lbs (5,194 kg)",
+            "Lift Capacity": "8,425 lbs (3,822 kg)",
+            "SAE - Net": "95 hp (71 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "19985 lbs (9,065 kg)"
+        },
+        "Travel Speed": {
+            "4th Gear Fwd": "23 mph (37 kph)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/drop-deck-lowboy-trailers/towmaster/t-14dd/31498",
+    "source_url_id": "31498",
+    "source_url_model": "t-14dd",
+    "source_url_make": "towmaster",
+    "source_url_category": "drop-deck-lowboy-trailers",
+    "source_date_scraped": "2023-09-13 17:53:54.325056",
+    "equipment_category": "Drop Deck / Lowboy Trailers",
+    "equipment_make": "Towmaster",
+    "equipment_model": "T-14DD",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "7x16 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "TORFLEX"
+        },
+        "Weights": {
+            "Equipment Weight": "3980 lbs (1,805 kg)",
+            "Weight Capacity": "14000 lbs (6,350 kg)"
+        }
+    }
+}

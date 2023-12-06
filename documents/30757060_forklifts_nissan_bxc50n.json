@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/nissan/bxc50n/30757060",
+    "source_url_id": "30757060",
+    "source_url_model": "bxc50n",
+    "source_url_make": "nissan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:37:04.366089",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Nissan",
+    "equipment_model": "BXC50N",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Pedal",
+            "Service brake": "Hydraulic/Electical"
+        },
+        "Chassis": {
+            "Headroom": "42.4 in (107 cm)"
+        },
+        "Dimensions": {
+            "Fork Size Length": "42.2 in (107 cm)",
+            "Fork Size Thickness": "1.6 in (3 cm)",
+            "Fork Size Width": "4 in (10 cm)",
+            "Free lift": "4.1 in (10 cm)",
+            "Length to Fork Face": "7.2 ft (2 m)",
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "7 ft (2 m)",
+            "Overall Width": "3.1 ft (1 m)",
+            "Overhang Front": "1.4 ft (0 m)",
+            "Overhang Rear": "1.7 ft (0 m)",
+            "Turning Radius - Minimum": "6151.6 ft (1,875 m)",
+            "Wheelbase": "4.2 ft (1 m)"
+        },
+        "Electrical System": {
+            "Battery": "36V/48V"
+        },
+        "Engine": {
+            "Engine Model": "BXC50N",
+            "Model Name": "MCT1B2L25S"
+        },
+        "MAST": {
+            "Load Capacity": "5511.6 lbs (2,500 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Mast Extended height with LBR": "48.1 in (122 cm)",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "counter weight height": "42.4 in (107 cm)",
+            "Max Speed": "9.3 mph (14 kph)",
+            "Number of Front Wheels": "2X",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "8950.8 lbs (4,060 kg)",
+            "Tire Type": "Cushion"
+        },
+        "Tires": {
+            "Front Tires Size": "21X7X15",
+            "Front Wheels": "35.1 in (89 cm)",
+            "Rear Tires Size": "16-1/4611-1/4",
+            "Rear Wheels": "35.1 in (89 cm)"
+        },
+        "Transmission": {
+            "Travelspeeds(BACKWRD)Speed range": "2-2",
+            "Type - TTS870": "Automatic Powershift"
+        }
+    }
+}

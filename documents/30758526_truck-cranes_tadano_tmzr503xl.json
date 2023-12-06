@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/tadano/tmzr503xl/30758526",
+    "source_url_id": "30758526",
+    "source_url_model": "tmzr503xl",
+    "source_url_make": "tadano",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:07.619746",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "TMZR503XL",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "27.3 ft (8 m)",
+            "Max Lift Capacity": "10000 lbs (4,536 kg)",
+            "Max Working Radius": "25 ft (8 m)",
+            "Min Height @ Max Raise Angle": "11.4 ft (3 m)",
+            "Min Working Radius": "5 ft (2 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.5 rpm"
+        },
+        "Dimensions": {
+            "Transport Height": "3.8 ft (1 m)",
+            "Transport Length": "11.4 ft (3 m)",
+            "Transport Width": "7.7 ft (2 m)",
+            "Width w/ Outriggers Extended": "12.5 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3330 lbs (1,511 kg)"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/tm-300-52/30755238",
+    "source_url_id": "30755238",
+    "source_url_model": "tm-300-52",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:47:46.649829",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "TM 300-52",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "7630.1 lbs (3,461 kg)",
+            "Bucket Capacity - heaped": "1.4 cu yds (1 m)",
+            "Bucket Width": "7.6 ft (2 m)",
+            "Dump Clearance at Max Raise": "13.5 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Hinge Pin - Max Height": "17.9 ft (5 m)",
+            "Length with Bucket on Ground": "21.8 ft (6 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "8.3 ft (2 m)",
+            "Width Over Tires": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged / charge cooled",
+            "Displacement": "269 cu in (0 m)",
+            "Engine Model": "1104C-44TA",
+            "Gross Power": "121.4 hp (90 kw)",
+            "Net Power": "110 hp (82 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "31.8 gal/min (117 l/min)",
+            "Pump Type": "Twin Gear",
+            "Relief Valve Setting": "3336 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Cooling System Fluid Capacity": "5.3 gal (19 l)",
+            "Engine Oil Fluid Capacity": "2.9 gal (8 l)",
+            "Front Axle/Diff Fluid Capacity": "5.3 gal (19 l)",
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "17772 lbs (8,061 kg)",
+            "Rear Axle/Diff Fluid Capacity": "5.3 gal (19 l)",
+            "Static Tipping Weight": "9325.6 lbs (4,230 kg)",
+            "Tire Size": "17.5x24",
+            "Transmission Fluid Capacity": "5.1 gal (19 l)",
+            "Turning Radius": "7.1 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.8 mph (34 kph)",
+            "Max Speed - Reverse": "21.8 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "4 Speed Powershift"
+        }
+    }
+}

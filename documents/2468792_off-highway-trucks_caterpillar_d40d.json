@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/d40d/2468792",
+    "source_url_id": "2468792",
+    "source_url_model": "d40d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:06.382476",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D40D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Height": "18.1 ft (5 m)",
+            "Overall Height": "11.7 ft (3 m)",
+            "Overall Length": "32.1 ft (10 m)",
+            "Overall Width": "11.4 ft (3 m)",
+            "Wheelbase": "16 ft (5 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "29.3 cu yds (22 m)",
+            "Capacity - Struck": "22.2 cu yds (17 m)",
+            "Rated Payload": "79986 lbs (36,281 kg)"
+        },
+        "Engine": {
+            "Displacement": "891 cu in (0 m)",
+            "Engine Model": "3406",
+            "Gross Power": "385 hp (287 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Tire Size": "front 29.5x25 Radials, rear 33.25x29 Radials"
+        },
+        "Transmission": {
+            "Max Speed": "34.2 mph (55 kph)",
+            "Number of Forward Gears": "4"
+        },
+        "Weights": {
+            "Front Axle - empty": "38309.8 lbs (17,377 kg)",
+            "Front Axle - loaded": "55292 lbs (25,080 kg)",
+            "Rear Axle - empty": "23479.3 lbs (10,650 kg)",
+            "Rear Axle - loaded": "86483 lbs (39,228 kg)",
+            "Total Empty": "61789 lbs (28,027 kg)",
+            "Total Loaded": "141774.9 lbs (64,308 kg)"
+        }
+    }
+}

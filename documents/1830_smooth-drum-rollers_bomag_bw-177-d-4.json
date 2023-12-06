@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-177-d-4/1830",
+    "source_url_id": "1830",
+    "source_url_model": "bw-177-d-4",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:07.199465",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 177 D-4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Overall Length": "16.2 in (41 cm)",
+            "Overall Width": "6.1 ft (2 m)"
+        },
+        "Drum": {
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibration Frequency 2": "40 hz (2,400 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BF 4 M 2011",
+            "Gross Power": "75.1 hp (56 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Operating Weight": "19555.1 lbs (8,870 kg)"
+        }
+    }
+}

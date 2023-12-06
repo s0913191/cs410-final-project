@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/sv510tb-iii/30800754",
+    "source_url_id": "30800754",
+    "source_url_model": "sv510tb-iii",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:08.194117",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "SV510TB-III",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "136 in (345 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "1650 - 2,200 hz (99,000 - 132,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB4.5"
+        },
+        "Operating Specifications": {
+            "Operating Width": "110 in (279 cm)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/383/30468092",
+    "source_url_id": "30468092",
+    "source_url_model": "383",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:38.982090",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "383",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Production": {
+            "Series": "300 Series",
+            "Years Manufactured": "1987 - 1997"
+        }
+    }
+}

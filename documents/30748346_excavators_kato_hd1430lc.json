@@ -1,0 +1,82 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kato/hd1430lc/30748346",
+    "source_url_id": "30748346",
+    "source_url_model": "hd1430lc",
+    "source_url_make": "kato",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:07:20.376034",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kato",
+    "equipment_model": "HD1430LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.3 ft (10 m)",
+            "Max Digging Depth": "22.1 ft (7 m)",
+            "Max Loading Height": "23.4 ft (7 m)",
+            "Max Reach Along Ground": "34.1 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "18.8 ft (5 m)",
+            "Shipping Height of Unit": "11.1 ft (3 m)",
+            "Shipping Length of Unit": "36.1 ft (11 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "33.9 ft (10 m)",
+            "Max Digging Depth": "24.3 ft (7 m)",
+            "Max Loading Height": "24 ft (7 m)",
+            "Max Reach Along Ground": "36.1 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "21.5 ft (6 m)",
+            "Shipping Height of Unit": "11.1 ft (3 m)",
+            "Shipping Length of Unit": "36.1 ft (11 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "35.6 ft (11 m)",
+            "Max Digging Depth": "27.6 ft (8 m)",
+            "Max Loading Height": "25.5 ft (8 m)",
+            "Max Reach Along Ground": "39.3 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "25.1 ft (8 m)",
+            "Shipping Height of Unit": "11.1 ft (3 m)",
+            "Shipping Length of Unit": "36.1 ft (11 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "1.9 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Length of Track on Ground": "13.4 ft (4 m)",
+            "Removal Counterweight Clearance": "3.8 ft (1 m)",
+            "Tail Swing Radius": "11.4 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "729 cu in (0 m)",
+            "Engine Model": "6D24-TE1",
+            "Max Torque": "745 lbs/ft",
+            "Net Power": "232 hp (173 kw)",
+            "Power Measured @": "1700 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "35 A",
+            "Cooling System Fluid Capacity": "14.2 gal (53 l)",
+            "Engine Oil Capacity": "13 gal (49 l)",
+            "Fuel Capacity": "148 gal (560 l)",
+            "Hydraulic Pump Flow Capacity": "160 gal/min (606 l/min)",
+            "Hydraulic System Fluid Capacity": "128.2 gal (484 l)",
+            "Hydraulic System Relief Valve Pressure": "4760 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "68122.9 lbs (30,900 kg)",
+            "Swing Drive Fluid Capacity": "3 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8.4 psi",
+            "Max Travel Speed": "3.4 mph (5 kph)",
+            "Number of Shoes per Side": "48",
+            "Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "8.6 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/4045r/30436886",
+    "source_url_id": "30436886",
+    "source_url_model": "4045r",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:38.732597",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "4045R",
+    "equipment_spec": {
+        "Brakes": {
+            "Brakes Type": "Multi-Disc Friction (Hydraulic)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "5 in (13 cm)",
+            "Overall Height": "8.4 ft (2 m)",
+            "Overall Length": "106 in (269 cm)",
+            "Overall Width": "3.9 ft (1 m)",
+            "Turning Radius": "8.4 ft (2 m)",
+            "Wheelbase": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "4 x 12V 150 amp-hour",
+            "Charger Amps": "27",
+            "Maximum Ground Bearing Pressure": "135 psi"
+        },
+        "Performance": {
+            "Drive Speed - Platform Elevated": "0.5 mph (0 kph)",
+            "Drive Speed - Platform Lowered": "2 mph (3 kph)",
+            "Drive System": "Hydraulic Front Wheel",
+            "Gradeability": "25%",
+            "Hydraulic Pump Type": "Fixed Displacement Gear",
+            "Hydraulic System Fluid Capacity": "7.9 gal (27 l)",
+            "Maximum Drive Height": "19 ft (6 m)",
+            "Operating Weight": "7000 lbs (3,175 kg)",
+            "Tire Size": "16 X 5 in"
+        },
+        "Platform": {
+            "Height of Rails": "3.8 ft (1 m)",
+            "Lift Time": "73 sec",
+            "Lower Time": "48 sec",
+            "Max Platform Height": "4.7 ft (1 m)",
+            "Max Working Height": "45.3 ft (14 m)",
+            "Platform Capacity - Extension": "250 lbs (113 kg)"
+        }
+    }
+}

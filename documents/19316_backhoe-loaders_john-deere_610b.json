@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/john-deere/610b/19316",
+    "source_url_id": "19316",
+    "source_url_model": "610b",
+    "source_url_make": "john-deere",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:34.035989",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "610B",
+    "equipment_spec": {
+        "Backhoe": {
+            "Load Height": "12.2 ft (4 m)"
+        },
+        "Dimensions": {
+            "Transport Length": "12.2 ft (4 m)",
+            "Transport Width": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "300 Series",
+            "Net Max Torque": "248 lbs/ft",
+            "Net Power": "80 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30 gal/min (114 l/min)",
+            "Pump Type": "Close-Center",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "35  A",
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Front Axle Fluid Capacity": "1.8 gal (4 l)",
+            "Fuel Capacity": "23 gal (87 l)",
+            "Hydraulic System Fluid Capacity": "20 gal (76 l)",
+            "Max Weight": "14651 lbs (6,646 kg)",
+            "Operating Voltage": "12 V V",
+            "Rear Axle Fluid Capacity": "4.5 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "12-16.5,8PR F3",
+            "Transmission Fluid Capacity": "20 gal (76 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5L-24,12PR R4"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

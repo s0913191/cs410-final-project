@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/sd25d-tf-series/30800689",
+    "source_url_id": "30800689",
+    "source_url_model": "sd25d-tf-series",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:34.631232",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "SD25D TF Series",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "84 in (213 cm)"
+        },
+        "Drum": {
+            "Drum Width": "42 in (107 cm)",
+            "Vibration Frequency": "2200 hz (132,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "49.4 in (124 cm)"
+        }
+    }
+}

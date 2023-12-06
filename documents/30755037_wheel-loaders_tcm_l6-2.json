@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/tcm/l6-2/30755037",
+    "source_url_id": "30755037",
+    "source_url_model": "l6-2",
+    "source_url_make": "tcm",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:28.547578",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "TCM",
+    "equipment_model": "L6-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.8 cu yds (0 m)",
+            "Bucket Width": "5.6 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Length with Bucket on Ground": "15.5 ft (5 m)",
+            "Reach at Max Lift and Dump": "3.1 ft (1 m)",
+            "Wheelbase": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "D1503-DI-K2A",
+            "Net Power": "36.5 hp (27 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Operating Weight": "7859.5 lbs (3,565 kg)",
+            "Static Tipping Weight": "4232.9 lbs (1,920 kg)",
+            "Tire Size": "15.5/20- 10 PR L2"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "9.4 mph (14 kph)",
+            "Max Speed - Reverse": "9.4 mph (14 kph)",
+            "Transmission Type": "powershift"
+        }
+    }
+}

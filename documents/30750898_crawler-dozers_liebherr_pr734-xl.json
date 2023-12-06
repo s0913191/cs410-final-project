@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/liebherr/pr734-xl/30750898",
+    "source_url_id": "30750898",
+    "source_url_model": "pr734-xl",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:57.037076",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Liebherr",
+    "equipment_model": "PR734 XL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Length of Track on Ground": "10.7 ft (3 m)",
+            "Length w/ Blade": "19.6 ft (6 m)",
+            "Length w/o Blade": "14.1 ft (4 m)",
+            "Width Over Tracks": "9 ft in (23 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Direct injection turbo-charged",
+            "Displacement": "610 cu in (0 m)",
+            "Engine Model": "D 926 TI-E",
+            "Gross Power": "200 hp (149 kw)",
+            "Net Power": "197 hp (147 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "55.3 gal/min (208 l/min)",
+            "Pump type": "swash plate piston pump",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "11.4 gal (42 l)",
+            "Engine Oil Capacity": "5.9 gal (19 l)",
+            "Final Drives Fluid Capacity": "3.7 gal (11 l)",
+            "Fuel Capacity": "116.3 gal (439 l)",
+            "Hydraulic Fluid Capacity": "42.8 gal (159 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "47406 lbs (21,503 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "7.7 cu yds (5 m)",
+            "Height": "55.2 in (140 cm)",
+            "Width": "11.1 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.9 mph (10 kph)",
+            "Max Speed - Reverse": "4.8 mph (6 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic travel drive and control"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.7 psi",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24 in (61 cm)"
+        }
+    }
+}

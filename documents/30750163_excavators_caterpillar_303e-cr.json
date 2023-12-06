@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/303e-cr/30750163",
+    "source_url_id": "30750163",
+    "source_url_model": "303e-cr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:03.951152",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "303E CR",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "13 in (33 cm)",
+            "Blade Lift Height": "16 in (41 cm)",
+            "Blade Width": "5 ft (2 m)",
+            "Dig Depth": "19 in (48 cm)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "9 ft (3 m)",
+            "Max Reach Along Ground": "15.8 ft (5 m)"
+        },
+        "Engine": {
+            "Bore": "3.1 in (8 cm)",
+            "Displacement": "77 cu in (0 m)",
+            "Engine Model": "Cat C1.3",
+            "Gross Power": "24.8 hp (18 kw)",
+            "Net Power": "23.5 hp (17 kw)",
+            "Stroke": "3.5 in (8 cm)"
+        },
+        "Hydraulic System": {
+            "Digging Force - Bucket": "6385 lbs (2,896 kg)",
+            "Digging Force - Stick - Long": "3327 lbs (1,509 kg)",
+            "Digging Force - Stick - Standard": "3732 lbs (1,693 kg)",
+            "Hydraulic System Type": "Load Sensing Hydraulics with Variable Displacement Piston Pump",
+            "Operating Pressure - Equipment": "3553 psi",
+            "Operating Pressure - Swing": "2625 psi",
+            "Operating Pressure - Travel": "3553 psi",
+            "Pump Flow at 2,400 rpm": "23.1 gal/min (87 l/min)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "7782 lbs (3,530 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "1.2 gal (4 l)",
+            "Engine Oil": "1.5 gal (4 l)",
+            "Fuel Tank": "11.9 gal (42 l)",
+            "Hydraulic System": "17.2 gal (64 l)",
+            "Hydraulic Tank": "12.4 gal (45 l)"
+        },
+        "Swing System": {
+            "Boom Swing - Left - Without Stop": "80  \t\u00b0",
+            "Machine Swing Speed": "9 rpm"
+        },
+        "Travel System": {
+            "Maximum Traction Force - High Speed": "3417 lbs (1,550 kg)",
+            "Maximum Traction Force - Low Speed": "6947 lbs (3,151 kg)",
+            "Travel Speed - High": "2.8 mph (3 kph)",
+            "Travel Speed - Low": "1.5 mph (2 kph)"
+        },
+        "Weights": {
+            "Operating Weight - With Cab": "7204 lbs (3,268 kg)",
+            "Operating Weight - With Canopy": "6721 lbs (3,049 kg)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/394s/30134765",
+    "source_url_id": "30134765",
+    "source_url_model": "394s",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:39.890552",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "394S",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "81 hp (60 kw)"
+        },
+        "Production": {
+            "Series": "304 Specialty Series",
+            "Years Manufactured": "1994 - 1999"
+        }
+    }
+}

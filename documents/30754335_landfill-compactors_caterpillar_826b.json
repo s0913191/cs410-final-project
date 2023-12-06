@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/landfill-compactors/caterpillar/826b/30754335",
+    "source_url_id": "30754335",
+    "source_url_model": "826b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "landfill-compactors",
+    "source_date_scraped": "2023-09-13 17:39:17.600663",
+    "equipment_category": "Landfill Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "826B",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "77.2 in (196 cm)",
+            "Blade Width": "14.4 ft (4 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "12.4 ft (4 m)",
+            "Length With Blade on Ground": "25.83 ft (8 m)",
+            "Length with Blade on Ground": "25.9 ft (8 m)",
+            "Wheelbase": "11.7 ft (3 m)",
+            "Width Over Wheels": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "891 cu in (0 m)",
+            "Engine Model": "D343",
+            "Gross Power": "300 hp (224 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "150.6 gal (568 l)",
+            "Operating Weight": "65411.2 lbs (29,670 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        },
+        "Wheels": {
+            "Front Wheels Drum Diameter": "60.3 in (152 cm)",
+            "Front Wheels Drum Width": "48.5 in (122 cm)"
+        }
+    }
+}

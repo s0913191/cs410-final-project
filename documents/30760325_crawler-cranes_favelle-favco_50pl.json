@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/favelle-favco/50pl/30760325",
+    "source_url_id": "30760325",
+    "source_url_model": "50pl",
+    "source_url_make": "favelle-favco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:30.278037",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Favelle Favco",
+    "equipment_model": "50PL",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "187 ft (57 m)",
+            "Max Lift Capacity": "50 t (45,359 kg)"
+        }
+    }
+}

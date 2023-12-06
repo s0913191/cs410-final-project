@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/hitachi/dx45m-c-landy/30750724",
+    "source_url_id": "30750724",
+    "source_url_model": "dx45m-c-landy",
+    "source_url_make": "hitachi",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:27.578327",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Hitachi",
+    "equipment_model": "DX45M-C Landy",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Length of Track on Ground": "5.6 ft (2 m)",
+            "Length w/ Blade": "11.5 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "186.7 cu in (0 m)",
+            "Engine Model": "A-4JG2",
+            "Net Power": "40 hp (30 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "9546.1 lbs (4,330 kg)"
+        },
+        "Standard Blade": {
+            "Height": "23.5 in (58 cm)",
+            "Width": "8.4 ft (2 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "DPS"
+        },
+        "Undercarriage": {
+            "Track Gauge": "4.9 ft (1 m)"
+        }
+    }
+}

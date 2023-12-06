@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/claas/quadrant-3300-fc/30752292",
+    "source_url_id": "30752292",
+    "source_url_model": "quadrant-3300-fc",
+    "source_url_make": "claas",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:59:25.602407",
+    "equipment_category": "Balers",
+    "equipment_make": "Claas",
+    "equipment_model": "QUADRANT 3300 FC",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "3 ft (1 m)",
+            "Bale Length - max": "10 ft (3 m)",
+            "Bale Width": "4 ft (1 m)",
+            "Baler PTO speed": "1000 rpm"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "6",
+            "Overall Width": "0.8 ft (0 m)",
+            "Tine to Tine Width": "6.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "11.3 ft (3 m)",
+            "Overall Length": "26.6 ft (8 m)",
+            "Overall Width": "9.8 ft (3 m)",
+            "Weight": "24118.6 lbs (10,940 kg)"
+        },
+        "Feeding Chamber": {
+            "Packer Type": "2-phase cycle"
+        },
+        "Plunger": {
+            "SPM": "51"
+        }
+    }
+}

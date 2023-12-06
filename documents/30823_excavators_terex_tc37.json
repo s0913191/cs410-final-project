@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/tc37/30823",
+    "source_url_id": "30823",
+    "source_url_model": "tc37",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:22.296910",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "TC37",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "14.9 ft (4 m)",
+            "Max Digging Depth": "10.5 ft (3 m)",
+            "Max Loading Height": "10.1 ft (3 m)",
+            "Max Reach Along Ground": "18.5 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "15.3 ft (5 m)",
+            "Max Digging Depth": "11.1 ft (3 m)",
+            "Max Loading Height": "10.5 ft (3 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.3 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Tail Swing Radius": "3 ft (1 m)",
+            "Width to Outside of Tracks": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "105 cu in (0 m)",
+            "Engine Model": "S4L2",
+            "Max Torque": "77 lbs/ft",
+            "Net Power": "30 hp (22 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Hydraulic Pump Flow Capacity": "25.1 gal/min (95 l/min)",
+            "Hydraulic System Fluid Capacity": "18.5 gal (68 l)",
+            "Hydraulic System Relief Valve Pressure": "3625 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8047 lbs (3,650 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "6975 lbs (3,164 kg)",
+            "Ground Pressure": "4.1 psi",
+            "Max Travel Speed": "2.9 mph (3 kph)",
+            "Shoe Size": "11.9 in (28 cm)",
+            "Track Gauge": "5 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/mower-conditioners-windrowers/case-ih/wd-1903-series-ii/30753497",
+    "source_url_id": "30753497",
+    "source_url_model": "wd-1903-series-ii",
+    "source_url_make": "case-ih",
+    "source_url_category": "mower-conditioners-windrowers",
+    "source_date_scraped": "2023-09-13 17:07:48.900365",
+    "equipment_category": "Mower Conditioners / Windrowers",
+    "equipment_make": "Case Ih",
+    "equipment_model": "WD 1903 Series II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Crop clearance": "42.6 in (107 cm)",
+            "Length w/o Header": "16.6 ft (5 m)",
+            "Weight, w/o header": "12301.8 lbs (5,580 kg)",
+            "Wheelbase": "11.4 ft (3 m)"
+        },
+        "Engine": {
+            "Alternator": "150 A",
+            "Aspiration": "Turbo, with  charge air cooler",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emission Tier Level": "Tier 3",
+            "Engine Make": "Case IH FPT",
+            "Fuel tank": "120 gal (454 l)",
+            "Max. horsepower": "199 hp (148 kw)",
+            "Number of Cylinders": "6",
+            "Power": "190 hp (142 kw)",
+            "Radiator Core type": "Outside Rotary Wand Standard"
+        },
+        "Speeds": {
+            "Maximum field speed": "11 mph (18 kph)",
+            "Maximum road speed": "18 mph (29 kph)"
+        },
+        "Tires": {
+            "Cab Suspension": "Standard",
+            "Drive Tires": "18.4x26, 12PR R4",
+            "Tire Size Engine": "14Lx16.1, 8PR"
+        },
+        "Transmission": {
+            "Transmission Type": "Hydro static, 2-speed  Standard"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/af890/31084895",
+    "source_url_id": "31084895",
+    "source_url_model": "af890",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:33.714614",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "AF890",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "90 hp (67 kw)"
+        },
+        "Production": {
+            "Series": "AF800 Series",
+            "Years Manufactured": "2001 - 2005"
+        }
+    }
+}

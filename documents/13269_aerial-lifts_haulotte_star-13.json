@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/star-13/13269",
+    "source_url_id": "13269",
+    "source_url_model": "star-13",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:52.986288",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "Star 13",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "397 lbs (180 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "19.1 ft (6 m)",
+            "Platform Size": "2.6x2.3 ft (1 m)",
+            "Stowed Height": "5.4 ft (2 m)",
+            "Stowed Width": "2.5 ft (1 m)"
+        },
+        "Tires": {
+            "Tire Size": "250x60"
+        }
+    }
+}

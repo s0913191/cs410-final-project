@@ -1,0 +1,110 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/312c-l/30748180",
+    "source_url_id": "30748180",
+    "source_url_model": "312c-l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:33.535271",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "312C L",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "27.1 ft (8 m)",
+            "Max Digging Depth": "18.3 ft (5 m)",
+            "Max Loading Height": "20 ft (6 m)",
+            "Max Reach Along Ground": "26.9 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "16.4 ft (5 m)",
+            "Shipping Height of Unit": "9.1 ft (3 m)",
+            "Shipping Length of Unit": "24.9 ft (7 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "28.5 ft (9 m)",
+            "Max Digging Depth": "19.9 ft (6 m)",
+            "Max Loading Height": "20.8 ft (6 m)",
+            "Max Reach Along Ground": "28.4 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.5 ft (5 m)",
+            "Shipping Height of Unit": "9.1 ft (3 m)",
+            "Shipping Length of Unit": "24.9 ft (7 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.4 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "19 ft (6 m)",
+            "Digging Reach": "19 ft (6 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Length of Track on Ground": "9.1 ft (3 m)",
+            "Tail Swing Radius": "7 ft (2 m)",
+            "Transport Width": "2.6 ft (1 m)",
+            "Width to Outside of Tracks": "8.5 ft (2 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Drawbar Pull": "25200 lbs (11,431 kg)",
+            "Travel Speed": "3.5 mph (5 kph)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "259 cu in (0 m)",
+            "Engine Model": "Cat 3064T",
+            "Flywheel Power": "90 hp (67 kw)",
+            "Gross Power": "94 hp (70 kw)",
+            "ISO 9249": "90 hp (67 kw)",
+            "Net Power": "90 hp (67 kw)",
+            "Power Measured @": "1950 rpm",
+            "SAE J1349": "90 hp (67 kw)",
+            "Stroke": "5.1 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Boom Cylinder - Bore": "4.3 in (10 cm)",
+            "Boom Cylinder - Stroke": "40 in (102 cm)",
+            "Bucket Cylinder - Bore": "3.9 in (8 cm)",
+            "Bucket Cylinder - Stroke": "37 in (94 cm)",
+            "Main Implement System - Maximum Flow (2x)": "33.5 gal/min",
+            "Maximum Pressure - Implements": "4340 psi",
+            "Maximum Pressure - Swing": "3340 psi",
+            "Maximum Pressure - Travel": "4980 psi",
+            "Stick Cylinder - Bore": "4.7 in (10 cm)",
+            "Stick Cylinder - Stroke": "47.1 in (119 cm)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "4.6 gal (15 l)",
+            "Engine Oil Capacity": "4.6 gal (15 l)",
+            "Fuel Capacity": "66 gal (250 l)",
+            "Hydraulic Pump Flow Capacity": "33.5 gal/min (125 l/min)",
+            "Hydraulic System Fluid Capacity": "42.8 gal (159 l)",
+            "Hydraulic System Relief Valve Pressure": "4340 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "28970 lbs (13,141 kg)",
+            "Swing Drive Fluid Capacity": "0.8 gal (0 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "4.6 gal (15 l)",
+            "Engine Oil": "4.6 gal (15 l)",
+            "Final Drive - Each": "0.7 gal (0 l)",
+            "Fuel Tank": "66 gal (250 l)",
+            "Hydraulic System - Including Tank": "42.8 gal (159 l)",
+            "Hydraulic Tank": "23.8 gal (87 l)",
+            "Swing Drive - Each": "0.8 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.4 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "24720 lbs (11,213 kg)",
+            "Ground Pressure": "4.5 psi",
+            "Max Travel Speed": "3.4 mph (5 kph)",
+            "Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "6.5 ft (2 m)"
+        },
+        "Weights": {
+            "Operating Weight": "28970 lbs (13,141 kg)",
+            "Operating Weight - Long Undercarriage": "29010 lbs (13,159 kg)"
+        }
+    }
+}

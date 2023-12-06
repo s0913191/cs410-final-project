@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/case/885b/42189",
+    "source_url_id": "42189",
+    "source_url_model": "885b",
+    "source_url_make": "case",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:09.870770",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Case",
+    "equipment_model": "885B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Base": "8.5 ft (2 m)",
+            "Height to Top of Isomount Cab": "10.4 ft (3 m)",
+            "Overall Length": "28 ft (9 m)",
+            "Tandem Axle Wheelbase": "5.4 ft (2 m)",
+            "Wheel base to center of tandem": "2.7 ft (1 m)",
+            "Wheelbase": "20.5 ft (6 m)",
+            "Width Over Tires": "8.7 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "409 cu in (0 m)",
+            "Engine Model": "F4HE9687K",
+            "Max Power": "234 hp (174 kw)",
+            "Torque": "725.8 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "49.2 gal/min (185 l/min)"
+        },
+        "Moldboard": {
+            "Blade Down Pressure": "21473.1 lbs (9,740 kg)",
+            "Moldboard Height": "23.7 in (58 cm)",
+            "Moldboard Length": "14 ft (4 m)",
+            "Moldboard Thickness": "0.9 in (0 cm)"
+        },
+        "Operating Specifications": {
+            "Max Operation Weight - Total": "39771.4 lbs (18,040 kg)",
+            "Tire Size": "610 mm"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "27.9 mph (43 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "4"
+        }
+    }
+}

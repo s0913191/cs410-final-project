@@ -1,0 +1,88 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/champion/710a/7830",
+    "source_url_id": "7830",
+    "source_url_model": "710a",
+    "source_url_make": "champion",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:32.435046",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Champion",
+    "equipment_model": "710A",
+    "equipment_spec": {
+        "Circle": {
+            "Blade cutting depth": "2.8 ft (1 m)",
+            "Blade ground clearance": "1.5 ft (0 m)",
+            "Blade Tip Angle - Front": "47  \t\u00b0",
+            "Blade Tip Angle - Rear": "5  \t\u00b0",
+            "Diameter": "66.3 in (168 cm)",
+            "Rotation": "360  \t\u00b0",
+            "Shift Left": "30.6 in (76 cm)",
+            "Shift Right": "29.5 in (74 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "8.6 ft (2 m)",
+            "Overall Height with cab": "11.1 ft (3 m)",
+            "Overall Length": "27.8 ft (8 m)",
+            "Overall width": "8.2 ft (2 m)",
+            "Tread width": "82.1 in (208 cm)",
+            "Wheelbase": "20 ft (6 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "6B5.9",
+            "Gross horsepower": "148 hp (110 kw)",
+            "Net Power": "140 hp (104 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque": "440 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Oscillation - Total": "16  \t\u00b0",
+            "Wheel Lean": "18  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "50.5 gal/min (189 l/min)",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Moldboard": {
+            "Blade Down Pressure": "16495 lbs (7,482 kg)",
+            "Blade Pull at Max Weight": "19109.7 lbs (8,668 kg)",
+            "Max Reach outside - left": "10 ft (3 m)",
+            "Max Reach outside - right": "10.1 ft (3 m)",
+            "Moldboard Height": "25 in (64 cm)",
+            "Moldboard Thickness": "0.9 in (0 cm)",
+            "Moldboard Width": "12.1 ft (4 m)",
+            "Side Shift Left": "26.5 in (66 cm)",
+            "Side Shift Right": "26.5 in (66 cm)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "11.7 gal (42 l)",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "23.8 gal (87 l)",
+            "Oil System Fluid Capacity": "4.4 gal (15 l)",
+            "Rear Diff/Final Drive Fluid Capacity": "6.1 gal (23 l)",
+            "Std Operation Weight - Front Axle": "9400 lbs (4,264 kg)",
+            "Std Operation Weight - Rear Axle": "21230 lbs (9,630 kg)",
+            "Std Operation Weight - Total": "30630 lbs (13,894 kg)",
+            "Tandem Case Fluid Capacity (each)": "26.5 gal (98 l)",
+            "Tire Size": "13.00 * 24, G-2",
+            "Transmission Fluid Capacity": "10.3 gal (38 l)"
+        },
+        "Steering System": {
+            "Articulation Angle": "22  \t\u00b0",
+            "Turning Radius": "25.5 ft (8 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.5 mph (39 kph)",
+            "Max Speed - Reverse": "17.8 mph (27 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "4",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

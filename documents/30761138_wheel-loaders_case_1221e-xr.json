@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/1221e-xr/30761138",
+    "source_url_id": "30761138",
+    "source_url_model": "1221e-xr",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:41:44.903452",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "1221E XR",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "5.7 cu yds (4 m)",
+            "Bucket Capacity - struck": "6.7 cu yds (5 m)",
+            "Bucket Width": "11.4 ft (3 m)",
+            "Dump Clearance at Max Raise": "12.4 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "12.6 ft (4 m)",
+            "Hinge Pin - Max Height": "16.3 ft (5 m)",
+            "Length with Bucket on Ground": "32.9 ft (10 m)",
+            "Reach at Max Lift and Dump": "4.6 ft (1 m)",
+            "Wheelbase": "12.2 ft (4 m)",
+            "Width Over Tires": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "660 cu in (0 m)",
+            "Engine Model": "QSM11",
+            "Gross Power": "335 hp (250 kw)",
+            "Make": "Cummins",
+            "Model": "QSM11 Tier 3",
+            "Net Power": "320 hp (239 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm",
+            "Torque Rise": "40%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "127.4 gal/min (481 l/min)",
+            "Raise Time": "6.4 sec",
+            "Relief Valve Setting": "2990 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "17.2 gal (64 l)",
+            "Engine Oil Fluid Capacity": "9.8 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "15.9 gal (57 l)",
+            "Fuel Capacity": "124.2 gal (469 l)",
+            "Hydraulic System Fluid Capacity": "89.9 gal (337 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "67020 lbs (30,400 kg)",
+            "Rated Bucket Capacity": "9.20 cu yds (7 m)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "15.9 gal (57 l)",
+            "Static Tipping Weight": "48060 lbs (21,800 kg)",
+            "Tire Size": "29.5 x 25",
+            "Transmission Fluid Capacity": "11.4 gal (42 l)",
+            "Turning Radius": "25 ft (8 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.1 mph (34 kph)",
+            "Max Speed - Reverse": "14.7 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3"
+        },
+        "Weights": {
+            "Operational Weight": "67020 lbs (30,400 kg)"
+        }
+    }
+}

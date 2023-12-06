@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/optum-270/31076048",
+    "source_url_id": "31076048",
+    "source_url_model": "optum-270",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:32.910623",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "OPTUM 270",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "271 hp (202 kw)"
+        },
+        "Production": {
+            "Series": "Optum Series",
+            "Years Manufactured": "2016 -"
+        }
+    }
+}

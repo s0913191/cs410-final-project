@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/s2668e/30758205",
+    "source_url_id": "30758205",
+    "source_url_model": "s2668e",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:00.550100",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "S2668E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "5.5 in (13 cm)",
+            "Height w/ Rails": "8.2 ft (2 m)",
+            "Height w/o Rails": "4.5 ft (1 m)",
+            "Overall Length": "8.1 in (20 cm)",
+            "Overall Width": "5.7 ft (2 m)",
+            "Wheelbase": "5.7 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "350",
+            "Charger Amps": "36",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Operating Weight": "6250.2 lbs (2,835 kg)",
+            "Tire Fill/Type": "Solid non-marking",
+            "Tire Size": "16x6"
+        },
+        "Platform": {
+            "Deck Extension": "35.9 in (89 cm)",
+            "Height of Rails": "3.7 ft (1 m)",
+            "Lift Time": "50 sec",
+            "Lower Time": "50 sec",
+            "Max Platform Height": "26 ft (8 m)",
+            "Max Platform Weight Capacity": "1133.2 lbs (514 kg)",
+            "Max Working Height": "32 ft (10 m)",
+            "Platform Inner Length": "90.2 in (229 cm)",
+            "Platform Inner Width": "59.9 in (150 cm)"
+        }
+    }
+}

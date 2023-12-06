@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/case/435/2472",
+    "source_url_id": "2472",
+    "source_url_model": "435",
+    "source_url_make": "case",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:46.041672",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "435",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.6 ft (2 m)",
+            "Ground Clearance": "9 in (23 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length w/o Bucket": "8.6 ft (2 m)",
+            "Length with Bucket": "11.3 ft (3 m)",
+            "Reach at Max Lift and Dump": "29.9 in (74 cm)",
+            "Turning Radius from Center - inc bucket": "80.2 in (203 cm)",
+            "Turning Radius from Center - machine rear": "78.8 in (198 cm)",
+            "Wheelbase": "3.8 ft (1 m)",
+            "Width Over Tires": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "205 cu in (0 m)",
+            "Engine Model": "Family III 334T/M2, Tier II certified",
+            "Gross Power": "72 hp (54 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21 gal/min (79 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "3050 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.7 cu yds (0 m)",
+            "Operating Load Rating": "2300 lbs (1,043 kg)",
+            "Tipping Angle": "4600  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Chain Box Fluid Capacity - each side": "2 gal (8 l)",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Fluid Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "17.5 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "5.9 gal (19 l)",
+            "Max Speed": "11.7 mph (18 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "6830 lbs (3,098 kg)",
+            "Tire Size": "12.00 x 16.5"
+        }
+    }
+}

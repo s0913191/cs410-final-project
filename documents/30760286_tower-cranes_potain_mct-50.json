@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/mct-50/30760286",
+    "source_url_id": "30760286",
+    "source_url_model": "mct-50",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:20.136897",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "MCT 50",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "135 ft (41 m)",
+            "Max Lift Capacity": "3 t (2,722 kg)"
+        }
+    }
+}

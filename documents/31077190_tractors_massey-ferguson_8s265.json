@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/8s265/31077190",
+    "source_url_id": "31077190",
+    "source_url_model": "8s265",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:40.365515",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "8S.265",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "265 hp (198 kw)"
+        },
+        "Production": {
+            "Series": "8S Series",
+            "Years Manufactured": "2020 -"
+        }
+    }
+}

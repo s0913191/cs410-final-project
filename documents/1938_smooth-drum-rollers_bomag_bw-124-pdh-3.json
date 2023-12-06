@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-124-pdh-3/1938",
+    "source_url_id": "1938",
+    "source_url_model": "bw-124-pdh-3",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:57.003485",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 124 PDH-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.6 in (30 cm)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Overall Length w/ Blade": "12.8 ft (4 m)",
+            "Overall Length w/o Blade": "11 ft (3 m)",
+            "Overall Width": "4.7 ft (1 m)",
+            "Turning Radius - Inside": "88.2 in (224 cm)",
+            "Wheelbase": "6 in (15 cm)",
+            "Width Over Tires": "4 ft (1 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "19108.8 lbs (8,667 kg)",
+            "Centrifugal Force - Low": "9666.8 lbs (4,385 kg)",
+            "Drum Diameter": "35.1 in (89 cm)",
+            "Drum Width": "47.3 in (119 cm)",
+            "Frequency": "41 hz (2,460 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "70",
+            "Pad Height": "2.2 in (5 cm)",
+            "Pad Surface Area": "12.6 cu in (0 m)",
+            "Vibration Frequency": "2460 hz (147,600 vpm)",
+            "Vibration Frequency 1": "41 hz (2,460 vpm)",
+            "Vibratory Frequency 2": "41 hz (2,460 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "F3L2011",
+            "Gross Power": "49.7 hp (37 kw)",
+            "Make": "Deutz",
+            "Net Power": "47 hp (35 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Max Speed": "5.6 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "7385.5 lbs (3,350 kg)",
+            "Operating Width": "51.6 in (130 cm)"
+        },
+        "Tires": {
+            "Tires": "9.5-24"
+        }
+    }
+}

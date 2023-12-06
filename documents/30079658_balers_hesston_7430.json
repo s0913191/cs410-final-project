@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/hesston/7430/30079658",
+    "source_url_id": "30079658",
+    "source_url_model": "7430",
+    "source_url_make": "hesston",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:12.019911",
+    "equipment_category": "Balers",
+    "equipment_make": "Hesston",
+    "equipment_model": "7430",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "2.9 ft (1 m)",
+            "Bale Length - max": "8.3 ft (2 m)",
+            "Bale Weight - max": "1500 lbs (680 kg)",
+            "Bale Weight - min": "1000 lbs (454 kg)",
+            "Bale Width": "2.7 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "Hydraulic cylinder",
+            "Number of Tines": "112",
+            "Overall Width": "9 ft (3 m)",
+            "Tine to Tine Width": "5.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "10.4 ft (3 m)",
+            "Overall Length": "32.5 ft (10 m)",
+            "Overall Width": "8.4 ft (2 m)",
+            "Tractor PTO Power Required": "100 hp (75 kw)",
+            "Weight": "17839.9 lbs (8,092 kg)"
+        },
+        "Feeding Chamber": {
+            "Packer Type": "Fork type w/ 4 Hard Surfaced Tines",
+            "Stuffer Type": "Fork type"
+        },
+        "Plunger": {
+            "Bearing Type": "4 Tapered Roller Bearings (Sealed)",
+            "SPM": "40.97",
+            "Stroke Length": "27.95 in (69 cm)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "20",
+            "Twine Type": "Four Double Knot Type"
+        }
+    }
+}

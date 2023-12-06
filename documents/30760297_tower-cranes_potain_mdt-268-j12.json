@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/mdt-268-j12/30760297",
+    "source_url_id": "30760297",
+    "source_url_model": "mdt-268-j12",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:25.448566",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "MDT 268 J12",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "213 ft (65 m)",
+            "Max Lift Capacity": "13 t (11,793 kg)"
+        }
+    }
+}

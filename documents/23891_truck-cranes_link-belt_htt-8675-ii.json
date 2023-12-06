@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/link-belt/htt-8675-ii/23891",
+    "source_url_id": "23891",
+    "source_url_model": "htt-8675-ii",
+    "source_url_make": "link-belt",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:04.826662",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HTT-8675 II",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "136 ft (41 m)",
+            "Min Height @ Max Raise Angle": "86 ft (26 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "915.4 cu in (0 m)",
+            "Gross Power": "450 hp (336 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "1550.4 lbs/ft",
+            "Model": "QSX15",
+            "Net Power": "480 hp (358 kw)",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "13.6 ft (4 m)",
+            "Ground Clearance": "10.9 ft (3 m)",
+            "Transport Height": "11.5 ft (3 m)",
+            "Transport Length": "48.6 ft (15 m)",
+            "Transport Width": "14.8 ft (4 m)",
+            "Upper Structure Tail Swing Radius": "13.9 ft (4 m)",
+            "Wheelbase": "23.1 ft (7 m)",
+            "Width w/ Outriggers Extended": "26 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "10 gal (38 l)",
+            "Fuel Capacity": "80 gal (303 l)",
+            "Ground Pressure": "40 psi",
+            "Operating Voltage": "12 V V",
+            "Upper Structure Hydraulic System Fluid Capacity": "144.1 gal (545 l)"
+        },
+        "Tires": {
+            "Tires": "Front 445/65R22.5 / Rear 445/65R22.5"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "726.2 cu in (0 m)",
+            "Gross Power": "414 hp (309 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "1550.4 lbs/ft",
+            "Model": "ISX12",
+            "Net Power": "450 hp (336 kw)",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1200 rpm"
+        }
+    }
+}

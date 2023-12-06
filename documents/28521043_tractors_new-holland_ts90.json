@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/ts90/28521043",
+    "source_url_id": "28521043",
+    "source_url_model": "ts90",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:45.175811",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TS90",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "90 hp (67 kw)"
+        },
+        "Production": {
+            "Series": "TS Series",
+            "Years Manufactured": "1999 - 2003"
+        }
+    }
+}

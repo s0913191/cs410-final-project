@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/h330hd2s/30756680",
+    "source_url_id": "30756680",
+    "source_url_model": "h330hd2s",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:28:57.160927",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "H330HD2S",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Spring applied, dry disc on drive axle",
+            "Service brake": "Oil immersed (wet) disc"
+        },
+        "Dimensions": {
+            "Front Tread Range": "72.6 in (183 cm)",
+            "Gradeability": "36%",
+            "Ground Clearance": "9.7 in (23 cm)",
+            "Height to Top of Overhead Guard": "10.1 ft (3 m)",
+            "Length to Fork Face": "16.4 ft (5 m)",
+            "Overall Height - mast lowered": "11.8 ft (3 m)",
+            "Overall Width": "8.4 ft (2 m)",
+            "Rear Tread Range": "78.8 in (198 cm)",
+            "Turning Radius": "15.1 ft (5 m)",
+            "Wheelbase": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Alternator": "120 A",
+            "Battery": "102 Ah",
+            "Displacement": "408.3 cu in (0 m)",
+            "Emission Tier Level": "TIER 3",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB 6.7",
+            "Fuel Type": "Diesel",
+            "Number of Cylinders": "6",
+            "Power": "155 hp (116 kw)",
+            "Power Measured @": "2300 rpm",
+            "Torque": "440 lbs/ft",
+            "Torque Measured @": "1500 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "71 ft/min",
+            "Load Capacity": "33000 lbs (14,969 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "98 ft/min",
+            "Mast Tip Forward": "15  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "68484 lbs (31,064 kg)",
+            "Axle load - rear": "5644 lbs (2,560 kg)",
+            "Drawbar Pull": "20700 lbs (9,390 kg)",
+            "Front Tire Size": "12.00-20 20PR",
+            "Fuel Capacity": "42 gal (159 l)",
+            "Hydraulic System Fluid Capacity": "37 gal (140 l)",
+            "Max Speed": "17 mph (27 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Oil System Fluid Capacity": "26.4 gal (98 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "41127 lbs (18,655 kg)",
+            "Rear Tire Size": "12.00-20 20PR",
+            "Tire Type": "Pneumatic"
+        },
+        "Transmission": {
+            "Drive system": "Powershift Transmission",
+            "Number of Forward / Reverse Speeds": "3-3",
+            "Transmission Type": "ZF / WG161"
+        }
+    }
+}

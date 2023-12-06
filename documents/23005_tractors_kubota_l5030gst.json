@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l5030gst/23005",
+    "source_url_id": "23005",
+    "source_url_model": "l5030gst",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:30:41.797774",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L5030GST",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16 in (41 cm)",
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Overall Length": "10.6 in (25 cm)",
+            "Tire Size": "front 9.5-16 rear 14.9-26",
+            "Wheelbase": "6.3 ft (2 m)",
+            "Width Outside Frame": "5.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "E-TVCS indirect injection",
+            "Displacement": "148.6 cu in (0 m)",
+            "Engine Model": "L5030 GST",
+            "Gross Power": "52.2 hp (39 kw)",
+            "Net Power": "50 hp (37 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm",
+            "PTO Power": "44 hp (33 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.7 gal/min (53 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2976.3 lbs (1,350 kg)",
+            "3 Point Hitch Type": "Cat. I & II",
+            "Alternator Supplied Amperage": "45  A",
+            "Fuel Capacity": "11.4 gal (42 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3703.8 lbs (1,680 kg)",
+            "Turning Radius": "9.9 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "16.6 mph (26 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "GST"
+        }
+    }
+}

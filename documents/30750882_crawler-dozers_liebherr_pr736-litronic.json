@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/liebherr/pr736-litronic/30750882",
+    "source_url_id": "30750882",
+    "source_url_model": "pr736-litronic",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:58.631489",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Liebherr",
+    "equipment_model": "PR736 LITRONIC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length of Track on Ground": "9.3 ft (3 m)",
+            "Track Gauge": "6.1 ft (2 m)",
+            "Width Over Tracks": "7.9 ft in (18 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbochanged",
+            "Cooling system": "Hydrostatic fan drive",
+            "Displacement": "427.2 cu in (0 m)",
+            "Engine Model": "D 934 A7 Emission regulations , EPA /CARB Tier 4f",
+            "Net Power": "201.2 hp (150 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "54.7 gal/min (204 l/min)",
+            "Pump type": "Swash plate piston pump"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Cooling System Fluid Capacity": "10.9 gal (38 l)",
+            "Engine Oil Capacity": "7.7 gal (27 l)",
+            "Final Drives Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "113.6 gal (428 l)",
+            "Hydraulic Fluid Capacity": "29.4 gal (110 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "54233.8 lbs (24,600 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "6.2 cu yds (5 m)",
+            "Height": "53.2 in (135 cm)",
+            "Width": "12 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Reverse": "2.5 mph (3 kph)",
+            "Transmission Type": "Infinitely variable hydrostatic travel drive, independent drive for each track"
+        },
+        "Undercarriage": {
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Track Rollers per Side": "7"
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx600lc/36053",
+    "source_url_id": "36053",
+    "source_url_model": "zx600lc",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:02:15.712620",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX600LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "35.4 ft (11 m)",
+            "Max Digging Depth": "23.3 ft (7 m)",
+            "Max Loading Height": "23 ft (7 m)",
+            "Max Reach Along Ground": "37.9 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "16.9 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "38.1 ft (12 m)",
+            "Max Digging Depth": "25.9 ft (8 m)",
+            "Max Loading Height": "25.5 ft (8 m)",
+            "Max Reach Along Ground": "41.2 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "22.2 ft (7 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "39 ft (12 m)",
+            "Max Digging Depth": "27.9 ft (8 m)",
+            "Max Loading Height": "26.3 ft (8 m)",
+            "Max Reach Along Ground": "43 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "25 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "39.5 ft (12 m)",
+            "Max Digging Depth": "29.9 ft (9 m)",
+            "Max Loading Height": "26.8 ft (8 m)",
+            "Max Reach Along Ground": "44.7 ft (13 m)",
+            "Max Vertical Wall Dig Depth": "26.7 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 5": {
+            "Max Cutting Height": "40.4 ft (12 m)",
+            "Max Digging Depth": "32.9 ft (10 m)",
+            "Max Loading Height": "29 ft (9 m)",
+            "Max Reach Along Ground": "47.6 ft (14 m)",
+            "Max Vertical Wall Dig Depth": "29.2 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 6": {
+            "Max Cutting Height": "43.8 ft (13 m)",
+            "Max Digging Depth": "37.6 ft (11 m)",
+            "Max Loading Height": "32.4 ft (10 m)",
+            "Max Reach Along Ground": "53 ft (16 m)",
+            "Max Vertical Wall Dig Depth": "33.6 ft (10 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "4.6 cu yds (3 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "37 ft (11 m)",
+            "Digging Reach": "37 ft (11 m)",
+            "Ground Clearance": "2.7 ft (1 m)",
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Length of Track on Ground": "18.7 ft (5 m)",
+            "Removal Counterweight Clearance": "4.8 ft (1 m)",
+            "Tail Swing Radius": "12.5 ft (4 m)",
+            "Width to Outside of Tracks": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "957 cu in (0 m)",
+            "Engine Make": "Isuzu",
+            "Engine Model": "BB-6WG1X",
+            "Max Torque": "1140 lbs/ft",
+            "Net Power": "395 hp (295 kw)",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "25.9 gal (95 l)",
+            "Engine Oil Capacity": "14.6 gal (53 l)",
+            "Fuel Capacity": "195.5 gal (738 l)",
+            "Hydraulic Pump Flow Capacity": "230 gal/min (871 l/min)",
+            "Hydraulic System Fluid Capacity": "163.3 gal (617 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "129190 lbs (58,600 kg)",
+            "Swing Drive Fluid Capacity": "2.8 gal (8 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "7 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "9.2 psi",
+            "Max Travel Speed": "3.1 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "9",
+            "Track Gauge": "10.5 ft (3 m)"
+        }
+    }
+}

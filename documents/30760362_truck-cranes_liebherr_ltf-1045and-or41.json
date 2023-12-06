@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/liebherr/ltf-1045and-or41/30760362",
+    "source_url_id": "30760362",
+    "source_url_model": "ltf-1045and-or41",
+    "source_url_make": "liebherr",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:49.871096",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTF 1045/4.1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "144 ft (44 m)",
+            "Max Height @ Max Raise Angle - no jib": "114.9 ft (35 m)",
+            "Max Lift Capacity": "50 t (45,359 kg)",
+            "Min Height @ Max Raise Angle": "34.5 ft (10 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Make": "Liebherr"
+        },
+        "Dimensions": {
+            "Carrier Length": "29 ft (9 m)",
+            "Transport Height": "12.7 ft (4 m)",
+            "Transport Length": "37.4 ft (11 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "12 ft (4 m)",
+            "Width w/ Outriggers Extended": "20.4 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "24 V V",
+            "Upper Structure Fuel Capacity": "66.1 gal (250 l)"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "173 hp (129 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "601.2 lbs/ft",
+            "Model": "D934LA6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1500 rpm"
+        }
+    }
+}

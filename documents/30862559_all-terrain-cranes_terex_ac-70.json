@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/ac-70/30862559",
+    "source_url_id": "30862559",
+    "source_url_model": "ac-70",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:14.398203",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AC 70",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "234.2 ft (71 m)",
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Lift Capacity": "80 t (72,575 kg)",
+            "Max Working Radius": "137.8 ft (42 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "8",
+            "Swing Speed": "1.6 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "400 hp (298 kw)",
+            "Make": "Terex",
+            "Max Torque": "1364.5 lbs/ft",
+            "Model": "OM 457 LA",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "27.1 ft (8 m)",
+            "Transport Height": "12.6 ft (4 m)",
+            "Transport Length": "32.7 ft (10 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "12 ft (4 m)",
+            "Width w/ Outriggers Extended": "21.5 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Carrier Fuel Capacity": "105.7 gal (397 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14.00R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49.8 mph (79 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "DaimlerChrysler gearshift system G 210-16"
+        }
+    }
+}

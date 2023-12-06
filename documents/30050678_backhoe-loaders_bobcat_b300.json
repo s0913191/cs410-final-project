@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/bobcat/b300/30050678",
+    "source_url_id": "30050678",
+    "source_url_model": "b300",
+    "source_url_make": "bobcat",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:01.719346",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "B300",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "6821.2 lbs (3,094 kg)",
+            "Dig Depth": "11.1 ft (3 m)",
+            "Load Height": "9.2 ft (3 m)",
+            "Reach From Swivel": "13.9 ft (4 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Suspended Cab": "7.7 ft (2 m)",
+            "Transport Length": "19.3 ft (6 m)",
+            "Transport Width": "6.2 ft (2 m)",
+            "Wheelbase": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V2203",
+            "Net Power": "46 hp (34 kw)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "8430 lbs (3,824 kg)",
+            "Bucket Capacity": "0.7 cu yds (0 m)",
+            "Bucket Width": "73.8 in (185 cm)",
+            "Clearance at Max Dump Height": "6.8 ft (2 m)",
+            "Dig Depth": "2.8 in (5 cm)",
+            "Reach at Max Dump Height": "1.4 ft (0 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "25.1 gal (95 l)",
+            "Operating Weight 4wd": "9260 lbs (4,200 kg)",
+            "Tire Size Front - 2wd / 4wd": "12x16.5",
+            "Turning Radius": "14.8 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "12x16.5"
+        },
+        "Transmission": {
+            "Max Speed": "10.9 mph (16 kph)",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/goldoni/cluster-65-rs/30751301",
+    "source_url_id": "30751301",
+    "source_url_model": "cluster-65-rs",
+    "source_url_make": "goldoni",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:06.703359",
+    "equipment_category": "Tractors",
+    "equipment_make": "Goldoni",
+    "equipment_model": "Cluster 65 RS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.7 in (28 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Overall Length": "9.9 in (23 cm)",
+            "Tire Size": "8.25x16\"\",\"NULL",
+            "Wheelbase": "4.6 ft (1 m)",
+            "Width Outside Frame": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "148.9 cu in (0 m)",
+            "Net Power": "48.3 hp (36 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm",
+            "Torque Rise": "20%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "11.9 gal/min (42 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Class I and IN",
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Operating Weight": "4056.6 lbs (1,840 kg)",
+            "Turning Radius": "11.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "Synchronized"
+        }
+    }
+}

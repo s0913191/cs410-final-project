@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-dozers/michigan/w380/30749673",
+    "source_url_id": "30749673",
+    "source_url_model": "w380",
+    "source_url_make": "michigan",
+    "source_url_category": "wheel-dozers",
+    "source_date_scraped": "2023-09-13 16:41:26.064885",
+    "equipment_category": "Wheel Dozers",
+    "equipment_make": "Michigan",
+    "equipment_model": "W380",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "VTA 28 C",
+            "Gross Power": "572 hp (427 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "133600 lbs (60,601 kg)"
+        }
+    }
+}

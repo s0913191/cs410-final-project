@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/caterpillar/gc55k/3040",
+    "source_url_id": "3040",
+    "source_url_model": "gc55k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:24:31.538427",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "GC55K",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4 in (10 cm)",
+            "Height to Top of Overhead Guard": "7.3 ft (2 m)",
+            "Length to Fork Face": "9.6 ft (3 m)",
+            "Max Fork Height": "9.6 ft (3 m)",
+            "Overall Height - mast lowered": "7 ft (2 m)",
+            "Overall Width": "4.4 ft (1 m)",
+            "Turning Radius": "8.4 ft (2 m)",
+            "Wheelbase": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "262402.2 cu in (4 m)",
+            "Engine Model": "V6",
+            "Fuel Type": "gas",
+            "Power": "92.5 hp (69 kw)",
+            "Power Measured @": "2450 rpm",
+            "Torque": "220 lbs/ft",
+            "Torque Measured @": "1200 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "83 ft/min",
+            "Load Capacity": "12125.5 lbs (5,500 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Lower Speed": "81 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0",
+            "Max Fork Spread": "41 in (104 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.1 mph (19 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "15850 lbs (7,190 kg)",
+            "Tire Type": "cushion"
+        }
+    }
+}

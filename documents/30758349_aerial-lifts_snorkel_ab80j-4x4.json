@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/ab80j-4x4/30758349",
+    "source_url_id": "30758349",
+    "source_url_model": "ab80j-4x4",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:23.215853",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "AB80J 4x4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height - mast lowered": "9.9 ft (3 m)",
+            "Overall Length": "29.2 in (74 cm)",
+            "Overall Width": "7.9 ft (2 m)",
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Gas or Diesel"
+        },
+        "Performance": {
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "35.1 gal (132 l)",
+            "Max Speed": "3.5 mph (5 kph)",
+            "Operating Weight": "24599.2 lbs (11,158 kg)",
+            "Tire Fill/Type": "form filled",
+            "Tire Size": "15 x 19.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "43 ft (13 m)",
+            "Max Platform Height": "60.1 ft (18 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Platform Inner Length": "59.9 in (150 cm)",
+            "Platform Inner Width": "30 in (76 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

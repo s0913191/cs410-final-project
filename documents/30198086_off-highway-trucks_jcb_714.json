@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/jcb/714/30198086",
+    "source_url_id": "30198086",
+    "source_url_model": "714",
+    "source_url_make": "jcb",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:52.959443",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "JCB",
+    "equipment_model": "714",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2.3 ft (1 m)",
+            "Dump Height": "12.7 ft (4 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Overall Height": "11.3 ft (3 m)",
+            "Overall Length": "22.3 ft (7 m)",
+            "Overall Width": "8.3 ft (2 m)",
+            "Wheelbase": "12 ft (4 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x4"
+        },
+        "Dump": {
+            "Capacity - Heaped": "9.6 cu yds (7 m)",
+            "Dump Angle": "84  \t\u00b0",
+            "Lower Time": "10 sec",
+            "Raise Time": "9.7 sec",
+            "Rated Payload": "28969 lbs (13,140 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo charged/charged cooled",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "6BTAA",
+            "Gross Power": "150 hp (112 kw)",
+            "Make": "Cummins",
+            "Max Torque": "465 lbs/ft",
+            "Model": "diesel QSB, 6.7",
+            "Net Power": "143.5 hp (107 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "7.9 gal (27 l)",
+            "Engine Oil Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "52.8 gal (197 l)",
+            "Hydraulic System Fluid Capacity": "23.3 gal (87 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "Michelin 20.5 R25",
+            "Transmission Fluid Capacity": "9.2 gal (34 l)"
+        },
+        "Transmission": {
+            "Max Speed": "24.8 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Smoothshift"
+        },
+        "Weights": {
+            "Front Axle - empty": "14043 lbs (6,370 kg)",
+            "Front Axle - loaded": "19775 lbs (8,970 kg)",
+            "Operating Weight": "24100 lbs (10,932 kg)",
+            "Rear Axle - empty": "8311 lbs (3,770 kg)",
+            "Rear Axle - loaded": "31240 lbs (14,170 kg)",
+            "Total Empty": "22355 lbs (10,140 kg)",
+            "Total Loaded": "51015 lbs (23,140 kg)"
+        }
+    }
+}

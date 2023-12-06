@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d85p-21e/42718",
+    "source_url_id": "42718",
+    "source_url_model": "d85p-21e",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:32.166510",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D85P-21E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.6 ft (3 m)",
+            "Length of Track on Ground": "11.5 ft (3 m)",
+            "Length w/ Blade": "19.9 ft (6 m)",
+            "Length w/o Blade": "15.5 ft (5 m)",
+            "Width Over Tracks": "10.4 ft in (25 cm)"
+        },
+        "Engine": {
+            "Displacement": "673.8 cu in (0 m)",
+            "Engine Model": "S6D125E-2",
+            "Gross Power": "228 hp (170 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "61134.2 lbs (27,730 kg)"
+        },
+        "Standard Blade": {
+            "Height": "54.8 in (137 cm)",
+            "Width": "14.4 ft (4 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TF"
+        },
+        "Undercarriage": {
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "35.9 in (89 cm)",
+            "Track Gauge": "7.4 ft (2 m)",
+            "Track Pitch": "8.6 in (20 cm)"
+        }
+    }
+}

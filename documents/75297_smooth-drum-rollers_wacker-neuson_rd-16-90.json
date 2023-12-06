@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/wacker-neuson/rd-16-90/75297",
+    "source_url_id": "75297",
+    "source_url_model": "rd-16-90",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:42.986237",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "RD 16-90",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "3.3 ft (1 m)",
+            "Turning Radius - Inside": "6.6 ft (2 m)"
+        },
+        "Drum": {
+            "Drum Width": "35.4 in (89 cm)",
+            "Frequency": "70 hz (4,200 vpm)",
+            "Vibration Frequency": "4200 hz (252,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Lombardini"
+        },
+        "Operating Specifications": {
+            "Operating Width": "39.4 in (99 cm)"
+        }
+    }
+}

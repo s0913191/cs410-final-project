@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/blaw-knox/pf-2181/30681716",
+    "source_url_id": "30681716",
+    "source_url_model": "pf-2181",
+    "source_url_make": "blaw-knox",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:49.611885",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Blaw Knox",
+    "equipment_model": "PF-2181",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8.00 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "11 lbs (5 kg)",
+            "Paving Speed": "260 ft/min",
+            "Paving Width - max": "21.00 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "27650 lbs (12,542 kg)"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d7e-lgp/30760431",
+    "source_url_id": "30760431",
+    "source_url_model": "d7e-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:17.439570",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D7E LGP",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C9.3 ACERT",
+            "Net Power": "238 hp (177 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "62886 lbs (28,525 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Length of Track on Ground": "11.4 ft (3 m)",
+            "Length w/ Blade": "18.4 ft (5 m)",
+            "Length w/o Blade": "15.2 ft (5 m)",
+            "Width Over Tracks": "11.3 ft in (28 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "82.5 gal/min (310 l/min)",
+            "Relief Valve Pressure": "4000 psi"
+        },
+        "Standard Blade": {
+            "Capacity": "7.7 cu yds (5 m)",
+            "Height": "53 in (135 cm)",
+            "Width": "15 ft (5 m)"
+        },
+        "Transmission": {
+            "Transmission Type": "Electric"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "9792 cu in (0 m)",
+            "Ground Pressure": "6.3 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "36.1 in (91 cm)",
+            "Track Gauge": "7.5 ft (2 m)",
+            "Track Pitch": "8.6 in (20 cm)"
+        }
+    }
+}

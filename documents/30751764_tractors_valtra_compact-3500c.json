@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/valtra/compact-3500c/30751764",
+    "source_url_id": "30751764",
+    "source_url_model": "compact-3500c",
+    "source_url_make": "valtra",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:12.691356",
+    "equipment_category": "Tractors",
+    "equipment_make": "Valtra",
+    "equipment_model": "Compact 3500C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "12.8 in (30 cm)",
+            "Tire Size": "11.2R20",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Gross Power": "76 hp (57 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "6095.8 lbs (2,765 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/115sr-dz/20099",
+    "source_url_id": "20099",
+    "source_url_model": "115sr-dz",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:07:41.977005",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "115SR DZ",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "28.4 ft (9 m)",
+            "Max Digging Depth": "18.2 ft (5 m)",
+            "Max Loading Height": "20.4 ft (6 m)",
+            "Max Reach Along Ground": "27 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "16.3 ft (5 m)",
+            "Shipping Height of Unit": "9.3 ft (3 m)",
+            "Shipping Length of Unit": "25.9 ft (8 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.1 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.3 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.7 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length of Track on Ground": "9.5 ft (3 m)",
+            "Removal Counterweight Clearance": "3 ft (1 m)",
+            "Tail Swing Radius": "4.7 ft (1 m)",
+            "Width to Outside of Tracks": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "264 cu in (0 m)",
+            "Engine Model": "A-4BG1T",
+            "Net Power": "84 hp (63 kw)",
+            "Power Measured @": "2050 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.8 gal (15 l)",
+            "Engine Oil Capacity": "3.4 gal (11 l)",
+            "Fuel Capacity": "44.4 gal (167 l)",
+            "Hydraulic Pump Flow Capacity": "81.4 gal/min (307 l/min)",
+            "Hydraulic System Fluid Capacity": "37 gal (140 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Weight": "31750 lbs (14,402 kg)",
+            "Swing Drive Fluid Capacity": "0.5 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.7 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "28500 lbs (12,928 kg)",
+            "Ground Pressure": "5.5 psi",
+            "Max Travel Speed": "3.7 mph (5 kph)",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "6.6 ft (2 m)"
+        }
+    }
+}

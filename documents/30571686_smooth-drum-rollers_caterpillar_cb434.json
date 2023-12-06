@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb434/30571686",
+    "source_url_id": "30571686",
+    "source_url_model": "cb434",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:41.135590",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB434",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "3.7 ft (1 m)",
+            "Drum Diameter - Rear": "3.7 ft (1 m)",
+            "Ground Clearance": "15 in (38 cm)",
+            "Height - Top of Cab": "7.5 ft (2 m)",
+            "Overall Length": "13.8 in (33 cm)",
+            "Overall Width": "5.3 ft (2 m)",
+            "Wheelbase": "8.6 in (20 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "16800 lbs (7,620 kg)",
+            "Centrifugal Force - Low": "8400 lbs (3,810 kg)",
+            "Centrifugal Force - Med": "13282 lbs (6,025 kg)",
+            "Drum Diameter": "43.4 in (109 cm)",
+            "Drum Width": "56 in (142 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "48 hz (2,880 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "3114T",
+            "Gross Power": "80 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "38.1 gal (144 l)",
+            "Hydraulic System Fluid Capacity": "15.1 gal (57 l)",
+            "Max Speed": "7.3 mph (11 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "13371.1 lbs (6,065 kg)"
+        }
+    }
+}

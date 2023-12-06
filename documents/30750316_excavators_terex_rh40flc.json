@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/rh40flc/30750316",
+    "source_url_id": "30750316",
+    "source_url_model": "rh40flc",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:14.039274",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "RH40FLC",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Max Cutting Height": "41.1 ft (13 m)",
+            "Max Dig Depth": "19.7 ft (6 m)",
+            "Max Dump Height": "29.2 ft (9 m)",
+            "Max Reach on Ground": "39.7 ft (12 m)"
+        },
+        "Backhoe Boom / Stick 2": {
+            "Max Cutting Height": "42 ft (13 m)",
+            "Max Dig Depth": "24 ft (7 m)",
+            "Max Dump Height": "28.9 ft (9 m)",
+            "Max Reach on Ground": "43.4 ft (13 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "9.2 cu yds (7 m)",
+            "Minimum Bucket Capacity": "7.9 cu yds (5 m)",
+            "Reference Bucket Capacity": "7.9 cu yds (5 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "18.8 ft (5 m)",
+            "Height of Tracks": "5.2 ft (2 m)",
+            "Length of Track on Ground": "17 ft (5 m)",
+            "Length of Tracks": "21.2 ft (6 m)",
+            "Upper Structure Ground Clearance": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "1104.6 cu in (0 m)",
+            "Engine Model": "C 18",
+            "Gross Power": "700 hp (522 kw)",
+            "Net Power": "665 hp (496 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "175  A",
+            "Fuel Capacity": "435.9 gal (1,646 l)",
+            "Hydraulic System Fluid Capacity": "502 gal (1,900 l)",
+            "Operating Voltage": "24 V V",
+            "Swing Speed": "5.6 rpm"
+        },
+        "Undercarriage": {
+            "Backhoe Ground Pressure - Shoe 1": "24.1 psi",
+            "Backhoe Ground Pressure - Shoe 2": "19.4 psi",
+            "Backhoe Ground Pressure - Shoe 3": "16.4 psi",
+            "Backhoe Operating Weight - Shoe 1": "251547.5 lbs (114,101 kg)",
+            "Backhoe Operating Weight - Shoe 2": "254744.2 lbs (115,551 kg)",
+            "Backhoe Operating Weight - Shoe 3": "258381.8 lbs (117,201 kg)",
+            "Backhoe Shoe Width 1": "23.7 in (58 cm)",
+            "Backhoe Shoe Width 2": "29.6 in (74 cm)",
+            "Backhoe Shoe Width 3": "35.5 in (89 cm)",
+            "Max Travel Speed": "1.5 mph (2 kph)",
+            "Number of Lower Rollers": "9",
+            "Number of Track Shoes per Side": "52",
+            "Number of Upper Rollers": "3",
+            "Tail Swing Radius": "14.1 ft (4 m)",
+            "Track Gauge": "13.8 ft (4 m)"
+        }
+    }
+}

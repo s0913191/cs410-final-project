@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-25m-extra-landfill/30760500",
+    "source_url_id": "30760500",
+    "source_url_model": "td-25m-extra-landfill",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:23.298701",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-25M Extra Landfill",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSX15",
+            "Net Power": "330/370 hp (246 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "86530 lbs (39,250 kg)"
+        }
+    }
+}

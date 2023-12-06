@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/ex40-2/30078171",
+    "source_url_id": "30078171",
+    "source_url_model": "ex40-2",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:00:31.013181",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EX40-2",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "19.1 ft (6 m)",
+            "Max Digging Depth": "11.2 ft (3 m)",
+            "Max Loading Height": "13.6 ft (4 m)",
+            "Max Reach Along Ground": "18.8 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8.9 ft (2 m)",
+            "Shipping Height of Unit": "8.6 ft (2 m)",
+            "Shipping Length of Unit": "17.9 ft (5 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.3 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Length of Track on Ground": "6.4 ft (2 m)",
+            "Removal Counterweight Clearance": "2.1 ft (1 m)",
+            "Tail Swing Radius": "4.8 ft (1 m)",
+            "Width to Outside of Tracks": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "134.1 cu in (0 m)",
+            "Engine Model": "V2203-KA",
+            "Max Torque": "93 lbs/ft",
+            "Net Power": "35.5 hp (26 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "52  A",
+            "Cooling System Fluid Capacity": "2 gal (8 l)",
+            "Engine Oil Capacity": "2.4 gal (8 l)",
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Hydraulic Pump Flow Capacity": "23.3 gal/min (87 l/min)",
+            "Hydraulic System Fluid Capacity": "16.4 gal (61 l)",
+            "Hydraulic System Relief Valve Pressure": "3840.4 psi",
+            "Operating Voltage": "12 V",
+            "Operating Weight": "9149.2 lbs (4,150 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "3.6 psi",
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Track Rollers per Side": "4",
+            "Shoe Size": "15.8 in (38 cm)",
+            "Track Gauge": "4.8 ft (1 m)"
+        }
+    }
+}

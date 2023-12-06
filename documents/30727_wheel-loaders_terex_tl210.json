@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/tl210/30727",
+    "source_url_id": "30727",
+    "source_url_model": "tl210",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:44.946330",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TL210",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.11 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Net Power": "162 hp (121 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2.62 - 4.58 cu yds (2 - 3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "27558 lbs (12,500 kg)"
+        }
+    }
+}

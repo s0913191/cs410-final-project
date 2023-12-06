@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/1455/31077216",
+    "source_url_id": "31077216",
+    "source_url_model": "1455",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:05.271399",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "1455",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "55 hp (41 kw)"
+        },
+        "Production": {
+            "Series": "1400 Series",
+            "Years Manufactured": "2002 - 2005"
+        }
+    }
+}

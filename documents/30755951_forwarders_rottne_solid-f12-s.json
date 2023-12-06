@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/rottne/solid-f12-s/30755951",
+    "source_url_id": "30755951",
+    "source_url_model": "solid-f12-s",
+    "source_url_make": "rottne",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:54.214958",
+    "equipment_category": "Forwarders",
+    "equipment_make": "Rottne",
+    "equipment_model": "Solid F12 S",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Area": "56.6 CUBIC ft",
+            "Load Weight - 8wd": "26455.5 lbs (12,000 kg)"
+        },
+        "Crane": {
+            "Gross Lift Torque": "12900 lbs/ft",
+            "Max Reach": "12.8 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height to Top of crane": "12.24 ft (4 m)",
+            "Height to Top of Crane": "12.3 ft (4 m)",
+            "Length": "31.7 ft (9 m)",
+            "Wheelbase": "7.6 ft (2 m)",
+            "Width Over Tires": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "415 cu in (0 m)",
+            "Engine Model": "e 6068 TF 272",
+            "Power": "163 hp (122 kw)",
+            "Torque": "449 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "110  A",
+            "Front/Rear Tire Size - 8wd": "600x26.5",
+            "Fuel Capacity": "42.3 gal (159 l)",
+            "Hydraulic System Fluid Capacity": "55.5 gal (208 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight - 8wd": "26455.5 lbs (12,000 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic mechanical"
+        }
+    }
+}

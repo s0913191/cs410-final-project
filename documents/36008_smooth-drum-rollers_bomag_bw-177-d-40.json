@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-177-d-40/36008",
+    "source_url_id": "36008",
+    "source_url_model": "bw-177-d-40",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:07.456154",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 177 D-40",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.8 in (36 cm)",
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Overall Length": "16.2 in (41 cm)",
+            "Turning Radius - Inside": "123.1 in (312 cm)",
+            "Wheelbase": "8.3 in (20 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "30349.3 lbs (13,766 kg)",
+            "Centrifugal Force - MEd": "26977.1 lbs (12,237 kg)",
+            "Drum Diameter": "48.4 in (122 cm)",
+            "Drum Width": "66.4 in (168 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "136.1 lbs/in",
+            "Vibration Frequency": "1800 - 2,400 hz (108,000 - 144,000 vpm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibration Frequency 2": "40 hz (2,400 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "B3.3",
+            "Gross Power": "80 hp (60 kw)",
+            "Make": "Cummins",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15355 lbs (6,965 kg)",
+            "Operating Width": "71.5 in (180 cm)"
+        },
+        "Tires": {
+            "Tires": "14.9-24/6PR"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/walk-tow-behind-compactors/wacker-neuson/rs-800a/8132787",
+    "source_url_id": "8132787",
+    "source_url_model": "rs-800a",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "walk-tow-behind-compactors",
+    "source_date_scraped": "2023-09-13 17:46:18.674219",
+    "equipment_category": "Walk / Tow Behind Compactors",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "RS 800A",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "2.4 ft (1 m)"
+        },
+        "Drum": {
+            "Drum Width": "28.3 in (71 cm)",
+            "Frequency": "70 hz (4,200 vpm)",
+            "Vibration Frequency": "4200 hz (252,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Honda"
+        },
+        "Operating Specifications": {
+            "Operating Width": "22 in (56 cm)"
+        }
+    }
+}

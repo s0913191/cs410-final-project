@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/j80xn/30756738",
+    "source_url_id": "30756738",
+    "source_url_model": "j80xn",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:29:47.753173",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "J80XN",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Spring Applied",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Front Tread Range": "44.3 in (112 cm)",
+            "Gradeability": "23%",
+            "Ground Clearance": "5 in (13 cm)",
+            "Height to Top of Overhead Guard": "7.7 ft (2 m)",
+            "Length to Fork Face": "9.6 ft (3 m)",
+            "Overall Height - mast lowered": "7.7 ft (2 m)",
+            "Overall Width": "4.6 ft (1 m)",
+            "Rear Tread Range": "45 in (114 cm)",
+            "Right Angle Stack": "13.7 ft (4 m)",
+            "Turning Radius": "8 ft (2 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Hyster",
+            "Engine Model": "J80XN",
+            "Power": "19.7 hp (14 kw)"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "MAST": {
+            "Lift Speed": "118 ft/min",
+            "Load Capacity": "8000.6 lbs (3,629 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "94 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Auxiliary hydraulic flow": "15.9 gal/min (57 l/min)",
+            "Axle load - front": "8792.1 lbs (3,988 kg)",
+            "Axle load - rear": "7687.6 lbs (3,487 kg)",
+            "Drawbar Pull": "3985 lbs (1,808 kg)",
+            "Front Tire Size": "250 x 15 20 Ply",
+            "Max Speed": "11 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Voltage": "80 V V",
+            "Operating Weight": "11080.5 lbs (5,026 kg)",
+            "Rear Tire Size": "7.00 x 12 16 Ply",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

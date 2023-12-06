@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/kobelco/ck850g/67337",
+    "source_url_id": "67337",
+    "source_url_model": "ck850g",
+    "source_url_make": "kobelco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:38.920453",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Kobelco",
+    "equipment_model": "CK850G",
+    "equipment_spec": {
+        "Boom": {
+            "Basic jib length": "240 ft (73 m)",
+            "Boom Length": "200 ft (61 m)",
+            "Max Lift Capacity": "170000 lbs (77,112 kg)",
+            "Swing Speed": "4 rpm"
+        },
+        "Dimensions": {
+            "Gradeability": "40%",
+            "Operating Width": "17.3 ft (5 m)",
+            "Transport Height": "20.3 ft (6 m)",
+            "Transport Width": "11.9 ft (3 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type with replaceable paper element",
+            "Displacement": "469 cu in (0 m)",
+            "Fuel Filter": "Replaceable paper element",
+            "Gross Power": "285 hp (213 kw)",
+            "Max Torque": "750 lbs/ft",
+            "Power Measured @": "2100 rpm",
+            "Starter": "6.8 hp (4 kw)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "116.3 gal (439 l)",
+            "Operating Weight": "165600 lbs (75,116 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "0.8 mph (0 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "10.8 psi"
+        }
+    }
+}

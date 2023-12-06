@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/new-holland/b115b/227595",
+    "source_url_id": "227595",
+    "source_url_model": "b115b",
+    "source_url_make": "new-holland",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:14.808020",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "B115B",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "13827.4 lbs (6,272 kg)",
+            "Dig Depth": "15 ft (5 m)",
+            "Dig Depth - Extended": "18.4 ft (5 m)",
+            "Load Height": "19.1 ft (6 m)",
+            "Load Height - Extended": "21.3 ft (6 m)",
+            "Reach at Load Height - Extended": "10.3 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Suspended Cab": "9.8 ft (3 m)",
+            "Transport Length": "19.6 ft (6 m)",
+            "Transport Width": "7.7 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "274.7 cu in (0 m)",
+            "Gross Power": "110 hp (82 kw)",
+            "Net Max Torque": "383.6 lbs/ft",
+            "Net Power": "110 hp (82 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "39.9 gal/min (148 l/min)",
+            "Pump Type": "Twin Gear Pump",
+            "Relief Valve Pressure": "2973.3 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "16635.9 lbs (7,546 kg)",
+            "Bucket Capacity": "1.6 cu yds (1 m)",
+            "Bucket Width": "88.6 in (224 cm)",
+            "Clearance at Max Dump Height": "8.7 ft (2 m)",
+            "Dig Depth": "4.6 in (10 cm)",
+            "Lift Capacity": "7464 lbs (3,386 kg)",
+            "Reach at Max Dump Height": "2.8 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "900  A",
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "35.7 gal (132 l)",
+            "Max Weight": "19555.1 lbs (8,870 kg)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "18289 lbs (8,296 kg)",
+            "Tire Size Front - 2wd / 4wd": "24 inches",
+            "Turning Radius": "14.2 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "28 inches"
+        },
+        "Transmission": {
+            "Max Speed": "24 mph (39 kph)",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

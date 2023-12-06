@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/branson/5530r/30716650",
+    "source_url_id": "30716650",
+    "source_url_model": "5530r",
+    "source_url_make": "branson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:24.058359",
+    "equipment_category": "Tractors",
+    "equipment_make": "Branson",
+    "equipment_model": "5530R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Overall Length": "12 in (30 cm)",
+            "Tire Size": "front: 11.2-20, rear:14.9-30",
+            "Wheelbase": "6.7 ft (2 m)",
+            "Width Outside Frame": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "139.6 cu in (0 m)",
+            "Engine Model": "A2300T2-ATC",
+            "Gross Power": "55 hp (41 kw)",
+            "Net Power": "47 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat 2",
+            "Fuel Capacity": "24 gal (91 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5090 lbs (2,309 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "synchronized"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc3000/22460",
+    "source_url_id": "22460",
+    "source_url_model": "pc3000",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:11:13.240001",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC3000",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Max Dig Depth": "29 ft (9 m)",
+            "Max Reach on Ground": "48.8 ft (15 m)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "25.92 ft (8 m)",
+            "Max Reach Along Ground": "25.92 ft (8 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "19.7 cu yds (15 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "25 ft (8 m)",
+            "Digging Reach": "25 ft (8 m)"
+        },
+        "Engine": {
+            "Net Power": "1260 hp (940 kw)"
+        },
+        "Loading Shovel": {
+            "Arm Crowd Force": "247500 lbs/ft",
+            "Max Dump Height": "33.2 ft (10 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "557900 lbs (253,062 kg)"
+        },
+        "Undercarriage": {
+            "Backhoe Shoe Width 1": "11.2 in (28 cm)",
+            "Loading Shovel Shoe Width": "12.5 in (30 cm)",
+            "Max Travel Speed": "1.5 mph (2 kph)",
+            "Number of Lower Rollers": "8",
+            "Number of Track Shoes per Side": "46",
+            "Number of Upper Rollers": "3",
+            "Tail Swing Radius": "21.4 ft (6 m)"
+        }
+    }
+}

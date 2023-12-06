@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/iseki/hf690g-crwde12c/30752504",
+    "source_url_id": "30752504",
+    "source_url_model": "hf690g-crwde12c",
+    "source_url_make": "iseki",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:25.763708",
+    "equipment_category": "Combines",
+    "equipment_make": "Iseki",
+    "equipment_model": "HF690G-CRWDE12C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "8.6 ft (2 m)",
+            "Overall Length": "14.7 ft (4 m)",
+            "Width Over Tires": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "180.4 cu in (0 m)",
+            "Number of Cylinders": "4",
+            "Power": "85 hp (63 kw)",
+            "Power Measured @": "2600 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "52.5 bu"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "21.2 gal (79 l)",
+            "Number of Gears": "3",
+            "Operating Weight w/o Attachment": "7010.7 lbs (3,180 kg)"
+        },
+        "Threshing": {
+            "Rotor Diameter": "17.6 in (43 cm)",
+            "Rotor Length": "35.5 in (89 cm)"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/315dl/30759825",
+    "source_url_id": "30759825",
+    "source_url_model": "315dl",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:46.772113",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "315DL",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "21.5 ft (6 m)",
+            "Max Reach Along Ground": "30 ft (9 m)"
+        },
+        "Engine": {
+            "Model": "CatC4.2ACERT",
+            "Net Power": "115 hp (86 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "38100 lbs (17,282 kg)"
+        }
+    }
+}

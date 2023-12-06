@@ -1,0 +1,71 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/m316f/30239695",
+    "source_url_id": "30239695",
+    "source_url_model": "m316f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:32.428851",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "M316F",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacities": "1.43 YARDS"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Travel Speed": "22 mph (35 kph)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "268.5 cu in (0 m)",
+            "Emissions": "Meets Tier 4 Final/Stage IV emission standards.",
+            "Engine Model": "Cat C4.4 ACERT",
+            "Engine Power - Maximum Gross - ISO 14396": "110 kW (148 [150]*)",
+            "Engine Power - Maximum Net - ISO 9249/SAE J1349": "105 kW (141 [143]*)",
+            "Maximum Torque - 1,400 rpm": "413 lbs/ft",
+            "Net Power": "141 hp (105 kw)",
+            "Note": "*Metric values.",
+            "Ratings": "2000 rpm",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Maximum Flow - Auxiliary Circuit - High Pressure": "63 gal/min (238 l/min)",
+            "Maximum Flow - Auxiliary Circuit - Medium Pressure": "13.2 gal/min (49 l/min)",
+            "Maximum Flow - Implement/Travel Circuit": "63 gal/min (238 l/min)",
+            "Maximum Flow - Swing Mechanism": "20.6 gal/min (76 l/min)",
+            "Maximum Pressure - Auxiliary Circuit - High Pressure": "5076 psi",
+            "Maximum Pressure - Auxiliary Circuit - Medium Pressure": "2683 psi",
+            "Maximum Pressure - Implement Circuit - Heavy Lift": "5439 psi",
+            "Maximum Pressure - Implement Circuit - Normal and Travel Circuit": "5076 psi",
+            "Swing Mechanism": "5366 psi",
+            "System": "63.4 gal (238 l)"
+        },
+        "Service Refill Capacities": {
+            "Diesel Exhaust Fluid Tank": "5 gal (19 l)",
+            "Fuel Tank - Total Capacity": "87.2 gal (329 l)"
+        },
+        "Swing Mechanism": {
+            "Maximum Swing Torque": "30977 lb ft (9,442 m)",
+            "Swing Speed": "9 rpm"
+        },
+        "Tires": {
+            "Standard": "10.00-20 (Dual Pneumatic)"
+        },
+        "Transmission": {
+            "Drawbar Pull": "23380 lbs (10,605 kg)",
+            "Maximum Forward/Reverse - 2nd Gear": "22 mph (35 kph)"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "1.3 ft (0 m)"
+        },
+        "Working Ranges": {
+            "Maximum Digging Depth": "20 ft (6 m)",
+            "Maximum Reach - Ground Level": "30.8 ft (9 m)"
+        },
+        "Weights": {
+            "One-Piece Boom - Front and Rear Outriggers": "35605 lbs (16,150 kg)",
+            "VA Boom - Front and Rear Outriggers": "36663 lbs (16,630 kg)",
+            "VA Boom - Rear Dozer, Front Outriggers": "36068 lbs (16,360 kg)"
+        }
+    }
+}

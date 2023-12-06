@@ -1,0 +1,98 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/1150m/42678",
+    "source_url_id": "42678",
+    "source_url_model": "1150m",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:03.645935",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "1150M",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Capacity": "41.6 cu yds (31 m)",
+            "Blade Height": "44.1 in (112 cm)",
+            "Blade Type": "PAT",
+            "Blade Width": "11.1 ft in (28 cm)"
+        },
+        "Capacities": {
+            "Engine oil with filter": "4.4 gal (15 l)"
+        },
+        "Dimensions": {
+            "Blade depth below ground": "20.4 in (51 cm)",
+            "Blade lift above ground": "36.5 in (91 cm)",
+            "Cast reach": "16 in (41 cm)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "116.4 in (295 cm)",
+            "Height - Top of ROPS/FOPS": "116.4 in (295 cm)",
+            "Length of Track on Ground": "8.5 ft (2 m)",
+            "Width Over Tracks": "7.9 ft in (18 cm)"
+        },
+        "Drive System": {
+            "Final drive": "2 helical gear",
+            "Max drawbar pull": "47996.8 lbs (21,771 kg)",
+            "Parking brakes": "Heavy-duty, spring-applied,"
+        },
+        "Electrical System": {
+            "Alternator": "120 amp",
+            "Batteries": "2 V",
+            "Battery": "12-volt low-maintenance"
+        },
+        "Engine": {
+            "Air intake": "Cross-Flow",
+            "Cooling system": "Liquid",
+            "Diesel exhaust fluid (DEF) tank capacity": "13.8 gal (49 l)",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emission Tier Level": "Tier4",
+            "Engine Model": "FPT F4HFE613F",
+            "Fan": "26.0 in,(660mm)Diameter",
+            "Fuel": "2 Diesel",
+            "Fuel injection": "Common rail",
+            "Fuel tank": "85.1 gal (322 l)",
+            "Gross Power": "138 hp (103 kw)",
+            "Net Power": "127.4 hp (95 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Pump operating angles - Fore and aft": "45  \t\u00b0",
+            "Pump operating angles -Side-to-side": "35  \t\u00b0",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Hydraulic System": {
+            "Lift cylinder - Rod diameter": "2 in (5 cm)",
+            "Lift cylinder - Stroke": "19.3 in (48 cm)",
+            "Lift cylinder(s)": "2",
+            "Lift cylinder-Bore diameter": "4.3 in (10 cm)",
+            "Pump type": "Variable Displacement Piston"
+        },
+        "Operating Specifications": {
+            "center rock guard": "295.5 lbs (134 kg)",
+            "Long track": "31133.7 lbs (14,122 kg)",
+            "Low ground pressure": "32637.3 lbs (14,804 kg)",
+            "Operating Weight": "32637.3 lbs (14,804 kg)",
+            "Sweeps": "138.9 lbs (63 kg)",
+            "Winch": "2447.2 lbs (1,110 kg)"
+        },
+        "Performance": {
+            "Pump Flow": "34.9 gal/min (129 l/min)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.8 mph (8 kph)",
+            "Max Speed - Reverse": "5.8 mph (8 kph)"
+        },
+        "Undercarriage": {
+            "Number of bottom rollers per side": "7",
+            "Number of Shoes per Side": "43",
+            "Number of Upper Rollers": "2",
+            "Track Gauge": "0.1 ft (0 m)",
+            "Width of Shoes": "30 in (76 cm)"
+        },
+        "Weights": {
+            "Cab": "560 lbs (254 kg)",
+            "counterweight": "948 lbs (430 kg)",
+            "Ripper weight": "2376.6 lbs (1,078 kg)"
+        }
+    }
+}

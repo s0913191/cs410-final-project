@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-dozers/letourneau/d950/30749667",
+    "source_url_id": "30749667",
+    "source_url_model": "d950",
+    "source_url_make": "letourneau",
+    "source_url_category": "wheel-dozers",
+    "source_date_scraped": "2023-09-13 16:41:23.286533",
+    "equipment_category": "Wheel Dozers",
+    "equipment_make": "Letourneau",
+    "equipment_model": "D950",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Capacity": "35 cu yds (27 m)",
+            "Blade Height": "7.3 ft (2 m)",
+            "Blade Width": "20.6 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "19.5 ft (6 m)",
+            "Length with Blade on Ground": "44.1 ft (13 m)",
+            "Wheelbase": "19.5 ft (6 m)",
+            "Width Over Tires": "16.5 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "1861 cu in (0 m)",
+            "Engine Model": "QST 30",
+            "Gross Power": "1050 hp (783 kw)",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Axle Oscillation": "11  \t\u00b0",
+            "Engine Oil Capacity": "34.9 gal (129 l)",
+            "Front Diff Fluid Capacity": "6.1 gal (23 l)",
+            "Fuel Capacity": "564.8 gal (2,135 l)",
+            "Operating Weight": "230000 lbs (104,327 kg)",
+            "Rear Diff Fluid Capacity": "6.1 gal (23 l)",
+            "Steering Angle": "42  \t\u00b0",
+            "Tire Size": "45/65-45",
+            "Transmission Fluid Capacity": "5.1 gal (19 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15 mph (24 kph)",
+            "Max Speed - Reverse": "15 mph (24 kph)",
+            "Transmission Type": "infinitely variable"
+        }
+    }
+}

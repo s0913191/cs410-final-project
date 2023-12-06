@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/jcb/3cx-eco/30743570",
+    "source_url_id": "30743570",
+    "source_url_model": "3cx-eco",
+    "source_url_make": "jcb",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:35:31.251244",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "3CX ECO",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "268.6 cu in (0 m)",
+            "Emissions Certification": "Tier IV",
+            "Engine Model": "3CX ECO SITE MASTER",
+            "Fuel Type": "Diesel",
+            "Gross Power": "73.8 hp (54 kw)",
+            "Net Max Torque": "295.1 lbs/ft",
+            "Net Power": "536.5 hp (400 kw)",
+            "Number of Cylinders": "4",
+            "Rated engine speed": "2200 rpm",
+            "Stroke": "5.2 in (13 cm)"
+        },
+        "Loader": {
+            "Dig Depth": "0.2 in (0 cm)",
+            "Dump height": "9 ft (3 m)",
+            "Load over height": "10.5 ft (3 m)",
+            "Reach at Max Dump Height": "21.4 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.9 gal (15 l)",
+            "Front Axle Fluid Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "43.6 gal (163 l)",
+            "Max Weight": "17934.7 lbs (8,135 kg)",
+            "Operating Weight": "17861.9 lbs (8,102 kg)",
+            "Rear Axle Fluid Capacity": "4.3 gal (15 l)"
+        },
+        "Transmission": {
+            "Max Speed": "4.7 mph (6 kph)",
+            "Transmission Type": "Syncroshuttle"
+        },
+        "Electrical System": {
+            "Alternator": "95",
+            "Battery": "1000 CCA (120 amp)",
+            "Front working lights": "4 adjustable",
+            "Gauges": "Tachometer, engine coolant temp, fuel level, hourmeter, clock",
+            "Pre-wire": "Radio speakers (cab), beacon (all)",
+            "Rear working lights": "4 adjustable"
+        }
+    }
+}

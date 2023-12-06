@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/fendt/724/30751787",
+    "source_url_id": "30751787",
+    "source_url_model": "724",
+    "source_url_make": "fendt",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:16:37.635772",
+    "equipment_category": "Tractors",
+    "equipment_make": "Fendt",
+    "equipment_model": "724",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "21.8 in (53 cm)",
+            "Overall height": "10.1 ft (3 m)",
+            "Overall Length": "206.3 in (523 cm)",
+            "Overall width": "8.4 ft (2 m)",
+            "Track width front": "6.4 ft (2 m)",
+            "Track width rear": "6.4 ft (2 m)",
+            "Turning Circle": "18.1 ft (5 m)",
+            "Wheelbase": "91.4 ft (28 m)"
+        },
+        "Electrical System": {
+            "Alternator": "14 v,200 Amp",
+            "Battery": "12 V, 180 Ah",
+            "Starter": "333 Amp"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, intercooler",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "44 cu in (0 m)",
+            "Engine Model": "724",
+            "Engine oil service interval hours": "500",
+            "Gross Power": "240 hp (179 kw)",
+            "Net Power": "220 hp (164 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "PTO Power": "195 hp (145 kw)",
+            "Rated engine speed": "2100 rpm",
+            "Starter": "5.4 hp (4 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "10.1 gal (38 l)",
+            "Engine Oil Capacity": "132.1 gal (500 l)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Operating Weight": "15399.3 lbs (6,985 kg)"
+        },
+        "Power Take-Off (PTO)": {
+            "Front PTO": "540 rpm",
+            "Rear PTO": "1000"
+        },
+        "Transmission": {
+            "Max Speed": "31.1 mph (50 kph)",
+            "Transmission Type": "ML 180 HD"
+        },
+        "Weights": {
+            "Implement weight": "7010.7 lbs (3,180 kg)"
+        }
+    }
+}

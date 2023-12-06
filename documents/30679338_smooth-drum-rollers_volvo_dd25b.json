@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/dd25b/30679338",
+    "source_url_id": "30679338",
+    "source_url_model": "dd25b",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:26.632301",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "DD25B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "110 Inches"
+        },
+        "Drum": {
+            "Drum Width": "47.2 Inches",
+            "Vibration Frequency": "55 - 67 hz (3,300 - 4,020 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota D1803-M"
+        },
+        "Operating Specifications": {
+            "Operating Width": "43 Inches"
+        }
+    }
+}

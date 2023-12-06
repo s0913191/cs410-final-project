@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/bm-4400/30755295",
+    "source_url_id": "30755295",
+    "source_url_model": "bm-4400",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:15.577688",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM 4400",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "19840 lbs (8,999 kg)",
+            "Bucket Capacity - heaped": "2.5 cu yds (2 m)",
+            "Bucket Width": "8.3 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Hinge Pin - Max Height": "12.6 ft (4 m)",
+            "Length with Bucket on Ground": "21.9 ft (6 m)",
+            "Reach at Max Lift and Dump": "3.3 ft (1 m)",
+            "Wheelbase": "9.4 ft (3 m)",
+            "Width Over Tires": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "334.5 cu in (0 m)",
+            "Engine Model": "TD 60 B",
+            "Gross Power": "143 hp (107 kw)",
+            "Net Power": "128 hp (95 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "4 sec",
+            "Lower Time": "3.8 sec",
+            "Pump Flow Capacity": "55.5 gal/min (208 l/min)",
+            "Pump Type": "Vane pump",
+            "Raise Time": "6.4 sec",
+            "Relief Valve Setting": "2130 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Cooling System Fluid Capacity": "7.7 gal (27 l)",
+            "Engine Oil Fluid Capacity": "4 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "6.1 gal (23 l)",
+            "Fuel Capacity": "51.6 gal (193 l)",
+            "Hydraulic System Fluid Capacity": "27.8 gal (102 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "24581.6 lbs (11,150 kg)",
+            "Rear Axle Oscillation": "30  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.3 gal (19 l)",
+            "Static Tipping Weight": "17747.3 lbs (8,050 kg)",
+            "Tire Size": "20.5R25",
+            "Transmission Fluid Capacity": "6.4 gal (23 l)",
+            "Turning Radius": "17.1 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.3 mph (39 kph)",
+            "Max Speed - Reverse": "24.3 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "power-shift"
+        }
+    }
+}

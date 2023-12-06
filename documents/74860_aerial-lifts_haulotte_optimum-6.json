@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/optimum-6/74860",
+    "source_url_id": "74860",
+    "source_url_model": "optimum-6",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:46.543905",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "OPTIMUM 6",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.2 in (8 cm)",
+            "Height w/ Rails": "6.3 ft (2 m)",
+            "Height w/o Rails": "2.7 ft (1 m)",
+            "Overall Length": "5.7 in (13 cm)",
+            "Overall Width": "2.5 ft (1 m)",
+            "Turning Radius": "5.6 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "180",
+            "Charger Amps": "30",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "4.8 gal (15 l)",
+            "Max Speed": "2.9 mph (3 kph)",
+            "Operating Weight": "2943.2 lbs (1,335 kg)",
+            "Tire Fill/Type": "Solid/non marking",
+            "Tire Size": "Dia 317"
+        },
+        "Platform": {
+            "Deck Extension": "36.3 in (91 cm)",
+            "Lift Time": "20 sec",
+            "Lower Time": "35 sec",
+            "Max Platform Height": "14.6 ft (4 m)",
+            "Max Platform Weight Capacity": "617.3 lbs (280 kg)",
+            "Max Working Height": "21.2 ft (6 m)",
+            "Platform Inner Length": "65 in (165 cm)",
+            "Platform Inner Width": "27.6 in (69 cm)"
+        }
+    }
+}

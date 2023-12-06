@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/eh4000acii/30761096",
+    "source_url_id": "30761096",
+    "source_url_model": "eh4000acii",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:34.529057",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EH4000ACII",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "RWD"
+        },
+        "Dump": {
+            "Rated Payload": "244.7 t (221,353 kg)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSK60C"
+        },
+        "Weights": {
+            "Operating Weight": "846561 lbs (383,998 kg)"
+        }
+    }
+}

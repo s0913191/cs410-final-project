@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/gmk5130/13026",
+    "source_url_id": "13026",
+    "source_url_model": "gmk5130",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:29.903603",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "GMK5130",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "308 ft (94 m)",
+            "Max Lift Capacity": "143 t (129,727 kg)"
+        }
+    }
+}

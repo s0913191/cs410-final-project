@@ -1,0 +1,179 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/793d/30754680",
+    "source_url_id": "30754680",
+    "source_url_model": "793d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:48.178472",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "793D",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "Body Hoists": {
+            "Body Lower Time - Float": "19.26 sec",
+            "Body Power Down - High Idle": "17.51 sec",
+            "Body Raise Time - High Idle": "20.25 sec",
+            "Pump Flow - High Idle": "224 gal/min (848 l/min)",
+            "Relief Valve Setting - Lower": "126 psi",
+            "Relief Valve Setting - Raise": "2955 psi"
+        },
+        "Brakes": {
+            "Brake Standards": "25",
+            "Brake Surface - Front": "13921 cu in (0 m)",
+            "Brake Surface - Rear": "20847 cu in (0 m)",
+            "Standards": "J-ISO 3450 JAN88, ISO 3450:1996"
+        },
+        "Capacity - Dual Slope - 100% Fill Factor": {
+            "Heaped (SAE 2:1)": "169 cu yds (129 m)",
+            "Struck": "126 cu yds (96 m)"
+        },
+        "Dimensions": {
+            "Centerline Front Tire Width": "18.5 ft (5 m)",
+            "Centerline of Rear Dual Tire Width": "16.3 ft (5 m)",
+            "Dump Clearance": "4.5 ft (1 m)",
+            "Dump Ground Clearance": "4.5 ft (1 m)",
+            "Dump Height": "43.1 ft (13 m)",
+            "Engine Guard Clearance": "4.3 ft (1 m)",
+            "Front Canopy Height": "21.4 ft (6 m)",
+            "Ground Clearance": "3.3 ft (1 m)",
+            "Height - Top of ROPS/FOPS": "18.4 ft (5 m)",
+            "Inside Body Depth - Maximum": "7.7 ft (2 m)",
+            "Inside Body Length": "25.3 ft (8 m)",
+            "Inside Body Width": "21.4 ft (6 m)",
+            "Loading Height - Empty": "19.3 ft (6 m)",
+            "Operating Width": "25.2 ft (8 m)",
+            "Outside Body Width": "25.2 ft (8 m)",
+            "Overall Body Length": "42.2 ft (13 m)",
+            "Overall Canopy Width": "25.2 ft (8 m)",
+            "Overall Height": "21.4 ft (6 m)",
+            "Overall Height - Body Raised": "43.1 ft (13 m)",
+            "Overall Length": "42.2 ft (13 m)",
+            "Overall Tire Width": "25 ft (8 m)",
+            "Overall Width": "25.3 ft (8 m)",
+            "Rear Axle - Clearance": "3.7 ft (1 m)",
+            "Rear Axle - Tail": "12.4 ft (4 m)",
+            "Wheel Base": "19.4 ft (6 m)",
+            "Wheelbase": "19.5 ft (6 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x2"
+        },
+        "Dump": {
+            "Dump Angle": "45  \t\u00b0",
+            "Load Capacity - heaped": "169 cu yds (129 m)",
+            "Load Capacity - Struck": "126 cu yds (96 m)",
+            "Lower Time": "19.3 sec",
+            "Raise Time": "20.3 sec",
+            "Rated Payload": "480000 lbs (217,727 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "6.7 in (15 cm)",
+            "Displacement": "4760 cu in (0 m)",
+            "Engine Model": "Cat 3516B HD EUI",
+            "Gross Power": "2415 hp (1,801 kw)",
+            "Gross Power - SAE J1995": "2415 hp (1,801 kw)",
+            "Make": "Cat",
+            "Model": "3516B HD EUI",
+            "Net Power": "2337 hp (1,743 kw)",
+            "Net Power - 80/1269/EEC": "2337 hp (1,743 kw)",
+            "Net Power - ISO 9249": "2337 hp (1,743 kw)",
+            "Net Power - SAE J1349": "2337 hp (1,743 kw)",
+            "Number of Cylinders": "16",
+            "Power Measured @": "1750 rpm",
+            "Rated Engine Speed": "203 rpm",
+            "Stroke": "8.5 in (20 cm)",
+            "Torque Measured @": "Turbocharged rpm",
+            "Torque Rise": "23%"
+        },
+        "Final Drives": {
+            "Differential Ratio": "28.8:1",
+            "Planetary Ratio": "0.667361111111111",
+            "Total Reduction Ratio": "28.8:1"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Body Capacity - SAE 2:1": "169 cu yds (129 m)",
+            "Brake/Hoist System Fluid Capacity": "363.3 gal (1,374 l)",
+            "Cooling System Fluid Capacity": "257 gal (973 l)",
+            "Diff and Final Drive Fluid Capacity": "70 gal (265 l)",
+            "Engine Oil Capacity": "70 gal (265 l)",
+            "Fuel Capacity": "1150 gal (4,353 l)",
+            "Hydraulic System Fluid Capacity": "203 gal (768 l)",
+            "Lower Time": "17.5 sec",
+            "Nominal Payload Capacity": "480000 lbs (217,727 kg)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Operating Voltage": "24 V V",
+            "Raise Time": "20.3 sec",
+            "Steer Angle": "36  \t\u00b0",
+            "Steering System Fluid Capacity": "90 gal (341 l)",
+            "Tire Size": "40.00-R57(E4)",
+            "Top Speed - Loaded": "33.7 mph (53 kph)",
+            "Turning Circle - Clearance Diameter": "107.2 ft (33 m)",
+            "Turning Diameter - Front": "107.2 ft (33 m)"
+        },
+        "ROPS": {
+            "ROPS Standards": "ISO 3471:1994"
+        },
+        "Service Refill Capacities": {
+            "Brake / Hoist / Fan Hydraulic Tank": "169 gal (640 l)",
+            "Brake Hoist System - Includes Tank": "363 gal (1,374 l)",
+            "Brake/Hoist Hydraulic Tank": "203 gal (768 l)",
+            "Cooling System": "257 gal (973 l)",
+            "Crankcase": "70 gal (265 l)",
+            "Differential - Final Drives": "70 gal (265 l)",
+            "Fuel Tank - Optional": "1300 gal (4,921 l)",
+            "Fuel Tank - Standard": "1150 gal (4,353 l)",
+            "Steering System - Including Tank": "90 gal (341 l)",
+            "Steering Tank": "60 gal (227 l)",
+            "Torque Converter - Transmission Sump": "27 gal (102 l)",
+            "Torque Converter/Transmission System - Including Sump": "50 gal (189 l)"
+        },
+        "Sound": {
+            "Sound Standards": "ANSI/SAE J1166 MAY90"
+        },
+        "Steering System": {
+            "Steering Standards": "SAE J1511 OCT90, ISO 5010:1992"
+        },
+        "Suspension": {
+            "Effective Cylinder Stroke - Front": "5.2 in (13 cm)",
+            "Effective Cylinder Stroke - Rear": "4.2 in (10 cm)",
+            "Rear axle - Oscillation": "5.2 \t\u00b0"
+        },
+        "Tires": {
+            "Standard Tires": "40.00R57"
+        },
+        "Transmission": {
+            "Forward - 1": "7.3 mph (11 kph)",
+            "Forward - 2": "9.9 mph (14 kph)",
+            "Forward - 3": "13.4 mph (21 kph)",
+            "Forward - 4": "18.1 mph (29 kph)",
+            "Forward - 5": "24.5 mph (39 kph)",
+            "Forward - 6": "33.7 mph (53 kph)",
+            "Max Speed": "33.7 mph (53 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "1",
+            "Reverse": "6.8 mph (10 kph)",
+            "Transmission Type": "Six-speed planetary powershift"
+        },
+        "Weights": {
+            "Body Weight Range": "21 795 - 54 431 kg / 48,050 - 120,000 lb",
+            "Chassis Weight": "257294 lbs (116,708 kg)",
+            "Empty Weight": "351258 lbs (159,330 kg)",
+            "Front Axle - Empty": "46%",
+            "Front Axle - Loaded": "33%",
+            "Gross Machine Operating Weight (GMW)": "846000 lbs (383,743 kg)",
+            "Loaded Weight": "846000 lbs (383,743 kg)",
+            "Operating Weight - Loaded": "SAE J1511 OCT90, ISO 5010:1992 lbs (0 kg)",
+            "Rear Axle - Empty": "54%",
+            "Rear Axle - Loaded": "67%",
+            "Weight Distribution Front - empty": "46%",
+            "Weight Distribution Front - loaded": "33%",
+            "Weight Distribution Rear - empty": "54%",
+            "Weight Distribution Rear - loaded": "67%"
+        }
+    }
+}

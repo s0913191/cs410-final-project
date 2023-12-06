@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/ap1055d/30103275",
+    "source_url_id": "30103275",
+    "source_url_model": "ap1055d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:58.502153",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "AP1055D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "21.5 ft (6 m)",
+            "Length w/o Screed": "15.7 ft (5 m)",
+            "Track Width": "18 in (46 cm)",
+            "Transport Height": "9.3 ft (3 m)",
+            "Transport Width": "11 ft (3 m)",
+            "Width w/ Hopper Open": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "441 cu in (0 m)",
+            "Engine Model": "C7",
+            "Gross Power": "224 hp (167 kw)",
+            "Make": "Caterpillar",
+            "Net Power": "221 hp (165 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "16 in (41 cm)",
+            "Hopper Capacity": "8 lbs (4 kg)",
+            "Paving Speed - max": "220 ft/min",
+            "Paving Width - max": "8 - 24.20 ft (2 - 7 m)",
+            "Travel Speed - max": "9 mph (14 kph)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Cooling System Fluid Capacity": "9.5 gal (34 l)",
+            "Fuel Capacity": "122 gal (462 l)",
+            "Hydraulic System Fluid Capacity": "39.4 gal (148 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/ Screed": "45130 lbs (20,471 kg)",
+            "Operating Weight w/o Screed": "37580 lbs (17,046 kg)"
+        }
+    }
+}

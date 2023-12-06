@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/9310-ttv/31085551",
+    "source_url_id": "31085551",
+    "source_url_model": "9310-ttv",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:15:20.063691",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "9310 TTV",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "296  hp"
+        },
+        "Production": {
+            "Series": "9 TTV Agrotron Series",
+            "Years Manufactured": "2015 -"
+        }
+    }
+}

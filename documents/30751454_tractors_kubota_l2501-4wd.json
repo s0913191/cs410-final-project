@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l2501-4wd/30751454",
+    "source_url_id": "30751454",
+    "source_url_model": "l2501-4wd",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:29:21.466195",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L2501-4WD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.4 in (33 cm)",
+            "Height - Top of Cab": "7.7 ft (2 m)",
+            "Overall Length": "110.7 in (279 cm)",
+            "Wheelbase": "5.3 ft (2 m)",
+            "Width Outside Frame": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Bore": "3.5 in (8 cm)",
+            "Displacement": "100.5 cu in (0 m)",
+            "Engine Make": "KUBOTA",
+            "Engine Model": "D1703-M-DI-E4",
+            "Engine Type": "Direct injection, Vertical, Water-Cooled 4 cycle diesel",
+            "Gross Power": "24.8 hp (18 kw)",
+            "Max Torque": "70.3 lbs/ft",
+            "Net Power": "23.9 hp (17 kw)",
+            "Number of Cylinders": "3",
+            "PTO Power": "20.5 hp (15 kw)",
+            "Rated Speed": "2200 rpm",
+            "Stroke": "3.7 in (8 cm)"
+        },
+        "Hydraulic System": {
+            "Implement Pump Flow PS": "3.2 gal/min (11 l/min)",
+            "Pump Flow Capacity": "5.2 gal/min (19 l/min)",
+            "system pressure": "2205 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1389 lbs (630 kg)",
+            "3 Point Hitch Type": "Category 1",
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "10.1 gal (38 l)",
+            "Lift Configuration": "Position control",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "2601.5 lbs (1,180 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.2-16",
+            "Turning Radius": "8.3 ft (2 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "11.2-24"
+        },
+        "Transmission": {
+            "Brakes": "Wet disk type",
+            "Clutch, wet/dry": "Dry type Single stage",
+            "Max Speed": "10.8 mph (16 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "4",
+            "Steering": "Integral type power steering",
+            "Transmission Type": "Manual Transmission - Gear shift"
+        }
+    }
+}

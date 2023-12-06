@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/85zii/30755163",
+    "source_url_id": "30755163",
+    "source_url_model": "85zii",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:40.695669",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "85ZII",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "37080 lbs (16,819 kg)",
+            "Bucket Capacity - heaped": "4.3 cu yds (3 m)",
+            "Bucket Capacity - struck": "3.7 cu yds (2 m)",
+            "Bucket Width": "9.7 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.9 ft (3 m)",
+            "Hinge Pin - Max Height": "13.5 ft (4 m)",
+            "Length with Bucket on Ground": "25.1 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "611 cu in (0 m)",
+            "Engine Model": "LT-10-C250",
+            "Gross Power": "226 hp (169 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "4 sec",
+            "Pump Flow Capacity": "55.7 gal/min (208 l/min)",
+            "Pump Type": "gear type",
+            "Raise Time": "6.3 sec",
+            "Relief Valve Setting": "2630 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "17.5 gal (64 l)",
+            "Engine Oil Fluid Capacity": "9.8 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "14.6 gal (53 l)",
+            "Fuel Capacity": "76.7 gal (288 l)",
+            "Hydraulic System Fluid Capacity": "67.1 gal (254 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "43872 lbs (19,900 kg)",
+            "Rear Axle Oscillation": "30  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "14.6 gal (53 l)",
+            "Static Tipping Weight": "29970 lbs (13,594 kg)",
+            "Tire Size": "23.5-25-16PR (L-2)",
+            "Transmission Fluid Capacity": "15.9 gal (57 l)",
+            "Turning Radius": "23.5 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.5 mph (35 kph)",
+            "Max Speed - Reverse": "9.7 mph (14 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "full power shift"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/liebherr/ltm-1200and-or51/30760353",
+    "source_url_id": "30760353",
+    "source_url_model": "ltm-1200and-or51",
+    "source_url_make": "liebherr",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:54.492988",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1200/5.1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "322 ft (98 m)",
+            "Max Lift Capacity": "220 t (199,581 kg)"
+        }
+    }
+}

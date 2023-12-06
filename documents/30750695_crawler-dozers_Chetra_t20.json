@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/Chetra/t20/30750695",
+    "source_url_id": "30750695",
+    "source_url_model": "t20",
+    "source_url_make": "Chetra",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:48.020548",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Chetra",
+    "equipment_model": "T20",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "12.2 ft (4 m)",
+            "Length of Track on Ground": "10.1 ft (3 m)",
+            "Length w/ Blade": "25.6 ft (8 m)",
+            "Width Over Tracks": "8.8 ft in (20 cm)"
+        },
+        "Engine": {
+            "Engine Model": "M11-C330",
+            "Gross Power": "292 hp (218 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "79366.5 lbs (36,000 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "10  \t\u00b0",
+            "Capacity": "13.1 cu yds (10 m)",
+            "Height": "67 in (170 cm)",
+            "Width": "13 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "8.7 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "6.9 ft (2 m)"
+        }
+    }
+}

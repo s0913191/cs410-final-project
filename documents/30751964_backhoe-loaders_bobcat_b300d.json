@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/bobcat/b300d/30751964",
+    "source_url_id": "30751964",
+    "source_url_model": "b300d",
+    "source_url_make": "bobcat",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:01.943690",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "B300D",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "9.1 ft (3 m)",
+            "Max Digging Depth": "11 ft (3 m)"
+        },
+        "Loader": {
+            "Breakout Force": "8430 lbs (3,824 kg)",
+            "Lift Capacity": "3150 lbs (1,429 kg)",
+            "SAE - Net": "46 hp (34 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "9260 lbs (4,200 kg)"
+        },
+        "Travel Speed": {
+            "4Th Gear Fwd": "10.9 mph (16 kph)"
+        }
+    }
+}

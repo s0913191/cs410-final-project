@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/nagano/ns25/30749915",
+    "source_url_id": "30749915",
+    "source_url_model": "ns25",
+    "source_url_make": "nagano",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:16:41.401399",
+    "equipment_category": "Excavators",
+    "equipment_make": "Nagano",
+    "equipment_model": "NS25",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "8.6 ft (2 m)",
+            "Max Loading Height": "10 ft (3 m)",
+            "Max Reach Along Ground": "15.1 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "6.2 ft (2 m)",
+            "Shipping Height of Unit": "7.9 ft (2 m)",
+            "Shipping Length of Unit": "14.6 ft (4 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Length of Track on Ground": "4.5 ft (1 m)",
+            "Tail Swing Radius": "4.5 ft (1 m)",
+            "Width to Outside of Tracks": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "80.5 cu in (0 m)",
+            "Net Power": "23.8 hp (17 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "14.8 gal/min (53 l/min)",
+            "Operating Weight": "6217.1 lbs (2,820 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.5 mph (3 kph)",
+            "Shoe Size": "11.9 in (28 cm)"
+        }
+    }
+}

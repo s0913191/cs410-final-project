@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/feller-bunchers/john-deere/843j/19610",
+    "source_url_id": "19610",
+    "source_url_model": "843j",
+    "source_url_make": "john-deere",
+    "source_url_category": "feller-bunchers",
+    "source_date_scraped": "2023-09-13 17:50:38.117816",
+    "equipment_category": "Feller Bunchers",
+    "equipment_make": "John Deere",
+    "equipment_model": "843J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 in (3 cm)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Overall Length": "24.2 ft (7 m)",
+            "Overall Width": "9.9 ft (3 m)",
+            "Wheelbase": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6068H",
+            "Gross Power": "225 hp (168 kw)",
+            "Net Torque": "754 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Engine Oil Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "84 gal (318 l)",
+            "Ground Pressure": "11.2 psi",
+            "Hydraulic System Fluid Capacity": "70.1 gal (265 l)",
+            "Max Speed": "12.5 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight w/o Attachment": "27990 lbs (12,696 kg)",
+            "Steering Articulation": "90  \t\u00b0",
+            "Tire Size": "28L-26"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

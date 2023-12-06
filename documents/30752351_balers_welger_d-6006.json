@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/welger/d-6006/30752351",
+    "source_url_id": "30752351",
+    "source_url_model": "d-6006",
+    "source_url_make": "welger",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:01:26.828025",
+    "equipment_category": "Balers",
+    "equipment_make": "Welger",
+    "equipment_model": "D 6006",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "2.3 ft (1 m)",
+            "Bale Length - max": "8.3 ft (2 m)",
+            "Bale Length - min": "3 ft (1 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Overall Width": "7.4 ft (2 m)",
+            "Tine to Tine Width": "6.2 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "8.9 ft (2 m)",
+            "Overall Length": "27 ft (8 m)",
+            "Overall Width": "9.2 ft (3 m)",
+            "Tractor PTO Power Required": "123.4 hp (92 kw)"
+        },
+        "Plunger": {
+            "SPM": "64"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "24"
+        }
+    }
+}

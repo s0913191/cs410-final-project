@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/case/t770/30760118",
+    "source_url_id": "30760118",
+    "source_url_model": "t770",
+    "source_url_make": "case",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:42.703469",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "T770",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "92 hp (69 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "3475 lbs (1,576 kg)",
+            "Operating Width": "81.3 in (206 cm)"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/8220/30028802",
+    "source_url_id": "30028802",
+    "source_url_model": "8220",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:33.348753",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "8220",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "366.2 cu in (0 m)",
+            "Engine Make": "Perkins",
+            "Gross Power": "152.9 hp (113 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "135.5 hp (101 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "27.8 gal/min (102 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "13999.4 lbs (6,350 kg)",
+            "Fuel Capacity": "103.1 gal (390 l)",
+            "Hydraulic System Fluid Capacity": "34.9 gal (129 l)",
+            "Operating Weight": "14760 lbs (6,695 kg)",
+            "Tire Size Front - 2wd / 4wd": "18.4R-38"
+        },
+        "Production": {
+            "Series": "8200 Series",
+            "Years Manufactured": "1999 - 2003"
+        },
+        "Tires": {
+            "Rear Tires Size": "11.00-16"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "32",
+            "Number of Reverse Gears": "32",
+            "Transmission Type": "Manual / Partial Power-Shift"
+        }
+    }
+}

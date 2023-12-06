@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd132hf/30679325",
+    "source_url_id": "30679325",
+    "source_url_model": "dd132hf",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:38.386689",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD132HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "20.1 in (51 cm)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Overall Length": "19.7 in (48 cm)",
+            "Overall Width": "7.7 ft (2 m)",
+            "Wheelbase": "11.7 in (28 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "41724.6 lbs (18,926 kg)",
+            "Centrifugal Force - Low": "36688.9 lbs (16,642 kg)",
+            "Drum Diameter": "55.2 in (140 cm)",
+            "Drum Width": "84.1 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "45 hz (2,700 vpm)",
+            "Vibration Frequency 2": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "QSB5.9-155",
+            "Gross Power": "155.6 hp (116 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "68.5 gal (257 l)",
+            "Hydraulic System Fluid Capacity": "36.5 gal (136 l)",
+            "Max Speed": "6.2 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "30313.6 lbs (13,750 kg)"
+        }
+    }
+}

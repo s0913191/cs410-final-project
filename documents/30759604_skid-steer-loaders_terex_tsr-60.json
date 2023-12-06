@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/terex/tsr-60/30759604",
+    "source_url_id": "30759604",
+    "source_url_model": "tsr-60",
+    "source_url_make": "terex",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:08.588580",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TSR 60",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "60 hp (45 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "3000 lbs (1,361 kg)",
+            "Operating Width": "66 in (168 cm)"
+        }
+    }
+}

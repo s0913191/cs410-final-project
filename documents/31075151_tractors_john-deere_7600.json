@@ -1,0 +1,16 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/7600/31075151",
+    "source_url_id": "31075151",
+    "source_url_model": "7600",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:23:28.411195",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "7600",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "124 hp (92 kw)"
+        }
+    }
+}

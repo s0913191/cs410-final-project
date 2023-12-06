@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/8130-180-pto-hp/30751208",
+    "source_url_id": "30751208",
+    "source_url_model": "8130-180-pto-hp",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:23:51.464796",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "8130 180 PTO hp",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, air-to-air aftercooled",
+            "Displacement": "549.3 cu in (0 m)",
+            "Engine Make": "2240",
+            "Gross Power": "225 hp (168 kw)",
+            "Max Torque": "674 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "182.3 hp (136 kw)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "44 gal/min (167 l/min)",
+            "Relief Valve Setting": "2990 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "12401.1 lbs (5,625 kg)",
+            "Fuel Capacity": "180 gal (681 l)",
+            "Tire Size Front - 2wd / 4wd": "Group 42"
+        },
+        "Tires": {
+            "Rear Tires Size": "Group 47"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

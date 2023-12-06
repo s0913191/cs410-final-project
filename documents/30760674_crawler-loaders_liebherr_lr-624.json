@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/liebherr/lr-624/30760674",
+    "source_url_id": "30760674",
+    "source_url_model": "lr-624",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:56.070733",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LR 624",
+    "equipment_spec": {
+        "Engine": {
+            "Model": "934 S A6",
+            "Net Power": "141 hp (105 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "37492 lbs (17,006 kg)"
+        }
+    }
+}

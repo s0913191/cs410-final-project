@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d275ax-5/20895",
+    "source_url_id": "20895",
+    "source_url_model": "d275ax-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:06.160827",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D275AX-5",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "13.1 ft (4 m)",
+            "Length w/ Blade": "30.4 ft (9 m)",
+            "Width Over Tracks": "7.5 ft in (18 cm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, aftercooled",
+            "Displacement": "930 cu in (0 m)",
+            "Engine Model": "SDA6D140E-3",
+            "Gross Power": "446 hp (333 kw)",
+            "Make": "Komatsu",
+            "Model": "SAA6D140E-5",
+            "Net Power": "410 hp (306 kw)",
+            "Number of Cylinders": "6"
+        },
+        "Hydraulic System": {
+            "Pump type": "double-acting, piston",
+            "Relief Valve Pressure": "3980 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "34.3 gal (129 l)",
+            "Engine Oil Capacity": "13.7 gal (49 l)",
+            "Final Drives Fluid Capacity": "10.6 gal (38 l)",
+            "Fuel Capacity": "222 gal (840 l)",
+            "Hydraulic Fluid Capacity": "34.3 gal (129 l)",
+            "Operating Weight": "83070 lbs (37,680 kg)"
+        },
+        "Standard Blade": {
+            "Height": "6.5 in (15 cm)",
+            "Width": "14.1 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7 mph (11 kph)",
+            "Max Speed - Reverse": "9.3 mph (14 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Komatsu TORQFLOW transmission"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "6580 cu in (0 m)",
+            "Ground Pressure": "16.6 psi",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "24 in (61 cm)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/komatsu/d31s-17/22725",
+    "source_url_id": "22725",
+    "source_url_model": "d31s-17",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:44.228630",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D31S-17",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "8.4 ft (2 m)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Length with Bucket on Ground": "13.6 ft (4 m)",
+            "Reach at Dump Height": "2.8 ft (1 m)",
+            "Width to Outside of Tracks": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "264 cu in (0 m)",
+            "Engine Model": "4D105-5",
+            "Net Power": "66 hp (49 kw)"
+        },
+        "Operating Specifications": {
+            "Breakout Force  Bucket": "14110 lbs (6,400 kg)",
+            "Bucket Capacity - heaped": "1.1 cu yds (1 m)",
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "30.4 gal (114 l)",
+            "Max Speed": "4.1 mph (6 kph)",
+            "Operating Weight": "14771 lbs (6,700 kg)",
+            "Static Tipping Load": "9390 lbs (4,259 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.7 psi",
+            "Length of Track on Ground": "6.2 ft (2 m)",
+            "Number of Track Rollers per Side": "5",
+            "Track Gauge": "57.1 in (145 cm)",
+            "Track Shoe Width": "13 in (33 cm)"
+        }
+    }
+}

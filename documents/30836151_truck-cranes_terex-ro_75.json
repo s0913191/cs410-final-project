@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex-ro/75/30836151",
+    "source_url_id": "30836151",
+    "source_url_model": "75",
+    "source_url_make": "terex-ro",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:21.560606",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex Ro",
+    "equipment_model": "75",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "40 ft (12 m)",
+            "Max Lift Capacity": "3.6 t (2,722 kg)"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca602d/30670485",
+    "source_url_id": "30670485",
+    "source_url_model": "ca602d",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:08.421355",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA602D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.8 in (43 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length": "19.7 in (48 cm)",
+            "Overall Width": "7 ft (2 m)",
+            "Turning Radius - Inside": "126 in (320 cm)",
+            "Wheelbase": "9.9 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "71264.5 lbs (32,325 kg)",
+            "Centrifugal Force - Low": "51930.9 lbs (23,555 kg)",
+            "Drum Diameter": "62 in (157 cm)",
+            "Drum Width": "84 in (213 cm)",
+            "Frequency": "29 - 31 hz (1,740 - 1,860 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency": "29 hz (1,740 vpm)",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibration Frequency 2": "31 hz (1,860 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "water cooled turbo diesel with after cooler",
+            "Engine Model": "QSB 6.7 T3",
+            "Gross Power": "190 hp (142 kw)",
+            "Make": "John Deere",
+            "Model": "6.7T3",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Weight": "41006 lbs (18,600 kg)",
+            "Operating Width": "94 in (239 cm)"
+        },
+        "Tires": {
+            "Tires": "23.1x26"
+        }
+    }
+}

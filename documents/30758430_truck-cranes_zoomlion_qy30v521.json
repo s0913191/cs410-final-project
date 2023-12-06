@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/zoomlion/qy30v521/30758430",
+    "source_url_id": "30758430",
+    "source_url_model": "qy30v521",
+    "source_url_make": "zoomlion",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:24.387319",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Zoomlion",
+    "equipment_model": "QY30V521",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "132.9 ft (40 m)",
+            "Max Lift Capacity": "70548 lbs (32,000 kg)",
+            "Max Working Radius": "105 ft (32 m)",
+            "Min Height @ Max Raise Angle": "36.5 ft (11 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "5"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "276.3 hp (206 kw)",
+            "Max Torque": "922 lbs/ft",
+            "Model": "WD615.50",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "35.3 ft (11 m)",
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Transport Height": "11.2 ft (3 m)",
+            "Transport Length": "42.7 ft (13 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Width w/ Outriggers Extended": "20.1 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Number of Axels": "3",
+            "Operating Weight": "69886.6 lbs (31,700 kg)"
+        }
+    }
+}

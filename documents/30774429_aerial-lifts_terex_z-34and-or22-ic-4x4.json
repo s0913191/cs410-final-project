@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/z-34and-or22-ic-4x4/30774429",
+    "source_url_id": "30774429",
+    "source_url_model": "z-34and-or22-ic-4x4",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:42.885930",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "Z-34/22 IC 4x4",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "34.9 ft (10 m)",
+            "Platform Size": "2.5x4.7 ft (1 m)",
+            "Stowed Height": "6.8 ft (2 m)",
+            "Stowed Width": "6.1 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "10x16.5"
+        },
+        "Transmission": {
+            "4WD": "yes"
+        }
+    }
+}

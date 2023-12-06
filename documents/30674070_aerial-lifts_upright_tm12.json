@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/tm12/30674070",
+    "source_url_id": "30674070",
+    "source_url_model": "tm12",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:19.631317",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "TM12",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "SP/12.5 ft (0 m)",
+            "Stowed Height": "5.4 ft (2 m)",
+            "Stowed Width": "2.5 ft (1 m)"
+        },
+        "Tires": {
+            "Tire Size": "30.5 Diam."
+        },
+        "Transmission": {
+            "4WD": "no"
+        }
+    }
+}

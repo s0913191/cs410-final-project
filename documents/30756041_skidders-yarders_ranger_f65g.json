@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/ranger/f65g/30756041",
+    "source_url_id": "30756041",
+    "source_url_model": "f65g",
+    "source_url_make": "ranger",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:35.796298",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Ranger",
+    "equipment_model": "F65G",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Width": "24.4 ft (7 m)",
+            "Cable Width": "232 in (589 cm)",
+            "Drum Capacity at Cable Width": "28725 ft (8,755 m)",
+            "Drum Diameter": "0.6 in (0 cm)",
+            "Ground Clearance": "8 ft (2 m)",
+            "Height - Top of Cab": "1.7 ft (0 m)",
+            "Height of Grapple from Ground": "5.9 ft ft (2 m)",
+            "Max Blade Height": "7.2 in (18 cm)",
+            "Max Height of Boom": "7.8 ft (2 m)",
+            "Max Line Pull - bare drum": "259 lbs (118 kg)",
+            "Overall Length": "9.1 ft (3 m)",
+            "Overall Width": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "116",
+            "Gross Power": "104 hp (78 kw)",
+            "Power Measured @": "239 rpm",
+            "Torque Measured @": "40 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "2200 gal/min (8,327 l/min)",
+            "Pump Type": "29.8",
+            "Relief Valve Pressure": "9.2 psi"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "65  A",
+            "Operating Weight": "12 V lbs (5 kg)",
+            "Steering Angle": "23.1 - 26 V  -",
+            "Tire Size": "7.1"
+        },
+        "Transmission": {
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "gear type cu in (0 m)",
+            "Length of Track on Ground": "4BTA3.9 ft (1 m)"
+        }
+    }
+}

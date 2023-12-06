@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt735/42593",
+    "source_url_id": "42593",
+    "source_url_model": "rt735",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:34.209472",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT735",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "76  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "112 ft (34 m)",
+            "Min Height @ Max Raise Angle": "33 ft (10 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.6 rpm"
+        },
+        "Engine": {
+            "Bore": "3.9 in (8 cm)",
+            "Displacement": "318 cu in (0 m)",
+            "Engine Make": "Cummins Diesel",
+            "Engine Model": "V555-C200",
+            "Max Torque": "392 lbs/ft",
+            "Net Power": "170 hp (127 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Stroke": "4.5 in (10 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Fuel Capacity": "60 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "154 gal (583 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "75646 lbs (34,313 kg)",
+            "Tire Size": "21.00X25-24PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.9 mph (32 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

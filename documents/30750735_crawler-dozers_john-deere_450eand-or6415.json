@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/450eand-or6415/30750735",
+    "source_url_id": "30750735",
+    "source_url_model": "450eand-or6415",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:39.728088",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "450E/6415",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "0.5 ft (0 m)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Length of Track on Ground": "6.1 ft (2 m)",
+            "Length w/o Blade": "11.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "naturally aspirated",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "4-276D",
+            "Gross Power": "73 hp (54 kw)",
+            "Max Torque": "228 lbs/ft",
+            "Net Power": "70 hp (52 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "23 gal/min (87 l/min)",
+            "Pump type": "Gear",
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Engine Oil Capacity": "3.8 gal (11 l)",
+            "Final Drives Fluid Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Hydraulic Fluid Capacity": "9.5 gal (34 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "14675 lbs (6,657 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Height": "32 in (81 cm)",
+            "Width": "8.1 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.5 mph (10 kph)",
+            "Max Speed - Reverse": "6.2 mph (10 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "H-L-4: 4 speed ranges, with high, low and reverse speeds shifted hydraulically without clutching in each range"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2619 cu in (0 m)",
+            "Ground Pressure": "5.6 psi",
+            "Number of Shoes per Side": "36",
+            "Number of Track Rollers per Side": "1",
+            "Standard Shoe Size": "18 in (46 cm)",
+            "Track Pitch": "11.5 in (28 cm)"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/yanmar/sv08-1/33728",
+    "source_url_id": "33728",
+    "source_url_model": "sv08-1",
+    "source_url_make": "yanmar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:42.569716",
+    "equipment_category": "Excavators",
+    "equipment_make": "Yanmar",
+    "equipment_model": "SV08-1",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "5 ft (2 m)",
+            "Max Loading Height": "6.8 ft (2 m)",
+            "Max Reach Along Ground": "9 ft (3 m)",
+            "Max Vertical Wall Digging Depth": "4.2 ft (1 m)",
+            "Shipping Height of Unit": "7.3 ft (2 m)",
+            "Shipping Length of Unit": "8.6 ft (2 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Length of Track on Ground": "4.1 ft (1 m)",
+            "Tail Swing Radius": "2.4 ft (1 m)",
+            "Width to Outside of Tracks": "2.3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "31.8 cu in (0 m)",
+            "Engine Model": "2TE67LBV",
+            "Net Power": "10.4 hp (7 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "2.8 gal/min (8 l/min)",
+            "Hydraulic System Relief Valve Pressure": "2755.8 psi",
+            "Operating Weight": "2348 lbs (1,065 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "1.2 mph (2 kph)",
+            "Shoe Size": "7.1 in (18 cm)"
+        }
+    }
+}

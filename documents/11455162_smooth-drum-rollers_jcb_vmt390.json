@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/jcb/vmt390/11455162",
+    "source_url_id": "11455162",
+    "source_url_model": "vmt390",
+    "source_url_make": "jcb",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:04.662238",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "JCB",
+    "equipment_model": "VMT390",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.1 in (30 cm)",
+            "Height - Top of Cab": "6.3 ft (2 m)",
+            "Overall Length": "9.3 in (23 cm)",
+            "Wheelbase": "7.6 in (18 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "10791 lbs (4,895 kg)",
+            "Drum Diameter": "31.5 in (79 cm)",
+            "Drum Width": "51.2 in (130 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "84 lbs/in",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)"
+        },
+        "Engine": {
+            "Displacement": "134 cu in (0 m)",
+            "Engine Model": "V 2203",
+            "Gross Power": "46.6 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Engine Oil Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "20.1 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed": "6.8 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8598 lbs (3,900 kg)"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/bobcat/t320/30719349",
+    "source_url_id": "30719349",
+    "source_url_model": "t320",
+    "source_url_make": "bobcat",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:24.372604",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "T320",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Length - with Bucket": "12 ft (4 m)",
+            "Length - without Bucket": "9.6 ft (3 m)",
+            "Reach at Max Lift and Dump": "3.1 ft (1 m)",
+            "Width Over Tracks": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Gross Power": "92 hp (69 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "21.2 gal/min (79 l/min)"
+        },
+        "Loader": {
+            "Operating Load": "4604 lbs (2,088 kg)",
+            "Tipping Angle": "9208  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.6 gal (11 l)",
+            "Fuel Capacity": "26 gal (98 l)",
+            "Max Speed - low range": "6.6 mph (10 kph)",
+            "Operating Weight": "9702 lbs (4,401 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "3.9 psi",
+            "Length of Track on Ground": "5.4 ft (2 m)",
+            "Width of Track": "17.7 in (43 cm)"
+        }
+    }
+}

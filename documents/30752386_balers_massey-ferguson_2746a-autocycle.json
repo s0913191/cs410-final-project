@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/massey-ferguson/2746a-autocycle/30752386",
+    "source_url_id": "30752386",
+    "source_url_model": "2746a-autocycle",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:37.157065",
+    "equipment_category": "Balers",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2746A Autocycle",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Belt Width": "7 in (18 cm)",
+            "Number of Belts": "6 Laced, WedgeGrip Pattern"
+        },
+        "Bale Size": {
+            "Bale Diameter - max": "6.1 ft (2 m)",
+            "Bale Diameter - min": "2.7 ft (1 m)",
+            "Bale Weight - max": "2200 lbs (998 kg)",
+            "Bale Weight - min": "1644 lbs (746 kg)",
+            "Bale Width": "3.9 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "4",
+            "Number of Tines": "96",
+            "Overall Width": "6.5 ft (2 m)",
+            "Tine to Tine Width": "5 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "9.6 ft (3 m)",
+            "Overall Length": "12.4 ft (4 m)",
+            "Overall Width": "8.6 ft (2 m)",
+            "Tractor PTO Power Required": "65 hp (48 kw)",
+            "Weight": "6120 lbs (2,776 kg)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "8",
+            "Twine Type": "Automatic - Electric Actuated"
+        }
+    }
+}

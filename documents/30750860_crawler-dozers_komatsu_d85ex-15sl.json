@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d85ex-15sl/30750860",
+    "source_url_id": "30750860",
+    "source_url_model": "d85ex-15sl",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:28.456834",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D85EX-15SL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "12.1 ft (4 m)",
+            "Length of Track on Ground": "10 ft (3 m)",
+            "Length w/ Blade": "19.5 ft (6 m)",
+            "Length w/o Blade": "16.4 ft (5 m)",
+            "Width Over Tracks": "8.5 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "674 cu in (0 m)",
+            "Engine Model": "SAA6D125E-5",
+            "Make": "Komatsu",
+            "Model": "SAA6D125E-5",
+            "Net Power": "240 hp (179 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "62245 lbs (28,234 kg)"
+        },
+        "Standard Blade": {
+            "Height": "7.5 in (18 cm)",
+            "Width": "12 ft (4 m)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5295 cu in (0 m)",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22 in (56 cm)",
+            "Track Gauge": "6.6 ft (2 m)",
+            "Track Pitch": "79 in (201 cm)"
+        }
+    }
+}

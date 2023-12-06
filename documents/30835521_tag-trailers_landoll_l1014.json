@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/landoll/l1014/30835521",
+    "source_url_id": "30835521",
+    "source_url_model": "l1014",
+    "source_url_make": "landoll",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:10.406196",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Landoll",
+    "equipment_model": "L1014",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "14x6.7 ft (4 m)"
+        },
+        "Engine": {
+            "Speed Rating": "62 mph (100 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "spring"
+        },
+        "Weights": {
+            "Equipment Weight": "2534 lbs (1,149 kg)",
+            "Weight Capacity": "9977 lbs (4,526 kg)"
+        }
+    }
+}

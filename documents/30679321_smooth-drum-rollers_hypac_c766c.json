@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hypac/c766c/30679321",
+    "source_url_id": "30679321",
+    "source_url_model": "c766c",
+    "source_url_make": "hypac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:22.818872",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hypac",
+    "equipment_model": "C766C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "156 in (396 cm)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Vibration Frequency": "2,000-3,400 hz (120,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "81 in (206 cm)"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/mast-explorer/h25da/30757951",
+    "source_url_id": "30757951",
+    "source_url_model": "h25da",
+    "source_url_make": "mast-explorer",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:23.312774",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Mast Explorer",
+    "equipment_model": "H25DA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Height to Top of Overhead Guard": "7.1 ft (2 m)",
+            "Length to Fork Face": "9.9 ft (3 m)",
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Width": "5.3 ft (2 m)",
+            "Turning Radius": "14.5 ft (4 m)",
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "404C.22T",
+            "Fuel Type": "diesel",
+            "Power": "61 hp (45 kw)"
+        },
+        "MAST": {
+            "Load Capacity": "5000 lbs (2,268 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Number of Mast Sections": "2"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "9369.7 lbs (4,250 kg)"
+        }
+    }
+}

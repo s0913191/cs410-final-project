@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/valtra/orchard-3300/30751628",
+    "source_url_id": "30751628",
+    "source_url_model": "orchard-3300",
+    "source_url_make": "valtra",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:17.782609",
+    "equipment_category": "Tractors",
+    "equipment_make": "Valtra",
+    "equipment_model": "Orchard 3300",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "12.4 in (30 cm)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Gross Power": "60 hp (45 kw)",
+            "Number of Cylinders": "3"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "5401.4 lbs (2,450 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24"
+        }
+    }
+}

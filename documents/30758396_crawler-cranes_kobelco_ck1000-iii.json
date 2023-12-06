@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/kobelco/ck1000-iii/30758396",
+    "source_url_id": "30758396",
+    "source_url_model": "ck1000-iii",
+    "source_url_make": "kobelco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:36.306992",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Kobelco",
+    "equipment_model": "CK1000-III",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "200.2 ft (61 m)",
+            "Max Lift Capacity": "200000.1 lbs (90,719 kg)",
+            "Min Height @ Max Raise Angle": "40.1 ft (12 m)",
+            "Swing Speed": "4 rpm"
+        },
+        "Dimensions": {
+            "Gradeability": "40%",
+            "Operating Width": "11.9 ft (3 m)",
+            "Tail Swing Radius": "3.7 ft (1 m)",
+            "Transport Height": "12.9 ft (4 m)",
+            "Transport Length": "40 ft (12 m)",
+            "Transport Width": "16.9 ft (5 m)"
+        },
+        "Engine": {
+            "Battery": "2",
+            "Displacement": "642 cu in (0 m)",
+            "Engine Make": "Hino",
+            "Engine Model": "P11C-UN",
+            "Gross Power": "331 hp (247 kw)",
+            "Max Torque": "959 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "116.3 gal (439 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "179676.8 lbs (81,501 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "11 psi",
+            "Width of Shoes": "35.9 in (89 cm)"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/holland-lift/z45-ministar/30758178",
+    "source_url_id": "30758178",
+    "source_url_model": "z45-ministar",
+    "source_url_make": "holland-lift",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:08.981086",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Holland Lift",
+    "equipment_model": "Z45 Ministar",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4 in (10 cm)",
+            "Height w/ Rails": "6.5 ft (2 m)",
+            "Height w/o Rails": "2.8 ft (1 m)",
+            "Overall Length": "5.6 in (13 cm)",
+            "Overall Width": "2.7 ft (1 m)",
+            "Wheelbase": "4.4 ft (1 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "180",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Max Speed": "2.8 mph (3 kph)",
+            "Operating Weight": "2348 lbs (1,065 kg)",
+            "Tire Size": "15x4.5-8"
+        },
+        "Platform": {
+            "Deck Extension": "25.6 in (64 cm)",
+            "Lift Time": "15 sec",
+            "Lower Time": "24 sec",
+            "Max Platform Height": "14.8 ft (4 m)",
+            "Max Platform Weight Capacity": "485.1 lbs (220 kg)",
+            "Max Working Height": "21.4 ft (6 m)",
+            "Platform Inner Length": "61.5 in (155 cm)",
+            "Platform Inner Width": "30.4 in (76 cm)"
+        }
+    }
+}

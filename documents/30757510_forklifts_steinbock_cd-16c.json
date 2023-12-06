@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/steinbock/cd-16c/30757510",
+    "source_url_id": "30757510",
+    "source_url_model": "cd-16c",
+    "source_url_make": "steinbock",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:38:49.834384",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Steinbock",
+    "equipment_model": "CD 16C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4.6 in (10 cm)",
+            "Height to Top of Overhead Guard": "6.9 ft (2 m)",
+            "Length to Fork Face": "7.4 ft (2 m)",
+            "Max Fork Height": "10.2 ft (3 m)",
+            "Overall Height - mast lowered": "6.9 ft (2 m)",
+            "Overall Width": "3.3 ft (1 m)",
+            "Turning Radius": "6.5 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "122.1 cu in (0 m)",
+            "Engine Model": "104.22",
+            "Fuel Type": "diesel",
+            "Number of Cylinders": "4",
+            "Power": "41.6 hp (31 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "120.1 ft/min",
+            "Load Capacity": "3527.4 lbs (1,600 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Lower Speed": "110.3 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "6  \t\u00b0",
+            "Max Fork Spread": "1070 in (2,718 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "11.9 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "6658 lbs (3,020 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

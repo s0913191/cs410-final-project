@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/multiquip/ar-13ha/30668059",
+    "source_url_id": "30668059",
+    "source_url_model": "ar-13ha",
+    "source_url_make": "multiquip",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:13.786112",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Multiquip",
+    "equipment_model": "AR-13HA",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "35.7 in (89 cm)",
+            "Vibration Frequency": "4000 hz (240,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Honda"
+        },
+        "Operating Specifications": {
+            "Operating Width": "38.2 in (97 cm)"
+        }
+    }
+}

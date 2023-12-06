@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/tl80/30742",
+    "source_url_id": "30742",
+    "source_url_model": "tl80",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:49.059067",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TL80",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "10128 lbs (4,594 kg)",
+            "Bucket Capacity - heaped": "1.2 cu yds (1 m)",
+            "Bucket Width": "6.1 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.4 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Hinge Pin - Max Height": "10.5 ft (3 m)",
+            "Length with Bucket on Ground": "16.3 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.3 ft (1 m)",
+            "Wheelbase": "6.9 ft (2 m)",
+            "Width Over Tires": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "189 cu in (0 m)",
+            "Engine Model": "F4M 2011",
+            "Make": "Deutz",
+            "Net Power": "60 hp (45 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17 gal/min (64 l/min)",
+            "Relief Valve Setting": "3625 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.9 gal (72 l)",
+            "Hydraulic System Fluid Capacity": "14.6 gal (53 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "11240 lbs (5,098 kg)",
+            "Rated Bucket Capacity": "1 - 1.60 cu yds (1 - 1 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Static Tipping Weight": "8577 lbs (3,891 kg)",
+            "Tire Size": "405/70 R 18 SPT9",
+            "Turning Radius": "13.6 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic"
+        },
+        "Weights": {
+            "Operational Weight": "11240 lbs (5,098 kg)"
+        }
+    }
+}

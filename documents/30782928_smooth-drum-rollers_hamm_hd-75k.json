@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-75k/30782928",
+    "source_url_id": "30782928",
+    "source_url_model": "hd-75k",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:03.033398",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 75K",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "30.8 in (76 cm)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "9.6 ft (3 m)",
+            "Overall Length": "14.3 in (36 cm)",
+            "Overall Width": "5.9 ft (2 m)",
+            "Turning Radius - Inside": "161 in (409 cm)",
+            "Wheelbase": "126 in (320 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "17310.3 lbs (7,852 kg)",
+            "Centrifugal Force - Low": "14163 lbs (6,424 kg)",
+            "Drum Diameter": "44.9 in (112 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency": "2,880-3,480 hz (172,800 vpm)",
+            "Vibration Frequency 1": "58 hz (3,480 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TD 2011 L04 W",
+            "Gross Power": "75.4 hp (56 kw)",
+            "Make": "Deutz",
+            "Net Power": "74.3 hp (55 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "34.4 gal (129 l)",
+            "Operating Weight": "21583.3 lbs (9,790 kg)",
+            "Operating weight Cabin": "16171 lbs (7,335 kg)",
+            "Operating weight ROPS": "15586.7 lbs (7,070 kg)",
+            "Operating Width": "66 in (168 cm)",
+            "Water Spray Tank Fluid Capacity": "190.3 gal (719 l)"
+        },
+        "Weights": {
+            "Operating Weight - standard": "16645 lbs (7,550 kg)"
+        }
+    }
+}

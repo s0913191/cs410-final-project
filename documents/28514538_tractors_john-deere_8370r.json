@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/8370r/28514538",
+    "source_url_id": "28514538",
+    "source_url_model": "8370r",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:24:16.420107",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "8370R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "23.1 in (58 cm)",
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Overall Length": "20.5 in (51 cm)",
+            "Tire Size": "Front: 380/80R38. Rear: 480/80R50",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "548 cu in (0 m)",
+            "Engine Model": "John Deere PowerTech PSS",
+            "Gross Power": "407 hp (304 kw)",
+            "Net Power": "370 hp (276 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1850 rpm",
+            "PTO Power": "365 hp (272 kw)",
+            "Torque Rise": "43.6%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "34.4 gal/min (129 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "26450 lbs (11,998 kg)",
+            "3 Point Hitch Type": "IVN/III",
+            "Fuel Capacity": "170.4 gal (643 l)",
+            "Hydraulic System Fluid Capacity": "10.6 gal (38 l)",
+            "Operating Weight": "39683 lbs (18,000 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "23",
+            "Number of Reverse Gears": "11",
+            "Transmission Type": "infinitely variable transmission (IVT)"
+        },
+        "Years of Manufacture": {
+            "Approximate First Year of Manufacture": "2014",
+            "Approximate Last Year of Manufacture": "2014"
+        }
+    }
+}

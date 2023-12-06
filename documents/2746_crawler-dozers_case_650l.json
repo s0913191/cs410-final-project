@@ -1,0 +1,86 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/650l/2746",
+    "source_url_id": "2746",
+    "source_url_model": "650l",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:31.010674",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "650L",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Capacity": "2.2 cu yds (2 m)",
+            "Blade Height": "33.2 in (84 cm)",
+            "Blade Type": "PAT",
+            "Blade Width": "10 ft in (25 cm)"
+        },
+        "Capacities": {
+            "Engine oil with filter": "3.3 gal (11 l)"
+        },
+        "Dimensions": {
+            "Blade depth below ground": "21 in (53 cm)",
+            "Blade lift above ground": "33.6 in (84 cm)",
+            "Cast reach": "11.2 in (28 cm)",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "103.9 in (262 cm)",
+            "Length of Track on Ground": "84 ft (26 m)",
+            "Width Over Tracks": "6 ft in (15 cm)"
+        },
+        "Drive System": {
+            "Final drive": "2 helical gear",
+            "Max drawbar pull": "36081.9 lbs (16,366 kg)",
+            "Parking brakes": "Heavy-duty, spring-applied,"
+        },
+        "Electrical System": {
+            "Alternator": "90  amp",
+            "Battery": "12-volt low-maintenance"
+        },
+        "Engine": {
+            "Displacement": "274.7 cu in (0 m)",
+            "Emission Tier Level": "Tier3",
+            "Engine Model": "Case 445TA/EG7a",
+            "Fan": "20 in,(500 mm)Diameter",
+            "Fuel": "2 Diesel",
+            "Fuel tank": "41 gal (155 l)",
+            "Gross Power": "80.5 hp (60 kw)",
+            "Net Power": "74 hp (55 kw)",
+            "Power Measured @": "2000 rpm",
+            "Pump operating angles - Fore and aft": "45  \t\u00b0",
+            "Pump operating angles -Side-to-side": "45  \t\u00b0",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Hydraulic System": {
+            "Lift cylinder - Rod diameter": "1.8 in (3 cm)",
+            "Lift cylinder - Stroke": "15.6 in (38 cm)",
+            "Lift cylinder(s)": "2",
+            "Lift cylinder-Bore diameter": "3.6 in (8 cm)",
+            "Pump Flow Capacity": "20.9 gal/min (76 l/min)",
+            "Pump type": "Variable Displacement Piston"
+        },
+        "Operating Specifications": {
+            "center rock guard": "339.6 lbs (154 kg)",
+            "Long track": "16248.1 lbs (7,370 kg)",
+            "Low ground pressure": "17546.6 lbs (7,959 kg)",
+            "Operating Weight": "17546.6 lbs (7,959 kg)",
+            "Sweeps": "110.3 lbs (50 kg)",
+            "Winch": "1000.9 lbs (454 kg)"
+        },
+        "Performance": {
+            "Pump Flow": "20.3 gal/min (76 l/min)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.5 mph (8 kph)",
+            "Max Speed - Reverse": "5.5 mph (8 kph)"
+        },
+        "Undercarriage": {
+            "Number of bottom rollers per side": "6",
+            "Number of Upper Rollers": "1",
+            "Width of Shoes": "27.1 in (69 cm)"
+        }
+    }
+}

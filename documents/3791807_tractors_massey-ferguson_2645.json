@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/2645/3791807",
+    "source_url_id": "3791807",
+    "source_url_model": "2645",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:22.585325",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2645",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "110 hp (82 kw)"
+        },
+        "Production": {
+            "Series": "2005 Series",
+            "Years Manufactured": "1985 - 1986"
+        }
+    }
+}

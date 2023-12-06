@@ -1,0 +1,19 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td15m-landfill/30760438",
+    "source_url_id": "30760438",
+    "source_url_model": "td15m-landfill",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:51.484309",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD15M LANDFILL",
+    "equipment_spec": {
+        "Engine": {
+            "Net Power": "190 hp (142 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "53461 lbs (24,250 kg)"
+        }
+    }
+}

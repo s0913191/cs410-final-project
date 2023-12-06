@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1400/23469",
+    "source_url_id": "23469",
+    "source_url_model": "ltm-1400",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:54.834687",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1400",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "433 ft (132 m)",
+            "Max Lift Capacity": "500 t (453,593 kg)"
+        }
+    }
+}

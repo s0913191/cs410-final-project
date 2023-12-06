@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/takeuchi/tl230-series-2/30754603",
+    "source_url_id": "30754603",
+    "source_url_model": "tl230-series-2",
+    "source_url_make": "takeuchi",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:18.271279",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TL230 Series 2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.8 ft (2 m)",
+            "Ground Clearance": "12.3 in (30 cm)",
+            "Height - Top of Cab": "7.4 ft (2 m)",
+            "Length - with Bucket": "11.5 ft (3 m)",
+            "Reach at Max Lift and Dump": "2.4 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "82.8 in (208 cm)",
+            "Turning Radius from Center - machine rear": "62.6 in (157 cm)",
+            "Width Over Tracks": "5.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "203 cu in (0 m)",
+            "Engine Model": "V3307D1",
+            "Gross Power": "71 hp (53 kw)",
+            "Net Power": "68.4 hp (51 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "182 lbs/ft",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Operating Load": "1885 lbs (855 kg)",
+            "Tipping Angle": "5401.4  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "3.5 gal (11 l)",
+            "Engine Oil Capacity": "3.2 gal (11 l)",
+            "Fuel Capacity": "19.9 gal (72 l)",
+            "Hydraulic System Fluid Capacity": "15.4 gal (57 l)",
+            "Max Speed - high range": "6.9 mph (10 kph)",
+            "Max Speed - low range": "4.6 mph (6 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8609.1 lbs (3,905 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.6 psi",
+            "Length of Track on Ground": "4.6 ft (1 m)",
+            "Number of Track Rollers per Side": "5",
+            "Width of Track": "12.6 in (30 cm)"
+        }
+    }
+}

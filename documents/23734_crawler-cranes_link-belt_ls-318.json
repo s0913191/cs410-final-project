@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/ls-318/23734",
+    "source_url_id": "23734",
+    "source_url_model": "ls-318",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:51.180374",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "LS-318",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "150 ft (46 m)",
+            "Min Height @ Max Raise Angle": "25 ft (8 m)",
+            "Swing Speed": "3.2 rpm"
+        },
+        "Dimensions": {
+            "Gradeability": "37%",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Tail Swing Radius": "15.2 ft (5 m)",
+            "Transport Height": "11.5 ft (3 m)",
+            "Transport Width": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Battery": "1",
+            "Bore": "4.3 in (10 cm)",
+            "Engine Model": "GM 6-71N",
+            "Max Torque": "532 lbs/ft",
+            "Net Power": "171 hp (128 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1915 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "106 gal (401 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Max Speed": "0.9 mph (0 kph)"
+        },
+        "Undercarriage": {
+            "Number of Shoes per Side": "37",
+            "Number of Track Rollers per Side": "8",
+            "Width of Shoes": "17 in (43 cm)"
+        }
+    }
+}

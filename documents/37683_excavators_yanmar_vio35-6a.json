@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/yanmar/vio35-6a/37683",
+    "source_url_id": "37683",
+    "source_url_model": "vio35-6a",
+    "source_url_make": "yanmar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:50.066904",
+    "equipment_category": "Excavators",
+    "equipment_make": "Yanmar",
+    "equipment_model": "VIO35-6A",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Raise": "1.3 ft (0 m)",
+            "Blade Stroke": "1.4 ft (0 m)",
+            "Blade Width": "5.8 ft (2 m)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Boom Swing - Left": "43  \t\u00b0",
+            "Boom Swing - Right": "65  \t\u00b0",
+            "Max Digging Depth": "11.3 ft (3 m)",
+            "Max Reach Along Ground": "17.68 ft (5 m)"
+        },
+        "Bucket": {
+            "Arm digging Force": "7216 lbs (3,273 kg)",
+            "Bucket digging Force - SAE": "5643 lbs (2,560 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Overall height": "16.8 ft (5 m)",
+            "Wheelbase": "7.1 ft (2 m)",
+            "Width to Outside of Tracks": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Water-cooled 4-cycle diesel",
+            "Engine Model": "3TNV88F-ESBV",
+            "Net Power": "24.4 hp (18 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "10.9 gal (38 l)",
+            "Hydraulic Pump Flow Capacity": "19.6 gal/min (72 l/min)",
+            "Hydraulic System Relief Valve Pressure": "6410 psi",
+            "Operating Weight": "7905 lbs (3,586 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.5 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Min Travel Speed": "1.7 mph (2 kph)"
+        },
+        "Weights": {
+            "Ground bearing pressure (rubber tracks)": "4.8 psi",
+            "Rubber Tracks": "7905 lbs (3,586 kg)",
+            "Steel tracks": "8125 lbs (3,686 kg)"
+        }
+    }
+}

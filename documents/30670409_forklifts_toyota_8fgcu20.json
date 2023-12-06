@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/8fgcu20/30670409",
+    "source_url_id": "30670409",
+    "source_url_model": "8fgcu20",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:43:09.306292",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "8FGCU20",
+    "equipment_spec": {
+        "Description:": {
+            "Parking brake": "Foot",
+            "Service brake": "Hydraulic"
+        },
+        "Brakes": {
+            "Parking brake": "Foot",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Fork Spread Max": "3.1 ft (1 m)",
+            "Fork Spread Min-outer edge to edge": "9.9 in (23 cm)",
+            "Free lift": "6 in (15 cm)",
+            "Gradeability": "36%",
+            "Height to Top of Overhead Guard": "6.8 ft (2 m)",
+            "Length to Fork Face": "7.6 ft (2 m)",
+            "Max Fork Height": "11 ft (3 m)",
+            "Overall Height - mast lowered": "7 ft (2 m)",
+            "Overall Width": "3.5 ft (1 m)",
+            "Turning Radius": "6.3 ft (2 m)",
+            "Wheelbase": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "136 cu in (0 m)",
+            "Engine Make": "TOYOTA",
+            "Engine Model": "4Y-ECS",
+            "Number of Cylinders": "4",
+            "Power": "51 hp (38 kw)",
+            "Power Measured @": "2250 rpm",
+            "Torque": "118.1 lbs/ft",
+            "Torque Measured @": "2100 rpm"
+        },
+        "MAST": {
+            "Load Capacity": "4000 lbs (1,814 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "11.9 gal (42 l)",
+            "Hydraulic System Fluid Capacity": "20 gal (76 l)",
+            "Hydraulic System Relief Valve Pressure": "2275 psi",
+            "Max Speed": "10.6 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "7143 lbs (3,240 kg)",
+            "Tire Type": "Cushion"
+        },
+        "Performance": {
+            "Drawbar Pull Max -Full Load": "40785.6 lbs (18,500 kg)",
+            "Drawbar Pull Max -No Load": "18298.4 lbs (8,300 kg)"
+        }
+    }
+}

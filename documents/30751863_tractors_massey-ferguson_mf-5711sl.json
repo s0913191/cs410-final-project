@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-5711sl/30751863",
+    "source_url_id": "30751863",
+    "source_url_model": "mf-5711sl",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:00.424735",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 5711SL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Wheelbase": "8.4 ft (2 m)",
+            "Width Outside Frame": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "AGCO Power",
+            "Max Torque": "345.2 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "118.1 hp (88 kw)",
+            "Rated engine speed": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15.1 gal/min (57 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "8576 lbs (3,890 kg)",
+            "Alternator Supplied Amperage": "120  A",
+            "DEF tank capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10582.2 lbs (4,800 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "Power Shuttle Transmission"
+        }
+    }
+}

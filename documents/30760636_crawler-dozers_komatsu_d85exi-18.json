@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d85exi-18/30760636",
+    "source_url_id": "30760636",
+    "source_url_model": "d85exi-18",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:30.331740",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D85EXi-18",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA6D125E-7",
+            "Net Power": "264 hp (197 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "67439 lbs (30,590 kg)"
+        }
+    }
+}

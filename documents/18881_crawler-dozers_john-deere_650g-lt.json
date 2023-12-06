@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/650g-lt/18881",
+    "source_url_id": "18881",
+    "source_url_model": "650g-lt",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:55.549955",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "650G LT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Length w/o Blade": "13.4 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Naturally aspirated, direct drive",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "4045D",
+            "Gross Power": "99 hp (74 kw)",
+            "Net Power": "90 hp (67 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17 gal/min (64 l/min)",
+            "Pump type": "Gear",
+            "Relief Valve Pressure": "2750 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Capacity": "3.3 gal (11 l)",
+            "Final Drives Fluid Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "41 gal (155 l)",
+            "Hydraulic Fluid Capacity": "10 gal (38 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "2.5 cu yds (2 m)",
+            "Height": "35.4 in (89 cm)",
+            "Width": "8.8 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.6 mph (8 kph)",
+            "Max Speed - Reverse": "6.2 mph (10 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full power shift, Dura-Shift with direct drive"
+        },
+        "Undercarriage": {
+            "Track Pitch": "6.8 in (15 cm)"
+        }
+    }
+}

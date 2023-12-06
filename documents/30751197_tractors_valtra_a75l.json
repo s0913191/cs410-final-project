@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/valtra/a75l/30751197",
+    "source_url_id": "30751197",
+    "source_url_model": "a75l",
+    "source_url_make": "valtra",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:05.772277",
+    "equipment_category": "Tractors",
+    "equipment_make": "Valtra",
+    "equipment_model": "A75L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.5 in (43 cm)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.5 ft (2 m)",
+            "Overall Length": "13.4 in (33 cm)",
+            "Overall Width": "7.1 ft (2 m)",
+            "Tire Size": "Front 13.6R24, Rear 16.9R34",
+            "Wheelbase": "7.4 ft (2 m)",
+            "Width Outside Frame": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger",
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Model": "33DT",
+            "Gross Power": "72.5 hp (54 kw)",
+            "Max Torque": "218.4 lbs/ft",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2150 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.6 gal/min (53 l/min)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "6613.9 lbs (3,000 kg)",
+            "Tire Size Front - 2wd / 4wd": "10.00-16"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9R34"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "Fully Synchronized"
+        }
+    }
+}

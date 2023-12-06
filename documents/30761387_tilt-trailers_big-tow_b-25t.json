@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/big-tow/b-25t/30761387",
+    "source_url_id": "30761387",
+    "source_url_model": "b-25t",
+    "source_url_make": "big-tow",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:33.211707",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Big Tow",
+    "equipment_model": "B-2.5T",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.4x12 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "1",
+            "Suspension Type": "TORFLEX"
+        },
+        "Weights": {
+            "Equipment Weight": "1950 lbs (885 kg)",
+            "Weight Capacity": "5000 lbs (2,268 kg)"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/hitachi/zx210f-6/30756005",
+    "source_url_id": "30756005",
+    "source_url_model": "zx210f-6",
+    "source_url_make": "hitachi",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:00.996600",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX210F-6",
+    "equipment_spec": {
+        "Boom/Stick Log Loader Option 1": {
+            "Max Depth Below Ground": "18.6 ft (5 m)",
+            "Max Height": "36.3 ft (11 m)",
+            "Max Reach at Ground Level": "31.6 ft (9 m)",
+            "Maximum Log-Level Height": "27.4 ft (8 m)",
+            "Maximum Reach": "32.4 ft (10 m)",
+            "Minimum Swing Radius": "7.8 ft (2 m)",
+            "Tail Swing Radius": "10.3 ft (3 m)"
+        },
+        "Dimensions": {
+            "Center to center idler to sprocket": "8.6 ft (2 m)",
+            "Counterweight Clearance": "4.5 ft (1 m)",
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Height - Top of Cab": "12.5 ft (4 m)",
+            "Overall length": "32.3 ft (10 m)",
+            "Track shoe width": "2.1 ft (1 m)",
+            "Undercarriage Overall Length": "14.6 ft (4 m)",
+            "Undercarriage Width": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, air-to-air charge-air cooler",
+            "Displacement": "316.8 cu in (0 m)",
+            "Emissions Certification": "EPA to Final Tier 4 / EU Stage IV",
+            "Engine Model": "Isuzu 4HK1",
+            "Fan drive type": "High efficiency direct-driven, suction-type fan and cool-on-demand hydraulic-driven, suction-type fan with remote-mounted drive for hydraulic oil cooler",
+            "Net Power": "163.7 hp (122 kw)",
+            "Number of Cylinders": "4",
+            "Off-Level Capacity": "70%",
+            "Oil Filter": "Full-flow spin-on filter",
+            "Power Boost": "50958.9 hp (37,999 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "62.4 gal/min (235 l/min)",
+            "Pump Type": "Open center, pilot operated"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Cooling System Fluid Capacity": "7.4 gal (27 l)",
+            "DEF tank capacity": "15.1 gal (57 l)",
+            "Drawbar Pull": "49899.5 lbs (22,634 kg)",
+            "Fuel Capacity": "211.4 gal (799 l)",
+            "Hydraulic System Fluid Capacity": "36 gal (136 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "60913.8 lbs (27,630 kg)",
+            "Travel speed, high range": "3 mph (5 kph)",
+            "Travel speed, low range": "2 mph (3 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.6 rpm",
+            "Swing Torque": "54857 lbs/ft"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "9 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of track rollers(each side)": "8"
+        }
+    }
+}

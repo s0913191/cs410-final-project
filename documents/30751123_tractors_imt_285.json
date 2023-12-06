@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/imt/285/30751123",
+    "source_url_id": "30751123",
+    "source_url_model": "285",
+    "source_url_make": "imt",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:33.692836",
+    "equipment_category": "Tractors",
+    "equipment_make": "IMT",
+    "equipment_model": "285",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "5.6 ft (2 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.3 ft (2 m)",
+            "Overall Length": "13.2 in (33 cm)",
+            "Overall Width": "6.8 ft (2 m)",
+            "Tire Size": "front 12.4-24 rear 18.4/15-30",
+            "Wheelbase": "7.6 ft (2 m)",
+            "Width Outside Frame": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "247.8 cu in (0 m)",
+            "Engine Model": "A4-248",
+            "Gross Power": "75 hp (56 kw)",
+            "Max Torque": "205.1 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm",
+            "PTO Power": "63.4 hp (47 kw)",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "4.5 gal/min (15 l/min)",
+            "Relief Valve Pressure": "3379.4 psi",
+            "Relief Valve Setting": "3379.4 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4909.7 lbs (2,227 kg)",
+            "3 Point Hitch Type": "cat. 2",
+            "Alternator Supplied Amperage": "45  A",
+            "Cooling System Fluid Capacity": "3.8 gal (11 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Fuel Usage @ 75% Load, Full RPM": "4.1 gal/HOUR",
+            "Hydraulic System Fluid Capacity": "11.4 gal (42 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "6199.4 lbs (2,812 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.5-16",
+            "Turning Radius": "12.5 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4/15-30"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "sliding spur"
+        }
+    }
+}

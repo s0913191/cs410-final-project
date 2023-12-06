@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/631/31085575",
+    "source_url_id": "31085575",
+    "source_url_model": "631",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:15:06.609563",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "6.31",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "120  hp"
+        },
+        "Production": {
+            "Series": "AgroStar Series",
+            "Years Manufactured": "1990 - 1993"
+        }
+    }
+}

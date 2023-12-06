@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/gs-3268-rt/30134644",
+    "source_url_id": "30134644",
+    "source_url_model": "gs-3268-rt",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:25:59.089922",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "GS-3268 RT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,000 lbs (454 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "33 ft (10 m)",
+            "Ground Clearance": "7.5 in (18 cm)",
+            "Height w/ Rails": "7.7 ft (2 m)",
+            "Height w/o Rails": "5.6 ft (2 m)",
+            "Overall Length": "8.8 in (20 cm)",
+            "Overall Width": "5.7 ft (2 m)",
+            "Platform Size": "8.2x5.1 ft (2 m)",
+            "Stowed Height": "8.9 ft (2 m)",
+            "Stowed Width": "7 ft (2 m)",
+            "Turning Radius": "12.1 ft (4 m)",
+            "Wheelbase": "5.7 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Diesel",
+            "Gross Power": "20 hp (15 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "15.1 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "16.6 gal (61 l)",
+            "Max Speed": "3.8 mph (5 kph)",
+            "Operating Weight": "8007.2 lbs (3,632 kg)",
+            "Tire Size": "12x23.5"
+        },
+        "Platform": {
+            "Deck Extension": "57.1 in (145 cm)",
+            "Max Platform Height": "32 ft (10 m)",
+            "Max Platform Weight Capacity": "1000.9 lbs (454 kg)",
+            "Max Working Height": "38.6 ft (12 m)",
+            "Platform Inner Length": "98.9 in (249 cm)",
+            "Platform Inner Width": "61.1 in (155 cm)"
+        },
+        "Tires": {
+            "Tire Size": "12x23.5"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/john-deere/540g-ii/30756053",
+    "source_url_id": "30756053",
+    "source_url_model": "540g-ii",
+    "source_url_make": "john-deere",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:29.274507",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "John Deere",
+    "equipment_model": "540G II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Width": "47.6 ft (14 m)",
+            "Cable Width": "254 in (645 cm)",
+            "Drum Capacity at Cable Width": "40525 ft (12,352 m)",
+            "Drum Diameter": "0.7 in (0 cm)",
+            "Grapple Capacity - tongs tip to tip": "8 CUBIC ft",
+            "Height - Top of Cab": "1.7 ft (0 m)",
+            "Max Line Pull - bare drum": "146 lbs (66 kg)",
+            "Overall Length": "9.2 ft (3 m)",
+            "Overall Width": "9.9 ft (3 m)",
+            "Tong Opening at Tips": "398 in (1,011 cm)"
+        },
+        "Engine": {
+            "Aspiration": "21990",
+            "Displacement": "turbocharged cu in (0 m)",
+            "Engine Model": "127",
+            "Gross Power": "119 hp (89 kw)",
+            "Net Power": "2200 hp (1,641 kw)",
+            "Peak Torque": "1400 lbs/ft",
+            "Power Measured @": "414 rpm",
+            "Torque Measured @": "42 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "3000 gal/min (11,355 l/min)",
+            "Pump Type": "27",
+            "Relief Valve Pressure": "9.6 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "planetary",
+            "Cooling System Fluid Capacity": "5 gal (19 l)",
+            "Engine Oil Capacity": "4.5 gal (15 l)",
+            "Front Diff Fluid Capacity": "4.5 gal (15 l)",
+            "Fuel Capacity": "7.5 gal (27 l)",
+            "Hydraulic System Fluid Capacity": "90  \t\u00b0",
+            "Operating Voltage": "65  A",
+            "Operating Weight": "12 V lbs (5 kg)",
+            "Rear Diff Fluid Capacity": "7.8 gal (27 l)",
+            "Steering Angle": "23.1 - 26 V  -",
+            "Transmission Fluid Capacity": "8 gal (30 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "8.9 mph (13 kph)",
+            "Number of Forward Gears": "7",
+            "Number of Reverse Gears": "11.8",
+            "Transmission Type": "8"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "variable displacement axial piston cu in (0 m)",
+            "Length of Track on Ground": "6068T ft (1,850 m)"
+        },
+        "Winch - Grapple Skidder": {
+            "Drum Capacity - 25.4mm (1 in)": "30  \t\u00b0"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/auslift/43ft-diesel/30758190",
+    "source_url_id": "30758190",
+    "source_url_model": "43ft-diesel",
+    "source_url_make": "auslift",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:25:26.938396",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Auslift",
+    "equipment_model": "43ft Diesel",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14 in (36 cm)",
+            "Height w/ Rails": "9.7 ft (3 m)",
+            "Height w/o Rails": "7 ft (2 m)",
+            "Overall Length": "13.5 in (33 cm)",
+            "Overall Width": "7.4 ft (2 m)",
+            "Turning Radius": "15.7 ft (5 m)",
+            "Wheelbase": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Diesel",
+            "Gross Power": "32 hp (24 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "17 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "26 gal (98 l)",
+            "Max Speed": "3.7 mph (5 kph)",
+            "Operating Weight": "13560 lbs (6,151 kg)",
+            "Tire Fill/Type": "Foam",
+            "Tire Size": "10x16.5"
+        },
+        "Platform": {
+            "Deck Extension": "3.3 in (8 cm)",
+            "Max Platform Height": "42.6 ft (13 m)",
+            "Max Platform Weight Capacity": "1543 lbs (700 kg)",
+            "Max Working Height": "48.6 ft (15 m)",
+            "Platform Inner Length": "194 in (493 cm)",
+            "Platform Inner Width": "71 in (180 cm)"
+        }
+    }
+}

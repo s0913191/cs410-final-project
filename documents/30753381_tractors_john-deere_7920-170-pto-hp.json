@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/7920-170-pto-hp/30753381",
+    "source_url_id": "30753381",
+    "source_url_model": "7920-170-pto-hp",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:23:39.641105",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "7920 170 PTO hp",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "494.3 cu in (0 m)",
+            "Engine Make": "2240",
+            "Max Torque": "654 lbs/ft",
+            "Number of Cylinders": "6",
+            "PTO Power": "171.3 hp (128 kw)",
+            "Torque Measured @": "1148 rpm"
+        },
+        "Hydraulic System": {
+            "Relief Valve Setting": "3046 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "17599.6 lbs (7,983 kg)",
+            "Tire Size Front - 2wd / 4wd": "420/90R30 142A8 (R1)"
+        },
+        "Tires": {
+            "Rear Tires Size": "480/80R42 151A8 (R1)"
+        }
+    }
+}

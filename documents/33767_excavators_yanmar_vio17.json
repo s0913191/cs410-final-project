@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/yanmar/vio17/33767",
+    "source_url_id": "33767",
+    "source_url_model": "vio17",
+    "source_url_make": "yanmar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:46.060960",
+    "equipment_category": "Excavators",
+    "equipment_make": "Yanmar",
+    "equipment_model": "VIO17",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "7.3 ft (2 m)",
+            "Max Loading Height": "8.7 ft (2 m)",
+            "Max Reach Along Ground": "7.6 ft (2 m)",
+            "Shipping Height of Unit": "7.6 ft (2 m)",
+            "Shipping Length of Unit": "11.4 ft (3 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.6 ft (0 m)",
+            "Length of Track on Ground": "5.1 ft (2 m)",
+            "Tail Swing Radius": "2.1 ft (1 m)",
+            "Width to Outside of Tracks": "4.2 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "3TNV70-XBV",
+            "Net Power": "13.6 hp (10 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "15.4 gal/min (57 l/min)",
+            "Hydraulic System Relief Valve Pressure": "2987.8 psi",
+            "Operating Weight": "3836.1 lbs (1,740 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Shoe Size": "9.1 in (23 cm)"
+        }
+    }
+}

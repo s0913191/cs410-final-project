@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/yto/lrs2030/30753812",
+    "source_url_id": "30753812",
+    "source_url_model": "lrs2030",
+    "source_url_make": "yto",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:40.687663",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "YTO",
+    "equipment_model": "LRS2030",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "10.2 ft (3 m)",
+            "Overall Length": "16 in (41 cm)",
+            "Overall Width": "9.2 ft (3 m)",
+            "Wheelbase": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "6BTA (5.9-C127)",
+            "Gross Power": "170.4 hp (127 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Water Spray Tank Fluid Capacity": "140.1 gal (530 l)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "5",
+            "Number of Tires - Rear": "6",
+            "Standard Tire Size": "11.00-20.00",
+            "Wheel Track/Tire Overlap": "1.6 in (3 cm)"
+        },
+        "Weights": {
+            "Operating Weight - max ballast": "66138.7 lbs (30,000 kg)",
+            "Operating Weight - standard": "44092.5 lbs (20,000 kg)"
+        }
+    }
+}

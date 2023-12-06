@@ -1,0 +1,86 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/rh30fhdrlc/30750320",
+    "source_url_id": "30750320",
+    "source_url_model": "rh30fhdrlc",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:09.297363",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "RH30FHDRLC",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Max Cutting Height": "32.5 ft (10 m)",
+            "Max Dig Depth": "21.7 ft (6 m)",
+            "Max Dump Height": "22.4 ft (7 m)",
+            "Max Reach on Ground": "36.5 ft (11 m)"
+        },
+        "Backhoe Boom / Stick 2": {
+            "Max Cutting Height": "39.1 ft (12 m)",
+            "Max Dig Depth": "23 ft (7 m)",
+            "Max Dump Height": "27.3 ft (8 m)",
+            "Max Reach on Ground": "40.4 ft (12 m)"
+        },
+        "Backhoe Boom / Stick 3": {
+            "Max Cutting Height": "40.1 ft (12 m)",
+            "Max Dig Depth": "24.3 ft (7 m)",
+            "Max Dump Height": "27.9 ft (8 m)",
+            "Max Reach on Ground": "41.7 ft (13 m)"
+        },
+        "Backhoe Boom / Stick 4": {
+            "Max Cutting Height": "41.1 ft (13 m)",
+            "Max Dig Depth": "26.6 ft (8 m)",
+            "Max Dump Height": "28.9 ft (9 m)",
+            "Max Reach on Ground": "43.7 ft (13 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "7.2 cu yds (5 m)",
+            "Minimum Bucket Capacity": "4.6 cu yds (3 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "13.1 ft (4 m)",
+            "Length of Track on Ground": "16.9 ft (5 m)",
+            "Length of Tracks": "20.9 ft (6 m)",
+            "Upper Structure Ground Clearance": "5.2 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSX 15",
+            "Gross Power": "509 hp (380 kw)",
+            "Net Power": "489 hp (365 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Loading Shovel": {
+            "Height to Top of Boom - shovel": "17.1 ft (5 m)",
+            "Max Cutting Height": "28.9 ft (9 m)",
+            "Max Dig Depth": "7.6 ft (2 m)",
+            "Max Dig Reach": "31.5 ft (9 m)",
+            "Max Dump Height": "22 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "175  A",
+            "Fuel Capacity": "277.4 gal (1,048 l)",
+            "Hydraulic System Fluid Capacity": "369.9 gal (1,397 l)",
+            "Operating Voltage": "24 V V",
+            "Swing Speed": "5.8 rpm"
+        },
+        "Undercarriage": {
+            "Backhoe Ground Pressure - Shoe 1": "18.8 psi",
+            "Backhoe Ground Pressure - Shoe 2": "15.2 psi",
+            "Backhoe Ground Pressure - Shoe 3": "12.8 psi",
+            "Backhoe Operating Weight - Shoe 1": "194227.3 lbs (88,101 kg)",
+            "Backhoe Operating Weight - Shoe 2": "196652.4 lbs (89,201 kg)",
+            "Backhoe Operating Weight - Shoe 3": "199077.5 lbs (90,301 kg)",
+            "Backhoe Shoe Width 1": "23.7 in (58 cm)",
+            "Backhoe Shoe Width 2": "29.6 in (74 cm)",
+            "Backhoe Shoe Width 3": "35.5 in (89 cm)",
+            "Loading Shovel Ground Pressure": "20.3 psi",
+            "Loading Shovel Operating Weight": "188274.8 lbs (85,401 kg)",
+            "Loading Shovel Shoe Width": "23.7 in (58 cm)",
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Number of Lower Rollers": "9",
+            "Number of Upper Rollers": "3",
+            "Tail Swing Radius": "13.6 ft (4 m)",
+            "Track Gauge": "11.5 ft (3 m)"
+        }
+    }
+}

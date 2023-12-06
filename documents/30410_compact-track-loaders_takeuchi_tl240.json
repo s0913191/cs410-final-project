@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/takeuchi/tl240/30410",
+    "source_url_id": "30410",
+    "source_url_model": "tl240",
+    "source_url_make": "takeuchi",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:19.532925",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TL240",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Ground Clearance": "12.8 in (30 cm)",
+            "Height - Top of Cab": "7.5 ft (2 m)",
+            "Length - with Bucket": "12.5 ft (4 m)",
+            "Reach at Max Lift and Dump": "2.9 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "93 in (236 cm)",
+            "Turning Radius from Center - machine rear": "65.8 in (165 cm)",
+            "Width Over Tracks": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "203 cu in (0 m)",
+            "Engine Model": "4TNV98I",
+            "Gross Power": "86 hp (64 kw)",
+            "Net Power": "83 hp (62 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "219 lbs/ft",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1850 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "20.1 gal/min (76 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.8 cu yds (0 m)",
+            "Operating Load": "2081.2 lbs (944 kg)",
+            "Tipping Angle": "5950.3  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "4.4 gal (15 l)",
+            "Engine Oil Capacity": "2.7 gal (8 l)",
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Hydraulic System Fluid Capacity": "19.9 gal (72 l)",
+            "Max Speed - high range": "7.3 mph (11 kph)",
+            "Max Speed - low range": "4.8 mph (6 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10364 lbs (4,701 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.4 psi",
+            "Length of Track on Ground": "5 ft (2 m)",
+            "Number of Track Rollers per Side": "5",
+            "Width of Track": "17.8 in (43 cm)"
+        }
+    }
+}

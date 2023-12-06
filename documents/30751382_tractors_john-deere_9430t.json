@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/9430t/30751382",
+    "source_url_id": "30751382",
+    "source_url_model": "9430t",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:09.906173",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "9430T",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "differential steer"
+        },
+        "Dimensions": {
+            "Track Width": "30 in (76 cm)",
+            "Wheelbase": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, air-to-air aftercooling",
+            "Displacement": "549.3 cu in (0 m)",
+            "Engine Model": "PowerTech Plus",
+            "Gross Power": "425 hp (317 kw)",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "302 hp (225 kw)",
+            "Torque Rise": "38%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "48.1 gal/min (182 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "4N/3, 4/4N",
+            "Alternator Supplied Amperage": "200  A",
+            "Cooling System Fluid Capacity": "14.1 gal (53 l)",
+            "Engine Oil Capacity": "11 gal (42 l)",
+            "Fuel Capacity": "330 gal (1,249 l)",
+            "Hydraulic System Fluid Capacity": "27 gal (102 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "18-speed automatic powershift"
+        }
+    }
+}

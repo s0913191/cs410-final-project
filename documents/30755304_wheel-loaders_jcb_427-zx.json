@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/427-zx/30755304",
+    "source_url_id": "30755304",
+    "source_url_model": "427-zx",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:47:22.287487",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "427 ZX",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Hinge Pin - Max Height": "12.9 ft (4 m)",
+            "Length with Bucket on Ground": "23.2 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.7 ft (1 m)",
+            "Wheelbase": "10.1 ft (3 m)",
+            "Width Over Tires": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Model": "4 Stroke Direct Injection",
+            "Net Power": "158 hp (118 kw)"
+        },
+        "Hydraulic System": {
+            "3626": "250 bar psi",
+            "Dump Time": "1.5 sec",
+            "Lower Time": "3.3 sec",
+            "Pump Flow Capacity": "33.3 gal/min (125 l/min)",
+            "Pump Type": "Variable displacement",
+            "Raise Time": "5.1 sec",
+            "Relief Valve Setting": "3190 psi",
+            "Total cycle": "9.8 sec"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.14 cu yds (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24 mph (39 kph)",
+            "Max Speed - Reverse": "15.4 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "4 speed non-lock up converter 4WG"
+        },
+        "Weights": {
+            "Operational Weight": "35111 lbs (15,926 kg)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/caterpillar/631d/30103906",
+    "source_url_id": "30103906",
+    "source_url_model": "631d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:33.305567",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "631D",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "31 cu yds (24 m)",
+            "Max Depth of Cut": "19 in (48 cm)",
+            "Struck Capacity": "21 cu yds (16 m)",
+            "Width of Cut": "11.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "13.7 ft (4 m)",
+            "Overall Length": "46.8 ft (14 m)",
+            "Overall Width": "13 ft (4 m)",
+            "Wheelbase": "28.8 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "250 gal (946 l)",
+            "Tire Size": "33.25x35, 38PR"
+        },
+        "Tractor Engine": {
+            "Displacement": "1099 cu in (0 m)",
+            "Model": "3408",
+            "Net Power": "450 hp (336 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Transmission": {
+            "Max Speed Forward": "31 mph (50 kph)"
+        },
+        "Weights": {
+            "Total Operating - empty": "88900 lbs (40,325 kg)"
+        }
+    }
+}

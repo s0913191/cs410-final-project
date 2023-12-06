@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/rogator/1396/1158583",
+    "source_url_id": "1158583",
+    "source_url_model": "1396",
+    "source_url_make": "rogator",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:06.470651",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Rogator",
+    "equipment_model": "1396",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "537.1 cu in (0 m)",
+            "Engine Make": "Caterpillar",
+            "Engine Model": "C9 Tier III",
+            "Gross Power": "311.2 hp (232 kw)",
+            "Number of Cylinders": "6",
+            "Peak rated power": "336 hp (251 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.5 gal (30 l)",
+            "Engine Oil Capacity": "8.1 gal (30 l)",
+            "Fuel Capacity": "130 gal (492 l)",
+            "Hydraulic Fluid Capacity": "60 gal (227 l)",
+            "Operational Weight": "30258.5 lbs (13,725 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "36 mph (58 kph)"
+        }
+    }
+}

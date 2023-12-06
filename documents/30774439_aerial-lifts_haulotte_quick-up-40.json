@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/quick-up-40/30774439",
+    "source_url_id": "30774439",
+    "source_url_model": "quick-up-40",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:52.136488",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "Quick up 40",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "300 lbs (136 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "41.5 ft (13 m)",
+            "Platform Size": "2.3x2.2 ft (1 m)",
+            "Stowed Height": "9.1 ft (3 m)",
+            "Stowed Width": "2.6 ft (1 m)"
+        }
+    }
+}

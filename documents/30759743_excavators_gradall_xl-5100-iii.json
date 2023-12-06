@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/gradall/xl-5100-iii/30759743",
+    "source_url_id": "30759743",
+    "source_url_model": "xl-5100-iii",
+    "source_url_make": "gradall",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:36.414888",
+    "equipment_category": "Excavators",
+    "equipment_make": "Gradall",
+    "equipment_model": "XL 5100 III",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "24.42 ft (7 m)",
+            "Max Reach Along Ground": "34.42 ft (10 m)"
+        },
+        "Engine": {
+            "Make": "Detroit Diesel",
+            "Model": "OM906"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "54948 lbs (24,924 kg)"
+        }
+    }
+}

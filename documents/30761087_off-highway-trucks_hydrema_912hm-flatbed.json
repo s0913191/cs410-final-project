@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hydrema/912hm-flatbed/30761087",
+    "source_url_id": "30761087",
+    "source_url_model": "912hm-flatbed",
+    "source_url_make": "hydrema",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:49.889690",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hydrema",
+    "equipment_model": "912HM Flatbed",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x4"
+        },
+        "Dump": {
+            "Rated Payload": "10 t (9,072 kg)"
+        },
+        "Engine": {
+            "Make": "Perkins",
+            "Model": "E1104D-44TA Tier lll 4.4 l Turbo Diesel"
+        },
+        "Weights": {
+            "Operating Weight": "40000 lbs (18,144 kg)"
+        }
+    }
+}

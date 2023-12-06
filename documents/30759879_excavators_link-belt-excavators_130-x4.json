@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/link-belt-excavators/130-x4/30759879",
+    "source_url_id": "30759879",
+    "source_url_model": "130-x4",
+    "source_url_make": "link-belt-excavators",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:15:27.299658",
+    "equipment_category": "Excavators",
+    "equipment_make": "Link-Belt Excavators",
+    "equipment_model": "130 X4",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "19.83 ft (6 m)",
+            "Max Reach Along Ground": "28.33 ft (9 m)"
+        },
+        "Engine": {
+            "Net Power": "102 hp (76 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "29100 lbs (13,200 kg)"
+        }
+    }
+}

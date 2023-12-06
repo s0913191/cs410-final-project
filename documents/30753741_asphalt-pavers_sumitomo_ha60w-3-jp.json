@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/sumitomo/ha60w-3-jp/30753741",
+    "source_url_id": "30753741",
+    "source_url_model": "ha60w-3-jp",
+    "source_url_make": "sumitomo",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:33.666423",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Sumitomo",
+    "equipment_model": "HA60W-3 JP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/o Screed": "21.6 ft (6 m)",
+            "Tire Size": "22x14x16, 15.5R25",
+            "Transport Height": "8.5 ft (2 m)",
+            "Transport Width": "8.2 ft (2 m)",
+            "Wheelbase": "9.2 ft (3 m)",
+            "Width w/ Hopper Open": "19.7 ft (6 m)"
+        },
+        "Engine": {
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "4D34-TE1",
+            "Gross Power": "95 hp (71 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "13 in (33 cm)",
+            "Paving Speed - max": "78.8 ft/min",
+            "Paving Thickness - max": "11.9 in (28 cm)",
+            "Paving Width - max": "19.7 ft (6 m)",
+            "Travel Speed - max": "9.4 mph (14 kph)"
+        },
+        "Operating Specifications": {
+            "Operating Weight w/o Screed": "30776.6 lbs (13,960 kg)"
+        }
+    }
+}

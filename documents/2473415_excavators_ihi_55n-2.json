@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/ihi/55n-2/2473415",
+    "source_url_id": "2473415",
+    "source_url_model": "55n-2",
+    "source_url_make": "ihi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:03:54.777976",
+    "equipment_category": "Excavators",
+    "equipment_make": "IHI",
+    "equipment_model": "55N-2",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "19.5 ft (6 m)",
+            "Max Digging Depth": "12.7 ft (4 m)",
+            "Max Loading Height": "13.5 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "9.7 ft (3 m)",
+            "Shipping Height of Unit": "8.2 ft (2 m)",
+            "Shipping Length of Unit": "18.8 ft (5 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.3 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Removal Counterweight Clearance": "2.3 ft (1 m)",
+            "Tail Swing Radius": "5.1 ft (2 m)",
+            "Width to Outside of Tracks": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "3TNV94L",
+            "Net Power": "55.5 hp (41 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.8 gal (72 l)",
+            "Hydraulic Pump Flow Capacity": "29.7 gal/min (110 l/min)",
+            "Hydraulic System Relief Valve Pressure": "2988 psi",
+            "Operating Weight": "12733 lbs (5,776 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.4 psi",
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Shoe Size": "16 in (41 cm)",
+            "Track Gauge": "5.3 ft (2 m)"
+        }
+    }
+}

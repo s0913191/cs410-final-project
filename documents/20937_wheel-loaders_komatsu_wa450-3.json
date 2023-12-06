@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa450-3/20937",
+    "source_url_id": "20937",
+    "source_url_model": "wa450-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:38.902452",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA450-3",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "42730 lbs (19,382 kg)",
+            "Bucket Capacity - heaped": "5.5 cu yds (4 m)",
+            "Bucket Capacity - struck": "4.8 cu yds (3 m)",
+            "Bucket Width": "10.5 ft (3 m)",
+            "Digging depth": "1.1 ft (0 m)",
+            "Dump Clearance at Max Raise": "10.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Hinge Pin - Max Height": "13.9 ft (4 m)",
+            "Length with Bucket on Ground": "27.6 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.9 ft (1 m)",
+            "Wheelbase": "11.2 ft (3 m)",
+            "Width Over Tires": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Water-cooled",
+            "Bore": "5 in (13 cm)",
+            "Displacement": "664 cu in (0 m)",
+            "Engine Model": "Cummins M11",
+            "Engine Type": "Direct-Injection",
+            "Gross Power": "290 hp (216 kw)",
+            "Net Power": "264 hp (197 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2140 rpm",
+            "Stroke": "5.8 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Type": "HYDRAULIC",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "14.6 gal (53 l)",
+            "Engine Oil Fluid Capacity": "9 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "17.2 gal (64 l)",
+            "Fuel Capacity": "100.7 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "54.5 gal (204 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "108798.2 lbs (49,350 kg)",
+            "Tire Size": "26.5-25-20PR(L3)",
+            "Transmission Fluid Capacity": "17.2 gal (64 l)",
+            "Turning Radius": "22.5 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.1 mph (34 kph)",
+            "Max Speed - Reverse": "22.4 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

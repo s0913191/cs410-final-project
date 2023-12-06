@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt422/12844",
+    "source_url_id": "12844",
+    "source_url_model": "rt422",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:23.228187",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT422",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "70 ft (21 m)",
+            "Min Height @ Max Raise Angle": "27 ft (8 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.4 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "20.8 ft (6 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Transport Height": "10.5 ft (3 m)",
+            "Transport Length": "32.8 ft (10 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Turning Radius": "16.2 ft (5 m)",
+            "Upper Structure Tail Swing Radius": "11.2 ft (3 m)",
+            "Wheelbase": "121 in (307 cm)",
+            "Width w/ Outriggers Extended": "19.9 ft (6 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "4BT",
+            "Gross Power": "104.6 hp (78 kw)",
+            "Max Torque": "260.4 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "1700 rpm"
+        },
+        "Hydraulic System": {
+            "Max operating pressure": "3500 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "66 gal (250 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "37200.8 lbs (16,874 kg)",
+            "Tire Size": "16.00x24-16PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "26 mph (42 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Full powershift"
+        },
+        "Weights": {
+            "counterweight": "3925 lbs (1,780 kg)"
+        }
+    }
+}

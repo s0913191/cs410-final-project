@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/hardi/3500-i-gva/30753451",
+    "source_url_id": "30753451",
+    "source_url_model": "3500-i-gva",
+    "source_url_make": "hardi",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:24.873288",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Hardi",
+    "equipment_model": "3500 i GVA",
+    "equipment_spec": {
+        "Boom": {
+            "Max Boom Width": "131.3 ft (40 m)",
+            "Min Boom Width": "78.8 ft (24 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3.7 ft (1 m)",
+            "Tire Size": "420/85R38",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Width": "9.5 ft (3 m)"
+        },
+        "Engine": {
+            "Gross Power": "179 hp (133 kw)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "16137.9 lbs (7,320 kg)",
+            "Hand/Eye Wash Tank Capacity": "4 gal (15 l)",
+            "Rinse Tank Capacity": "108.4 gal (409 l)",
+            "Solution Tank Capacity": "924.7 gal (3,497 l)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

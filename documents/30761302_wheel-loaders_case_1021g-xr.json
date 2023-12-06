@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/1021g-xr/30761302",
+    "source_url_id": "30761302",
+    "source_url_model": "1021g-xr",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:41:37.963513",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "1021G XR",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.8 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Case",
+            "Net Power": "296 hp (221 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.8 cu yds (3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "58711 lbs (26,631 kg)"
+        }
+    }
+}

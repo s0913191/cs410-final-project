@@ -1,0 +1,124 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/m313c/7326",
+    "source_url_id": "7326",
+    "source_url_model": "m313c",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:29.055125",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "M313C",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "31.8 ft (9 m)",
+            "Max Digging Depth": "17 ft (5 m)",
+            "Max Loading Height": "22.7 ft (7 m)",
+            "Max Reach Along Ground": "27.9 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "11.5 ft (3 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "32.3 ft (10 m)",
+            "Max Digging Depth": "17.9 ft (5 m)",
+            "Max Loading Height": "23.2 ft (7 m)",
+            "Max Reach Along Ground": "28.7 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "11.9 ft (3 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 3": {
+            "Max Cutting Height": "33.1 ft (10 m)",
+            "Max Digging Depth": "18.9 ft (5 m)",
+            "Max Loading Height": "24 ft (7 m)",
+            "Max Reach Along Ground": "29.7 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "12.8 ft (4 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 4": {
+            "Max Cutting Height": "28.3 ft (9 m)",
+            "Max Digging Depth": "16.4 ft (5 m)",
+            "Max Loading Height": "19.4 ft (6 m)",
+            "Max Reach Along Ground": "27.1 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "11.2 ft (3 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Counterweight Clearance": "4.1 ft (1 m)",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Overall Width": "8.4 in (20 cm)",
+            "Overall Width - Outriggers Down": "12.1 ft (4 m)",
+            "Upper Structure Clearance": "4.1 ft (1 m)",
+            "Wheelbase": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "269 cu in (0 m)",
+            "Engine Model": "Cat 3054E ATAAC",
+            "ISO 9249": "118 hp (88 kw)",
+            "Maximum Torque - 1,400 rpm": "368.8 lbs/ft",
+            "Net Power": "118 hp (88 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Fuel Tank": {
+            "Fuel Tank Capacity": "62.1 gal (235 l)"
+        },
+        "Hydraulic System": {
+            "Implement/Travel Circuit": "50 gal/min (189 l/min)",
+            "Normal": "5076 psi",
+            "Travel Circuit": "5076 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "2.4 gal (8 l)",
+            "Front Diff Fluid Capacity": "2.4 gal (8 l)",
+            "Fuel Capacity": "62.1 gal (235 l)",
+            "Hydraulic Pump Flow Capacity": "71.4 gal/min (269 l/min)",
+            "Hydraulic System Fluid Capacity": "43.6 gal (163 l)",
+            "Hydraulic System Relief Valve Pressure": "5076.4 psi",
+            "Max Steering Angle": "33.5  \t\u00b0",
+            "Operating Weight": "31967.1 lbs (14,500 kg)",
+            "Oscillating Axle Angle": "18  \t\u00b0",
+            "Rear Diff Fluid Capacity": "3 gal (11 l)",
+            "Tire Size": "10-20 (dual pneumatic)"
+        },
+        "Service Refill Capacities": {
+            "Cooling": "8 gal (30 l)",
+            "Engine Crankcase": "2.4 gal (8 l)",
+            "Final Drive": "0.7 gal (0 l)",
+            "Front Steering Axle - Differential": "2.4 gal (8 l)",
+            "Fuel Tank": "62 gal (235 l)",
+            "Hydraulic System - Including Tank": "44 gal (167 l)",
+            "Hydraulic Tank": "25 gal (95 l)",
+            "Powershift Transmission": "0.8 gal (0 l)",
+            "Rear Axle - Housing (Differential)": "2.9 gal (8 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.5 rpm"
+        },
+        "Tires": {
+            "Optional": "See Optional Equipment",
+            "Standard": "10.00-20 dual pneumatic"
+        },
+        "Transmission": {
+            "Creeper Speed - 1st Gear": "2.5 mph (3 kph)",
+            "Creeper Speed - 2nd Gear": "9.9 mph (14 kph)",
+            "Forward/Reverse - 1st Gear": "5 mph (8 kph)",
+            "Forward/Reverse - 2nd Gear": "21 mph (34 kph)",
+            "Max Travel Speed": "21.2 mph (34 kph)",
+            "Maximum Gradeability": "67%",
+            "Maximum Travel Speed": "21 mph (34 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2"
+        },
+        "Weights": {
+            "Counterweight": "6393 lbs (2,900 kg)",
+            "Dozer Blade": "1422 lbs (645 kg)",
+            "Front and Rear Outriggers (1)": "32518 lbs (14,750 kg)",
+            "Front and Rear Outriggers (2)": "31747 lbs (14,400 kg)",
+            "Outriggers": "1962 lbs (890 kg)",
+            "Rear - Dozer Only (1)": "29983 lbs (13,600 kg)",
+            "Rear - Dozer Only (2)": "28880 lbs (13,100 kg)",
+            "Rear - Dozer, Front Outriggers (1)": "31967 lbs (14,500 kg)",
+            "Rear - Dozer, Front Outriggers (2)": "30865 lbs (14,000 kg)"
+        }
+    }
+}

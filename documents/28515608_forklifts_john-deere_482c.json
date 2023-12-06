@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/john-deere/482c/28515608",
+    "source_url_id": "28515608",
+    "source_url_model": "482c",
+    "source_url_make": "john-deere",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:31:30.647999",
+    "equipment_category": "Forklifts",
+    "equipment_make": "John Deere",
+    "equipment_model": "482C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "26 in (66 cm)",
+            "Length to Fork Face": "12.2 ft (4 m)",
+            "Max Fork Height": "16.8 ft (5 m)",
+            "Overall Height - mast lowered": "9.7 ft (3 m)",
+            "Overall Width": "2160 ft (658 m)",
+            "Turning Radius": "12 ft (4 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "4039D",
+            "Fuel Type": "Diesel",
+            "Number of Cylinders": "4",
+            "Power": "60 hp (45 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque": "172 lbs/ft"
+        },
+        "MAST": {
+            "Lift Speed": "72 ft/min",
+            "Load Capacity": "6000 lbs (2,722 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Mast Tip Forward": "15  \t\u00b0",
+            "Mast Tip Rear": "11  \t\u00b0",
+            "Number of Mast Sections": "2"
+        },
+        "Operating Specifications": {
+            "Max Speed": "20.7 mph (32 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "12200 lbs (5,534 kg)"
+        }
+    }
+}

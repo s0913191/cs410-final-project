@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/shuttlelift/5540f/29051",
+    "source_url_id": "29051",
+    "source_url_model": "5540f",
+    "source_url_make": "shuttlelift",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:28.296901",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Shuttlelift",
+    "equipment_model": "5540F",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "46.3 ft (14 m)",
+            "Max Elevating Angle": "69  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "41.1 ft (13 m)",
+            "Max Lift Capacity": "30000 lbs (13,608 kg)",
+            "Max Working Radius": "37.5 ft (11 m)",
+            "Min Height @ Max Raise Angle": "18.5 ft (5 m)",
+            "Min Working Radius": "6 ft (2 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.1 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "84.5 hp (63 kw)",
+            "Make": "Shuttlelift",
+            "Model": "4B3.3",
+            "Power Measured @": "2600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "14.1 ft (4 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Transport Height": "8 ft (2 m)",
+            "Transport Length": "22.1 ft (7 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "6.1 ft (2 m)",
+            "Width w/ Outriggers Extended": "12.3 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "63  A",
+            "Carrier Fuel Capacity": "40 gal (151 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "26500 lbs (12,020 kg)",
+            "Tire Size": "385/65R22.5",
+            "Upper Structure Hydraulic System Fluid Capacity": "30 gal (114 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "14.5 mph (23 kph)",
+            "Max Speed - Reverse": "14.5 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "synchromesh"
+        }
+    }
+}

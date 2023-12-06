@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/liebherr/pr712b/30750895",
+    "source_url_id": "30750895",
+    "source_url_model": "pr712b",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:51.806854",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Liebherr",
+    "equipment_model": "PR712B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Length of Track on Ground": "8.6 ft (2 m)",
+            "Length w/ Blade": "15.4 ft (5 m)",
+            "Length w/o Blade": "12.1 ft (4 m)",
+            "Width Over Tracks": "9.1 ft in (23 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "409 cu in (0 m)",
+            "Engine Model": "D 924 T-E",
+            "Net Power": "105 hp (78 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30 gal/min (114 l/min)",
+            "Pump type": "Load sensing proportional pump flow control",
+            "Relief Valve Pressure": "2300 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "13.8 gal (49 l)",
+            "Engine Oil Capacity": "4.8 gal (15 l)",
+            "Final Drives Fluid Capacity": "1.5 gal (4 l)",
+            "Fuel Capacity": "81.9 gal (307 l)",
+            "Hydraulic Fluid Capacity": "47.1 gal (178 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "30000 lbs (13,608 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "2.8 cu yds (2 m)",
+            "Height": "37.5 in (94 cm)",
+            "Width": "9.9 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.2 psi",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "5.8 ft (2 m)"
+        }
+    }
+}

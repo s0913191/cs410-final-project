@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/mecalac/as-1600/30755289",
+    "source_url_id": "30755289",
+    "source_url_model": "as-1600",
+    "source_url_make": "mecalac",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:41.469405",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Mecalac",
+    "equipment_model": "AS 1600",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout force": "8000 NEWTON",
+            "Dumping angle, top": "53  \t\u00b0",
+            "Lifting force": "6900 NEWTON",
+            "Payload on forks, max. turned, frontal": "9094.1 lbs (4,125 kg)",
+            "Payload on forks, max. turned, max. swivelled": "8697.3 lbs (3,945 kg)",
+            "Thrust force": "9000 NEWTON",
+            "Tilting angle": "45 \t\u00b0",
+            "Tipping load Standard bucket": "13227.8 lbs (6,000 kg)",
+            "Tipping load Standard bucket, max. turned, 90": "13249.8 lbs (6,010 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Length with Bucket on Ground": "21.6 ft (6 m)",
+            "Turning Radius": "14.3 ft (4 m)",
+            "Wheelbase": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "120 A",
+            "Battery": "2 x 95 Ah",
+            "Engine Model": "TCD 3,6 L4",
+            "Net Power": "136 hp (101 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Fluid Capacity": "2.2 gal (8 l)",
+            "Front Axle/Diff Fluid Capacity": "5.6 gal (19 l)",
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "42.3 gal (159 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "24074.5 lbs (10,920 kg)",
+            "Rear Axle Oscillation": "10  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "4.9 gal (15 l)",
+            "Steering Angle": "35  \t\u00b0",
+            "Tire Size": "17,5-25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)"
+        }
+    }
+}

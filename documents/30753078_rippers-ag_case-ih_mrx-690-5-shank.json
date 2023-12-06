@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rippers-ag/case-ih/mrx-690-5-shank/30753078",
+    "source_url_id": "30753078",
+    "source_url_model": "mrx-690-5-shank",
+    "source_url_make": "case-ih",
+    "source_url_category": "rippers-ag",
+    "source_date_scraped": "2023-09-13 17:08:33.054599",
+    "equipment_category": "Rippers Ag",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MRX 690 5-Shank",
+    "equipment_spec": {
+        "Dimensions": {
+            "Max Weight": "9680 lbs (4,391 kg)",
+            "Overall Length": "30.1 in (76 cm)",
+            "Transport Width": "15.8 ft (5 m)",
+            "Working Width Spacing #1 min": "12.5 ft (4 m)"
+        },
+        "Disc System": {
+            "Blade Diameter": "24 in (61 cm)",
+            "Depth Control": "mechanical",
+            "Max Operating Depth": "5 in (13 cm)",
+            "Spacing #1": "12 in (30 cm)"
+        },
+        "Shanks": {
+            "Number of Main Shanks": "5",
+            "Shank Spacing": "30 in (76 cm)",
+            "Shank Trip Force": "1800 lbs (817 kg)",
+            "Shank Working Depth": "14 in (36 cm)"
+        },
+        "Tires": {
+            "Tires": "12.5Lx15 8 ply"
+        }
+    }
+}

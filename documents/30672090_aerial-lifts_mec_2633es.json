@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/mec/2633es/30672090",
+    "source_url_id": "30672090",
+    "source_url_model": "2633es",
+    "source_url_make": "mec",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:44.508567",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Mec",
+    "equipment_model": "2633ES",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Height w/ Rails": "7.2 ft (2 m)",
+            "Overall Length": "8.2 in (20 cm)",
+            "Overall Width": "2.8 ft (1 m)",
+            "Turning Radius": "7.4 ft (2 m)",
+            "Wheelbase": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "220",
+            "Charger Amps": "25",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "3 gal (11 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "3829.5 lbs (1,737 kg)",
+            "Tire Fill/Type": "Solid, non-marking",
+            "Tire Size": "16x5"
+        },
+        "Platform": {
+            "Deck Extension": "41.8 in (104 cm)",
+            "Height of Rails": "3.7 ft (1 m)",
+            "Max Platform Height": "26 ft (8 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "32.6 ft (10 m)",
+            "Platform Inner Length": "91 in (231 cm)"
+        }
+    }
+}

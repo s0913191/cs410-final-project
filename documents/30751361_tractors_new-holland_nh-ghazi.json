@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/nh-ghazi/30751361",
+    "source_url_id": "30751361",
+    "source_url_model": "nh-ghazi",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:35.354389",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "NH Ghazi",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "9.9 in (23 cm)",
+            "Tire Size": "6.00-16  14.9/13-28"
+        },
+        "Engine": {
+            "Engine Model": "8035.06",
+            "Gross Power": "65 hp (48 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat. 1-2",
+            "Operating Weight": "3902.2 lbs (1,770 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Gearbox with constant-mesh gears"
+        }
+    }
+}

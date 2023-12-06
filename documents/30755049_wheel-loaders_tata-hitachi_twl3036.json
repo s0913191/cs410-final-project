@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/tata-hitachi/twl3036/30755049",
+    "source_url_id": "30755049",
+    "source_url_model": "twl3036",
+    "source_url_make": "tata-hitachi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:22.694713",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Tata Hitachi",
+    "equipment_model": "TWL3036",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "25573.6 lbs (11,600 kg)",
+            "Bucket Capacity - heaped": "2.7 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.3 cu yds (2 m)",
+            "Bucket Width": "8.5 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Hinge Pin - Max Height": "12.2 ft (4 m)",
+            "Length with Bucket on Ground": "24.8 ft (7 m)",
+            "Reach at Max Lift and Dump": "4.6 ft (1 m)",
+            "Wheelbase": "9.4 ft (3 m)",
+            "Width Over Tires": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "346.4 cu in (0 m)",
+            "Engine Model": "TATA 697TC",
+            "Gross Power": "125 hp (93 kw)",
+            "Net Power": "135 hp (101 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "0.9 sec",
+            "Lower Time": "3.4 sec",
+            "Pump Flow Capacity": "50 gal/min (189 l/min)",
+            "Pump Type": "Vane type, transmission mounted, directly driven by engine",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "2702 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.1 gal (23 l)",
+            "Engine Oil Fluid Capacity": "4.8 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "50.2 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "37 gal (140 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "34733.9 lbs (15,755 kg)",
+            "Rear Axle Oscillation": "28  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "6.4 gal (23 l)",
+            "Static Tipping Weight": "26698 lbs (12,110 kg)",
+            "Tire Size": "14x25.2 PR",
+            "Transmission Fluid Capacity": "5.3 gal (19 l)",
+            "Turning Radius": "19.6 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15.3 mph (24 kph)",
+            "Max Speed - Reverse": "11.5 mph (18 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "ZR Ergo Power Transmission 3WG 130"
+        }
+    }
+}

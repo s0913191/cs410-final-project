@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/michigan-clark/cgc40/30757668",
+    "source_url_id": "30757668",
+    "source_url_model": "cgc40",
+    "source_url_make": "michigan-clark",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:46.981685",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Michigan / Clark",
+    "equipment_model": "CGC40",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.9 in (8 cm)",
+            "Height to Top of Overhead Guard": "7.3 ft (2 m)",
+            "Length to Fork Face": "8 ft (2 m)",
+            "Max Fork Height": "15.7 ft (5 m)",
+            "Overall Height - mast lowered": "7.5 ft (2 m)",
+            "Overall Width": "4.3 ft (1 m)",
+            "Right Angle Stack": "8.9 ft (2 m)",
+            "Turning Radius": "7.5 ft (2 m)",
+            "Wheelbase": "5.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "262 cu in (0 m)",
+            "Engine Model": "Vortec 4300LT",
+            "Fuel Type": "LPG",
+            "Number of Cylinders": "6",
+            "Power": "93 hp (69 kw)",
+            "Power Measured @": "2400 rpm",
+            "Torque": "235 lbs/ft",
+            "Torque Measured @": "2000 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "101 ft/min",
+            "Load Capacity": "8000 lbs (3,629 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "78.1 ft/min",
+            "Mast Tip Forward": "9  \t\u00b0",
+            "Mast Tip Rear": "8  \t\u00b0",
+            "Max Fork Spread": "40 in (102 cm)",
+            "Number of Mast Sections": "3"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.2 mph (19 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "12921 lbs (5,861 kg)",
+            "Tire Type": "Cushion"
+        }
+    }
+}

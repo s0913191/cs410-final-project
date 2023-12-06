@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/komatsu/gd305a-3/30754541",
+    "source_url_id": "30754541",
+    "source_url_model": "gd305a-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:15.036471",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "GD305A-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Base": "7 ft (2 m)",
+            "Height to Top of Isomount Cab": "8.1 ft (2 m)",
+            "Overall Length": "22.8 ft (7 m)",
+            "Tandem Axle Wheelbase": "4.4 ft (1 m)",
+            "Wheelbase": "16.5 ft (5 m)",
+            "Width Over Tires": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "239.3 cu in (0 m)",
+            "Engine Model": "S4D102E",
+            "Max Power": "100 hp (75 kw)",
+            "Net Power Gear 4-6": "100 hp (75 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Moldboard": {
+            "Moldboard Height": "20.9 in (51 cm)",
+            "Moldboard Width": "10.4 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "34.4 gal (129 l)",
+            "Std Operation Weight - Total": "17592.9 lbs (7,980 kg)",
+            "Tire Size": "front 9.00-20-8PR rear 10.00-20-10PR"
+        },
+        "Steering System": {
+            "Articulation Angle": "27  \t\u00b0",
+            "Turning Radius": "18.7 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Max Speed - Reverse": "15.3 mph (24 kph)",
+            "Number of Gears - Forward": "4",
+            "Number of Gears - Reverse": "1"
+        }
+    }
+}

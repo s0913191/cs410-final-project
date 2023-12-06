@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/m450aj/30672764",
+    "source_url_id": "30672764",
+    "source_url_model": "m450aj",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:28.185160",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "M450AJ",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9 in (23 cm)",
+            "Overall Height - mast lowered": "6.7 ft (2 m)",
+            "Overall Length": "21.2 in (53 cm)",
+            "Overall Width": "5.9 ft (2 m)",
+            "Platform Dimension A": "2.6 ft (1 m)",
+            "Platform Dimension B": "5 ft (2 m)",
+            "Turning Radius": "10.4 ft (3 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "Kubota",
+            "Fuel Type": "Diesel",
+            "Gross Power": "6.7 hp (4 kw)",
+            "Number of Batteries": "8",
+            "System Voltage": "48 V"
+        },
+        "Hydraulic System": {
+            "Hydraulic Reservoir": "4 gal (15 l)"
+        },
+        "Performance": {
+            "Drive Speed": "3.2 mph (5 kph)",
+            "Fuel Capacity": "4 gal (15 l)",
+            "Gradeability": "30%",
+            "Jib - Range of articulation": "141  \t\u00b0",
+            "Operating Weight": "14700 lbs (6,668 kg)",
+            "Platform Capacity": "500 lbs (227 kg)",
+            "Swing": "260  \t\u00b0",
+            "Tire Fill/Type": "Pnuematic",
+            "Tire Size": "240/55-17.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "23.9 ft (7 m)",
+            "Max Platform Height": "45 ft (14 m)",
+            "Max Working Height": "25.3 ft (8 m)"
+        }
+    }
+}

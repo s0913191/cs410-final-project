@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dumpers/ausa/d150ahg/40386",
+    "source_url_id": "40386",
+    "source_url_model": "d150ahg",
+    "source_url_make": "ausa",
+    "source_url_category": "dumpers",
+    "source_date_scraped": "2023-09-13 14:52:27.822279",
+    "equipment_category": "Dumpers",
+    "equipment_make": "Ausa",
+    "equipment_model": "D150AHG",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking": "Mechanical, sealed, multi-disc",
+            "Service": "Mechanical, sealed, multi-disc"
+        },
+        "Driving": {
+            "External turning radius": "128 in",
+            "Max. speed": "8.7 mph",
+            "Maximum gradient": "40%",
+            "Traction": "4x4",
+            "Tyres": "10.0/75-15.3"
+        },
+        "Engine": {
+            "Brand": "Kubota",
+            "Emissions": "Stage V - EPA Tier 4",
+            "Model": "D1105-E4B",
+            "No. of cylinders": "3",
+            "Noise level (LwA)": "101 dB(A)",
+            "Power": "21 hp",
+            "Torque": "71.4@1600"
+        },
+        "General": {
+            "Chassis": "Articulated",
+            "Empty weight": "3,330 lb",
+            "Heaped skip capacity": "1.18 cu yd",
+            "Level skip capacity": "0.82 cu yd",
+            "Load capacity": "3,300 lb",
+            "Unloading system": "Rotating",
+            "Water skip capacity": "0.68 cu yd"
+        },
+        "Hydraulic system": {
+            "Flow rate": "4.6 gal/min",
+            "Hydraulic circuit": "0.5 cu in gear pumps",
+            "Working pressure": "2,610 psi"
+        },
+        "Tank capacity": {
+            "Fuel": "6.1 gal",
+            "Hydraulic system": "5.6 gal"
+        },
+        "Transmission": {
+            "Reversibility": "Non-reversible",
+            "Transmission": "Hydrostatic"
+        }
+    }
+}

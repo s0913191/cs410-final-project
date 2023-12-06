@@ -1,0 +1,84 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/408zx/30754425",
+    "source_url_id": "30754425",
+    "source_url_model": "408zx",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:53.822760",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "408ZX",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "9375 lbs (4,253 kg)",
+            "Bucket Capacity - heaped": "1.1 cu yds (1 m)",
+            "Bucket Capacity - struck": "0.9 cu yds (0 m)",
+            "Bucket Width": "6.3 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Dump Clearance at Max Lift": "8.3 ft (2 m)",
+            "Fork Tine Length": "4 ft (1 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Hinge Pin - Max Height": "10.4 ft (3 m)",
+            "Hinge Pin Max Height": "10.4 ft (3 m)",
+            "Length w/ Bucket on Ground": "16.5 ft (5 m)",
+            "Length with Bucket on Ground": "16.5 ft (5 m)",
+            "Max Lift Height": "10 ft (3 m)",
+            "Reach at Max Height and Dump": "2.1 ft (1 m)",
+            "Reach at Max Lift and Dump": "2.1 ft (1 m)",
+            "Wheelbase": "6.6 ft (2 m)",
+            "Width Over Tires": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural aspirated",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "1104C-44",
+            "Gross Power": "75 hp (56 kw)",
+            "Max Torque": "223 lbs/ft",
+            "Net Power": "67 hp (50 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "67 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1 sec",
+            "Lower Time": "3.2 sec",
+            "Pump Flow Capacity": "17.5 gal/min (64 l/min)",
+            "Pump Type": "Gear",
+            "Raise Time": "5 sec",
+            "Relief Valve Setting": "319 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "4.1 gal (15 l)",
+            "Engine Oil Capacity": "2.5 gal (8 l)",
+            "Engine Oil Fluid Capacity": "2.5 gal (8 l)",
+            "Front Axle/Diff Fluid Capacity": "2.6 gal (8 l)",
+            "Front Diff Fluid Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "22.5 gal (83 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10670.4 lbs (4,840 kg)",
+            "Rear Axle Oscillation": "9  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "2.8 gal (8 l)",
+            "Rear Diff Fluid Capacity": "2.8 gal (8 l)",
+            "Static Tipping Load - Bucket": "6810 lbs (3,089 kg)",
+            "Static Tipping Load - Forks": "4011 lbs (1,819 kg)",
+            "Static Tipping Weight": "7473.7 lbs (3,390 kg)",
+            "Tire Size": "12.5x20",
+            "Transmission Fluid Capacity": "22.5 gal (83 l)",
+            "Turning Radius": "11.9 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Max Speed Forward": "18.7 mph (29 kph)",
+            "Max Speed Reverse": "18.7 mph (29 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

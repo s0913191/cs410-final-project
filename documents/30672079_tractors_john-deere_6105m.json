@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6105m/30672079",
+    "source_url_id": "30672079",
+    "source_url_model": "6105m",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:21:52.010058",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6105M",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Axle Clearance": "20.5 in (51 cm)",
+            "Front Tread Range": "79.4 in (201 cm)",
+            "Wheelbase": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "274.7 cu in (0 m)",
+            "Engine Make": "John Deere",
+            "Engine Model": "PowerTech PVX",
+            "Gross Power": "104.6 hp (78 kw)",
+            "Max Torque": "333.4 lbs/ft",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "85.9 hp (63 kw)",
+            "Torque Measured @": "1401 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum system pressure": "2900 psi",
+            "Pump Flow Capacity": "21.2 gal/min (79 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4698.6 lbs (2,131 kg)",
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Operating Weight": "11040.8 lbs (5,008 kg)",
+            "Tire Size Front - 2wd / 4wd": "380/85R24 in. 131A8 R1W"
+        },
+        "Tires": {
+            "Rear Tires Size": "460/85R34 in. 147 A8 R1W"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

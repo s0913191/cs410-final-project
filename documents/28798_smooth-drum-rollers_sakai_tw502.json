@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/tw502/28798",
+    "source_url_id": "28798",
+    "source_url_model": "tw502",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:57.517357",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "TW502",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.1 in (28 cm)",
+            "Height - Top of Cab": "5.6 ft (2 m)",
+            "Overall Length": "10.2 in (25 cm)",
+            "Overall Width": "4.6 ft (1 m)",
+            "Wheelbase": "7.6 in (18 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "7711 lbs (3,498 kg)",
+            "Centrifugal Force - Low": "5957.5 lbs (2,702 kg)",
+            "Drum Diameter": "31.5 in (79 cm)",
+            "Drum Width": "51.2 in (130 cm)",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "D1503-T-K2A",
+            "Gross Power": "34.5 hp (25 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "7804.4 lbs (3,540 kg)"
+        },
+        "Tires": {
+            "Tires": "10.5/80-16 6PR(OR)"
+        }
+    }
+}

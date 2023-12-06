@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/hitachi/dx175/30750728",
+    "source_url_id": "30750728",
+    "source_url_model": "dx175",
+    "source_url_make": "hitachi",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:23.830095",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Hitachi",
+    "equipment_model": "DX175",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length of Track on Ground": "8.6 ft (2 m)",
+            "Length w/ Blade": "17 ft (5 m)",
+            "Length w/o Blade": "12.9 ft (4 m)",
+            "Width Over Tracks": "8.6 ft in (20 cm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "494.3 cu in (0 m)",
+            "Engine Model": "8365T",
+            "Gross Power": "165 hp (123 kw)",
+            "Max Torque": "503.1 lbs/ft",
+            "Net Power": "167 hp (125 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "42.8 gal/min (159 l/min)",
+            "Pump type": "gear type",
+            "Relief Valve Pressure": "2702.1 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Final Drives Fluid Capacity": "4.8 gal (15 l)",
+            "Fuel Capacity": "91.2 gal (344 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "37566.8 lbs (17,040 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "5 cu yds (4 m)",
+            "Height": "53.2 in (135 cm)",
+            "Width": "11 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6 mph (10 kph)",
+            "Max Speed - Reverse": "7.2 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        },
+        "Undercarriage": {
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "21.7 in (53 cm)",
+            "Track Gauge": "6.2 ft (2 m)",
+            "Track Pitch": "7.5 in (18 cm)"
+        }
+    }
+}

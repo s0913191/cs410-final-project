@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/ex210h-5/13671",
+    "source_url_id": "13671",
+    "source_url_model": "ex210h-5",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:00:08.352254",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EX210H-5",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "31.5 ft (9 m)",
+            "Max Digging Depth": "21.9 ft (6 m)",
+            "Max Loading Height": "22.3 ft (7 m)",
+            "Max Reach Along Ground": "32 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "19.9 ft (6 m)",
+            "Shipping Height of Unit": "9.8 ft (3 m)",
+            "Shipping Length of Unit": "31.2 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.6 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.7 cu yds (0 m)",
+            "Reference Bucket Capacity": "1.1 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Length of Track on Ground": "11.1 ft (3 m)",
+            "Removal Counterweight Clearance": "3.4 ft (1 m)",
+            "Tail Swing Radius": "9.1 ft (3 m)",
+            "Width to Outside of Tracks": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "396 cu in (0 m)",
+            "Engine Model": "A-6BG1T",
+            "Max Torque": "340.1 lbs/ft",
+            "Net Power": "132 hp (98 kw)",
+            "Power Measured @": "1950 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40 A",
+            "Cooling System Fluid Capacity": "6.1 gal (23 l)",
+            "Engine Oil Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "81.9 gal (307 l)",
+            "Hydraulic Pump Flow Capacity": "97.8 gal/min (367 l/min)",
+            "Hydraulic System Fluid Capacity": "52.9 gal (197 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Weight": "43700 lbs (19,822 kg)",
+            "Swing Drive Fluid Capacity": "2.2 gal (8 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "13.9 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "6.4 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "46",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "7.3 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex/mac-25/30758492",
+    "source_url_id": "30758492",
+    "source_url_model": "mac-25",
+    "source_url_make": "terex",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:12.309086",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "MAC 25",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "65  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "62.4 ft (19 m)",
+            "Max Lift Capacity": "55115.6 lbs (25,000 kg)",
+            "Max Working Radius": "51.6 ft (16 m)",
+            "Min Height @ Max Raise Angle": "26.3 ft (8 m)",
+            "Min Working Radius": "4.7 ft (1 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "275 hp (205 kw)",
+            "Make": "Terex",
+            "Max Torque": "811.4 lbs/ft",
+            "Model": "OM 906 LA",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "1000 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "23.5 ft (7 m)",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Transport Height": "10.1 ft (3 m)",
+            "Transport Length": "32.8 ft (10 m)",
+            "Transport Width": "9 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "116.3 gal (439 l)",
+            "Carrier Hydraulic System Fluid Capacity": "100.4 gal (379 l)",
+            "Number of Axels": "2",
+            "Tire Size": "14.00 x 20 x 20 PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)",
+            "Number of Forward Gears": "6",
+            "Transmission Type": "Allison Fully Automatic"
+        }
+    }
+}

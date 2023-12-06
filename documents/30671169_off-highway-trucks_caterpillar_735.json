@@ -1,0 +1,153 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/735/30671169",
+    "source_url_id": "30671169",
+    "source_url_model": "735",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:19.785388",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "735",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Body Capacities": {
+            "Heaped (SAE 2:1)": "25.8 cu yds (19 m)",
+            "Struck": "19 cu yds (15 m)",
+            "Tailgate Heaped SAE 2:1": "27.3 cu yds (21 m)",
+            "Tailgate Struck": "19.9 cu yds (15 m)"
+        },
+        "Body Hoist": {
+            "Lower Time": "7 sec",
+            "Raise Time": "11 sec"
+        },
+        "Body Plate": {
+            "Body Plate Type": "High strength Brinell HB450 wear resistant steel"
+        },
+        "Body Plate Thickness": {
+            "Base": "0.6 in (0 cm)",
+            "Front": "0.4 in (0 cm)",
+            "Scow": "0.6 in (0 cm)",
+            "Side": "0.5 in (0 cm)"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2.1 ft (1 m)",
+            "Dump Height": "22.9 ft (7 m)",
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Overall Height": "12.2 ft (4 m)",
+            "Overall Length": "35.8 ft (11 m)",
+            "Overall Width": "11.1 ft (3 m)",
+            "Wheelbase": "17.2 ft (5 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "25.8 cu yds (19 m)",
+            "Capacity - Struck": "19.3 cu yds (15 m)",
+            "Lower Time": "7 sec",
+            "Raise Time": "11 sec",
+            "Rated Payload": "72091.2 lbs (32,700 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "926 cu in (0 m)",
+            "Engine Model": "Cat C15 ACERT",
+            "Engine Model - U.S. EPA Tier 4 Final/EU Stage IV": "Cat C13 ACERT",
+            "Flywheel Power": "385 hp (287 kw)",
+            "Gross Power": "413 hp (308 kw)",
+            "Gross Power - SAE J1995": "435 hp (324 kw)",
+            "Make": "Cat",
+            "Max Torque": "1524.6 lbs/ft",
+            "Model": "3408E ATAAC",
+            "Net Power": "394 hp (294 kw)",
+            "Net Power - EEC 80/1269": "424 hp (316 kw)",
+            "Net Power - ISO 14396": "429 hp (320 kw)",
+            "Net Power - ISO 9249": "424 hp (316 kw)",
+            "Net Power - SAE J1349": "419 hp (312 kw)",
+            "Number of Cylinders": "6",
+            "Peak Engine Torque Gross (SAE J1995)": "1614 lbs/ft",
+            "Peak Engine Torque Net (SAE J1349)": "1597 lbs/ft",
+            "Peak Engine Torque Speed": "1200 rpm",
+            "Stroke": "6.8 in (15 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "21.2 gal (79 l)",
+            "Engine Oil Capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "148 gal (560 l)",
+            "Hydraulic System Fluid Capacity": "61.6 gal (231 l)",
+            "Tire Size": "26.5R25",
+            "Transmission Fluid Capacity": "19.1 gal (72 l)"
+        },
+        "Operating Weights": {
+            "Center Axle - Empty": "14406 lbs (6,535 kg)",
+            "Center Axle - Loaded": "46743 lbs (21,203 kg)",
+            "Center Axle - Rated Load": "32337 lbs (14,668 kg)",
+            "Front Axle - Empty": "41881 lbs (18,997 kg)",
+            "Front Axle - Loaded": "49298 lbs (22,361 kg)",
+            "Front Axle - Rated Load": "7417 lbs (3,364 kg)",
+            "Rear Axle - Empty": "12919 lbs (5,860 kg)",
+            "Rear Axle - Loaded": "45256 lbs (20,528 kg)",
+            "Rear Axle - Rated Load": "32337 lbs (14,668 kg)",
+            "Total - Empty": "69206 lbs (31,392 kg)",
+            "Total - Loaded": "141297 lbs (64,092 kg)",
+            "Total - Rated Load": "72091 lbs (32,700 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "25.1 gal (95 l)",
+            "DEF Tank": "5.3 gal (19 l)",
+            "Engine Crankcase": "10.6 gal (38 l)",
+            "Final Drives/Differential": "21.1 gal (79 l)",
+            "Fuel Tank": "148 gal (560 l)",
+            "Hydraulic System": "86.6 gal (326 l)",
+            "Output Transfer Gear Box": "6.3 gal (23 l)",
+            "Transmission": "22.5 gal (83 l)"
+        },
+        "Sound Levels": {
+            "Interior Cab": "79 dB(A)"
+        },
+        "Standards": {
+            "Brakes": "SAE J/ISO 3450-1998",
+            "Cab - FOPS": "SAE J231 JAN81 and ISO 3449-1992 Level II",
+            "Cab - ROPS": "SAE J1040 May 1994 and ISO 3471-1994",
+            "Steering": "ISO 5010 1992E"
+        },
+        "Steering System": {
+            "Lock to Lock": "4.75 seconds @ 60 rpm"
+        },
+        "Transmission": {
+            "Forward - 1": "5.2 mph (8 kph)",
+            "Forward - 2": "7.1 mph (11 kph)",
+            "Forward - 3": "9.6 mph (14 kph)",
+            "Forward - 4": "12.9 mph (19 kph)",
+            "Forward - 5": "17.5 mph (27 kph)",
+            "Forward - 6": "23.5 mph (37 kph)",
+            "Forward - 7": "31.9 mph (50 kph)",
+            "Max Speed": "36.3 mph (58 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "1",
+            "Reverse - 1": "5 mph (8 kph)",
+            "Reverse - 2": "6.8 mph (10 kph)"
+        },
+        "Turning Circle": {
+            "Turning Dimensions - Aisle Width": "212 in (538 cm)",
+            "Turning Dimensions - Clearance Radius": "318 in (808 cm)",
+            "Turning Dimensions - Inside Radius": "149 in (378 cm)",
+            "Turning Dimensions - SAE Turning Radius": "294 in (747 cm)"
+        },
+        "Weights": {
+            "Center Axle - empty": "14087.6 lbs (6,390 kg)",
+            "Center Axle - loaded": "45900.3 lbs (20,820 kg)",
+            "Front Axle - empty": "40014 lbs (18,150 kg)",
+            "Front Axle - loaded": "48479.7 lbs (21,990 kg)",
+            "Operating Weight": "135610 lbs (61,512 kg)",
+            "Rear Axle - empty": "12588.4 lbs (5,710 kg)",
+            "Rear Axle - loaded": "44401.2 lbs (20,140 kg)",
+            "Total Empty": "66689.9 lbs (30,250 kg)",
+            "Total Loaded": "138781.1 lbs (62,951 kg)"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/hc-80/30785",
+    "source_url_id": "30785",
+    "source_url_model": "hc-80",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:09.753842",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "HC 80",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "200 ft (61 m)",
+            "Max Lift Capacity": "160000.1 lbs (72,576 kg)",
+            "Min Height @ Max Raise Angle": "40 ft (12 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Tail Swing Radius": "3.3 ft (1 m)",
+            "Transport Height": "18 ft (5 m)",
+            "Transport Length": "19 ft (6 m)",
+            "Transport Width": "15.9 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Water-cooled",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB 6.7",
+            "Gross Power": "185 hp (138 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60 gal (227 l)"
+        },
+        "Transmission": {
+            "Max Speed": "0.8 mph (0 kph)"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/caterpillar/627e/30577740",
+    "source_url_id": "30577740",
+    "source_url_model": "627e",
+    "source_url_make": "caterpillar",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:30.472915",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "627E",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "20.1 cu yds (15 m)",
+            "Max Depth of Cut": "13.2 in (33 cm)",
+            "Rated Payload": "48060.8 lbs (21,800 kg)",
+            "Struck Capacity": "14 cu yds (11 m)",
+            "Width of Cut": "10 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Overall Height": "12.2 ft (4 m)",
+            "Overall Length": "42.3 ft (13 m)",
+            "Overall Width": "11.4 ft (3 m)",
+            "Tractor Ground Clearance": "1.8 ft (0 m)",
+            "Wheelbase": "25.3 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "36.8 gal (136 l)",
+            "Differential Fluid Capacity": "37.8 gal (140 l)",
+            "Engine Oil Fluid Capacity": "14.3 gal (53 l)",
+            "Fuel Capacity": "208.7 gal (787 l)",
+            "Hydraulic System Fluid Capacity": "51.6 gal (193 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "33.25-29 26PR (E-3)",
+            "Transmission Fluid Capacity": "41 gal (155 l)",
+            "Wheel Coolant Fluid Capacity - each": "23.8 gal (87 l)"
+        },
+        "Scraper Engine": {
+            "Displacement": "640.8 cu in (0 m)",
+            "Gross Power": "246 hp (183 kw)",
+            "Make": "Caterpillar",
+            "Model": "3306",
+            "Net Power": "225 hp (168 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Tractor Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "640.8 cu in (0 m)",
+            "Gross Power": "238 hp (177 kw)",
+            "Make": "Caterpillar",
+            "Model": "3406",
+            "Net Power": "225 hp (168 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Transmission": {
+            "Max Speed Forward": "35.8 mph (56 kph)",
+            "Max Speed Reverse": "6.5 mph (10 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "1"
+        },
+        "Weights": {
+            "Front Axel - loaded": "60208.3 lbs (27,310 kg)",
+            "Front Axle - empty": "44753.9 lbs (20,300 kg)",
+            "Rear Axle - empty": "31682.7 lbs (14,371 kg)",
+            "Rear Axle - loaded": "64229.5 lbs (29,134 kg)",
+            "Total Operating - empty": "76436.5 lbs (34,671 kg)",
+            "Total Operating - Loaded": "124437.8 lbs (56,444 kg)"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/new-holland/l125/26436",
+    "source_url_id": "26436",
+    "source_url_model": "l125",
+    "source_url_make": "new-holland",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:38.906895",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "L125",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "1.8 ft (0 m)",
+            "Ground Clearance": "6.8 in (15 cm)",
+            "Height - Top of Cab": "5.8 ft (2 m)",
+            "Length with Bucket": "8 ft (2 m)",
+            "Reach at Max Lift and Dump": "93.8 in (236 cm)",
+            "Turning Radius from Center - inc bucket": "48 in (122 cm)",
+            "Turning Radius from Center - machine rear": "71 in (180 cm)",
+            "Wheelbase": "2.7 ft (1 m)",
+            "Width Over Tires": "3.4 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "41.2 cu in (0 m)",
+            "Engine Model": "NH673",
+            "Gross Power": "16.5 hp (12 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "3600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8 gal/min (30 l/min)",
+            "Pump Type": "Gear type",
+            "Relief Valve Pressure": "1600 psi"
+        },
+        "Loader": {
+            "Breakout Force": "1408.8 psi",
+            "Bucket Capacity": "0.2 cu yds (0 m)",
+            "Operating Load Rating": "698.9 lbs (317 kg)",
+            "Tipping Angle": "1400  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "22  A",
+            "Cooling System Fluid Capacity": "1.2 gal (4 l)",
+            "Engine Oil Fluid Capacity": "0.9 gal (0 l)",
+            "Fuel Capacity": "6 gal (23 l)",
+            "Hydraulic System Fluid Capacity": "9 gal (34 l)",
+            "Max Speed": "5.8 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "2185 lbs (991 kg)",
+            "Tire Size": "23X8.50-12"
+        }
+    }
+}

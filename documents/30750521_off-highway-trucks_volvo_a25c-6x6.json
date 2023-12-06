@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/volvo/a25c-6x6/30750521",
+    "source_url_id": "30750521",
+    "source_url_model": "a25c-6x6",
+    "source_url_make": "volvo",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:38.300636",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "A25C 6x6",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2.1 ft (1 m)",
+            "Dump Height": "21 ft (6 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Overall Height": "10.8 ft (3 m)",
+            "Overall Length": "31.8 ft (9 m)",
+            "Overall Width": "9.2 ft (3 m)",
+            "Wheelbase": "13.7 ft (4 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "17.7 cu yds (13 m)",
+            "Capacity - Struck": "13.9 cu yds (10 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "12 sec",
+            "Raise Time": "15 sec",
+            "Rated Payload": "49604.1 lbs (22,500 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "411 cu in (0 m)",
+            "Engine Model": "TD73 KCE",
+            "Gross Power": "255 hp (190 kw)",
+            "Max Torque": "796.6 lbs/ft",
+            "Net Power": "251 hp (187 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "9.8 gal (34 l)",
+            "Engine Oil Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "74 gal (280 l)",
+            "Hydraulic System Fluid Capacity": "47.6 gal (178 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "23.5 R 25",
+            "Transmission Fluid Capacity": "4.3 gal (15 l)"
+        },
+        "Transmission": {
+            "Max Speed": "32.3 mph (51 kph)",
+            "Number of Forward Gears": "10",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "electronically controlled, fully automatic planetary transmission"
+        },
+        "Weights": {
+            "Front Axle - empty": "19929.8 lbs (9,040 kg)",
+            "Front Axle - loaded": "25353.2 lbs (11,500 kg)",
+            "Rear Axle - empty": "19246.4 lbs (8,730 kg)",
+            "Rear Axle - loaded": "63427 lbs (28,770 kg)",
+            "Total Empty": "39176.2 lbs (17,770 kg)",
+            "Total Loaded": "88780.2 lbs (40,270 kg)"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/a904chd/30856003",
+    "source_url_id": "30856003",
+    "source_url_model": "a904chd",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:56.439540",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "A904CHD",
+    "equipment_spec": {
+        "Boom/Stick Mat. Handler Option 1": {
+            "Boom/Stick Option (MAT) 1": "6.6m boom / 4m stick",
+            "Max Depth": "7.3 ft (2 m)",
+            "Max Height": "39.4 ft (12 m)",
+            "Max Reach Along Ground": "33.8 ft (10 m)"
+        },
+        "Boom/Stick Mat. Handler Option 2": {
+            "Boom/Stick Option (MAT) 2": "6.6m boom / 5m stick",
+            "Max Depth": "10.5 ft (3 m)",
+            "Max Height": "42.7 ft (13 m)",
+            "Max Reach Along Ground": "37.1 ft (11 m)"
+        },
+        "Boom/Stick Mat. Handler Option 3": {
+            "Boom/Stick Option (MAT) 3": "6.6m boom / 4m stick and grapple model 65",
+            "Max Depth": "16.1 ft (5 m)",
+            "Max Height": "31.9 ft (9 m)",
+            "Max Reach Along Ground": "37.8 ft (11 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Shipping Height": "10.7 ft (3 m)",
+            "Shipping Length": "31.5 ft (9 m)",
+            "Undercarriage Width": "9.1 ft (3 m)",
+            "Upperstructure Clearance": "4.3 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo-charged and after-cooled reduced emissions",
+            "Displacement": "390.6 cu in (0 m)",
+            "Engine Model": "D 934 S",
+            "Gross Power": "143 hp (107 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "50 gal/min (189 l/min)",
+            "Pump Type": "Liebherr variable displacement swashplate double pump"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Fuel Capacity": "92.5 gal (348 l)",
+            "Hydraulic System Fluid Capacity": "46.3 gal (174 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/o Attachment": "53800 lbs (24,404 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "12.5 mph (19 kph)"
+        },
+        "Wheel Undercarriage": {
+            "Tire Size": "10.00-20",
+            "Wheelbase": "9.2 ft (3 m)",
+            "Width w/ Stabilizers on Ground": "14 ft (4 m)"
+        }
+    }
+}

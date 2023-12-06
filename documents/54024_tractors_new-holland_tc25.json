@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tc25/54024",
+    "source_url_id": "54024",
+    "source_url_model": "tc25",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:12.769458",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TC25",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "25 hp (19 kw)"
+        },
+        "Production": {
+            "Series": "Boomer TC Series",
+            "Years Manufactured": "1999 - 2003"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/takeuchi/tl120/30146599",
+    "source_url_id": "30146599",
+    "source_url_model": "tl120",
+    "source_url_make": "takeuchi",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:12.458188",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TL120",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "9.6 ft (3 m)",
+            "Ground Clearance": "0.9 in (0 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length - with Bucket": "10.6 ft (3 m)",
+            "Reach at Max Lift and Dump": "2 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "81 in (206 cm)",
+            "Turning Radius from Center - machine rear": "59.1 in (150 cm)",
+            "Width Over Tracks": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "119.3 cu in (0 m)",
+            "Engine Model": "4TNV84T",
+            "Gross Power": "52 hp (39 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "123 lbs/ft",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "1680 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "15.1 gal/min (57 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Operating Load": "1246 lbs (565 kg)",
+            "Tipping Angle": "3549  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "2.9 gal (8 l)",
+            "Engine Oil Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "15.3 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "7.8 gal (27 l)",
+            "Max Speed - high range": "5.8 mph (8 kph)",
+            "Max Speed - low range": "4 mph (6 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5952 lbs (2,700 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.6 psi",
+            "Length of Track on Ground": "4.1 ft (1 m)",
+            "Number of Track Rollers per Side": "4",
+            "Width of Track": "11.7 in (28 cm)"
+        }
+    }
+}

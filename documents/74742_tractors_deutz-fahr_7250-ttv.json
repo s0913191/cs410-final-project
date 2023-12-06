@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/7250-ttv/74742",
+    "source_url_id": "74742",
+    "source_url_model": "7250-ttv",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:15:17.476284",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "7250 TTV",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "236  hp"
+        },
+        "Production": {
+            "Series": "7 TTV Agrotron Series",
+            "Years Manufactured": "2012 -"
+        }
+    }
+}

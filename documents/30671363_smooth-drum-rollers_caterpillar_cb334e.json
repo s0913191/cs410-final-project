@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb334e/30671363",
+    "source_url_id": "30671363",
+    "source_url_model": "cb334e",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:39.334737",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB334E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Compaction Width": "51 in (130 cm)",
+            "Ground Clearance": "11.2 in (28 cm)",
+            "Height - Steering Wheel": "72 in (183 cm)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "100 in (254 cm)",
+            "Overall Length": "10.3 ft in (25 cm)",
+            "Overall Width": "4.6 ft (1 m)",
+            "Turning Radius - Inside": "118 in (300 cm)",
+            "Wheel Base": "7.6 ft (2 m)",
+            "Wheelbase": "7.7 in (18 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "7441.2 lbs (3,375 kg)",
+            "Drum Diameter": "31.5 in (79 cm)",
+            "Drum Width": "51.2 in (130 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "216.2 lbs/in",
+            "Vibration Frequency": "4140 hz (248,400 vpm)",
+            "Vibration Frequency 1": "69 hz (4,140 vpm)"
+        },
+        "Engine": {
+            "Bore": "3.3 in (8 cm)",
+            "Displacement": "135.3 cu in (0 m)",
+            "Engine Model": "3024C",
+            "Gross Power": "45.8 hp (34 kw)",
+            "Make": "Caterpillar",
+            "Net Power": "44.3 hp (33 kw)",
+            "Net Power - ISO 9249": "59.1 hp (44 kw)",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Curb Clearance": "23.5 in (58 cm)",
+            "Engine Oil Capacity": "2.9 gal (8 l)",
+            "Fuel Capacity": "15.1 gal (57 l)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Hydraulic System Fluid Capacity": "12.7 gal (45 l)",
+            "Max Speed": "7.8 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8686.3 lbs (3,940 kg)",
+            "Operating Width": "55 in (140 cm)",
+            "Travel Speed - Maximum": "8 mph (13 kph)",
+            "Turning Radius - Inside Drum Edge": "1416 in (3,597 cm)",
+            "Turning Radius - Outside Drum Edge": "169 in (429 cm)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank Capacity": "15 gal (57 l)",
+            "Water Spray Tank Capacity": "79 gal (299 l)"
+        },
+        "Vibratory System": {
+            "Centrifugal Force per Drum - Maximum": "7448 lbs (3,378 kg)",
+            "Drum Diameter": "31 in (79 cm)",
+            "Eccentric Weight Drive": "Hydraulic",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Vibration Selection": "front, rear or both"
+        },
+        "Weights": {
+            "Operating Weight - With ROPS/FOPS": "8688 lbs (3,941 kg)"
+        }
+    }
+}

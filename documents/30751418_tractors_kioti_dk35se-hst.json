@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kioti/dk35se-hst/30751418",
+    "source_url_id": "30751418",
+    "source_url_model": "dk35se-hst",
+    "source_url_make": "kioti",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:47.640031",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kioti",
+    "equipment_model": "DK35SE HST",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.4 in (36 cm)",
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Overall Length": "10.8 in (25 cm)",
+            "Tire Size": "front 7-16/6 rear 12.4-24/6",
+            "Wheelbase": "5.8 ft (2 m)",
+            "Width Outside Frame": "5.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "111.5 cu in (0 m)",
+            "Engine Model": "3B183LWH",
+            "Gross Power": "38 hp (28 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "27 hp (20 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15.3 gal/min (57 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2383.2 lbs (1,081 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "11.9 gal (42 l)",
+            "Operating Weight": "3666.3 lbs (1,663 kg)",
+            "Turning Radius": "9.4 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "16.1 mph (26 kph)",
+            "Number of Forward Gears": "3 range HST",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

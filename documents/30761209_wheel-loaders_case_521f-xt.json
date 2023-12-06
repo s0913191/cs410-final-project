@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/521f-xt/30761209",
+    "source_url_id": "30761209",
+    "source_url_model": "521f-xt",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:08.733090",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "521F XT",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Case",
+            "Net Power": "131 hp (98 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.0 cu yds (3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "25586 lbs (11,606 kg)"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/takeuchi/tw40/30131476",
+    "source_url_id": "30131476",
+    "source_url_model": "tw40",
+    "source_url_make": "takeuchi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:16.523592",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TW40",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Perkins",
+            "Model": "403D-15T",
+            "Net Power": "39.4 hp (29 kw)"
+        },
+        "Weights": {
+            "Operational Weight": "7275 lbs (3,300 kg)"
+        }
+    }
+}

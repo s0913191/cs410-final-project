@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/terex/sk-575/30855",
+    "source_url_id": "30855",
+    "source_url_model": "sk-575",
+    "source_url_make": "terex",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:29.326222",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "SK 575",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "260 ft (79 m)",
+            "Max Lift Capacity": "35 t (31,751 kg)"
+        }
+    }
+}

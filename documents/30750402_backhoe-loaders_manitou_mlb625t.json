@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/manitou/mlb625t/30750402",
+    "source_url_id": "30750402",
+    "source_url_model": "mlb625t",
+    "source_url_make": "manitou",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:59.016901",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Manitou",
+    "equipment_model": "MLB625T",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "14162.5 lbs (6,424 kg)",
+            "Dig Depth": "16.4 ft (5 m)",
+            "Load Height": "12.5 ft (4 m)",
+            "Reach From Swivel": "23.6 ft (7 m)"
+        },
+        "Dimensions": {
+            "Transport Length": "22.9 ft (7 m)",
+            "Transport Width": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "1104C44 T",
+            "Gross Power": "100 hp (75 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "48.7 gal/min (182 l/min)",
+            "Pump Type": "Gear"
+        },
+        "Loader": {
+            "Clearance at Max Dump Height": "17.2 ft (5 m)",
+            "Lift Capacity": "4629.8 lbs (2,100 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Operating Weight 4wd": "16446.5 lbs (7,460 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "15.6 mph (24 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "torque converter"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/9750-sts/30752497",
+    "source_url_id": "30752497",
+    "source_url_model": "9750-sts",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:36.039409",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "9750 STS",
+    "equipment_spec": {
+        "Capacities": {
+            "Crankcase oil volume": "7.6 gal (27 l)"
+        },
+        "Cleaning System": {
+            "Total Cleaning Area": "7053 cu in (0 m)"
+        },
+        "Electrical System": {
+            "Alternator": "95 Amp",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Displacement": "496 cu in (0 m)",
+            "Engine Make": "John Deere",
+            "Engine Model": "6081H",
+            "Number of Cylinders": "6",
+            "Power": "290 hp (216 kw)",
+            "Power Boost Power": "323 hp (241 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "251.2 bu",
+            "Unloading Speed": "2.2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "213.5 gal (806 l)",
+            "Hydraulic System Fluid Capacity": "9 gal (34 l)",
+            "Number of Gears": "3",
+            "Operating Weight w/o Attachment": "28836.5 lbs (13,080 kg)",
+            "Transmission Fluid Capacity": "2.6 gal (8 l)"
+        },
+        "Separating": {
+            "Separating Area": "1860 cu in (0 m)",
+            "Separator Length": "123.3 in (312 cm)"
+        }
+    }
+}

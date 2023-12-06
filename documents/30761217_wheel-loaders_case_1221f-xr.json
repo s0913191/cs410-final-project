@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/1221f-xr/30761217",
+    "source_url_id": "30761217",
+    "source_url_model": "1221f-xr",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:41:54.783307",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "1221F XR",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Net Power": "351 hp (262 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "9.2 cu yds (7 m)"
+        },
+        "Weights": {
+            "Operational Weight": "68563 lbs (31,100 kg)"
+        }
+    }
+}

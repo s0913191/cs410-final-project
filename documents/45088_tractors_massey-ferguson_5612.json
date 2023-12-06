@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/5612/45088",
+    "source_url_id": "45088",
+    "source_url_model": "5612",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:03.342168",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "5612",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Wheelbase": "8.4 ft (2 m)",
+            "Width Outside Frame": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "120 A",
+            "Aspiration": "Turbocharged",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Make": "AGCO Power",
+            "Engine Model": "44AWI",
+            "Gross Power": "115 hp (86 kw)",
+            "Number of Cylinders": "4",
+            "PTO Power": "90 hp (67 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic remote valves": "Mechanical and electronic control",
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "15 gal/min (57 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "49 gal (185 l)"
+        },
+        "Power Take-Off (PTO)": {
+            "Power Take-Off(PTO) Type": "Electro-hydraulic engagement and speed selection"
+        },
+        "Production": {
+            "Series": "5600 Series",
+            "Years Manufactured": "2013 -"
+        },
+        "Transmission": {
+            "Transmission Type": "Dyna-4 transmission with speed matching"
+        }
+    }
+}

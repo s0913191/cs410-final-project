@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/stw37/31076716",
+    "source_url_id": "31076716",
+    "source_url_model": "stw37",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:42.027191",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "STW37",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "36 hp (27 kw)"
+        },
+        "Production": {
+            "Series": "STW Series",
+            "Years Manufactured": "2015 -"
+        }
+    }
+}

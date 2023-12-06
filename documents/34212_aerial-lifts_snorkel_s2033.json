@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/s2033/34212",
+    "source_url_id": "34212",
+    "source_url_model": "s2033",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:30.843113",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "S2033",
+    "equipment_spec": {
+        "Dimensions": {
+            "Boom Type/Size": "SL ft (0 m)",
+            "Platform Size": "2.5x7.5 ft (1 m)",
+            "Stowed Height": "6.5 ft (2 m)",
+            "Stowed Width": "2.8 ft (1 m)"
+        },
+        "Performance": {
+            "Max Speed": "2 mph (3 kph)",
+            "Operating Weight": "3750.1 lbs (1,701 kg)",
+            "Tire Fill/Type": "Solid Rubber",
+            "Tire Size": "4x16"
+        },
+        "Platform": {
+            "Deck Extension": "36 in (91 cm)",
+            "Height of Rails": "3.5 ft (1 m)",
+            "Lift Time": "20 sec",
+            "Max Platform Height": "20.1 ft (6 m)",
+            "Max Platform Weight Capacity": "800.3 lbs (363 kg)",
+            "Platform Inner Length": "90.2 in (229 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        },
+        "Capacity": {
+            "Platform Capacity": "800 lbs (363 kg)"
+        },
+        "Tires": {
+            "Tire Size": "16x5"
+        },
+        "Transmission": {
+            "4WD": "Std"
+        }
+    }
+}

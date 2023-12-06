@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rakes-tedders/international/12rbs/30761999",
+    "source_url_id": "30761999",
+    "source_url_model": "12rbs",
+    "source_url_make": "international",
+    "source_url_category": "rakes-tedders",
+    "source_date_scraped": "2023-09-13 17:08:24.895520",
+    "equipment_category": "Rakes / Tedders",
+    "equipment_make": "International",
+    "equipment_model": "12RBS",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "18x6.83 ft (5 m)"
+        },
+        "Engine": {
+            "Speed Rating": "65 mph (105 kph)"
+        },
+        "Weights": {
+            "Equipment Weight": "3250 lbs (1,474 kg)",
+            "Weight Capacity": "12000 lbs (5,443 kg)"
+        }
+    }
+}

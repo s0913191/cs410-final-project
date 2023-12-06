@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/balkancar/record-er-63033222-s/30757800",
+    "source_url_id": "30757800",
+    "source_url_model": "record-er-63033222-s",
+    "source_url_make": "balkancar",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:23:21.120966",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Balkancar",
+    "equipment_model": "Record ER 630.33.222 S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.2 in (8 cm)",
+            "Height to Top of Overhead Guard": "6.8 ft (2 m)",
+            "Length to Fork Face": "6.4 ft (2 m)",
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "7.3 ft (2 m)",
+            "Overall Width": "3.3 ft (1 m)",
+            "Turning Radius": "5.8 ft (2 m)",
+            "Wheelbase": "4.2 ft (1 m)"
+        },
+        "Engine": {
+            "Fuel Type": "battery",
+            "Power": "10.1 hp (7 kw)"
+        },
+        "MAST": {
+            "Lift Speed": "55.2 ft/min",
+            "Load Capacity": "2755.8 lbs (1,250 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Lower Speed": "59.1 ft/min",
+            "Mast Tip Forward": "4  \t\u00b0",
+            "Mast Tip Rear": "8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "8.1 mph (13 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "6142.1 lbs (2,786 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/skyjack/sjiii-3226/30758108",
+    "source_url_id": "30758108",
+    "source_url_model": "sjiii-3226",
+    "source_url_make": "skyjack",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:11.499224",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Skyjack",
+    "equipment_model": "SJIII 3226",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "30%",
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Height w/ Rails": "6.6 ft (2 m)",
+            "Height w/o Rails": "5.3 ft (2 m)",
+            "Overall Length": "7.6 in (18 cm)",
+            "Overall Width": "2.7 ft (1 m)",
+            "Turning Radius": "4.2 ft (1 m)",
+            "Wheelbase": "6 ft (2 m)"
+        },
+        "Engine": {
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Load capacity": "500.5 lbs (227 kg)",
+            "Max Speed": "2 mph (3 kph)",
+            "Operating Weight": "3509.8 lbs (1,592 kg)",
+            "Tire Fill/Type": "Solid, N/M",
+            "Tire Size": "16 x 5 x 12"
+        },
+        "Platform": {
+            "Deck Extension": "35.9 in (89 cm)",
+            "Lift Time": "56 sec",
+            "Lower Time": "42 sec",
+            "Max Platform Height": "26 ft (8 m)",
+            "Max Platform Weight Capacity": "899.5 lbs (408 kg)",
+            "Max Working Height": "32 ft (10 m)",
+            "Platform Height - Lowered": "3740.2 ft (1,140 m)",
+            "Platform Inner Length": "83.9 in (211 cm)",
+            "Platform Inner Width": "28 in (71 cm)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tg245/8685598",
+    "source_url_id": "8685598",
+    "source_url_model": "tg245",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:21.085876",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TG245",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "248 hp (185 kw)"
+        },
+        "Production": {
+            "Series": "TG II Series",
+            "Years Manufactured": "2006 - 2007"
+        }
+    }
+}

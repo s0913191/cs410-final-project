@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d7r-xr-ii/30750645",
+    "source_url_id": "30750645",
+    "source_url_model": "d7r-xr-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:28.554540",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D7R XR II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16.4 ft (5 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Length of Track on Ground": "12 ft (4 m)",
+            "Length w/ Blade": "19.8 ft (6 m)",
+            "Length w/o Blade": "15.5 ft (5 m)",
+            "Width Over Tracks": "8.5 ft in (20 cm)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "3176C",
+            "Net Power": "240 hp (179 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "47.6 gal/min (178 l/min)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "59540 lbs (27,007 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "9 cu yds (7 m)",
+            "Height": "60 in (152 cm)",
+            "Width": "12.1 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.6 mph (10 kph)",
+            "Max Speed - Reverse": "8.5 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5760 cu in (0 m)",
+            "Ground Pressure": "9.8 psi",
+            "Number of Shoes per Side": "41",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "6.5 ft (2 m)",
+            "Track Pitch": "8.5 in (20 cm)"
+        }
+    }
+}

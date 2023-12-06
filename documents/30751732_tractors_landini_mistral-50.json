@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/landini/mistral-50/30751732",
+    "source_url_id": "30751732",
+    "source_url_model": "mistral-50",
+    "source_url_make": "landini",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:46.861275",
+    "equipment_category": "Tractors",
+    "equipment_make": "Landini",
+    "equipment_model": "Mistral 50",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "7.2 ft (2 m)",
+            "Overall Length": "10.9 in (25 cm)",
+            "Tire Size": "360/70R24",
+            "Wheelbase": "5.6 ft (2 m)",
+            "Width Outside Frame": "4.3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "133.5 cu in (0 m)",
+            "Engine Model": "4TNV88-KLAN",
+            "Gross Power": "47.5 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "PTO Power": "43 hp (32 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "12.5 gal/min (45 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Operating Weight": "3212 lbs (1,457 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "Basic"
+        }
+    }
+}

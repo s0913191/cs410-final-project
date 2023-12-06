@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca1500pd/30146821",
+    "source_url_id": "30146821",
+    "source_url_model": "ca1500pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:31.920543",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA1500PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "14 in (36 cm)",
+            "Gradeability": "55%",
+            "Ground Clearance": "13 in (33 cm)",
+            "Height - Top of ROPS/FOPS": "9 ft (3 m)",
+            "Overall Length": "17.4 in (43 cm)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Overhang Front": "0.4 ft (0 m)",
+            "Overhang Rear": "0.4 ft (0 m)",
+            "Turning Radius - Inside": "10 ft (3 m)",
+            "Turning Radius - Outside": "16 ft (5 m)",
+            "Wheelbase": "106 in (269 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "29900 lbs (13,563 kg)",
+            "Centrifugal Force - Low": "16200 lbs (7,348 kg)",
+            "Drum Diameter": "48 in (122 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "66 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Pad Height": "3 in (8 cm)",
+            "Pad Surface Area": "13 cu in (0 m)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB3.3",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "99.3 hp (74 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "50 gal (189 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "17000 lbs (7,711 kg)",
+            "Operating weight ROPS": "15500 lbs (7,031 kg)",
+            "Tire Size": "14.9 x 24 TL"
+        }
+    }
+}

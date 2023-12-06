@@ -1,0 +1,121 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/3025/3132",
+    "source_url_id": "3132",
+    "source_url_model": "3025",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:57.130467",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "302.5",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "14 in (36 cm)",
+            "Blade Lift Height": "13 in (33 cm)",
+            "Blade Width": "4.8 ft (1 m)",
+            "Dig Depth": "11 in (28 cm)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "14.4 ft (4 m)",
+            "Max Digging Depth": "8.7 ft (2 m)",
+            "Max Loading Height": "10.2 ft (3 m)",
+            "Max Reach Along Ground": "15 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "7 ft (2 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "14.9 ft (4 m)",
+            "Max Digging Depth": "9.7 ft (3 m)",
+            "Max Loading Height": "10.7 ft (3 m)",
+            "Max Reach Along Ground": "16.2 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "7.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Center Ground Clearance": "1 ft (0 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Over Cab": "7.6 ft (2 m)",
+            "Height - Over Canopy": "7.6 ft (2 m)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Length of Track on Ground": "4.9 ft (1 m)",
+            "Maximum Cutting Height - Long Stick": "14.9 ft (4 m)",
+            "Maximum Cutting Height - Standard Stick": "14.4 ft (4 m)",
+            "Maximum Digging Depth - Long Stick": "9.7 ft (3 m)",
+            "Maximum Digging Depth - Standard Stick": "8.7 ft (2 m)",
+            "Maximum Dump Height - Long Stick": "10.7 ft (3 m)",
+            "Maximum Dump Height - Standard Stick": "10.2 ft (3 m)",
+            "Maximum Horizontal Reach - Long Stick": "16.2 ft (5 m)",
+            "Maximum Horizontal Reach - Standard Stick": "15.4 ft (5 m)",
+            "Maximum Reach - Ground Level - Long Stick": "15.9 ft (5 m)",
+            "Maximum Reach - Ground Level - Standard Stick": "15 ft (5 m)",
+            "Maximum Vertical Dig Depth - Long Stick": "7.9 ft (2 m)",
+            "Maximum Vertical Dig Depth - Standard Stick": "7 ft (2 m)",
+            "Removal Counterweight Clearance": "1.9 ft (0 m)",
+            "Shipping Length": "14.9 ft (4 m)",
+            "Stick Length - Long Stick": "4.7 ft (1 m)",
+            "Stick Length - Standard Stick": "3.7 ft (1 m)",
+            "Swing Radius - Rear": "4.2 ft (1 m)",
+            "Tail Swing Radius": "4.2 ft (1 m)",
+            "Track Gauge": "3.8 ft (1 m)",
+            "Track Shoe Width": "12 ft (4 m)",
+            "Width - Over Track": "4.8 ft (1 m)",
+            "Width - Upper Structure": "4.5 ft (1 m)",
+            "Width to Outside of Tracks": "3.8 ft (1 m)"
+        },
+        "Electrical System": {
+            "Electrical System Type": "Twelve-volt system"
+        },
+        "Engine": {
+            "Bore": "3 in (8 cm)",
+            "Displacement": "91.3 cu in (0 m)",
+            "Engine Model": "3013",
+            "Net Power": "24.1 hp (18 kw)",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Auxiliary Circuit - Primary (245 bar/3,553 psi)": "13.5 gal/min (49 l/min)",
+            "Digging Force - Bucket": "4928 lbs (2,235 kg)",
+            "Digging Force - Stick - Long": "2665 lbs (1,209 kg)",
+            "Digging Force - Stick - Standard": "3124 lbs (1,417 kg)",
+            "Operating Pressure - Equipment": "2987 psi",
+            "Operating Pressure - Swing": "2494 psi",
+            "Operating Pressure - Travel": "2987 psi",
+            "Pump - Gear (Single)": "4.9 gal/min (15 l/min)",
+            "Pump - Gear (Tandem)": "8.8 gal/min (30 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "11 gal (42 l)",
+            "Hydraulic System Fluid Capacity": "13.3 gal (49 l)",
+            "Hydraulic System Relief Valve Pressure": "2987 psi",
+            "Operating Weight": "6027.5 lbs (2,734 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System TAG": "1.1 gal (4 l)",
+            "Engine Oil": "1.5 gal (4 l)",
+            "Fuel Tank": "10.8 gal (38 l)",
+            "Hydraulic System": "13 gal (49 l)",
+            "Hydraulic Tank": "9.4 gal (34 l)"
+        },
+        "Swing System": {
+            "Boom Swing - Left - With Stop": "55  \t\u00b0",
+            "Boom Swing - Left - Without Stop": "90  \t\u00b0",
+            "Boom Swing - Right": "50  \t\u00b0",
+            "Machine Swing Speed": "9 rpm",
+            "Swing System Type": "Hydraulic Motor Driven"
+        },
+        "Travel System": {
+            "Maximum Traction Force - High Speed": "2475 lbs (1,123 kg)",
+            "Maximum Traction Force - Low Speed": "4950 lbs (2,245 kg)",
+            "Travel Speed - High": "2.8 mph (3 kph)",
+            "Travel Speed - Low": "1.6 mph (2 kph)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "4950 lbs (2,245 kg)",
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Shoe Size": "11.9 in (28 cm)",
+            "Track Gauge": "3.8 ft (1 m)"
+        },
+        "Weights": {
+            "Operating Weight": "5762 lbs (2,614 kg)",
+            "Operating Weight - With Cab": "6015 lbs (2,728 kg)"
+        }
+    }
+}

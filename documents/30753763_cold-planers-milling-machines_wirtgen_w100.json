@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/wirtgen/w100/30753763",
+    "source_url_id": "30753763",
+    "source_url_model": "w100",
+    "source_url_make": "wirtgen",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:59.353686",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Wirtgen",
+    "equipment_model": "W100",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Collecting Conveyor Width": "19.7 in (48 cm)",
+            "Discharge Conveyor Width": "19.7 in (48 cm)"
+        },
+        "Dimensions": {
+            "Max Operating Height": "15 ft (5 m)",
+            "Operating Length": "34.5 ft (10 m)",
+            "Shipping Height": "8.7 ft (2 m)",
+            "Shipping Length": "15.6 ft (5 m)",
+            "Shipping Width": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "369.7 cu in (0 m)",
+            "Engine Model": "TCD 2012 L06 2V",
+            "Gross Power": "208 hp (155 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Operating Speed": "98.5 ft/min",
+            "Operating Voltage": "24 V",
+            "Operating Weight - Full Load": "33069.4 lbs (15,000 kg)",
+            "Shipping Weight - Empty": "29762.5 lbs (13,500 kg)",
+            "Travel Speed": "3.8 mph (5 kph)",
+            "Water Spray System Fluid Capacity": "237.8 gal (897 l)"
+        },
+        "Rotary Cutter": {
+            "Cutter Diameter": "36.7 in (91 cm)",
+            "Cutting Depth": "11.9 in (28 cm)",
+            "Cutting Width": "3.3 ft (1 m)",
+            "Number of Tools": "100",
+            "Tool Spacing": "0.6 in (0 cm)"
+        }
+    }
+}

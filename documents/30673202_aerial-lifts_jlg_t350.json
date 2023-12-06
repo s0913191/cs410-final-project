@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/t350/30673202",
+    "source_url_id": "30673202",
+    "source_url_model": "t350",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:29.608390",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "T350",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 in (3 cm)",
+            "Outrigger Footprint Length": "11.7 ft (3 m)",
+            "Overall Height - mast lowered": "6.6 ft (2 m)",
+            "Overall Length": "21.9 in (53 cm)",
+            "Overall Width": "4.9 ft (1 m)",
+            "Platform Dimension A": "2.6 ft (1 m)",
+            "Platform Dimension B": "4 ft (1 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "220",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Hydraulic System": {
+            "Hydraulic Reservoir": "4 gal (15 l)"
+        },
+        "Performance": {
+            "Operating Weight": "3400 lbs (1,542 kg)",
+            "Platform Capacity": "500 lbs (227 kg)",
+            "Swing": "410  \t\u00b0",
+            "Tire Fill/Type": "Pneumatic",
+            "Tire Size": "205-75 R14"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "20.2 ft (6 m)",
+            "Max Platform Height": "34.5 ft (10 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Platform Inner Length": "48.1 in (122 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl940/5493330",
+    "source_url_id": "5493330",
+    "source_url_model": "hl940",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:33.901053",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL940",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "24800 lbs (11,249 kg)",
+            "Bucket Capacity - heaped": "3.1 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.7 cu yds (2 m)",
+            "Bucket Width": "8.6 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Length with Bucket on Ground": "24.4 ft (7 m)",
+            "Reach at Max Lift and Dump": "5.1 ft (2 m)",
+            "Wheelbase": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry, Two stage dual elements",
+            "Aspiration": "Turbocharged",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Make": "CUMMINS",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "158 hp (118 kw)",
+            "Make": "Cummins",
+            "Model": "QSB6.7",
+            "Net Power": "156 hp (116 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "4.9 in (10 cm)",
+            "Torque": "622 lbs/ft",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "39 gal/min (148 l/min)",
+            "Pump Type": "Variable displacement piston pump",
+            "Raise Time": "5.5 sec",
+            "Relief Valve Pressure": "2987 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Hydraulic System Fluid Capacity": "34.4 gal (129 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "28880.6 lbs (13,100 kg)",
+            "Rated Bucket Capacity": "3.0 cu yds (2 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "6.4 gal (23 l)",
+            "Tire Size": "20.5 R25",
+            "Transmission Fluid Capacity": "7.2 gal (27 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "26.1 mph (42 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Full automatic power shift"
+        },
+        "Weights": {
+            "Operational Weight": "29320 lbs (13,300 kg)"
+        }
+    }
+}

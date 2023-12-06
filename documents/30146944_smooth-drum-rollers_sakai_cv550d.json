@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/cv550d/30146944",
+    "source_url_id": "30146944",
+    "source_url_model": "cv550d",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:26.123637",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "CV550D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "160 in (406 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "1,800-2,400 hz (108,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Isuzu BB-6BG1T"
+        },
+        "Operating Specifications": {
+            "Operating Width": "84 in (213 cm)"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca5500pd/30753871",
+    "source_url_id": "30753871",
+    "source_url_model": "ca5500pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:37.075155",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA5500PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "17.8 in (43 cm)",
+            "Gradeability": "42%",
+            "Ground Clearance": "17.8 in (43 cm)",
+            "Height": "7 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "9.5 ft (3 m)",
+            "Overall Length": "245.7 in (622 cm)",
+            "Overall length": "20.5 ft (6 m)",
+            "Overhang Front": "0.4 ft (0 m)",
+            "Overhang Rear": "0.4 ft in (0 cm)",
+            "Turning Radius - Inside": "10.9 ft in (25 cm)",
+            "Turning Radius - Outside": "19.1 ft (6 m)",
+            "Wheelbase": "122.1 in (310 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "80931.3 lbs (36,710 kg)",
+            "Centrifugal Force - Low": "33721.4 lbs (15,296 kg)",
+            "Drum Diameter": "60.9 in (152 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "130",
+            "Pad Height": "4.1 in (10 cm)",
+            "Pad Surface Area": "22.7 cu in (0 m)",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibration Frequency 2": "30 hz (1,800 vpm)",
+            "Vibratory Frequency 2": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD2012L06",
+            "Gross Power": "174 hp (130 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "71.9 gal (269 l)",
+            "Operating Weight": "40785.6 lbs (18,500 kg)",
+            "Operating weight Cabin": "40124.2 lbs (18,200 kg)",
+            "Operating weight ROPS": "39683.3 lbs (18,000 kg)",
+            "Tire Size": "23,1 x 26"
+        },
+        "Tires": {
+            "Tires": "23,1 x 26"
+        }
+    }
+}

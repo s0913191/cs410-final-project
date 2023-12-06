@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/steiger-580/30840642",
+    "source_url_id": "30840642",
+    "source_url_model": "steiger-580",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:02.531754",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "STEIGER 580",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "580 hp (433 kw)"
+        },
+        "Production": {
+            "Series": "Steiger 4WD Series",
+            "Years Manufactured": "2014 -"
+        }
+    }
+}

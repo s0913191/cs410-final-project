@@ -1,0 +1,116 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/980k/6689",
+    "source_url_id": "6689",
+    "source_url_model": "980k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:54.138356",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "980K",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed",
+            "Maximum Single-Wheel Rise and Fall": "21.6 in (53 cm)",
+            "Rear": "Oscillating ?13  \t\u00b0"
+        },
+        "Brakes": {
+            "Brakes": "Meet OSHA, SAE J1473 OCT90 and ISO 3450-1985 required standards"
+        },
+        "Bucket": {
+            "Breakout Force": "61425 lbs (27,862 kg)",
+            "Bucket Capacities": "5.25 - 16 cu yds (4 - 12 m)",
+            "Bucket Capacity - heaped": "5.5 cu yds (4 m)",
+            "Bucket Capacity - struck": "4.8 cu yds (3 m)",
+            "Bucket Width": "11.6 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.9 ft (3 m)"
+        },
+        "Cab": {
+            "ROPS/FOPS": "Meets SAE and ISO standards"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "12.4 ft (4 m)",
+            "Hinge Pin - Max Height": "14.8 ft (4 m)",
+            "Length with Bucket on Ground": "31.1 ft (9 m)",
+            "Reach at Max Lift and Dump": "5.1 ft (2 m)",
+            "Wheelbase": "12.2 ft (4 m)",
+            "Width Over Tires": "10.6 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "5.1 in (13 cm)",
+            "Displacement": "762.8 cu in (0 m)",
+            "Engine Model": "Cat C13 ACERT",
+            "Gross Power": "355 hp (265 kw)",
+            "Maximum Gross Power - ISO 14396": "402 hp (300 kw)",
+            "Maximum Net Power - 1,800 rpm - EEC 80/1269": "369 hp (275 kw)",
+            "Maximum Net Power - 1,800 rpm - EEC 80/1269 - Metric": "373 hp (278 kw)",
+            "Net Power": "369 hp (275 kw)",
+            "Net Power - ISO 9249": "369 hp (275 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "6.2 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.1 sec",
+            "Hydraulic Cycle Time - Dump, at Maximum Raise": "1.7 sec",
+            "Hydraulic Cycle Time - Lower, Empty, Float Down": "3.3 sec",
+            "Hydraulic Cycle Time - Raise from Carry Position": "6.4 sec",
+            "Hydraulic Cycle Time - Total": "11.4 sec",
+            "Implement System - Maximum Operating Pressure": "4496 psi",
+            "Implement System - Optional 3rd Function Maximum Flow": "79.3 gal/min (299 l/min)",
+            "Implement System - Optional 3rd Function Maximum Pressure": "3000 psi",
+            "Lower Time": "3.4 sec",
+            "Pump Flow Capacity": "123 gal/min (466 l/min)",
+            "Pump Type": "Gear",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "3000 psi",
+            "Steering System - Pump Type": "Piston"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Breakout Force": "53548 lbs (24,289 kg)",
+            "Cooling System Fluid Capacity": "22 gal (83 l)",
+            "Engine Oil Fluid Capacity": "10 gal (38 l)",
+            "Front Axle/Diff Fluid Capacity": "23 gal (87 l)",
+            "Fuel Capacity": "127 gal (481 l)",
+            "Hydraulic System Fluid Capacity": "66 gal (250 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "66489.3 lbs (30,159 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "23 gal (87 l)",
+            "Static Tipping Weight": "50201 lbs (22,771 kg)",
+            "Tire Size": "29.5-25",
+            "Transmission Fluid Capacity": "16 gal (61 l)",
+            "Turning Radius": "26.1 ft (8 m)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "16.6 gal (61 l)",
+            "Crankcase": "9.8 gal (34 l)",
+            "Differential - Final Drives - Front": "22.2 gal (83 l)",
+            "Differential - Final Drives - Rear": "22.2 gal (83 l)",
+            "Fuel Tank - Standard": "118.1 gal (447 l)",
+            "Hydraulic Tank": "44.9 gal (167 l)",
+            "Transmission": "17.4 gal (64 l)"
+        },
+        "Sound": {
+            "Standards": "Standards"
+        },
+        "Tires": {
+            "Note (1)": "Caterpillar recommends that you consult a tire supplier to evaluate all conditions before selecting a tire model.",
+            "Note (2)": "Other special tires are available on request.",
+            "Note (3)": "In certain applications, the loader's productive capabilities might exceed the tires' tonnes-km/h (ton-mph) capabilities.",
+            "Tires": "Choices"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.6 mph (35 kph)",
+            "Max Speed - Reverse": "25.8 mph (40 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Powershift"
+        },
+        "Weights": {
+            "Operating Weight": "68862 lbs (31,236 kg)"
+        }
+    }
+}

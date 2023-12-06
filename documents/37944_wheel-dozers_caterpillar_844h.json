@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-dozers/caterpillar/844h/37944",
+    "source_url_id": "37944",
+    "source_url_model": "844h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-dozers",
+    "source_date_scraped": "2023-09-13 16:41:15.066885",
+    "equipment_category": "Wheel Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "844H",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Capacity": "20.7 cu yds (15 m)",
+            "Blade Height": "6.7 ft (2 m)",
+            "Blade Width": "17.8 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "16.6 ft (5 m)",
+            "Length with Blade on Ground": "36 ft (11 m)",
+            "Wheelbase": "15.1 ft (5 m)"
+        },
+        "Engine": {
+            "Displacement": "1666 cu in (0 m)",
+            "Engine Make": "2236",
+            "Engine Model": "27 ACERT",
+            "Gross Power": "627 hp (468 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque Rise": "31%"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Axle Oscillation": "11  \t\u00b0",
+            "Cooling System Fluid Capacity": "39.6 gal (148 l)",
+            "Engine Oil Capacity": "25 gal (95 l)",
+            "Front Diff Fluid Capacity": "71.6 gal (269 l)",
+            "Fuel Capacity": "268.4 gal (1,014 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "156120 lbs (70,816 kg)",
+            "Rear Diff Fluid Capacity": "68.9 gal (257 l)",
+            "Steering Angle": "35  \t\u00b0",
+            "Tire Size": "45/65 T39 XLD D1 (L4)",
+            "Transmission Fluid Capacity": "29 gal (110 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "14 mph (23 kph)",
+            "Max Speed - Reverse": "15.4 mph (24 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

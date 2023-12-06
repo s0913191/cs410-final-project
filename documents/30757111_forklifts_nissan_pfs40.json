@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/nissan/pfs40/30757111",
+    "source_url_id": "30757111",
+    "source_url_model": "pfs40",
+    "source_url_make": "nissan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:37:49.653390",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Nissan",
+    "equipment_model": "PFS40",
+    "equipment_spec": {
+        "Dimensions": {
+            "Counterweight Clearance": "3.5 ft (1 m)",
+            "Free lift": "6.3 in (15 cm)",
+            "Gradeability": "33%",
+            "Ground Clearance": "5.9 in (13 cm)",
+            "Length to Fork Face": "7.7 ft (2 m)",
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "7.1 ft (2 m)",
+            "Overall Width": "3.5 ft (1 m)",
+            "Right Angle Stack": "8 ft (2 m)",
+            "Turning Radius": "6.6 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "2065 cu in (0 m)",
+            "Engine Make": "Nissan Forklift",
+            "Engine Model": "MP1F1A20JV / LV / DV",
+            "Model Name": "Nissan K21",
+            "Power": "55 hp (41 kw)",
+            "Power Measured @": "2700 rpm",
+            "Torque Measured @": "2000 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "122 ft/min",
+            "Load Capacity": "4000 lbs (1,814 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "98.4 ft/min"
+        },
+        "Operating Specifications": {
+            "Drawbar Pull": "3705 lbs (1,681 kg)",
+            "Max Speed": "11.8 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "6503.7 lbs (2,950 kg)",
+            "Tire Size": "Front - 6.50-10 Solid, Rear - 5.00-8 Soild",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/feller-bunchers/tigercat/860c/44893",
+    "source_url_id": "44893",
+    "source_url_model": "860c",
+    "source_url_make": "tigercat",
+    "source_url_category": "feller-bunchers",
+    "source_date_scraped": "2023-09-13 17:50:44.081974",
+    "equipment_category": "Feller Bunchers",
+    "equipment_make": "Tigercat",
+    "equipment_model": "860C",
+    "equipment_spec": {
+        "Boom": {
+            "Bare Pin Lift at Max Reach": "13316 lbs (6,040 kg)",
+            "Max Cut Radius": "27.8 ft (8 m)",
+            "Min Cut Radius": "15.8 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.4 in (5 cm)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Overall Length": "17.7 ft (5 m)",
+            "Overall Width": "10.8 ft (3 m)",
+            "Tail Swing Radius": "4.8 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSL9",
+            "Gross Power": "300 hp (224 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "110  A",
+            "Fuel Capacity": "256.3 gal (969 l)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/o Attachment": "60252.4 lbs (27,330 kg)"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "24.1 in (61 cm)",
+            "Track Pitch": "7.9 in (18 cm)",
+            "Tractive Effort": "60000 lbs (27,216 kg)"
+        }
+    }
+}

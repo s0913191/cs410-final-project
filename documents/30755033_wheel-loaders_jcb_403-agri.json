@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/403-agri/30755033",
+    "source_url_id": "30755033",
+    "source_url_model": "403-agri",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:48.806618",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "403 AGRI",
+    "equipment_spec": {
+        "Axles": {
+            "Axle oil front": "0.9 gal (0 l)",
+            "Axle oil rear": "1.1 gal (4 l)"
+        },
+        "Bucket": {
+            "Breakout Force": "2832.6 lbs (1,285 kg)",
+            "Dump Clearance at Max Raise": "6.6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Height - Top of Cab": "7.3 ft (2 m)",
+            "Hinge Pin - Max Height": "9.5 ft (3 m)",
+            "Length with Bucket on Ground": "14.4 ft (4 m)",
+            "Reach at Max Lift and Dump": "1.7 ft (0 m)",
+            "Wheelbase": "5.3 ft (2 m)",
+            "Width Over Tires": "4.7 ft (1 m)"
+        },
+        "Electrical System": {
+            "Alternator": "60 Ah",
+            "Battery capacity": "72 Ah",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Air cleaner": "Donaldson FPG057502",
+            "Aspiration": "Naturally aspirated",
+            "Displacement": "91.5 cu in (0 m)",
+            "Emissions level": "Stage 3A",
+            "Engine Make": "Kubota",
+            "Engine Model": "V1505",
+            "Fan drive type": "Direct mount",
+            "Gross Power": "36 hp (27 kw)",
+            "No. of Valves": "4",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm",
+            "Torque Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "2610.7": "180 bar psi",
+            "Dump Time": "2.7 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "10.7 gal/min (38 l/min)",
+            "Pump Type": "Gear",
+            "Raise Time": "4.4 sec"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "1.8 gal (4 l)",
+            "Engine Oil Fluid Capacity": "1.8 gal (4 l)",
+            "Fuel Capacity": "12.7 gal (45 l)",
+            "Hydraulic System Fluid Capacity": "10.6 gal (38 l)",
+            "Operating Weight": "5527 lbs (2,507 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "18.7 mph (29 kph)",
+            "Max Speed - Reverse": "18.7 mph (29 kph)",
+            "Transmission Type": "ZF / Bosch-Rexroth"
+        }
+    }
+}

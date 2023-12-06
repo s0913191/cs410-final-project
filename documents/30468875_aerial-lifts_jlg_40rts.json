@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/40rts/30468875",
+    "source_url_id": "30468875",
+    "source_url_model": "40rts",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:42.396121",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "40RTS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12 in (30 cm)",
+            "Height w/o Rails": "5.7 ft (2 m)",
+            "Overall Length": "12.5 in (30 cm)",
+            "Overall Width": "7.6 ft (2 m)",
+            "Turning Radius": "11.3 ft (3 m)",
+            "Wheelbase": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "VSG-413",
+            "Fuel Type": "Dual",
+            "Gross Power": "35 hp (26 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "15 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "20 gal (76 l)",
+            "Max Speed": "3.5 mph (5 kph)",
+            "Operating Weight": "10400 lbs (4,717 kg)",
+            "Tire Size": "12x16.5"
+        },
+        "Platform": {
+            "Deck Extension": "48.1 in (122 cm)",
+            "Height of Rails": "3.7 ft (1 m)",
+            "Lift Time": "65 sec",
+            "Lower Time": "35 sec",
+            "Max Platform Height": "39.6 ft (12 m)",
+            "Max Platform Weight Capacity": "1000 lbs (454 kg)",
+            "Platform Inner Length": "126 in (320 cm)",
+            "Platform Inner Width": "70.9 in (178 cm)"
+        }
+    }
+}

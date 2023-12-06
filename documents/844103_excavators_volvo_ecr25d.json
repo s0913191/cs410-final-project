@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ecr25d/844103",
+    "source_url_id": "844103",
+    "source_url_model": "ecr25d",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:06.543982",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "ECR25D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "96.9 ft (29 m)",
+            "Max Reach Along Ground": "176.5 ft (54 m)"
+        },
+        "Engine": {
+            "Bore": "2.9 in (5 cm)",
+            "Displacement": "898 cu in (0 m)",
+            "Engine Model": "DO.9A",
+            "Fuel tank": "5.3 gal (19 l)",
+            "Max Power": "2400 rpm",
+            "Max Torque": "1475.2 lbs/ft",
+            "Net Power": "15.6 hp (11 kw)",
+            "Number of Cylinders": "3",
+            "Rated engine speed": "2420 rpm",
+            "Stroke": "2.9 in (5 cm)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "5737 lbs (2,602 kg)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Capacities": {
+            "Engine coolant": "1.1 gal (4 l)",
+            "Engine Oil": "1 gal (4 l)",
+            "Hydraulic Tank": "4 gal (15 l)",
+            "Hydraulic tank - Total system": "5.6 gal (19 l)",
+            "Travel reduction": "0.7 gal (0 l)"
+        },
+        "Dimensions": {
+            "Tail Swing Radius": "3.6 ft (1 m)",
+            "Track length": "75.1 in (191 cm)"
+        },
+        "Electrical System": {
+            "Battery capacity": "64 Ah",
+            "Voltage": "12 V"
+        },
+        "Loader": {
+            "Breakout Force": "4554 (IBF)"
+        },
+        "Performance": {
+            "Gradeability": "30%",
+            "Travel speed  low": "2.5 mph (3 kph)",
+            "Travel Speed - High": "4.7 mph (6 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.5 rpm",
+            "Swing Torque": "224.3 lbs/ft"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "446021 lbs (202,314 kg)",
+            "Number of bottom rollers per side": "4",
+            "Number of top rollers per side": "0",
+            "Shoe width - rubber": "9.9 in (23 cm)",
+            "Track tension": "by grease piston"
+        }
+    }
+}

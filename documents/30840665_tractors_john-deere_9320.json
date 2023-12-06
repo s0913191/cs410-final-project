@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/9320/30840665",
+    "source_url_id": "30840665",
+    "source_url_model": "9320",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:02.527346",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "9320",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "Inboard Planetary"
+        },
+        "Dimensions": {
+            "Tire Size": "710/70 R38",
+            "Wheelbase": "11.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and air-to-air aftercooled",
+            "Displacement": "766 cu in (0 m)",
+            "Gross Power": "375 hp (280 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "333.5 hp (248 kw)",
+            "Torque Rise": "40%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30 gal/min (114 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "13871 lbs (6,292 kg)",
+            "Fuel Capacity": "270 gal (1,022 l)",
+            "Operating Weight": "34326 lbs (15,570 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "24-speed powr-sync"
+        }
+    }
+}

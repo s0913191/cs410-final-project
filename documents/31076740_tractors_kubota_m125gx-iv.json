@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m125gx-iv/31076740",
+    "source_url_id": "31076740",
+    "source_url_model": "m125gx-iv",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:31:34.965322",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M125GX-IV",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "133 hp (99 kw)"
+        },
+        "Production": {
+            "Series": "MGX IV Series",
+            "Years Manufactured": "2018 -"
+        }
+    }
+}

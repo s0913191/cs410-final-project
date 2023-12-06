@@ -1,0 +1,86 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk230srlc-5/30749738",
+    "source_url_id": "30749738",
+    "source_url_model": "sk230srlc-5",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:28.055098",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK230SRLC-5",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Crowd Force - SAE": "21200 lbs (9,616 kg)",
+            "Arm Crowd Force-ISO": "21800 lbs (9,888 kg)",
+            "Bucket Digging Force - ISO": "29700 lbs (13,472 kg)",
+            "Bucket Digging Force - SAE": "26800 lbs (12,156 kg)",
+            "Max Digging Depth": "21.7 ft (6 m)",
+            "Max Digging Height": "34.9 ft (10 m)",
+            "Max Digging Reach": "31.1 ft (9 m)",
+            "Max Dumping Clearance": "25.4 ft (8 m)",
+            "Max Reach Along Ground": "31.8 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "19.6 ft (6 m)",
+            "Maximum Reach at Ground Level": "31.3 ft (9 m)",
+            "Min Dumping Clearance": "9.9 ft (3 m)",
+            "Minimum swing radius": "93307.1 in (237,000 cm)"
+        },
+        "Brakes": {
+            "Gradeability": "70%",
+            "Parking brake": "Oil disc brake per motor",
+            "Travel speed": "3.6 mph (5 kph)"
+        },
+        "Capacities": {
+            "Cooling system": "6.4 gal (23 l)",
+            "Engine Oil": "5.5 gal (19 l)",
+            "Fuel Tank": "87.2 gal (329 l)",
+            "Hydraulic oil tank": "30.2 gal (114 l)",
+            "Hydraulic system": "60.8 gal (227 l)",
+            "Travel reduction": "2.7 gal (8 l)"
+        },
+        "Cylinders": {
+            "Bore (Arm)": "5.2 in (13 cm)",
+            "Bore (Boom)": "4.8 in (10 cm)",
+            "Bore (Bucket)": "4.4 in (10 cm)",
+            "Stroke (Arm)": "55.4 in (140 cm)",
+            "Stroke (Boom)": "53.4 in (135 cm)",
+            "Stroke (Bucket)": "41.9 in (104 cm)"
+        },
+        "Dimensions": {
+            "Crawler length": "14.6 ft (4 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Overall length": "29 ft (9 m)",
+            "Shoe width": "2.6 ft (1 m)",
+            "Tail Swing Radius": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.5 in (10 cm)",
+            "Displacement": "312.7 cu in (0 m)",
+            "Engine Make": "Hino JO5E",
+            "Engine Model": "J05EUM-KSSL",
+            "Max Torque": "472.1 lbs/ft",
+            "Net Power": "166 hp (124 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "5.2 in (13 cm)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Two variable displacement pumps",
+            "Max. discharge flow": "5.3 gal/min (19 l/min)",
+            "Travel circuit": "4970 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "56438.4 lbs (25,600 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.6 rpm",
+            "Swing Torque": "52700 lbs/ft"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "44062.6 lbs (19,986 kg)",
+            "Number of Shoes per Side": "49",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

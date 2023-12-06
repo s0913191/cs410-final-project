@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/volvo/bm-3700/30754567",
+    "source_url_id": "30754567",
+    "source_url_model": "bm-3700",
+    "source_url_make": "volvo",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:22:17.078992",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM 3700",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "TD 70",
+            "Max Power": "211 hp (157 kw)",
+            "Net Power Gears 7-8": "211 hp (157 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "25.2 in (64 cm)",
+            "Moldboard Width": "13 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Std Operation Weight - Total": "34171.7 lbs (15,500 kg)",
+            "Tire Size": "16.00-24/12"
+        },
+        "Transmission": {
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "2"
+        }
+    }
+}

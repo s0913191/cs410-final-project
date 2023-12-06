@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/585xl/7191697",
+    "source_url_id": "7191697",
+    "source_url_model": "585xl",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:03.490857",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "585XL",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "60 hp (45 kw)"
+        },
+        "Production": {
+            "Series": "85 Series",
+            "Years Manufactured": "1985 - 1990"
+        }
+    }
+}

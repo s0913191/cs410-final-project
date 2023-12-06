@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/85g/30498968",
+    "source_url_id": "30498968",
+    "source_url_model": "85g",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:06:58.799500",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "85G",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "13.1 ft (4 m)",
+            "Max Reach Along Ground": "25.3 ft (8 m)"
+        },
+        "Engine": {
+            "Net Power": "56.9 hp (42 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18821 lbs (8,537 kg)"
+        }
+    }
+}

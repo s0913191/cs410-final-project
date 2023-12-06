@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/att-250/30836119",
+    "source_url_id": "30836119",
+    "source_url_model": "att-250",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:16.313096",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "ATT 250",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "129.6 ft (39 m)",
+            "Max Lift Capacity": "25 t (22,680 kg)"
+        }
+    }
+}

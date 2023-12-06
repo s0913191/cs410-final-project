@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/jx1095c/31076044",
+    "source_url_id": "31076044",
+    "source_url_model": "jx1095c",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:41.522798",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "JX1095C",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "90 hp (67 kw)"
+        },
+        "Production": {
+            "Series": "JXC Series",
+            "Years Manufactured": "2005 - 2008"
+        }
+    }
+}

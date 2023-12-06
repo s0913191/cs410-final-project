@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca1400d/30437588",
+    "source_url_id": "30437588",
+    "source_url_model": "ca1400d",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:52.540876",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA1400D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "14 in (36 cm)",
+            "Gradeability": "56%",
+            "Ground Clearance": "14 in (36 cm)",
+            "Height - Top of ROPS/FOPS": "8.9 ft (2 m)",
+            "Overall Length": "14.8 in (36 cm)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Overhang Front": "0.4 ft (0 m)",
+            "Overhang Rear": "0.4 ft (0 m)",
+            "Turning Radius - Inside": "9.5 ft (3 m)",
+            "Turning Radius - Outside": "15 ft (5 m)",
+            "Wheelbase": "87 in (221 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "25600 lbs (11,612 kg)",
+            "Centrifugal Force - Low": "12400 lbs (5,625 kg)",
+            "Drum Diameter": "48 in (122 cm)",
+            "Drum thickness": "0.9 in (0 cm)",
+            "Drum Width": "66 in (168 cm)"
+        },
+        "Engine": {
+            "Engine Make": "Kubota",
+            "Engine Model": "V 3307 CR-TE4",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "75 hp (56 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "31 gal (117 l)",
+            "Max Speed": "6.2 mph (10 kph)",
+            "Operating Weight": "15900 lbs (7,212 kg)",
+            "Operating weight ROPS": "14350 lbs (6,509 kg)",
+            "Tire Size": "400/60-22.5 flotation"
+        }
+    }
+}

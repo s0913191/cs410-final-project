@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/dresser/150fa/43813",
+    "source_url_id": "43813",
+    "source_url_model": "150fa",
+    "source_url_make": "dresser",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:20.173112",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Dresser",
+    "equipment_model": "150FA",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "70  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "37.5 ft (11 m)",
+            "Min Height @ Max Raise Angle": "17.5 ft (5 m)",
+            "Swing Speed": "4 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Transport Height": "11.3 ft (3 m)",
+            "Transport Length": "27.2 ft (8 m)",
+            "Transport Width": "8.1 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "8.7 ft (2 m)",
+            "Wheelbase": "107.9 in (272 cm)"
+        },
+        "Engine": {
+            "Displacement": "345 cu in (0 m)",
+            "Engine Make": "Deutz",
+            "Engine Model": "F6L-912",
+            "Gross Power": "108.1 hp (81 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "37  A",
+            "Fuel Capacity": "46 gal (174 l)",
+            "Hydraulic System Fluid Capacity": "120 gal (454 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "37300.1 lbs (16,919 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.2 mph (32 kph)",
+            "Max Speed - Reverse": "11.1 mph (18 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison Transmission"
+        }
+    }
+}

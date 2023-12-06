@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/sakai/sv400tf-1/30783034",
+    "source_url_id": "30783034",
+    "source_url_model": "sv400tf-1",
+    "source_url_make": "sakai",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:58.575617",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV400TF-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "115 in (292 cm)"
+        },
+        "Drum": {
+            "Drum Width": "67 in (170 cm)",
+            "Vibration Frequency": "1,800-2,300 hz (108,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins B3.3-T"
+        },
+        "Operating Specifications": {
+            "Operating Width": "67 in (170 cm)"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/new-holland/l170/26580",
+    "source_url_id": "26580",
+    "source_url_model": "l170",
+    "source_url_make": "new-holland",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:40.687971",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "L170",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "11.7 ft (3 m)",
+            "Ground Clearance": "7.5 in (18 cm)",
+            "Height - Top of Cab": "6.3 ft (2 m)",
+            "Length with Bucket": "10.5 ft (3 m)",
+            "Reach at Max Lift and Dump": "29.2 in (74 cm)",
+            "Turning Radius from Center - inc bucket": "67 in (170 cm)",
+            "Wheelbase": "3.6 ft (1 m)",
+            "Width Over Tires": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "121.8 cu in (0 m)",
+            "Engine Model": "N844T",
+            "Gross Power": "50 hp (37 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.2 gal/min (64 l/min)",
+            "Pump Type": "Gear type",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Loader": {
+            "Breakout Force": "3719.2 psi",
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Operating Load Rating": "1766 lbs (801 kg)",
+            "Tipping Angle": "3529.7  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Chain Box Fluid Capacity - each side": "3.3 gal (11 l)",
+            "Cooling System Fluid Capacity": "2.7 gal (8 l)",
+            "Engine Oil Fluid Capacity": "1.8 gal (4 l)",
+            "Fuel Capacity": "14.4 gal (53 l)",
+            "Hydraulic System Fluid Capacity": "8.6 gal (30 l)",
+            "Max Speed": "7.3 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "5540.3 lbs (2,513 kg)",
+            "Tire Size": "10.00X16.5"
+        }
+    }
+}

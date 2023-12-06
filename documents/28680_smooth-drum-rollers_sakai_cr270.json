@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/cr270/28680",
+    "source_url_id": "28680",
+    "source_url_model": "cr270",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:25.411097",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "CR270",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.5 ft (2 m)",
+            "Overall Length": "6.3 in (15 cm)",
+            "Overall Width": "3.4 ft (1 m)",
+            "Turning Radius - Inside": "6.2 ft (2 m)",
+            "Wheelbase": "4.3 in (10 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "2967.5 lbs (1,346 kg)",
+            "Drum Diameter": "22.1 in (56 cm)",
+            "Drum Width": "35.5 in (89 cm)",
+            "Frequency": "66.7 hz (3,960 vpm)",
+            "Vibration Frequency 1": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Displacement": "37.5 cu in (0 m)",
+            "Engine Model": "GX610",
+            "Gross Power": "17.8 hp (13 kw)",
+            "Make": "Honda",
+            "Model": "GX-610"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "8 gal (30 l)",
+            "Hydraulic System Fluid Capacity": "8 gal (30 l)",
+            "Max Speed": "4.7 mph (6 kph)",
+            "Operating Weight": "2910.2 lbs (1,320 kg)"
+        }
+    }
+}

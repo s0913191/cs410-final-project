@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/ingersoll-rand/pf6160/28518988",
+    "source_url_id": "28518988",
+    "source_url_model": "pf6160",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:17.952770",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "PF6160",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "17.2 ft (5 m)",
+            "Tire Size": "18x25",
+            "Transport Height": "11.7 ft (3 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Wheelbase": "8.6 ft (2 m)",
+            "Width w/ Hopper Open": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB 6.7 tier 3",
+            "Net Power": "205 hp (153 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "17.1 in (43 cm)",
+            "Hopper Capacity": "8.6 lbs (4 kg)",
+            "Paving Speed - max": "297 ft/min",
+            "Paving Thickness - max": "12 in (30 cm)",
+            "Paving Width - max": "26 ft (8 m)",
+            "Travel Speed - max": "12 mph (19 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "80.1 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "62.6 gal (235 l)",
+            "Operating Weight w/ Screed": "40352 lbs (18,304 kg)",
+            "Operating Weight w/o Screed": "36122 lbs (16,385 kg)"
+        }
+    }
+}

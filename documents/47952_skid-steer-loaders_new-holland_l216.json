@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/new-holland/l216/47952",
+    "source_url_id": "47952",
+    "source_url_model": "l216",
+    "source_url_make": "new-holland",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:45.274893",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "L216",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "60 hp (45 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "1600 lbs (726 kg)",
+            "Operating Width": "59.8 in (150 cm)"
+        }
+    }
+}

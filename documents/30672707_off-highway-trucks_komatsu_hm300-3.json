@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hm300-3/30672707",
+    "source_url_id": "30672707",
+    "source_url_model": "hm300-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:30.398056",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HM300-3",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "5.7 ft (2 m)",
+            "Dump Height": "9.3 ft (3 m)",
+            "Ground Clearance": "9.6 ft (3 m)",
+            "Overall Height": "21.4 ft (6 m)",
+            "Overall Length": "33.8 ft (10 m)",
+            "Overall Width": "11.6 ft (3 m)",
+            "Wheelbase": "7.6 ft (2 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6WD"
+        },
+        "Dump": {
+            "Capacity - Heaped": "22.4 cu yds (17 m)",
+            "Capacity - Struck": "17.5 cu yds (13 m)",
+            "Dump Angle": "45  \t\u00b0",
+            "Lower Time": "10.5 sec",
+            "Raise Time": "10.5 sec",
+            "Rated Payload": "30.9 t (27,216 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Komatsu Variable turbo charge",
+            "Displacement": "11.1 cu in (0 m)",
+            "Engine Model": "Komatsu SAA6D125E-6",
+            "Gross Power": "332 hp (248 kw)",
+            "Make": "Komatsu",
+            "Max Torque": "1239 lbs/ft",
+            "Model": "SAA6D125E-6",
+            "Net Power": "324 hp (242 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "25.9 gal (95 l)",
+            "Engine Oil Capacity": "9.2 gal (34 l)",
+            "Fuel Capacity": "102.6 gal (386 l)",
+            "Hydraulic System Fluid Capacity": "27.2 gal (102 l)",
+            "Tire Size": "23.5 R25",
+            "Transmission Fluid Capacity": "25.9 gal (95 l)"
+        },
+        "Transmission": {
+            "Max Speed": "36.4 mph (58 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Auto"
+        },
+        "Weights": {
+            "Operating Weight": "116823 lbs (52,991 kg)",
+            "Total Empty": "54917 lbs (24,910 kg)",
+            "Total Loaded": "116823 lbs (52,991 kg)"
+        }
+    }
+}

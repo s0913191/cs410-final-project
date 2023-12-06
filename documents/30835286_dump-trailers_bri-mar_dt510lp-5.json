@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dump-trailers/bri-mar/dt510lp-5/30835286",
+    "source_url_id": "30835286",
+    "source_url_model": "dt510lp-5",
+    "source_url_make": "bri-mar",
+    "source_url_category": "dump-trailers",
+    "source_date_scraped": "2023-09-13 17:53:59.397719",
+    "equipment_category": "Dump Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "DT510LP-5",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "5x10 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "1",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "1900 lbs (862 kg)",
+            "Weight Capacity": "3100 lbs (1,406 kg)"
+        }
+    }
+}

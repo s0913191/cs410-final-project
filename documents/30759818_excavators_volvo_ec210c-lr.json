@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec210c-lr/30759818",
+    "source_url_id": "30759818",
+    "source_url_model": "ec210c-lr",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:15.707405",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC210C LR",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "39.67 ft (12 m)",
+            "Max Reach Along Ground": "51.83 ft (16 m)"
+        },
+        "Engine": {
+            "Make": "Volvo",
+            "Model": "D6E EAE3",
+            "Net Power": "147 hp (110 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "51200 lbs (23,224 kg)"
+        }
+    }
+}

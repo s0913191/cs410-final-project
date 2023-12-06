@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/wacker-neuson/rd-12a-90/30682841",
+    "source_url_id": "30682841",
+    "source_url_model": "rd-12a-90",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:42.150781",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "RD 12A-90",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "61 in (155 cm)"
+        },
+        "Drum": {
+            "Drum Width": "35.4 in (89 cm)",
+            "Vibration Frequency": "3900 hz (234,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Honda"
+        },
+        "Operating Specifications": {
+            "Operating Width": "40.8 in (102 cm)"
+        }
+    }
+}

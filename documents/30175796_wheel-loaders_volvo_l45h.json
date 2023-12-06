@@ -1,0 +1,81 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l45h/30175796",
+    "source_url_id": "30175796",
+    "source_url_model": "l45h",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:08.265929",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L45H",
+    "equipment_spec": {
+        "Axles": {
+            "Axle oil front": "4.7 gal (15 l)",
+            "Axle oil rear": "4.7 gal (15 l)",
+            "Rear axle oscillation": "12  \t\u00b0"
+        },
+        "Bucket": {
+            "Breakout Force": "15961.5 lbs (7,240 kg)",
+            "Dump Clearance at Max Raise": "9.3 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Hinge Pin - Max Height": "12.1 ft (4 m)",
+            "Length with Bucket on Ground": "20.9 ft (6 m)",
+            "Wheelbase": "8.7 ft (2 m)",
+            "Width Over Tires": "7.1 ft (2 m)"
+        },
+        "Drive System": {
+            "Transport speed, maximum": "18.7 mph (29 kph)"
+        },
+        "Electrical System": {
+            "Alternator rating": "3080/110 (W/A)",
+            "Batteries": "V",
+            "Battery capacity": "2 x 100 Ah",
+            "Cold cranking capacity": "830 A",
+            "Starter motor output": "7.4 hp (5 kw)",
+            "Voltage": "24 V"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "244.1 cu in (0 m)",
+            "Engine Model": "Volvo D4J",
+            "Gross Power": "100 hp (75 kw)",
+            "Make": "Volvo",
+            "Model": "D4J",
+            "Net Power": "97.9 hp (72 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1450 rpm"
+        },
+        "Hydraulic cycle times (unloaded)": {
+            "Dump time": "1.5 sec",
+            "Lift": "4.8 sec",
+            "Lower": "3.2 sec"
+        },
+        "Hydraulic System": {
+            "Engine speed": "2200 rpm",
+            "Pump Flow Capacity": "34.9 gal/min (129 l/min)",
+            "Working pressure": "26 MPa, 3771 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5.3 gal (19 l)",
+            "DEF tank capacity": "5.3 gal (19 l)",
+            "Engine Oil Fluid Capacity": "3.7 gal (11 l)",
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "25.1 gal (95 l)",
+            "Rated Bucket Capacity": "1.8-2.6 cu yds (1 m)",
+            "Transmission Fluid Capacity": "0.4 gal (0 l)"
+        },
+        "Steering System": {
+            "Articulation angle": "40  \t\u00b0",
+            "Maximum flow": "18.5 gal/min (68 l/min)",
+            "Steering cylinders": "2",
+            "Working pressure": "17.5 MPa, 2538 psi"
+        },
+        "Weights": {
+            "Operational Weight": "19334 lbs (8,770 kg)"
+        }
+    }
+}

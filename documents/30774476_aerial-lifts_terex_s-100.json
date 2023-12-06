@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/s-100/30774476",
+    "source_url_id": "30774476",
+    "source_url_model": "s-100",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:19.569353",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "S-100",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "750 lbs (340 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "100 ft (30 m)",
+            "Platform Size": "3x8 ft (1 m)",
+            "Stowed Height": "10.1 ft (3 m)",
+            "Stowed Width": "8.1 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "385/65D 22.5"
+        },
+        "Transmission": {
+            "4WD": "yes"
+        }
+    }
+}

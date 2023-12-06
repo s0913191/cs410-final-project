@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/bri-mar/eh820-10/30835236",
+    "source_url_id": "30835236",
+    "source_url_model": "eh820-10",
+    "source_url_make": "bri-mar",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:00.420164",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "EH820-10",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "8.5x20 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "3660 lbs (1,660 kg)",
+            "Weight Capacity": "9640 lbs (4,373 kg)"
+        }
+    }
+}

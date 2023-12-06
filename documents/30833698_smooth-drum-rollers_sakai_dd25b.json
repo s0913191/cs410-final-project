@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/dd25b/30833698",
+    "source_url_id": "30833698",
+    "source_url_model": "dd25b",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:27.757328",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "DD25B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "110 in (279 cm)"
+        },
+        "Drum": {
+            "Drum Width": "47.2 in (119 cm)",
+            "Vibration Frequency": "55 - 67 hz (3,300 - 4,020 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota D1803-M"
+        },
+        "Operating Specifications": {
+            "Operating Width": "43 in (109 cm)"
+        }
+    }
+}

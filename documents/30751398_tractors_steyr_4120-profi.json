@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/steyr/4120-profi/30751398",
+    "source_url_id": "30751398",
+    "source_url_model": "4120-profi",
+    "source_url_make": "steyr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:53.107474",
+    "equipment_category": "Tractors",
+    "equipment_make": "Steyr",
+    "equipment_model": "4120 Profi",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Overall Length": "14.1 in (36 cm)",
+            "Tire Size": "Front 14.9 R24, Rear 16.9 R38",
+            "Wheelbase": "8 ft (2 m)",
+            "Width Outside Frame": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, intercooled",
+            "Displacement": "273.7 cu in (0 m)",
+            "Gross Power": "134 hp (100 kw)",
+            "Net Power": "121 hp (90 kw)",
+            "Number of Cylinders": "4",
+            "Torque Rise": "45%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "29.9 gal/min (110 l/min)",
+            "Relief Valve Pressure": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "46.5 gal (174 l)"
+        },
+        "Transmission": {
+            "Max Speed": "31.1 mph (50 kph)",
+            "Transmission Type": "STEYR Power-8"
+        }
+    }
+}

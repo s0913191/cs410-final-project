@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/624k-powerllel/30761163",
+    "source_url_id": "30761163",
+    "source_url_model": "624k-powerllel",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:48:59.792425",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "624K Powerllel",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "John Deere",
+            "Model": "6068H",
+            "Net Power": "198 hp (148 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.5 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "36275 lbs (16,454 kg)"
+        }
+    }
+}

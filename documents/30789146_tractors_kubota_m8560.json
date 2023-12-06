@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m8560/30789146",
+    "source_url_id": "30789146",
+    "source_url_model": "m8560",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:46.748676",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M8560",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "85 hp (63 kw)"
+        },
+        "Production": {
+            "Series": "M60 Series",
+            "Years Manufactured": "2013 - 2016"
+        }
+    }
+}

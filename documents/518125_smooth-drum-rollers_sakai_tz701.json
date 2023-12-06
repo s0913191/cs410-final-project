@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/tz701/518125",
+    "source_url_id": "518125",
+    "source_url_model": "tz701",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:58.025944",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "TZ701",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "9.6 ft (3 m)",
+            "Overall Length": "16.4 in (41 cm)",
+            "Turning Radius - Inside": "158 in (401 cm)",
+            "Wheelbase": "12.7 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "W04D-TG diesel engine",
+            "Gross Power": "93.9 hp (69 kw)",
+            "Make": "Hino WO4D-TG",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Max Speed": "15 mph (24 kph)",
+            "Operating Width": "90 in (229 cm)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "3",
+            "Number of Tires - Rear": "4",
+            "Standard Tire Size": "14/70-20-12PR(OR)"
+        },
+        "Weights": {
+            "Average Weight per Wheel - Max Ballast": "4724.6 lbs (2,143 kg)",
+            "Average Weight per Wheel - Standard": "2835.2 lbs (1,286 kg)",
+            "Operating Weight - max ballast": "33069.4 lbs (15,000 kg)",
+            "Operating Weight - standard": "19841.7 lbs (9,000 kg)"
+        }
+    }
+}

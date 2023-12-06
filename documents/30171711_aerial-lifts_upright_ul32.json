@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/ul32/30171711",
+    "source_url_id": "30171711",
+    "source_url_model": "ul32",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:21.725121",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "UL32",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "300 lbs (136 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "VL/32 ft (0 m)",
+            "Stowed Height": "8.3 ft (2 m)",
+            "Stowed Width": "2.4 ft (1 m)"
+        },
+        "Tires": {
+            "Tire Size": "20.3 Diam."
+        },
+        "Transmission": {
+            "4WD": "no"
+        }
+    }
+}

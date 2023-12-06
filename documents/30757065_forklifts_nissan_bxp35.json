@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/nissan/bxp35/30757065",
+    "source_url_id": "30757065",
+    "source_url_model": "bxp35",
+    "source_url_make": "nissan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:37:07.975663",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Nissan",
+    "equipment_model": "BXP35",
+    "equipment_spec": {
+        "Dimensions": {
+            "Right Angle Stack": "7.2 ft (2 m)",
+            "Turning Radius": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "electric engine"
+        },
+        "MAST": {
+            "Lift Speed": "76.8 ft/min",
+            "Load Capacity": "3500 lbs (1,588 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "10.9 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

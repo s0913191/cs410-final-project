@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/link-belt/l130/23847",
+    "source_url_id": "23847",
+    "source_url_model": "l130",
+    "source_url_make": "link-belt",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:09.688328",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "L130",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "27876 lbs (12,645 kg)",
+            "Bucket Capacity - heaped": "3.2 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "9.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Hinge Pin - Max Height": "13 ft (4 m)",
+            "Length with Bucket on Ground": "24.6 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)",
+            "Width Over Tires": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with Intercooler",
+            "Displacement": "360 cu in (0 m)",
+            "Engine Model": "6BTA5.9",
+            "Gross Power": "173 hp (129 kw)",
+            "Net Power": "166 hp (124 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.2 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "55 gal/min (208 l/min)",
+            "Pump Type": "Variable Displacement",
+            "Raise Time": "5.5 sec",
+            "Relief Valve Setting": "4060 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Engine Oil Fluid Capacity": "4.8 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Hydraulic System Fluid Capacity": "42.3 gal (159 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "30305 lbs (13,746 kg)",
+            "Rear Axle Oscillation": "25  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "4 gal (15 l)",
+            "Static Tipping Weight": "23283 lbs (10,561 kg)",
+            "Tire Size": "20.5 R25",
+            "Transmission Fluid Capacity": "4.8 gal (15 l)",
+            "Turning Radius": "19.9 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.7 mph (34 kph)",
+            "Max Speed - Reverse": "14.9 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power Shift"
+        }
+    }
+}

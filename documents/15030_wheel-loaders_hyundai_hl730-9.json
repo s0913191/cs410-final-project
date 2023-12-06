@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl730-9/15030",
+    "source_url_id": "15030",
+    "source_url_model": "hl730-9",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:01.498742",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL730-9",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "8.10 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB4.5",
+            "Net Power": "123 hp (92 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2.5 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "21600 lbs (9,798 kg)"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/workmaster-40/30686017",
+    "source_url_id": "30686017",
+    "source_url_model": "workmaster-40",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:49.763583",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "WORKMASTER 40",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "87.7 in (221 cm)",
+            "Length": "121 in (307 cm)",
+            "Weight": "3067 lbs (1,391 kg)",
+            "Width": "66.5 in (168 cm)"
+        },
+        "Engine": {
+            "Alternator": "70 A",
+            "Aspiration": "Turbo",
+            "Displacement": "114.7 cu in (0 m)",
+            "Emissions level": "T4B Final",
+            "Fuel tank": "7.4 gal (27 l)",
+            "Gross Power": "40 hp (30 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Implement hydraulic flow": "8.2 gal/min (30 l/min)",
+            "Lift capacity at 24 in (610 mm) behind the ball ends": "1433 lbs (650 kg)",
+            "Lift capacity at ball ends": "1808 lbs (820 kg)",
+            "Remote valves": "1 or 2 Opt",
+            "Steering hydraulic flow Gear": "4.2 gal/min (15 l/min)",
+            "Steering hydraulic flow HST": "5.3 gal/min (19 l/min)",
+            "Three-point hitch": "Telescopic Stabilizer /Fixed Link Ends",
+            "Total flow Gear": "12.4 gal/min (45 l/min)",
+            "Total flow HST": "13.5 gal/min (49 l/min)"
+        },
+        "Power Take-Off (PTO)": {
+            "Mid- PTO": "Standard on HST / Optional on Gear",
+            "Mid-PTO Speed": "2000 rpm",
+            "PTO HP (Gear)": "34 hp (25 kw)",
+            "PTO HP (HST)": "32 hp (24 kw)",
+            "PTO speed": "540 rpm",
+            "PTO type": "Independent Electro-Hydraulic Engagement"
+        },
+        "Production": {
+            "Series": "Workmaster Series",
+            "Years Manufactured": "2013 - 2015"
+        },
+        "Transmission": {
+            "Brake type": "Wet, Multi-Disc",
+            "Cruise control": "Standard HST",
+            "Gear type": "Synchro",
+            "Maximum forward speed, Gear": "14.2 mph (23 kph)",
+            "Maximum forward speedHST": "14.8 mph (23 kph)",
+            "Rear diff. lock engagement": "Mechanical",
+            "shuttle type": "Synchro",
+            "Type/Control Choice 1": "12x12 Gear",
+            "Type/Control Choice 2": "3 Range Hydrostatic/Dual Pedal"
+        }
+    }
+}

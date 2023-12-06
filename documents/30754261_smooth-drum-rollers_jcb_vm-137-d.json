@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/jcb/vm-137-d/30754261",
+    "source_url_id": "30754261",
+    "source_url_model": "vm-137-d",
+    "source_url_make": "jcb",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:00.541170",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "JCB",
+    "equipment_model": "VM 137 D",
+    "equipment_spec": {
+        "Capacities": {
+            "Engine Oil": "3.7 gal (11 l)",
+            "Fuel Tank": "75.3 gal (284 l)",
+            "Gear oil": "2.2 gal (8 l)",
+            "Hydraulic oil tank": "19.9 gal (72 l)"
+        },
+        "Dimensions": {
+            "Axle to rear face": "69.3 in (175 cm)",
+            "front Departure angle": "46  \t\u00b0",
+            "Ground Clearance": "17.6 in (43 cm)",
+            "Height": "7.4 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "9.9 ft (3 m)",
+            "Overall Width": "7.4 ft (2 m)",
+            "Rear Departure Angle": "32",
+            "Total travel length": "224.1 in (569 cm)",
+            "Wheelbase": "115.4 in (292 cm)"
+        },
+        "Drum": {
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum thickness": "1.2 in (3 cm)",
+            "Drum Width": "82.7 in (208 cm)"
+        },
+        "Electrical System": {
+            "Alternator": "60",
+            "Battery capacity": "120 Ah",
+            "Voltage": "12"
+        },
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Cooling system": "Water",
+            "Displacement": "293 cu in (0 m)",
+            "Emissions compliance": "T4i Stage IIIb",
+            "Engine Make": "JCB",
+            "Engine Model": "448/EcoMAX",
+            "Number of Cylinders": "4",
+            "Performance": "145 hp (108 kw)",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque": "413.1 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Amplitude": "0.1 in (0 cm)",
+            "Centrifugal force": "63396.2 lbs (28,756 kg)",
+            "Inside Turning Radius": "133.1 in (338 cm)",
+            "Operating Weight": "32077.3 lbs (14,550 kg)",
+            "Operating weight Cabin": "27668.1 lbs (12,550 kg)",
+            "Operating weight ROPS": "26786.2 lbs (12,150 kg)",
+            "Smooth drum_Static linear load": "75.7 lbs (34 kg)",
+            "Travel Speed": "6.9 mph (10 kph)"
+        }
+    }
+}

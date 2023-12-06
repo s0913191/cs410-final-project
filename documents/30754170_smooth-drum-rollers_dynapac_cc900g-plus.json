@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc900g-plus/30754170",
+    "source_url_id": "30754170",
+    "source_url_model": "cc900g-plus",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:34.268925",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC900G Plus",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Failsafe brake in both drums",
+            "Service brake": "Hydrostatic in forward and reverse lever"
+        },
+        "Dimensions": {
+            "Curb clearance": "18 in (46 cm)",
+            "Gradeability": "35%",
+            "Ground Clearance": "10 in (25 cm)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Overall Length": "83 in (211 cm)",
+            "Overall Width": "3.2 ft (1 m)",
+            "Overhang Front": "0.2 ft (0 m)",
+            "Overhang Rear": "0.2 ft (0 m)",
+            "Turning Radius - Inside": "6 ft (2 m)",
+            "Turning Radius - Outside": "9 ft (3 m)",
+            "Wheelbase": "53 in (135 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "3800 lbs (1,724 kg)",
+            "Drum Diameter": "23 in (58 cm)",
+            "Drum thickness": "0.4 in (0 cm)",
+            "Drum Width": "35 in (89 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "34 lbs/in",
+            "Vibration Frequency 1": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Honda",
+            "Engine Model": "GX630R QYD",
+            "Gross Power": "19 hp (14 kw)",
+            "Power Measured @": "3000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6 gal (23 l)",
+            "Max Speed": "5 mph (8 kph)",
+            "Operating Weight": "2900 lbs (1,315 kg)",
+            "Operating weight ROPS": "2800 lbs (1,270 kg)",
+            "Oscillating angle": "13  \t\u00b0",
+            "Steering Angle": "34  \t\u00b0",
+            "Water Spray System Fluid Capacity": "50 gal (189 l)"
+        }
+    }
+}

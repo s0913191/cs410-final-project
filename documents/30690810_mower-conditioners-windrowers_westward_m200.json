@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/mower-conditioners-windrowers/westward/m200/30690810",
+    "source_url_id": "30690810",
+    "source_url_model": "m200",
+    "source_url_make": "westward",
+    "source_url_category": "mower-conditioners-windrowers",
+    "source_date_scraped": "2023-09-13 17:08:20.602436",
+    "equipment_category": "Mower Conditioners / Windrowers",
+    "equipment_make": "Westward",
+    "equipment_model": "M200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Wheel Tread Width": "134.3 in (340 cm)",
+            "Ground Clearance": "45.7 in (114 cm)",
+            "Rear Wheel tread Width - max": "134.2 in (340 cm)",
+            "Rear Wheel Tread Width - min": "94.9 in (239 cm)",
+            "Wheelbase": "13 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharge",
+            "Displacement": "403 cu in (0 m)",
+            "Number of Cylinders": "6",
+            "Power": "213 hp (159 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "135  A",
+            "Front Tire Size": "18.4 x 26 Bar or turf",
+            "Fuel Capacity": "97 gal (367 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/o Attachment": "11000 lbs (4,990 kg)",
+            "Rear Tire Size": "10 x 16"
+        },
+        "Transmission": {
+            "Final Drive Type": "Planetary Gear Reduction",
+            "Max Speed": "23 mph (37 kph)",
+            "Transmission Type": "Hydrostatic, 3 speed electric shift motors"
+        }
+    }
+}

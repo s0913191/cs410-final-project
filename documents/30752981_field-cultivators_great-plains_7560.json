@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/field-cultivators/great-plains/7560/30752981",
+    "source_url_id": "30752981",
+    "source_url_model": "7560",
+    "source_url_make": "great-plains",
+    "source_url_category": "field-cultivators",
+    "source_date_scraped": "2023-09-13 17:04:47.595675",
+    "equipment_category": "Field Cultivators",
+    "equipment_make": "Great Plains",
+    "equipment_model": "7560",
+    "equipment_spec": {
+        "Dimensions": {
+            "Transport Height": "16 ft (5 m)",
+            "Transport Width": "16.1 ft (5 m)"
+        },
+        "Frame": {
+            "Inner Wing Width": "12.5 ft (4 m)",
+            "Main Frame Width": "12 ft (4 m)",
+            "Max Working Width": "60.3 ft (18 m)",
+            "Min Working Width": "60.3 ft (18 m)",
+            "Outer Wing Width": "11 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operational Weight": "14690 lbs (6,663 kg)"
+        }
+    }
+}

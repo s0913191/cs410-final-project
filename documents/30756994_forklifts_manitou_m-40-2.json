@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/m-40-2/30756994",
+    "source_url_id": "30756994",
+    "source_url_model": "m-40-2",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:49.166147",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "M 40-2",
+    "equipment_spec": {
+        "Brakes": {
+            "Front Brakes": "4",
+            "Parking brake": "Oil immersed multi-disc mechanics on the front axle",
+            "Service brake": "Oil immersed multi-disc braking on front/rear axles"
+        },
+        "Capacities": {
+            "Fuel Tank": "22.5 gal (83 l)",
+            "Hydraulic oil tank": "21.2 gal (79 l)",
+            "Pump Capacity": "38.2 in (97 cm)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "14.6 in (36 cm)",
+            "Length to Fork Face": "12.1 ft (4 m)",
+            "Overall Height - mast lowered": "9.4 ft (3 m)",
+            "Overall Width": "6.8 ft (2 m)",
+            "Turning Radius": "10.7 ft (3 m)",
+            "Wheelbase": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Cooling method": "Water",
+            "Engine Model": "PERKINS - STAGE 3B",
+            "Engine Type": "PERKINS 854F-E34T 54009.1.1",
+            "Injection": "Direct",
+            "Power": "75 hp (56 kw)",
+            "Torque": "234.6 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Lift System": {
+            "Max Lift Height": "19.7 ft (6 m)"
+        },
+        "MAST": {
+            "Mast Tip Forward": "15  \t\u00b0",
+            "Mast Tip Rear": "15  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "14.9 mph (23 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "15818.2 lbs (7,175 kg)",
+            "Tire Type": "FRWD-18-19.5 18PR 166A6 TL,Backward-10R17.5 134/132M G291"
+        }
+    }
+}

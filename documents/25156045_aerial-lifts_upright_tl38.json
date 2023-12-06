@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/tl38/25156045",
+    "source_url_id": "25156045",
+    "source_url_model": "tl38",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:17.221742",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "TL38",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "475 lbs (216 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "ATM/37.7 ft (0 m)",
+            "Stowed Height": "6.5 ft (2 m)",
+            "Stowed Width": "5 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "185R-13C"
+        },
+        "Transmission": {
+            "4WD": "no"
+        }
+    }
+}

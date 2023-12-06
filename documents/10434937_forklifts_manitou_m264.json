@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/m264/10434937",
+    "source_url_id": "10434937",
+    "source_url_model": "m264",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:52.855226",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "M26.4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.4 in (38 cm)",
+            "Height to Top of Overhead Guard": "8.4 ft (2 m)",
+            "Length to Fork Face": "4 ft (1 m)",
+            "Max Fork Height": "12.2 ft (4 m)",
+            "Overall Height - mast lowered": "9 ft (3 m)",
+            "Overall Width": "6.3 ft (2 m)",
+            "Turning Radius": "14.1 ft (4 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "Euro 2 1104C 44",
+            "Fuel Type": "Direct",
+            "Injection": "Water",
+            "Power": "75 hp (56 kw)",
+            "Power Measured @": "1400 rpm",
+            "Torque": "234.6 lbs/ft"
+        },
+        "MAST": {
+            "Load Capacity": "5732.1 lbs (2,600 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0",
+            "Max Fork Spread": "57.9 in (145 cm)",
+            "Number of Mast Sections": "1"
+        },
+        "Operating Specifications": {
+            "Max Speed": "13.5 mph (21 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "12963.2 lbs (5,880 kg)",
+            "Tire Type": "FRWD- 400/70-20 150B T37 STAB TL,Backward-10.5/80-18 10PR TG42 TL"
+        }
+    }
+}

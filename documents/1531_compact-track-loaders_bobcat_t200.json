@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/bobcat/t200/1531",
+    "source_url_id": "1531",
+    "source_url_model": "t200",
+    "source_url_make": "bobcat",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:22.514659",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "T200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Bucket hinge pin": "121 in (307 cm)",
+            "Length - with Bucket": "11.3 ft (3 m)",
+            "Overall height": "6.9 ft (2 m)",
+            "Width": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo-charged",
+            "Displacement": "178.2 cu in (0 m)",
+            "Engine Make": "Deutz",
+            "Engine Model": "BF4M1011F",
+            "Net Power": "73 hp (54 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "20.6 gal/min (76 l/min)"
+        },
+        "Loader": {
+            "Operating capacity (ISO 14397)": "2000 lbs (907 kg)",
+            "Tipping Load": "5715 lbs (2,592 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6.7 gal (23 l)",
+            "Operating Weight": "17813.4 lbs (8,080 kg)",
+            "Travel Speed": "6.7 mph (10 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.2 psi"
+        }
+    }
+}

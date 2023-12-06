@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/field-cultivators/new-holland/st250/30752872",
+    "source_url_id": "30752872",
+    "source_url_model": "st250",
+    "source_url_make": "new-holland",
+    "source_url_category": "field-cultivators",
+    "source_date_scraped": "2023-09-13 17:05:06.419382",
+    "equipment_category": "Field Cultivators",
+    "equipment_make": "New Holland",
+    "equipment_model": "ST250",
+    "equipment_spec": {
+        "Dimensions": {
+            "PTO Power Required per Width Ft.": "4 hp (3 kw)"
+        },
+        "Frame": {
+            "Max Working Width": "60.5 ft (18 m)",
+            "Min Working Width": "18.5 ft (5 m)"
+        },
+        "Harrow": {
+            "Effective Spike/Tine Spacing": "1.5 in (3 cm)",
+            "Option 1 Type": "3-bar coil tine",
+            "Option 2 Type": "4-bar coil tine",
+            "Option 3 Type": "5-bar spike tooth",
+            "Spike/Tine Length": "11 in (28 cm)"
+        },
+        "Operating Specifications": {
+            "Row/Rank Spacing": "30 in (76 cm)"
+        }
+    }
+}

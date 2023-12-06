@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb34-xw/30760164",
+    "source_url_id": "30760164",
+    "source_url_model": "cb34-xw",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:40.315365",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB34 XW",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "4.9 ft (1 m)",
+            "Turning Radius - Inside": "9.7 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "55 in (140 cm)",
+            "Frequency": "4140 - 3,660 hz (248,400 - 219,600 vpm)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        }
+    }
+}

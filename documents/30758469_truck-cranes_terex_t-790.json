@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex/t-790/30758469",
+    "source_url_id": "30758469",
+    "source_url_model": "t-790",
+    "source_url_make": "terex",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:16.015050",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "T 790",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "138 ft (42 m)",
+            "Min Height @ Max Raise Angle": "38 ft (12 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "775.1 cu in (0 m)",
+            "Gross Power": "500 hp (373 kw)",
+            "Make": "Terex",
+            "Max Torque": "1450.1 lbs/ft",
+            "Model": "Series 60",
+            "Net Power": "437 hp (326 kw)",
+            "Power Measured @": "1600 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Carrier Fuel Capacity": "100.2 gal (379 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "Front - 445/65R22.5-20 PR / Rear 315/80R22.5-20 PR"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "7",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Heavy duty Allison 4070 automatic"
+        }
+    }
+}

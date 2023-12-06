@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/lg-1550/30309133",
+    "source_url_id": "30309133",
+    "source_url_model": "lg-1550",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:44.933868",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LG 1550",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "591 ft (180 m)",
+            "Max Lift Capacity": "700 t (635,030 kg)"
+        }
+    }
+}

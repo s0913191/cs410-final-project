@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/mec/3072rt/34004",
+    "source_url_id": "34004",
+    "source_url_model": "3072rt",
+    "source_url_make": "mec",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:46.957313",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Mec",
+    "equipment_model": "3072RT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "8.4 in (20 cm)",
+            "Height w/ Rails": "9.1 ft (3 m)",
+            "Height w/o Rails": "6.6 ft (2 m)",
+            "Overall Length": "9.8 in (23 cm)",
+            "Overall Width": "6.1 ft (2 m)",
+            "Turning Radius": "14.3 ft (4 m)",
+            "Wheelbase": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "gas/LP"
+        },
+        "Performance": {
+            "Max Speed": "4 mph (6 kph)",
+            "Operating Weight": "7339.2 lbs (3,329 kg)",
+            "Tire Size": "26x12D/380 NHS"
+        },
+        "Platform": {
+            "Deck Extension": "48.1 in (122 cm)",
+            "Height of Rails": "3.7 ft (1 m)",
+            "Lift Time": "26 sec",
+            "Lower Time": "28 sec",
+            "Max Platform Height": "30 ft (9 m)",
+            "Max Platform Weight Capacity": "1000.9 lbs (454 kg)",
+            "Max Working Height": "36.6 ft (11 m)",
+            "Platform Inner Length": "109.9 in (277 cm)"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/schaffer/5050z/30755021",
+    "source_url_id": "30755021",
+    "source_url_model": "5050z",
+    "source_url_make": "schaffer",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:11.580721",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Schaffer",
+    "equipment_model": "5050Z",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "6069.9 lbs (2,753 kg)",
+            "Bucket Capacity - heaped": "0.7 cu yds (0 m)",
+            "Dump Clearance at Max Raise": "5.6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "7.3 ft (2 m)",
+            "Hinge Pin - Max Height": "10.9 ft (3 m)",
+            "Length with Bucket on Ground": "15.6 ft (5 m)",
+            "Reach at Max Lift and Dump": "1.9 ft (0 m)",
+            "Wheelbase": "5.7 ft (2 m)",
+            "Width Over Tires": "5.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V2203",
+            "Gross Power": "50 hp (37 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "33.3 gal/min (125 l/min)",
+            "Relief Valve Setting": "5000 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "12.7 gal (45 l)",
+            "Hydraulic System Fluid Capacity": "13.3 gal (49 l)",
+            "Operating Weight": "9259.5 lbs (4,200 kg)",
+            "Static Tipping Weight": "5070.7 lbs (2,300 kg)",
+            "Tire Size": "15X55-17"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

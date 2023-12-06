@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/sp18/30051503",
+    "source_url_id": "30051503",
+    "source_url_model": "sp18",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:40.831513",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "SP18",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.4 in (43 cm)",
+            "Overall Height - mast lowered": "54.2 ft (16 m)",
+            "Wheelbase": "8.6 ft (2 m)"
+        },
+        "Performance": {
+            "Operating Weight": "13999.4 lbs (6,350 kg)",
+            "Tire Fill/Type": "foam filled",
+            "Tire Size": "14 x 17.5 x 14ply"
+        },
+        "Platform": {
+            "Max Platform Height": "60.1 ft (18 m)",
+            "Platform Inner Length": "67.8 in (170 cm)",
+            "Platform Inner Width": "30.8 in (76 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

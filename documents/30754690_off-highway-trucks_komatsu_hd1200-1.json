@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hd1200-1/30754690",
+    "source_url_id": "30754690",
+    "source_url_model": "hd1200-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:14.656164",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HD1200-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "5.5 ft (2 m)",
+            "Dump Height": "34.3 ft (10 m)",
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Overall Height": "17 ft (5 m)",
+            "Overall Length": "35.7 ft (11 m)",
+            "Overall Width": "21.5 ft (6 m)",
+            "Wheelbase": "17.8 ft (5 m)"
+        },
+        "Dump": {
+            "Dump Angle": "47.5  \t\u00b0",
+            "Load Capacity - heaped": "91.6 cu yds (70 m)",
+            "Load Capacity - Struck": "60.3 cu yds (46 m)",
+            "Rated Payload": "240000 lbs (108,863 kg)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "2300 cu in (0 m)",
+            "Engine Model": "KTA-2300C",
+            "Gross Power": "1200 hp (895 kw)",
+            "Net Power": "1160 hp (865 kw)",
+            "Torque Measured @": "turbocharged rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "66.1 gal (250 l)",
+            "Engine Oil Capacity": "38.4 gal (144 l)",
+            "Fuel Capacity": "502 gal (1,900 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Tire Size": "30.00-51-46PR"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "240000 gal (908,400 l)"
+        },
+        "Transmission": {
+            "Max Speed": "35.8 mph (56 kph)"
+        },
+        "Weights": {
+            "Empty Weight": "189156.7 lbs (85,801 kg)",
+            "Loaded Weight": "453832.7 lbs (205,857 kg)",
+            "Weight Distribution Front - empty": "43.1%",
+            "Weight Distribution Front - loaded": "32%",
+            "Weight Distribution Rear - empty": "56.9%",
+            "Weight Distribution Rear - loaded": "68%"
+        }
+    }
+}

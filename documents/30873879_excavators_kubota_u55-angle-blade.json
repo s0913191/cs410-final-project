@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/u55-angle-blade/30873879",
+    "source_url_id": "30873879",
+    "source_url_model": "u55-angle-blade",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:45.975223",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "U55 Angle Blade",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "11.84 ft (3 m)",
+            "Digging Reach": "19.52 ft (6 m)"
+        },
+        "Engine": {
+            "Net Power": "47.6 hp (35 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "12280 lbs (5,570 kg)"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/ls-138h/23802",
+    "source_url_id": "23802",
+    "source_url_model": "ls-138h",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:48.620214",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "LS-138H",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "30%",
+            "Ground Clearance": "4 ft (1 m)",
+            "Tail Swing Radius": "13.5 ft (4 m)",
+            "Transport Height": "17.8 ft (5 m)",
+            "Transport Width": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Battery": "2",
+            "Bore": "4.6 in (10 cm)",
+            "Engine Make": "Isuzu",
+            "Engine Model": "6SA1T",
+            "Max Torque": "513 lbs/ft",
+            "Net Power": "263 hp (196 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "76.7 gal (288 l)",
+            "Hydraulic System Fluid Capacity": "78 gal (295 l)",
+            "Operating Voltage": "24 V V"
+        },
+        "Transmission": {
+            "Max Speed": "1.1 mph (2 kph)"
+        },
+        "Undercarriage": {
+            "Number of Shoes per Side": "50",
+            "Number of Track Rollers per Side": "10",
+            "Width of Shoes": "36 in (91 cm)"
+        }
+    }
+}

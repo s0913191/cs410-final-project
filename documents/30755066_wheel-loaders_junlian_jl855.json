@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/junlian/jl855/30755066",
+    "source_url_id": "30755066",
+    "source_url_model": "jl855",
+    "source_url_make": "junlian",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:55.539937",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Junlian",
+    "equipment_model": "JL855",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4 cu yds (3 m)",
+            "Dump Clearance at Max Raise": "10.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Length with Bucket on Ground": "26 ft (8 m)",
+            "Reach at Max Lift and Dump": "4.6 ft (1 m)",
+            "Wheelbase": "10.6 ft (3 m)",
+            "Width Over Tires": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "67G3-28",
+            "Gross Power": "217.3 hp (162 kw)"
+        },
+        "Hydraulic System": {
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "2320.7 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "34000 lbs (15,422 kg)",
+            "Tire Size": "23.5-25 pr"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.4 mph (35 kph)",
+            "Max Speed - Reverse": "10 mph (16 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "planetary, hydraulically shifting"
+        }
+    }
+}

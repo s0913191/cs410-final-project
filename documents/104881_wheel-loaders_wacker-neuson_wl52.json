@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/wacker-neuson/wl52/104881",
+    "source_url_id": "104881",
+    "source_url_model": "wl52",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:46.519147",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "WL52",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "1 cu yds (1 m)",
+            "Dumping angle, top": "39  \t\u00b0"
+        },
+        "Capacities": {
+            "Fuel Tank": "21.7 gal (79 l)",
+            "Hydraulic oil tank": "17.5 gal (64 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Length with Bucket on Ground": "15.3 ft (5 m)",
+            "Overall length": "18.1 ft (5 m)",
+            "Track Width": "53.6 in (135 cm)",
+            "Turning Radius": "5.1 ft (2 m)",
+            "Wheelbase": "6.6 ft (2 m)",
+            "Width Over Tires": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "95 A",
+            "Displacement": "177 cu in (0 m)",
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 2.9 L4",
+            "Gross Power": "75 hp (56 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15 gal/min (57 l/min)",
+            "Relief Valve Pressure": "6454.3 psi"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.5 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "405/70-18 EM ET 0"
+        },
+        "Weights": {
+            "Breakout force maximum": "9538.6 lbs/ft",
+            "Lifting force maximum": "6755.5 lbs (3,064 kg)",
+            "Operating weight": "11243.5 lbs (5,100 kg)"
+        }
+    }
+}

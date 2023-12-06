@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/dd31hf/30800811",
+    "source_url_id": "30800811",
+    "source_url_model": "dd31hf",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:04.430288",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "DD31HF",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "49.2 in (124 cm)",
+            "Vibration Frequency": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota V2203M Tier 4A"
+        },
+        "Operating Specifications": {
+            "Operating Width": "53.7 in (135 cm)"
+        }
+    }
+}

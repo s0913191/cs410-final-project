@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/traveling-axle-trailers/landoll/440a-48/30835571",
+    "source_url_id": "30835571",
+    "source_url_model": "440a-48",
+    "source_url_make": "landoll",
+    "source_url_category": "traveling-axle-trailers",
+    "source_date_scraped": "2023-09-13 17:56:05.378717",
+    "equipment_category": "Traveling Axle Trailers",
+    "equipment_make": "Landoll",
+    "equipment_model": "440A-48",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "48x8.5 ft (15 m)"
+        },
+        "Weights": {
+            "Equipment Weight": "18200 lbs (8,256 kg)",
+            "Weight Capacity": "80000 lbs (36,288 kg)"
+        }
+    }
+}

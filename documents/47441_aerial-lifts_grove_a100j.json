@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/a100j/47441",
+    "source_url_id": "47441",
+    "source_url_model": "a100j",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:37.432262",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "A100J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height - mast lowered": "9.7 ft (3 m)",
+            "Overall Length": "36.6 in (91 cm)",
+            "Overall Width": "8.1 ft (2 m)",
+            "Turning Radius": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "Diesel",
+            "Fuel Type": "Dual Fuel"
+        },
+        "Performance": {
+            "Max Speed": "2.5 mph (3 kph)",
+            "Operating Weight": "45798.9 lbs (20,774 kg)"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "54.1 ft (16 m)",
+            "Max Platform Height": "100 ft (30 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "106.1 ft (32 m)",
+            "Platform Inner Length": "94.5 in (239 cm)",
+            "Platform Inner Width": "35.9 in (89 cm)"
+        }
+    }
+}

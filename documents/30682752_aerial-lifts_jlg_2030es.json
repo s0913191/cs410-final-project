@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/2030es/30682752",
+    "source_url_id": "30682752",
+    "source_url_model": "2030es",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:27.280141",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "2030ES",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.5 in (8 cm)",
+            "Height w/ Rails": "7.3 ft (2 m)",
+            "Overall Length": "7.6 in (18 cm)",
+            "Overall Width": "2.5 ft (1 m)",
+            "Turning Radius": "6.8 ft (2 m)",
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "200",
+            "Charger Amps": "20",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "1.3 gal (4 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "3747.9 lbs (1,700 kg)",
+            "Tire Fill/Type": "Solid, Non-marking",
+            "Tire Size": "16x5"
+        },
+        "Platform": {
+            "Deck Extension": "35.5 in (89 cm)",
+            "Height of Rails": "3.7 ft (1 m)",
+            "Lift Time": "30 sec",
+            "Lower Time": "30 sec",
+            "Max Platform Height": "20.1 ft (6 m)",
+            "Max Platform Weight Capacity": "800.3 lbs (363 kg)",
+            "Platform Inner Length": "90.6 in (229 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        }
+    }
+}

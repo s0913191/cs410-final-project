@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/new-holland/cx8070/30590947",
+    "source_url_id": "30590947",
+    "source_url_model": "cx8070",
+    "source_url_make": "new-holland",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:21.655788",
+    "equipment_category": "Combines",
+    "equipment_make": "New Holland",
+    "equipment_model": "CX8070",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "900 rpm",
+            "Cleaning Fan Speed - Low": "475 rpm",
+            "Self Leveling?": "yes",
+            "Total Cleaning Area": "10075.1 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "13 ft (4 m)",
+            "Overall Length": "29.7 ft (9 m)",
+            "Width Over Tires": "14.5 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "549.3 cu in (0 m)",
+            "Number of Cylinders": "6",
+            "Power": "322 hp (240 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "290 bu",
+            "Unloading Auger Length": "21 ft (6 m)",
+            "Unloading Speed": "3.2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "200 gal (757 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "33950 lbs (15,400 kg)",
+            "Transmission Type": "Hydrostatic drive"
+        },
+        "Separating": {
+            "Separating Area": "11082.6 cu in (0 m)",
+            "Separator Length": "144.5 in (366 cm)"
+        },
+        "Threshing": {
+            "Beater Grate Area": "449.6 cu in (0 m)",
+            "Concave Area": "1829.1 cu in (0 m)",
+            "Rotor Diameter": "29.6 in (74 cm)",
+            "Rotor Length": "62.3 in (157 cm)",
+            "Rotor Speed - High": "905 rpm",
+            "Rotor Speed - Low": "305 rpm"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/rogator/874/30102918",
+    "source_url_id": "30102918",
+    "source_url_model": "874",
+    "source_url_make": "rogator",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:07.428097",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Rogator",
+    "equipment_model": "874",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4.1 ft (1 m)",
+            "Overall Length": "22.5 in (56 cm)",
+            "Transport Height": "12.1 ft (4 m)",
+            "Wheelbase": "14.7 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Wastegated turbocharger with exhaust brake",
+            "Displacement": "439 cu in (0 m)",
+            "Engine Model": "Cat 3126B",
+            "Gross Power": "250 hp (186 kw)",
+            "Gross Torque": "679 lbs/ft"
+        },
+        "Transmission": {
+            "Max Speed": "32 mph (51 kph)"
+        }
+    }
+}

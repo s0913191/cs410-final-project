@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/hardi/3000-i-alu/30753444",
+    "source_url_id": "30753444",
+    "source_url_model": "3000-i-alu",
+    "source_url_make": "hardi",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:23.598650",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Hardi",
+    "equipment_model": "3000 i Alu",
+    "equipment_spec": {
+        "Boom": {
+            "Max Boom Width": "105 ft (32 m)",
+            "Min Boom Width": "78.8 ft (24 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3.3 ft (1 m)",
+            "Overall Length": "24.3 in (61 cm)",
+            "Transport Height": "13.2 ft (4 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Wheelbase": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Gross Power": "140 hp (104 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "68.7 gal (257 l)",
+            "Hand/Eye Wash Tank Capacity": "4 gal (15 l)",
+            "Rinse Tank Capacity": "79.3 gal (299 l)",
+            "Solution Tank Capacity": "792.6 gal (2,998 l)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/john-deere/2454d-butt-top/30856093",
+    "source_url_id": "30856093",
+    "source_url_model": "2454d-butt-top",
+    "source_url_make": "john-deere",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:03.137461",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "2454D Butt & Top",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "41.9 ft (13 m)",
+            "Max Digging Depth": "12.1 ft (4 m)",
+            "Max Reach Along Ground": "34.3 ft (10 m)",
+            "Shipping Height of Unit": "11.6 ft (3 m)",
+            "Shipping Length of Unit": "47.2 ft (14 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Height - Top of Cab": "11.6 ft (3 m)",
+            "Length of Track on Ground": "47.2 ft (14 m)",
+            "Removal Counterweight Clearance": "4.8 ft (1 m)",
+            "Tail Swing Radius": "10.7 ft (3 m)",
+            "Width to Outside of Tracks": "2.3 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "415 cu in (0 m)",
+            "Engine Make": "John Deere",
+            "Engine Model": "6068H",
+            "Net Power": "194.5 hp (145 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80 A",
+            "Cooling System Fluid Capacity": "8.2 gal (30 l)",
+            "Engine Oil Capacity": "6.5 gal (23 l)",
+            "Fuel Capacity": "277.4 gal (1,048 l)",
+            "Hydraulic Pump Flow Capacity": "65.5 gal/min (246 l/min)",
+            "Hydraulic System Fluid Capacity": "81.9 gal (307 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "77977.5 lbs (35,370 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.6 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "56075 lbs (25,436 kg)",
+            "Ground Pressure": "8.9 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "8.6 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/asv/rc-85/30754633",
+    "source_url_id": "30754633",
+    "source_url_model": "rc-85",
+    "source_url_make": "asv",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:06.033220",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "ASV",
+    "equipment_model": "RC-85",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.1 in (36 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length - with Bucket": "12.4 ft (4 m)",
+            "Length - without Bucket": "9.8 ft (3 m)",
+            "Width Over Tracks": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "naturally aspirated",
+            "Displacement": "268 cu in (0 m)",
+            "Engine Model": "1104C-44",
+            "Gross Power": "86 hp (64 kw)",
+            "Peak Torque": "222 lbs/ft",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "38 gal/min (144 l/min)",
+            "Relief Valve Pressure": "3300 psi"
+        },
+        "Loader": {
+            "Operating Load": "3400 lbs (1,542 kg)",
+            "Tipping Angle": "6800  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "3.2 gal (11 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "26 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "20.1 gal (76 l)",
+            "Max Speed - high range": "6.1 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9710 lbs (4,404 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2604.1 cu in (0 m)",
+            "Ground Pressure": "3.3 psi",
+            "Length of Track on Ground": "6.1 ft (2 m)",
+            "Track Gauge": "4.3 ft (1 m)",
+            "Width of Track": "18 in (46 cm)"
+        }
+    }
+}

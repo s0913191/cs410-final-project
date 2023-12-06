@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/xcmg/qay55/30131442",
+    "source_url_id": "30131442",
+    "source_url_model": "qay55",
+    "source_url_make": "xcmg",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:18.622882",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "XCMG",
+    "equipment_model": "QAY55",
+    "equipment_spec": {
+        "CARRIER ENGINE": {
+            "Displacement": "659.1 cu in (0 m)",
+            "Gross Power": "340.7 hp (254 kw)",
+            "Max Torque": "1253.9 lbs/ft",
+            "Model": "ISM345.30",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Transport Height": "12.3 ft (4 m)",
+            "Transport Length": "41.7 ft (13 m)",
+            "Transport Width": "9.2 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "79366.5 lbs (36,000 kg)",
+            "Tire Size": "385/95 R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49.8 mph (79 kph)"
+        }
+    }
+}

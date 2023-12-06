@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/linde/h-160and-or1200/30756963",
+    "source_url_id": "30756963",
+    "source_url_model": "h-160and-or1200",
+    "source_url_make": "linde",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:25.504056",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Linde",
+    "equipment_model": "H 160/1200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height to Top of Overhead Guard": "10.3 ft (3 m)",
+            "Length to Fork Face": "18.6 ft (5 m)",
+            "Max Fork Height": "12.2 ft (4 m)",
+            "Overall Height - mast lowered": "12.8 ft (4 m)",
+            "Overall Width": "8.4 ft (2 m)",
+            "Turning Radius": "16.9 ft (5 m)",
+            "Wheelbase": "12.1 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "365 cu in (0 m)",
+            "Engine Model": "1106C-E60TA",
+            "Fuel Type": "Diesel",
+            "Number of Cylinders": "6",
+            "Power": "173.7 hp (129 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "78.8 ft/min",
+            "Load Capacity": "35274 lbs (16,000 kg)",
+            "Load Center": "47.3 in (119 cm)",
+            "Lower Speed": "104.4 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0",
+            "Max Fork Spread": "87.5 in (221 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "16.2 mph (26 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "49817.9 lbs (22,597 kg)",
+            "Tire Type": "pneumatic 12.00x20/20 PR"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/48z-1/2473416",
+    "source_url_id": "2473416",
+    "source_url_model": "48z-1",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:04:11.135448",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "48Z-1",
+    "equipment_spec": {
+        "Blades": {
+            "Approach angle": "31  \t\u00b0",
+            "Blade Height": "15.8 in (38 cm)",
+            "Blade Width": "6.5 ft (2 m)",
+            "Dig depth (below ground)": "1.6 ft (0 m)",
+            "Maximum height": "1.5 ft (0 m)"
+        },
+        "Boom": {
+            "Boom swing left": "75  \t\u00b0",
+            "Boom swing right": "55  \t\u00b0",
+            "Bucket rotation": "201  \t\u00b0",
+            "Bucket tearout": "3507.1 lbs (1,591 kg)",
+            "Dipper rotation": "126  \t\u00b0",
+            "Dipper tearout": "1978.4 lbs (897 kg)",
+            "Slew speed": "7.9 rpm"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "8 ft (2 m)",
+            "Max Digging Height": "17.7 ft (5 m)",
+            "Max Digging Reach": "19.2 ft in (48 cm)",
+            "Max Digging Reach on Ground": "18.8 ft (5 m)",
+            "Max.Dumping Height": "13.2 ft (4 m)",
+            "Maximum digging depth - dozer down": "11.6 ft (3 m)",
+            "Maximum digging depth - dozer up": "11 ft (3 m)",
+            "Maximum height to dipper nose pivot pin": "15.4 ft (5 m)",
+            "Maximum vertical wallcut depth": "6.5 ft (2 m)",
+            "Minimum front swing radius (no offset)": "8.6 ft (2 m)"
+        },
+        "Capacities": {
+            "Engine coolant": "3.2 gal (11 l)",
+            "Engine Oil": "2.5 gal (8 l)",
+            "Fuel Tank": "20.1 gal (76 l)",
+            "Hydraulic system": "26.5 gal (98 l)",
+            "Hydraulic Tank": "14.6 gal (53 l)"
+        },
+        "Dimensions": {
+            "Cab height": "2551 mm (100 in)",
+            "Cab length": "341.1 gal (1,291 l)",
+            "Cab width": "40.2 in (102 cm)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Overall width of superstructure": "6 ft (2 m)",
+            "Tail Swing Radius": "3.2 ft (1 m)",
+            "Track Gauge": "5.1 ft (2 m)",
+            "Transport length": "139.7 in (353 cm)",
+            "Undercarriage Overall Length": "8.2 ft (2 m)",
+            "Width Over Tracks": "3.3 ft (1 m)"
+        },
+        "Engine": {
+            "Alternator": "85 A",
+            "Cooling system": "Water cooled",
+            "Displacement": "132970.8 cu in (2 m)",
+            "Engine Model": "Stage 3A 404D-22",
+            "Fuel": "Diesel",
+            "Gross Power": "35.7 hp (26 kw)",
+            "Net Power": "14.5 hp (10 kw)"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "23.8 gal/min (87 l/min)",
+            "Excavator/track main relief": "240 bar",
+            "Nominal output": "33.3 gal/min (125 l/min)",
+            "Slew main relief": "216 bar"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "12 V",
+            "Operating Weight": "10564.6 lbs (4,792 kg)"
+        },
+        "Performance": {
+            "Travel speed  low": "1.9 mph (2 kph)",
+            "Travel Speed - High": "2.9 mph (3 kph)"
+        },
+        "Undercarriage": {
+            "Number of bottom rollers per side": "4",
+            "Track tension": "Grease",
+            "Tractive Effort": "29.2 lbs (13 kg)"
+        },
+        "Weights": {
+            "Shipping": "10278 lbs (4,662 kg)"
+        }
+    }
+}

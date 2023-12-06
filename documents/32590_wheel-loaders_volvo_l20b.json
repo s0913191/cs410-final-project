@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l20b/32590",
+    "source_url_id": "32590",
+    "source_url_model": "l20b",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:44.584907",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L20B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "6856.7 lbs (3,110 kg)",
+            "Bucket Capacity - heaped": "0.9 cu yds (0 m)",
+            "Bucket Width": "6 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Hinge Pin - Max Height": "10.4 ft (3 m)",
+            "Length with Bucket on Ground": "16.7 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.4 ft (1 m)",
+            "Wheelbase": "6.8 ft (2 m)",
+            "Width Over Tires": "5.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "189.2 cu in (0 m)",
+            "Engine Model": "D3DCAE2",
+            "Gross Power": "56 hp (42 kw)",
+            "Make": "Volvo",
+            "Model": "D3D CAE2",
+            "Net Power": "54 hp (40 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1700 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2 sec",
+            "Lower Time": "4 sec",
+            "Pump Flow Capacity": "13.8 gal/min (49 l/min)",
+            "Pump Type": "Gear-type pump",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Engine Oil Fluid Capacity": "2.8 gal (8 l)",
+            "Front Axle/Diff Fluid Capacity": "1.1 gal (4 l)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9546.1 lbs (4,330 kg)",
+            "Rated Bucket Capacity": "0.75 - 1.25 cu yds (0 - 1 m)",
+            "Rear Axle Oscillation": "20  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "1.6 gal (4 l)",
+            "Static Tipping Weight": "7055 lbs (3,200 kg)",
+            "Tire Size": "12.0-18"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Weights": {
+            "Operational Weight": "9945 lbs (4,511 kg)"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/9650-sts/30752572",
+    "source_url_id": "30752572",
+    "source_url_model": "9650-sts",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:32.981925",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "9650 STS",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Total Cleaning Area": "7053 cu in (0 m)"
+        },
+        "Engine": {
+            "Displacement": "8.1 cu in (0 m)",
+            "Engine Model": "6081H",
+            "Number of Cylinders": "6",
+            "Power": "290 hp (216 kw)",
+            "Power Boost Power": "241 hp (180 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "210 gal (795 l)",
+            "Operating Weight w/o Attachment": "29260 lbs (13,272 kg)"
+        },
+        "Separating": {
+            "Discharge Grate Area": "580 cu in (0 m)",
+            "Separating Area": "1860003.8 cu in (30 m)",
+            "Separator Length": "1860 in (4,724 cm)"
+        },
+        "Threshing": {
+            "Beater Grate Area": "420 cu in (0 m)",
+            "Concave Area": "1705 cu in (0 m)"
+        }
+    }
+}

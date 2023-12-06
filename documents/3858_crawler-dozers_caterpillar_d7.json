@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d7/3858",
+    "source_url_id": "3858",
+    "source_url_model": "d7",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:15.781280",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D7",
+    "equipment_spec": {
+        "Dimensions": {
+            "Track Gauge": "78 - 88 in (198 - 224 cm)"
+        },
+        "Engine": {
+            "Displacement": "567 cu in (0 m)",
+            "Engine Model": "Cat C9.3B",
+            "Net Power": "265 - 268 hp (198 - 200 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "62035 - 65,644 lbs (28,139 - 29,776 kg)"
+        },
+        "Service Refill Capacities": {
+            "DEF Tank": "11.6 gal (42 l)",
+            "Fuel Tank": "122.8 gal (462 l)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "6.3 - 10.50 psi"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hevi/gel-1800/31882169",
+    "source_url_id": "31882169",
+    "source_url_model": "gel-1800",
+    "source_url_make": "hevi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:33.794520",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hevi",
+    "equipment_model": "GEL-1800",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "18' 10\""
+        },
+        "Dimensions": {
+            "Angle of Articulation": "35 \t\u00b0",
+            "Bucket Articulation": "45 \t\u00b0",
+            "Clearance Distance": "18' 10\"",
+            "Max Dumping Height": "8' 6\"",
+            "Minimum Ground Clearance": "1' 2\"",
+            "Overall Height": "9' 10\"",
+            "Overall Height Bucket Raised": "13' 3\"",
+            "Overall Length with Bucket": "18' 9\"",
+            "Overall Length Without Bucket": "17' 4\"",
+            "Overall Width": "6' 6\"",
+            "Reach With Bucket Raised": "4' 3\"",
+            "Wheel Base": "7' 5\""
+        },
+        "Driving": {
+            "Brakes": "Hydraulic Caliper Disc Brakes",
+            "Forward I Speed": "6 mph (10 kph)",
+            "Forward II Speed": "16 mph (26 kph)",
+            "Hub Reductor Type": "Spur Gear Planet Drive",
+            "Main Drive": "Spiral Bevel Gear One Stage Reduction",
+            "Motor Type": "Permanent Magnet Synchronization",
+            "Rated Power": "57 KWh",
+            "Rated Voltage": "380 V",
+            "Reverse Speed": "6 mph (10 kph)",
+            "Steering Mode": "Articulated Frame Steering",
+            "Tire": "16/70-20PR",
+            "Transmission Gear": "2 Forward 1 Reverse",
+            "Transmission Type": "Hydraulic"
+        },
+        "Driving Hydraulics": {
+            "Brakes": "Transmission Oil Capacity - 4 gal (0 - 15 l)",
+            "Drive/Steering Oil Capacity": "4 gal (15 l)",
+            "Proctection grade IP67": "Yes",
+            "Steering Output Volume": "15 ml/r",
+            "Steering Service Pressure": "2175 psi",
+            "Transmission Oil Capacity": "4 gal (15 l)"
+        },
+        "General": {
+            "Bucket Capacity": "1.3 cu yds (1 m)",
+            "Descent Time": "3 sec",
+            "Dumping Distance": "3' 2\"",
+            "Lifting Time": "5.5 sec",
+            "Maximum Digging Force": "50 NEWTON",
+            "Maximum Gradeability": "35%",
+            "Operating Weight": "11464 lbs (5,200 kg)",
+            "Rated Load": "3968 lbs (1,800 kg)",
+            "Rear Axle Lateral Swing Angle": "7 \t\u00b0",
+            "Tipping Load": "8378 lbs (3,800 kg)",
+            "Unloading Time": "1.5 sec",
+            "Wheel Tread": "4' 11\""
+        },
+        "Operating Specifications": {
+            "Operating Weight": "11464 lbs (5,200 kg)"
+        }
+    }
+}

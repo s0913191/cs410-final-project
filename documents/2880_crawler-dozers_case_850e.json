@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/850e/2880",
+    "source_url_id": "2880",
+    "source_url_model": "850e",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:41.505906",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "850E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Length w/ Blade": "13.9 ft (4 m)",
+            "Width Over Tracks": "6.1 ft in (15 cm)"
+        },
+        "Engine": {
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "6-590/6T-590",
+            "Gross Power": "99 hp (74 kw)",
+            "Max Torque": "265 lbs/ft",
+            "Net Power": "89 hp (66 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "24 gal/min (91 l/min)",
+            "Relief Valve Pressure": "2200 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Cooling System Fluid Capacity": "5 gal (19 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Final Drives Fluid Capacity": "1.9 gal (4 l)",
+            "Fuel Capacity": "47 gal (178 l)",
+            "Hydraulic Fluid Capacity": "12 gal (45 l)",
+            "Operating Voltage": "24 V V"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.6 mph (8 kph)",
+            "Max Speed - Reverse": "6.1 mph (10 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "708351.5 cu in (12 m)",
+            "Ground Pressure": "5.4 psi",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "38",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "18 in (46 cm)",
+            "Track Gauge": "5 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/mitsubishi/fd15nt/30757737",
+    "source_url_id": "30757737",
+    "source_url_model": "fd15nt",
+    "source_url_make": "mitsubishi",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:36:33.465366",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Mitsubishi",
+    "equipment_model": "FD15NT",
+    "equipment_spec": {
+        "Engine": {
+            "Fuel Type": "Diesel"
+        },
+        "MAST": {
+            "Load Capacity": "3307 lbs (1,500 kg)",
+            "Load Center": "19.7 in (48 cm)"
+        }
+    }
+}

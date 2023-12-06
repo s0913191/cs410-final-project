@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d5c-iii/30750673",
+    "source_url_id": "30750673",
+    "source_url_model": "d5c-iii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:28.213600",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D5C III",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length w/ Blade": "13.4 ft (4 m)",
+            "Length w/o Blade": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "305 cu in (0 m)",
+            "Engine Model": "Cat 3046"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "41.5 gal (155 l)",
+            "Operating Weight": "18580 lbs (8,428 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "6",
+            "Track Gauge": "5.1 ft (2 m)"
+        }
+    }
+}

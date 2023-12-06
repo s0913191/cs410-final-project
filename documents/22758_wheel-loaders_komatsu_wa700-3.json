@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa700-3/22758",
+    "source_url_id": "22758",
+    "source_url_model": "wa700-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:59.071006",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA700-3",
+    "equipment_spec": {
+        "Engine": {
+            "Model": "SAA6D170E-3",
+            "Net Power": "672 hp (501 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "10.5 - 12.30 cu yds (8 - 9 m)"
+        },
+        "Weights": {
+            "Operational Weight": "156570 - 161,150 lbs (71,020 - 73,097 kg)"
+        }
+    }
+}

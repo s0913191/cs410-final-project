@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/e450aj/30683119",
+    "source_url_id": "30683119",
+    "source_url_model": "e450aj",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:22.710108",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "E450AJ",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9 in (23 cm)",
+            "Overall Height - mast lowered": "6.7 ft (2 m)",
+            "Overall Length": "21.2 in (53 cm)",
+            "Overall Width": "5.9 ft (2 m)",
+            "Platform Dimension A": "2.6 ft (1 m)",
+            "Platform Dimension B": "5 ft (2 m)",
+            "Turning Radius": "10.4 ft (3 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "370",
+            "Number of Batteries": "8",
+            "System Voltage": "48 V"
+        },
+        "Hydraulic System": {
+            "Hydraulic Reservoir": "4 gal (15 l)"
+        },
+        "Performance": {
+            "Drive Speed": "3.2 mph (5 kph)",
+            "Gradeability": "30%",
+            "Jib - Range of articulation": "141  \t\u00b0",
+            "Max Speed": "3.3 mph (5 kph)",
+            "Operating Weight": "14400.6 lbs (6,532 kg)",
+            "Platform Capacity": "500 lbs (227 kg)",
+            "Swing": "360  \t\u00b0",
+            "Tire Fill/Type": "pneumatic",
+            "Tire Size": "240/55-17.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "23.9 ft (7 m)",
+            "Max Platform Height": "45 ft (14 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "25.3 ft (8 m)",
+            "Platform Capacity - Unrestricted": "500 lbs (227 kg)",
+            "Platform Inner Length": "59.9 in (150 cm)",
+            "Platform Inner Width": "30 in (76 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

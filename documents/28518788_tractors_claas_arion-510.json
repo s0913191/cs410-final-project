@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/claas/arion-510/28518788",
+    "source_url_id": "28518788",
+    "source_url_model": "arion-510",
+    "source_url_make": "claas",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:03.661560",
+    "equipment_category": "Tractors",
+    "equipment_make": "Claas",
+    "equipment_model": "ARION 510",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "19.1 in (48 cm)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Overall Length": "16.1 in (41 cm)",
+            "Tire Size": "Front 13.6 R 28, Rear 16.9R38",
+            "Wheelbase": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "276.2 cu in (0 m)",
+            "Engine Model": "ECE R 24",
+            "Gross Power": "110 hp (82 kw)",
+            "Net Power": "103.3 hp (77 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "6",
+            "Pump Flow Capacity": "15.9 gal/min (57 l/min)",
+            "Relief Valve Pressure": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Operating Weight": "13633.4 lbs (6,184 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "Powershift speeds 6"
+        }
+    }
+}

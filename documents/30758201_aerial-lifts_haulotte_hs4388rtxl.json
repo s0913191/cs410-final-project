@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/hs4388rtxl/30758201",
+    "source_url_id": "30758201",
+    "source_url_model": "hs4388rtxl",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:37.036495",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HS4388RTXL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11 in (28 cm)",
+            "Height w/ Rails": "9.1 ft (3 m)",
+            "Height w/o Rails": "6.3 ft (2 m)",
+            "Overall Length": "17.5 in (43 cm)",
+            "Overall Width": "7.5 ft (2 m)",
+            "Turning Radius": "20.4 ft (6 m)",
+            "Wheelbase": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Diesel",
+            "Gross Power": "32.2 hp (24 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "17 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "26 gal (98 l)",
+            "Max Speed": "3.7 mph (5 kph)",
+            "Operating Weight": "14399 lbs (6,531 kg)",
+            "Tire Fill/Type": "Foam",
+            "Tire Size": "10x16.5"
+        },
+        "Platform": {
+            "Deck Extension": "39 in (99 cm)",
+            "Lift Time": "46 sec",
+            "Lower Time": "57 sec",
+            "Max Platform Height": "42.7 ft (13 m)",
+            "Max Platform Weight Capacity": "1103 lbs (500 kg)",
+            "Max Working Height": "48.7 ft (15 m)",
+            "Platform Inner Length": "287 in (729 cm)",
+            "Platform Inner Width": "75 in (191 cm)"
+        }
+    }
+}

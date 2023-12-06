@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/liebherr/lr-626/30760677",
+    "source_url_id": "30760677",
+    "source_url_model": "lr-626",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:57.300315",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LR 626",
+    "equipment_spec": {
+        "Engine": {
+            "Model": "924 A7",
+            "Net Power": "141 hp (105 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "35561-41006 lbs (16,130 kg)"
+        }
+    }
+}

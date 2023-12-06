@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/challenger/mt225b/30751561",
+    "source_url_id": "30751561",
+    "source_url_model": "mt225b",
+    "source_url_make": "challenger",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:23.958805",
+    "equipment_category": "Tractors",
+    "equipment_make": "Challenger",
+    "equipment_model": "MT225B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.5 in (25 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Overall Length": "8.5 in (20 cm)",
+            "Tire Size": "(F)6-12 4ply;(R)9.5-16 6ply",
+            "Track Width": "35.6 in (89 cm)",
+            "Wheelbase": "5 ft (2 m)",
+            "Width Outside Frame": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "68.5 cu in (0 m)",
+            "Gross Power": "22.5 hp (16 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "17.6 hp (13 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8.1 gal/min (30 l/min)",
+            "Relief Valve Pressure": "1990 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "590.9 lbs (268 kg)",
+            "3 Point Hitch Type": "Cat.1",
+            "Fuel Capacity": "6.7 gal (23 l)",
+            "Operating Weight": "1604 lbs (728 kg)",
+            "Turning Radius": "94.5 ft (29 m)"
+        },
+        "Transmission": {
+            "Max Speed": "13.5 mph (21 kph)",
+            "Number of Forward Gears": "2",
+            "Transmission Type": "Hydrostatic (HST)"
+        }
+    }
+}

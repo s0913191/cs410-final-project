@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tms700e/12856",
+    "source_url_id": "12856",
+    "source_url_model": "tms700e",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:43.080952",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TMS700E",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "212 ft (65 m)",
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "118 ft (36 m)",
+            "Max Lift Capacity": "120000 lbs (54,432 kg)",
+            "Max Working Radius": "100 ft (30 m)",
+            "Min Height @ Max Raise Angle": "36 ft (11 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "661 cu in (0 m)",
+            "Gross Power": "450.6 hp (336 kw)",
+            "Make": "Grove",
+            "Max Torque": "1450.1 lbs/ft",
+            "Model": "ISM 450",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "36.6 ft (11 m)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "11.8 ft (3 m)",
+            "Transport Length": "44.5 ft (13 m)",
+            "Transport Width": "8.6 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13.5 ft (4 m)",
+            "Width w/ Outriggers Extended": "14 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "100.2 gal (379 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "74712.5 lbs (33,889 kg)",
+            "Tire Size": "front 445/65R22.5 rear 315/80R22.5",
+            "Upper Structure Hydraulic System Fluid Capacity": "169.9 gal (640 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "64.7 mph (103 kph)",
+            "Number of Forward Gears": "11",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Roadranger"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Grove"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/caterpillar/pm465/30091294",
+    "source_url_id": "30091294",
+    "source_url_model": "pm465",
+    "source_url_make": "caterpillar",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:50.901311",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "PM465",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Discharge Conveyor Width": "30 in (76 cm)"
+        },
+        "Dimensions": {
+            "Max Operating Height": "15.1 ft (5 m)",
+            "Operating Length": "43 ft (13 m)",
+            "Shipping Width": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "891 cu in (0 m)",
+            "Engine Model": "3406CTA",
+            "Gross Power": "500 hp (373 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "210.3 gal (795 l)",
+            "Operating Speed": "121.4 ft/min",
+            "Operating Weight - Full Load": "57959.6 lbs (26,290 kg)",
+            "Travel Speed": "3.3 mph (5 kph)",
+            "Water Spray System Fluid Capacity": "601 gal (2,275 l)"
+        },
+        "Rotary Cutter": {
+            "Cutting Depth": "12.1 in (30 cm)",
+            "Cutting Width": "6.6 ft (2 m)",
+            "Number of Tools": "144"
+        },
+        "Track": {
+            "Front Track Length": "4.1 ft (1 m)",
+            "Front Track Width": "9.9 in (23 cm)",
+            "Number of Track Units": "2",
+            "Rear Track Length": "4.1 ft (1 m)",
+            "Rear Track Width": "9.9 in (23 cm)"
+        }
+    }
+}

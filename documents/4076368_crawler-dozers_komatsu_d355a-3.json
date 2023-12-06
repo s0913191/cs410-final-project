@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d355a-3/4076368",
+    "source_url_id": "4076368",
+    "source_url_model": "d355a-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:24.191660",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D355A-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Height - Top of Cab": "13.6 ft (4 m)",
+            "Length of Track on Ground": "11.1 ft (3 m)",
+            "Length w/ Blade": "30.2 ft (9 m)",
+            "Length w/o Blade": "18.6 ft (5 m)",
+            "Width Over Tracks": "10 ft in (25 cm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "1175.4 cu in (0 m)",
+            "Engine Model": "SA6D155-4A",
+            "Gross Power": "410 hp (306 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "47.6 gal (178 l)",
+            "Fuel Capacity": "198.2 gal (749 l)",
+            "Operating Weight": "105557.4 lbs (47,880 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "19.9 cu yds (15 m)",
+            "Height": "73.9 in (185 cm)",
+            "Width": "14.2 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.9 mph (11 kph)",
+            "Max Speed - Reverse": "7.9 mph (11 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "TF"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "12.7 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "7.5 ft (2 m)",
+            "Track Pitch": "10.3 in (25 cm)"
+        }
+    }
+}

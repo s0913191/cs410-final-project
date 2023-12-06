@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-4707/29939397",
+    "source_url_id": "29939397",
+    "source_url_model": "mf-4707",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:55.694168",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 4707",
+    "equipment_spec": {
+        "3-Point Hitch": {
+            "Category": "Category  II",
+            "Lift capacity @ 24in. (ASAE)": "4850.2 lbs (2,200 kg)"
+        },
+        "Dimensions": {
+            "Overall Width": "5.1 ft (2 m)",
+            "Wheelbase": "7.4 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "80",
+            "Battery": "12 V"
+        },
+        "Engine": {
+            "Aspiration": "Intercooled turbocharged",
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Make": "AGCO Power",
+            "Gross Power": "70 hp (52 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "58 hp (43 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Open Center system",
+            "Number of Remote Control Valves": "1 or 2 standard",
+            "Pump Flow Capacity": "17.7 gal/min (64 l/min)",
+            "Pump Type": "Gear type single pump"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "27.7 gal (102 l)"
+        },
+        "Power Take-Off (PTO)": {
+            "Optional": "Independent",
+            "Power Take-Off(PTO) Type": "Electro-hydraulic shuttle lever",
+            "PTO speed": "540 rpm",
+            "PTO Speeds @ Engine rpm": "1000"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8"
+        },
+        "Weights": {
+            "Weight 2WD with ROPS": "6444.2 lbs (2,923 kg)",
+            "Weight 4WD With ROPS": "7125.4 lbs (3,232 kg)"
+        }
+    }
+}

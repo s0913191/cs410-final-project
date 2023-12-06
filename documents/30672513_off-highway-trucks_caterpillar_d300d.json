@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/d300d/30672513",
+    "source_url_id": "30672513",
+    "source_url_model": "d300d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:59.215562",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D300D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Height": "21.1 ft (6 m)",
+            "Overall Height": "10.8 ft (3 m)",
+            "Overall Length": "32.4 ft (10 m)",
+            "Overall Width": "9.5 ft (3 m)"
+        },
+        "Dump": {
+            "Dump Angle": "55  \t\u00b0",
+            "Rated Payload": "59965.8 lbs (27,200 kg)"
+        },
+        "Engine": {
+            "Gross Power": "285 hp (213 kw)"
+        },
+        "Weights": {
+            "Total Empty": "45600 lbs (20,684 kg)"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/pel-job/el851/30755036",
+    "source_url_id": "30755036",
+    "source_url_model": "el851",
+    "source_url_make": "pel-job",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:59.055961",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Pel-Job",
+    "equipment_model": "EL851",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.8 cu yds (0 m)"
+        },
+        "Engine": {
+            "Engine Model": "104-22",
+            "Gross Power": "42.7 hp (31 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "8554 lbs (3,880 kg)",
+            "Static Tipping Weight": "6040.7 lbs (2,740 kg)"
+        }
+    }
+}

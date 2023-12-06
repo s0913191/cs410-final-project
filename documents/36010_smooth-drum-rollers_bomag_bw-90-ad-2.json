@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-90-ad-2/36010",
+    "source_url_id": "36010",
+    "source_url_model": "bw-90-ad-2",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:25.864472",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 90 AD-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Overall Length": "6.2 in (15 cm)",
+            "Overall Width": "3.3 ft (1 m)",
+            "Turning Radius - Inside": "6.5 ft (2 m)",
+            "Wheelbase": "4.3 in (10 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "3372.2 lbs (1,530 kg)",
+            "Drum Diameter": "22.9 in (56 cm)",
+            "Drum Width": "35.4 in (89 cm)",
+            "Frequency": "60 hz (3,600 vpm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "47.1 lbs/in",
+            "Vibration Frequency": "3600 hz (216,000 vpm)",
+            "Vibration Frequency 1": "60 hz (3,600 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "D 722 B",
+            "Gross Power": "15.9 hp (11 kw)",
+            "Make": "Kubota",
+            "Number of Cylinders": "3",
+            "Power Measured @": "3000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6.1 gal (23 l)",
+            "Max Speed": "5 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3351.1 lbs (1,520 kg)",
+            "Operating Width": "37.6 in (94 cm)"
+        }
+    }
+}

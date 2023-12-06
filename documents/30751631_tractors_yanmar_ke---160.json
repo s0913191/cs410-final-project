@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ke---160/30751631",
+    "source_url_id": "30751631",
+    "source_url_model": "ke---160",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:47.825483",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "Ke - 160",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.7 in (23 cm)",
+            "Height - Top of Cab": "7.2 ft (2 m)",
+            "Overall Length": "7.7 in (18 cm)",
+            "Tire Size": "Front 5 - 12, Rear 8-16",
+            "Wheelbase": "4 ft (1 m)",
+            "Width Outside Frame": "3.5 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "47.9 cu in (0 m)",
+            "Engine Model": "3TNE68",
+            "Gross Power": "15.9 hp (11 kw)",
+            "Net Power": "13.9 hp (10 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat. I",
+            "Alternator Supplied Amperage": "36  A",
+            "Fuel Capacity": "3.5 gal (11 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "1278.7 lbs (580 kg)",
+            "Turning Radius": "5.6 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "8.2 mph (13 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Transmission driven P/T/O (SAE 1 - 3/8)"
+        }
+    }
+}

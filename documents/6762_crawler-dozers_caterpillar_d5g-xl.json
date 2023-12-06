@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d5g-xl/6762",
+    "source_url_id": "6762",
+    "source_url_model": "d5g-xl",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:33.316591",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D5G XL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length of Track on Ground": "7.6 ft (2 m)",
+            "Length w/ Blade": "14.3 ft (4 m)",
+            "Length w/o Blade": "10.5 ft (3 m)",
+            "Width Over Tracks": "6.8 ft in (15 cm)"
+        },
+        "Engine": {
+            "Displacement": "305 cu in (0 m)",
+            "Engine Model": "3046T",
+            "Gross Power": "99 hp (74 kw)",
+            "Net Power": "90 hp (67 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "16.1 gal/min (61 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "120  A",
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Engine Oil Capacity": "3.4 gal (11 l)",
+            "Final Drives Fluid Capacity": "3.9 gal (11 l)",
+            "Fuel Capacity": "48.6 gal (182 l)",
+            "Hydraulic Fluid Capacity": "12 gal (45 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "19662 lbs (8,919 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "2.9 cu yds (2 m)",
+            "Height": "3.7 in (8 cm)",
+            "Width": "8.9 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.6 mph (8 kph)",
+            "Max Speed - Reverse": "6 mph (10 kph)",
+            "Number of Forward Gears": "1",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3663 cu in (0 m)",
+            "Ground Pressure": "5.4 psi",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "20 in (51 cm)",
+            "Track Gauge": "5.1 ft (2 m)"
+        }
+    }
+}

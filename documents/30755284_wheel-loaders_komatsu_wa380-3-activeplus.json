@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa380-3-activeplus/30755284",
+    "source_url_id": "30755284",
+    "source_url_model": "wa380-3-activeplus",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:31.463255",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA380-3 Active+",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "34845.4 lbs (15,806 kg)",
+            "Bucket Capacity - heaped": "4.1 cu yds (3 m)",
+            "Bucket Width": "9.6 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Hinge Pin - Max Height": "13.4 ft (4 m)",
+            "Length with Bucket on Ground": "25.8 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.7 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "S6D114 E-1",
+            "Gross Power": "192 hp (143 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.5 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "79.3 gal/min (299 l/min)",
+            "Raise Time": "5.1 sec",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "14.1 gal (53 l)",
+            "Engine Oil Fluid Capacity": "6 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "9.8 gal (34 l)",
+            "Fuel Capacity": "75.9 gal (284 l)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "38955.7 lbs (17,670 kg)",
+            "Rear Axle Oscillation": "30  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "9.8 gal (34 l)",
+            "Static Tipping Weight": "31140.3 lbs (14,125 kg)",
+            "Tire Size": "23.5 R 25 XHA L3",
+            "Transmission Fluid Capacity": "12.7 gal (45 l)",
+            "Turning Radius": "19.2 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23 mph (37 kph)",
+            "Max Speed - Reverse": "23.7 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "fully automatic powershift"
+        }
+    }
+}

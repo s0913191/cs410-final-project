@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/us601/30751773",
+    "source_url_id": "30751773",
+    "source_url_model": "us601",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:51.444083",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "US601",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Overall Length": "11.8 in (28 cm)",
+            "Tire Size": "Front 8.3 - 20, Rear 12.4-32",
+            "Wheelbase": "6.6 ft (2 m)",
+            "Width Outside Frame": "5.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "202.5 cu in (0 m)",
+            "Engine Model": "4TNV98",
+            "Net Power": "59.2 hp (44 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "10 gal/min (38 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Operating Weight": "5004.5 lbs (2,270 kg)",
+            "Turning Radius": "9.6 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "18.4 mph (29 kph)",
+            "Number of Forward Gears": "20",
+            "Number of Reverse Gears": "20",
+            "Transmission Type": "Partial Synchro - mesh"
+        }
+    }
+}

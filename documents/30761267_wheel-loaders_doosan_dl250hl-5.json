@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/doosan/dl250hl-5/30761267",
+    "source_url_id": "30761267",
+    "source_url_model": "dl250hl-5",
+    "source_url_make": "doosan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:50.818440",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "DL250HL-5",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.7 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Doosan",
+            "Net Power": "172 hp (128 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.4 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "31130 lbs (14,121 kg)"
+        }
+    }
+}

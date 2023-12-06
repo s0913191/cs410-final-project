@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx370/14312",
+    "source_url_id": "14312",
+    "source_url_model": "zx370",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:01:54.787577",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX370",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "23.9 ft (7 m)",
+            "Max Digging Height": "34 ft (10 m)",
+            "Max Reach Along Ground": "35.8 ft (11 m)",
+            "Max.Dumping Height": "23.8 ft (7 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "23 ft (7 m)",
+            "Digging Reach": "23 ft (7 m)",
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Length of Track on Ground": "13.3 ft (4 m)",
+            "Tail Swing Radius": "10.9 ft (3 m)",
+            "Width to Outside of Tracks": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "475.4 cu in (0 m)",
+            "Emissions level": "Tier 2",
+            "Net Power": "247 hp (184 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "148 gal (560 l)",
+            "Hydraulic Fluid Capacity": "40.7 gal (151 l)",
+            "Operating Weight": "82098 lbs (37,239 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.9 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "29.6 in (74 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        }
+    }
+}

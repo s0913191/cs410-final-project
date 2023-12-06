@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/new-holland/lw130tc/26386",
+    "source_url_id": "26386",
+    "source_url_model": "lw130tc",
+    "source_url_make": "new-holland",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:21.068270",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "LW130TC",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "8.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Hinge Pin - Max Height": "12.7 ft (4 m)",
+            "Length with Bucket on Ground": "24 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.9 ft (1 m)",
+            "Wheelbase": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "8065T",
+            "Gross Power": "130 hp (97 kw)",
+            "Net Power": "140 hp (104 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "43.6 gal/min (163 l/min)",
+            "Pump Type": "sealed system with anticavitation and relief valves",
+            "Relief Valve Setting": "3046 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "7.4 gal (27 l)",
+            "Engine Oil Fluid Capacity": "3.2 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "5.6 gal (19 l)",
+            "Fuel Capacity": "45 gal (170 l)",
+            "Hydraulic System Fluid Capacity": "27.8 gal (102 l)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "7.7 gal (27 l)",
+            "Tire Size": "20.5 x 25 XTLA",
+            "Transmission Fluid Capacity": "5.3 gal (19 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15.1 mph (24 kph)",
+            "Max Speed - Reverse": "15.5 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "powershift countershaft"
+        }
+    }
+}

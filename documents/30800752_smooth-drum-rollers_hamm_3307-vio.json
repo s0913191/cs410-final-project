@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/3307-vio/30800752",
+    "source_url_id": "30800752",
+    "source_url_model": "3307-vio",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:41.973838",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "3307 VIO",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "120 in (305 cm)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Vibration Frequency": "36 hz (2,160 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "70.5 in (178 cm)"
+        }
+    }
+}

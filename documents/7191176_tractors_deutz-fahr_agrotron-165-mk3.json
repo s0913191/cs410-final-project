@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/agrotron-165-mk3/7191176",
+    "source_url_id": "7191176",
+    "source_url_model": "agrotron-165-mk3",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:15:36.050468",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "AGROTRON 165 MK3",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "160  hp"
+        },
+        "Production": {
+            "Series": "Agrotron Series",
+            "Years Manufactured": "2001 - 2003"
+        }
+    }
+}

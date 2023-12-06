@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/323/30705898",
+    "source_url_id": "30705898",
+    "source_url_model": "323",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:18.082198",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "323",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "22.0 ft (7 m)",
+            "Max Reach Along Ground": "32.1 ft (10 m)"
+        },
+        "Engine": {
+            "Net Power": "162 hp (121 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "56200 lbs (25,492 kg)"
+        }
+    }
+}

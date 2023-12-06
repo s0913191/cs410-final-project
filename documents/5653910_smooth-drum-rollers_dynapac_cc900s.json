@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc900s/5653910",
+    "source_url_id": "5653910",
+    "source_url_model": "cc900s",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:34.488984",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC900S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Overall Length": "6.9 in (15 cm)",
+            "Overall Width": "3.2 ft (1 m)",
+            "Overhang Front": "0.2 ft (0 m)",
+            "Overhang Rear": "0.2 ft (0 m)",
+            "Turning Radius - Outside": "8.5 ft (2 m)",
+            "Wheelbase": "4.5 in (10 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "3821.8 lbs (1,733 kg)",
+            "Centrifugal Force - Low": "2472.9 lbs (1,121 kg)",
+            "Drum Diameter": "23 in (58 cm)",
+            "Drum thickness": "0.6 in (0 cm)",
+            "Drum Width": "35.5 in (89 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "52.7 lbs/in",
+            "Vibration Frequency 1": "56 hz (3,360 vpm)",
+            "Vibration Frequency 2": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "watercooled",
+            "Engine Make": "Kubota 2351",
+            "Engine Model": "D1105-E4B",
+            "Gross Power": "24.2 hp (18 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6.1 gal (23 l)",
+            "Max Speed": "5.6 mph (8 kph)",
+            "Operating Weight": "3758.9 lbs (1,705 kg)",
+            "Operating weight ROPS": "3615.6 lbs (1,640 kg)",
+            "Oscillating angle": "13  \t\u00b0",
+            "Steering Angle": "32  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "29.1 gal (110 l)"
+        }
+    }
+}

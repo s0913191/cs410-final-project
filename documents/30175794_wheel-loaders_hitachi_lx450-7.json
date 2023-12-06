@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hitachi/lx450-7/30175794",
+    "source_url_id": "30175794",
+    "source_url_model": "lx450-7",
+    "source_url_make": "hitachi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:48.417974",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hitachi",
+    "equipment_model": "LX450-7",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "89923.6 lbs (40,789 kg)",
+            "Bucket Capacity - heaped": "7.5 cu yds (5 m)",
+            "Bucket Capacity - struck": "6.3 cu yds (5 m)",
+            "Bucket Width": "13.3 ft (4 m)",
+            "Dump Clearance at Max Raise": "11 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "13.9 ft (4 m)",
+            "Hinge Pin - Max Height": "16.6 ft (5 m)",
+            "Length with Bucket on Ground": "37 ft (11 m)",
+            "Reach at Max Lift and Dump": "6.7 ft (2 m)",
+            "Wheelbase": "13.5 ft (4 m)",
+            "Width Over Tires": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger",
+            "Displacement": "1132.7 cu in (0 m)",
+            "Engine Model": "S6A3-Y2TAA1",
+            "Net Power": "444 hp (331 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2050 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.3 sec",
+            "Lower Time": "4 sec",
+            "Pump Flow Capacity": "94.9 gal/min (356 l/min)",
+            "Pump Type": "gear type",
+            "Raise Time": "8.5 sec",
+            "Relief Valve Setting": "2986.4 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "110  A",
+            "Cooling System Fluid Capacity": "41.3 gal (155 l)",
+            "Engine Oil Fluid Capacity": "22 gal (83 l)",
+            "Front Axle/Diff Fluid Capacity": "47.6 gal (178 l)",
+            "Fuel Capacity": "179.7 gal (678 l)",
+            "Hydraulic System Fluid Capacity": "74 gal (280 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "101919.7 lbs (46,230 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "47.6 gal (178 l)",
+            "Static Tipping Weight": "68100.8 lbs (30,890 kg)",
+            "Tire Size": "35/65-33-24PR (L4)",
+            "Transmission Fluid Capacity": "22.5 gal (83 l)",
+            "Turning Radius": "25.1 ft (8 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.6 mph (32 kph)",
+            "Max Speed - Reverse": "21.2 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "solenoid full powershift planetary gear"
+        }
+    }
+}

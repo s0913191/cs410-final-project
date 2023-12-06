@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/60zv-2/19808",
+    "source_url_id": "19808",
+    "source_url_model": "60zv-2",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:17.022019",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "60ZV-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "2.3 cu yds (2 m)",
+            "Bucket Capacity - struck": "2 cu yds (2 m)",
+            "Bucket Width": "8.1 ft (2 m)",
+            "Dump Clearance at Max Raise": "9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Hinge Pin - Max Height": "11.8 ft (3 m)",
+            "Length with Bucket on Ground": "22 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "8.9 ft (2 m)",
+            "Width Over Tires": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger with Intercooler",
+            "Displacement": "272 cu in (0 m)",
+            "Engine Model": "QSB4.5",
+            "Gross Power": "130 hp (97 kw)",
+            "Make": "Cummins",
+            "Model": "QSB4.5",
+            "Net Power": "122 hp (91 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "3 sec",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "6.7 gal (23 l)",
+            "Engine Oil Fluid Capacity": "2.7 gal (8 l)",
+            "Front Axle/Diff Fluid Capacity": "5.3 gal (19 l)",
+            "Fuel Capacity": "46.3 gal (174 l)",
+            "Hydraulic System Fluid Capacity": "26.5 gal (98 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "44037.4 lbs (19,975 kg)",
+            "Rated Bucket Capacity": "2.2 - 2.50 cu yds (2 - 2 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.3 gal (19 l)",
+            "Static Tipping Weight": "17416.6 lbs (7,900 kg)",
+            "Tire Size": "15.5x25-12PR",
+            "Transmission Fluid Capacity": "5.3 gal (19 l)",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.6 mph (32 kph)",
+            "Max Speed - Reverse": "20.6 mph (32 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power shift"
+        },
+        "Weights": {
+            "Operational Weight": "19975 lbs (9,061 kg)"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-13/30672907",
+    "source_url_id": "30672907",
+    "source_url_model": "hd-13",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:58.451696",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 13",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "5.5 ft (2 m)",
+            "Overall Length": "8 in (20 cm)",
+            "Turning Radius - Inside": "84 in (213 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "7643.6 lbs (3,467 kg)",
+            "Drum Width": "51.2 in (130 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Vibration Frequency": "3300 hz (198,000 vpm)",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "F2L1011F",
+            "Gross Power": "24.9 hp (18 kw)",
+            "Make": "Deutz",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Operating Weight": "6944.6 lbs (3,150 kg)",
+            "Operating Width": "51 in (130 cm)"
+        }
+    }
+}

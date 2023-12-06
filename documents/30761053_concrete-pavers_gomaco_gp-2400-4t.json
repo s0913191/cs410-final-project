@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/concrete-pavers/gomaco/gp-2400-4t/30761053",
+    "source_url_id": "30761053",
+    "source_url_model": "gp-2400-4t",
+    "source_url_make": "gomaco",
+    "source_url_category": "concrete-pavers",
+    "source_date_scraped": "2023-09-13 17:53:04.456533",
+    "equipment_category": "Concrete Pavers",
+    "equipment_make": "Gomaco",
+    "equipment_model": "GP-2400-4T",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "Caterpillar",
+            "Make": "Caterpillar"
+        },
+        "Hopper/Paver": {
+            "Paving Speed": "41.5 ft/min",
+            "Paving Width - max": "24 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "60000 lbs (27,216 kg)"
+        }
+    }
+}

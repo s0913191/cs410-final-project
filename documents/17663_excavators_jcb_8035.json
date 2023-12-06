@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/8035/17663",
+    "source_url_id": "17663",
+    "source_url_model": "8035",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:04:45.426935",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "8035",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "14.3 ft (4 m)",
+            "Max Reach Along Ground": "17.4 ft (5 m)"
+        },
+        "Engine": {
+            "Net Power": "32.7 hp (24 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "8049 lbs (3,651 kg)"
+        }
+    }
+}

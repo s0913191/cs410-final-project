@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/material-handlers/fuchs/mhl331/30752133",
+    "source_url_id": "30752133",
+    "source_url_model": "mhl331",
+    "source_url_make": "fuchs",
+    "source_url_category": "material-handlers",
+    "source_date_scraped": "2023-09-13 15:44:37.537978",
+    "equipment_category": "Material Handlers",
+    "equipment_make": "Fuchs",
+    "equipment_model": "MHL331",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Overall Height": "10.1 ft (3 m)",
+            "Overall length": "15.1 ft (5 m)",
+            "Overall width": "8.20 ft (2 m)",
+            "Turning Radius": "25.2 ft (8 m)",
+            "Wheelbase": "8.2 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "28V / 100A",
+            "Operation voltage": "24 V"
+        },
+        "Engine": {
+            "Cooling method": "Water and charge air cooling with temperature controlled fan speed",
+            "Displacement": "250 cu in (0 m)",
+            "Engine Model": "Deutz TCD 4.1 L4",
+            "Engine Type": "4-cylinder in-line engine",
+            "Gross Power": "154 hp (115 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum operating pressure": "5221 psi"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "8.5 gal (30 l)",
+            "Fuel Capacity": "69 gal (261 l)",
+            "Gradeability-laden": "40%",
+            "Hydraulic System Fluid Capacity": "86 gal (326 l)",
+            "Operating Weight w/o Attachment": "53351 lbs (24,200 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "7.5 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "11.2 mph (18 kph)"
+        },
+        "Wheel Undercarriage": {
+            "Steering Angle": "29  \t\u00b0"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/850g/2527",
+    "source_url_id": "2527",
+    "source_url_model": "850g",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:41.771686",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "850G",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Length w/ Blade": "13.2 ft (4 m)",
+            "Width Over Tracks": "8.7 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "6T-590",
+            "Gross Power": "132.8 hp (98 kw)",
+            "Max Torque": "273 lbs/ft",
+            "Net Power": "119.4 hp (89 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "2200 gal/min (8,327 l/min)",
+            "Relief Valve Pressure": "2700 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Cooling System Fluid Capacity": "5 gal (19 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Final Drives Fluid Capacity": "1.9 gal (4 l)",
+            "Fuel Capacity": "47 gal (178 l)",
+            "Hydraulic Fluid Capacity": "13.6 gal (49 l)",
+            "Operating Voltage": "24 V V"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "2.2 cu yds (2 m)",
+            "Height": "36 in (91 cm)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.6 mph (8 kph)",
+            "Max Speed - Reverse": "6.1 mph (10 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3157 cu in (0 m)",
+            "Ground Pressure": "5.5 psi",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "38",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "18 in (46 cm)",
+            "Track Gauge": "60 ft (18 m)"
+        }
+    }
+}

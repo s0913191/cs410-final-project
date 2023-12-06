@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/bri-mar/eh16-10le/30835219",
+    "source_url_id": "30835219",
+    "source_url_model": "eh16-10le",
+    "source_url_make": "bri-mar",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:54:56.411361",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "EH16-10LE",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.7x16 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "2060 lbs (934 kg)",
+            "Weight Capacity": "7940 lbs (3,602 kg)"
+        }
+    }
+}

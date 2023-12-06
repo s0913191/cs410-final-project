@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/branson/3510-hst/30751552",
+    "source_url_id": "30751552",
+    "source_url_model": "3510-hst",
+    "source_url_make": "branson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:18.975967",
+    "equipment_category": "Tractors",
+    "equipment_make": "Branson",
+    "equipment_model": "3510 HST",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Overall Length": "10.2 in (25 cm)",
+            "Tire Size": "front: 7-16, rear: 12.4-24",
+            "Wheelbase": "5.5 ft (2 m)",
+            "Width Outside Frame": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "104.6 cu in (0 m)",
+            "Gross Power": "35 hp (26 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "28 hp (21 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "11.6 gal/min (42 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2756 lbs (1,250 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Hydraulic System Fluid Capacity": "9.8 gal (34 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

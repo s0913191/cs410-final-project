@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/kt24/31076558",
+    "source_url_id": "31076558",
+    "source_url_model": "kt24",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:28:54.203543",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "KT24",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "23 hp (17 kw)"
+        },
+        "Production": {
+            "Series": "KT Kingeye Series",
+            "Years Manufactured": "2000 - 2004"
+        }
+    }
+}

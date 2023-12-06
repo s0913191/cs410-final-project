@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/caterpillar/527/39887",
+    "source_url_id": "39887",
+    "source_url_model": "527",
+    "source_url_make": "caterpillar",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:26.914858",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "527",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Capacity at Cable Width": "29200 ft (8,900 m)",
+            "Grapple Capacity - tongs tip to tip": "10 CUBIC ft",
+            "Height - Top of Cab": "1.8 ft (0 m)",
+            "Height of Grapple from Ground": "8.4 ft ft (2 m)",
+            "Max Blade Height": "9.1 in (23 cm)",
+            "Max Height of Boom": "5 ft (2 m)",
+            "Max Line Pull - bare drum": "144.4 lbs (65 kg)",
+            "Overall Length": "9 ft (3 m)",
+            "Overall Width": "10.9 ft (3 m)",
+            "Reach of Grapple at Ground Level": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "47134.9",
+            "Engine Model": "150",
+            "Power Measured @": "427.2 rpm",
+            "Torque Measured @": "67.7 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "3000.9 gal/min (11,355 l/min)",
+            "Pump Type": "29.4",
+            "Relief Valve Pressure": "9.4 psi"
+        },
+        "Operating Specifications": {
+            "Tire Size": "10.5"
+        },
+        "Transmission": {
+            "Max Speed - Reverse": "22.1 mph (35 kph)"
+        },
+        "Undercarriage": {
+            "Length of Track on Ground": "3304 ft (1,007 m)",
+            "Number of Track Rollers per Side": "4944.6",
+            "Width of Shoes": "7 in (18 cm)"
+        }
+    }
+}

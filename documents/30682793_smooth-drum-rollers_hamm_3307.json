@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/3307/30682793",
+    "source_url_id": "30682793",
+    "source_url_model": "3307",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:41.745533",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "3307",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Overall Length": "15.4 in (38 cm)",
+            "Overall Width": "5.9 ft (2 m)"
+        },
+        "Drum": {
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "42 hz (2,520 vpm)"
+        },
+        "Engine": {
+            "Displacement": "177 cu in (0 m)",
+            "Engine Model": "TD2011",
+            "Gross Power": "91.2 hp (68 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "46.3 gal (174 l)",
+            "Operating Weight": "15542.6 lbs (7,050 kg)"
+        }
+    }
+}

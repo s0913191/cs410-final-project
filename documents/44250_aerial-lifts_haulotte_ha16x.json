@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ha16x/44250",
+    "source_url_id": "44250",
+    "source_url_model": "ha16x",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:10.074378",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HA16X",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.6 in (36 cm)",
+            "Overall Height - mast lowered": "6.9 ft (2 m)",
+            "Overall Length": "22 in (56 cm)",
+            "Overall Width": "7.4 ft (2 m)",
+            "Turning Radius": "15.3 ft (5 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Diesel",
+            "Gross Power": "37.6 hp (28 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "14.6 gal (53 l)",
+            "Hydraulic System Fluid Capacity": "26.5 gal (98 l)",
+            "Max Speed": "3.8 mph (5 kph)",
+            "Operating Weight": "14330.1 lbs (6,500 kg)",
+            "Tire Fill/Type": "foam filled",
+            "Tire Size": "14x17.5"
+        },
+        "Platform": {
+            "Lift Time": "45 sec",
+            "Max Horizontal Reach": "27.8 ft (8 m)",
+            "Max Platform Height": "44.2 ft (13 m)",
+            "Max Platform Weight Capacity": "507.1 lbs (230 kg)",
+            "Max Working Height": "50.7 ft (15 m)",
+            "Platform Inner Length": "70.9 in (178 cm)",
+            "Platform Inner Width": "31.5 in (79 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

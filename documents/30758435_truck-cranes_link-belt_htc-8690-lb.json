@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/link-belt/htc-8690-lb/30758435",
+    "source_url_id": "30758435",
+    "source_url_model": "htc-8690-lb",
+    "source_url_make": "link-belt",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:03.375237",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HTC-8690 LB",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "173 ft (53 m)",
+            "Min Height @ Max Raise Angle": "99 ft (30 m)",
+            "Number of Sections": "6"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "762.8 cu in (0 m)",
+            "Gross Power": "480 hp (358 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "1550 lbs/ft",
+            "Model": "QSX15",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "37.6 ft (11 m)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "11.6 ft (3 m)",
+            "Transport Length": "45.6 ft (14 m)",
+            "Transport Width": "8.6 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13.8 ft (4 m)",
+            "Wheelbase": "23.1 ft (7 m)",
+            "Width w/ Outriggers Extended": "26 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "10 gal (38 l)",
+            "Fuel Capacity": "95 gal (360 l)",
+            "Hydraulic Pump Flow Capacity": "144 gal/min (545 l/min)",
+            "Hydraulic System Fluid Capacity": "188 gal (712 l)",
+            "Number of Axels": "4",
+            "Tire Size": "Front - 445/65R22.5 , Rear - 315/80R22.5"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "729 cu in (0 m)",
+            "Gross Power": "450 hp (336 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "1550 lbs/ft",
+            "Model": "ISX12",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1200 rpm"
+        }
+    }
+}

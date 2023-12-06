@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/sakai/gw751/30198124",
+    "source_url_id": "30198124",
+    "source_url_model": "gw751",
+    "source_url_make": "sakai",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:38.887270",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "GW751",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "11.3 Inches"
+        },
+        "Drum": {
+            "Drum Width": "83 Inches",
+            "Vibration Frequency": "40 hz (2,400 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "87 Inches"
+        }
+    }
+}

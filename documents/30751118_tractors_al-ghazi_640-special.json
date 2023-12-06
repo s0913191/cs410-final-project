@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/al-ghazi/640-special/30751118",
+    "source_url_id": "30751118",
+    "source_url_model": "640-special",
+    "source_url_make": "al-ghazi",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:12.567321",
+    "equipment_category": "Tractors",
+    "equipment_make": "Al-Ghazi",
+    "equipment_model": "640 Special",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "238.5 cu in (0 m)",
+            "Gross Power": "85 hp (63 kw)",
+            "Max Torque": "219.1 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "7.1 gal/min (27 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4740 lbs (2,150 kg)",
+            "Fuel Capacity": "14.3 gal (53 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "4629.8 lbs (2,100 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.50-16"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9/14-30"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "gearbox with constant mesh"
+        }
+    }
+}

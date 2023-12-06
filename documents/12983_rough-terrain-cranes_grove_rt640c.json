@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt640c/12983",
+    "source_url_id": "12983",
+    "source_url_model": "rt640c",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:32.951750",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT640C",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "105 ft (32 m)",
+            "Max Lift Capacity": "80000 lbs (36,288 kg)",
+            "Max Operating Radius": "95 ft (29 m)",
+            "Min Height @ Max Raise Angle": "34 ft (10 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.5 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "25.3 ft (8 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Transport Height": "12 ft (4 m)",
+            "Transport Length": "41.2 ft (13 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.4 ft (4 m)",
+            "Wheelbase": "12.5 in (30 cm)",
+            "Width w/ Outriggers Extended": "22.1 ft (7 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "6BT5.9",
+            "Gross Power": "151.6 hp (113 kw)",
+            "Max Torque": "400 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "103.1 gal (390 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "68239.7 lbs (30,953 kg)",
+            "Tire Size": "23.5R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.3 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

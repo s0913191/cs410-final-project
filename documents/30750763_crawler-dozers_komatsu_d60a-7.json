@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d60a-7/30750763",
+    "source_url_id": "30750763",
+    "source_url_model": "d60a-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:32.996183",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D60A-7",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Length of Track on Ground": "8 ft (2 m)",
+            "Length w/o Blade": "16.9 ft (5 m)",
+            "Width Over Tracks": "7.9 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "743 cu in (0 m)",
+            "Engine Model": "NH220-CI",
+            "Gross Power": "155 hp (116 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "14.6 gal (53 l)",
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Operating Weight": "28570 lbs (12,959 kg)"
+        },
+        "Standard Blade": {
+            "Height": "41.4 in (104 cm)",
+            "Width": "13.1 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.9 mph (10 kph)",
+            "Max Speed - Reverse": "6.1 mph (10 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "helical gear constant mesh type"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.4 psi",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "20.1 in (51 cm)",
+            "Track Gauge": "6.2 ft (2 m)"
+        }
+    }
+}

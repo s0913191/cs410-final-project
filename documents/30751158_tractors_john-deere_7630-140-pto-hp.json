@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/7630-140-pto-hp/30751158",
+    "source_url_id": "30751158",
+    "source_url_model": "7630-140-pto-hp",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:23:30.462123",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "7630 140 PTO hp",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "9.8 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, air-to-air aftercooled",
+            "Displacement": "415 cu in (0 m)",
+            "Engine Make": "2240",
+            "Gross Power": "175 hp (131 kw)",
+            "Max Torque": "523 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "141.7 hp (105 kw)",
+            "Torque Measured @": "1602 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "32.3 gal/min (121 l/min)",
+            "Relief Valve Setting": "2962 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "10985.7 lbs (4,983 kg)",
+            "Fuel Capacity": "103.1 gal (390 l)",
+            "Tire Size Front - 2wd / 4wd": "11.00-16 (F2)",
+            "Turning Radius": "15.1 ft (5 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "480/80R42 (R1)"
+        },
+        "Transmission": {
+            "Max Speed": "19 mph (31 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "PowrQuad Plus"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk17sr-5e/30114980",
+    "source_url_id": "30114980",
+    "source_url_model": "sk17sr-5e",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:18.503461",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK17SR-5E",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "12.1 ft (4 m)",
+            "Max Digging Depth": "7.3 ft (2 m)",
+            "Max Loading Height": "8.8 ft (2 m)",
+            "Max Reach Along Ground": "12.2 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "6.1 ft (2 m)",
+            "Shipping Height of Unit": "7.7 ft (2 m)",
+            "Shipping Length of Unit": "11.4 ft (3 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.7 ft (0 m)",
+            "Height - Top of Cab": "7.7 ft (2 m)",
+            "Length of Track on Ground": "11.4 ft (3 m)",
+            "Tail Swing Radius": "2.1 ft (1 m)",
+            "Traction force": "4114.1 lbs (1,866 kg)",
+            "Width to Outside of Tracks": "3.1 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "61.1 cu in (0 m)",
+            "Engine Model": "YANMAR 3TNV74F-SPBV",
+            "Engine Type": "Tier4 water-cooled 4-cycle 3-cylinder",
+            "Max Torque": "36.3 lbs/ft",
+            "Net Power": "14.5 hp (10 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Two variable displacement pumps + two gear pump"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "5.3 gal (19 l)",
+            "Operating Weight": "3671 lbs (1,665 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.5 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.2 psi",
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Number of Track Rollers per Side": "3",
+            "Shoe Size": "9.1 in (23 cm)"
+        }
+    }
+}

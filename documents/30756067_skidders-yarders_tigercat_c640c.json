@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/tigercat/c640c/30756067",
+    "source_url_id": "30756067",
+    "source_url_model": "c640c",
+    "source_url_make": "tigercat",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:41.231082",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Tigercat",
+    "equipment_model": "C640C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "2.1 ft (1 m)",
+            "Max Blade Height": "32 in (81 cm)",
+            "Overall Length": "10 ft (3 m)",
+            "Overall Width": "10.4 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "45966.4",
+            "Engine Model": "250",
+            "Net Power": "2200 hp (1,641 kw)",
+            "Torque Measured @": "100.4 rpm"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "20.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "single-speed mechanical, variable speed hydrostatic",
+            "Operating Voltage": "80  A",
+            "Operating Weight": "24 V lbs (11 kg)",
+            "Steering Angle": "front 30.5 x 32, rear 28L x 26",
+            "Tire Size": "7.1",
+            "Transmission Fluid Capacity": "27.8 gal (102 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "8.5 mph (13 kph)",
+            "Number of Forward Gears": "1",
+            "Number of Reverse Gears": "8.5",
+            "Transmission Type": "1"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "variable displacement axial piston cu in (0 m)",
+            "Length of Track on Ground": "QSC8.3 Tier III ft (0 m)"
+        },
+        "Winch - Grapple Skidder": {
+            "Drum Capacity - 25.4mm (1 in)": "15  \t\u00b0"
+        }
+    }
+}

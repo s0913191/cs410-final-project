@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/345b-l-ii/30856139",
+    "source_url_id": "30856139",
+    "source_url_model": "345b-l-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:54.995836",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "345B L II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "27 ft (8 m)",
+            "Digging Reach": "27 ft (8 m)"
+        },
+        "Long Reach Option": {
+            "Alternator Supplied Amperage": "70 A",
+            "Aspiration": "Turbocharged",
+            "Cooling System Fluid Capacity": "17.5 gal (64 l)",
+            "Displacement": "628.6 cu in (0 m)",
+            "Drawbar Pull": "74411.8 lbs (33,753 kg)",
+            "Engine Model": "3176C ATAAC",
+            "Engine Oil Capacity": "8 gal (30 l)",
+            "Fuel Capacity": "190.3 gal (719 l)",
+            "Gross Power": "345 hp (257 kw)",
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Ground Pressure": "13.1 psi",
+            "Height - Top of Cab": "12.1 ft (4 m)",
+            "Hydraulic Pump Flow Capacity": "190.3 gal/min (719 l/min)",
+            "Hydraulic System Fluid Capacity": "137.4 gal (519 l)",
+            "Hydraulic System Relief Valve Pressure": "4977.7 psi",
+            "Length of Track on Ground": "14.3 ft (4 m)",
+            "Max Cutting Height": "54.1 ft (16 m)",
+            "Max Digging Depth": "43.8 ft (13 m)",
+            "Max Loading Height": "38.2 ft (12 m)",
+            "Max Reach Along Ground": "57.8 ft (17 m)",
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Maximum Bucket Capacity": "2.3 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1.8 cu yds (1 m)",
+            "Net Power": "321 hp (239 kw)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "113097.2 lbs (51,301 kg)",
+            "Power Measured @": "2000 rpm",
+            "Reference Bucket Capacity": "2.3 cu yds (2 m)",
+            "Removal Counterweight Clearance": "4.9 ft (1 m)",
+            "Shipping Height of Unit": "18.4 ft (5 m)",
+            "Shipping Length of Unit": "53.4 ft (16 m)",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Swing Drive Fluid Capacity": "2.7 gal (8 l)",
+            "Swing Speed": "8.6 rpm",
+            "Tail Swing Radius": "12 ft (4 m)",
+            "Track Gauge": "12.3 ft (4 m)",
+            "Width to Outside of Tracks": "14.2 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "97940 lbs (44,425 kg)"
+        }
+    }
+}

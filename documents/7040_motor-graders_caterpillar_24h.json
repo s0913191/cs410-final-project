@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/caterpillar/24h/7040",
+    "source_url_id": "7040",
+    "source_url_model": "24h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:30.677785",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "24H",
+    "equipment_spec": {
+        "Circle": {
+            "Max Lift Above Ground": "25 in (64 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "13.4 ft (4 m)",
+            "Height to Top of Isomount Cab": "14.3 ft (4 m)",
+            "Overall Length": "46.5 ft (14 m)",
+            "Wheelbase": "33.6 ft (10 m)",
+            "Width Over Tires": "13.9 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "1647.7 cu in (0 m)",
+            "Engine Model": "3412E HEUI",
+            "Max Power": "500 hp (373 kw)",
+            "Net Power Gear 5-6": "500 hp (373 kw)"
+        },
+        "Front Axle": {
+            "Oscillation - Total": "32  \t\u00b0",
+            "Wheel Lean": "18  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "134.2 gal/min (507 l/min)",
+            "Pump Type": "Axial Piston",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Moldboard": {
+            "Moldboard Height": "42.1 in (107 cm)",
+            "Moldboard Thickness": "2.1 in (5 cm)",
+            "Moldboard Width": "24.1 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Fuel Capacity": "318.9 gal (1,204 l)",
+            "Hydraulic System Fluid Capacity": "66.1 gal (250 l)",
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Total": "136576.4 lbs (61,951 kg)",
+            "Tire Size": "29.5-29"
+        },
+        "Steering System": {
+            "Articulation Angle": "25  \t\u00b0",
+            "Turning Radius": "39.4 ft (12 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.5 mph (37 kph)",
+            "Max Speed - Reverse": "22.5 mph (35 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "3"
+        }
+    }
+}

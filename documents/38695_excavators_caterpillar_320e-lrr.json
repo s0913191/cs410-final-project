@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/320e-lrr/38695",
+    "source_url_id": "38695",
+    "source_url_model": "320e-lrr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:10.268302",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "320E LRR",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.9 ft (2 m)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Length of Track on Ground": "14.7 ft (4 m)",
+            "Removal Counterweight Clearance": "3.3 ft (1 m)",
+            "Tail Swing Radius": "6.9 ft (2 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Drawbar Pull": "46086 lbs (20,905 kg)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "403 cu in (0 m)",
+            "Engine Make": "Caterpillar",
+            "Engine Model": "Cat C6.6 ACERT",
+            "Gross Power": "164 hp (122 kw)",
+            "Gross Power - SAE J1995": "164 hp (122 kw)",
+            "Net Power": "153 hp (114 kw)",
+            "Net Power - SAE J1349": "153 hp (114 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "113.1": "113.1 gal/min gal/min (428 l/min)",
+            "Boom Cylinder - Bore": "4.7 in (10 cm)",
+            "Boom Cylinder - Stroke": "49.6 in (124 cm)",
+            "Maximum Pressure - Equipment - Normal": "5076 psi",
+            "Maximum Pressure - Swing": "3626 psi",
+            "Maximum Pressure - Travel": "5076 psi",
+            "Stick Cylinder - Bore": "5.5 in (13 cm)",
+            "Stick Cylinder - Stroke": "59.2 in (150 cm)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "7.9 gal (27 l)",
+            "Engine Oil Capacity": "6.1 gal (23 l)",
+            "Fuel Capacity": "76.6 gal (288 l)",
+            "Hydraulic System Fluid Capacity": "54.2 gal (204 l)",
+            "Operating Weight": "52250 lbs (23,700 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "7.9 gal (27 l)",
+            "Final Drive - Each": "2.1 gal (8 l)",
+            "Fuel Tank Capacity": "76.6 gal (288 l)",
+            "Hydraulic System - Including Tank": "54.2 gal (204 l)",
+            "Hydraulic Tank": "30.4 gal (114 l)",
+            "Swing Drive": "2.1 gal (8 l)"
+        },
+        "Standards": {
+            "Brakes": "ISO 10265 2008",
+            "Cab/FOGS": "ISO 10262 1998"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.2 rpm"
+        },
+        "Track": {
+            "Number of Carrier Rollers - Each Side - Long Undercarriage": "2 pieces",
+            "Number of Shoes - Each Side - Long Undercarriage": "49 pieces",
+            "Number of Track Rollers - Each Side - Long Undercarriage": "8 pieces"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "46086 lbs (20,905 kg)",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "49",
+            "Number of Track Rollers per Side": "8"
+        },
+        "Weights": {
+            "Maximum Operating Weight": "56440 lbs (25,601 kg)",
+            "Minimum Operating Weight": "52250 lbs (23,700 kg)",
+            "Operating Weight": "56440 lbs (25,601 kg)"
+        }
+    }
+}

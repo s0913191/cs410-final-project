@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/824k-ii/30755005",
+    "source_url_id": "30755005",
+    "source_url_model": "824k-ii",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:39.894547",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "824K II",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "41266 lbs (18,718 kg)",
+            "Bucket Capacity - Smallest": "6.1 cu yds (5 m)",
+            "Largest bucket capacity": "6.9 cu yds (5 m)"
+        },
+        "Capacities": {
+            "Heaped Capacity": "6.1 cu yds (5 m)",
+            "Hydraulic Tank": "43.6 gal (163 l)",
+            "Transmission": "7.4 gal (27 l)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Hinge Pin - Max Height": "14.7 ft (4 m)",
+            "Length with Bucket on Ground": "30.5 ft (9 m)",
+            "Reach at Max Lift and Dump": "6.8 ft (2 m)",
+            "Turning Circle": "47.1 ft (14 m)",
+            "Wheelbase": "11.4 ft (3 m)",
+            "Width Over Tires": "10.2 ft (3 m)"
+        },
+        "Driveline": {
+            "Differential lock": "Front- Locking, Rear- Open",
+            "Parking Brake Type": "Wet Multi Disc",
+            "Ride control system": "Yes",
+            "Service Brake - Location": "All Wheels",
+            "Service Brake Actuation": "Hydraulic",
+            "Service Brake Type": "Wet Disc",
+            "Tire size - Standard": "26.5 R25"
+        },
+        "Engine": {
+            "Alternator": "130 A",
+            "Displacement": "823.9 cu in (0 m)",
+            "Emission level": "Tier 4",
+            "Engine Make": "John Deere",
+            "Engine Model": "PowerTech PSS 6135",
+            "Engine Output-Net": "332.6 hp (248 kw)",
+            "Make": "Deere PowerTech",
+            "Model": "PSS 6135",
+            "Net Power": "333 hp (248 kw)",
+            "Pump": "Piston",
+            "Rated Speed": "1500 rpm",
+            "System Voltage": "24 V",
+            "Torque": "1206 lbs/ft",
+            "Torque Rise": "57%",
+            "Transmission Type": "Powershift"
+        },
+        "Operating Specifications": {
+            "Front Axle/Diff Fluid Capacity": "14.7 gal (53 l)",
+            "Fuel Capacity": "126.1 gal (477 l)",
+            "Operating Weight": "59083.9 lbs (26,800 kg)",
+            "Rated Bucket Capacity": "6.0 cu yds (5 m)",
+            "Rear Axle/Diff Fluid Capacity": "14.7 gal (53 l)"
+        },
+        "Transmission": {
+            "Pump Flow": "129.8 gal/min (488 l/min)",
+            "System Pressure": "251.7 psi"
+        },
+        "Weights": {
+            "Operational Weight": "59260 lbs (26,880 kg)"
+        }
+    }
+}

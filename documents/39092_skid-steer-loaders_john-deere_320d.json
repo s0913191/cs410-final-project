@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/320d/39092",
+    "source_url_id": "39092",
+    "source_url_model": "320d",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:50.666213",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "320D",
+    "equipment_spec": {
+        "Axles": {
+            "Maximum Axle Torque": "4725 lbs/ft",
+            "Tractive Effort": "7100 lbs/ft"
+        },
+        "Dimensions": {
+            "Angle of departure": "27.5  \t\u00b0",
+            "Ground Clearance": "10 in (25 cm)",
+            "Height - Top of ROPS/FOPS": "79.2 in (201 cm)",
+            "Hinge pin height, maximum height": "118.9 in (300 cm)",
+            "Length": "132.3 in (335 cm)",
+            "Length w/o Bucket": "9 ft (3 m)",
+            "Overall width without bucket": "69.3 in (175 cm)",
+            "Reach at Max Lift and Dump": "28.7 in (71 cm)",
+            "Turning Radius - TTS870": "6.6 ft (2 m)",
+            "Wheelbase": "3.6 ft (1 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry dual element",
+            "Aspiration": "Turbocharged and intercooled",
+            "Displacement": "149 cu in (0 m)",
+            "Emissions Certification": "EPA Interim Tier 4/EU Stage IIIB",
+            "Engine Make": "John Deere PowerTech",
+            "Engine Model": "E 4024HT",
+            "Gross Power": "63.2 hp (47 kw)",
+            "Net Torque": "169.7 lbs/ft",
+            "Net Torque Rise": "27%",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Hydraulic Horsepower-Standard Flow": "38 hp (28 kw)",
+            "Hydraulic Horsepower_High Flow": "46 hp (34 kw)",
+            "Pump Flow Capacity": "31 gal/min (117 l/min)",
+            "System Pressure at Couplers": "3100 psi"
+        },
+        "Loader": {
+            "Boom breakout force": "3500 lbs (1,588 kg)",
+            "Dump height": "8 ft (2 m)",
+            "Operating Load Rating": "2151.8 lbs (976 kg)",
+            "Operating Width": "69 in (175 cm)",
+            "Tipping load (ISO 14397)": "4003.6 lbs (1,816 kg)",
+            "Width without Bucket": "5.8 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Hydraulic System Fluid Capacity": "20.1 gal (76 l)",
+            "Max Speed": "11 mph (18 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "6605.1 lbs (2,996 kg)",
+            "Tire Size": "12 x 16.5 10 PR SKS"
+        }
+    }
+}

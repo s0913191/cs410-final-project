@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/850b-lt/18798",
+    "source_url_id": "18798",
+    "source_url_model": "850b-lt",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:13.938915",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "850B LT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Length of Track on Ground": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "466 cu in (0 m)",
+            "Engine Model": "6466A",
+            "Gross Power": "175 hp (131 kw)",
+            "Max Torque": "578 lbs/ft",
+            "Net Power": "165 hp (123 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "44 gal/min (167 l/min)",
+            "Pump type": "Vane",
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Final Drives Fluid Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "82 gal (310 l)",
+            "Hydraulic Fluid Capacity": "35 gal (132 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "39315 lbs (17,833 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "3.9 cu yds (2 m)",
+            "Height": "42 in (107 cm)",
+            "Width": "10.6 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.5 mph (10 kph)",
+            "Max Speed - Reverse": "6.5 mph (10 kph)",
+            "Transmission Type": "Automatic, dual-path, hydrostatic drive"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5136 cu in (0 m)",
+            "Ground Pressure": "7.7 psi",
+            "Number of Shoes per Side": "40",
+            "Number of Track Rollers per Side": "2",
+            "Standard Shoe Size": "24 in (61 cm)"
+        }
+    }
+}

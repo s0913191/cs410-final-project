@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/rogator/1264/30505715",
+    "source_url_id": "30505715",
+    "source_url_model": "1264",
+    "source_url_make": "rogator",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:04.133227",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Rogator",
+    "equipment_model": "1264",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "83.1 in (211 cm)",
+            "Max Boom Width": "100.1 ft (30 m)",
+            "Min Adjustable Height": "30.8 in (76 cm)",
+            "Min Boom Width": "59.1 ft (18 m)",
+            "Nozzle Spacing": "19.7 in (48 cm)",
+            "Number of Sections": "5"
+        },
+        "Dimensions": {
+            "Overall Length": "290.2 in (737 cm)",
+            "Tire Size": "380/90R46",
+            "Track width": "12.9 ft (4 m)",
+            "Transport Height": "12.6 ft (4 m)",
+            "Wheelbase": "15.4 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "537.1 cu in (0 m)",
+            "Emission Tier Level": "Tier II",
+            "Engine Make": "CAT",
+            "Engine Model": "C-9",
+            "Gross Power": "275 hp (205 kw)",
+            "Gross Torque": "904 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "160  A",
+            "Fuel Capacity": "130 gal (492 l)",
+            "Hydraulic Fluid Capacity": "60 gal (227 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "27640 lbs (12,537 kg)",
+            "Rinse Tank Capacity": "109.9 gal (413 l)",
+            "Solution Tank Capacity": "1200 gal (4,542 l)"
+        },
+        "Transmission": {
+            "Max Speed": "32.4 mph (51 kph)"
+        }
+    }
+}

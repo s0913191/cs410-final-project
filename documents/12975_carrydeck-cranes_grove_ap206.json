@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/grove/ap206/12975",
+    "source_url_id": "12975",
+    "source_url_model": "ap206",
+    "source_url_make": "grove",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:22.858415",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "AP206",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "70  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "20 ft (6 m)",
+            "Max Lift Capacity": "12000 lbs (5,443 kg)",
+            "Max Working Radius": "18 ft (5 m)",
+            "Min Height @ Max Raise Angle": "9.5 ft (3 m)",
+            "Min Working Radius": "4 ft (1 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Make": "Grove",
+            "Max Torque": "124 lbs/ft",
+            "Model": "TMD27",
+            "Net Power": "66.4 hp (49 kw)",
+            "Power Measured @": "3000 rpm",
+            "Torque Measured @": "2000 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "11.9 ft (3 m)",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Transport Height": "7.2 ft (2 m)",
+            "Transport Width": "6.2 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "2.9 ft (1 m)",
+            "Width w/ Outriggers Extended": "9.2 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "29.1 gal (110 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "11073.9 lbs (5,023 kg)",
+            "Tire Size": "8.25X15-12PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15 mph (24 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "automatic"
+        }
+    }
+}

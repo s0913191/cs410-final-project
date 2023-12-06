@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/tcm/l3-2/30754943",
+    "source_url_id": "30754943",
+    "source_url_model": "l3-2",
+    "source_url_make": "tcm",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:26.444434",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "TCM",
+    "equipment_model": "L3-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.4 cu yds (0 m)",
+            "Bucket Width": "4.5 ft (1 m)",
+            "Dump Clearance at Max Raise": "6.1 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Length with Bucket on Ground": "11.3 ft (3 m)",
+            "Reach at Max Lift and Dump": "1.9 ft (0 m)",
+            "Wheelbase": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "D1105-K2A",
+            "Net Power": "21.8 hp (16 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "8.8 gal (30 l)",
+            "Operating Weight": "4221.9 lbs (1,915 kg)",
+            "Static Tipping Weight": "2976.3 lbs (1,350 kg)",
+            "Tire Size": "10-16, 70-16 -6PRL2"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "9.4 mph (14 kph)",
+            "Max Speed - Reverse": "9.4 mph (14 kph)",
+            "Transmission Type": "powershift"
+        }
+    }
+}

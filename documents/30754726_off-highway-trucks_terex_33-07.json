@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/terex/33-07/30754726",
+    "source_url_id": "30754726",
+    "source_url_model": "33-07",
+    "source_url_make": "terex",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:49.455858",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Terex",
+    "equipment_model": "33-07",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height": "14.3 ft (4 m)",
+            "Overall Length": "27.6 ft (8 m)",
+            "Overall Width": "13.4 ft (4 m)",
+            "Wheelbase": "13 ft (4 m)"
+        },
+        "Dump": {
+            "Load Capacity - heaped": "32 cu yds (24 m)",
+            "Load Capacity - Struck": "25.4 cu yds (19 m)",
+            "Rated Payload": "80027.8 lbs (36,300 kg)"
+        },
+        "Engine": {
+            "Engine Model": "DD 12V-71T",
+            "Net Power": "321 hp (239 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Allison CLBT-5960",
+            "Fuel Capacity": "98 gal (371 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Tire Size": "21.00 x 35-28PR"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "80027.8 gal (302,902 l)"
+        },
+        "Transmission": {
+            "Max Speed": "66 mph (106 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "Allison CLBT-5960"
+        },
+        "Weights": {
+            "Empty Weight": "71600 lbs (32,478 kg)",
+            "Loaded Weight": "151600 lbs (68,765 kg)"
+        }
+    }
+}

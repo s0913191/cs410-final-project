@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/volvo/bm-3500/30754568",
+    "source_url_id": "30754568",
+    "source_url_model": "bm-3500",
+    "source_url_make": "volvo",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:22:16.526274",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM 3500",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "TD 70",
+            "Max Power": "200 hp (149 kw)",
+            "Net Power Gears 7-8": "200 hp (149 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "25.4 in (64 cm)",
+            "Moldboard Width": "12.1 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Std Operation Weight - Total": "31746.6 lbs (14,400 kg)",
+            "Tire Size": "14.00-24/12"
+        },
+        "Transmission": {
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "2"
+        }
+    }
+}

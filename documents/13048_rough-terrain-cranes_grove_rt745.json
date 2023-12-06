@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt745/13048",
+    "source_url_id": "13048",
+    "source_url_model": "rt745",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:34.925423",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT745",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "76  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "104 ft (32 m)",
+            "Min Height @ Max Raise Angle": "34 ft (10 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.6 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "25.9 ft (8 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Transport Height": "12.4 ft (4 m)",
+            "Transport Length": "42.3 ft (13 m)",
+            "Transport Width": "11 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.6 ft (4 m)",
+            "Wheelbase": "12.5 in (30 cm)",
+            "Width w/ Outriggers Extended": "25 ft (8 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "6BTA5.9",
+            "Gross Power": "191.8 hp (142 kw)",
+            "Max Torque": "458 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "1700 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "154 gal (583 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "83000 lbs (37,649 kg)",
+            "Tire Size": "21.00X25-24PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.4 mph (32 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "remote mounted powershift"
+        }
+    }
+}

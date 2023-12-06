@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/bomag/bm-1300and-or30/30169947",
+    "source_url_id": "30169947",
+    "source_url_model": "bm-1300and-or30",
+    "source_url_make": "bomag",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:46.393842",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Bomag",
+    "equipment_model": "BM 1300/30",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Collecting Conveyor Width": "23.7 in (58 cm)",
+            "Discharge Conveyor Width": "23.7 in (58 cm)"
+        },
+        "Dimensions": {
+            "Max Operating Height": "15.9 ft (5 m)",
+            "Operating Length": "41 ft (13 m)",
+            "Shipping Height": "9.1 ft (3 m)",
+            "Shipping Length": "32.4 ft (10 m)",
+            "Shipping Width": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "439 cu in (0 m)",
+            "Engine Model": "C7",
+            "Gross Power": "275 hp (205 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "132.1 gal (500 l)",
+            "Hydraulic System Fluid Capacity": "33.1 gal (125 l)",
+            "Operating Speed": "91.9 ft/min",
+            "Operating Voltage": "24 V",
+            "Operating Weight - Full Load": "41822 lbs (18,970 kg)",
+            "Shipping Weight - Empty": "38427 lbs (17,430 kg)",
+            "Travel Speed": "3.9 mph (5 kph)",
+            "Water Spray System Fluid Capacity": "264.2 gal (999 l)"
+        },
+        "Rotary Cutter": {
+            "Cutter Diameter": "38.6 in (97 cm)",
+            "Cutting Depth": "12.6 in (30 cm)",
+            "Cutting Width": "4.3 ft (1 m)",
+            "Number of Tools": "124",
+            "Tool Spacing": "0.6 in (0 cm)"
+        },
+        "Track": {
+            "Front Track Length": "2.4 ft (1 m)",
+            "Front Track Width": "10.3 in (25 cm)",
+            "Number of Track Units": "4",
+            "Rear Track Length": "2.4 ft (1 m)",
+            "Rear Track Width": "10.3 in (25 cm)"
+        }
+    }
+}

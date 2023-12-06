@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/junlian/jy900/30749490",
+    "source_url_id": "30749490",
+    "source_url_model": "jy900",
+    "source_url_make": "junlian",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:08.906671",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Junlian",
+    "equipment_model": "JY900",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.6 ft (2 m)",
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Length w/o Bucket": "8.6 ft (2 m)",
+            "Length with Bucket": "10.9 ft (3 m)",
+            "Reach at Max Lift and Dump": "17 in (43 cm)"
+        },
+        "Engine": {
+            "Gross Power": "57.7 hp (43 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "1984.2 lbs (900 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operational Weight": "6283.2 lbs (2,850 kg)"
+        }
+    }
+}

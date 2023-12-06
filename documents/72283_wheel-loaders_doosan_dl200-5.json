@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/doosan/dl200-5/72283",
+    "source_url_id": "72283",
+    "source_url_model": "dl200-5",
+    "source_url_make": "doosan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:41.672239",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "DL200-5",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "22480 lbs (10,197 kg)",
+            "Bucket Capacity - heaped": "2.7 cu yds (2 m)",
+            "Bucket Width": "8.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Capacities": {
+            "Cooling system": "8.5 gal (30 l)",
+            "Diesel exhaust fluid (DEF) tank": "5 gal (19 l)",
+            "Engine Oil": "2.8 gal (8 l)",
+            "Fuel Tank": "45 gal (170 l)",
+            "Hydraulic system": "34.1 gal (129 l)"
+        },
+        "Dimensions": {
+            "Digging depth": "2.4 in (5 cm)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Hinge Pin - Max Height": "12.3 ft (4 m)",
+            "Overall height": "10.8 ft in (25 cm)",
+            "Overall length": "23.5 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "85 A",
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Make": "Perkins",
+            "Engine Model": "1204F",
+            "Gross Power": "142 hp (106 kw)",
+            "Make": "Perkins",
+            "Net Power": "142 hp (106 kw)",
+            "Net Torque": "413.1 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Starter": "7.4 hp (5 kw)",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Lower Time": "3.6 sec",
+            "Raise Time": "5.7 sec",
+            "Relief Valve Pressure": "3190 psi"
+        },
+        "Operating Specifications": {
+            "Front Axle/Diff Fluid Capacity": "4 gal (15 l)",
+            "Operating Voltage": "28 V V",
+            "Operating Weight": "25794.1 lbs (11,700 kg)",
+            "Rated Bucket Capacity": "2.6 cu yds (2 m)",
+            "Rear Axle/Diff Fluid Capacity": "3.5 gal (11 l)",
+            "Static Tipping Weight": "21076.2 lbs (9,560 kg)",
+            "Tire Size": "20.5-R25 (L3)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24 mph (39 kph)",
+            "Max Speed - Reverse": "12 mph (19 kph)"
+        },
+        "Weights": {
+            "Operational Weight": "25794 lbs (11,700 kg)"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/volvo/bm-a25-6x6/30750532",
+    "source_url_id": "30750532",
+    "source_url_model": "bm-a25-6x6",
+    "source_url_make": "volvo",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:35:05.397141",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM A25 6x6",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2 ft (1 m)",
+            "Dump Height": "19.9 ft (6 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Overall Height": "10.4 ft (3 m)",
+            "Overall Length": "31.2 ft (9 m)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Wheelbase": "13.7 ft (4 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "15.7 cu yds (11 m)",
+            "Capacity - Struck": "12.3 cu yds (9 m)",
+            "Dump Angle": "63  \t\u00b0",
+            "Lower Time": "16 sec",
+            "Raise Time": "12 sec",
+            "Rated Payload": "49604.1 lbs (22,500 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "410.7 cu in (0 m)",
+            "Engine Model": "TD 71 K",
+            "Gross Power": "244 hp (182 kw)",
+            "Max Torque": "590.1 lbs/ft",
+            "Net Power": "240 hp (179 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "74 gal (280 l)",
+            "Hydraulic System Fluid Capacity": "42.3 gal (159 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "20.5 R 25",
+            "Transmission Fluid Capacity": "4.3 gal (15 l)"
+        },
+        "Transmission": {
+            "Max Speed": "31.7 mph (50 kph)",
+            "Number of Forward Gears": "10",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Planetary Transmission"
+        },
+        "Weights": {
+            "Front Axle - empty": "19180 lbs (8,700 kg)",
+            "Front Axle - loaded": "24700 lbs (11,204 kg)",
+            "Rear Axle - empty": "18080 lbs (8,201 kg)",
+            "Rear Axle - loaded": "62180 lbs (28,205 kg)",
+            "Total Empty": "37260 lbs (16,901 kg)",
+            "Total Loaded": "86880 lbs (39,409 kg)"
+        }
+    }
+}

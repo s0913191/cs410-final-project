@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/drop-deck-lowboy-trailers/jlg/449/30787112",
+    "source_url_id": "30787112",
+    "source_url_model": "449",
+    "source_url_make": "jlg",
+    "source_url_category": "drop-deck-lowboy-trailers",
+    "source_date_scraped": "2023-09-13 17:53:50.573439",
+    "equipment_category": "Drop Deck / Lowboy Trailers",
+    "equipment_make": "JLG",
+    "equipment_model": "449",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "4.4x9 ft (1 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "1",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "1670 lbs (758 kg)",
+            "Weight Capacity": "5000 lbs (2,268 kg)"
+        }
+    }
+}

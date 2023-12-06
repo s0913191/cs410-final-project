@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/962k/6687",
+    "source_url_id": "6687",
+    "source_url_model": "962k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:40.156698",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "962K",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.83 ft (3 m)"
+        },
+        "Engine": {
+            "Model": "C7 ACERT",
+            "Net Power": "221 hp (165 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.25 - 12 cu yds (2 - 9 m)"
+        },
+        "Weights": {
+            "Operational Weight": "46266 lbs (20,986 kg)"
+        }
+    }
+}

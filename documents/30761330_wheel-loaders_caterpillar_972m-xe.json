@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/972m-xe/30761330",
+    "source_url_id": "30761330",
+    "source_url_model": "972m-xe",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:52.403161",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "972M XE",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.4 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C9.3 ACERT",
+            "Net Power": "311 hp (232 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.75 - 13 cu yds (2 - 10 m)"
+        },
+        "Weights": {
+            "Operational Weight": "55057 lbs (24,974 kg)"
+        }
+    }
+}

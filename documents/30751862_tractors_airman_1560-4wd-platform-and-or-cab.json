@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/airman/1560-4wd-platform-and-or-cab/30751862",
+    "source_url_id": "30751862",
+    "source_url_model": "1560-4wd-platform-and-or-cab",
+    "source_url_make": "airman",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:08.057290",
+    "equipment_category": "Tractors",
+    "equipment_make": "Airman",
+    "equipment_model": "1560 4WD Platform / Cab",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.7 ft (2 m)",
+            "Overall Length": "11.3 in (28 cm)",
+            "Wheelbase": "6.6 ft (2 m)",
+            "Width Outside Frame": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "180 cu in (0 m)",
+            "Gross Power": "59.1 hp (44 kw)",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "46.4 hp (34 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "19.6 gal/min (72 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Operating Weight": "4078 lbs (1,850 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12"
+        }
+    }
+}

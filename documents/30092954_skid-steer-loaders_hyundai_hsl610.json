@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/hyundai/hsl610/30092954",
+    "source_url_id": "30092954",
+    "source_url_model": "hsl610",
+    "source_url_make": "hyundai",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:16.715584",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HSL610",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.3 ft (2 m)",
+            "Ground Clearance": "7.3 in (18 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length w/o Bucket": "8.6 ft (2 m)",
+            "Length with Bucket": "10.7 ft (3 m)",
+            "Reach at Max Lift and Dump": "27.2 in (69 cm)",
+            "Turning Radius from Center - inc bucket": "74.7 in (188 cm)",
+            "Turning Radius from Center - machine rear": "60.9 in (152 cm)",
+            "Wheelbase": "3.1 ft (1 m)",
+            "Width Over Tires": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "4TNE88",
+            "Gross Power": "40.3 hp (30 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "16.2 gal/min (61 l/min)",
+            "Relief Valve Pressure": "2440 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load Rating": "1344.9 lbs (610 kg)",
+            "Tipping Angle": "2700.7  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.5 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "9.8 gal (34 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operational Weight": "5247.1 lbs (2,380 kg)",
+            "Tire Size": "10-16.5"
+        }
+    }
+}

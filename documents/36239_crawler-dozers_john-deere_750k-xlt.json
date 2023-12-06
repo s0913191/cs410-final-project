@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/750k-xlt/36239",
+    "source_url_id": "36239",
+    "source_url_model": "750k-xlt",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:11.596122",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "750K XLT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Length w/ Blade": "16.2 ft (5 m)",
+            "Width Over Tracks": "8 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "415 cu in (0 m)",
+            "Engine Model": "PVX 6068",
+            "Max Torque": "531 lbs/ft",
+            "Net Power": "155 hp (116 kw)",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "36.5 gal/min (136 l/min)",
+            "Relief Valve Pressure": "275 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "9.7 gal (34 l)",
+            "Engine Oil Capacity": "6.5 gal (23 l)",
+            "Fuel Capacity": "94.1 gal (356 l)",
+            "Hydraulic Fluid Capacity": "28.1 gal (106 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6 mph (10 kph)",
+            "Max Speed - Reverse": "6.8 mph (10 kph)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5323 cu in (0 m)",
+            "Ground Pressure": "6.5 psi",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "6.2 ft (2 m)",
+            "Track Pitch": "7.6 in (18 cm)"
+        }
+    }
+}

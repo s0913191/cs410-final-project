@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/kx015-4/841883",
+    "source_url_id": "841883",
+    "source_url_model": "kx015-4",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:50.594593",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "KX015-4",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "11.1 ft (3 m)",
+            "Max Digging Depth": "7.4 ft (2 m)",
+            "Max Loading Height": "7.6 ft (2 m)",
+            "Max Reach Along Ground": "12.2 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "6 ft (2 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.6 ft (0 m)",
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Length of Track on Ground": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "778 cu in (0 m)",
+            "Engine Model": "D782-BH",
+            "Net Power": "12.9 hp (9 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "5.6 gal (19 l)",
+            "Hydraulic System Fluid Capacity": "7.4 gal (27 l)",
+            "Operating Weight": "3406.2 lbs (1,545 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "0.1 psi",
+            "Shoe Size": "9.1 in (23 cm)"
+        }
+    }
+}

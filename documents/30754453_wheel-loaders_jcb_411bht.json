@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/411bht/30754453",
+    "source_url_id": "30754453",
+    "source_url_model": "411bht",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:56.554129",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "411BHT",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "16456.1 lbs (7,464 kg)",
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Bucket Capacity - struck": "1.4 cu yds (1 m)",
+            "Bucket Width": "7.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.7 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Hinge Pin - Max Height": "11.5 ft (3 m)",
+            "Length with Bucket on Ground": "19.6 ft (6 m)",
+            "Reach at Max Lift and Dump": "3.1 ft (1 m)",
+            "Wheelbase": "8.9 ft (2 m)",
+            "Width Over Tires": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "243.5 cu in (0 m)",
+            "Engine Model": "1004-4TLR2",
+            "Gross Power": "90 hp (67 kw)",
+            "Max Torque": "239.8 lbs/ft",
+            "Net Power": "80 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "13.4 gal/min (49 l/min)",
+            "Pump Type": "double gear pump with automatic unloader",
+            "Raise Time": "4.6 sec",
+            "Relief Valve Setting": "3190 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "72  A",
+            "Cooling System Fluid Capacity": "5.7 gal (19 l)",
+            "Engine Oil Fluid Capacity": "2.7 gal (8 l)",
+            "Front Axle/Diff Fluid Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "33.1 gal (125 l)",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Operating Voltage": "12 V V",
+            "Rear Axle Oscillation": "25  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "6.7 gal (23 l)",
+            "Static Tipping Weight": "11834.5 lbs (5,368 kg)",
+            "Tire Size": "15.5x25x12 SGL",
+            "Transmission Fluid Capacity": "4.8 gal (15 l)",
+            "Turning Radius": "16.9 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.3 mph (39 kph)",
+            "Max Speed - Reverse": "16.2 mph (26 kph)",
+            "Max Speed Forward": "24.3 mph (39 kph)",
+            "Max Speed Reverse": "10.1 mph (16 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "semi automatic full powershift"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/link-belt/atc-3130/42614",
+    "source_url_id": "42614",
+    "source_url_model": "atc-3130",
+    "source_url_make": "link-belt",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:56.622885",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "ATC-3130",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "167 ft (51 m)",
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "180.5 ft (55 m)",
+            "Max Lift Capacity": "130 t (117,934 kg)",
+            "Max Working Radius": "160 ft (49 m)",
+            "Min Height @ Max Raise Angle": "53.2 ft (16 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.7 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "972.1 cu in (0 m)",
+            "Gross Power": "523 hp (390 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "1770 lbs/ft",
+            "Model": "OM 502 LA",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "39.3 ft (12 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Transport Height": "13.2 ft (4 m)",
+            "Transport Length": "49.1 ft (15 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "15.8 ft (5 m)",
+            "Width w/ Outriggers Extended": "24.7 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "300  A",
+            "Carrier Fuel Capacity": "132.1 gal (500 l)",
+            "Carrier Hydraulic System Fluid Capacity": "76.7 gal (288 l)",
+            "Carrier Oil Capacity": "10.6 gal (38 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "108233 lbs (49,094 kg)",
+            "Tire Size": "20.5R25",
+            "Upper Structure Fuel Capacity": "84.6 gal (318 l)",
+            "Upper Structure Oil Capacity": "4.3 gal (15 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "52.9 mph (84 kph)",
+            "Max Speed - Reverse": "4.4 mph (6 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "automated manual transmission"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "259.4 cu in (0 m)",
+            "Gross Power": "173 hp (129 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "487 lbs/ft",
+            "Model": "OM 904 LA",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1200 rpm"
+        }
+    }
+}

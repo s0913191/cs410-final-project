@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/jcb/214/30480247",
+    "source_url_id": "30480247",
+    "source_url_model": "214",
+    "source_url_make": "jcb",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:35:20.737277",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "214",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "10.5 ft (3 m)",
+            "Max Digging Depth": "14.6 ft (4 m)"
+        },
+        "Loader": {
+            "Breakout Force": "12000 lbs (5,443 kg)",
+            "Lift Capacity": "6750 lbs (3,062 kg)",
+            "SAE - Net": "86 hp (64 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "15439 lbs (7,003 kg)"
+        },
+        "Travel Speed": {
+            "4Th Gear Fwd": "21 mph (34 kph)"
+        }
+    }
+}

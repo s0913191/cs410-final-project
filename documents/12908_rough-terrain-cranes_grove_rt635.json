@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt635/12908",
+    "source_url_id": "12908",
+    "source_url_model": "rt635",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:32.069910",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT635",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "75  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "106 ft (32 m)",
+            "Max Lift Capacity": "70000 lbs (31,752 kg)",
+            "Min Height @ Max Raise Angle": "32 ft (10 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.6 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "24.2 ft (7 m)",
+            "Transport Height": "11.8 ft (3 m)",
+            "Transport Length": "40.4 ft (12 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.5 ft (3 m)",
+            "Wheelbase": "12 in (30 cm)",
+            "Width w/ Outriggers Extended": "20 ft (6 m)"
+        },
+        "Engine": {
+            "Aspiration": "naturally aspirated",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "500 cu in (0 m)",
+            "Engine Make": "Detrolt Diesel",
+            "Engine Model": "8.2L",
+            "Gross Power": "159.6 hp (119 kw)",
+            "Max Torque": "324 lbs/ft",
+            "Power Measured @": "2800 rpm",
+            "Stroke": "4.5 in (10 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Fuel Capacity": "60 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "137 gal (519 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "57467 lbs (26,067 kg)",
+            "Tire Size": "23.5X25-24PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "27.6 mph (43 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "remote mounted powershift"
+        }
+    }
+}

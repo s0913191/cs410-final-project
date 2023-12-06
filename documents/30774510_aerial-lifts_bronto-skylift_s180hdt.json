@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/bronto-skylift/s180hdt/30774510",
+    "source_url_id": "30774510",
+    "source_url_model": "s180hdt",
+    "source_url_make": "bronto-skylift",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:25:43.977111",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Bronto Skylift",
+    "equipment_model": "S180HDT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,000 lbs (454 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "T 180 ft (0 m)",
+            "Platform Size": "3x7.8 ft (1 m)"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/385/30787316",
+    "source_url_id": "30787316",
+    "source_url_model": "385",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:49.764820",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "385",
+    "equipment_spec": {
+        "Engine": {
+            "Aspiration": "Turbocharger Standard",
+            "Displacement": "787 cu in (0 m)",
+            "Net Power": "385 hp (287 kw)",
+            "Power Measured @": "2000 rpm",
+            "PTO Power": "339 hp (253 kw)",
+            "Torque Rise": "40%"
+        },
+        "Production": {
+            "Series": "85 Utility Series",
+            "Years Manufactured": "1985 - 1990"
+        },
+        "Axles": {
+            "Axle Diameter": "4.6 in (10 cm)",
+            "Final Drive": "Inboard 4-Planetary"
+        },
+        "Dimensions": {
+            "Tire Size": "710/70R42 Duals",
+            "Track Width": "30 in (76 cm)",
+            "Wheelbase": "12.9 ft (4 m)",
+            "Width Outside Frame": "3.7 ft (1 m)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "40 gal/min (151 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "19621.2 lbs (8,900 kg)",
+            "3 Point Hitch Type": "Cat. IV-N",
+            "Drawbar Static Vertical Load Rating": "5300 lbs (2,404 kg)",
+            "Fuel Capacity": "300 gal (1,136 l)",
+            "Operating Weight": "45600 lbs (20,684 kg)",
+            "Turning Radius": "16.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

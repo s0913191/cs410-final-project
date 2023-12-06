@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/powerstar-100/30322794",
+    "source_url_id": "30322794",
+    "source_url_model": "powerstar-100",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:35.601749",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "POWERSTAR 100",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "99 hp (74 kw)"
+        },
+        "Production": {
+            "Series": "PowerStar Series",
+            "Years Manufactured": "2018 -"
+        }
+    }
+}

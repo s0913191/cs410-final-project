@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/hr16/30801",
+    "source_url_id": "30801",
+    "source_url_model": "hr16",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:00.184308",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "HR1.6",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "11.2 ft (3 m)",
+            "Max Digging Depth": "7.3 ft (2 m)",
+            "Max Loading Height": "7.6 ft (2 m)",
+            "Max Reach Along Ground": "12.8 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "3.7 ft (1 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "11.5 ft (3 m)",
+            "Max Digging Depth": "7.9 ft (2 m)",
+            "Max Loading Height": "7.9 ft (2 m)",
+            "Max Reach Along Ground": "13.5 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "4 ft (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.6 ft (0 m)",
+            "Tail Swing Radius": "3.7 ft (1 m)",
+            "Width to Outside of Tracks": "3.7 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "58 cu in (0 m)",
+            "Engine Model": "L3E-W 262 KL",
+            "Max Torque": "39.9 lbs/ft",
+            "Net Power": "18 hp (13 kw)",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "8.2 gal (30 l)",
+            "Hydraulic Pump Flow Capacity": "14 gal/min (53 l/min)",
+            "Hydraulic System Fluid Capacity": "9.8 gal (34 l)",
+            "Hydraulic System Relief Valve Pressure": "2395 psi",
+            "Operating Voltage": "12 V",
+            "Operating Weight": "3659.7 lbs (1,660 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "2610 lbs (1,184 kg)",
+            "Max Travel Speed": "1.9 mph (2 kph)"
+        }
+    }
+}

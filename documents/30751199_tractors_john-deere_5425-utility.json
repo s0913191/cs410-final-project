@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/5425-utility/30751199",
+    "source_url_id": "30751199",
+    "source_url_model": "5425-utility",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:21:39.850357",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "5425 Utility",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "Inboard Planetary"
+        },
+        "Dimensions": {
+            "Tire Size": "Front 11.2-24 6PR R1, Rear 16.9-30 6PR R1",
+            "Wheelbase": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "274.7 cu in (0 m)",
+            "Engine Model": "4045",
+            "Gross Power": "80.5 hp (60 kw)",
+            "Max Torque": "208 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm",
+            "PTO Power": "64.4 hp (48 kw)",
+            "Torque Measured @": "1497 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "6",
+            "Pump Flow Capacity": "25 gal/min (95 l/min)",
+            "Relief Valve Pressure": "2828 psi",
+            "Relief Valve Setting": "2828 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3374 lbs (1,530 kg)",
+            "Fuel Capacity": "25.5 gal (95 l)",
+            "Operating Weight": "5701.2 lbs (2,586 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.50-16 6PR F2",
+            "Turning Radius": "9.2 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9-30 6PR R1"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "SyncShuttle"
+        }
+    }
+}

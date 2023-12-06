@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-14-vo-viband-orosc/30833676",
+    "source_url_id": "30833676",
+    "source_url_model": "hd-14-vo-viband-orosc",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:00.680127",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 14 VO (vib/osc)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "104.3 in (264 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54.3 in (137 cm)",
+            "Vibration Frequency": "51/60 hz (3,060 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "59.3 in (150 cm)"
+        }
+    }
+}

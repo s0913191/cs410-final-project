@@ -1,0 +1,103 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx255lc/9329",
+    "source_url_id": "9329",
+    "source_url_model": "dx255lc",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:40.909836",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX255LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "30.6 ft (9 m)",
+            "Max Digging Depth": "20.8 ft (6 m)",
+            "Max Loading Height": "21.9 ft (6 m)",
+            "Max Reach Along Ground": "31.3 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "15.1 ft (5 m)",
+            "Shipping Height of Unit": "10.5 ft (3 m)",
+            "Shipping Length of Unit": "33.2 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "31.6 ft (9 m)",
+            "Max Digging Depth": "22.4 ft (7 m)",
+            "Max Loading Height": "22.8 ft (7 m)",
+            "Max Reach Along Ground": "32.9 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "17.2 ft (5 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "33 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "32.3 ft (10 m)",
+            "Max Digging Depth": "24 ft (7 m)",
+            "Max Loading Height": "23.5 ft (7 m)",
+            "Max Reach Along Ground": "34.5 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "18.7 ft (5 m)",
+            "Shipping Height of Unit": "11.2 ft (3 m)",
+            "Shipping Length of Unit": "33.1 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "28.5 ft (9 m)",
+            "Max Digging Depth": "17.7 ft (5 m)",
+            "Max Loading Height": "19.7 ft (6 m)",
+            "Max Reach Along Ground": "27.9 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "13.2 ft (4 m)",
+            "Shipping Length of Unit": "31.4 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 5": {
+            "Max Cutting Height": "28.3 ft (9 m)",
+            "Max Digging Depth": "19.3 ft (6 m)",
+            "Max Loading Height": "19.8 ft (6 m)",
+            "Max Reach Along Ground": "29.1 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "13.3 ft (4 m)",
+            "Shipping Height of Unit": "10.5 ft (3 m)",
+            "Shipping Length of Unit": "31.1 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.9 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.7 cu yds (0 m)",
+            "Reference Bucket Capacity": "1.5 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Length of Track on Ground": "12.6 ft (4 m)",
+            "Removal Counterweight Clearance": "3.7 ft (1 m)",
+            "Tail Swing Radius": "9.9 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo charged with air to air intercooler",
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "DL06",
+            "Gross Power": "173 hp (129 kw)",
+            "Max Torque": "564.3 lbs/ft",
+            "Net Power": "166 hp (124 kw)",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "6.7 gal (23 l)",
+            "Engine Oil Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "108.4 gal (409 l)",
+            "Hydraulic Pump Flow Capacity": "115.8 gal/min (435 l/min)",
+            "Hydraulic System Fluid Capacity": "108.4 gal (409 l)",
+            "Hydraulic System Relief Valve Pressure": "4684.8 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "54233 lbs (24,600 kg)",
+            "Swing Drive Fluid Capacity": "1.4 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.2 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "10",
+            "Shoe Size": "23.7 in (58 cm)"
+        }
+    }
+}

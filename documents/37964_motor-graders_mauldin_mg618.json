@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/mauldin/mg618/37964",
+    "source_url_id": "37964",
+    "source_url_model": "mg618",
+    "source_url_make": "mauldin",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:45.554943",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Mauldin",
+    "equipment_model": "MG618",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "45  \t\u00b0",
+            "Blade Tip Angle - Rear": "45  \t\u00b0",
+            "Max Lift Above Ground": "13.8 in (33 cm)",
+            "Max Reach Outside Tires - Left": "36 in (91 cm)",
+            "Max Reach Outside Tires - Right": "36 in (91 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "6.8 ft (2 m)",
+            "Height to Top of Isomount Cab": "9.1 ft (3 m)",
+            "Overall Length": "23 ft (7 m)",
+            "Tandem Axle Wheelbase": "3.8 ft (1 m)",
+            "Wheelbase": "16.5 ft (5 m)",
+            "Width Over Tires": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged and aftercooled",
+            "Displacement": "246.6 cu in (0 m)",
+            "Max Power": "133 hp (99 kw)",
+            "Net Torque Gears 1-2": "363.3 lbs/ft"
+        },
+        "Front Axle": {
+            "Oscillation - Total": "30  \t\u00b0",
+            "Wheel Lean": "20  \t\u00b0"
+        },
+        "Moldboard": {
+            "Moldboard Height": "19 in (48 cm)",
+            "Moldboard Width": "10 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "20 gal (76 l)",
+            "Operating Voltage": "12 V V",
+            "Std Operation Weight - Front Axle": "5600 lbs (2,540 kg)",
+            "Std Operation Weight - Rear Axle": "12990 lbs (5,892 kg)",
+            "Std Operation Weight - Total": "18590 lbs (8,432 kg)",
+            "Tire Size": "15-19.5"
+        },
+        "Steering System": {
+            "Articulation Angle": "32  \t\u00b0",
+            "Turning Radius": "18 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "17 mph (27 kph)",
+            "Max Speed - Reverse": "17 mph (27 kph)",
+            "Number of Gears - Forward": "2",
+            "Number of Gears - Reverse": "2",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

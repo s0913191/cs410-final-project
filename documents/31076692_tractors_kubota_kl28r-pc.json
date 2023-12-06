@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/kl28r-pc/31076692",
+    "source_url_id": "31076692",
+    "source_url_model": "kl28r-pc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:28:20.519092",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "KL28R-PC",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "27 hp (20 kw)"
+        },
+        "Production": {
+            "Series": "KL Kingwel R Series",
+            "Years Manufactured": "2012 - 2015"
+        }
+    }
+}

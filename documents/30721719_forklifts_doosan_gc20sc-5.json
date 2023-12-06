@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/doosan/gc20sc-5/30721719",
+    "source_url_id": "30721719",
+    "source_url_model": "gc20sc-5",
+    "source_url_make": "doosan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:26:35.508815",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Doosan",
+    "equipment_model": "GC20SC-5",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Overhead Guard": "6.8 ft (2 m)",
+            "Length to Fork Face": "7.1 ft (2 m)",
+            "Overall Width": "3.3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "122.1 cu in (0 m)",
+            "Engine Model": "G420FE",
+            "Fuel Type": "LP",
+            "Power": "45.6 hp (34 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "MAST": {
+            "Load Capacity": "3500 lbs (1,588 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

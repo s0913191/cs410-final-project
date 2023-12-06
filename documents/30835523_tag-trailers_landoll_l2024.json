@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/landoll/l2024/30835523",
+    "source_url_id": "30835523",
+    "source_url_model": "l2024",
+    "source_url_make": "landoll",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:10.890296",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Landoll",
+    "equipment_model": "L2024",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "24.2x8.6 ft (7 m)"
+        },
+        "Engine": {
+            "Speed Rating": "62 mph (100 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "spring"
+        },
+        "Weights": {
+            "Equipment Weight": "5887 lbs (2,670 kg)",
+            "Weight Capacity": "19956 lbs (9,052 kg)"
+        }
+    }
+}

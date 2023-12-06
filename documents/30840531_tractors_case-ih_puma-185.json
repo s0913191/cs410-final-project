@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/puma-185/30840531",
+    "source_url_id": "30840531",
+    "source_url_model": "puma-185",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:45.357481",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "PUMA 185",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "9.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Cross-flow aspiration/turbocharged",
+            "Displacement": "408.9 cu in (0 m)",
+            "Gross Power": "180 hp (134 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "150 hp (112 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "31.7 gal/min (117 l/min)",
+            "Pump Type": "Closed center, Pressure Flow Compensating"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "9449.1 lbs (4,286 kg)",
+            "Alternator Supplied Amperage": "150  A",
+            "DEF tank capacity": "12.7 gal (45 l)",
+            "Engine Oil Capacity": "16 gal (61 l)",
+            "Fuel Capacity": "103 gal (390 l)",
+            "Hydraulic System Fluid Capacity": "22 gal (83 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15899.8 lbs (7,212 kg)"
+        },
+        "Production": {
+            "Series": "Puma Series",
+            "Years Manufactured": "2011 -"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Full powershift"
+        }
+    }
+}

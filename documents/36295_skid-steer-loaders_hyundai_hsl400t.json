@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/hyundai/hsl400t/36295",
+    "source_url_id": "36295",
+    "source_url_model": "hsl400t",
+    "source_url_make": "hyundai",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:13.904239",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HSL400T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "5.8 ft (2 m)",
+            "Ground Clearance": "6.8 in (15 cm)",
+            "Height - Top of Cab": "6 ft (2 m)",
+            "Length w/o Bucket": "7 ft (2 m)",
+            "Length with Bucket": "8.8 ft (2 m)",
+            "Reach at Max Lift and Dump": "14.5 in (36 cm)",
+            "Turning Radius from Center - inc bucket": "60.2 in (152 cm)",
+            "Turning Radius from Center - machine rear": "48 in (122 cm)",
+            "Wheelbase": "2.8 ft (1 m)",
+            "Width Over Tires": "3 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "D722B",
+            "Gross Power": "15.8 hp (11 kw)",
+            "Power Measured @": "3100 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8.1 gal/min (30 l/min)",
+            "Relief Valve Pressure": "2100 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.3 cu yds (0 m)",
+            "Operating Load Rating": "850 lbs (386 kg)",
+            "Tipping Angle": "1799  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "14.6 gal (53 l)",
+            "Hydraulic System Fluid Capacity": "11.4 gal (42 l)",
+            "Max Speed": "5.1 mph (8 kph)",
+            "Operational Weight": "3000.5 lbs (1,361 kg)",
+            "Tire Size": "5.90x15"
+        }
+    }
+}

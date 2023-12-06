@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc3200c/30754009",
+    "source_url_id": "30754009",
+    "source_url_model": "cc3200c",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:19.811012",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC3200C",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Failsafe multidisc brake in both drums",
+            "Service brake": "Hydrostatic in forward and reverse lever"
+        },
+        "Dimensions": {
+            "Curb clearance": "28 in (71 cm)",
+            "Gradeability": "45%",
+            "Ground Clearance": "11 in (28 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "177 in (450 cm)",
+            "Overall Width": "6.2 ft (2 m)",
+            "Turning Radius - Inside": "16.3 ft (5 m)",
+            "Turning Radius - Outside": "22 ft (7 m)",
+            "Wheelbase": "131 in (333 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "20250 lbs (9,185 kg)",
+            "Centrifugal Force - Low": "16880 lbs (7,657 kg)",
+            "Drum Diameter": "45 in (114 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Width": "68 in (173 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "132 lbs/in",
+            "Vibration Frequency 1": "48 hz (2,880 vpm)",
+            "Vibration Frequency 2": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Emissions Certification": "Tier 4f",
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 3.6 HT",
+            "Engine Type": "Water cooled turbo diesel",
+            "Gross Power": "74 hp (55 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "21 gal (79 l)",
+            "Fuel Capacity": "34 gal (129 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "18700 lbs (8,482 kg)",
+            "Operating weight ROPS": "17000 lbs (7,711 kg)",
+            "Oscillating angle": "7  \t\u00b0",
+            "Steering Angle": "32  \t\u00b0",
+            "Water Spray System Fluid Capacity": "198 gal (749 l)"
+        },
+        "Tires": {
+            "Track widths": "11 in (28 cm)",
+            "Wheel Spacing": "6 in (15 cm)",
+            "Wheel Track/Tire Overlap": "18 in (46 cm)"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/john-deere/300b/19395",
+    "source_url_id": "19395",
+    "source_url_model": "300b",
+    "source_url_make": "john-deere",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:01.144707",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "300B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Transport Length": "15.8 ft (5 m)",
+            "Transport Width": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "naturally aspirataed",
+            "Displacement": "164 cu in (0 m)",
+            "Engine Model": "300 Series",
+            "Net Power": "43 hp (32 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "20.6 gal/min (76 l/min)",
+            "Relief Valve Pressure": "475 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3 gal (11 l)",
+            "Fuel Capacity": "19.5 gal (72 l)",
+            "Hydraulic System Fluid Capacity": "8.5 gal (30 l)",
+            "Tire Size Front - 2wd / 4wd": "11L-15",
+            "Transmission Fluid Capacity": "8.5 gal (30 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9-24"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "Collar Shift"
+        }
+    }
+}

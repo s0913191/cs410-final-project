@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/asv/4810/30685716",
+    "source_url_id": "30685716",
+    "source_url_model": "4810",
+    "source_url_make": "asv",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:37:59.465369",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "ASV",
+    "equipment_model": "4810",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16 in (41 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length - without Bucket": "9.6 ft (3 m)",
+            "Width Over Tracks": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "244 cu in (0 m)",
+            "Engine Model": "3054T",
+            "Gross Power": "105 hp (78 kw)",
+            "Peak Torque": "284 lbs/ft",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "19 gal/min (72 l/min)",
+            "Relief Valve Pressure": "2950 psi"
+        },
+        "Loader": {
+            "Breakout Force": "5900 lbs (2,676 kg)",
+            "Operating Load": "2065 lbs (937 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "9.5 gal (34 l)",
+            "Engine Oil Capacity": "2.1 gal (8 l)",
+            "Fuel Capacity": "25 gal (95 l)",
+            "Hydraulic System Fluid Capacity": "28 gal (106 l)",
+            "Max Speed - high range": "6 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8640 lbs (3,919 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2826 cu in (0 m)",
+            "Ground Pressure": "3 psi",
+            "Length of Track on Ground": "6.6 ft (2 m)",
+            "Number of Track Rollers per Side": "12",
+            "Width of Track": "18 in (46 cm)"
+        }
+    }
+}

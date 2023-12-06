@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca152/30170418",
+    "source_url_id": "30170418",
+    "source_url_model": "ca152",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:56.328329",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA152",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Overall Length": "15.7 in (38 cm)",
+            "Overall Width": "5.5 ft (2 m)",
+            "Wheelbase": "8.4 in (20 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "25628.3 lbs (11,625 kg)",
+            "Centrifugal Force - Low": "24504.2 lbs (11,115 kg)",
+            "Drum Diameter": "48 in (122 cm)",
+            "Drum Width": "66 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "31 hz (1,860 vpm)",
+            "Vibration Frequency 2": "43 hz (2,580 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "water cooled turbo diesel",
+            "Engine Model": "B4.5 T",
+            "Gross Power": "99 hp (74 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "59.5 gal (223 l)",
+            "Max Speed": "11.9 mph (18 kph)",
+            "Operating Weight": "15983.6 lbs (7,250 kg)"
+        },
+        "Tires": {
+            "Tires": "420-70 B24"
+        }
+    }
+}

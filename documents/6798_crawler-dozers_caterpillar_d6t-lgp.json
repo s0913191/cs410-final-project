@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d6t-lgp/6798",
+    "source_url_id": "6798",
+    "source_url_model": "d6t-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:11.082577",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D6T LGP",
+    "equipment_spec": {
+        "Description:": {
+            "Make": "Cat",
+            "Model": "C9 ACERT",
+            "Net Power": "200 hp (149 kw)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C9.3 ACERT",
+            "Net Power": "207 hp (154 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "50490 lbs (22,902 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length of Track on Ground": "10.8 ft (3 m)",
+            "Length w/o Blade": "14 ft (4 m)",
+            "Width Over Tracks": "10.5 ft in (25 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "49.9 gal/min (185 l/min)",
+            "Relief Valve Pressure": "2799 psi"
+        },
+        "Standard Blade": {
+            "Capacity": "4.9 cu yds (3 m)",
+            "Height": "44 in (112 cm)",
+            "Width": "13.4 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.2 mph (11 kph)",
+            "Max Speed - Reverse": "9.1 mph (14 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "9288 cu in (0 m)",
+            "Ground Pressure": "5.2 psi",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "36 in (91 cm)",
+            "Track Pitch": "8 in (20 cm)"
+        }
+    }
+}

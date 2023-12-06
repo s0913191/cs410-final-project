@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/leeboy/685b/23320",
+    "source_url_id": "23320",
+    "source_url_model": "685b",
+    "source_url_make": "leeboy",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:39.505066",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Leeboy",
+    "equipment_model": "685B",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "30  \t\u00b0",
+            "Rotation": "120  \t\u00b0"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "8.9 ft (2 m)",
+            "Overall Length": "21.7 ft (6 m)",
+            "Width Over Tires": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "Cummins",
+            "Max Power": "110 hp (82 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Wheel Lean": "26  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "4500 psi"
+        },
+        "Moldboard": {
+            "Moldboard Height": "18 in (46 cm)",
+            "Moldboard Width": "10.3 ft (3 m)",
+            "Side Shift Left": "36 in (91 cm)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5.6 gal (19 l)",
+            "Fuel Capacity": "39.9 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "32 gal (121 l)",
+            "Oil System Fluid Capacity": "3 gal (11 l)",
+            "Operating Voltage": "12 V V",
+            "Std Operation Weight - Total": "15200.9 lbs (6,895 kg)",
+            "Tire Size": "15/38.5-15"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20 mph (32 kph)"
+        }
+    }
+}

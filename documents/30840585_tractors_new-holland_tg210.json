@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tg210/30840585",
+    "source_url_id": "30840585",
+    "source_url_model": "tg210",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:20.368383",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TG210",
+    "equipment_spec": {
+        "Engine": {
+            "Aspiration": "Turbocharged, air-to-air intercooled",
+            "Displacement": "505 cu in (0 m)",
+            "Gross Power": "210 hp (157 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "170 hp (127 kw)",
+            "Torque Rise": "50%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "38.6 gal/min (144 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat III/IIIN",
+            "Fuel Capacity": "130 gal (492 l)",
+            "Operating Weight": "23500 lbs (10,660 kg)"
+        },
+        "Production": {
+            "Series": "TG Series",
+            "Years Manufactured": "2003 - 2006"
+        },
+        "Transmission": {
+            "Transmission Type": "Powershift"
+        }
+    }
+}

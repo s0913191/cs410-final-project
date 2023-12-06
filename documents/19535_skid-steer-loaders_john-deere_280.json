@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/280/19535",
+    "source_url_id": "19535",
+    "source_url_model": "280",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:43.707547",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "280",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.6 ft (2 m)",
+            "Ground Clearance": "9.5 in (23 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length w/o Bucket": "9.6 ft (3 m)",
+            "Length with Bucket": "11.5 ft (3 m)",
+            "Reach at Max Lift and Dump": "32 in (81 cm)",
+            "Turning Radius from Center - inc bucket": "83.7 in (211 cm)",
+            "Turning Radius from Center - machine rear": "69 in (175 cm)",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "4045T",
+            "Gross Power": "90 hp (67 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.3 gal/min (79 l/min)",
+            "Pump Type": "3-spool open center",
+            "Relief Valve Pressure": "3100 psi"
+        },
+        "Loader": {
+            "Breakout Force": "11600 psi",
+            "Operating Load Rating": "3200 lbs (1,452 kg)",
+            "Tipping Angle": "7000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "3.6 gal (11 l)",
+            "Fuel Capacity": "24 gal (91 l)",
+            "Hydraulic System Fluid Capacity": "9 gal (34 l)",
+            "Max Speed": "12 mph (19 kph)",
+            "Operating Speed": "7 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "9200 lbs (4,173 kg)",
+            "Tire Size": "14x17.5 Haulers, 14PR"
+        }
+    }
+}

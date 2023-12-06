@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/jx65/52497",
+    "source_url_id": "52497",
+    "source_url_model": "jx65",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:44.066922",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "JX65",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "65 hp (48 kw)"
+        },
+        "Production": {
+            "Series": "JX Series",
+            "Years Manufactured": "2002 - 2006"
+        }
+    }
+}

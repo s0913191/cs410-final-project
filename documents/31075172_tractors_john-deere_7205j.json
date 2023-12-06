@@ -1,0 +1,16 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/7205j/31075172",
+    "source_url_id": "31075172",
+    "source_url_model": "7205j",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:23:06.022891",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "7205J",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "205 hp (153 kw)"
+        }
+    }
+}

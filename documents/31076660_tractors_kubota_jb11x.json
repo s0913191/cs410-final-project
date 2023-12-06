@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/jb11x/31076660",
+    "source_url_id": "31076660",
+    "source_url_model": "jb11x",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:51.990038",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "JB11X",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "10 hp (7 kw)"
+        },
+        "Production": {
+            "Series": "JB Bullstar Extra Series",
+            "Years Manufactured": "2009 - 2019"
+        }
+    }
+}

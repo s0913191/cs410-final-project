@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-174-apo-4f/30754160",
+    "source_url_id": "30754160",
+    "source_url_model": "bw-174-apo-4f",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:06.698200",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 174 APO-4F",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Mechanichal",
+            "Service brake": "Hydrostatic"
+        },
+        "Dimensions": {
+            "Drum Diameter - Front": "4.1 ft (1 m)",
+            "Drum Diameter - Rear": "4.1 ft (1 m)",
+            "Ground Clearance": "11.4 in (28 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "174.1 in (442 cm)",
+            "Overall Width": "6 ft (2 m)",
+            "Track radius inner": "116.2 in (295 cm)",
+            "Wheelbase": "126 in (320 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "13713.4 lbs (6,220 kg)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "45 hz (2,700 vpm)",
+            "Vibration Frequency 2": "46 hz (2,760 vpm)"
+        },
+        "Engine": {
+            "Cooling method": "Liquid",
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 3.6 L4",
+            "Fuel": "Diesel",
+            "Gross Power": "99.8 hp (74 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Weight": "20944 lbs (9,500 kg)",
+            "Water Spray Tank Fluid Capacity": "179.7 gal (678 l)"
+        },
+        "Steering System": {
+            "System": "2-p pivoted"
+        },
+        "Weights": {
+            "Front axle weight": "9920.9 lbs (4,500 kg)",
+            "Grossweight": "24471.4 lbs (11,100 kg)",
+            "Rear axle weight": "11023.2 lbs (5,000 kg)",
+            "Static linear load, front": "268 lbs/in",
+            "Static linear load, rear": "298 lbs/in"
+        }
+    }
+}

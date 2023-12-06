@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/boomer-33/30169859",
+    "source_url_id": "30169859",
+    "source_url_model": "boomer-33",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:30.862841",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "BOOMER 33",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "32 hp (24 kw)"
+        },
+        "Production": {
+            "Series": "Boomer Series",
+            "Years Manufactured": "2014 - 2016"
+        }
+    }
+}

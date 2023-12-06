@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/doosan/a35g-fs/30761112",
+    "source_url_id": "30761112",
+    "source_url_model": "a35g-fs",
+    "source_url_make": "doosan",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:12.379899",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Doosan",
+    "equipment_model": "A35G FS",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Rated Payload": "37 t (33,566 kg)"
+        },
+        "Engine": {
+            "Make": "Volvo",
+            "Model": "D13J/16J"
+        },
+        "Weights": {
+            "Operating Weight": "139112 lbs (63,101 kg)"
+        }
+    }
+}

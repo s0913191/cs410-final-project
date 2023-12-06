@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l45b/32646",
+    "source_url_id": "32646",
+    "source_url_model": "l45b",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:05.876993",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L45B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "13938 lbs (6,322 kg)",
+            "Bucket Capacity - heaped": "1.8 cu yds (1 m)",
+            "Bucket Width": "7.5 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Hinge Pin - Max Height": "12 ft (4 m)",
+            "Length with Bucket on Ground": "20 ft (6 m)",
+            "Reach at Max Lift and Dump": "3 ft (1 m)",
+            "Wheelbase": "8 ft (2 m)",
+            "Width Over Tires": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "290.5 cu in (0 m)",
+            "Engine Model": "D5DCBE2",
+            "Gross Power": "97 hp (72 kw)",
+            "Net Power": "94 hp (70 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.5 sec",
+            "Lower Time": "5 sec",
+            "Pump Flow Capacity": "28 gal/min (106 l/min)",
+            "Pump Type": "Axial piston pump",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "3616 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Engine Oil Fluid Capacity": "3.7 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "34.3 gal (129 l)",
+            "Hydraulic System Fluid Capacity": "31.7 gal (117 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "18519 lbs (8,400 kg)",
+            "Rear Axle Oscillation": "20  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "2.6 gal (8 l)",
+            "Static Tipping Weight": "13007 lbs (5,900 kg)",
+            "Tire Size": "15.5-25",
+            "Turning Radius": "7.5 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.4 mph (19 kph)",
+            "Max Speed - Reverse": "12.4 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

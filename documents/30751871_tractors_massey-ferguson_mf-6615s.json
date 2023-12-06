@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-6615s/30751871",
+    "source_url_id": "30751871",
+    "source_url_model": "mf-6615s",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:05.039099",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 6615S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Wheelbase": "8.8 ft (2 m)",
+            "Width Outside Frame": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "AGCO Power",
+            "Gross Power": "139.5 hp (104 kw)",
+            "Max Torque": "459.6 lbs/ft",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "119.4 hp (89 kw)",
+            "Rated engine speed": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "5",
+            "Pump Flow Capacity": "26.5 gal/min (98 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "11243.6 lbs (5,100 kg)",
+            "DEF tank capacity": "8 gal (30 l)",
+            "Fuel Capacity": "67.1 gal (254 l)",
+            "Operating Weight": "15432.4 lbs (7,000 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "Dyna-4, Dyna-6 or Dyna-VT"
+        }
+    }
+}

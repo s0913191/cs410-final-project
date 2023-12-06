@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/landfill-compactors/bomag/bc-772-eb-2/30803346",
+    "source_url_id": "30803346",
+    "source_url_model": "bc-772-eb-2",
+    "source_url_make": "bomag",
+    "source_url_category": "landfill-compactors",
+    "source_date_scraped": "2023-09-13 17:39:14.705615",
+    "equipment_category": "Landfill Compactors",
+    "equipment_make": "Bomag",
+    "equipment_model": "BC 772 EB-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "121.7 in (307 cm)"
+        },
+        "Drum": {
+            "Drum Width": "148.6 in (376 cm)",
+            "Vibration Frequency": "n/a hz (0 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "149.6 in (378 cm)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/b60/30774390",
+    "source_url_id": "30774390",
+    "source_url_model": "b60",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:02.827095",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "B60",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "650 lbs (295 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "ST/60 ft (0 m)",
+            "Stowed Height": "8.5 ft (2 m)",
+            "Stowed Width": "7.9 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "15 x 19.5"
+        },
+        "Transmission": {
+            "4WD": "opt."
+        }
+    }
+}

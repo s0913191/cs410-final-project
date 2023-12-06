@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/sl19/29510",
+    "source_url_id": "29510",
+    "source_url_model": "sl19",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:34.607518",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "SL19",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Stowed Height": "6.5 ft (2 m)",
+            "Stowed Width": "2.7 ft (1 m)"
+        },
+        "Tires": {
+            "Tire Size": "4x12"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/bg2455d/30761008",
+    "source_url_id": "30761008",
+    "source_url_model": "bg2455d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:04.162987",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "BG2455D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8 - 24.20 ft (2 - 7 m)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "14.5 lbs (6 kg)",
+            "Paving Speed": "255 ft/min",
+            "Paving Width - max": "8 - 24.20 ft (2 - 7 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "36600 lbs (16,602 kg)"
+        }
+    }
+}

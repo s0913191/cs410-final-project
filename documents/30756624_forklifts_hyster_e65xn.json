@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/e65xn/30756624",
+    "source_url_id": "30756624",
+    "source_url_model": "e65xn",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:28:12.375944",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "E65XN",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Mechanical",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Front Tread Range": "35.7 in (89 cm)",
+            "Gradeability": "31%",
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Height to Top of Overhead Guard": "7.4 ft (2 m)",
+            "Length to Fork Face": "7.5 ft (2 m)",
+            "Overall Height - mast lowered": "6.9 ft (2 m)",
+            "Overall Width": "3.7 ft (1 m)",
+            "Rear Tread Range": "36.1 in (91 cm)",
+            "Right Angle Stack": "12 ft (4 m)",
+            "Turning Radius": "6.6 ft (2 m)",
+            "Wheelbase": "4.8 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Make": "Hyster",
+            "Engine Model": "E65XN",
+            "Power": "24.7 hp (18 kw)"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "MAST": {
+            "Lift Speed": "93 ft/min",
+            "Load Capacity": "6499.3 lbs (2,948 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "91 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "5  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Auxiliary hydraulic flow": "10.6 gal/min (38 l/min)",
+            "Axle load - front": "4640.8 lbs (2,105 kg)",
+            "Axle load - rear": "6852 lbs (3,108 kg)",
+            "Drawbar Pull": "3335 lbs (1,513 kg)",
+            "Front Tire Size": "21 x 8 x 15",
+            "Max Speed": "10.6 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Voltage": "36 V V",
+            "Rear Tire Size": "16 x 6 x 10.5",
+            "Tire Type": "Cushion"
+        }
+    }
+}

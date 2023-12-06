@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/1850k-xlt/2285",
+    "source_url_id": "2285",
+    "source_url_model": "1850k-xlt",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:18.920752",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "1850K XLT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Length w/ Blade": "18.7 ft (5 m)",
+            "Width Over Tracks": "8.3 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "409 cu in (0 m)",
+            "Engine Model": "Family IV 667TA/EED",
+            "Gross Power": "194 hp (145 kw)",
+            "Max Torque": "634 lbs/ft",
+            "Net Power": "184 hp (137 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "65.8 gal/min (246 l/min)",
+            "Pump type": "Piston"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "6.6 gal (23 l)",
+            "Engine Oil Capacity": "5 gal (19 l)",
+            "Final Drives Fluid Capacity": "8.8 gal (30 l)",
+            "Fuel Capacity": "106 gal (401 l)",
+            "Hydraulic Fluid Capacity": "30.7 gal (114 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "46649 lbs (21,160 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "7.3 cu yds (5 m)",
+            "Height": "56 in (142 cm)",
+            "Width": "11.3 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "8.1 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power Shift"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.5 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "6.3 ft (2 m)",
+            "Track Pitch": "8 in (20 cm)"
+        }
+    }
+}

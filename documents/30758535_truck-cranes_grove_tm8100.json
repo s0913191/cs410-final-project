@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tm8100/30758535",
+    "source_url_id": "30758535",
+    "source_url_model": "tm8100",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:35.844138",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TM8100",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "114 ft (35 m)",
+            "Max Lift Capacity": "159835.2 lbs (72,501 kg)",
+            "Min Height @ Max Raise Angle": "36 ft (11 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "359 cu in (0 m)",
+            "Gross Power": "200 hp (149 kw)",
+            "Make": "Grove",
+            "Max Torque": "504 lbs/ft",
+            "Model": "6BTA5.9",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1700 rpm"
+        },
+        "Dimensions": {
+            "Transport Height": "12.3 ft (4 m)",
+            "Transport Length": "47.8 ft (14 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Number of Axels": "6",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "115043 lbs (52,183 kg)",
+            "Tire Size": "14.00Rx20",
+            "Upper Structure Fuel Capacity": "100 gal (379 l)",
+            "Upper Structure Hydraulic System Fluid Capacity": "305 gal (1,154 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "45 mph (72 kph)",
+            "Number of Forward Gears": "13",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Manual Fuller Roadranger"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "586 cu in (0 m)",
+            "Gross Power": "370 hp (276 kw)",
+            "Make": "Grove",
+            "Max Torque": "983 lbs/ft",
+            "Model": "8V-71TA",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1200 rpm"
+        }
+    }
+}

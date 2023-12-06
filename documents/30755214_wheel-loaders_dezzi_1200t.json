@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/dezzi/1200t/30755214",
+    "source_url_id": "30755214",
+    "source_url_model": "1200t",
+    "source_url_make": "dezzi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:35.577433",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Dezzi",
+    "equipment_model": "1200T",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "18232.1 lbs (8,270 kg)",
+            "Bucket Capacity - heaped": "2 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "8.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Length with Bucket on Ground": "20.4 ft (6 m)",
+            "Reach at Max Lift and Dump": "2.9 ft (1 m)",
+            "Wheelbase": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "110 hp (82 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Operating Weight": "17306.3 lbs (7,850 kg)",
+            "Static Tipping Weight": "14755.6 lbs (6,693 kg)",
+            "Tire Size": "17.5x25L3"
+        },
+        "Transmission": {
+            "Transmission Type": "powershift"
+        }
+    }
+}

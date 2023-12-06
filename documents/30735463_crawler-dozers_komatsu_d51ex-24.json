@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d51ex-24/30735463",
+    "source_url_id": "30735463",
+    "source_url_model": "d51ex-24",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:17.949828",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D51EX-24",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA4D107E-3",
+            "Net Power": "131 hp (98 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "30821 lbs (13,980 kg)"
+        }
+    }
+}

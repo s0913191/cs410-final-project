@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/daewoo/solar-280lc-iii/8849",
+    "source_url_id": "8849",
+    "source_url_model": "solar-280lc-iii",
+    "source_url_make": "daewoo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:56.832243",
+    "equipment_category": "Excavators",
+    "equipment_make": "Daewoo",
+    "equipment_model": "SOLAR 280LC III",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "44.9 ft (13 m)",
+            "Digging Reach": "44.9 ft (13 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "63051 lbs (28,600 kg)"
+        }
+    }
+}

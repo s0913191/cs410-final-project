@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/magnum-340/30103348",
+    "source_url_id": "30103348",
+    "source_url_model": "magnum-340",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:01.947568",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MAGNUM 340",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Overall Length": "20.6 in (51 cm)",
+            "Tire Size": "420/8R34 - 480/80R50",
+            "Wheelbase": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "531 cu in (0 m)",
+            "Gross Power": "340 hp (254 kw)",
+            "Net Power": "375 hp (280 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "PTO Power": "290 hp (216 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "29600 lbs (13,427 kg)"
+        },
+        "Production": {
+            "Series": "Magnum Series",
+            "Years Manufactured": "2011 -"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "full power shift"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/scanlift/sl240/30758294",
+    "source_url_id": "30758294",
+    "source_url_model": "sl240",
+    "source_url_make": "scanlift",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:53.692826",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Scanlift",
+    "equipment_model": "SL240",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16.6 in (41 cm)",
+            "Overall Height - mast lowered": "7.4 ft (2 m)",
+            "Overall Length": "22.7 in (56 cm)",
+            "Overall Width": "6.3 ft (2 m)",
+            "Turning Radius": "16.5 ft (5 m)",
+            "Wheelbase": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Diesel",
+            "Gross Power": "23.3 hp (17 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "16.2 gal (61 l)",
+            "Max Speed": "2.3 mph (3 kph)",
+            "Operating Weight": "9479.9 lbs (4,300 kg)",
+            "Tire Size": "10/75-15.3"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "36.1 ft (11 m)",
+            "Max Platform Height": "72.2 ft (22 m)",
+            "Max Platform Weight Capacity": "507.1 lbs (230 kg)",
+            "Max Working Height": "78.8 ft (24 m)",
+            "Platform Inner Length": "59.1 in (150 cm)",
+            "Platform Inner Width": "39.4 in (99 cm)"
+        }
+    }
+}

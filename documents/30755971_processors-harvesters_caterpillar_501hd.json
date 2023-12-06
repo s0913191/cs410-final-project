@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/caterpillar/501hd/30755971",
+    "source_url_id": "30755971",
+    "source_url_model": "501hd",
+    "source_url_make": "caterpillar",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:09.167462",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "501HD",
+    "equipment_spec": {
+        "Boom": {
+            "Max Reach w/ Head": "21 ft (6 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Overall Width": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "3056E - DITAAC",
+            "Gross Power": "161 hp (120 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "160  A",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "60 gal (227 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "40000 lbs (18,144 kg)"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "2.2 ft (1 m)",
+            "Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "7.4 ft (2 m)",
+            "Track Length": "13 ft (4 m)"
+        }
+    }
+}

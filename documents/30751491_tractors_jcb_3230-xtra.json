@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/jcb/3230-xtra/30751491",
+    "source_url_id": "30751491",
+    "source_url_model": "3230-xtra",
+    "source_url_make": "jcb",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:56.124235",
+    "equipment_category": "Tractors",
+    "equipment_make": "JCB",
+    "equipment_model": "3230 XTRA",
+    "equipment_spec": {
+        "Brakes": {
+            "Brakes Type": "ABS with twin caliper outboard discs on all four wheels and heavy-duty suspension system.",
+            "Parking brake": "ndependent disc on transmission output shaft"
+        },
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Overall Length": "204.8 in (518 cm)",
+            "Overall width": "7.8 ft (2 m)",
+            "Tire Size": "Width(1.38m,4'6 ft'in)",
+            "Wheelbase": "10 ft (3 m)"
+        },
+        "Electrical System": {
+            "Alternator": "200  Amp"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and intercooled",
+            "Bore": "4.3 in (10 cm)",
+            "Cooling method": "Water",
+            "Engine Make": "AGCO Power",
+            "Engine Model": "74 AWF",
+            "Gross Power": "190 hp (142 kw)",
+            "Max Torque": "708.1 lbs/ft",
+            "Net Power": "220 hp (164 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5.3 in (13 cm)"
+        },
+        "Transmission": {
+            "Transmission Type": "2 range continuously variable transmission with 6 modes of operation."
+        }
+    }
+}

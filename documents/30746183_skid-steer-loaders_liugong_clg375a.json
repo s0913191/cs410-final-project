@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/liugong/clg375a/30746183",
+    "source_url_id": "30746183",
+    "source_url_model": "clg375a",
+    "source_url_make": "liugong",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:19.739720",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "CLG375A",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "83 hp (62 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2105 lbs (955 kg)",
+            "Operating Width": "66 in (168 cm)"
+        }
+    }
+}

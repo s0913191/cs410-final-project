@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/bg240c/30179334",
+    "source_url_id": "30179334",
+    "source_url_model": "bg240c",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:03.681008",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "BG240C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "22.3 ft (7 m)",
+            "Tire Size": "16X22 front 18.00x25-16PR rear",
+            "Transport Height": "9.1 ft (3 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Wheelbase": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "3054DIT",
+            "Gross Power": "154 hp (115 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "16 in (41 cm)",
+            "Hopper Capacity": "8 lbs (4 kg)",
+            "Paving Speed - max": "249.4 ft/min",
+            "Paving Width - max": "24 ft (7 m)",
+            "Travel Speed - max": "10 mph (16 kph)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "9.8 gal (34 l)",
+            "Fuel Capacity": "70.1 gal (265 l)",
+            "Hydraulic System Fluid Capacity": "50 gal (189 l)",
+            "Operating Weight w/o Screed": "32694.6 lbs (14,830 kg)"
+        }
+    }
+}

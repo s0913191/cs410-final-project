@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/r900c-litronic/30874659",
+    "source_url_id": "30874659",
+    "source_url_model": "r900c-litronic",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:14:14.998269",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "R900C Litronic",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "20.8 ft (6 m)"
+        },
+        "Engine": {
+            "Net Power": "129 hp (96 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "44100 - 47,620 lbs (20,004 - 21,600 kg)"
+        }
+    }
+}

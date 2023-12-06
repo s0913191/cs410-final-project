@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/new-holland/w190/30747635",
+    "source_url_id": "30747635",
+    "source_url_model": "w190",
+    "source_url_make": "new-holland",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:43.796267",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "W190",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "3776790.1 lbs (1,713,141 kg)",
+            "Bucket Capacity - heaped": "4.2 cu yds (3 m)",
+            "Bucket Width": "9.8 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Hinge Pin - Max Height": "13.4 ft (4 m)",
+            "Length with Bucket on Ground": "26.7 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.9 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo aftercooler",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "CNH NEF 6CRTAA",
+            "Net Power": "201.2 hp (150 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3.1 sec",
+            "Pump Flow Capacity": "85.9 gal/min (322 l/min)",
+            "Pump Type": "Sealed system with anticavitation and relief valves",
+            "Raise Time": "6.2 sec",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "11.9 gal (42 l)",
+            "Engine Oil Fluid Capacity": "4 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "8.5 gal (30 l)",
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Hydraulic System Fluid Capacity": "39.7 gal (148 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "39418.7 lbs (17,880 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "8.5 gal (30 l)",
+            "Static Tipping Weight": "31967.1 lbs (14,500 kg)",
+            "Tire Size": "23.5-25 GP-2B",
+            "Transmission Fluid Capacity": "6.9 gal (23 l)",
+            "Turning Radius": "21.4 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.8 mph (35 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "PowerShift CounterShaft"
+        }
+    }
+}

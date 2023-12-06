@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/ts26/38032",
+    "source_url_id": "38032",
+    "source_url_model": "ts26",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:38.087434",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "TS26",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,000 lbs (454 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "SL/26 ft (0 m)",
+            "Stowed Height": "7.2 ft (2 m)",
+            "Stowed Width": "4 ft (1 m)"
+        },
+        "Tires": {
+            "Tire Size": "4x8-3.75"
+        }
+    }
+}

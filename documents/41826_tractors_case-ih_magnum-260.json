@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/magnum-260/41826",
+    "source_url_id": "41826",
+    "source_url_model": "magnum-260",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:56.650713",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MAGNUM 260",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "11.1 ft (3 m)",
+            "Overall Length": "252.8 in (640 cm)",
+            "Overall Width": "8.4 ft (2 m)",
+            "Wheelbase": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "531 cu in (0 m)",
+            "Engine Make": "CaseIH",
+            "Gross Power": "257 hp (192 kw)",
+            "Net Power": "290 hp (216 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "PTO Power": "215 hp (160 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "44 gal/min (167 l/min)",
+            "Pump Type": "Pressure-flow compensating"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "12800.1 lbs (5,806 kg)",
+            "DEF tank capacity": "23.6 gal (87 l)",
+            "Fuel Capacity": "168 gal (636 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "27178.6 lbs (12,328 kg)"
+        },
+        "Production": {
+            "Series": "Magnum Series",
+            "Years Manufactured": "2011 - 2013"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "19",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

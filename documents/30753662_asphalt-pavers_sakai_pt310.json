@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/sakai/pt310/30753662",
+    "source_url_id": "30753662",
+    "source_url_model": "pt310",
+    "source_url_make": "sakai",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:32.572439",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Sakai",
+    "equipment_model": "PT310",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length of Track on Ground": "6.1 ft (2 m)",
+            "Length w/ Screed": "14.7 ft (4 m)",
+            "Transport Height": "5.9 ft (2 m)",
+            "Transport Width": "6.5 ft (2 m)",
+            "Width w/ Hopper Open": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "133 cu in (0 m)",
+            "Engine Model": "4LE1",
+            "Gross Power": "38.9 hp (28 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "9.1 in (23 cm)",
+            "Paving Speed - max": "39.4 ft/min",
+            "Paving Thickness - max": "6 in (15 cm)",
+            "Paving Width - max": "10.2 ft (3 m)",
+            "Travel Speed - max": "1.5 mph (2 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "12.2 gal (45 l)",
+            "Hydraulic System Fluid Capacity": "18.5 gal (68 l)",
+            "Operating Weight w/ Screed": "11794.8 lbs (5,350 kg)"
+        }
+    }
+}

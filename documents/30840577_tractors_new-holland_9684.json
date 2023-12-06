@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/9684/30840577",
+    "source_url_id": "30840577",
+    "source_url_model": "9684",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:28.368869",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "9684",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "360 hp (268 kw)"
+        },
+        "Production": {
+            "Series": "84 Series",
+            "Years Manufactured": "2000 - 2001"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/marini/mf1007/30753683",
+    "source_url_id": "30753683",
+    "source_url_model": "mf1007",
+    "source_url_make": "marini",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:26.187751",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Marini",
+    "equipment_model": "MF1007",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length of Track on Ground": "9.6 ft (3 m)",
+            "Length w/ Screed": "19.4 ft (6 m)",
+            "Track Width": "13.8 in (33 cm)",
+            "Transport Height": "11.8 ft (3 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Width w/ Hopper Open": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "BF6M1013",
+            "Gross Power": "178.4 hp (133 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "15.8 in (38 cm)",
+            "Hopper Capacity": "8.6 lbs (4 kg)",
+            "Paving Speed - max": "68.9 ft/min",
+            "Paving Thickness - max": "11.9 in (28 cm)",
+            "Paving Width - max": "41.7 ft (13 m)",
+            "Travel Speed - max": "2.8 mph (3 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Operating Weight w/ Screed": "40344.6 lbs (18,300 kg)"
+        }
+    }
+}

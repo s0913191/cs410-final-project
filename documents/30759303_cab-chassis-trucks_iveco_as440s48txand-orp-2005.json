@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/iveco/as440s48txand-orp-2005/30759303",
+    "source_url_id": "30759303",
+    "source_url_model": "as440s48txand-orp-2005",
+    "source_url_make": "iveco",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:56:42.074423",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Iveco",
+    "equipment_model": "AS440S48TX/P (2005)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "13 ft (4 m)",
+            "Number of Rear Axles": "2",
+            "Tire Size": "315/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length From Back of Cab to End of Frame": "153.86 in (389 cm)",
+            "Length from Back of Cab to End of Frame": "153.9 in (389 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "41.26 in (104 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "41.3 in (104 cm)",
+            "Overall Length": "20.6 ft (6 m)",
+            "Total Chassis Weight": "17449.6 lbs (7,915 kg)",
+            "Total GVW": "52911 lbs (24,000 kg)",
+            "Turning Radius": "24.1 ft (7 m)",
+            "Wheelbase": "96.1 in (244 cm)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/1700/30039599",
+    "source_url_id": "30039599",
+    "source_url_model": "1700",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:10.437739",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "1700",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "23  hp"
+        },
+        "Production": {
+            "Series": "Hundred Compact Series",
+            "Year Manufactured": "1979 - 1982"
+        }
+    }
+}

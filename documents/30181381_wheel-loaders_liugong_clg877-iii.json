@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/clg877-iii/30181381",
+    "source_url_id": "30181381",
+    "source_url_model": "clg877-iii",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:30.034735",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "CLG877 III",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "5.3 cu yds (4 m)",
+            "Bucket Width": "10.4 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.8 ft (3 m)",
+            "Length with Bucket on Ground": "29.8 ft (9 m)",
+            "Reach at Max Lift and Dump": "4.3 ft (1 m)",
+            "Wheelbase": "11.4 ft (3 m)",
+            "Width Over Tires": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "659.1 cu in (0 m)",
+            "Engine Model": "QSM11-C290",
+            "Net Power": "260.2 hp (194 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "51808.7 lbs (23,500 kg)",
+            "Static Tipping Weight": "33730.8 lbs (15,300 kg)",
+            "Tire Size": "26.5x25",
+            "Turning Radius": "23.9 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power shift"
+        }
+    }
+}

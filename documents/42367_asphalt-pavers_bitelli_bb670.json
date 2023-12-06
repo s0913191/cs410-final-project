@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/bitelli/bb670/42367",
+    "source_url_id": "42367",
+    "source_url_model": "bb670",
+    "source_url_make": "bitelli",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:47.947654",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Bitelli",
+    "equipment_model": "BB670",
+    "equipment_spec": {
+        "Dimensions": {
+            "Transport Width": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "F6L 913",
+            "Gross Power": "119.4 hp (89 kw)"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "7.2 lbs (3 kg)",
+            "Paving Speed - max": "131.3 ft/min",
+            "Paving Width - max": "24.7 ft (7 m)",
+            "Travel Speed - max": "6.3 mph (10 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "56.8 gal (212 l)",
+            "Operating Weight w/ Screed": "39242.3 lbs (17,800 kg)"
+        }
+    }
+}

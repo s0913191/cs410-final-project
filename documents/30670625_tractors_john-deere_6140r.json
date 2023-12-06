@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6140r/30670625",
+    "source_url_id": "30670625",
+    "source_url_model": "6140r",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:22:10.725562",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6140R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Axle Clearance": "23.6 in (58 cm)",
+            "Front Tread Range": "83.6 in (211 cm)",
+            "Wheelbase": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Single variable geometry turbocharger with air-to-air aftercooling and cooled exhaust gas recirculation",
+            "Displacement": "415 cu in (0 m)",
+            "Engine Make": "John Deere PowerTech PVX",
+            "Gross Power": "138.2 hp (103 kw)",
+            "Max Torque": "435.9 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "111.4 hp (83 kw)",
+            "Torque Measured @": "1499 rpm"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed-center, pressure/flow compensated",
+            "Maximum system pressure": "2900 psi",
+            "Pump Flow Capacity": "30.2 gal/min (114 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "80.6 gal (303 l)",
+            "Operating Weight": "13657.7 lbs (6,195 kg)",
+            "Turning Radius": "22.9 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "20"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/versatile/big-roy/30751779",
+    "source_url_id": "30751779",
+    "source_url_model": "big-roy",
+    "source_url_make": "versatile",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:23.917881",
+    "equipment_category": "Tractors",
+    "equipment_make": "Versatile",
+    "equipment_model": "Big Roy",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Overall Length": "30.5 in (76 cm)",
+            "Tire Size": "30.5x32",
+            "Wheelbase": "22.2 ft (7 m)"
+        },
+        "Engine": {
+            "Engine Model": "KTA 1150-600",
+            "Gross Power": "600 hp (447 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "21.3 gal (79 l)",
+            "Fuel Capacity": "550 gal (2,082 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "57580 lbs (26,118 kg)",
+            "Turning Radius": "26.6 ft (8 m)"
+        },
+        "Transmission": {
+            "Max Speed": "13.2 mph (21 kph)",
+            "Number of Forward Gears": "6",
+            "Transmission Type": "mechanical 6-speed"
+        }
+    }
+}

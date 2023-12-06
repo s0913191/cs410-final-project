@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/magnum-275/30169845",
+    "source_url_id": "30169845",
+    "source_url_model": "magnum-275",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:57.316372",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MAGNUM 275",
+    "equipment_spec": {
+        "Axles": {
+            "Axle Diameter": "4 in (10 cm)",
+            "Axle Length": "120.1 in (305 cm)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Tire Size": "front 420/90R30, rear 520/85R42",
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Wastegate Turbocharged / Air-to-Air",
+            "Displacement": "543 cu in (0 m)",
+            "Gross Power": "275 hp (205 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "PTO Power": "225 hp (168 kw)",
+            "Torque Rise": "51%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "44 gal/min (167 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "15178.9 lbs (6,885 kg)",
+            "3 Point Hitch Type": "Cat. III/IIIN",
+            "Alternator Supplied Amperage": "150  A",
+            "Cooling System Fluid Capacity": "6.5 gal (23 l)",
+            "Engine Oil Capacity": "5.6 gal (19 l)",
+            "Fuel Capacity": "180.2 gal (681 l)",
+            "Hydraulic System Fluid Capacity": "45.5 gal (170 l)",
+            "Operating Weight": "32500 lbs (14,742 kg)"
+        },
+        "Production": {
+            "Series": "Magnum Series",
+            "Years Manufactured": "2007 - 2011"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "18-speed full powershift"
+        }
+    }
+}

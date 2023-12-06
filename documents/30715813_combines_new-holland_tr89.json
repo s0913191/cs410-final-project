@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/new-holland/tr89/30715813",
+    "source_url_id": "30715813",
+    "source_url_model": "tr89",
+    "source_url_make": "new-holland",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:26.818359",
+    "equipment_category": "Combines",
+    "equipment_make": "New Holland",
+    "equipment_model": "TR89",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "13.6 ft (4 m)",
+            "Overall Length": "30.5 ft (9 m)"
+        },
+        "Engine": {
+            "Engine Make": "New Holland",
+            "Engine Model": "Genesis 675",
+            "Number of Cylinders": "6",
+            "Power": "236.1 hp (176 kw)"
+        },
+        "HEADER": {
+            "Width - Table": "16.1 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "100.2 gal (379 l)",
+            "Number of Gears": "4",
+            "Transmission Type": "Hydraulic transmission"
+        },
+        "Tires": {
+            "Front Tires Size": "18,4-42",
+            "Rear Tires Size": "43785"
+        }
+    }
+}

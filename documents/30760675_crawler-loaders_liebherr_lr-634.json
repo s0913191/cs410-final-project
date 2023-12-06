@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/liebherr/lr-634/30760675",
+    "source_url_id": "30760675",
+    "source_url_model": "lr-634",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:58.673219",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LR 634",
+    "equipment_spec": {
+        "Engine": {
+            "Model": "934 L A6",
+            "Net Power": "173 hp (129 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "46865 lbs (21,258 kg)"
+        }
+    }
+}

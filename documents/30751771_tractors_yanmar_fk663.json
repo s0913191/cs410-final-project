@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/fk663/30751771",
+    "source_url_id": "30751771",
+    "source_url_model": "fk663",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:44.386577",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "FK663",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.2 in (38 cm)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Overall Length": "11.8 in (28 cm)",
+            "Tire Size": "Front 8.30-20 6PR, Rear 12.4-32 6 PR",
+            "Wheelbase": "6.6 ft (2 m)",
+            "Width Outside Frame": "5.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "202.5 cu in (0 m)",
+            "Engine Model": "4TNV106T",
+            "Net Power": "63 hp (47 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Operating Weight": "5236 lbs (2,375 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "19.6 mph (31 kph)",
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "18",
+            "Transmission Type": "Power shift"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1160-2/23529",
+    "source_url_id": "23529",
+    "source_url_model": "ltm-1160-2",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:52.057230",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1160-2",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "314 ft (96 m)",
+            "Max Lift Capacity": "200 t (181,437 kg)"
+        }
+    }
+}

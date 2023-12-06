@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex-american/stinger-2800/30836143",
+    "source_url_id": "30836143",
+    "source_url_model": "stinger-2800",
+    "source_url_make": "terex-american",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:18.084089",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex American",
+    "equipment_model": "STINGER 2800",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "113 ft (34 m)",
+            "Max Lift Capacity": "14.4 t (12,701 kg)"
+        }
+    }
+}

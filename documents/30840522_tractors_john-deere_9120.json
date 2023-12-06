@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/9120/30840522",
+    "source_url_id": "30840522",
+    "source_url_model": "9120",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:24:58.398244",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "9120",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "26.8 in (66 cm)",
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Overall Length": "273.7 in (693 cm)",
+            "Shipping weight": "30968.4 lbs (14,047 kg)",
+            "Wheelbase": "11.5 ft (3 m)",
+            "Width Outside Frame": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.6 in (10 cm)",
+            "Displacement": "494.3 cu in (0 m)",
+            "Engine Make": "John Deere",
+            "Gross Power": "280 hp (209 kw)",
+            "Net Power": "230 hp (172 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5.1 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center pressure/flow compensated",
+            "Number of Remote Control Valves": "4 to 5",
+            "Pump Flow Capacity": "30 gal/min (114 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "13871 lbs (6,292 kg)",
+            "3 Point Hitch Type": "III",
+            "Alternator Supplied Amperage": "140  A",
+            "Cooling System Fluid Capacity": "13.8 gal (49 l)",
+            "Engine Oil Capacity": "7.1 gal (27 l)",
+            "Front Tire Size": "20.8R42",
+            "Fuel Capacity": "270 gal (1,022 l)",
+            "Hydraulic System Fluid Capacity": "27 gal (102 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "30968.4 lbs (14,047 kg)",
+            "Rear Tire Size": "20.8R42"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.7 mph (35 kph)",
+            "Max Speed - Reverse": "7.3 mph (11 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Partial power shift"
+        }
+    }
+}

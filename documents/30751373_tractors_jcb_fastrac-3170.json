@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/jcb/fastrac-3170/30751373",
+    "source_url_id": "30751373",
+    "source_url_model": "fastrac-3170",
+    "source_url_make": "jcb",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:19:01.587562",
+    "equipment_category": "Tractors",
+    "equipment_make": "JCB",
+    "equipment_model": "Fastrac 3170",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16.2 in (41 cm)",
+            "Overall Length": "17.1 in (43 cm)",
+            "Tire Size": "520/70R30",
+            "Track Width": "79.2 in (201 cm)",
+            "Wheelbase": "10.1 ft (3 m)",
+            "Width Outside Frame": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and aircharge cooled",
+            "Displacement": "359.1 cu in (0 m)",
+            "Engine Model": "6BTAA",
+            "Gross Power": "173 hp (129 kw)",
+            "Net Power": "155 hp (116 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Rise": "40%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26.2 gal/min (98 l/min)",
+            "Relief Valve Pressure": "3046 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "15432.4 lbs (7,000 kg)",
+            "3 Point Hitch Type": "Cat. III",
+            "Alternator Supplied Amperage": "150  A",
+            "Fuel Capacity": "92.5 gal (348 l)",
+            "Hydraulic System Fluid Capacity": "31.8 gal (117 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "17570.9 lbs (7,970 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "40.7 mph (64 kph)",
+            "Number of Forward Gears": "54",
+            "Number of Reverse Gears": "18",
+            "Transmission Type": "6 gear manual synchromesh gearbox"
+        }
+    }
+}

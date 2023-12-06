@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa1200-6/30761348",
+    "source_url_id": "30761348",
+    "source_url_model": "wa1200-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:07.026813",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA1200-6",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "23.2 ft (7 m)"
+        },
+        "Engine": {
+            "Model": "SDA16V160E-2",
+            "Net Power": "1765 hp (1,316 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "23.5 - 45.80 cu yds (18 - 34 m)"
+        },
+        "Weights": {
+            "Operational Weight": "477100 - 486,250 lbs (216,411 - 220,562 kg)"
+        }
+    }
+}

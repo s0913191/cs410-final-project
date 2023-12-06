@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/tadano/tr-350m-1/30758560",
+    "source_url_id": "30758560",
+    "source_url_model": "tr-350m-1",
+    "source_url_make": "tadano",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:00.582770",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "TR-350M-1",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "83  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "111.6 ft (34 m)",
+            "Min Height @ Max Raise Angle": "29.6 ft (9 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "3 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "25114.9 ft (7,655 m)",
+            "Transport Height": "11.8 ft (3 m)",
+            "Transport Length": "36.1 ft (11 m)",
+            "Transport Width": "7.5 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10.3 ft (3 m)",
+            "Wheelbase": "149.7 in (378 cm)",
+            "Width w/ Outriggers Extended": "21.7 ft (6 m)"
+        },
+        "Engine": {
+            "Displacement": "460.5 cu in (0 m)",
+            "Engine Make": "Mitsubishi",
+            "Engine Model": "6D16",
+            "Engine Type": "Direct Injection Diesel",
+            "Gross Power": "212.1 hp (158 kw)",
+            "Max Torque": "470.2 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "122.9 gal (462 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "64926.2 lbs (29,450 kg)",
+            "Tire Size": "16.00-25-28PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "28 mph (45 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Full powershift"
+        }
+    }
+}

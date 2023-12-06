@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/at1100/30873580",
+    "source_url_id": "30873580",
+    "source_url_model": "at1100",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:21.270919",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "AT1100",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "100 ft (30 m)",
+            "Max Lift Capacity": "220000 lbs (99,791 kg)",
+            "Max Working Radius": "90 ft (27 m)",
+            "Min Height @ Max Raise Angle": "42 ft (13 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "976.4 cu in (0 m)",
+            "Gross Power": "394.3 hp (294 kw)",
+            "Make": "Grove",
+            "Max Torque": "1076.9 lbs/ft",
+            "Model": "BF10L513",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "39.4 ft (12 m)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "50 ft (15 m)",
+            "Transport Width": "9.6 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "14.6 ft (4 m)",
+            "Width w/ Outriggers Extended": "25.1 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "114.2 gal (431 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "132277.4 lbs (60,001 kg)",
+            "Tire Size": "16.00x25 radials",
+            "Upper Structure Fuel Capacity": "59.8 gal (223 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "43.5 mph (69 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "powershift"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "372.3 cu in (0 m)",
+            "Gross Power": "189.1 hp (141 kw)",
+            "Make": "Grove",
+            "Max Torque": "442.6 lbs/ft",
+            "Model": "BF6L913C",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1700 rpm"
+        }
+    }
+}

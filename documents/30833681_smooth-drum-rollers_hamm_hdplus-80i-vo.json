@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hdplus-80i-vo/30833681",
+    "source_url_id": "30833681",
+    "source_url_model": "hdplus-80i-vo",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:12.662723",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD+ 80i VO",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "29.6 in (74 cm)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "6.9 ft (2 m)",
+            "Overall Length": "176.4 in (447 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Turning Radius - Inside": "163 in (414 cm)",
+            "Wheelbase": "131.5 in (333 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "19558.4 lbs (8,872 kg)",
+            "Centrifugal Force - Low": "15511.9 lbs (7,036 kg)",
+            "Drum Diameter": "44.9 in (112 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "66 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Oscillation force , rear -1": "20682.5 lbs (9,381 kg)",
+            "Oscillation force , rear -2": "28775.6 lbs (13,052 kg)",
+            "Oscillation frequency , rear - 1": "33 hz (1,980 vpm)",
+            "Oscillation frequency , rear - 2": "40 hz (2,400 vpm)",
+            "Static Linear Load": "131.1 lbs/in",
+            "Tangential amplitude , rear - 1": "0.1 in (0 cm)",
+            "Tangential amplitude , rear - 2": "0.1 in (0 cm)",
+            "Vibration Frequency": "48/58 hz (2,880 vpm)",
+            "Vibration Frequency 1": "48 hz (2,880 vpm)",
+            "Vibration Frequency 2": "58 hz (3,480 vpm)"
+        },
+        "Engine": {
+            "Emission Tier Level": "EPA Tier 4",
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 2.9 L4",
+            "Gross Power": "74.3 hp (55 kw)",
+            "Make": "Deutz",
+            "Net Power": "74.2 hp (55 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Max Speed": "3.8 mph (5 kph)",
+            "Operating Weight": "22575.4 lbs (10,240 kg)",
+            "Operating weight ROPS": "16799.3 lbs (7,620 kg)",
+            "Operating Width": "70.5 in (178 cm)",
+            "Oscillating angle": "10  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "185 gal (700 l)"
+        }
+    }
+}

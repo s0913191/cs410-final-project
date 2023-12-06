@@ -1,0 +1,117 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/730c-ej/30750549",
+    "source_url_id": "30750549",
+    "source_url_model": "730c-ej",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:17.810676",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "730C EJ",
+    "equipment_spec": {
+        "Body Capacities": {
+            "Heaped (SAE 2:1)": "22.1 cu yds (17 m)",
+            "Struck": "17.7 cu yds (13 m)"
+        },
+        "Body Plate": {
+            "Body Plate Type": "High Strength Brinell HB450 Wear Resistant Steel"
+        },
+        "Dump": {
+            "Capacity - Heaped": "22.1 cu yds (17 m)",
+            "Capacity - Struck": "17.7 cu yds (13 m)",
+            "Rated Payload": "62000 lbs (28,123 kg)"
+        },
+        "Ejector Cycle Times": {
+            "Eject Time": "12 sec",
+            "Retract Time": "15 sec"
+        },
+        "Engine": {
+            "Bore": "5.2 in (13 cm)",
+            "Displacement": "763 cu in (0 m)",
+            "Engine Model": "Cat C13 ACERT",
+            "Engine Model - U.S. EPA Tier 4 Final/EU Stage IV": "Cat C13 ACERT",
+            "Gross Power": "375 hp (280 kw)",
+            "Gross Power - SAE J1995": "375 hp (280 kw)",
+            "Max Torque": "1164.7 lbs/ft",
+            "Net Power": "367 hp (274 kw)",
+            "Net Power - ISO 14396": "370 hp (276 kw)",
+            "Net Power - SAE J1349": "367 hp (274 kw)",
+            "No Engine De-rating Required Below": "12500 ft (3,810 m)",
+            "Peak Engine Torque Gross (SAE J1995)": "1579 lbs/ft",
+            "Peak Engine Torque Net (ISO 14396)": "1564 lbs/ft",
+            "Peak Engine Torque Speed": "1200 rpm",
+            "Stroke": "6.2 in (15 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "21.9 gal (79 l)",
+            "Fuel Capacity": "108.8 gal (409 l)",
+            "Hydraulic System Fluid Capacity": "29 gal (110 l)",
+            "Transmission Fluid Capacity": "9.2 gal (34 l)"
+        },
+        "Operating Weights": {
+            "Center Axle - Empty": "12500 lbs (5,670 kg)",
+            "Center Axle - Loaded": "42758 lbs (19,395 kg)",
+            "Center Axle - Rated Load": "30258 lbs (13,725 kg)",
+            "Front Axle - Empty": "34811 lbs (15,790 kg)",
+            "Front Axle - Loaded": "36289 lbs (16,461 kg)",
+            "Front Axle - Rated Load": "1478 lbs (670 kg)",
+            "Rear Axle - Empty": "11773 lbs (5,340 kg)",
+            "Rear Axle - Loaded": "42031 lbs (19,065 kg)",
+            "Rear Axle - Rated Load": "30258 lbs (13,725 kg)",
+            "Total - Empty": "59084 lbs (26,800 kg)",
+            "Total - Loaded": "121078 lbs (54,921 kg)",
+            "Total - Rated Load": "61994 lbs (28,120 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "21.9 gal (79 l)",
+            "DEF Tank (ISO 2224-1)": "5.3 gal (19 l)",
+            "Engine Crankcase": "10.5 gal (38 l)",
+            "Final Drives/Differential": "35.7 gal (132 l)",
+            "Fuel Tank": "108.8 gal (409 l)",
+            "Hydraulic System": "29 gal (110 l)",
+            "Output Transfer Gear Box": "6.3 gal (23 l)",
+            "Transmission": "9.2 gal (34 l)"
+        },
+        "Sound Levels": {
+            "Interior Cab": "76 dB(A)"
+        },
+        "Standards": {
+            "Brakes": "ISO 3450 - 2011",
+            "Cab - FOPS": "ISO 3449 Level II - 2005",
+            "Cab - ROPS": "ISO 3471 - 2008",
+            "Steering": "ISO 5010 - 2007"
+        },
+        "Steering System": {
+            "Lock to Lock": "4.75 seconds @ 60 rpm"
+        },
+        "Transmission": {
+            "Forward - 1": "5 mph (8 kph)",
+            "Forward - 2": "9 mph (14 kph)",
+            "Forward - 3": "14 mph (23 kph)",
+            "Forward - 4": "21 mph (34 kph)",
+            "Forward - 5": "29 mph (47 kph)",
+            "Forward - 6": "34 mph (55 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Reverse - 1": "6 mph (10 kph)"
+        },
+        "Turning Circle": {
+            "Turning Dimensions - Aisle Width": "214 in (544 cm)",
+            "Turning Dimensions - Clearance Radius": "318 in (808 cm)",
+            "Turning Dimensions - Inside Radius": "148 in (376 cm)",
+            "Turning Dimensions - SAE Turning Radius": "294 in (747 cm)",
+            "Turning Dimensions - Steer Angle - Left/Right": "45  \t\u00b0"
+        },
+        "Weights": {
+            "Center Axle - empty": "12500 lbs (5,670 kg)",
+            "Center Axle - loaded": "42758 lbs (19,395 kg)",
+            "Front Axle - empty": "34811 lbs (15,790 kg)",
+            "Front Axle - loaded": "36289 lbs (16,461 kg)",
+            "Rear Axle - empty": "11773 lbs (5,340 kg)",
+            "Rear Axle - loaded": "42031 lbs (19,065 kg)",
+            "Total Empty": "59084 lbs (26,800 kg)",
+            "Total Loaded": "61994 lbs (28,120 kg)"
+        }
+    }
+}

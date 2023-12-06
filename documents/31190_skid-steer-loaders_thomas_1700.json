@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/thomas/1700/31190",
+    "source_url_id": "31190",
+    "source_url_model": "1700",
+    "source_url_make": "thomas",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:24.638060",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Thomas",
+    "equipment_model": "1700",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "9.3 ft (3 m)",
+            "Ground Clearance": "7.4 in (18 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length w/o Bucket": "9.2 ft (3 m)",
+            "Length with Bucket": "11.7 ft (3 m)",
+            "Reach at Max Lift and Dump": "21.3 in (53 cm)",
+            "Turning Radius from Center - inc bucket": "41.3 in (104 cm)",
+            "Turning Radius from Center - machine rear": "32.8 in (81 cm)",
+            "Wheelbase": "3.3 ft (1 m)",
+            "Width Over Tires": "5.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134 cu in (0 m)",
+            "Engine Model": "V2203E",
+            "Gross Power": "50 hp (37 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "16.6 gal/min (61 l/min)",
+            "Relief Valve Pressure": "5000 psi"
+        },
+        "Loader": {
+            "Breakout Force": "4000 psi",
+            "Operating Load Rating": "1700 lbs (771 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Fuel Capacity": "19.3 gal (72 l)",
+            "Hydraulic System Fluid Capacity": "14.8 gal (53 l)",
+            "Max Speed": "7.1 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "6600 lbs (2,994 kg)",
+            "Tire Size": "10.00x16.5"
+        }
+    }
+}

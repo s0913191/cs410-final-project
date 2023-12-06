@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hydrema/922hm/30681525",
+    "source_url_id": "30681525",
+    "source_url_model": "922hm",
+    "source_url_make": "hydrema",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:51.542056",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hydrema",
+    "equipment_model": "922HM",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Ground Clearance": "19 ft (6 m)",
+            "Overall Height": "11.4 ft (3 m)",
+            "Overall Length": "11.6 ft (3 m)",
+            "Overall Width": "9 ft (3 m)",
+            "Wheelbase": "146 ft (45 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "15.7 cu yds (11 m)",
+            "Capacity - Struck": "11.6 cu yds (8 m)",
+            "Dump Angle": "72  \t\u00b0",
+            "Lower Time": "5.5 sec",
+            "Raise Time": "7.5 sec",
+            "Rated Payload": "22 t (19,958 kg)"
+        },
+        "Engine": {
+            "Engine Model": "Cummings QSB",
+            "Gross Power": "264 hp (197 kw)",
+            "Make": "Cummins",
+            "Max Torque": "990 lbs/ft",
+            "Model": "diesel QSB, 6.7 liter 6cyl",
+            "Net Power": "274 hp (204 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Engine Oil Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "80 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "53 gal (201 l)",
+            "Tire Size": "3240",
+            "Transmission Fluid Capacity": "24 gal (91 l)"
+        },
+        "Transmission": {
+            "Max Speed": "31 mph (50 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "ZF Ergopower 6 WG 210"
+        },
+        "Weights": {
+            "Center Axle - empty": "8600 lbs (3,901 kg)",
+            "Center Axle - loaded": "27550 lbs (12,497 kg)",
+            "Front Axle - empty": "17630 lbs (7,997 kg)",
+            "Front Axle - loaded": "23800 lbs (10,796 kg)",
+            "Operating Weight": "78264 lbs (35,500 kg)",
+            "Rear Axle - empty": "8600 lbs (3,901 kg)",
+            "Rear Axle - loaded": "27550 lbs (12,497 kg)",
+            "Total Empty": "35540 lbs (16,121 kg)",
+            "Total Loaded": "44070 lbs (19,990 kg)"
+        }
+    }
+}

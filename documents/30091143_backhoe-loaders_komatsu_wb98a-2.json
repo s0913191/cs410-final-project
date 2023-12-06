@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/komatsu/wb98a-2/30091143",
+    "source_url_id": "30091143",
+    "source_url_model": "wb98a-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:54.670762",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WB98A-2",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "13064.6 lbs (5,926 kg)",
+            "Dig Depth": "14.8 ft (4 m)",
+            "Dig Depth - Extended": "18.6 ft (5 m)",
+            "Load Height": "13.4 ft (4 m)",
+            "Load Height - Extended": "16.7 ft (5 m)",
+            "Reach at Load Height - Extended": "11.8 ft (3 m)",
+            "Reach From Swivel": "18.3 ft (5 m)",
+            "Reach From Swivel - Extended": "21.5 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.6 ft (3 m)",
+            "Transport Width": "7.4 ft (2 m)",
+            "Wheelbase": "7.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "269.3 cu in (0 m)",
+            "Engine Model": "S4D106-1FC",
+            "Gross Power": "113 hp (84 kw)",
+            "Net Power": "96.6 hp (72 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "43.6 gal/min (163 l/min)",
+            "Pump Type": "gear pumps",
+            "Relief Valve Pressure": "2900.8 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "14275.4 lbs (6,475 kg)",
+            "Bucket Capacity": "1.4 cu yds (1 m)",
+            "Bucket Width": "88.6 in (224 cm)",
+            "Clearance at Max Dump Height": "9.2 ft (3 m)",
+            "Dig Depth": "3 in (8 cm)",
+            "Reach at Max Dump Height": "3 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "4.8 gal (15 l)",
+            "Front Axle Fluid Capacity": "3.2 gal (11 l)",
+            "Fuel Capacity": "29.1 gal (110 l)",
+            "Hydraulic System Fluid Capacity": "23.8 gal (87 l)",
+            "Max Weight": "19290.5 lbs (8,750 kg)",
+            "Oil System Fluid Capacity": "2.4 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 4wd": "18276.4 lbs (8,290 kg)",
+            "Rear Axle Fluid Capacity": "2.7 gal (8 l)",
+            "Tire Size Front - 2wd / 4wd": "16/70 x 24"
+        },
+        "Tires": {
+            "Rear Tires Size": "16/70 x 24"
+        },
+        "Transmission": {
+            "Max Speed": "22.4 mph (35 kph)",
+            "Max Speed - Reverse": "22.4 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1070-41/30836930",
+    "source_url_id": "30836930",
+    "source_url_model": "ltm-1070-41",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:47.389958",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1070-4.1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "213 ft (65 m)",
+            "Max Elevating Angle": "83  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "164.1 ft (50 m)",
+            "Max Lift Capacity": "77 t (69,853 kg)",
+            "Max Working Radius": "131.3 ft (40 m)",
+            "Min Height @ Max Raise Angle": "36.1 ft (11 m)",
+            "Min Working Radius": "8.3 ft (2 m)",
+            "Number of Sections": "6",
+            "Swing Speed": "1.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "367 hp (274 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "1253.9 lbs/ft",
+            "Model": "D936L A6"
+        },
+        "Dimensions": {
+            "Carrier Length": "33 ft (10 m)",
+            "Transport Height": "12.8 ft (4 m)",
+            "Transport Length": "41.1 ft (13 m)",
+            "Transport Width": "8.8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.4 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "170  A",
+            "Carrier Fuel Capacity": "92.5 gal (348 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14 R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)",
+            "Max Speed - Reverse": "4.8 mph (6 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "ZF 12-speed gear box with automatic control system AS-TRONIC"
+        }
+    }
+}

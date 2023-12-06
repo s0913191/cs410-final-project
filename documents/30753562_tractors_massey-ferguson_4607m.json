@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/4607m/30753562",
+    "source_url_id": "30753562",
+    "source_url_model": "4607m",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:48.882273",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "4607M",
+    "equipment_spec": {
+        "3-Point Hitch": {
+            "Category": "Category  II",
+            "Extendable lower links": "Extendable ball ends",
+            "Lift capacity @ 24in. (ASAE)": "3307 lbs (1,500 kg)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8366.2 ft (2,550 m)",
+            "Height - Top of ROPS/FOPS": "104.4 in (264 cm)",
+            "Overall Length": "150.2 in (381 cm)",
+            "Overall Width": "6.8 ft (2 m)",
+            "Wheelbase": "7.5 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "95",
+            "Battery": "12 V"
+        },
+        "Engine": {
+            "Aspiration": "Intercooled turbocharged",
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Make": "AGCO Power",
+            "Gross Power": "70.1 hp (52 kw)",
+            "Net Power": "74 hp (55 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "56 hp (42 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Open Center system",
+            "Number of Remote Control Valves": "1 or 2 standard",
+            "Pump Flow Capacity": "17.5 gal/min (64 l/min)",
+            "Pump Type": "Gear type single pump"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "30.4 gal (114 l)"
+        },
+        "Power Take-Off (PTO)": {
+            "Optional": "Independent",
+            "Power Take-Off(PTO) Type": "Electro-hydraulic engagement",
+            "PTO speed": "540 rpm",
+            "PTO Speeds @ Engine rpm": "1000"
+        },
+        "Production": {
+            "Series": "4600M Series",
+            "Years Manufactured": "2016 -"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12"
+        },
+        "Weights": {
+            "Weight (shipping, 4WD, cab, flange axle)": "7087.9 lbs (3,215 kg)",
+            "Weight 4WD With ROPS": "6680.1 lbs (3,030 kg)"
+        }
+    }
+}

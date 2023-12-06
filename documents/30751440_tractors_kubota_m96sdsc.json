@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m96sdsc/30751440",
+    "source_url_id": "30751440",
+    "source_url_model": "m96sdsc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:02.054366",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M96SDSC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Overall Length": "13.6 in (33 cm)",
+            "Tire Size": "front 12.4-24 rear 18.4-30 Cast",
+            "Wheelbase": "8 ft (2 m)",
+            "Width Outside Frame": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Model": "V3800-DI-T",
+            "Net Power": "95 hp (71 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "84 hp (63 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "17.2 gal/min (64 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4629.8 lbs (2,100 kg)",
+            "3 Point Hitch Type": "Cat II",
+            "Alternator Supplied Amperage": "60  A",
+            "Fuel Capacity": "46.3 gal (174 l)",
+            "Operating Weight": "8024.9 lbs (3,640 kg)",
+            "Turning Radius": "15.5 ft (5 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "32",
+            "Number of Reverse Gears": "32",
+            "Transmission Type": "fully synchronized"
+        }
+    }
+}

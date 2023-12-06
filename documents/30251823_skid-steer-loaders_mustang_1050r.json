@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/mustang/1050r/30251823",
+    "source_url_id": "30251823",
+    "source_url_model": "1050r",
+    "source_url_make": "mustang",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:21.854936",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Mustang",
+    "equipment_model": "1050R",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "35 hp (26 kw)"
+        },
+        "Operational": {
+            "Operating Load Rating": "1050 lbs (476 kg)",
+            "Operating Width": "48.4 in (122 cm)"
+        }
+    }
+}

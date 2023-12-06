@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-70k/30782926",
+    "source_url_id": "30782926",
+    "source_url_model": "hd-70k",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:01.872263",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 70K",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "30.8 in (76 cm)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "9.6 ft (3 m)",
+            "Overall Length": "14.3 in (36 cm)",
+            "Overall Width": "5.9 ft (2 m)",
+            "Track width": "7.5 ft (2 m)",
+            "Turning Radius - Inside": "164 in (417 cm)",
+            "Wheelbase": "126 in (320 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "17310.3 lbs (7,852 kg)",
+            "Centrifugal Force - Low": "14163 lbs (6,424 kg)",
+            "Drum Diameter": "44.9 in (112 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "59 in (150 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency": "48/58 hz (2,880 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TD 2011 L04 W",
+            "Gross Power": "75.4 hp (56 kw)",
+            "Make": "Deutz",
+            "Net Power": "74.3 hp (55 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "34.4 gal (129 l)",
+            "Max Speed": "3.8 mph (5 kph)",
+            "Operating Weight": "20745.5 lbs (9,410 kg)",
+            "Operating weight Cabin": "15355.2 lbs (6,965 kg)",
+            "Operating weight ROPS": "14771 lbs (6,700 kg)",
+            "Operating Width": "59 in (150 cm)",
+            "Steering Angle": "10  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "190.3 gal (719 l)"
+        },
+        "Weights": {
+            "Operating Weight - standard": "15322.2 lbs (6,950 kg)"
+        }
+    }
+}

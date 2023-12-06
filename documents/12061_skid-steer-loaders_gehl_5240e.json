@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/gehl/5240e/12061",
+    "source_url_id": "12061",
+    "source_url_model": "5240e",
+    "source_url_make": "gehl",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:52.589563",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Gehl",
+    "equipment_model": "5240E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.5 ft (2 m)",
+            "Ground Clearance": "6.3 in (15 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length w/o Bucket": "7.8 ft (2 m)",
+            "Length with Bucket": "10.6 ft (3 m)",
+            "Reach at Max Lift and Dump": "25 in (64 cm)",
+            "Turning Radius from Center - inc bucket": "76 in (193 cm)",
+            "Turning Radius from Center - machine rear": "61.5 in (155 cm)",
+            "Wheelbase": "3.5 ft (1 m)",
+            "Width Over Tires": "5.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Model": "TD2009",
+            "Gross Power": "62 hp (46 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "19.1 gal/min (72 l/min)"
+        },
+        "Loader": {
+            "Operating Load Rating": "1900.4 lbs (862 kg)",
+            "Tipping Angle": "3800.8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Hydraulic System Fluid Capacity": "11.9 gal (42 l)",
+            "Operational Weight": "6860.8 lbs (3,112 kg)",
+            "Tire Size": "10.00x16.5 HD"
+        }
+    }
+}

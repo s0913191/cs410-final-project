@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/4792/30702938",
+    "source_url_id": "30702938",
+    "source_url_model": "4792",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:04.105800",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "4792",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "92 ft (28 m)",
+            "Max Lift Capacity": "47000 lbs (21,319 kg)",
+            "Max Working Radius": "80 ft (24 m)",
+            "Min Height @ Max Raise Angle": "29 ft (9 m)",
+            "Min Working Radius": "5 ft (2 m)",
+            "Number of Sections": "4"
+        },
+        "Dimensions": {
+            "Transport Height": "12.9 ft (4 m)",
+            "Transport Length": "38 ft (12 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Hydraulic System Fluid Capacity": "67 gal (254 l)"
+        }
+    }
+}

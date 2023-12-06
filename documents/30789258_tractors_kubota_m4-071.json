@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m4-071/30789258",
+    "source_url_id": "30789258",
+    "source_url_model": "m4-071",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:31:40.545361",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M4-071",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "73 hp (54 kw)"
+        },
+        "Production": {
+            "Series": "M4 Series",
+            "Years Manufactured": "2019 -"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skip-loaders/case/480f/2668",
+    "source_url_id": "2668",
+    "source_url_model": "480f",
+    "source_url_make": "case",
+    "source_url_category": "skip-loaders",
+    "source_date_scraped": "2023-09-13 16:40:56.682199",
+    "equipment_category": "Skip Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "480F",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "8116 lbs (3,681 kg)",
+            "Bucket Dig Force - Extended": "8116 lbs (3,681 kg)",
+            "Dig Depth": "12.1 ft (4 m)",
+            "Dig Depth - Extended": "14.1 ft (4 m)",
+            "Load Height": "8.5 ft (2 m)",
+            "Load Height - Extended": "10.1 ft (3 m)",
+            "Reach at Load Height - Extended": "8.7 ft (2 m)",
+            "Reach From Swivel": "15.8 ft (5 m)",
+            "Reach From Swivel - Extended": "17.7 ft (5 m)"
+        },
+        "Dimensions": {
+            "Front Wheel Tread Width": "62.3 in (157 cm)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height to Top of Suspended Cab": "8.4 ft (2 m)",
+            "Rear Tread Range": "62.3 in (157 cm)",
+            "Transport Length": "21.3 ft (6 m)",
+            "Transport Width": "6.8 ft (2 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "239.3 cu in (0 m)",
+            "Engine Make": "Case",
+            "Engine Model": "4-390",
+            "Gross Power": "69 hp (51 kw)",
+            "Net Max Torque": "186 lbs/ft",
+            "Net Power": "63 hp (47 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "23.9 gal/min (87 l/min)",
+            "Pump Type": "Open center",
+            "Relief Valve Pressure": "2450 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "8330 lbs (3,779 kg)",
+            "Bucket Capacity": "0.1 cu yds (0 m)",
+            "Bucket Width": "12.1 in (30 cm)",
+            "Clearance at Max Dump Height": "8.8 ft (2 m)",
+            "Dig Depth": "4.1 in (10 cm)",
+            "Reach at Max Dump Height": "2 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "10.8 gal (38 l)",
+            "Max Weight": "10932 lbs (4,959 kg)",
+            "Oil System Fluid Capacity": "3 gal (11 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size Front - 2wd / 4wd": "11L x 16",
+            "Transmission Fluid Capacity": "4.8 gal (15 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "17.5L x 24"
+        },
+        "Transmission": {
+            "Max Speed": "21.9 mph (34 kph)",
+            "Max Speed - Reverse": "19.1 mph (31 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Power shuttle"
+        }
+    }
+}

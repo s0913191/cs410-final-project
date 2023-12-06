@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/daewoo/solar-70-iii/8737",
+    "source_url_id": "8737",
+    "source_url_model": "solar-70-iii",
+    "source_url_make": "daewoo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:14.622943",
+    "equipment_category": "Excavators",
+    "equipment_make": "Daewoo",
+    "equipment_model": "SOLAR 70 III",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "15.2 ft (5 m)",
+            "Digging Reach": "15.2 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "14991 lbs (6,800 kg)"
+        }
+    }
+}

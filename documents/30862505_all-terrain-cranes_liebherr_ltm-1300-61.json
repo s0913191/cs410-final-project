@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1300-61/30862505",
+    "source_url_id": "30862505",
+    "source_url_model": "ltm-1300-61",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:54.070454",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1300-6.1",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "151.3 ft (46 m)",
+            "Max Lift Capacity": "661386.9 lbs (300,003 kg)",
+            "Max Working Radius": "190.3 ft (58 m)",
+            "Min Height @ Max Raise Angle": "49.3 ft (15 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "5"
+        },
+        "CARRIER ENGINE": {
+            "Make": "Liebherr",
+            "Max Torque": "2840 lbs/ft",
+            "Model": "D9508 A7",
+            "Net Power": "612 hp (456 kw)"
+        },
+        "Dimensions": {
+            "Carrier Length": "50.2 ft (15 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "62.6 ft (19 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "18.2 ft (5 m)",
+            "Width w/ Outriggers Extended": "27.9 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "170  A",
+            "Carrier Fuel Capacity": "141.9 gal (534 l)",
+            "Number of Axels": "6",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14R25",
+            "Upper Structure Fuel Capacity": "79.3 gal (299 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)",
+            "Max Speed - Reverse": "4.5 mph (6 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Liebherr",
+            "Max Torque": "1045 lbs/ft",
+            "Model": "D924TI-E",
+            "Net Power": "245 hp (183 kw)"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/tadano/15010/30320",
+    "source_url_id": "30320",
+    "source_url_model": "15010",
+    "source_url_make": "tadano",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:02.669860",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "15010",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "111.6 ft (34 m)",
+            "Max Lift Capacity": "154000 lbs (69,854 kg)",
+            "Min Height @ Max Raise Angle": "37.5 ft (11 m)",
+            "Swing Speed": "2.2 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Operating Width": "18.7 ft (5 m)",
+            "Tail Swing Radius": "9.5 ft (3 m)",
+            "Transport Height": "10.6 ft (3 m)",
+            "Transport Length": "48.3 ft (15 m)",
+            "Transport Width": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Water cooled",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emissions level": "EPA Tier 3",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB 6.7",
+            "Gross Power": "260 hp (194 kw)",
+            "Max Torque": "728 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.9 in (10 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Fuel Capacity": "105 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "300 gal (1,136 l)",
+            "Line pull - Main winches": "17580.1 lbs (7,974 kg)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "137218 lbs (62,242 kg)",
+            "Rope diameter- Main winches": "0.8 in (0 cm)"
+        },
+        "Transmission": {
+            "Max Speed": "1.8 mph (2 kph)"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "14",
+            "Width of Shoes": "35.5 in (89 cm)"
+        }
+    }
+}

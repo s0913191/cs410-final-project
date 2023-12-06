@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/international/1480/30103159",
+    "source_url_id": "30103159",
+    "source_url_model": "1480",
+    "source_url_make": "international",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:22.953785",
+    "equipment_category": "Combines",
+    "equipment_make": "International",
+    "equipment_model": "1480",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1160 rpm",
+            "Cleaning Fan Speed - Low": "410 rpm"
+        },
+        "Dimensions": {
+            "Transport height": "158.7 in (401 cm)",
+            "Transport length": "345.7 in (876 cm)",
+            "Transport width": "15042.7 ft (4,585 m)",
+            "Unloader clearance": "11975.1 ft (3,650 m)",
+            "Unloader reach": "6381.3 ft (1,945 m)",
+            "Wheelbase": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "435.8 cu in (0 m)",
+            "Engine Make": "International",
+            "Engine Model": "DT-436",
+            "Number of Cylinders": "6",
+            "Power": "190.5 hp (142 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "206.1 bu",
+            "Unloading Discharge Height": "12565.7 ft (3,830 m)"
+        },
+        "HEADER": {
+            "Auger diameter": "20 in (51 cm)",
+            "Conveyor speed": "9360 mph (15,060 kph)",
+            "HEADER Type": "Centre feed",
+            "Lowering time": "Adjustable",
+            "Width - Table": "12.6 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "125 gal (473 l)",
+            "Operating Weight w/o Attachment": "22575.4 lbs (10,240 kg)"
+        },
+        "Separating": {
+            "Separating Area": "2182.5 cu in (0 m)"
+        },
+        "Threshing": {
+            "Concave Area": "1447.8 cu in (0 m)",
+            "Rotor Diameter": "39.1 in (99 cm)",
+            "Rotor Length": "107.4 in (272 cm)",
+            "Rotor Speed - High": "1050 rpm",
+            "Rotor Speed - Low": "280 rpm"
+        },
+        "Tires": {
+            "Front Tires Size": "28 L x 26",
+            "Rear Tires Size": "11.00 x 16"
+        }
+    }
+}

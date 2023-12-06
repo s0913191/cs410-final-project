@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/volvo/bl70b/32889",
+    "source_url_id": "32889",
+    "source_url_model": "bl70b",
+    "source_url_make": "volvo",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:52.546715",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BL70B",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14.9 ft (4 m)",
+            "Load Height": "11.9 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "90 hp (67 kw)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "12477 lbs (5,660 kg)",
+            "Lift Capacity": "7319 lbs (3,320 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16777 lbs (7,610 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "21.1 mph (34 kph)"
+        }
+    }
+}

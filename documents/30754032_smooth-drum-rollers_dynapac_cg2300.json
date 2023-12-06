@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cg2300/30754032",
+    "source_url_id": "30754032",
+    "source_url_model": "cg2300",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:35.761123",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CG2300",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Failsafe brake in both drums",
+            "Service brake": "Hydrostatic in forward and reverse lever"
+        },
+        "Dimensions": {
+            "Ground Clearance": "10.7 in (25 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "157.1 in (399 cm)",
+            "Overall Width": "5.4 ft (2 m)",
+            "Overhang Front": "0.2 ft (0 m)",
+            "Overhang Rear": "0.2 ft (0 m)",
+            "Turning Radius - Inside": "8.7 ft (2 m)",
+            "Wheelbase": "113 in (287 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "17984.8 lbs (8,158 kg)",
+            "Centrifugal Force - Low": "13488.6 lbs (6,118 kg)",
+            "Drum Diameter": "44.1 in (112 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Width": "59.1 in (150 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "155.2 lbs/in",
+            "Vibration Frequency 1": "45 hz (2,700 vpm)",
+            "Vibration Frequency 2": "55 hz (3,300 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "watercooled",
+            "Engine Make": "Deutz",
+            "Engine Model": "TD3.6 L4 IV",
+            "Gross Power": "73.8 hp (54 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "30.4 gal (114 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "23369 lbs (10,600 kg)",
+            "Operating weight ROPS": "18298.4 lbs (8,300 kg)",
+            "Oscillating angle": "6  \t\u00b0",
+            "Steering Angle": "25  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "203.5 gal (768 l)"
+        }
+    }
+}

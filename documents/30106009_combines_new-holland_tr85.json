@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/new-holland/tr85/30106009",
+    "source_url_id": "30106009",
+    "source_url_model": "tr85",
+    "source_url_make": "new-holland",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:25.523442",
+    "equipment_category": "Combines",
+    "equipment_make": "New Holland",
+    "equipment_model": "TR85",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1055 rpm",
+            "Cleaning Fan Speed - Low": "540 rpm",
+            "Cleaning system width": "37.1 in (94 cm)"
+        },
+        "Dimensions": {
+            "Transport height": "153.6 in (389 cm)",
+            "Transport length": "358.3 in (909 cm)",
+            "Transport width": "13.8 ft (4 m)",
+            "Turning Radius": "20.7 ft (6 m)",
+            "Unloader clearance": "12.5 ft (4 m)",
+            "Unloader reach": "9.6 ft (3 m)",
+            "Wheelbase": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "635.9 cu in (0 m)",
+            "Engine Make": "Caterpillar",
+            "Engine Model": "3208",
+            "Number of Cylinders": "8",
+            "Power Boost Power": "175 hp (131 kw)",
+            "Power Measured @": "2630 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "205 bu",
+            "Unloading auger diameter": "12.1 in (30 cm)",
+            "Unloading Discharge Height": "12.8 ft (4 m)"
+        },
+        "HEADER": {
+            "Auger diameter": "23.9 in (58 cm)",
+            "Conveyor speed": "14760 mph (23,749 kph)",
+            "HEADER Type": "Centre feed",
+            "Lowering time": "Adjustable",
+            "Width - Table": "12.5 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "78 gal (295 l)",
+            "Operating Weight w/o Attachment": "22244.7 lbs (10,090 kg)"
+        },
+        "Threshing": {
+            "Beater Grate Area": "628 cu in (0 m)",
+            "Concave Area": "1166 cu in (0 m)",
+            "Rotor Diameter": "18 in (46 cm)",
+            "Rotor Length": "84.3 in (213 cm)",
+            "Rotor Speed - High": "1790 rpm",
+            "Rotor Speed - Low": "790 rpm",
+            "Rotor Type": "Closed tube, 3 stage; inlet, thresh and  separate; 4 parallel rasp bars front section,  2 separating bars rear section"
+        },
+        "Tires": {
+            "Front Tires Size": "28L x 26 R1, 10-ply",
+            "Rear Tires Size": "11 x 16 F2, 6-ply"
+        }
+    }
+}

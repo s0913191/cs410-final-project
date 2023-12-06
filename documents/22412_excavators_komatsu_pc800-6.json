@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc800-6/22412",
+    "source_url_id": "22412",
+    "source_url_model": "pc800-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:31.595704",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC800-6",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "39.3 ft (12 m)",
+            "Max Digging Depth": "27.8 ft (8 m)",
+            "Max Loading Height": "27.1 ft (8 m)",
+            "Max Reach Along Ground": "44 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "19.3 ft (6 m)",
+            "Shipping Height of Unit": "15.7 ft (5 m)",
+            "Shipping Length of Unit": "45.4 ft (14 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "4.5 cu yds (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.8 ft (1 m)",
+            "Height - Top of Cab": "12.8 ft (4 m)",
+            "Length of Track on Ground": "14.8 ft (4 m)",
+            "Removal Counterweight Clearance": "5.2 ft (2 m)",
+            "Tail Swing Radius": "14.2 ft (4 m)",
+            "Width to Outside of Tracks": "13.5 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "930.1 cu in (0 m)",
+            "Engine Model": "SAA6D140E",
+            "Net Power": "443.9 hp (330 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "232.5 gal (878 l)",
+            "Hydraulic Pump Flow Capacity": "261.1 gal/min (988 l/min)",
+            "Hydraulic System Fluid Capacity": "116.3 gal (439 l)",
+            "Hydraulic System Relief Valve Pressure": "4550 psi",
+            "Operating Weight": "166184.5 lbs (75,381 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "5.7 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "17.6 psi",
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "11.5 ft (3 m)"
+        }
+    }
+}

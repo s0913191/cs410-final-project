@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/it14b/39351",
+    "source_url_id": "39351",
+    "source_url_model": "it14b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:10.910538",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "IT14B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "16593 lbs (7,527 kg)",
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Bucket Capacity - struck": "1.4 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Dump Clearance at Max Lift": "9 ft (3 m)",
+            "Fork Tine Length": "4 ft (1 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Hinge Pin Max Height": "11.9 ft (3 m)",
+            "Hook Height at Max Lift - Extended": "22 ft (7 m)",
+            "Hook Height at Max Lift - extended": "21.96 ft (6 m)",
+            "Hook Height at Max Lift - Standard": "19.3 ft (6 m)",
+            "Hook Height at Max Lift - standard": "19.21 ft (6 m)",
+            "Hook Reach at Max Lift - extended": "8.43 ft (2 m)",
+            "Hook Reach at Max Lift - Extended": "8.5 ft (2 m)",
+            "Hook Reach at Max Lift - standard": "6.63 ft (2 m)",
+            "Hook Reach at Max Lift - Standard": "6.7 ft (2 m)",
+            "Length w/ Bucket on Ground": "21.2 ft (6 m)",
+            "Length with  out Forks on Ground": "22.6 ft (7 m)",
+            "Max Lift Height": "11.6 ft (3 m)",
+            "Reach at Max Height and Dump": "3.1 ft (1 m)",
+            "Wheelbase": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "3114",
+            "Gross Power": "85 hp (63 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Lower Time": "3 sec",
+            "Raise Time": "6.6 sec"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18371.2 lbs (8,333 kg)",
+            "Static Tipping Load - Bucket": "11087.1 lbs (5,029 kg)",
+            "Static Tipping Load - Forks": "8763.4 lbs (3,975 kg)",
+            "Static Tipping Load - Material Handler": "4953.8 lbs (2,247 kg)",
+            "Tire Size": "15.5-25",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed Forward": "23.2 mph (37 kph)",
+            "Max Speed Reverse": "15.2 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

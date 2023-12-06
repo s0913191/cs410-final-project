@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/980m/47856",
+    "source_url_id": "47856",
+    "source_url_model": "980m",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:54.850357",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "980M",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed",
+            "Maximum Single-Wheel Rise and Fall": "22.5 in (56 cm)",
+            "Rear": "Oscillating ?13  \t\u00b0"
+        },
+        "Brakes": {
+            "Brakes": "Brakes meet ISO 3450:2011 standards"
+        },
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.33 ft (3 m)"
+        },
+        "Cab": {
+            "ROPS/FOPS": "ROPS/FOPS meet ISO 3471:2008 and ISO 3449:2005 Level II standards"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length with Bucket on Ground": "26.2 ft (8 m)",
+            "Wheelbase": "12.5 ft (4 m)",
+            "Width Over Tires": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Model": "C13 ACERT",
+            "Net Power": "386 hp (288 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic Cycle Time - Total": "10.1 sec",
+            "Implement System - Maximum Operating Pressure": "4975 psi",
+            "Implement System - Optional 3rd Function Maximum Flow": "63 gal/min (238 l/min)",
+            "Implement System - Optional 3rd Function Maximum Pressure": "3159 psi",
+            "Pump Flow Capacity": "119 gal/min (450 l/min)",
+            "Relief Valve Setting": "4975 psi"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "5.25 - 16 cu yds (4 - 12 m)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "14 gal (53 l)",
+            "Crankcase": "9.8 gal (34 l)",
+            "Differential - Final Drives - Front": "22 gal (83 l)",
+            "Differential - Final Drives - Rear": "22 gal (83 l)",
+            "Fuel Tank": "112.5 gal (424 l)",
+            "Hydraulic Tank": "40 gal (151 l)",
+            "Transmission": "20.3 gal (76 l)"
+        },
+        "Transmission": {
+            "Forward - 1": "4.3 mph (6 kph)",
+            "Forward - 2": "8.3 mph (13 kph)",
+            "Forward - 3": "14.6 mph (23 kph)",
+            "Forward - 4": "24.5 mph (39 kph)",
+            "Max Speed - Forward": "24.5 mph (39 kph)",
+            "Max Speed - Reverse": "24.5 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Reverse - 1": "4.8 mph (6 kph)",
+            "Reverse - 2": "9.4 mph (14 kph)",
+            "Reverse - 3": "16.7 mph (26 kph)",
+            "Reverse - 4": "24.5 mph (39 kph)"
+        },
+        "Weights": {
+            "Operational Weight": "66571 lbs (30,196 kg)"
+        }
+    }
+}

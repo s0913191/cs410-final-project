@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc650-1/22384",
+    "source_url_id": "22384",
+    "source_url_model": "pc650-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:20.505772",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC650-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "14.6 ft (4 m)",
+            "Length of Track on Ground": "14.8 ft (4 m)",
+            "Length of Tracks": "19 ft (6 m)",
+            "Upper Structure Ground Clearance": "3.9 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "1150 cu in (0 m)",
+            "Engine Model": "Cummins KT-1150-C450",
+            "Net Power": "410 hp (306 kw)"
+        },
+        "Loading Shovel": {
+            "Arm Crowd Force": "99210 lbs/ft",
+            "Max Cutting Height": "34.8 ft (10 m)",
+            "Max Dig Depth": "11.5 ft (3 m)",
+            "Max Dig Reach": "32.9 ft (10 m)",
+            "Max Dump Height": "24.5 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "224.6 gal (848 l)",
+            "Hydraulic System Fluid Capacity": "118.9 gal (447 l)",
+            "Swing Speed": "4.3 rpm"
+        },
+        "Undercarriage": {
+            "Loading Shovel Ground Pressure": "15.9 psi",
+            "Loading Shovel Operating Weight": "151016.7 lbs (68,500 kg)",
+            "Loading Shovel Shoe Width": "24.1 in (61 cm)",
+            "Max Travel Speed": "2.6 mph (3 kph)"
+        }
+    }
+}

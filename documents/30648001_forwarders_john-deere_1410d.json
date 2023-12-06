@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/john-deere/1410d/30648001",
+    "source_url_id": "30648001",
+    "source_url_model": "1410d",
+    "source_url_make": "john-deere",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:49.338344",
+    "equipment_category": "Forwarders",
+    "equipment_make": "John Deere",
+    "equipment_model": "1410D",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Area": "49.6 CUBIC ft",
+            "Load Weight - 8wd": "30865 lbs (14,000 kg)"
+        },
+        "Crane": {
+            "Crane Type": "Timberjack CF 7 72",
+            "Gross Lift Torque": "92195.3 lbs/ft",
+            "Gross Slew Torque": "23602 lbs/ft",
+            "Max Reach": "23.7 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height to Top of crane": "12.14 ft (4 m)",
+            "Height to Top of Crane": "12.2 ft (4 m)",
+            "Length": "34.2 ft (10 m)",
+            "Length of Bunk Area": "17.8 ft (5 m)",
+            "Wheelbase": "19.2 ft (6 m)",
+            "Width of Bunk Area": "9.1 ft (3 m)",
+            "Width Over Tires": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6068H",
+            "Number of Cylinders": "6",
+            "Power": "173 hp (129 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque": "575 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Flow Capacity": "55.5 gal/min (208 l/min)",
+            "Pump Type": "variable displacement",
+            "Relief Valve Pressure": "3480 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Front/Rear Tire Size - 8wd": "700x26.5/700x26.5",
+            "Fuel Capacity": "43.6 gal (163 l)",
+            "Hydraulic System Fluid Capacity": "37 gal (140 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight - 8wd": "38580 lbs (17,500 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "13.7 mph (21 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic/mechanical"
+        }
+    }
+}

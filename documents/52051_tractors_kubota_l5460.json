@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l5460/52051",
+    "source_url_id": "52051",
+    "source_url_model": "l5460",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:30:49.000443",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L5460",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "56 hp (42 kw)"
+        },
+        "Production": {
+            "Series": "L60 Series",
+            "Years Manufactured": "2013 -"
+        }
+    }
+}

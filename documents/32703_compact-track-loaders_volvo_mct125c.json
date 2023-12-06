@@ -1,0 +1,124 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/volvo/mct125c/32703",
+    "source_url_id": "32703",
+    "source_url_model": "mct125c",
+    "source_url_make": "volvo",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:42.547458",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "MCT125C",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout force, curl": "7187.1 lbs (3,260 kg)",
+            "Breakout force, lift": "5807 lbs (2,634 kg)",
+            "General Purpose Bucket Heaped": "0.7 cu yds (0 m)",
+            "General Purpose Bucket Height": "1.8 ft (0 m)",
+            "General Purpose Bucket Length": "2.7 ft (1 m)",
+            "General Purpose Bucket Weight": "542.4 lbs (246 kg)",
+            "General Purpose Bucket Width": "6.5 ft (2 m)",
+            "Landscape Bucket Heaped cap": "0.8 cu yds (0 m)",
+            "Landscape Bucket Height": "1.8 ft (0 m)",
+            "Landscape Bucket Length": "3.2 ft (1 m)",
+            "Landscape Bucket Weight": "0.5 cu in (0 m)",
+            "Landscape Bucket Width": "6.5 ft (2 m)",
+            "Multi Purpose Bucket Heaped cap": "0.8 cu yds (0 m)",
+            "Multi Purpose Bucket Height": "2.3 ft (1 m)",
+            "Multi Purpose Bucket Length": "3.2 ft (1 m)",
+            "Multi Purpose Bucket Weight": "842.2 lbs (382 kg)",
+            "Multi Purpose Bucket Width": "6.5 ft (2 m)"
+        },
+        "Capacities": {
+            "Cooling system": "4.1 gal (15 l)",
+            "Engine oil w/ filter change": "4 gal (15 l)",
+            "Fuel Tank": "27.3 gal (102 l)",
+            "Hydraulic oil reservoir": "6.9 gal (23 l)",
+            "Hydraulic system": "15.9 gal (57 l)",
+            "Tipping Load": "7989.6 lbs (3,624 kg)"
+        },
+        "Dimensions": {
+            "Angle of departure": "28.7  \t\u00b0",
+            "Attachment roll back angle": "30  \t\u00b0",
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Dump angle": "42  \t\u00b0",
+            "Dump Height": "8 ft (2 m)",
+            "Dump reach": "34.3 in (86 cm)",
+            "Ground Clearance": "9.1 in (23 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Height to Hinge Pin": "125.2 in (318 cm)",
+            "Length - with Bucket": "12.2 ft (4 m)",
+            "Length - without Bucket": "9 ft (3 m)",
+            "Overall height": "6.9 ft (2 m)",
+            "Overall length (L/bucket)": "9.7 ft (3 m)",
+            "Overall length (W/bucket)": "12.2 ft (4 m)",
+            "Reach at Max Lift and Dump": "3 ft (1 m)",
+            "Turning Radius": "5.8 ft (2 m)",
+            "Turning Radius from Center - inc bucket": "69.3 in (175 cm)",
+            "Turning Radius from Center - machine rear": "69.3 in (175 cm)",
+            "Turning radius front L/bucket": "4.9 ft (1 m)",
+            "Turning radius front W/bucket": "8 ft (2 m)",
+            "Wheelbase": "5.9 ft (2 m)",
+            "Width Over Tracks": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "342000 A",
+            "Aspiration": "Turbo",
+            "Battery": "12 - 109 (V - Ah)",
+            "Displacement": "151.4 cu in (0 m)",
+            "Engine Model": "TC63",
+            "Fuel Type": "Diesel",
+            "Gross horsepower - SAE J1995": "74 hp (55 kw)",
+            "Gross Power": "84 hp (63 kw)",
+            "Max Torque": "295.1 lbs/ft",
+            "Net Power": "84 hp (63 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "267 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Starter": "5.7 hp (4 kw)",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "23 gal/min (87 l/min)",
+            "Relief Valve Pressure": "3335 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.9 cu yds (0 m)",
+            "Bucket Width": "78 in (198 cm)",
+            "High flow pump output": "33.1 gal/min (125 l/min)",
+            "Operating Load": "2600 lbs (1,179 kg)",
+            "Operating Load Rating": "2797 lbs (1,269 kg)",
+            "Operating Width": "78 in (198 cm)",
+            "Standard hydraulic pump output": "23.8 gal/min (87 l/min)",
+            "System pressure": "3335 psi",
+            "Tipping Angle": "7991  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "4.1 gal (15 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "27.3 gal (102 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed - high range": "7.9 mph (11 kph)",
+            "Max Speed - low range": "5.8 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10205 lbs (4,629 kg)"
+        },
+        "Performance": {
+            "Curl": "1.4 sec",
+            "Dump": "1.8 sec",
+            "Lift arm path": "Vertical",
+            "Lower (power down)": "3.5 sec",
+            "Raise (lifting)": "5.1 sec",
+            "Rated operating load, 35% tip": "2599.3 lbs (1,179 kg)"
+        },
+        "Speeds": {
+            "Single speed": "5.7 mph (8 kph)"
+        },
+        "Undercarriage": {
+            "Width of Track": "17.8 in (43 cm)"
+        },
+        "Weights": {
+            "Weight": "10756.4 lbs (4,879 kg)"
+        }
+    }
+}

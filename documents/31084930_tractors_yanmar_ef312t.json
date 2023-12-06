@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ef312t/31084930",
+    "source_url_id": "31084930",
+    "source_url_model": "ef312t",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:35.047088",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "EF312T",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "30 hp (22 kw)"
+        },
+        "Production": {
+            "Series": "EF Series",
+            "Years Manufactured": "2007 - 2017"
+        }
+    }
+}

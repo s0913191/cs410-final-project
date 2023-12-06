@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/r920-compact-litronic/30748631",
+    "source_url_id": "30748631",
+    "source_url_model": "r920-compact-litronic",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:14:23.738070",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "R920 COMPACT Litronic",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Breakout force - ISO": "22050 lbs (10,002 kg)",
+            "Bucket Digging Force - ISO": "18740 lbs (8,500 kg)",
+            "Max Digging Depth": "17.9 ft (5 m)",
+            "Max Reach Along Ground": "28.1 ft (9 m)",
+            "Max. teeth height": "30.1 ft (9 m)",
+            "Max.Dumping Height": "21.4 ft (6 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Digging Depth": "18.4 ft (5 m)",
+            "Max Reach Along Ground": "28.8 ft (9 m)",
+            "Max. teeth height": "31.4 ft (9 m)",
+            "Max.Dumping Height": "21.1 ft (6 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Breakout force-ISO": "22050 lbs (10,002 kg)",
+            "Bucket Digging Force - ISO": "16540 lbs (7,503 kg)",
+            "Max Digging Depth": "19 ft (6 m)",
+            "Max Reach Along Ground": "29.4 ft (9 m)",
+            "Max.Dumping Height": "22.4 ft (7 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.3 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.4 cu yds (0 m)"
+        },
+        "Capacities": {
+            "Fuel Tank": "17.5 gal (64 l)",
+            "Hydraulic system": "79 gal (299 l)",
+            "Urea tank": "3.2 gal (11 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Undercarriage Width": "13.7 ft (4 m)"
+        },
+        "Electrical System": {
+            "Alternator": "28 V  / 140 A",
+            "Batteries": "2 x 135 Ah  /  12 V V",
+            "Engine idling": "Sensor controlled",
+            "Voltage": "24V"
+        },
+        "Engine": {
+            "Air cleaner": "Dry-type",
+            "Aspiration": "Turbo-charged and after-coolerreduced emissions",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "274.7 cu in (0 m)",
+            "Emission Tier Level": "Tier 4 Final",
+            "Engine Model": "D924 A7-04",
+            "Exhaust Gas Recirculation (EGR)": "DOC Deutz",
+            "Horsepower, Net-ISO 9249": "150 hp (112 kw)",
+            "Horsepower, Net-SAE J1349": "148 hp (110 kw)",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5.2 in (13 cm)"
+        },
+        "Operating Specifications": {
+            "Hydraulic System Relief Valve Pressure": "5076 psi",
+            "Operating Weight": "106439.2 lbs (48,280 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "43163 lbs (19,579 kg)",
+            "Max Travel Speed": "3.7 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "43648"
+        }
+    }
+}

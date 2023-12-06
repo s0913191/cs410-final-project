@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/4600-underground/30755425",
+    "source_url_id": "30755425",
+    "source_url_model": "4600-underground",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:09.244208",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "4600 Underground",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "5 cu yds (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "TD 100 A",
+            "Gross Power": "264 hp (197 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "46517.6 lbs (21,100 kg)",
+            "Static Tipping Weight": "33730.8 lbs (15,300 kg)",
+            "Tire Size": "26.5-25/20"
+        }
+    }
+}

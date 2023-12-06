@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/bobcat/t110/30476899",
+    "source_url_id": "30476899",
+    "source_url_model": "t110",
+    "source_url_make": "bobcat",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:19.297109",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "T110",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.2 ft (2 m)",
+            "Length - with Bucket": "9.8 ft (3 m)",
+            "Length - without Bucket": "7.5 ft (2 m)",
+            "Reach at Max Lift and Dump": "1.9 ft (0 m)",
+            "Width Over Tracks": "4 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Gross Power": "41.8 hp (31 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "12.5 gal/min (45 l/min)"
+        },
+        "Loader": {
+            "Operating Load": "1595 lbs (724 kg)",
+            "Operating Load Rating": "1100 lbs (499 kg)",
+            "Operating Width": "50 in (127 cm)",
+            "Tipping Angle": "3190  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "11.9 gal (42 l)",
+            "Max Speed - high range": "8.4 mph (13 kph)",
+            "Max Speed - low range": "5.2 mph (8 kph)",
+            "Operating Weight": "5202 lbs (2,360 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.6 psi",
+            "Length of Track on Ground": "4.3 ft (1 m)",
+            "Width of Track": "9.8 in (23 cm)"
+        }
+    }
+}

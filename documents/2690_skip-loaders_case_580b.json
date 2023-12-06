@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skip-loaders/case/580b/2690",
+    "source_url_id": "2690",
+    "source_url_model": "580b",
+    "source_url_make": "case",
+    "source_url_category": "skip-loaders",
+    "source_date_scraped": "2023-09-13 16:40:58.860008",
+    "equipment_category": "Skip Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "580B",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "9400 lbs (4,264 kg)",
+            "Bucket Dig Force - Extended": "9400 lbs (4,264 kg)",
+            "Dig Depth": "14 ft (4 m)",
+            "Dig Depth - Extended": "18 ft (5 m)",
+            "Load Height": "10.9 ft (3 m)",
+            "Load Height - Extended": "14.8 ft (4 m)",
+            "Reach From Swivel": "17.6 ft (5 m)",
+            "Reach From Swivel - Extended": "25.1 ft (8 m)"
+        },
+        "Dimensions": {
+            "Front Wheel Tread Width": "56.7 in (142 cm)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height to Top of Suspended Cab": "5.9 ft (2 m)",
+            "Rear Tread Range": "76 in (193 cm)",
+            "Transport Length": "21.7 ft (6 m)",
+            "Transport Width": "6.4 ft (2 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "3.8 in (8 cm)",
+            "Engine Make": "J.I. Case",
+            "Engine Model": "G188D",
+            "Gross Power": "50 hp (37 kw)",
+            "Net Max Torque": "132 lbs/ft",
+            "Net Power": "43 hp (32 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "4.2 in (10 cm)",
+            "Torque Measured @": "1900 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26 gal/min (98 l/min)",
+            "Relief Valve Pressure": "2200 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "1 cu yds (1 m)",
+            "Bucket Width": "80 in (203 cm)",
+            "Clearance at Max Dump Height": "8.6 ft (2 m)",
+            "Reach at Max Dump Height": "2.1 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.2 gal (15 l)",
+            "Fuel Capacity": "22 gal (83 l)",
+            "Hydraulic System Fluid Capacity": "11 gal (42 l)",
+            "Max Weight": "11000 lbs (4,990 kg)",
+            "Oil System Fluid Capacity": "1.1 gal (4 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size Front - 2wd / 4wd": "7.50x16"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9x24"
+        },
+        "Transmission": {
+            "Max Speed": "20.8 mph (32 kph)",
+            "Max Speed - Reverse": "22.8 mph (35 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "Synchronized shuttle"
+        }
+    }
+}

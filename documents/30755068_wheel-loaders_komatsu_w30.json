@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/w30/30755068",
+    "source_url_id": "30755068",
+    "source_url_model": "w30",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:59.653364",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "W30",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "7610 lbs (3,452 kg)",
+            "Bucket Capacity - heaped": "1.1 cu yds (1 m)",
+            "Bucket Width": "6.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "7.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Hinge Pin - Max Height": "10 ft (3 m)",
+            "Length with Bucket on Ground": "15.6 ft (5 m)",
+            "Reach at Max Lift and Dump": "3.1 ft (1 m)",
+            "Wheelbase": "7.1 ft (2 m)",
+            "Width Over Tires": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "179.5 cu in (0 m)",
+            "Engine Model": "4D94",
+            "Gross Power": "49 hp (37 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.9 sec",
+            "Lower Time": "4 sec",
+            "Raise Time": "5.6 sec"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.2 gal (11 l)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "10317.7 lbs (4,680 kg)",
+            "Static Tipping Weight": "6481.6 lbs (2,940 kg)",
+            "Tire Size": "42x17-20-10PR (L-2)",
+            "Turning Radius": "14.3 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15.6 mph (24 kph)",
+            "Max Speed - Reverse": "6.3 mph (10 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "TORQFLOW full powershift countershaft"
+        }
+    }
+}

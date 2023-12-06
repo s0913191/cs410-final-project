@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/544k/19659",
+    "source_url_id": "19659",
+    "source_url_model": "544k",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:48:43.134667",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "544K",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Deere PowerTech",
+            "Model": "E6068H",
+            "Net Power": "167 hp (125 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.0 cu yds (3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "35008 lbs (15,880 kg)"
+        }
+    }
+}

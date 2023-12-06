@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/dynapac/pl2000f/30753759",
+    "source_url_id": "30753759",
+    "source_url_model": "pl2000f",
+    "source_url_make": "dynapac",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:53.134702",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Dynapac",
+    "equipment_model": "PL2000F",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSX 15-C600",
+            "Gross Power": "599.5 hp (447 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "290.6 gal (1,098 l)",
+            "Hydraulic System Fluid Capacity": "71.4 gal (269 l)",
+            "Operating Speed": "131.3 ft/min",
+            "Travel Speed": "3.2 mph (5 kph)",
+            "Water Spray System Fluid Capacity": "898.2 gal (3,399 l)"
+        },
+        "Rotary Cutter": {
+            "Cutter Diameter": "43.4 in (109 cm)",
+            "Cutting Depth": "12.6 in (30 cm)",
+            "Cutting Width": "6.6 ft (2 m)",
+            "Number of Tools": "166",
+            "Tool Spacing": "0.6 in (0 cm)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/vermeer/605m/30104250",
+    "source_url_id": "30104250",
+    "source_url_model": "605m",
+    "source_url_make": "vermeer",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:01:16.867661",
+    "equipment_category": "Balers",
+    "equipment_make": "Vermeer",
+    "equipment_model": "605M",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Belt Width": "7 in (18 cm)",
+            "Number of Belts": "8"
+        },
+        "Bale Size": {
+            "Bale Diameter - max": "6.1 ft (2 m)",
+            "Bale Diameter - min": "2.1 ft (1 m)",
+            "Bale Weight - max": "2400.9 lbs (1,089 kg)",
+            "Bale Width": "5.1 ft (2 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "hydraulic pickup",
+            "Number of Bars": "10",
+            "Number of Tines": "65",
+            "Overall Width": "7.6 ft (2 m)",
+            "Tine to Tine Width": "6.5 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "9.7 ft (3 m)",
+            "Overall Length": "13.9 ft (4 m)",
+            "Overall Width": "9.6 ft (3 m)",
+            "Tractor PTO Power Required": "80 hp (60 kw)",
+            "Weight": "7500.2 lbs (3,402 kg)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "10",
+            "Twine Type": "electric center pivot"
+        }
+    }
+}

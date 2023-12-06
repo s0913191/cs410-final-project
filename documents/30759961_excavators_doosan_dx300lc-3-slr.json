@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx300lc-3-slr/30759961",
+    "source_url_id": "30759961",
+    "source_url_model": "dx300lc-3-slr",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:44.521340",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX300LC-3 SLR",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "45.3 ft (14 m)",
+            "Max Reach Along Ground": "57 ft (17 m)"
+        },
+        "Engine": {
+            "Net Power": "213 hp (159 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "68167 lbs (30,920 kg)"
+        }
+    }
+}

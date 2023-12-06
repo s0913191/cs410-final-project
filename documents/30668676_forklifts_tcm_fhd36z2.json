@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/tcm/fhd36z2/30668676",
+    "source_url_id": "30668676",
+    "source_url_model": "fhd36z2",
+    "source_url_make": "tcm",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:40:57.051211",
+    "equipment_category": "Forklifts",
+    "equipment_make": "TCM",
+    "equipment_model": "FHD36Z2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "6.9 ft (2 m)",
+            "Overall Width": "4.4 ft (1 m)",
+            "Turning Radius": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "187 cu in (0 m)",
+            "Engine Model": "4JG2",
+            "Fuel Type": "Diesel",
+            "Power": "66 hp (49 kw)"
+        },
+        "MAST": {
+            "Lift Speed": "86.6 ft/min",
+            "Load Capacity": "8000 lbs (3,629 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "15 mph (24 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "12220 lbs (5,543 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

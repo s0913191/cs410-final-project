@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cs-10t/30782895",
+    "source_url_id": "30782895",
+    "source_url_model": "cs-10t",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:37.280811",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CS-10T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "108 in (274 cm)"
+        },
+        "Drum": {
+            "Drum Width": "50 in (127 cm)"
+        },
+        "Engine": {
+            "Make": "John Deere"
+        },
+        "Operating Specifications": {
+            "Operating Width": "62 in (157 cm)"
+        }
+    }
+}

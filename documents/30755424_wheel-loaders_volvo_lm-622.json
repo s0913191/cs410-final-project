@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/lm-622/30755424",
+    "source_url_id": "30755424",
+    "source_url_model": "lm-622",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:30.495671",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "LM 622",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4.6 cu yds (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "BM D 42",
+            "Gross Power": "80 hp (60 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "17637 lbs (8,000 kg)",
+            "Static Tipping Weight": "7275.3 lbs (3,300 kg)",
+            "Tire Size": "front 16.9-30/14, rear 12.5-20/10"
+        }
+    }
+}

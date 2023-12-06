@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd14s/16036",
+    "source_url_id": "16036",
+    "source_url_model": "dd14s",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:39.101313",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD14S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.4 ft (2 m)",
+            "Overall Length": "6.7 in (15 cm)",
+            "Overall Width": "3.3 ft (1 m)",
+            "Wheelbase": "4.6 in (10 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "3507.1 lbs (1,591 kg)",
+            "Drum Diameter": "22.1 in (56 cm)",
+            "Drum Width": "35.5 in (89 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "D722",
+            "Net Power": "16.9 hp (12 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Fuel Capacity": "7.8 gal (27 l)",
+            "Hydraulic System Fluid Capacity": "9.1 gal (34 l)",
+            "Max Speed": "5 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3172.5 lbs (1,439 kg)"
+        }
+    }
+}

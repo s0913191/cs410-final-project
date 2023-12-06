@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/mower-conditioners-windrowers/westward/m150/30669251",
+    "source_url_id": "30669251",
+    "source_url_model": "m150",
+    "source_url_make": "westward",
+    "source_url_category": "mower-conditioners-windrowers",
+    "source_date_scraped": "2023-09-13 17:08:19.912581",
+    "equipment_category": "Mower Conditioners / Windrowers",
+    "equipment_make": "Westward",
+    "equipment_model": "M150",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Wheel Tread Width": "134.3 in (340 cm)",
+            "Ground Clearance": "45.7 in (114 cm)",
+            "Rear Wheel tread Width - max": "134.2 in (340 cm)",
+            "Rear Wheel Tread Width - min": "94.9 in (239 cm)",
+            "Wheelbase": "13 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharge",
+            "Displacement": "274.7 cu in (0 m)",
+            "Number of Cylinders": "4",
+            "Power": "130 hp (97 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Front Tire Size": "18.4 x 26 Bar or turf",
+            "Fuel Capacity": "97 gal (367 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/o Attachment": "10700 lbs (4,854 kg)",
+            "Rear Tire Size": "10 x 16"
+        },
+        "Transmission": {
+            "Final Drive Type": "Planetary Gear Reduction",
+            "Max Speed": "23 mph (37 kph)",
+            "Transmission Type": "Hydrostatic, 2 speed electric shift motors"
+        }
+    }
+}

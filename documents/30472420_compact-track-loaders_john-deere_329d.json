@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/john-deere/329d/30472420",
+    "source_url_id": "30472420",
+    "source_url_model": "329d",
+    "source_url_make": "john-deere",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:40.094797",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "329D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.4 in (25 cm)",
+            "Height - Top of Cab": "7.1 ft (2 m)",
+            "Length - with Bucket": "12 ft (4 m)",
+            "Width Over Tracks": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "4TNV94CHT",
+            "Gross Power": "86 hp (64 kw)",
+            "Net Power": "83 hp (62 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "21 gal/min (79 l/min)",
+            "Relief Valve Pressure": "3450 psi"
+        },
+        "Loader": {
+            "Breakout Force": "10325 lbs (4,683 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "25.5 gal (95 l)",
+            "Max Speed - high range": "6.2 mph (10 kph)",
+            "Operating Weight": "11500 lbs (5,216 kg)"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/komatsu/d10s-1/30750582",
+    "source_url_id": "30750582",
+    "source_url_model": "d10s-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:32.535129",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D10S-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "5.5 ft (2 m)",
+            "Length with Bucket on Ground": "8.4 ft (2 m)",
+            "Reach at Dump Height": "2.1 ft (1 m)",
+            "Width to Outside of Tracks": "3.8 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "79.4 cu in (0 m)",
+            "Engine Model": "2D92",
+            "Net Power": "20 hp (15 kw)"
+        },
+        "Operating Specifications": {
+            "Breakout Force  Bucket": "4450 lbs (2,019 kg)",
+            "Bucket Capacity - heaped": "0.4 cu yds (0 m)",
+            "Cooling System Fluid Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "8 gal (30 l)",
+            "Max Speed": "2.8 mph (3 kph)",
+            "Operating Weight": "3902.2 lbs (1,770 kg)",
+            "Static Tipping Load": "3130 lbs (1,420 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.9 psi",
+            "Length of Track on Ground": "3.9 ft (1 m)",
+            "Number of Track Rollers per Side": "3",
+            "Track Gauge": "36.5 in (91 cm)",
+            "Track Shoe Width": "8.9 in (20 cm)"
+        }
+    }
+}

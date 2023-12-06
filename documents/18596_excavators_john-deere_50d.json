@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/50d/18596",
+    "source_url_id": "18596",
+    "source_url_model": "50d",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:06:38.296208",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "50D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "18.8 ft (5 m)",
+            "Max Digging Depth": "11.8 ft (3 m)",
+            "Max Loading Height": "13.5 ft (4 m)",
+            "Max Reach Along Ground": "19.00 ft (6 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "18 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "19.8 ft (6 m)",
+            "Max Digging Depth": "12.7 ft (4 m)",
+            "Max Loading Height": "14.3 ft (4 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "18.2 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Removal Counterweight Clearance": "2 ft (1 m)",
+            "Tail Swing Radius": "3.3 ft (1 m)",
+            "Width to Outside of Tracks": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "133.6 cu in (0 m)",
+            "Engine Model": "4TNV88",
+            "Net Power": "39.9 hp (29 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "18.5 gal (68 l)",
+            "Hydraulic Pump Flow Capacity": "33 gal/min (125 l/min)",
+            "Hydraulic System Fluid Capacity": "21.7 gal (79 l)",
+            "Operating Weight": "10428 lbs (4,730 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.3 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.4 psi",
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Shoe Size": "15.8 in (38 cm)"
+        }
+    }
+}

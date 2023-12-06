@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/new-holland/dc70/26533",
+    "source_url_id": "26533",
+    "source_url_model": "dc70",
+    "source_url_make": "new-holland",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:50:53.152152",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "New Holland",
+    "equipment_model": "DC70",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Length of Track on Ground": "6.8 ft (2 m)",
+            "Length w/ Blade": "13 ft (4 m)",
+            "Length w/o Blade": "9.4 ft (3 m)",
+            "Width Over Tracks": "7.5 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "4B3.9 Elite",
+            "Gross Power": "70 hp (52 kw)",
+            "Max Torque": "201 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "10.3 gal/min (38 l/min)",
+            "Pump type": "gear typ",
+            "Relief Valve Pressure": "2611 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "63  A",
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "2.4 gal (8 l)",
+            "Final Drives Fluid Capacity": "0.8 gal (0 l)",
+            "Fuel Capacity": "50.2 gal (189 l)",
+            "Hydraulic Fluid Capacity": "19.9 gal (72 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "14550.6 lbs (6,600 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "62  \t\u00b0",
+            "Capacity": "1.8 cu yds (1 m)",
+            "Height": "31.5 in (79 cm)",
+            "Width": "8.9 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.3 mph (10 kph)",
+            "Max Speed - Reverse": "6.3 mph (10 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "dual path hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2631 cu in (0 m)",
+            "Ground Pressure": "5.2 psi",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "1.7 in (3 cm)",
+            "Track Gauge": "5.4 ft (2 m)"
+        }
+    }
+}

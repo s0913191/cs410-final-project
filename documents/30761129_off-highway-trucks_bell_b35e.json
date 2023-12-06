@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/bell/b35e/30761129",
+    "source_url_id": "30761129",
+    "source_url_model": "b35e",
+    "source_url_make": "bell",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:22:59.442654",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Bell",
+    "equipment_model": "B35E",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Rated Payload": "37.0 t (33,566 kg)"
+        },
+        "Engine": {
+            "Make": "Mercedes Benz",
+            "Model": "OM471LA T4F"
+        },
+        "Weights": {
+            "Operating Weight": "66974 lbs (30,379 kg)"
+        }
+    }
+}

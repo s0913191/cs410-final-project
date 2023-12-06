@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/888iii/30761187",
+    "source_url_id": "30761187",
+    "source_url_model": "888iii",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:18.872190",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "888III",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.58 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSM 11",
+            "Net Power": "350 hp (261 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "7 cu yds (5 m)"
+        },
+        "Weights": {
+            "Operational Weight": "66138 lbs (30,000 kg)"
+        }
+    }
+}

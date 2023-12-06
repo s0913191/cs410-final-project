@@ -1,0 +1,76 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk500lc-10-me/30748673",
+    "source_url_id": "30748673",
+    "source_url_model": "sk500lc-10-me",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:56.151038",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK500LC-10 ME",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "25.7 ft (8 m)",
+            "Max Digging Height": "35.2 ft (11 m)",
+            "Max Digging Reach": "39.7 ft (12 m)",
+            "Max Digging Reach on Ground": "38.1 ft (12 m)",
+            "Max Dumping Clearance": "24.1 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "23.4 ft (7 m)",
+            "Min Dumping Clearance": "9.1 ft (3 m)",
+            "Minimum swing radius": "202.4 in (513 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Horizontal Digging Stroke - Ground": "23.2 ft (7 m)",
+            "Max Digging Depth": "27.7 ft (8 m)",
+            "Max Digging Reach": "41.4 ft (13 m)",
+            "Max Digging Reach on Ground": "40.8 ft (12 m)",
+            "Max Dumping Clearance": "25.7 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "24.7 ft (7 m)",
+            "Max. digging height": "36.6 ft (11 m)",
+            "Min Dumping Clearance": "7.2 ft (2 m)",
+            "Minimum swing radius": "205.2 in (521 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Horizontal Digging Stroke - Ground": "27.2 ft (8 m)",
+            "Max Digging Depth": "30.5 ft (9 m)",
+            "Max Dumping Clearance": "27.3 ft (8 m)",
+            "Max Reach Along Ground": "43.7 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "27.7 ft (8 m)",
+            "Max. digging height": "38.5 ft (12 m)",
+            "Min Dumping Clearance": "4.4 ft (1 m)",
+            "Minimum swing radius": "209.1 in (531 cm)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Digging Depth": "21.3 ft (6 m)",
+            "Max Digging Reach": "35.8 ft (11 m)",
+            "Max Vertical Wall Dig Depth": "13.1 ft (4 m)",
+            "Minimum swing radius": "187.1 in (475 cm)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Tail Swing Radius": "12.5 ft (4 m)",
+            "Track Gauge": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.9 in (10 cm)",
+            "Displacement": "642 cu in (0 m)",
+            "Engine Model": "HINO P11C-VN",
+            "Engine Type": "Diesel engine with turbocharger and intercooler, Tier IV nal certied",
+            "Max Digging Reach": "44.3 ft (13 m)",
+            "Max Torque": "1084.3 lbs/ft",
+            "Net Power": "369 hp (275 kw)",
+            "Power Measured @": "1850 rpm",
+            "Stroke": "6 in (15 cm)"
+        },
+        "NULL": {
+            "MaxPumpFlow": "195.5 gal/min"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "113979 lbs (51,701 kg)"
+        },
+        "Undercarriage": {
+            "Shoe Size": "35.5 in (89 cm)"
+        }
+    }
+}

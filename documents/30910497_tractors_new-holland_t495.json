@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t495/30910497",
+    "source_url_id": "30910497",
+    "source_url_model": "t495",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:44.092352",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T4.95",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "98 hp (73 kw)"
+        },
+        "Production": {
+            "Series": "T4 Series",
+            "Years Manufactured": "2013 - 2014"
+        }
+    }
+}

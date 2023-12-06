@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/rogator/1084/30102889",
+    "source_url_id": "30102889",
+    "source_url_model": "1084",
+    "source_url_make": "rogator",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:01.850424",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Rogator",
+    "equipment_model": "1084",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "439.4 cu in (0 m)",
+            "Emission Tier Level": "Tier III",
+            "Engine Make": "CAT",
+            "Gross Power": "275 hp (205 kw)",
+            "Gross Torque": "977 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.5 gal (30 l)",
+            "Engine Oil Capacity": "6 gal (23 l)",
+            "Fuel Capacity": "130 gal (492 l)",
+            "Gearbox": "4.3L",
+            "Hydraulic Fluid Capacity": "60 gal (227 l)",
+            "Operating Weight": "25029.1 lbs (11,353 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "32.4 mph (51 kph)",
+            "Number of Forward Gears": "4"
+        }
+    }
+}

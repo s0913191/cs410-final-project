@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-260/30751545",
+    "source_url_id": "30751545",
+    "source_url_model": "mf-260",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:45.368184",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 260",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.4 in (33 cm)",
+            "Overall Length": "10.7 in (25 cm)",
+            "Tire Size": "Front 6.00 -16 (6 PR), Rear 12.4/11-28(6PR)",
+            "Track Width": "49.1 in (124 cm)",
+            "Wheelbase": "6.3 ft (2 m)",
+            "Width Outside Frame": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Model": "T3.1524",
+            "Gross Power": "60 hp (45 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2250 rpm",
+            "PTO Power": "48 hp (36 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30.7 gal/min (114 l/min)",
+            "Relief Valve Pressure": "2784.8 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "2.7 gal (8 l)",
+            "Fuel Capacity": "12.6 gal (45 l)",
+            "Hydraulic System Fluid Capacity": "8.8 gal (30 l)",
+            "Operating Weight": "4232.9 lbs (1,920 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "17.8 mph (27 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Sliding Spur"
+        }
+    }
+}

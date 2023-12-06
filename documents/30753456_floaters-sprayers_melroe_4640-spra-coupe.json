@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/melroe/4640-spra-coupe/30753456",
+    "source_url_id": "30753456",
+    "source_url_model": "4640-spra-coupe",
+    "source_url_make": "melroe",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:43.144664",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Melroe",
+    "equipment_model": "4640 Spra-Coupe",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "110 hp (82 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "8840 lbs (4,010 kg)",
+            "Fuel Capacity": "38 gal (144 l)"
+        },
+        "Transmission": {
+            "Transmission Type": "Automatic"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/135zv-2/30761234",
+    "source_url_id": "30761234",
+    "source_url_model": "135zv-2",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:05.770362",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "135ZV-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "19.8 ft (6 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QST30",
+            "Net Power": "720 hp (537 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "10.8 - 13.50 cu yds (8 - 10 m)"
+        },
+        "Weights": {
+            "Operational Weight": "180290 lbs (81,779 kg)"
+        }
+    }
+}

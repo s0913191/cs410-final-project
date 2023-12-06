@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/yanmar/s190r-1/30749442",
+    "source_url_id": "30749442",
+    "source_url_model": "s190r-1",
+    "source_url_make": "yanmar",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:52.563161",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Yanmar",
+    "equipment_model": "S190R-1",
+    "equipment_spec": {
+        "Capacities": {
+            "Rated Operating Capacity": "1900.4 lbs (862 kg)"
+        },
+        "Dimensions": {
+            "Dump angle": "42  \t\u00b0",
+            "Dump Height": "7.6 ft (2 m)",
+            "front Departure angle": "25  \t\u00b0",
+            "Ground Clearance": "6.5 in (15 cm)",
+            "Ground Height": "39.1 in (99 cm)",
+            "Height - Top of Cab": "13.2 ft (4 m)",
+            "Hinge pin height - fully raised": "120.6 in (305 cm)",
+            "Length w/o Bucket": "7.9 ft (2 m)",
+            "Length with Bucket": "10.6 ft (3 m)",
+            "Overall height, ROPS cab": "80 in (203 cm)",
+            "Overall Width": "5.4 ft in (13 cm)",
+            "Reach at Max Lift and Dump": "22.6 in (56 cm)",
+            "Rollback - Ground Level": "26  \t\u00b0",
+            "Wheelbase": "3.6 ft (1 m)"
+        },
+        "Electrical System": {
+            "Alternator": "95  A",
+            "Battery": "12-volt (950 CCA)",
+            "Starter size": "12-volt (3.0 kW)"
+        },
+        "Engine": {
+            "Displacement": "202.6 cu in (0 m)",
+            "Engine Make": "Yanmar",
+            "Engine Model": "4TNV98C-NMS",
+            "Gross Power": "68.4 hp (51 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "18.5 gal/min (68 l/min)",
+            "Hydraulic Reservoir": "11 gal (42 l)",
+            "Pump Flow Capacity": "31.5 gal/min (117 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Bucket Width": "66 in (168 cm)",
+            "Operating Load Rating": "1900 lbs (862 kg)",
+            "Operating Width": "64.5 in (163 cm)",
+            "Tipping Angle": "3800.8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "16.6 gal (61 l)",
+            "Max Speed": "12.5 mph (19 kph)",
+            "Operational Weight": "6880.7 lbs (3,121 kg)",
+            "Tire Size": "10.00 x 16.5 HD"
+        }
+    }
+}

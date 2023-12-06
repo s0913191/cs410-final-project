@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dump-trailers/bri-mar/dtr508lp-5/30835256",
+    "source_url_id": "30835256",
+    "source_url_model": "dtr508lp-5",
+    "source_url_make": "bri-mar",
+    "source_url_category": "dump-trailers",
+    "source_date_scraped": "2023-09-13 17:54:07.757173",
+    "equipment_category": "Dump Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "DTR508LP-5",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "5x8 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "1",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "1215 lbs (551 kg)",
+            "Weight Capacity": "3785 lbs (1,717 kg)"
+        }
+    }
+}

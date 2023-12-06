@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/case/sv208d/2381",
+    "source_url_id": "2381",
+    "source_url_model": "sv208d",
+    "source_url_make": "case",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:32.706401",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Case",
+    "equipment_model": "SV208D",
+    "equipment_spec": {
+        "Capacities": {
+            "Engine coolant": "7.4 gal (27 l)",
+            "Engine Oil": "2.7 gal (8 l)",
+            "Fuel Tank": "67.4 gal (254 l)",
+            "Hydraulic oil tank": "19.1 gal (72 l)",
+            "Transmission": "0.7 gal (0 l)",
+            "Vibration system": "408.9 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "15.2 in (38 cm)",
+            "Overall Length": "207.5 in (526 cm)",
+            "Overall Width": "6.2 ft (2 m)",
+            "Turning Radius - Inside": "10.5 ft (3 m)",
+            "Turning Radius - Outside": "16.9 ft (5 m)",
+            "Wheelbase": "106 in (269 cm)"
+        },
+        "Drive System": {
+            "Differential / Lock system": "Drive motor interlock",
+            "Drive": "Hydrostatic",
+            "Emergency brake": "Multi-disc",
+            "Grade ability without traction assist": "43  \t\u00b0",
+            "Parking brakes": "Multi-disc",
+            "piston type wheel drive pump": "1",
+            "Wheel drive": "2"
+        },
+        "Drum": {
+            "Drum thickness": "1 in (3 cm)",
+            "Drum Width": "66 in (168 cm)",
+            "Frame extensions": "3.9 in (8 cm)",
+            "Padfoot drum": "55 in (140 cm)",
+            "Smooth drum": "4.3 ft (1 m)"
+        },
+        "Electrical System": {
+            "Alternator": "45",
+            "Battery": "2 X 61 Amp",
+            "Voltage": "24 V"
+        },
+        "Engine": {
+            "Displacement": "221 cu in (0 m)",
+            "Emissions Certification": "Tier 4 Final",
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD3.6 L4",
+            "Gross engine horsepower": "2200",
+            "Gross Power": "74.3 hp (55 kw)",
+            "Max Torque": "287.7 lbs/ft",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Pad foot drum_Operating weight with out cab": "17570.9 lbs (7,970 kg)",
+            "Padfoot drum_ Max. weight with cab": "23038.4 lbs (10,450 kg)",
+            "Smooth drum Drum weight": "8796.5 lbs (3,990 kg)",
+            "Smooth drum Max. weight with Cab": "20635.3 lbs (9,360 kg)",
+            "Smooth drum Operating weight with Cab": "15167.9 lbs (6,880 kg)",
+            "Smooth drum_Static linear load": "52.3 lbs (24 kg)"
+        }
+    }
+}

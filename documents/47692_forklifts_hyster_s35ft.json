@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/s35ft/47692",
+    "source_url_id": "47692",
+    "source_url_model": "s35ft",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:30:19.599974",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "S35FT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "31%",
+            "Ground Clearance": "4.3 in (10 cm)",
+            "Height to Top of Overhead Guard": "6.6 ft (2 m)",
+            "Length to Fork Face": "7 ft (2 m)",
+            "Max Fork Height": "10.7 ft (3 m)",
+            "Overall Height - mast lowered": "6.9 ft (2 m)",
+            "Overall Width": "3.3 ft (1 m)",
+            "Right Angle Stack": "7.2 ft (2 m)",
+            "Turning Radius": "6 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "122.1 cu in (0 m)",
+            "Engine Model": "PSI 2.0L",
+            "Fuel Type": "LP/Gas",
+            "Number of Cylinders": "4",
+            "Power": "44 hp (33 kw)",
+            "Power Measured @": "2400 rpm",
+            "Torque": "100 lbs/ft",
+            "Torque Measured @": "1300 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "114 ft/min",
+            "Load Capacity": "3500 lbs (1,588 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "94 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "5  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "2731 lbs (1,239 kg)",
+            "Axle load - rear": "3859 lbs (1,750 kg)",
+            "Drawbar Pull": "3095 lbs (1,404 kg)",
+            "Front Tire Size": "18 X 7 X 12.125",
+            "Fuel Capacity": "10.2 gal (38 l)",
+            "Hydraulic System Relief Valve Pressure": "2250 psi",
+            "Hydraulic Tank": "8.3 gal (30 l)",
+            "Max Speed": "10.7 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "6591.9 lbs (2,990 kg)",
+            "Rear Tire Size": "15 X 5 X 11.25",
+            "Tire Type": "Cushion"
+        }
+    }
+}

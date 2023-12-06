@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/farmall-45a/31076026",
+    "source_url_id": "31076026",
+    "source_url_model": "farmall-45a",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:14.708703",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "FARMALL 45A",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "45 hp (34 kw)"
+        },
+        "Production": {
+            "Series": "Farmall A Series",
+            "Years Manufactured": "2010 - 2020"
+        }
+    }
+}

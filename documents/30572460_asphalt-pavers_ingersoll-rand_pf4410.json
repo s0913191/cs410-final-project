@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/ingersoll-rand/pf4410/30572460",
+    "source_url_id": "30572460",
+    "source_url_model": "pf4410",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:17.250741",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "PF4410",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length of Track on Ground": "8.6 ft (2 m)",
+            "Length w/ Screed": "17.2 ft (5 m)",
+            "Track Width": "14 in (36 cm)",
+            "Transport Height": "10.3 ft (3 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Width w/ Hopper Open": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB 5.9-3OT",
+            "Net Power": "158 hp (118 kw)"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "16 in (41 cm)",
+            "Hopper Capacity": "5.8 lbs (2 kg)",
+            "Paving Speed - max": "242.2 ft/min",
+            "Paving Thickness - max": "8 in (20 cm)",
+            "Paving Width - max": "25 ft (8 m)",
+            "Travel Speed - max": "8.6 mph (13 kph)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Cooling System Fluid Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "38.1 gal (144 l)",
+            "Hydraulic System Fluid Capacity": "39.9 gal (148 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight w/ Screed": "31499.7 lbs (14,288 kg)",
+            "Operating Weight w/o Screed": "28900.4 lbs (13,109 kg)"
+        }
+    }
+}

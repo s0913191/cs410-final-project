@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/caterpillar/247b/30472579",
+    "source_url_id": "30472579",
+    "source_url_model": "247b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:51.428172",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "247B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.1 ft (2 m)",
+            "Ground Clearance": "10.6 in (25 cm)",
+            "Height - Top of Cab": "6.6 ft (2 m)",
+            "Length - with Bucket": "10.8 ft (3 m)",
+            "Length - without Bucket": "8.3 ft (2 m)",
+            "Reach at Max Lift and Dump": "2.1 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "85 in (216 cm)",
+            "Turning Radius from Center - machine rear": "53.4 in (135 cm)",
+            "Width Over Tracks": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "134.3 cu in (0 m)",
+            "Engine Model": "3024C T",
+            "Gross Power": "61.7 hp (45 kw)",
+            "Net Power": "57.7 hp (43 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "15.9 gal/min (57 l/min)",
+            "Relief Valve Pressure": "3335.9 psi"
+        },
+        "Loader": {
+            "Breakout Force": "3734.7 lbs (1,694 kg)",
+            "Operating Load": "1951.1 lbs (885 kg)",
+            "Tipping Angle": "3906.6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "85  A",
+            "Cooling System Fluid Capacity": "2.7 gal (8 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "14.6 gal (53 l)",
+            "Max Speed - high range": "7.6 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "6666.8 lbs (3,024 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "1767.1 cu in (0 m)",
+            "Ground Pressure": "3.8 psi",
+            "Length of Track on Ground": "5 ft (2 m)"
+        }
+    }
+}

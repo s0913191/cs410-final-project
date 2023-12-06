@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/terex/tr60/30824",
+    "source_url_id": "30824",
+    "source_url_model": "tr60",
+    "source_url_make": "terex",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:36.384496",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Terex",
+    "equipment_model": "TR60",
+    "equipment_spec": {
+        "Approximate Weights - Flat Floor": {
+            "Body": "1300 lbs (590 kg)"
+        },
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2 ft (1 m)",
+            "Dump Height": "26.3 ft (8 m)",
+            "Ground Clearance": "2.3 ft (1 m)",
+            "Overall Height": "14.5 ft (4 m)",
+            "Overall Length": "29.9 ft (9 m)",
+            "Overall Width": "16.5 ft (5 m)",
+            "Wheelbase": "13.5 ft (4 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x2"
+        },
+        "Dump": {
+            "Dump Angle": "58  \t\u00b0",
+            "Load Capacity - heaped": "45.8 cu yds (34 m)",
+            "Load Capacity - Struck": "34.1 cu yds (26 m)",
+            "Lower Time": "4 sec",
+            "Raise Time": "16 sec",
+            "Rated Payload": "120000 lbs (54,432 kg)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "1150 cu in (0 m)",
+            "Engine Model": "QSK19-C650",
+            "Gross Power": "650 hp (485 kw)",
+            "Make": "Cummins",
+            "Max Torque": "2275 lbs/ft",
+            "Model": "QSK19-C650",
+            "Net Power": "645 hp (481 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Rated Engine Speed": "68.2 rpm",
+            "Torque Measured @": "turbocharged rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Allison M6610AR",
+            "Cooling System Fluid Capacity": "45 gal (170 l)",
+            "Diff and Final Drive Fluid Capacity": "13.8 gal (49 l)",
+            "Engine Oil Capacity": "17.5 gal (64 l)",
+            "Fuel Capacity": "160.1 gal (606 l)",
+            "Hydraulic System Fluid Capacity": "68.2 gal (257 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Operating Voltage": "24 V V",
+            "Steering System Fluid Capacity": "19.1 gal (72 l)",
+            "Tire Size": "24.00-35 bias ply"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "120000 gal (454,200 l)"
+        },
+        "Transmission": {
+            "Max Speed": "35.8 mph (56 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "2",
+            "Transmission Type": "Allison M6610AR"
+        },
+        "Weights": {
+            "Empty Weight": "90940 lbs (41,250 kg)",
+            "Loaded Weight": "210940 lbs (95,682 kg)",
+            "Operating Weight": "210490 lbs (95,478 kg)",
+            "Weight Distribution Front - empty": "48%",
+            "Weight Distribution Front - loaded": "34%",
+            "Weight Distribution Rear - empty": "52%",
+            "Weight Distribution Rear - loaded": "66%"
+        }
+    }
+}

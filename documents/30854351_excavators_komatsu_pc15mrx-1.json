@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc15mrx-1/30854351",
+    "source_url_id": "30854351",
+    "source_url_model": "pc15mrx-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:37.427364",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC15MRx-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "7 ft (2 m)",
+            "Digging Reach": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Net Power": "15 hp (11 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "3980 lbs (1,805 kg)"
+        }
+    }
+}

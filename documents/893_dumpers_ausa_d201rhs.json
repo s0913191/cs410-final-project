@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dumpers/ausa/d201rhs/893",
+    "source_url_id": "893",
+    "source_url_model": "d201rhs",
+    "source_url_make": "ausa",
+    "source_url_category": "dumpers",
+    "source_date_scraped": "2023-09-13 14:52:30.428280",
+    "equipment_category": "Dumpers",
+    "equipment_make": "Ausa",
+    "equipment_model": "D201RHS",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking": "Sealed, multi-disc",
+            "Service": "Sealed, multi-disc"
+        },
+        "Driving": {
+            "External turning radius": "165 in",
+            "Max. speed": "11.2 mph",
+            "Maximum gradient": "35%",
+            "Traction": "4x4 Compen\u00ae",
+            "Tyres": "10.0/75-15.3"
+        },
+        "Engine": {
+            "Brand": "Kubota",
+            "Emissions": "Stage V - EPA Tier 4",
+            "Model": "V1505-E4B",
+            "No. of cylinders": "4",
+            "Noise level (LwA)": "101 dB(A)",
+            "Power": "24.8 hp",
+            "Torque": "92.6@1700"
+        },
+        "General": {
+            "Chassis": "Rigid",
+            "Empty weight": "4,200 lb",
+            "Heaped skip capacity": "1.63 cu yd",
+            "Level skip capacity": "1.26 cu yd",
+            "Load capacity": "4,400 lb",
+            "Unloading system": "Frontal",
+            "Water skip capacity": "0.92 cu yd"
+        },
+        "Hydraulic system": {
+            "Flow rate": "4.7 gal/min",
+            "Working pressure": "2,791 psi"
+        },
+        "Tank capacity": {
+            "Fuel": "10.6 gal",
+            "Hydraulic system": "10.6 gal"
+        },
+        "Transmission": {
+            "Reversibility": "Non-reversible",
+            "Transmission": "Hydrostatic"
+        }
+    }
+}

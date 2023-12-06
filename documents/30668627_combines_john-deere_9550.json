@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/9550/30668627",
+    "source_url_id": "30668627",
+    "source_url_model": "9550",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:31.020145",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "9550",
+    "equipment_spec": {
+        "Capacities": {
+            "Crankcase oil volume": "7.6 gal (27 l)"
+        },
+        "Cleaning System": {
+            "Total Cleaning Area": "6370.6 cu in (0 m)"
+        },
+        "Electrical System": {
+            "Alternator": "95 Amp",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Displacement": "494.3 cu in (0 m)",
+            "Engine Make": "John Deere",
+            "Engine Model": "6081H",
+            "Number of Cylinders": "6",
+            "Power": "218.6 hp (163 kw)",
+            "Power Boost Power": "254.8 hp (189 kw)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "215.7 bu",
+            "Unloading Speed": "2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "149.3 gal (564 l)",
+            "Hydraulic System Fluid Capacity": "9 gal (34 l)",
+            "Number of Gears": "3",
+            "Operating Weight w/o Attachment": "24758 lbs (11,230 kg)",
+            "Transmission Fluid Capacity": "2.6 gal (8 l)"
+        },
+        "Separating": {
+            "Separator Type": "Straw walkers",
+            "Width": "12.5 in (30 cm)"
+        }
+    }
+}

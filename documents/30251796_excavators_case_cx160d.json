@@ -1,0 +1,102 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx160d/30251796",
+    "source_url_id": "30251796",
+    "source_url_model": "cx160d",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:22.620395",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX160D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Dig radius at ground line": "349.3 in (886 cm)",
+            "Dump height": "260.3 in (660 cm)",
+            "Max Digging Depth": "19.2 ft (6 m)",
+            "Max Digging Reach on Ground": "26.1 ft (8 m)",
+            "Max Reach Along Ground": "30.4 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "16.7 ft (5 m)",
+            "Max.Dumping Height": "21 ft (6 m)",
+            "Minimum swing radius": "117.8 in (297 cm)",
+            "Mximum dig radius": "370.1 in (940 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Dig radius at ground line": "363 in (922 cm)",
+            "Dump height": "263.4 in (668 cm)",
+            "Max Digging Depth": "21.3 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "17.2 ft (5 m)",
+            "Maximum dig radius": "369.3 in (937 cm)",
+            "Maximum reach height": "365.8 in (927 cm)",
+            "Minimum swing radius": "120.1 in (305 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Overall height": "9.8 ft (3 m)"
+        },
+        "Brakes": {
+            "Brakes Type": "Dual stage relief or  counter balance design",
+            "Service brake": "Mechanical disc",
+            "Travel control": "SAHR disc - each motor"
+        },
+        "Capacities": {
+            "Cooling system": "4.3 gal (15 l)",
+            "Engine oil w/ filter change": "4.5 gal (15 l)",
+            "Final Drive": "1.6 gal (4 l)",
+            "Fuel Tank": "79.3 gal (299 l)",
+            "Hydraulic system": "43.6 gal (163 l)",
+            "Hydraulic Tank": "23.8 gal (87 l)",
+            "Swing drive": "1.4 gal (4 l)"
+        },
+        "Dimensions": {
+            "Boom length": "0.1 ft (0 m)",
+            "Cab height": "117 in (297 cm)",
+            "Center to center - idler to sprocket": "10.5 ft (3 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Ground pressure": "5.9 psi",
+            "Overall height": "9.8 ft (3 m)",
+            "Tail Swing Radius": "8.2 ft (2 m)",
+            "Track length": "157.1 in (399 cm)",
+            "Track shoe width": "2 ft (1 m)"
+        },
+        "Engine": {
+            "Air filter type": "Dry type element  with warning restriction indicator",
+            "Bore": "3.8 in (8 cm)",
+            "Displacement": "183.1 cu in (0 m)",
+            "Emission Tier Level": "Tier 4",
+            "Engine Make": "Isuzu",
+            "Engine Model": "Isuzu 4 JJ 1X",
+            "Fuel Filter": "Replaceable,  full flow spin-on cartridge",
+            "Fuel injection": "Direct injection - electronic",
+            "Fuel Type": "Requires ultra-low sulfur fuel  B5 biodiesel tolerant",
+            "Horsepower per SAE J1349 Net": "112 hp (84 kw)",
+            "Max Torque": "257.5 lbs/ft",
+            "Net Power": "112 hp (84 kw)",
+            "Oil Filter": "Replaceable,  full flow spin-on cartridge",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.1 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Main pump - Maximum flow": "37.6 gal (140 l)",
+            "System relief pressure": "4970 psi"
+        },
+        "Operating Specifications": {
+            "Arm Breakout Force": "14837.4 lbs (6,730 kg)",
+            "Arm size": "8.2 ft in ft (2 m)",
+            "Operating Weight": "38360.5 lbs (17,400 kg)"
+        },
+        "Performance": {
+            "Lift over end 10' radius": "17200.5 lbs (7,802 kg)",
+            "Lift over end Max. reach": "3849.3 lbs (1,746 kg)",
+            "Lift over side 10'  radius": "16250.3 lbs (7,371 kg)",
+            "Lift over side Max. reach": "14572.6 lbs (6,610 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.5 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "3.4 mph (5 kph)"
+        },
+        "Undercarriage": {
+            "Track Shoe Width": "23.7 in (58 cm)"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/1150m-wt/30760510",
+    "source_url_id": "30760510",
+    "source_url_model": "1150m-wt",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:04.795116",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "1150M WT",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Case",
+            "Model": "F4HFE613F Tier IV Interim",
+            "Net Power": "127 hp (95 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "32174 lbs (14,594 kg)"
+        }
+    }
+}

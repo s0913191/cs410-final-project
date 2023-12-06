@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d31px-21-komstat-ii/30750869",
+    "source_url_id": "30750869",
+    "source_url_model": "d31px-21-komstat-ii",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:21.640476",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D31PX-21 KOMSTAT II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Length w/ Blade": "13.2 ft (4 m)",
+            "Width Over Tracks": "7.5 ft in (18 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "240 cu in (0 m)",
+            "Engine Model": "SAA4D102E-2",
+            "Net Power": "75 hp (56 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "2990 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "7.1 gal (27 l)",
+            "Engine Oil Capacity": "3.3 gal (11 l)",
+            "Final Drives Fluid Capacity": "0.9 gal (0 l)",
+            "Fuel Capacity": "43.6 gal (163 l)",
+            "Hydraulic Fluid Capacity": "12.4 gal (45 l)",
+            "Operating Weight": "16870 lbs (7,652 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Height": "2.9 in (5 cm)",
+            "Width": "10.5 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.3 mph (8 kph)",
+            "Max Speed - Reverse": "5.3 mph (8 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "dual-path hydrostatic transmission"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4061 cu in (0 m)",
+            "Ground Pressure": "4.2 psi",
+            "Number of Shoes per Side": "40",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "5.5 ft (2 m)",
+            "Track Pitch": "65 in (165 cm)"
+        }
+    }
+}

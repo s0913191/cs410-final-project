@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx35u-5/40968",
+    "source_url_id": "40968",
+    "source_url_model": "zx35u-5",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:01:54.567435",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX35U-5",
+    "equipment_spec": {
+        "Blades": {
+            "Maximum Drop below ground": "1.4 ft (0 m)",
+            "Maximum lift above ground": "1.2 ft (0 m)"
+        },
+        "Boom": {
+            "Boom swing left": "72  \t\u00b0",
+            "Boom swing right": "62  \t\u00b0"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "16 ft (5 m)",
+            "Max Digging Depth": "10 ft (3 m)",
+            "Max Digging Reach": "17.1 ft in (43 cm)",
+            "Max Reach Along Ground": "17.1 ft (5 m)",
+            "Max.Dumping Height": "11.4 ft (3 m)",
+            "Minimum swing radius": "81.9 in (206 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "16.3 ft (5 m)",
+            "Max Digging Depth": "11.4 ft (3 m)",
+            "Max Digging Reach": "18.1 ft (5 m)",
+            "Max.Dumping Height": "11.9 ft (3 m)",
+            "Minimum swing radius": "86.3 in (218 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "15.5 ft (5 m)",
+            "Max Digging Depth": "10 ft (3 m)"
+        },
+        "Bucket": {
+            "Arm digging Force": "6092.4 lbs (2,763 kg)",
+            "Bucket digging Force - SAE": "4271.4 lbs (1,937 kg)"
+        },
+        "Capacities": {
+            "Cooling system": "1.4 gal (4 l)",
+            "Engine oil with filter": "2 gal (8 l)",
+            "Fuel Tank": "11.1 gal (42 l)",
+            "Hydraulic Tank": "8.5 gal (30 l)"
+        },
+        "Dimensions": {
+            "Counterweight Clearance": "1.9 ft (0 m)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Tail Swing Radius": "2.9 ft (1 m)",
+            "Track width": "1 ft (0 m)"
+        },
+        "Engine": {
+            "Alternator": "55 A",
+            "Displacement": "100.3 cu in (0 m)",
+            "Emission Tier Level": "EPA Final Tier 4",
+            "Engine Model": "3TNV74F",
+            "Net Power": "23.4 hp (17 kw)",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "16.2 gal/min (61 l/min)"
+        },
+        "Operating Specifications": {
+            "Blade height": "14.7 in (36 cm)",
+            "Operating Weight": "7760 lbs (3,520 kg)"
+        },
+        "Performance": {
+            "Travel speed  low": "1.8 mph (2 kph)",
+            "Travel Speed - High": "2.7 mph (3 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/kalmar/ece-80-6/30756913",
+    "source_url_id": "30756913",
+    "source_url_model": "ece-80-6",
+    "source_url_make": "kalmar",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:33:11.594589",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Kalmar",
+    "equipment_model": "ECE 80-6",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "6.6 ft (2 m)",
+            "Wheelbase": "8.6 ft (2 m)"
+        },
+        "MAST": {
+            "Load Capacity": "17637 lbs (8,000 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "23810 lbs (10,800 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

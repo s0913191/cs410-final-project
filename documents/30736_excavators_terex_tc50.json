@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/tc50/30736",
+    "source_url_id": "30736",
+    "source_url_model": "tc50",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:24.147220",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "TC50",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "17.2 ft (5 m)",
+            "Max Digging Depth": "12.08 ft (4 m)",
+            "Max Loading Height": "11.8 ft (3 m)",
+            "Max Reach Along Ground": "20.33 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "6.2 ft (2 m)",
+            "Shipping Height of Unit": "8.4 ft (2 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "17.6 ft (5 m)",
+            "Max Digging Depth": "12.8 ft (4 m)",
+            "Max Loading Height": "12.2 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "6.8 ft (2 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.4 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "12.8 ft (4 m)",
+            "Tail Swing Radius": "3.3 ft (1 m)",
+            "Width to Outside of Tracks": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134 cu in (0 m)",
+            "Engine Model": "4TNV88",
+            "Max Torque": "106 lbs/ft",
+            "Net Power": "36 hp (27 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Hydraulic Pump Flow Capacity": "37 gal/min (140 l/min)",
+            "Hydraulic System Fluid Capacity": "23.8 gal (87 l)",
+            "Hydraulic System Relief Valve Pressure": "3626 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "11067 lbs (5,020 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "9622 lbs (4,365 kg)",
+            "Ground Pressure": "4 psi",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Shoe Size": "15.8 in (38 cm)",
+            "Track Gauge": "4.8 ft (1 m)"
+        }
+    }
+}

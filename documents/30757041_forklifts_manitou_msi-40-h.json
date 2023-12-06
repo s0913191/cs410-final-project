@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/msi-40-h/30757041",
+    "source_url_id": "30757041",
+    "source_url_model": "msi-40-h",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:19.270980",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "MSI 40 H",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length to Fork Face": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "9.2 ft (3 m)",
+            "Overall Width": "16.3 ft (5 m)",
+            "Turning Radius": "23.3 ft (7 m)"
+        },
+        "Engine": {
+            "Engine Model": "1104C44",
+            "Fuel Type": "diesel",
+            "Power": "84 hp (63 kw)"
+        },
+        "MAST": {
+            "Load Capacity": "8818.5 lbs (4,000 kg)"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2"
+        }
+    }
+}

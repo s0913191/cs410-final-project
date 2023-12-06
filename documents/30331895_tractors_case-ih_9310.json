@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/9310/30331895",
+    "source_url_id": "30331895",
+    "source_url_model": "9310",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:26.408713",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "9310",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "205 hp (153 kw)"
+        },
+        "Production": {
+            "Series": "9300 Series",
+            "Years Manufactured": "1996 - 1999"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ym2820/31084856",
+    "source_url_id": "31084856",
+    "source_url_model": "ym2820",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:55.915310",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "YM2820",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "28 hp (21 kw)"
+        },
+        "Production": {
+            "Series": "YM20 Series",
+            "Years Manufactured": "1982 - 1983"
+        }
+    }
+}

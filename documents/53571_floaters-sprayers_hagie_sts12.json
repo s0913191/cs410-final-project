@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/hagie/sts12/53571",
+    "source_url_id": "53571",
+    "source_url_model": "sts12",
+    "source_url_make": "hagie",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:19.965956",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Hagie",
+    "equipment_model": "STS12",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "104 in (264 cm)",
+            "Min Adjustable Height": "18.2 in (46 cm)",
+            "Number of Sections": "9",
+            "Plumbing Material": "Stainless steel"
+        },
+        "Dimensions": {
+            "Ground Clearance": "6 ft (2 m)",
+            "Tire Size": "380/105R50"
+        },
+        "Engine": {
+            "Displacement": "408.9 cu in (0 m)",
+            "Emission Tier Level": "Final Tier 4",
+            "Engine Make": "John Deere PowerTech - 6.8 liters",
+            "Gross Power": "296.4 hp (221 kw)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "28620.5 lbs (12,982 kg)",
+            "Fuel Capacity": "135 gal (511 l)",
+            "Hydraulic Fluid Capacity": "50 gal (189 l)",
+            "Rinse Tank Capacity": "100 gal (379 l)",
+            "Solution Tank Capacity": "1200 gal (4,542 l)"
+        },
+        "Transmission": {
+            "Max Speed": "34.8 mph (55 kph)"
+        }
+    }
+}

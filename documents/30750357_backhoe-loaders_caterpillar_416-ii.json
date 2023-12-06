@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/416-ii/30750357",
+    "source_url_id": "30750357",
+    "source_url_model": "416-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:29.204499",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "416 II",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "10440 lbs (4,736 kg)",
+            "Bucket Dig Force - Extended": "10260 lbs (4,654 kg)",
+            "Dig Depth": "14.3 ft (4 m)",
+            "Dig Depth - Extended": "18.5 ft (5 m)",
+            "Load Height": "11 ft (3 m)",
+            "Load Height - Extended": "13.3 ft (4 m)",
+            "Reach at Load Height - Extended": "10.5 ft (3 m)",
+            "Reach From Swivel": "17.8 ft (5 m)",
+            "Reach From Swivel - Extended": "21.9 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height to Top of Suspended Cab": "9 ft (3 m)",
+            "Transport Length": "22.5 ft (7 m)",
+            "Transport Width": "7.5 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "235.6 cu in (0 m)",
+            "Engine Model": "4.236",
+            "Gross Power": "67.1 hp (50 kw)",
+            "Net Power": "61.7 hp (45 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "28.6 gal/min (106 l/min)",
+            "Pump Type": "Variable flow",
+            "Relief Valve Pressure": "2700 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "7508.7 lbs (3,406 kg)",
+            "Bucket Capacity": "1 cu yds (1 m)",
+            "Bucket Width": "89.1 in (226 cm)",
+            "Clearance at Max Dump Height": "8.7 ft (2 m)",
+            "Dig Depth": "4.3 in (10 cm)",
+            "Lift Capacity": "2149.6 lbs (975 kg)",
+            "Reach at Max Dump Height": "2.4 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "52  A",
+            "Cooling System Fluid Capacity": "5.6 gal (19 l)",
+            "Front Axle Fluid Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "28.1 gal (106 l)",
+            "Hydraulic System Fluid Capacity": "20.9 gal (76 l)",
+            "Oil System Fluid Capacity": "1.9 gal (4 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 2wd": "13706.2 lbs (6,217 kg)",
+            "Operating Weight 4wd": "13970.7 lbs (6,337 kg)",
+            "Rear Axle Fluid Capacity": "4.9 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "11L-16 10PR/10.5-20 10PR",
+            "Transmission Fluid Capacity": "2.7 gal (8 l)",
+            "Turning Radius": "12.9 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9-24 8PR/ 19.5L-24 8PR"
+        },
+        "Transmission": {
+            "Max Speed": "19.7 mph (31 kph)",
+            "Max Speed - Reverse": "19.8 mph (31 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "fully synchromesh"
+        }
+    }
+}

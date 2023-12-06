@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex-american/hc250/30836134",
+    "source_url_id": "30836134",
+    "source_url_model": "hc250",
+    "source_url_make": "terex-american",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:12.816756",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex American",
+    "equipment_model": "HC250",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "380 ft (116 m)",
+            "Max Lift Capacity": "250 t (226,796 kg)"
+        }
+    }
+}

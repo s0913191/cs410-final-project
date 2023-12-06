@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/john-deere/300d/30750397",
+    "source_url_id": "30750397",
+    "source_url_model": "300d",
+    "source_url_make": "john-deere",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:01.624630",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "300D",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "10230 lbs (4,640 kg)",
+            "Bucket Dig Force - Extended": "10230 lbs (4,640 kg)",
+            "Dig Depth": "13.9 ft (4 m)",
+            "Dig Depth - Extended": "17.7 ft (5 m)",
+            "Load Height": "10.8 ft (3 m)",
+            "Load Height - Extended": "12.8 ft (4 m)",
+            "Reach at Load Height - Extended": "24.3 ft (7 m)",
+            "Reach From Swivel": "17.3 ft (5 m)",
+            "Reach From Swivel - Extended": "20.9 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height to Top of Suspended Cab": "8.8 ft (2 m)",
+            "Transport Length": "22.5 ft (7 m)",
+            "Transport Width": "7.6 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "4039D",
+            "Gross Power": "63 hp (47 kw)",
+            "Net Max Torque": "172 lbs/ft",
+            "Net Power": "60 hp (45 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "24 gal/min (91 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "2700 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "6700 lbs (3,039 kg)",
+            "Bucket Capacity": "1 cu yds (1 m)",
+            "Bucket Width": "84 in (213 cm)",
+            "Clearance at Max Dump Height": "8.9 ft (2 m)",
+            "Dig Depth": "4 in (10 cm)",
+            "Lift Capacity": "1390 lbs (631 kg)",
+            "Reach at Max Dump Height": "2.5 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "28 gal (106 l)",
+            "Hydraulic System Fluid Capacity": "16 gal (61 l)",
+            "Max Weight": "12200 lbs (5,534 kg)",
+            "Oil System Fluid Capacity": "2.3 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 2wd": "12200 lbs (5,534 kg)",
+            "Operating Weight 4wd": "12200 lbs (5,534 kg)",
+            "Tire Size Front - 2wd / 4wd": "11L-15,8PR,I-1A;12-16.5,8PR",
+            "Transmission Fluid Capacity": "1.9 gal (4 l)",
+            "Turning Radius": "12 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9-24,8PR R4;17.5L-24,8PR R4"
+        },
+        "Transmission": {
+            "Max Speed": "20.1 mph (32 kph)",
+            "Max Speed - Reverse": "18 mph (29 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "4-speed helical gear, synchronized collar shift with hydraulic reverser"
+        }
+    }
+}

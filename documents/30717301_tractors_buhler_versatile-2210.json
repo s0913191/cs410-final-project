@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/buhler/versatile-2210/30717301",
+    "source_url_id": "30717301",
+    "source_url_model": "versatile-2210",
+    "source_url_make": "buhler",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:28.334862",
+    "equipment_category": "Tractors",
+    "equipment_make": "Buhler",
+    "equipment_model": "VERSATILE 2210",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.6 in (46 cm)",
+            "Height - Top of ROPS/FOPS": "10.2 ft (3 m)",
+            "Overall Length": "16.6 in (41 cm)",
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "457.7 cu in (0 m)",
+            "Engine Model": "Genesis diesel",
+            "Gross Power": "278 hp (207 kw)",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "210 hp (157 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "31 gal/min (117 l/min)",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "15000 lbs (6,804 kg)",
+            "Alternator Supplied Amperage": "130  A",
+            "Cooling System Fluid Capacity": "7.1 gal (27 l)",
+            "Engine Oil Capacity": "5.6 gal (19 l)",
+            "Fuel Capacity": "109.9 gal (413 l)",
+            "Hydraulic System Fluid Capacity": "37 gal (140 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "9",
+            "Transmission Type": "Genesis full powershift"
+        }
+    }
+}

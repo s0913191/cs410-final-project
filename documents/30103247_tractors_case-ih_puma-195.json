@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/puma-195/30103247",
+    "source_url_id": "30103247",
+    "source_url_model": "puma-195",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:46.061373",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "PUMA 195",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "195 hp (145 kw)"
+        },
+        "Production": {
+            "Series": "Puma Series",
+            "Years Manufactured": "2007 - 2010"
+        }
+    }
+}

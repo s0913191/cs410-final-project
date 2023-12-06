@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/hyundai/hsl500t/30749468",
+    "source_url_id": "30749468",
+    "source_url_model": "hsl500t",
+    "source_url_make": "hyundai",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:14.878839",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HSL500T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "6.9 ft (2 m)",
+            "Ground Clearance": "7.1 in (18 cm)",
+            "Height - Top of Cab": "6 ft (2 m)",
+            "Length w/o Bucket": "7.6 ft (2 m)",
+            "Length with Bucket": "9.6 ft (3 m)",
+            "Reach at Max Lift and Dump": "27.6 in (69 cm)",
+            "Turning Radius from Center - inc bucket": "67.4 in (170 cm)",
+            "Turning Radius from Center - machine rear": "54.1 in (137 cm)",
+            "Wheelbase": "2.8 ft (1 m)",
+            "Width Over Tires": "4.3 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "V1305B",
+            "Gross Power": "30.2 hp (22 kw)",
+            "Power Measured @": "3000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8.8 gal/min (30 l/min)",
+            "Relief Valve Pressure": "2150 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.4 cu yds (0 m)",
+            "Operating Load Rating": "1000 lbs (454 kg)",
+            "Tipping Angle": "1999.6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "11.4 gal (42 l)",
+            "Hydraulic System Fluid Capacity": "9 gal (34 l)",
+            "Max Speed": "5.8 mph (8 kph)",
+            "Operational Weight": "3701.6 lbs (1,679 kg)",
+            "Tire Size": "10.5x15"
+        }
+    }
+}

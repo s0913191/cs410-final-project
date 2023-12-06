@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/new-holland/ls120/26281",
+    "source_url_id": "26281",
+    "source_url_model": "ls120",
+    "source_url_make": "new-holland",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:51.521796",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "LS120",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "5.3 ft (2 m)",
+            "Ground Clearance": "6.7 in (15 cm)",
+            "Height - Top of Cab": "5.8 ft (2 m)",
+            "Length with Bucket": "7.8 ft (2 m)",
+            "Reach at Max Lift and Dump": "21.3 in (53 cm)",
+            "Turning Radius from Center - inc bucket": "57.9 in (145 cm)",
+            "Turning Radius from Center - machine rear": "70.9 in (178 cm)",
+            "Wheelbase": "2.7 ft (1 m)",
+            "Width Over Tires": "3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "38.1 cu in (0 m)",
+            "Engine Model": "CH18",
+            "Gross Power": "18 hp (13 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8 gal/min (30 l/min)",
+            "Pump Type": "New Holland double acting",
+            "Relief Valve Pressure": "1600 psi"
+        },
+        "Loader": {
+            "Breakout Force": "1408.8 psi",
+            "Bucket Capacity": "0.2 cu yds (0 m)",
+            "Operating Load Rating": "599.7 lbs (272 kg)",
+            "Tipping Angle": "1199.4  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "20  A",
+            "Engine Oil Fluid Capacity": "0.5 gal (0 l)",
+            "Fuel Capacity": "6 gal (23 l)",
+            "Hydraulic System Fluid Capacity": "9.1 gal (34 l)",
+            "Max Speed": "5.8 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "2050.3 lbs (930 kg)",
+            "Tire Size": "12x16.5"
+        }
+    }
+}

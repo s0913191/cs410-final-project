@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/gehl/753z/11982",
+    "source_url_id": "11982",
+    "source_url_model": "753z",
+    "source_url_make": "gehl",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:26.618365",
+    "equipment_category": "Excavators",
+    "equipment_make": "Gehl",
+    "equipment_model": "753Z",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "21.8 ft (6 m)",
+            "Max Digging Depth": "13.3 ft (4 m)",
+            "Max Loading Height": "14.8 ft (4 m)",
+            "Max Reach Along Ground": "23.2 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "11.2 ft (3 m)",
+            "Shipping Length of Unit": "21.3 ft (6 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "22.4 ft (7 m)",
+            "Max Digging Depth": "14.2 ft (4 m)",
+            "Max Loading Height": "15.4 ft (5 m)",
+            "Max Reach Along Ground": "24.2 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "12.2 ft (4 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.5 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.3 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Tail Swing Radius": "3.8 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "202 cu in (0 m)",
+            "Engine Model": "Yanmar 4TNV98-VNS, A TIER II",
+            "Gross Power": "69 hp (51 kw)",
+            "Net Power": "57 hp (43 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "88  A",
+            "Fuel Capacity": "24.6 gal (91 l)",
+            "Hydraulic Pump Flow Capacity": "55.4 gal/min (208 l/min)",
+            "Hydraulic System Fluid Capacity": "26.2 gal (98 l)",
+            "Hydraulic System Relief Valve Pressure": "3771 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "16975 lbs (7,700 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.7 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5 psi",
+            "Max Travel Speed": "3.1 mph (5 kph)",
+            "Number of Track Rollers per Side": "5",
+            "Shoe Size": "17.8 in (43 cm)"
+        }
+    }
+}

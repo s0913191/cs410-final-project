@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/volvo/p7170b/30761081",
+    "source_url_id": "30761081",
+    "source_url_model": "p7170b",
+    "source_url_make": "volvo",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:42.665938",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Volvo",
+    "equipment_model": "P7170B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Volvo",
+            "Model": "D8 Tier IV Final"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "13 lbs (6 kg)",
+            "Paving Speed": "297 ft/min",
+            "Paving Width - max": "26 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "39112 lbs (17,741 kg)"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/gmk4085b/30862455",
+    "source_url_id": "30862455",
+    "source_url_model": "gmk4085b",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:27.141801",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "GMK4085B",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "84  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "125 ft (38 m)",
+            "Max Lift Capacity": "162000 lbs (73,483 kg)",
+            "Max Working Radius": "110 ft (34 m)",
+            "Min Height @ Max Raise Angle": "38 ft (12 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.4 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "335.3 hp (250 kw)",
+            "Make": "Grove",
+            "Max Torque": "1106.4 lbs/ft",
+            "Model": "OM 442A",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "33.2 ft (10 m)",
+            "Transport Height": "12.2 ft (4 m)",
+            "Transport Length": "43.3 ft (13 m)",
+            "Transport Width": "9.4 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "11.5 ft (3 m)",
+            "Width w/ Outriggers Extended": "23.7 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Carrier Fuel Capacity": "132.1 gal (500 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "89630 lbs (40,656 kg)",
+            "Tire Size": "20.5R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46 mph (74 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "automatic powershift"
+        }
+    }
+}

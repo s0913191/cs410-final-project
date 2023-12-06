@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/ex5500-5/13967",
+    "source_url_id": "13967",
+    "source_url_model": "ex5500-5",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:00:36.239762",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EX5500-5",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Max Cutting Height": "67.6 ft (20 m)",
+            "Max Dig Depth": "29.6 ft (9 m)",
+            "Max Dump Height": "42.7 ft (13 m)",
+            "Max Reach on Ground": "66 ft (20 m)",
+            "Max Vertical Wall Dig Depth": "18.1 ft (5 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "40.1 cu yds (31 m)",
+            "Minimum Bucket Capacity": "35.4 cu yds (27 m)",
+            "Reference Bucket Capacity": "35.4 cu yds (27 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "29 ft (9 m)",
+            "Digging Reach": "29 ft (9 m)",
+            "Height - Top of Cab": "27.9 ft (8 m)",
+            "Height of Tracks": "9 ft (3 m)",
+            "Length of Track on Ground": "23 ft (7 m)",
+            "Length of Tracks": "30.7 ft (9 m)",
+            "Upper Structure Ground Clearance": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "5492 cu in (0 m)",
+            "Engine Model": "QSK45-C",
+            "Gross Power": "2700 hp (2,013 kw)",
+            "Net Power": "2604 hp (1,942 kw)",
+            "Number of Cylinders": "12",
+            "Power Measured @": "1800 rpm"
+        },
+        "Loading Shovel": {
+            "Max Cutting Height": "62.1 ft (19 m)",
+            "Max Dig Depth": "15 ft (5 m)",
+            "Max Dig Reach": "54.5 ft (16 m)",
+            "Max Dump Height": "43 ft (13 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "150  A",
+            "Cooling System Fluid Capacity": "200 gal (757 l)",
+            "Engine Oil Capacity": "137.4 gal (519 l)",
+            "Fuel Capacity": "2750 gal (10,409 l)",
+            "Hydraulic System Fluid Capacity": "1640 gal (6,207 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "1142000 lbs (518,008 kg)",
+            "Swing Speed": "3.3 rpm"
+        },
+        "Undercarriage": {
+            "Backhoe Ground Pressure - Shoe 1": "33.4 psi",
+            "Backhoe Operating Weight - Shoe 1": "1141994.5 lbs (518,005 kg)",
+            "Backhoe Shoe Width 1": "55.2 in (140 cm)",
+            "Loading Shovel Ground Pressure": "33.4 psi",
+            "Loading Shovel Operating Weight": "1141994.5 lbs (518,005 kg)",
+            "Loading Shovel Shoe Width": "55.2 in (140 cm)",
+            "Max Travel Speed": "1.4 mph (2 kph)",
+            "Number of Lower Rollers": "7",
+            "Number of Track Shoes per Side": "39",
+            "Number of Upper Rollers": "3",
+            "Tail Swing Radius": "25.5 ft (8 m)",
+            "Track Gauge": "19.7 ft (6 m)"
+        }
+    }
+}

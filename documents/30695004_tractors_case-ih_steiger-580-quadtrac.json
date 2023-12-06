@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/steiger-580-quadtrac/30695004",
+    "source_url_id": "30695004",
+    "source_url_model": "steiger-580-quadtrac",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:03.289957",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "STEIGER 580 QUADTRAC",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "580 hp (433 kw)"
+        },
+        "Production": {
+            "Series": "Steiger Quadtrac Series",
+            "Years Manufactured": "2014 -"
+        }
+    }
+}

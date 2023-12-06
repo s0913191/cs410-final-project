@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/mercedes-benz/1833ak-2004/30759160",
+    "source_url_id": "30759160",
+    "source_url_model": "1833ak-2004",
+    "source_url_make": "mercedes-benz",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:57:08.803173",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Mercedes-Benz",
+    "equipment_model": "1833AK (2004)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.9 in (30 cm)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Number of Rear Axles": "1",
+            "Tire Size": "12R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length from Back of Cab to End of Frame": "171.7 in (434 cm)",
+            "Length From Back of Cab to End of Frame": "171.66 in (434 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "45.28 in (114 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "45.3 in (114 cm)",
+            "Overall Length": "20.6 ft (6 m)",
+            "Total Chassis Weight": "12786.9 lbs (5,800 kg)",
+            "Total GVW": "39683.3 lbs (18,000 kg)",
+            "Turning Radius": "25.1 ft (8 m)",
+            "Wheelbase": "141.8 in (358 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length From Back of Cab to End of Frame": "183.47 in (465 cm)",
+            "Length from Back of Cab to End of Frame": "183.5 in (465 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "45.28 in (114 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "45.3 in (114 cm)",
+            "Overall Length": "21.6 ft (6 m)",
+            "Total Chassis Weight": "12853 lbs (5,830 kg)",
+            "Total GVW": "39683.3 lbs (18,000 kg)",
+            "Turning Radius": "26.6 ft (8 m)",
+            "Wheelbase": "153.6 in (389 cm)"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/txl-250-2/30761197",
+    "source_url_id": "30761197",
+    "source_url_model": "txl-250-2",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:51.022137",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TXL 250-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Doosan",
+            "Net Power": "170 hp (127 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.25 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "30865 lbs (14,000 kg)"
+        }
+    }
+}

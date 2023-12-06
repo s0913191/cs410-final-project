@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/john-deere/310k/75234",
+    "source_url_id": "75234",
+    "source_url_model": "310k",
+    "source_url_make": "john-deere",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:10.884384",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "310K",
+    "equipment_spec": {
+        "Backhoe": {
+            "Load Height": "10.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height to Top of Suspended Cab": "9 ft (3 m)",
+            "Transport Length": "23.3 ft (7 m)",
+            "Transport Width": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "4.5 cu in (0 m)",
+            "Engine Model": "PowerTech E4045HTO86",
+            "Net Power": "87 hp (65 kw)",
+            "Net Torque Rise": "0.43",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "28 gal/min (106 l/min)",
+            "Pump Type": "Open center, single gear",
+            "Relief Valve Pressure": "3625 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "9352.1 lbs (4,242 kg)",
+            "Bucket Capacity": "1 cu yds (1 m)",
+            "Bucket Width": "86 in (218 cm)",
+            "Clearance at Max Dump Height": "8.9 ft (2 m)",
+            "Dig Depth": "6.3 in (15 cm)",
+            "Lift Capacity": "6600 lbs (2,994 kg)",
+            "Reach at Max Dump Height": "2.6 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.7 gal (30 l)",
+            "Fuel Capacity": "41 gal (155 l)",
+            "Hydraulic System Fluid Capacity": "23.6 gal (87 l)",
+            "Max Weight": "13993 lbs (6,347 kg)",
+            "Oil System Fluid Capacity": "3.5 gal (11 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "14469 lbs (6,563 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "20.6 mph (32 kph)"
+        }
+    }
+}

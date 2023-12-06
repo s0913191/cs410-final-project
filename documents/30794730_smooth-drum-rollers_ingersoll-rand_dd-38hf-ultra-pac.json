@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd-38hf-ultra-pac/30794730",
+    "source_url_id": "30794730",
+    "source_url_model": "dd-38hf-ultra-pac",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:34.839120",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD-38HF ULTRA-PAC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Outside": "153.8 in (389 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54.1 in (137 cm)",
+            "Vibration Frequency": "4200 hz (252,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "58.6 in (147 cm)"
+        }
+    }
+}

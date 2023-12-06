@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/60z7/30761288",
+    "source_url_id": "30761288",
+    "source_url_model": "60z7",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:12.050068",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "60Z7",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.6 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Deutz",
+            "Model": "TCD36",
+            "Net Power": "95 hp (71 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2 - 2.40 cu yds (2 - 2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "17900 lbs (8,119 kg)"
+        }
+    }
+}

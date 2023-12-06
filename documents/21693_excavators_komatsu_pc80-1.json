@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc80-1/21693",
+    "source_url_id": "21693",
+    "source_url_model": "pc80-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:29.986804",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC80-1",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "18.9 ft (5 m)",
+            "Max Digging Depth": "13.8 ft (4 m)",
+            "Max Loading Height": "12.4 ft (4 m)",
+            "Max Reach Along Ground": "20.9 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "10.4 ft (3 m)",
+            "Shipping Height of Unit": "8.7 ft (2 m)",
+            "Shipping Length of Unit": "20 ft (6 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "19.3 ft (6 m)",
+            "Max Digging Depth": "15.4 ft (5 m)",
+            "Max Loading Height": "13.1 ft (4 m)",
+            "Max Reach Along Ground": "22.4 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "12.3 ft (4 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "19.5 ft (6 m)",
+            "Max Digging Depth": "15.3 ft (5 m)",
+            "Max Loading Height": "13.2 ft (4 m)",
+            "Max Reach Along Ground": "22.3 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "12.4 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Removal Counterweight Clearance": "3 ft (1 m)",
+            "Tail Swing Radius": "5.8 ft (2 m)",
+            "Width to Outside of Tracks": "7.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "264.2 cu in (0 m)",
+            "Engine Model": "4D105",
+            "Max Torque": "180.8 lbs/ft",
+            "Net Power": "60 hp (45 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Hydraulic Pump Flow Capacity": "69.3 gal/min (261 l/min)",
+            "Hydraulic System Fluid Capacity": "37 gal (140 l)",
+            "Hydraulic System Relief Valve Pressure": "2987 psi",
+            "Operating Weight": "16975.6 lbs (7,700 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.4 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5 psi",
+            "Max Travel Speed": "2.4 mph (3 kph)",
+            "Shoe Size": "18.9 in (46 cm)",
+            "Track Gauge": "5.8 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/komatsu/g930/30760756",
+    "source_url_id": "30760756",
+    "source_url_model": "g930",
+    "source_url_make": "komatsu",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:09.314274",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "G930",
+    "equipment_spec": {
+        "Blades": {
+            "Maximum Shoulder Reach Outside of Tires - Left": "80 in (203 cm)",
+            "Maximum Shoulder Reach Outside of Tires - Right": "79 in (201 cm)",
+            "Moldboard Sideshift - Left": "21.5 in (53 cm)",
+            "Moldboard Sideshift - Right": "26.5 in (66 cm)"
+        },
+        "Circle": {
+            "Max Lift Above Ground": "17.5 in (43 cm)"
+        },
+        "Engine": {
+            "Base Power (1st Gear) - Net": "155 hp (116 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "25 (standard) in (64 cm)",
+            "Moldboard Length": "12 (standard) ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "34830 lbs (15,799 kg)"
+        },
+        "Steering System": {
+            "Articulation Angle": "23  \t\u00b0",
+            "Turning Radius": "23.8 ft (7 m)"
+        }
+    }
+}

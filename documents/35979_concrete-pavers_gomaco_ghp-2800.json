@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/concrete-pavers/gomaco/ghp-2800/35979",
+    "source_url_id": "35979",
+    "source_url_model": "ghp-2800",
+    "source_url_make": "gomaco",
+    "source_url_category": "concrete-pavers",
+    "source_date_scraped": "2023-09-13 17:53:03.431552",
+    "equipment_category": "Concrete Pavers",
+    "equipment_make": "Gomaco",
+    "equipment_model": "GHP-2800",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "Caterpillar",
+            "Make": "Caterpillar"
+        },
+        "Hopper/Paver": {
+            "Paving Speed": "73.0 ft/min",
+            "Paving Width - max": "32 ft (10 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "82000 lbs (37,195 kg)"
+        }
+    }
+}

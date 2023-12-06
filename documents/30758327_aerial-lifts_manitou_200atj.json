@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/manitou/200atj/30758327",
+    "source_url_id": "30758327",
+    "source_url_model": "200atj",
+    "source_url_make": "manitou",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:36.982583",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "200ATJ",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17 in (43 cm)",
+            "Overall Height - mast lowered": "10.4 ft (3 m)",
+            "Overall Length": "27.9 in (69 cm)",
+            "Overall Width": "7.9 ft (2 m)",
+            "Turning Radius": "24.5 ft (7 m)",
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V 2403 M",
+            "Fuel Type": "Diesel",
+            "Gross Power": "48.9 hp (36 kw)"
+        },
+        "Performance": {
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "22046.3 lbs (10,000 kg)",
+            "Tire Size": "20''"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "39.4 ft (12 m)",
+            "Max Platform Height": "59.1 ft (18 m)",
+            "Max Platform Weight Capacity": "507.1 lbs (230 kg)",
+            "Max Working Height": "65.7 ft (20 m)",
+            "Platform Inner Length": "82.7 in (208 cm)",
+            "Platform Inner Width": "31.5 in (79 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

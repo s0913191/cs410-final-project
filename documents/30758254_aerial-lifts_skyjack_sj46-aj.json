@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/skyjack/sj46-aj/30758254",
+    "source_url_id": "30758254",
+    "source_url_model": "sj46-aj",
+    "source_url_make": "skyjack",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:57.507337",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Skyjack",
+    "equipment_model": "SJ46 AJ",
+    "equipment_spec": {
+        "Dimensions": {
+            "Axle Oscillation": "41.7 ft (13 m)",
+            "Gradeability": "45%",
+            "Ground Clearance": "15.4 in (38 cm)",
+            "Horizontal Reach": "24.8 ft (7 m)",
+            "Turning Radius - Inside": "8.2 ft (2 m)",
+            "Turning Radius - Outside minimum": "14.9 ft (4 m)",
+            "Up and Over Height": "24.5 ft (7 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Diesel Engine Power": "48 hp (36 kw)",
+            "Dual Fuel Engine Power": "82 hp (61 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "17 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "24.1 gal (91 l)",
+            "Operating Weight": "13300.5 lbs (6,033 kg)",
+            "Tire Fill/Type": "Air Filled",
+            "Tire Size": "12 x 16.5"
+        },
+        "Platform": {
+            "Drive Speed - Platform Elevated": "4.8 mph (6 kph)",
+            "Jib Length": "5 ft (2 m)",
+            "Local Floor Load - no load": "1.4 psi",
+            "Local Floor Load - with rated load": "115 psi",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Maximum no of Persons": "2",
+            "Platform Rotation": "170  \t\u00b0"
+        }
+    }
+}

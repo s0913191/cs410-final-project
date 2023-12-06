@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/asv/vs-60/30685703",
+    "source_url_id": "30685703",
+    "source_url_model": "vs-60",
+    "source_url_make": "asv",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:05.709850",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "ASV",
+    "equipment_model": "VS-60",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "60 hp (45 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2300 lbs (1,043 kg)",
+            "Operating Width": "66 in (168 cm)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-650/30834113",
+    "source_url_id": "30834113",
+    "source_url_model": "mf-650",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:03.844543",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 650",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Overall Length": "15.2 in (38 cm)",
+            "Tire Size": "front 14.9-28 rear 18.4-38",
+            "Wheelbase": "9.6 in (23 cm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "366.2 cu in (0 m)",
+            "Engine Model": "1006.6T",
+            "Gross Power": "138 hp (103 kw)",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "117.8 hp (87 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "7.2 gal/min (27 l/min)",
+            "Relief Valve Pressure": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "8818.5 lbs (4,000 kg)",
+            "Fuel Capacity": "86.2 gal (326 l)",
+            "Operating Weight": "11964.5 lbs (5,427 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "synchromesh"
+        }
+    }
+}

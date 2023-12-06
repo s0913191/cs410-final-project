@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/bitelli/bb651c/1272",
+    "source_url_id": "1272",
+    "source_url_model": "bb651c",
+    "source_url_make": "bitelli",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:47.705962",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Bitelli",
+    "equipment_model": "BB651C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length - With Push Roller and Extend-a-Mat B Screed": "18 ft (5 m)",
+            "Length w/ Screed": "18 ft (5 m)",
+            "Track Contact Length": "7.7 ft (2 m)",
+            "Transport Height": "11.7 ft (3 m)",
+            "Transport Height - Muffler Removed": "8.2 ft (2 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Width w/ Hopper Open": "10.3 ft (3 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Paving Speed": "104.99 ft/min",
+            "Maximum Travel Speed": "2.8 mph (3 kph)"
+        },
+        "Engine": {
+            "Engine Model": "Deutz F5L 914",
+            "Gross Power": "94 hp (70 kw)"
+        },
+        "Hopper": {
+            "Hopper Capacity": "370.8 ft (113 m)"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "6.9 lbs (3 kg)",
+            "Paving Speed - max": "170.7 ft/min",
+            "Paving Width - max": "19.7 ft (6 m)",
+            "Travel Speed - max": "6.9 mph (10 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "37 gal (140 l)",
+            "Hydraulic System Fluid Capacity": "41 gal (155 l)",
+            "Operating Weight w/ Screed": "31967.1 lbs (14,500 kg)",
+            "Operating Weight w/o Screed": "22729.7 lbs (10,310 kg)",
+            "Paving Width Maximum": "19.7 ft (6 m)",
+            "Paving Width Minimum": "8.2 ft (2 m)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "8 gal (30 l)",
+            "Fuel Tank Capacity": "37 gal (140 l)",
+            "Hydraulic Oil Tank": "41 gal (155 l)"
+        },
+        "Weights": {
+            "Operating Weight - With Extend-A-Mat 8-16B Screed": "31967 lbs (14,500 kg)",
+            "Operating Weight - With Screed": "31967 lbs (14,500 kg)",
+            "Tractor Weight": "22729.7 lbs (10,310 kg)"
+        }
+    }
+}

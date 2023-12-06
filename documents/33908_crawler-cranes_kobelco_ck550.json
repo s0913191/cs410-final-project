@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/kobelco/ck550/33908",
+    "source_url_id": "33908",
+    "source_url_model": "ck550",
+    "source_url_make": "kobelco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:37.742165",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Kobelco",
+    "equipment_model": "CK550",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "190 ft (58 m)",
+            "Max Lift Capacity": "55 t (49,895 kg)"
+        }
+    }
+}

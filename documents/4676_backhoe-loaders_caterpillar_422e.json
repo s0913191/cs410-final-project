@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/422e/4676",
+    "source_url_id": "4676",
+    "source_url_model": "422e",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:39.010457",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "422E",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "16.2 ft (5 m)",
+            "Dig Depth - Extended": "19.6 ft (6 m)",
+            "Load Height": "5.4 ft (2 m)",
+            "Load Height - Extended": "14.2 ft (4 m)",
+            "Reach at Load Height - Extended": "8.7 ft (2 m)",
+            "Reach From Swivel": "18.3 ft (5 m)",
+            "Reach From Swivel - Extended": "21.7 ft (6 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Suspended Cab": "9.4 ft (3 m)",
+            "Transport Length": "19 ft (6 m)",
+            "Transport Width": "7.8 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "3054C",
+            "Gross Power": "78 hp (58 kw)",
+            "Net Power": "76 hp (57 kw)",
+            "Net Torque Rise": "0.24",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "33.1 gal/min (125 l/min)",
+            "Pump Type": "Variable-Flow, Axial-Piston",
+            "Relief Valve Pressure": "227 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "8992.4 lbs (4,079 kg)",
+            "Bucket Capacity": "1.4 cu yds (1 m)",
+            "Bucket Width": "94.8 in (239 cm)",
+            "Clearance at Max Dump Height": "8.6 ft (2 m)",
+            "Dig Depth": "3.6 in (8 cm)",
+            "Lift Capacity": "5337.4 lbs (2,421 kg)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Front Axle Fluid Capacity": "3 gal (11 l)",
+            "Fuel Capacity": "38.4 gal (144 l)",
+            "Hydraulic System Fluid Capacity": "10.1 gal (38 l)",
+            "Max Weight": "22487.2 lbs (10,200 kg)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 2wd": "22487.2 lbs (10,200 kg)",
+            "Rear Axle Fluid Capacity": "4.3 gal (15 l)",
+            "Transmission Fluid Capacity": "4.9 gal (15 l)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Power shuttle"
+        }
+    }
+}

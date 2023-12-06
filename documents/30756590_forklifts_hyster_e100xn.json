@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/e100xn/30756590",
+    "source_url_id": "30756590",
+    "source_url_model": "e100xn",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:27:45.068793",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "E100XN",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Tread Range": "40 in (102 cm)",
+            "Gradeability": "11.9%",
+            "Ground Clearance": "3.7 in (8 cm)",
+            "Height to Top of Overhead Guard": "3.2 ft (1 m)",
+            "Length to Fork Face": "9.2 ft (3 m)",
+            "Max Fork Height": "1.1 ft (0 m)",
+            "Overall Height - mast lowered": "7.1 ft (2 m)",
+            "Overall Width": "4.4 ft (1 m)",
+            "Rear Tread Range": "38.3 in (97 cm)",
+            "Right Angle Stack": "13.2 ft (4 m)",
+            "Turning Radius": "7.7 ft (2 m)",
+            "Wheelbase": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Hyster",
+            "Engine Model": "E100XN"
+        },
+        "MAST": {
+            "Lift Speed": "71 ft/min",
+            "Load Capacity": "10000.2 lbs (4,536 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "73 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "5  \t\u00b0",
+            "Max Fork Spread": "158.8 in (401 cm)"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "7708 lbs (3,496 kg)",
+            "Axle load - rear": "10139 lbs (4,599 kg)",
+            "Drawbar Pull": "3322 lbs (1,507 kg)",
+            "Front Tire Size": "22 x 12 x 16",
+            "Max Speed": "10.4 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "12299.6 lbs (5,579 kg)",
+            "Rear Tire Size": "18 x 7 x 12.1",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

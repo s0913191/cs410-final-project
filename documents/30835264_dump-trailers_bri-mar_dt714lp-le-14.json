@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dump-trailers/bri-mar/dt714lp-le-14/30835264",
+    "source_url_id": "30835264",
+    "source_url_model": "dt714lp-le-14",
+    "source_url_make": "bri-mar",
+    "source_url_category": "dump-trailers",
+    "source_date_scraped": "2023-09-13 17:54:04.824567",
+    "equipment_category": "Dump Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "DT714LP LE-14",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x14 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "3555 lbs (1,613 kg)",
+            "Weight Capacity": "10445 lbs (4,738 kg)"
+        }
+    }
+}

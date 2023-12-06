@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/grove/cm20/251649",
+    "source_url_id": "251649",
+    "source_url_model": "cm20",
+    "source_url_make": "grove",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:31.212165",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "CM20",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "78.1 ft (24 m)",
+            "Min Height @ Max Raise Angle": "29.9 ft (9 m)",
+            "Swing Speed": "2 rpm"
+        },
+        "Dimensions": {
+            "Tail Swing Radius": "11.2 ft (3 m)",
+            "Transport Height": "9 ft (3 m)",
+            "Transport Length": "35.7 ft (11 m)",
+            "Transport Width": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "6BTA",
+            "Gross Power": "185.1 hp (138 kw)",
+            "Max Torque": "531.8 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "65 gal (246 l)",
+            "Hydraulic System Fluid Capacity": "77.5 gal (291 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "55131 lbs (25,007 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "5 mph (8 kph)"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "24",
+            "Width of Shoes": "27.6 in (69 cm)"
+        }
+    }
+}

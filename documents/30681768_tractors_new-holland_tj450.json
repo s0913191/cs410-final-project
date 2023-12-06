@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tj450/30681768",
+    "source_url_id": "30681768",
+    "source_url_model": "tj450",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:24.347075",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TJ450",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "317.4 in (805 cm)",
+            "Wheelbase": "12.8 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "909.3 cu in (0 m)",
+            "Engine Make": "New Holland",
+            "Gross Power": "450 hp (336 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "PTO Power": "395 hp (295 kw)",
+            "Stroke": "6.7 in (15 cm)",
+            "Torque": "1743 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center load sensing",
+            "Number of Remote Control Valves": "4 to 9",
+            "Pump Flow Capacity": "35 gal/min (132 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "19500 lbs (8,845 kg)",
+            "3 Point Hitch Type": "III, IVN",
+            "Alternator Supplied Amperage": "135  A",
+            "Cooling System Fluid Capacity": "5.3 gal (19 l)",
+            "Engine Oil Capacity": "13 gal (49 l)",
+            "Fuel Capacity": "300 gal (1,136 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "39323.9 lbs (17,837 kg)"
+        },
+        "Production": {
+            "Series": "TJ I Series",
+            "Years Manufactured": "2002 - 2005"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "19.4 mph (31 kph)",
+            "Max Speed - Reverse": "8.4 mph (13 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

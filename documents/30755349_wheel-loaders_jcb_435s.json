@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/435s/30755349",
+    "source_url_id": "30755349",
+    "source_url_model": "435s",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:47:23.219852",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "435S",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "31023.7 lbs (14,072 kg)",
+            "Bucket Capacity - heaped": "2.5 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.2 cu yds (2 m)",
+            "Bucket Width": "8.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "12.3 ft (4 m)",
+            "Hinge Pin - Max Height": "12.9 ft (4 m)",
+            "Length with Bucket on Ground": "23.7 ft (7 m)",
+            "Reach at Max Lift and Dump": "2.7 ft (1 m)",
+            "Wheelbase": "10.1 ft (3 m)",
+            "Width Over Tires": "9.8 ft (3 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Cyclonic pre-filter with engine fan scavenge system",
+            "Aspiration": "Turbo Charged",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emission Tier Level": "EU Stage IV, US EPA Tier 4F",
+            "Engine Model": "QSB",
+            "Engine Type": "Cummins",
+            "Fan drive type": "Hydraulically driven cooling fan",
+            "Gross Power": "230 hp (172 kw)",
+            "Net Power": "206 hp (154 kw)",
+            "No. of Valves": "4",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "3626": "250 bar psi",
+            "Dump Time": "1.8 sec",
+            "Lower Time": "2.8 sec",
+            "Pump Flow Capacity": "34.9 gal/min (129 l/min)",
+            "Pump Type": "Twin variable displacement piston pumps",
+            "Raise Time": "4.7 sec",
+            "Relief Valve Setting": "3190 psi",
+            "Total cycle": "9.3 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "120  A",
+            "Articulation Angle": "40  \t\u00b0",
+            "Auxiliary fuel tank": "105.7 gal (397 l)",
+            "DEF tank capacity": "10.6 gal (38 l)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Full turn tipping load": "20494.2 lbs (9,296 kg)",
+            "Hydraulic System Fluid Capacity": "55.5 gal (208 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "30986 lbs (14,055 kg)",
+            "Payload": "10247.1 lbs (4,648 kg)",
+            "Rear Axle Oscillation": "10.5  \t\u00b0",
+            "Turning Radius": "19.4 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "32.5 mph (51 kph)",
+            "Max Speed - Reverse": "22.5 mph (35 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "6 speed with lock up converter ZF 6WG210"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-213-dh-4/1766",
+    "source_url_id": "1766",
+    "source_url_model": "bw-213-dh-4",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:18.064127",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 213 DH-4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "5 ft (2 m)",
+            "Ground Clearance": "19.3 in (48 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length": "19.1 in (48 cm)",
+            "Turning Radius - Inside": "153.1 in (389 cm)",
+            "Wheelbase": "9.8 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - MEd": "50582.1 lbs (22,944 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "191 lbs/in",
+            "Vibration Frequency": "1800 - 2,160 hz (108,000 - 129,600 vpm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibration Frequency 2": "36 hz (2,160 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BF4M1013EC",
+            "Gross Power": "155 hp (116 kw)",
+            "Make": "Deutz",
+            "Net Power": "153 hp (114 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Max Speed": "8.7 mph (13 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "27498 lbs (12,473 kg)",
+            "Operating Width": "88.6 in (224 cm)"
+        },
+        "Tires": {
+            "Tires": "23.1-26/12PR"
+        }
+    }
+}

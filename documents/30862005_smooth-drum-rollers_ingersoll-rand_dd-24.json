@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd-24/30862005",
+    "source_url_id": "30862005",
+    "source_url_model": "dd-24",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:33.148339",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD-24",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Overall Length": "8.4 in (20 cm)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Turning Radius - Inside": "119.8 in (302 cm)",
+            "Wheelbase": "5.7 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "7193.9 lbs (3,263 kg)",
+            "Drum Diameter": "28.9 in (71 cm)",
+            "Drum Width": "49.3 in (124 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Vibration Frequency": "4000 hz (240,000 vpm)",
+            "Vibration Frequency 1": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "V2203M",
+            "Make": "Deutz",
+            "Net Power": "44 hp (33 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "18 gal (68 l)",
+            "Hydraulic System Fluid Capacity": "22.5 gal (83 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Weight": "6335 lbs (2,874 kg)",
+            "Operating Width": "52 in (132 cm)"
+        }
+    }
+}

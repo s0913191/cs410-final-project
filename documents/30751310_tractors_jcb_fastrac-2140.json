@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/jcb/fastrac-2140/30751310",
+    "source_url_id": "30751310",
+    "source_url_model": "fastrac-2140",
+    "source_url_make": "jcb",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:56.624071",
+    "equipment_category": "Tractors",
+    "equipment_make": "JCB",
+    "equipment_model": "Fastrac 2140",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Overall Length": "16.9 in (41 cm)",
+            "Tire Size": "480/70R30",
+            "Track Width": "72.1 in (183 cm)",
+            "Wheelbase": "9.3 ft (3 m)",
+            "Width Outside Frame": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Wastegate turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "QSB30",
+            "Gross Power": "155 hp (116 kw)",
+            "Net Power": "142 hp (106 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "132 hp (98 kw)",
+            "Torque Rise": "19%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26.2 gal/min (98 l/min)",
+            "Relief Valve Pressure": "3046 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "13227.8 lbs (6,000 kg)",
+            "3 Point Hitch Type": "Cat. III",
+            "Alternator Supplied Amperage": "150  A",
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Hydraulic System Fluid Capacity": "31.8 gal (117 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "14727 lbs (6,680 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "32 mph (51 kph)",
+            "Number of Forward Gears": "54",
+            "Number of Reverse Gears": "18",
+            "Transmission Type": "6 gear manual synchromesh gearbox"
+        }
+    }
+}

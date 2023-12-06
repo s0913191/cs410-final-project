@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/claas/quadrant-2200-fc/30752324",
+    "source_url_id": "30752324",
+    "source_url_model": "quadrant-2200-fc",
+    "source_url_make": "claas",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:59:21.548527",
+    "equipment_category": "Balers",
+    "equipment_make": "Claas",
+    "equipment_model": "Quadrant 2200 FC",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "2.3 ft (1 m)",
+            "Bale Length - max": "9.9 ft (3 m)",
+            "Bale Length - min": "1.7 ft (0 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "4",
+            "Overall Width": "6.9 ft (2 m)",
+            "Tine to Tine Width": "6.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "8.6 ft (2 m)",
+            "Overall Width": "9.8 ft (3 m)",
+            "Weight": "16755.2 lbs (7,600 kg)"
+        },
+        "Feeding Chamber": {
+            "Packer Type": "3-phase cycle"
+        },
+        "Plunger": {
+            "SPM": "51"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/soil-compactors/volvo/sv510t-iii/30800785",
+    "source_url_id": "30800785",
+    "source_url_model": "sv510t-iii",
+    "source_url_make": "volvo",
+    "source_url_category": "soil-compactors",
+    "source_date_scraped": "2023-09-13 17:46:01.548896",
+    "equipment_category": "Soil Compactors",
+    "equipment_make": "Volvo",
+    "equipment_model": "SV510T-III",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "136 in (345 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "1650 - 2,200 hz (99,000 - 132,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB4.5"
+        },
+        "Operating Specifications": {
+            "Operating Width": "91 in (231 cm)"
+        }
+    }
+}

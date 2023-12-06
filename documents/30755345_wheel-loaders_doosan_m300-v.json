@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/doosan/m300-v/30755345",
+    "source_url_id": "30755345",
+    "source_url_model": "m300-v",
+    "source_url_make": "doosan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:04.842173",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "M300-V",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "40780.4 lbs (18,498 kg)",
+            "Bucket Capacity - heaped": "3.8 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "13.2 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Length with Bucket on Ground": "26.6 ft (8 m)",
+            "Reach at Max Lift and Dump": "9.2 ft (3 m)",
+            "Wheelbase": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "226.7 hp (169 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "92.5 gal (348 l)",
+            "Operating Weight": "38140 lbs (17,300 kg)",
+            "Static Tipping Weight": "29762.5 lbs (13,500 kg)",
+            "Tire Size": "23.5/25"
+        }
+    }
+}

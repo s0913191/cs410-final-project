@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m5-111hdrc/30751425",
+    "source_url_id": "30751425",
+    "source_url_model": "m5-111hdrc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:31:53.976632",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M5-111HDRC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Tread Range": "62.3 in (157 cm)",
+            "Ground Clearance": "19.7 in (48 cm)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Overall Length": "156 in (396 cm)",
+            "Rear Tread Range": "59.8-75.6, 1520-1920 mm in (150 cm)",
+            "Wheelbase": "7.4 ft (2 m)",
+            "Width Outside Frame": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Make": "KUBOTA",
+            "Engine Type": "4 cylinders in-line, Common Rail System, direct injection",
+            "Gross Power": "105.6 hp (78 kw)",
+            "Model Name": "M5-111HDRC",
+            "Net Power": "100 hp (75 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm",
+            "PTO Power": "89 hp (66 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "15.7 gal/min (57 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4629.8 lbs (2,100 kg)",
+            "3 Point Hitch Type": "Category 2",
+            "Alternator Supplied Amperage": "80  A",
+            "Fuel Capacity": "27.8 gal (102 l)",
+            "Operating Weight": "6283.2 lbs (2,850 kg)",
+            "Tire Size Front - 2wd / 4wd": "12.4-24 R1",
+            "Turning Radius": "13.8 ft (4 m)"
+        },
+        "Power Take-Off (PTO)": {
+            "Power Take-Off(PTO) Type": "Live-independent PTO, electro-hydraulic clutch with brake",
+            "PTO speed": "540 rpm"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4-30 R1"
+        },
+        "Transmission": {
+            "Brakes": "Hydraulic wet disc",
+            "Clutch, wet/dry": "Multiple wet disc",
+            "Differential lock": "Limited Slip Differential / mechanical",
+            "Gear type": "Fully synchronized",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "shuttle type": "Electro-hydraulic shuttle",
+            "Steering": "Hydrostatic power steering"
+        }
+    }
+}

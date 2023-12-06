@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/f17d/30715498",
+    "source_url_id": "30715498",
+    "source_url_model": "f17d",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:42.359270",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "F17D",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "21 hp (16 kw)"
+        },
+        "Production": {
+            "Series": "F Series",
+            "Years Manufactured": "1984 - 1994"
+        }
+    }
+}

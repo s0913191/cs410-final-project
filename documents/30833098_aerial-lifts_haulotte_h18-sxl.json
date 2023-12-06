@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/h18-sxl/30833098",
+    "source_url_id": "30833098",
+    "source_url_model": "h18-sxl",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:59.287036",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "H18 SXL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.7 in (25 cm)",
+            "Height w/ Rails": "9.8 ft (3 m)",
+            "Height w/o Rails": "7 ft (2 m)",
+            "Overall Length": "17.4 in (43 cm)",
+            "Overall Width": "7.4 ft (2 m)",
+            "Turning Radius": "20.4 ft (6 m)",
+            "Wheelbase": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Fuel Type": "diesel",
+            "Gross Power": "32.2 hp (24 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "26.5 gal (98 l)",
+            "Max Speed": "3.8 mph (5 kph)",
+            "Operating Weight": "16512.7 lbs (7,490 kg)",
+            "Tire Fill/Type": "foam filled",
+            "Tire Size": "10 x 16.5"
+        },
+        "Platform": {
+            "Deck Extension": "39.4 in (99 cm)",
+            "Lift Time": "60 sec",
+            "Lower Time": "60 sec",
+            "Max Platform Height": "52.5 ft (16 m)",
+            "Max Platform Weight Capacity": "1102.4 lbs (500 kg)",
+            "Max Working Height": "59.1 ft (18 m)",
+            "Platform Inner Length": "287.5 in (729 cm)",
+            "Platform Inner Width": "74.9 in (188 cm)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/bil-jax/tom-cat-15/30774518",
+    "source_url_id": "30774518",
+    "source_url_model": "tom-cat-15",
+    "source_url_make": "bil-jax",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:25:33.646336",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Bil-Jax",
+    "equipment_model": "TOM CAT 15",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "2.2 x 4 lbs (1 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "20.7 ft (6 m)",
+            "Stowed Height": "6.4 ft (2 m)"
+        }
+    }
+}

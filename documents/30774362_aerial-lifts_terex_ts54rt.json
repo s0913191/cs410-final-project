@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/ts54rt/30774362",
+    "source_url_id": "30774362",
+    "source_url_model": "ts54rt",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:39.781576",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "TS54RT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,430 lbs (649 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "AT/55 ft (0 m)",
+            "Stowed Height": "11 ft (3 m)",
+            "Stowed Width": "8 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "12x16.5"
+        },
+        "Transmission": {
+            "4WD": "opt."
+        }
+    }
+}

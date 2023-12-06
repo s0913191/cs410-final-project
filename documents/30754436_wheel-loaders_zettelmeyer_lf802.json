@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/zettelmeyer/lf802/30754436",
+    "source_url_id": "30754436",
+    "source_url_model": "lf802",
+    "source_url_make": "zettelmeyer",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:58:01.788347",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Zettelmeyer",
+    "equipment_model": "LF802",
+    "equipment_spec": {
+        "Dimensions": {
+            "Fork Tine Length": "3.3 ft (1 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Length with  out Forks on Ground": "17.4 ft (5 m)",
+            "Max Lift Height": "18.3 ft (5 m)",
+            "Wheelbase": "7.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "195.3 cu in (0 m)",
+            "Engine Model": "KHD BF 4M 1012 E",
+            "Gross Power": "77.8 hp (57 kw)",
+            "Max Torque": "221.3 lbs/ft",
+            "Net Power": "75.1 hp (56 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.7 gal/min (79 l/min)",
+            "Pump Type": "gear type",
+            "Relief Valve Setting": "3024 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Engine Oil Capacity": "2.4 gal (8 l)",
+            "Front Diff Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Operating Voltage": "24 V V",
+            "Rear Axle Oscillation": "10  \t\u00b0",
+            "Rear Diff Fluid Capacity": "3.1 gal (11 l)",
+            "Static Tipping Load - Forks": "8818.5 lbs (4,000 kg)",
+            "Tire Size": "16/70-24"
+        },
+        "Transmission": {
+            "Max Speed Forward": "12.5 mph (19 kph)",
+            "Max Speed Reverse": "7.8 mph (11 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "full power shift"
+        }
+    }
+}

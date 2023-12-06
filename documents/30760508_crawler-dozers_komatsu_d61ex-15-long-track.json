@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d61ex-15-long-track/30760508",
+    "source_url_id": "30760508",
+    "source_url_model": "d61ex-15-long-track",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:41.519490",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D61EX-15 Long Track",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA6D107E-1",
+            "Net Power": "168 hp (125 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "39727 lbs (18,020 kg)"
+        }
+    }
+}

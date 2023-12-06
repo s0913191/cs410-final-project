@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/zoomlion/bg1000b/30753764",
+    "source_url_id": "30753764",
+    "source_url_model": "bg1000b",
+    "source_url_make": "zoomlion",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:53:01.428189",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Zoomlion",
+    "equipment_model": "BG1000B",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Collecting Conveyor Width": "15.8 in (38 cm)",
+            "Discharge Conveyor Width": "15.8 in (38 cm)"
+        },
+        "Dimensions": {
+            "Max Truck Clearance": "0.7 ft (0 m)"
+        },
+        "Engine": {
+            "Displacement": "366.2 cu in (0 m)",
+            "Engine Model": "1006-6TW",
+            "Gross Power": "177.1 hp (132 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Speed": "114.9 ft/min",
+            "Operating Weight - Full Load": "3747.9 lbs (1,700 kg)",
+            "Travel Speed": "3.8 mph (5 kph)"
+        },
+        "Rotary Cutter": {
+            "Cutter Diameter": "32.3 in (81 cm)",
+            "Cutting Depth": "4.8 in (10 cm)",
+            "Cutting Width": "3.3 ft (1 m)",
+            "Number of Tools": "88",
+            "Tool Spacing": "0.6 in (0 cm)"
+        }
+    }
+}

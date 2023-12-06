@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/d300e-ii/4412",
+    "source_url_id": "4412",
+    "source_url_model": "d300e-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:00.587729",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D300E II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Height": "21.2 ft (6 m)",
+            "Overall Height": "11 ft (3 m)",
+            "Overall Length": "32.9 ft (10 m)",
+            "Overall Width": "9.6 ft (3 m)"
+        },
+        "Dump": {
+            "Dump Angle": "55  \t\u00b0",
+            "Rated Payload": "59965.8 lbs (27,200 kg)"
+        },
+        "Engine": {
+            "Gross Power": "285 hp (213 kw)"
+        },
+        "Weights": {
+            "Total Empty": "50235 lbs (22,786 kg)"
+        }
+    }
+}

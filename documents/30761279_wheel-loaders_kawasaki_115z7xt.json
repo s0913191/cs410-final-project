@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/115z7xt/30761279",
+    "source_url_id": "30761279",
+    "source_url_model": "115z7xt",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:59.782091",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "115Z7XT",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "15.9 ft (5 m)"
+        },
+        "Engine": {
+            "Make": "Isuzu",
+            "Model": "6WG1",
+            "Net Power": "531 hp (396 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "9.15 cu yds (7 m)"
+        },
+        "Weights": {
+            "Operational Weight": "106110 lbs (48,131 kg)"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/gs-3384-rt/31637982",
+    "source_url_id": "31637982",
+    "source_url_model": "gs-3384-rt",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:00.321912",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "GS-3384 RT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Height w/ Rails": "8.8 ft (2 m)",
+            "Height w/o Rails": "6.6 ft (2 m)",
+            "Overall Length": "13 in (33 cm)",
+            "Overall Width": "7 ft (2 m)",
+            "Turning Radius": "19.5 ft (6 m)",
+            "Wheelbase": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "DSG-423",
+            "Fuel Type": "gas/LPG",
+            "Gross Power": "75 hp (56 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "30.1 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "30.1 gal (114 l)",
+            "Max Speed": "4 mph (6 kph)",
+            "Operating Weight": "12004.2 lbs (5,445 kg)",
+            "Tire Fill/Type": "Foam-filled rough terrain",
+            "Tire Size": "10x31"
+        },
+        "Platform": {
+            "Deck Extension": "107.9 in (272 cm)",
+            "Lift Time": "45 sec",
+            "Lower Time": "29 sec",
+            "Max Platform Height": "33.1 ft (10 m)",
+            "Max Platform Weight Capacity": "2500.1 lbs (1,134 kg)",
+            "Max Working Height": "39.6 ft (12 m)",
+            "Platform Inner Length": "156.7 in (396 cm)",
+            "Platform Inner Width": "72.1 in (183 cm)"
+        }
+    }
+}

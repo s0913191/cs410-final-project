@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/soil-compactors/stone/sd200f/30800803",
+    "source_url_id": "30800803",
+    "source_url_model": "sd200f",
+    "source_url_make": "stone",
+    "source_url_category": "soil-compactors",
+    "source_date_scraped": "2023-09-13 17:45:56.271610",
+    "equipment_category": "Soil Compactors",
+    "equipment_make": "Stone",
+    "equipment_model": "SD200F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "136 in (345 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "30.8 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB6.7 Tier 3"
+        },
+        "Operating Specifications": {
+            "Operating Width": "98 in (249 cm)"
+        }
+    }
+}

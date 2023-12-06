@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/mct-78/30760289",
+    "source_url_id": "30760289",
+    "source_url_model": "mct-78",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:20.820464",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "MCT 78",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "167 ft (51 m)",
+            "Max Lift Capacity": "6 t (5,443 kg)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/steyr/360kompakt/30751333",
+    "source_url_id": "30751333",
+    "source_url_model": "360kompakt",
+    "source_url_make": "steyr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:52.028541",
+    "equipment_category": "Tractors",
+    "equipment_make": "Steyr",
+    "equipment_model": "360Kompakt",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "11.3 in (28 cm)",
+            "Wheelbase": "6.8 ft (2 m)",
+            "Width Outside Frame": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "178.8 cu in (0 m)",
+            "Engine Model": "TR14396-2000/25/EC",
+            "Net Power": "59 hp (44 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm",
+            "Torque Rise": "26%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "12.5 gal/min (45 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.9 gal (72 l)",
+            "Operating Weight": "6062.8 lbs (2,750 kg)",
+            "Turning Radius": "12.5 ft (4 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "STEYR Synchro Shift"
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d7r-ii/30750641",
+    "source_url_id": "30750641",
+    "source_url_model": "d7r-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:24.955586",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D7R II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drawbar Height (Center of Clevis) from Ground Face of Shoes": "25 in (64 cm)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Length - Track on Ground": "113.4 in (287 cm)",
+            "Length of Track on Ground": "9.4 ft (3 m)",
+            "Length w/ Blade": "18.7 ft (5 m)",
+            "Length w/o Blade": "15.5 ft (5 m)",
+            "Track Gauge": "6.5 ft (2 m)",
+            "Width Over Tracks": "8.4 ft in (20 cm)"
+        },
+        "Engine": {
+            "Bore": "4.9 in (10 cm)",
+            "Displacement": "629 cu in (0 m)",
+            "Engine Model": "3176C",
+            "Flywheel Power": "240 hp (179 kw)",
+            "Gross Power": "258 hp (192 kw)",
+            "Make": "Cat",
+            "Maximum Flywheel Power": "258 hp (192 kw)",
+            "Model": "3176C",
+            "Net Power": "240 hp (179 kw)",
+            "Net Power - Caterpillar": "240 hp (179 kw)",
+            "Net Power - EU 80/1269": "240 hp (179 kw)",
+            "Net Power - ISO 9249": "240 hp (179 kw)",
+            "Net Power - SAE J1349": "238 hp (177 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5.5 in (13 cm)"
+        },
+        "Hydraulic Controls - Pump": {
+            "Ripper Cylinder Flow": "47.6 gal/min (178 l/min)",
+            "Tilt Cylinder Flow": "21.1 gal/min (79 l/min)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "47.6 gal/min (178 l/min)",
+            "Relief Valve Pressure": "3307 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "20.4 gal (76 l)",
+            "Engine Oil Capacity": "8.2 gal (30 l)",
+            "Final Drives Fluid Capacity": "3.4 gal (11 l)",
+            "Fuel Capacity": "126.5 gal (477 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "56129 lbs (25,460 kg)"
+        },
+        "Ripper": {
+            "Beam Cross Section": "343 x 279 mm 13.5 x 11 in",
+            "Maximum Clearance Raised - Under Tip, Pinned in Bottom Hole": "29.8 in (74 cm)",
+            "Maximum Penetration": "29.4 in (74 cm)",
+            "Maximum Penetration Force": "19100 lbs (8,664 kg)",
+            "Number of Pockets": "3",
+            "Overall Beam Width": "87 in (221 cm)",
+            "Pry-Out Force": "38513 lbs (17,469 kg)",
+            "Ripper Type": "Adjustable Parallelogram",
+            "Weight - Each Additional Shank": "330 lbs (150 kg)",
+            "Weight - With One Shank": "7431 lbs (3,371 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "20.4 gal (76 l)",
+            "Engine Crankcase": "8.2 gal (30 l)",
+            "Final Drive - Each": "3.4 gal (11 l)",
+            "Fuel Tank": "126.5 gal (477 l)",
+            "Pivot Shaft Compartment": "0.5 gal (0 l)",
+            "Power Train": "47 gal (178 l)",
+            "Roller Frames - Each": "6.5 gal (23 l)"
+        },
+        "Standard Blade": {
+            "Capacity": "9 cu yds (7 m)",
+            "Height": "60 in (152 cm)",
+            "Width": "12.1 ft (4 m)"
+        },
+        "Transmission": {
+            "1 Forward": "2.2 mph (3 kph)",
+            "1 Reverse": "2.9 mph (3 kph)",
+            "2 Forward": "3.8 mph (5 kph)",
+            "2 Reverse": "4.9 mph (6 kph)",
+            "3 Forward": "6.6 mph (10 kph)",
+            "3 Reverse": "8.5 mph (13 kph)",
+            "Max Speed - Forward": "6.6 mph (10 kph)",
+            "Max Speed - Reverse": "8.5 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Ground Contact Area": "5016 cu in (0 m)",
+            "Ground Pressure": "10.9 psi",
+            "Grouser Height": "3 in (8 cm)",
+            "Number of Shoes per Side": "40",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22 in (56 cm)",
+            "Track Gauge": "6.5 ft (2 m)",
+            "Track Pitch": "8.5 in (20 cm)"
+        },
+        "Winch": {
+            "Drum Capacity - 29 mm (1.13 in)": "276 ft in (701 cm)",
+            "Drum Diameter": "12.5 in (30 cm)",
+            "Drum Width": "13.3 in (33 cm)",
+            "Ferrule Size (O.D.  Length)": "2.38 in x 2.56 in /   60 mm x 65 mm",
+            "Flange Diameter": "24 in (61 cm)",
+            "Increased Tractor Length - LGP": "29.2 in (74 cm)",
+            "Increased Tractor Length - STD": "29.2 in (74 cm)",
+            "Oil Capacity": "4 gal (15 l)",
+            "Weight": "4176 lbs (1,894 kg)",
+            "Winch and Bracket Length": "57.5 in (145 cm)",
+            "Winch Case - Width": "46.1 in (117 cm)"
+        }
+    }
+}

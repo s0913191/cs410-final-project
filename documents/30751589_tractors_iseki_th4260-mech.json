@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/iseki/th4260-mech/30751589",
+    "source_url_id": "30751589",
+    "source_url_model": "th4260-mech",
+    "source_url_make": "iseki",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:46.533976",
+    "equipment_category": "Tractors",
+    "equipment_make": "Iseki",
+    "equipment_model": "TH4260 Mech",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.7 in (18 cm)",
+            "Overall Length": "9.6 in (23 cm)",
+            "Tire Size": "Front 7-14, Rear 9.5-24",
+            "Wheelbase": "5.5 ft (2 m)",
+            "Width Outside Frame": "4.4 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "87.3 cu in (0 m)",
+            "Net Power": "24 hp (18 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "7.4 gal/min (27 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6.1 gal (23 l)",
+            "Operating Weight": "2105.5 lbs (955 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "13.8 mph (21 kph)",
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

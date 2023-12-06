@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/mower-conditioners-windrowers/massey-ferguson/9635-self-propelled/30753486",
+    "source_url_id": "30753486",
+    "source_url_model": "9635-self-propelled",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "mower-conditioners-windrowers",
+    "source_date_scraped": "2023-09-13 17:08:11.701286",
+    "equipment_category": "Mower Conditioners / Windrowers",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "9635 Self-Propelled",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Wheel Tread Width": "131.9 in (333 cm)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Length w/ Header": "22.2 ft (7 m)",
+            "Rear Wheel tread Width - max": "120 in (305 cm)",
+            "Rear Wheel Tread Width - min": "84.5 in (213 cm)",
+            "Wheelbase": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "403 cu in (0 m)",
+            "Engine Model": "6.6 CTA",
+            "Power": "190 hp (142 kw)"
+        },
+        "Operating Specifications": {
+            "Front Tire Size": "23.1 x 26 Turf Tread",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Operating Weight w/o Attachment": "11180 lbs (5,071 kg)",
+            "Rear Tire Size": "14L x 16.1"
+        },
+        "Transmission": {
+            "Final Drive Type": "Direct Drive Planetary",
+            "Max Speed": "15 mph (24 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

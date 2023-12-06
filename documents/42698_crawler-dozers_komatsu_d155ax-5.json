@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d155ax-5/42698",
+    "source_url_id": "42698",
+    "source_url_model": "d155ax-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:41.313202",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D155AX-5",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Length of Track on Ground": "10.6 ft (3 m)",
+            "Length w/ Blade": "20.7 ft (6 m)",
+            "Length w/o Blade": "16 ft (5 m)",
+            "Width Over Tracks": "8.9 ft in (20 cm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "930.1 cu in (0 m)",
+            "Engine Model": "SA6D140E-2",
+            "Gross Power": "314 hp (234 kw)",
+            "Max Torque": "1156.5 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1250 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "67.4 gal/min (254 l/min)",
+            "Pump type": "gear type",
+            "Relief Valve Pressure": "2987 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "28.3 gal (106 l)",
+            "Engine Oil Capacity": "9.8 gal (34 l)",
+            "Final Drives Fluid Capacity": "15.4 gal (57 l)",
+            "Fuel Capacity": "165.2 gal (625 l)",
+            "Hydraulic Fluid Capacity": "22 gal (83 l)",
+            "Operating Weight": "86002.4 lbs (39,010 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "11.6 cu yds (8 m)",
+            "Height": "67.8 in (170 cm)",
+            "Width": "13 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "8.7 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "HSS"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "6069.9 cu in (0 m)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "41",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "6.9 ft (2 m)"
+        }
+    }
+}

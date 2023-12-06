@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/broderson/ic-80-1g/30332463",
+    "source_url_id": "30332463",
+    "source_url_model": "ic-80-1g",
+    "source_url_make": "broderson",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:21.924856",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Broderson",
+    "equipment_model": "IC-80-1G",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "70  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "28.2 ft (9 m)",
+            "Max Lift Capacity": "18000 lbs (8,165 kg)",
+            "Max Operating Radius": "20 ft (6 m)",
+            "Min Height @ Max Raise Angle": "17 ft (5 m)",
+            "Min Operating Radius": "5 ft (2 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "12.9 ft (4 m)",
+            "Ground Clearance": "0.6 ft (0 m)",
+            "Transport Height": "7.3 ft (2 m)",
+            "Transport Length": "13.4 ft (4 m)",
+            "Transport Width": "6.5 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "4.8 ft (1 m)",
+            "Wheelbase": "7.2 in (18 cm)",
+            "Width w/ Outriggers Extended": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "181 cu in (0 m)",
+            "Engine Model": "GM 3.0 EFI",
+            "Gross Power": "69 hp (51 kw)",
+            "Max Torque": "163 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "66  A",
+            "Fuel Capacity": "20 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "25 gal (95 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "16060 lbs (7,285 kg)",
+            "Tire Size": "10.00x15"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20 mph (32 kph)",
+            "Max Speed - Reverse": "20 mph (32 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "powershift"
+        }
+    }
+}

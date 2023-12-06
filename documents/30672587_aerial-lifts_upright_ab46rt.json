@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/ab46rt/30672587",
+    "source_url_id": "30672587",
+    "source_url_model": "ab46rt",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:59.836169",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "AB46RT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "SP/46.8 ft (0 m)",
+            "Stowed Height": "7.2 ft (2 m)",
+            "Stowed Width": "6.5 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "14x17.5-10 PLY"
+        },
+        "Transmission": {
+            "4WD": "std."
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/hc-275/30784",
+    "source_url_id": "30784",
+    "source_url_model": "hc-275",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:09.043368",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "HC 275",
+    "equipment_spec": {
+        "Boom": {
+            "Max Lift Capacity": "550000 lbs (249,478 kg)"
+        },
+        "Dimensions": {
+            "Transport Height": "11.3 ft (3 m)",
+            "Transport Width": "11.6 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSL9-C",
+            "Net Power": "325 hp (242 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "12 gal (45 l)",
+            "Fuel Capacity": "180 gal (681 l)"
+        }
+    }
+}

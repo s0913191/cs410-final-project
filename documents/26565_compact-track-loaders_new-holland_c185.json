@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/new-holland/c185/26565",
+    "source_url_id": "26565",
+    "source_url_model": "c185",
+    "source_url_make": "new-holland",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:01.672300",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "C185",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "12.6 ft (4 m)",
+            "Ground Clearance": "10.2 in (25 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length - with Bucket": "11.7 ft (3 m)",
+            "Reach at Max Lift and Dump": "2.8 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "80 in (203 cm)",
+            "Width Over Tracks": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbochaged",
+            "Displacement": "201 cu in (0 m)",
+            "Engine Model": "334TM2",
+            "Gross Power": "78 hp (58 kw)",
+            "Net Power": "72 hp (54 kw)",
+            "Number of Cylinders": "3",
+            "Peak Torque": "228 lbs/ft",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "19.3 gal/min (72 l/min)",
+            "Pump Type": "Gear Type",
+            "Relief Valve Pressure": "3050 psi"
+        },
+        "Loader": {
+            "Breakout Force": "7669.9 lbs (3,479 kg)",
+            "Bucket Capacity": "1.1 cu yds (1 m)",
+            "Operating Load": "2500 lbs (1,134 kg)",
+            "Tipping Angle": "7286.3  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Capacity": "2.1 gal (8 l)",
+            "Fuel Capacity": "18 gal (68 l)",
+            "Hydraulic System Fluid Capacity": "15 gal (57 l)",
+            "Max Speed - high range": "8 mph (13 kph)",
+            "Max Speed - low range": "5.1 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9153.6 lbs (4,152 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.5 psi",
+            "Length of Track on Ground": "5.4 ft (2 m)",
+            "Number of Track Rollers per Side": "4",
+            "Track Gauge": "5.5 ft (2 m)",
+            "Width of Track": "17.4 in (43 cm)"
+        }
+    }
+}

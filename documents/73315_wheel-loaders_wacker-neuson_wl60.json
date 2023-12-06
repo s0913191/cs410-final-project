@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/wacker-neuson/wl60/73315",
+    "source_url_id": "73315",
+    "source_url_model": "wl60",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:47.275318",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "WL60",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "1.5 cu yds (1 m)",
+            "Dumping angle, top": "33  \t\u00b0"
+        },
+        "Capacities": {
+            "Fuel Tank": "27.8 gal (102 l)",
+            "Hydraulic oil tank": "25.1 gal (95 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Length with Bucket on Ground": "19.4 ft (6 m)",
+            "Overall length": "15.7 ft (5 m)",
+            "Track Width": "56 in (142 cm)",
+            "Turning Radius": "5.5 ft (2 m)",
+            "Wheelbase": "7.1 ft (2 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "120 A",
+            "Engine Make": "Perkins",
+            "Engine Model": "854F-E34TA",
+            "Gross Power": "102 hp (76 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26 gal/min (98 l/min)",
+            "Relief Valve Pressure": "6454.3 psi"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "405/70-18EM ET0"
+        },
+        "Weights": {
+            "Breakout force maximum": "7898 lbs/ft",
+            "Operating weight": "13007 lbs (5,900 kg)"
+        }
+    }
+}

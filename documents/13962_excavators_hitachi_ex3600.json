@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/ex3600/13962",
+    "source_url_id": "13962",
+    "source_url_model": "ex3600",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:00:29.429579",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EX3600",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Arm Crowd Force": "701.5 lbs/ft",
+            "Max Cutting Height": "58.1 ft (18 m)",
+            "Max Dig Depth": "28.2 ft (9 m)",
+            "Max Dump Height": "38.1 ft (12 m)",
+            "Max Reach on Ground": "57.8 ft (17 m)",
+            "Max Vertical Wall Dig Depth": "13.4 ft (4 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "27.5 cu yds (21 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "25.5 ft (8 m)",
+            "Height of Tracks": "7.6 ft (2 m)",
+            "Length of Track on Ground": "21.9 ft (6 m)",
+            "Length of Tracks": "28.6 ft (9 m)",
+            "Tail Swing Radius": "22.3 ft (7 m)",
+            "Upper Structure Ground Clearance": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, air-cooled intercooler",
+            "Displacement": "3991 cu in (0 m)",
+            "Engine Model": "S16R-Y1TAA1",
+            "Gross Power": "1880 hp (1,402 kw)",
+            "Net Power": "1880 hp (1,402 kw)",
+            "Number of Cylinders": "16",
+            "Power Measured @": "1600 rpm"
+        },
+        "Loading Shovel": {
+            "Arm Crowd Force": "885.1 lbs/ft",
+            "Loading Shovel": "standard",
+            "Max Cutting Height": "53.5 ft (16 m)",
+            "Max Dig Depth": "12.9 ft (4 m)",
+            "Max Dig Reach": "50 ft (15 m)",
+            "Max Dump Height": "36.1 ft (11 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "150  A",
+            "Cooling System Fluid Capacity": "89.9 gal (337 l)",
+            "Engine Oil Capacity": "81.9 gal (307 l)",
+            "Fuel Capacity": "1902.1 gal (7,199 l)",
+            "Hydraulic System Fluid Capacity": "1056.7 gal (3,997 l)",
+            "Operating Voltage": "24 V V",
+            "Swing Speed": "3.2 rpm"
+        },
+        "Undercarriage": {
+            "Backhoe Ground Pressure - Shoe 1": "26.2 psi",
+            "Backhoe Operating Weight - Shoe 1": "767208.7 lbs (348,003 kg)",
+            "Backhoe Shoe Width 1": "50 in (127 cm)",
+            "Loading Shovel Ground Pressure": "26.3 psi",
+            "Loading Shovel Operating Weight": "771617.9 lbs (350,003 kg)",
+            "Loading Shovel Shoe Width": "50 in (127 cm)",
+            "Max Travel Speed": "1.4 mph (2 kph)",
+            "Number of Lower Rollers": "8",
+            "Number of Track Shoes per Side": "38",
+            "Number of Upper Rollers": "3",
+            "Tail Swing Radius": "22.3 ft (7 m)",
+            "Track Gauge": "18.1 ft (5 m)"
+        }
+    }
+}

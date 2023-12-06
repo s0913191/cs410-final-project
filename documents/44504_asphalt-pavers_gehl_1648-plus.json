@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/gehl/1648-plus/44504",
+    "source_url_id": "44504",
+    "source_url_model": "1648-plus",
+    "source_url_make": "gehl",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:15.016381",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Gehl",
+    "equipment_model": "1648 Plus",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "9.6 ft (3 m)",
+            "Transport Height": "7.2 ft (2 m)",
+            "Transport Width": "8.6 ft (2 m)",
+            "Width w/ Hopper Open": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Yanmar",
+            "Net Power": "48 hp (36 kw)",
+            "Power Measured @": "3000 rpm"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "6 lbs (3 kg)",
+            "Paving Speed - max": "131.3 ft/min",
+            "Paving Thickness - max": "0.6 in (0 cm)",
+            "Paving Width - max": "13 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "12.5 gal (45 l)",
+            "Hydraulic System Fluid Capacity": "20 gal (76 l)",
+            "Operating Weight w/ Screed": "10600 lbs (4,808 kg)"
+        }
+    }
+}

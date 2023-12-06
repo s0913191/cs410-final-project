@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/case/dv213/30679415",
+    "source_url_id": "30679415",
+    "source_url_model": "dv213",
+    "source_url_make": "case",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:31.135208",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Case",
+    "equipment_model": "DV213",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "183 in (465 cm)"
+        },
+        "Drum": {
+            "Drum Width": "82.7 in (208 cm)",
+            "Vibration Frequency": "2520 - 3,000 hz (151,200 - 180,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB 4.5"
+        },
+        "Operating Specifications": {
+            "Operating Width": "87.5 in (221 cm)"
+        }
+    }
+}

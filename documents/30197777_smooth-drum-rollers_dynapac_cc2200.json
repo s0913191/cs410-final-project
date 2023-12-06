@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc2200/30197777",
+    "source_url_id": "30197777",
+    "source_url_model": "cc2200",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:15.481004",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC2200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "28.2 in (71 cm)",
+            "Gradeability": "42%",
+            "Ground Clearance": "10.7 in (25 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "176.8 in (447 cm)",
+            "Turning Radius - Inside": "16.7 ft (5 m)",
+            "Turning Radius - Outside": "21.6 ft (6 m)",
+            "Wheelbase": "131.5 in (333 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "17535.1 lbs (7,954 kg)",
+            "Centrifugal Force - Low": "15062.2 lbs (6,832 kg)",
+            "Drum Diameter": "45.3 in (114 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Width": "59.1 in (150 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "141.7 lbs/in",
+            "Vibration Frequency 1": "48 hz (2,880 vpm)",
+            "Vibration Frequency 2": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 3.6 HT",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "73.8 hp (54 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "19841.7 lbs (9,000 kg)",
+            "Operating weight ROPS": "16755.2 lbs (7,600 kg)",
+            "Oscillating angle": "7  \t\u00b0",
+            "Steering Angle": "32  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "198.2 gal (749 l)"
+        }
+    }
+}

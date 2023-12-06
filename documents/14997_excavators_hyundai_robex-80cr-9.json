@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hyundai/robex-80cr-9/14997",
+    "source_url_id": "14997",
+    "source_url_model": "robex-80cr-9",
+    "source_url_make": "hyundai",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:03:48.995697",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hyundai",
+    "equipment_model": "ROBEX 80CR-9",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "13.58 ft (4 m)",
+            "Max Reach Along Ground": "22.83 ft (7 m)"
+        },
+        "Engine": {
+            "Make": "Yanmar"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18410 lbs (8,351 kg)"
+        }
+    }
+}

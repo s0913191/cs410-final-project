@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/m4069le/18247",
+    "source_url_id": "18247",
+    "source_url_model": "m4069le",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:27.397631",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "M4069LE",
+    "equipment_spec": {
+        "Brakes": {
+            "Brakes Type": "Spring Applied Hyd. Released Discs"
+        },
+        "Dimensions": {
+            "Ground Clearance": "8 in (20 cm)",
+            "Overall Height": "9.3 ft (3 m)",
+            "Overall Length": "122 in (310 cm)",
+            "Overall Width": "5.9 ft (2 m)",
+            "Platform Dimension A": "9.7 ft (3 m)",
+            "Platform Dimension B": "5.5 ft (2 m)",
+            "Turning Radius": "15.6 ft (5 m)",
+            "Wheelbase": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "8 x 6V, 370 amp-hours",
+            "Charger Amps": "21",
+            "Fuel tank": "4 gal (15 l)",
+            "Maximum Ground Bearing Pressure": "61 psi"
+        },
+        "Performance": {
+            "Drive Speed - Platform Elevated": "0.4 mph (0 kph)",
+            "Drive Speed - Platform Lowered": "3 mph (5 kph)",
+            "Hydraulic Pump Type": "Single Section Gear Pump",
+            "Hydraulic System Fluid Capacity": "8.5 gal (30 l)",
+            "Maximum Drive Height": "30 ft (9 m)",
+            "Maximum Lift Height": "40 ft (12 m)",
+            "Operating Weight": "10860 lbs (4,926 kg)",
+            "Platform Capacity": "800 lbs (363 kg)",
+            "Tire Size": "240/55 x 17.5 Non-Marking"
+        },
+        "Platform": {
+            "Height of Rails": "3.8 ft (1 m)",
+            "Lift Time": "54 sec",
+            "Lower Time": "50 sec",
+            "Max Platform Height": "5.9 ft (2 m)",
+            "Max Working Height": "40 ft (12 m)",
+            "Platform Capacity - Extension": "250 lbs (113 kg)",
+            "Platform Railing Height": "46 ft (14 m)"
+        }
+    }
+}

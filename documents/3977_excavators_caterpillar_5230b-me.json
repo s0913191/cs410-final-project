@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/5230b-me/3977",
+    "source_url_id": "3977",
+    "source_url_model": "5230b-me",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:19.641485",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "5230B ME",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "31.3 ft (9 m)",
+            "Digging Reach": "31.3 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "734400 lbs (333,122 kg)"
+        }
+    }
+}

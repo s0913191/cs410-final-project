@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/ls-118/23905",
+    "source_url_id": "23905",
+    "source_url_model": "ls-118",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:48.371997",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "LS-118",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "160.1 ft (49 m)",
+            "Min Height @ Max Raise Angle": "40 ft (12 m)",
+            "Swing Speed": "4 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Operating Width": "12.5 ft (4 m)",
+            "Tail Swing Radius": "11.7 ft (3 m)",
+            "Transport Height": "27.3 ft (8 m)",
+            "Transport Width": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "426 cu in (0 m)",
+            "Engine Model": "GM6-71N",
+            "Max Torque": "531 lbs/ft",
+            "Net Power": "178 hp (133 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "58 gal (220 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Max Speed": "2.2 mph (3 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8.1 psi",
+            "Number of Shoes per Side": "47",
+            "Width of Shoes": "30 in (76 cm)"
+        }
+    }
+}

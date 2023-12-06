@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/hm400-5/30761118",
+    "source_url_id": "30761118",
+    "source_url_model": "hm400-5",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:45.149239",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "HM400-5",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6WD"
+        },
+        "Dump": {
+            "Rated Payload": "44.1 t (39,916 kg)"
+        },
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA6D140E-7"
+        },
+        "Weights": {
+            "Operating Weight": "165644 lbs (75,136 kg)"
+        }
+    }
+}

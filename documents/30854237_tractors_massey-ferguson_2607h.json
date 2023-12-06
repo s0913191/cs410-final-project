@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/2607h/30854237",
+    "source_url_id": "30854237",
+    "source_url_model": "2607h",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:21.187955",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2607H",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Production": {
+            "Series": "2600H Series",
+            "Years Manufactured": "2016 -"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/abg/abg9820/30761001",
+    "source_url_id": "30761001",
+    "source_url_model": "abg9820",
+    "source_url_make": "abg",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:45.569275",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "ABG",
+    "equipment_model": "ABG9820",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "9.67 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "19.2 lbs (9 kg)",
+            "Paving Speed": "197 ft/min",
+            "Paving Width - max": "52.42 ft (16 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "55896 lbs (25,354 kg)"
+        }
+    }
+}

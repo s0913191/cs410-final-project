@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/john-deere/ct332/30477321",
+    "source_url_id": "30477321",
+    "source_url_model": "ct332",
+    "source_url_make": "john-deere",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:45.377112",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "CT332",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.6 ft (2 m)",
+            "Ground Clearance": "11 in (28 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length - with Bucket": "11.6 ft (3 m)",
+            "Length - without Bucket": "9.7 ft (3 m)",
+            "Reach at Max Lift and Dump": "2.8 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "83.7 in (211 cm)",
+            "Width Over Tracks": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "186 cu in (0 m)",
+            "Engine Model": "5030Tw",
+            "Gross Power": "82 hp (61 kw)",
+            "Net Power": "76 hp (57 kw)",
+            "Number of Cylinders": "5",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "24 gal/min (91 l/min)",
+            "Relief Valve Pressure": "3100 psi"
+        },
+        "Loader": {
+            "Breakout Force": "11600 lbs (5,262 kg)",
+            "Operating Load": "3201.2 lbs (1,452 kg)",
+            "Tipping Angle": "9200  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "28 gal (106 l)",
+            "Max Speed - high range": "7.9 mph (11 kph)",
+            "Max Speed - low range": "5.3 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10825 lbs (4,910 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.3 psi",
+            "Number of Track Rollers per Side": "5",
+            "Track Gauge": "5.3 ft (2 m)",
+            "Width of Track": "17.8 in (43 cm)"
+        }
+    }
+}

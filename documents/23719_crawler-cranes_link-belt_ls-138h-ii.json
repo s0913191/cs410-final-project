@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/ls-138h-ii/23719",
+    "source_url_id": "23719",
+    "source_url_model": "ls-138h-ii",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:48.844653",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "LS-138H II",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "200 ft (61 m)",
+            "Max Lift Capacity": "80 t (72,575 kg)"
+        }
+    }
+}

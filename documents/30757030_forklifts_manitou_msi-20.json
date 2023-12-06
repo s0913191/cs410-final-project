@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/msi-20/30757030",
+    "source_url_id": "30757030",
+    "source_url_model": "msi-20",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:12.737533",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "MSI 20",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.3 in (25 cm)",
+            "Height to Top of Overhead Guard": "7 ft (2 m)",
+            "Length to Fork Face": "9.7 ft (3 m)",
+            "Max Fork Height": "13.6 ft (4 m)",
+            "Overall Height - mast lowered": "7.6 ft (2 m)",
+            "Overall Width": "4.4 ft (1 m)",
+            "Turning Radius": "14.9 ft (4 m)",
+            "Wheelbase": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "135.3 cu in (0 m)",
+            "Engine Model": "404 C 22T",
+            "Fuel Type": "turbo",
+            "Number of Cylinders": "4",
+            "Power": "60 hp (45 kw)",
+            "Torque": "140.2 lbs/ft",
+            "Torque Measured @": "1800 rpm"
+        },
+        "MAST": {
+            "Load Capacity": "4409.3 lbs (2,000 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Max Fork Spread": "49.7 in (124 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.5 mph (19 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "8465.8 lbs (3,840 kg)",
+            "Tire Type": "Front - 275/70 R 22, 5 / Rear - 7.00 x 12"
+        }
+    }
+}

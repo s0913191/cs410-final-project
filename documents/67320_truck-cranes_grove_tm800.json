@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tm800/67320",
+    "source_url_id": "67320",
+    "source_url_model": "tm800",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:35.578776",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TM800",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "114 ft (35 m)",
+            "Max Lift Capacity": "159835.2 lbs (72,501 kg)",
+            "Min Height @ Max Raise Angle": "36 ft (11 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "568 cu in (0 m)",
+            "Gross Power": "318 hp (237 kw)",
+            "Make": "Grove",
+            "Max Torque": "814 lbs/ft",
+            "Model": "8V-71N",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "35.8 ft (11 m)",
+            "Transport Height": "12.4 ft (4 m)",
+            "Transport Length": "45 ft (14 m)",
+            "Transport Width": "11 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "14 ft (4 m)",
+            "Width w/ Outriggers Extended": "23 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "42  A",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "108065 lbs (49,018 kg)",
+            "Tire Size": "14.00x20-18ply",
+            "Upper Structure Fuel Capacity": "78 gal (295 l)",
+            "Upper Structure Hydraulic System Fluid Capacity": "305 gal (1,154 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "44.3 mph (71 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Fuller T905-B"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "318.4 cu in (0 m)",
+            "Make": "Grove",
+            "Max Torque": "410 lbs/ft",
+            "Model": "6V-53N",
+            "Net Power": "178 hp (133 kw)",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1200 rpm"
+        }
+    }
+}

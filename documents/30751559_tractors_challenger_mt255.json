@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/challenger/mt255/30751559",
+    "source_url_id": "30751559",
+    "source_url_model": "mt255",
+    "source_url_make": "challenger",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:24.774667",
+    "equipment_category": "Tractors",
+    "equipment_make": "Challenger",
+    "equipment_model": "MT255",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Overall Length": "9.8 in (23 cm)",
+            "Tire Size": "Front 25x8.50 - 14 Rear 12.5/80-18",
+            "Wheelbase": "5.4 ft (2 m)",
+            "Width Outside Frame": "4.3 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "89.3 cu in (0 m)",
+            "Gross Power": "28.4 hp (21 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm",
+            "PTO Power": "24.1 hp (18 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "9.9 gal/min (34 l/min)",
+            "Relief Valve Pressure": "2130 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1323 lbs (600 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "6 gal (23 l)",
+            "Operating Weight": "2109 lbs (957 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Constant Mesh"
+        }
+    }
+}

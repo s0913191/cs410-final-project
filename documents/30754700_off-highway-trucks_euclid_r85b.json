@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/euclid/r85b/30754700",
+    "source_url_id": "30754700",
+    "source_url_model": "r85b",
+    "source_url_make": "euclid",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:20.923382",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Euclid",
+    "equipment_model": "R85B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2.5 ft (1 m)",
+            "Dump Height": "31.7 ft (9 m)",
+            "Ground Clearance": "2 ft (1 m)",
+            "Overall Height": "16.8 ft (5 m)",
+            "Overall Length": "33.7 ft (10 m)",
+            "Overall Width": "17.9 ft (5 m)",
+            "Wheelbase": "15.2 ft (5 m)"
+        },
+        "Dump": {
+            "Load Capacity - heaped": "67.1 cu yds (51 m)",
+            "Load Capacity - Struck": "46.6 cu yds (35 m)",
+            "Lower Time": "17 sec",
+            "Raise Time": "13 sec",
+            "Rated Payload": "188054.3 lbs (85,301 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "2300 cu in (0 m)",
+            "Engine Model": "KT38-C",
+            "Gross Power": "925 hp (690 kw)",
+            "Max Torque": "3020 lbs/ft",
+            "Net Power": "865 hp (645 kw)",
+            "Number of Cylinders": "12",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Brake/Hoist System Fluid Capacity": "74 gal (280 l)",
+            "Cooling System Fluid Capacity": "71 gal (269 l)",
+            "Diff and Final Drive Fluid Capacity": "39 gal (148 l)",
+            "Engine Oil Capacity": "37 gal (140 l)",
+            "Fuel Capacity": "265 gal (1,003 l)",
+            "Hydraulic System Fluid Capacity": "104 gal (394 l)",
+            "Operating Voltage": "24 V V",
+            "Steering System Fluid Capacity": "30 gal (114 l)",
+            "Tire Size": "24.00-49(48)E-3"
+        },
+        "Transmission": {
+            "Max Speed": "33.6 mph (53 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "Allison DP-8963 Planetary"
+        },
+        "Weights": {
+            "Empty Weight": "132000 lbs (59,875 kg)",
+            "Loaded Weight": "315300 lbs (143,019 kg)",
+            "Weight Distribution Front - loaded": "33%",
+            "Weight Distribution Rear - loaded": "67%"
+        }
+    }
+}

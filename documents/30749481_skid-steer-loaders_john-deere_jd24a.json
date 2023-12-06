@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/jd24a/30749481",
+    "source_url_id": "30749481",
+    "source_url_model": "jd24a",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:06.770096",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "JD24A",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7 ft (2 m)",
+            "Ground Clearance": "7 in (18 cm)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length w/o Bucket": "7.1 ft (2 m)",
+            "Length with Bucket": "9.9 ft (3 m)",
+            "Reach at Max Lift and Dump": "1.5 in (3 cm)",
+            "Turning Radius from Center - machine rear": "4.3 in (10 cm)",
+            "Wheelbase": "3 ft (1 m)",
+            "Width Over Tires": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Hydrostatic",
+            "Displacement": "112 cu in (0 m)",
+            "Engine Model": "Y-112, 4-cylinder, 4-stroke",
+            "Gross Power": "37 hp (28 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Pressure system with full-flow filter"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.4 cu yds (0 m)",
+            "Operating Load Rating": "1349.3 lbs (612 kg)",
+            "Tipping Angle": "2700.7  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.1 gal (11 l)",
+            "Fuel Capacity": "24 gal (91 l)",
+            "Hydraulic System Fluid Capacity": "18 gal (68 l)",
+            "Max Speed": "6.5 mph (10 kph)",
+            "Operating Speed": "-6.5 mph (-10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "5483 lbs (2,487 kg)",
+            "Tire Size": "10-16.5,steel-cap,4PR/6.50-16,lug tread,solid rubber"
+        }
+    }
+}

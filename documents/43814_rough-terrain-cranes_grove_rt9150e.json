@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt9150e/43814",
+    "source_url_id": "43814",
+    "source_url_model": "rt9150e",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:41.602463",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT9150E",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "196.9 ft (60 m)",
+            "Max Lift Capacity": "260000 lbs (117,935 kg)",
+            "Max Operating Radius": "140 ft (43 m)",
+            "Min Height @ Max Raise Angle": "42.4 ft (13 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.5 rpm"
+        },
+        "Dimensions": {
+            "Gradeability": "70%",
+            "Transport Height": "2.2 ft (1 m)",
+            "Transport Length": "1.9 ft (0 m)",
+            "Transport Width": "16.3 ft (5 m)",
+            "Wheelbase": "194.5 in (493 cm)"
+        },
+        "Engine": {
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "QSC8.3L diesel",
+            "Gross Power": "320.6 hp (239 kw)",
+            "Max Torque": "1020.1 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Max operating pressure": "4000 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "100.2 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "325 gal (1,230 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "174034 lbs (78,941 kg)",
+            "Tire Size": "33.25x29-38bias"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15 mph (24 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full powershift"
+        },
+        "Weights": {
+            "counterweight": "3900 lbs (1,769 kg)"
+        }
+    }
+}

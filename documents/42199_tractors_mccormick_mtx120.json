@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/mccormick/mtx120/42199",
+    "source_url_id": "42199",
+    "source_url_model": "mtx120",
+    "source_url_make": "mccormick",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:14.561854",
+    "equipment_category": "Tractors",
+    "equipment_make": "Mccormick",
+    "equipment_model": "MTX120",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "17 in (43 cm)",
+            "Tire Size": "front 14.9/28 rear 18.4/38",
+            "Wheelbase": "9 ft (3 m)",
+            "Width Outside Frame": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged intercooler",
+            "Displacement": "412 cu in (0 m)",
+            "Gross Power": "114 hp (85 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Rise": "41%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "28.8 gal/min (106 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "12943.4 lbs (5,871 kg)",
+            "3 Point Hitch Type": "Cat IIIN",
+            "Alternator Supplied Amperage": "120  A",
+            "Fuel Capacity": "70.1 gal (265 l)",
+            "Operating Weight": "13007.3 lbs (5,900 kg)",
+            "Turning Radius": "15.3 ft (5 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "12"
+        }
+    }
+}

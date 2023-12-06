@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hd320-3/30754688",
+    "source_url_id": "30754688",
+    "source_url_model": "hd320-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:17.049723",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HD320-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "1.5 ft (0 m)",
+            "Dump Height": "24.7 ft (7 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Overall Height": "12.7 ft (4 m)",
+            "Overall Length": "25.1 ft (8 m)",
+            "Overall Width": "12.1 ft (4 m)",
+            "Wheelbase": "12.4 ft (4 m)"
+        },
+        "Dump": {
+            "Dump Angle": "61  \t\u00b0",
+            "Load Capacity - heaped": "31.4 cu yds (24 m)",
+            "Rated Payload": "61  \t\u00b0"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "855 cu in (0 m)",
+            "Engine Model": "NTA855",
+            "Gross Power": "405 hp (302 kw)",
+            "Rated Engine Speed": "29.1 rpm",
+            "Torque Measured @": "turbocharged rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Komatsu TORQFLOW planetary gear",
+            "Cooling System Fluid Capacity": "35.2 gal (132 l)",
+            "Diff and Final Drive Fluid Capacity": "18.8 gal (68 l)",
+            "Engine Oil Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "132.1 gal (500 l)",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Tire Size": "18.00-25-32"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "64000 gal (242,240 l)"
+        },
+        "Transmission": {
+            "Max Speed": "38.6 mph (61 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "Komatsu TORQFLOW planetary gear"
+        },
+        "Weights": {
+            "Empty Weight": "56769.1 lbs (25,750 kg)",
+            "Loaded Weight": "127317 lbs (57,751 kg)",
+            "Weight Distribution Front - empty": "48%",
+            "Weight Distribution Front - loaded": "32%",
+            "Weight Distribution Rear - empty": "52%",
+            "Weight Distribution Rear - loaded": "68%"
+        }
+    }
+}

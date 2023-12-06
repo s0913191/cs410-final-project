@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/at400s/30862445",
+    "source_url_id": "30862445",
+    "source_url_model": "at400s",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:21.771802",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "AT400S",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "70 ft (21 m)",
+            "Max Working Radius": "43 ft (13 m)",
+            "Min Height @ Max Raise Angle": "27 ft (8 m)",
+            "Min Working Radius": "25 ft (8 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Aspiration": "Turbochanged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Gross Power": "190 hp (142 kw)",
+            "Make": "Grove",
+            "Max Torque": "435.2 lbs/ft",
+            "Model": "Cummins 6BTA 5.9",
+            "Number of cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1700 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "24.3 ft (7 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Transport Height": "10.2 ft (3 m)",
+            "Transport Length": "32.8 ft (10 m)",
+            "Transport Width": "7.9 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11 ft (3 m)",
+            "Wheelbase": "10.1 ft (3 m)",
+            "Width w/ Outriggers Extended": "8.5 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "40 gal (151 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "37776.3 lbs (17,135 kg)",
+            "Tire Size": "16.00R20 - 22PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "55 mph (89 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Fully automatic APC"
+        }
+    }
+}

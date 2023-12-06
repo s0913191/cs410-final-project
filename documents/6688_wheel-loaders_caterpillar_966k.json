@@ -1,0 +1,117 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/966k/6688",
+    "source_url_id": "6688",
+    "source_url_model": "966k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:44.760737",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "966K",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed",
+            "Maximum Single-Wheel Rise and Fall": "19.5 in (48 cm)",
+            "Rear": "Oscillating ?13  \t\u00b0"
+        },
+        "Brakes": {
+            "Brakes": "Meet OSHA, SAE J1473 OCT90 and ISO 3450-1985 required standards"
+        },
+        "Bucket": {
+            "Bucket Capacities": "12 cu yds (9 m)"
+        },
+        "Cab": {
+            "ROPS/FOPS": "Meets SAE and ISO standards"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.8 ft (3 m)",
+            "Length with Bucket on Ground": "29.1 ft (9 m)",
+            "Wheelbase": "11.3 ft (3 m)",
+            "Width Over Tires": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "TURBOCHARGED",
+            "Bore": "4.5 in (10 cm)",
+            "Displacement": "568 cu in (0 m)",
+            "Engine Model": "Cat C9.3 ACERT",
+            "Gross Power": "286 hp (213 kw)",
+            "Maximum Net Power - 1,800 rpm - EEC 80/1269": "267 hp (199 kw)",
+            "Maximum Net Power - 1,800 rpm - EEC 80/1269 - Metric": "271 hp (202 kw)",
+            "Net Power": "262 hp (195 kw)",
+            "Net Power - ISO 9249": "267 hp (199 kw)",
+            "Number of Cylinders": "6",
+            "Peak Net Torque - 1,400 rpm - SAE J1349": "940 lbs/ft",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5.9 in (13 cm)",
+            "Torque Measured @": "1400 rpm",
+            "Torque Rise": "38%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Hydraulic Cycle Time - Dump, at Maximum Raise": "1.5 sec",
+            "Hydraulic Cycle Time - Lower, Empty, Float Down": "2.4 sec",
+            "Hydraulic Cycle Time - Raise from Carry Position": "5.9 sec",
+            "Hydraulic Cycle Time - Total": "9.8 sec",
+            "Implement System - Maximum Operating Pressure": "4496 psi",
+            "Implement System - Optional 3rd Function Maximum Flow": "79.3 gal/min (299 l/min)",
+            "Implement System - Optional 3rd Function Maximum Pressure": "3000 psi",
+            "Lower Time": "2.4 sec",
+            "Pump Flow Capacity": "80.6 gal/min (303 l/min)",
+            "Pump Type": "PISTON",
+            "Raise Time": "5.9 sec",
+            "Relief Valve Setting": "1000 psi",
+            "Steering System - Pump Type": "Piston"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Breakout Force": "38984 lbs (17,683 kg)",
+            "Cooling System Fluid Capacity": "10.3 gal (38 l)",
+            "Engine Oil Fluid Capacity": "9.3 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "16.9 gal (61 l)",
+            "Fuel Capacity": "100.4 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "29 gal (110 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "52254 lbs (23,702 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "16.9 gal (61 l)",
+            "Static Tipping Weight": "38354 lbs (17,397 kg)",
+            "Tire Size": "25",
+            "Transmission Fluid Capacity": "11.6 gal (42 l)",
+            "Turning Radius": "24.2 ft (7 m)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "17.2 gal (64 l)",
+            "Crankcase": "6.5 gal (23 l)",
+            "Differential - Final Drives - Front": "16.9 gal (61 l)",
+            "Differential - Final Drives - Rear": "16.9 gal (61 l)",
+            "Fuel Tank - Standard": "101 gal (382 l)",
+            "Hydraulic Tank": "52.3 gal (197 l)",
+            "Transmission": "13.2 gal (49 l)"
+        },
+        "Sound": {
+            "Standards": "Standards"
+        },
+        "Tires": {
+            "Tires": "Choices"
+        },
+        "Transmission": {
+            "Forward - 1": "4.2 mph (6 kph)",
+            "Forward - 2": "7.8 mph (11 kph)",
+            "Forward - 3": "13.9 mph (21 kph)",
+            "Forward - 4": "23.2 mph (37 kph)",
+            "Max Speed - Forward": "23.2 mph (37 kph)",
+            "Max Speed - Reverse": "23.2 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Reverse - 1": "4.9 mph (6 kph)",
+            "Reverse - 2": "8.5 mph (13 kph)",
+            "Reverse - 3": "14.6 mph (23 kph)",
+            "Reverse - 4": "23.9 mph (37 kph)",
+            "Transmission Type": "POWERSHIFT"
+        },
+        "Weights": {
+            "Operating Weight": "53311 lbs (24,182 kg)"
+        }
+    }
+}

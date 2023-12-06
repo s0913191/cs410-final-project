@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-141-ad-2/178035",
+    "source_url_id": "178035",
+    "source_url_model": "bw-141-ad-2",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:59.363190",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 141 AD-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "5.5 ft (2 m)",
+            "Turning Radius - Inside": "150.6 in (381 cm)"
+        },
+        "Drum": {
+            "Drum Width": "59.1 in (150 cm)",
+            "Frequency": "2400 - 3,000 hz (144,000 - 180,000 vpm)",
+            "Vibration Frequency": "2,400-3,000 hz (144,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "66.1 in (168 cm)"
+        }
+    }
+}

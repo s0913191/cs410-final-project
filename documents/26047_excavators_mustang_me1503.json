@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/mustang/me1503/26047",
+    "source_url_id": "26047",
+    "source_url_model": "me1503",
+    "source_url_make": "mustang",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:16:34.637457",
+    "equipment_category": "Excavators",
+    "equipment_make": "Mustang",
+    "equipment_model": "ME1503",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "12.4 ft (4 m)",
+            "Max Digging Depth": "7.2 ft (2 m)",
+            "Max Loading Height": "8.4 ft (2 m)",
+            "Max Reach Along Ground": "12.1 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "4.8 ft (1 m)",
+            "Shipping Height of Unit": "7.9 ft (2 m)",
+            "Shipping Length of Unit": "12.5 ft (4 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "14 ft (4 m)",
+            "Max Digging Depth": "7.8 ft (2 m)",
+            "Max Loading Height": "8.8 ft (2 m)",
+            "Max Reach Along Ground": "12.8 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "5.5 ft (2 m)",
+            "Shipping Height of Unit": "7.9 ft (2 m)",
+            "Shipping Length of Unit": "12.5 ft (4 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.7 ft (0 m)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Length of Track on Ground": "4 ft (1 m)",
+            "Removal Counterweight Clearance": "0.8 ft (0 m)",
+            "Tail Swing Radius": "0.9 ft (0 m)",
+            "Width to Outside of Tracks": "0.8 ft (0 m)"
+        },
+        "Engine": {
+            "Displacement": "68.1 cu in (0 m)",
+            "Engine Model": "3TVN76-SNS",
+            "Gross Power": "26 hp (19 kw)",
+            "Net Power": "18 hp (13 kw)",
+            "Number of Cylinders": "3"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "18.7 gal/min (68 l/min)",
+            "Hydraulic System Relief Valve Pressure": "2900 psi",
+            "Operating Weight": "3759 lbs (1,705 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "4343 lbs (1,970 kg)",
+            "Ground Pressure": "3.9 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Track Rollers per Side": "3",
+            "Shoe Size": "9 in (23 cm)",
+            "Track Gauge": "4.1 ft (1 m)"
+        }
+    }
+}

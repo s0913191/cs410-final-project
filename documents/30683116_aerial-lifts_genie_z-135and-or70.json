@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/z-135and-or70/30683116",
+    "source_url_id": "30683116",
+    "source_url_model": "z-135and-or70",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:08.800272",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "Z-135/70",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "20.1 in (51 cm)",
+            "Overall Height - mast lowered": "10.1 ft (3 m)",
+            "Overall Length": "42.5 in (107 cm)",
+            "Overall Width": "8.1 ft (2 m)",
+            "Turning Radius": "25.5 ft (8 m)",
+            "Wheelbase": "13.5 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "TD 2011 L04i",
+            "Fuel Type": "Diesel",
+            "Gross Power": "78 hp (58 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "65.1 gal (246 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "44899.4 lbs (20,366 kg)",
+            "Tire Fill/Type": "Foam",
+            "Tire Size": "445/65 D22.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "59.2 ft (18 m)",
+            "Max Platform Height": "135.1 ft (41 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "141.6 ft (43 m)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "35.9 in (89 cm)",
+            "Platform Rotation": "160  \t\u00b0"
+        }
+    }
+}

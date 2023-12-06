@@ -1,0 +1,104 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/730c2/30672406",
+    "source_url_id": "30672406",
+    "source_url_model": "730c2",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:18.426606",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "730C2",
+    "equipment_spec": {
+        "Body Capacities": {
+            "Heaped (SAE 2:1)": "23 cu yds (18 m)",
+            "Struck": "17.4 cu yds (13 m)",
+            "Tailgate Heaped SAE 2:1": "24.6 cu yds (18 m)",
+            "Tailgate Struck": "18.2 cu yds (14 m)"
+        },
+        "Body Hoist": {
+            "Lower Time": "8 sec",
+            "Raise Time": "12 sec"
+        },
+        "Body Plate": {
+            "Body Plate Type": "High strength Brinell HB450 wear resistant steel"
+        },
+        "Body Plate Thickness": {
+            "Base": "0.6 in (0 cm)",
+            "Front": "0.3 in (0 cm)",
+            "Side": "0.5 in (0 cm)"
+        },
+        "Dump": {
+            "Rated Payload": "68343.3 lbs (31,000 kg)"
+        },
+        "Engine": {
+            "Bore": "5.2 in (13 cm)",
+            "Displacement": "763 cu in (0 m)",
+            "Engine Model": "Cat C13",
+            "Engine Model - U.S. EPA Tier 4 Final/EU Stage IV": "Cat C13 ACERT",
+            "Gross Power - SAE J1995": "375 hp (280 kw)",
+            "Net Power - ISO 14396": "370 hp (276 kw)",
+            "Net Power - SAE J1349": "367 hp (274 kw)",
+            "No Engine De-rating Required Below": "12500 ft (3,810 m)",
+            "Peak Engine Torque Gross (SAE J1995)": "1579 lbs/ft",
+            "Peak Engine Torque Net (ISO 14396)": "1564 lbs/ft",
+            "Peak Engine Torque Speed": "1200 rpm",
+            "Stroke": "6.2 in (15 cm)"
+        },
+        "Operating Weights": {
+            "Center Axle - Empty": "9987 lbs (4,530 kg)",
+            "Center Axle - Loaded": "37236 lbs (16,890 kg)",
+            "Center Axle - Rated Load": "27249 lbs (12,360 kg)",
+            "Front Axle - Empty": "32882 lbs (14,915 kg)",
+            "Front Axle - Loaded": "40113 lbs (18,195 kg)",
+            "Front Axle - Rated Load": "7231 lbs (3,280 kg)",
+            "Rear Axle - Empty": "9436 lbs (4,280 kg)",
+            "Rear Axle - Loaded": "36685 lbs (16,640 kg)",
+            "Rear Axle - Rated Load": "27249 lbs (12,360 kg)",
+            "Total - Empty": "52305 lbs (23,725 kg)",
+            "Total - Loaded": "114034 lbs (51,726 kg)",
+            "Total - Rated Load": "61729 lbs (28,000 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "21.9 gal (79 l)",
+            "DEF Tank (ISO 2224-1)": "5.3 gal (19 l)",
+            "Engine Crankcase": "10.5 gal (38 l)",
+            "Final Drives/Differential": "35.7 gal (132 l)",
+            "Fuel Tank": "108.8 gal (409 l)",
+            "Hydraulic System": "29.1 gal (110 l)",
+            "Output Transfer Gear Box": "6.3 gal (23 l)",
+            "Transmission": "9.2 gal (34 l)"
+        },
+        "Sound Levels": {
+            "Interior Cab": "76 dB(A)"
+        },
+        "Standards": {
+            "Brakes": "ISO 3450 - 2011",
+            "Cab - FOPS": "ISO 3449 Level II - 2005",
+            "Cab - ROPS": "ISO 3471 - 2008",
+            "Steering": "ISO 5010 - 2007"
+        },
+        "Steering System": {
+            "Lock to Lock": "4.75 seconds @ 60 rpm"
+        },
+        "Transmission": {
+            "Forward - 1": "5 mph (8 kph)",
+            "Forward - 2": "9 mph (14 kph)",
+            "Forward - 3": "14 mph (23 kph)",
+            "Forward - 4": "21 mph (34 kph)",
+            "Forward - 5": "29 mph (47 kph)",
+            "Forward - 6": "34 mph (55 kph)",
+            "Reverse - 1": "6 mph (10 kph)"
+        },
+        "Turning Circle": {
+            "Turning Dimensions - Aisle Width": "210 in (533 cm)",
+            "Turning Dimensions - Clearance Radius": "318 in (808 cm)",
+            "Turning Dimensions - Inside Radius": "153 in (389 cm)",
+            "Turning Dimensions - SAE Turning Radius": "294 in (747 cm)",
+            "Turning Dimensions - Steer Angle - Left/Right": "45  \t\u00b0"
+        },
+        "Wheel Base Length": {
+            "Long Wheel Base": "215.2 in (546 cm)",
+            "Standard Wheel Base": "156.7 in (396 cm)"
+        }
+    }
+}

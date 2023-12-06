@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/landoll/l0612/30835520",
+    "source_url_id": "30835520",
+    "source_url_model": "l0612",
+    "source_url_make": "landoll",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:09.816844",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Landoll",
+    "equipment_model": "L0612",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "12x6.7 ft (4 m)"
+        },
+        "Engine": {
+            "Speed Rating": "62 mph (100 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "spring"
+        },
+        "Weights": {
+            "Equipment Weight": "2244 lbs (1,018 kg)",
+            "Weight Capacity": "5984 lbs (2,714 kg)"
+        }
+    }
+}

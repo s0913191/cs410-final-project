@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/tong-yang-mooslan/t433-nc/30751537",
+    "source_url_id": "30751537",
+    "source_url_model": "t433-nc",
+    "source_url_make": "tong-yang-mooslan",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:57.541797",
+    "equipment_category": "Tractors",
+    "equipment_make": "Tong Yang Mooslan",
+    "equipment_model": "T433 NC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Overall Length": "11.8 in (28 cm)",
+            "Tire Size": "front 12-16.5R4 rear 17.5L-24R4",
+            "Wheelbase": "6.4 ft (2 m)",
+            "Width Outside Frame": "5.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "135.2 cu in (0 m)",
+            "Engine Model": "C2.2",
+            "Gross Power": "42.7 hp (31 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "32.8 hp (24 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "13.5 gal/min (49 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2105.5 lbs (955 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "2.3 gal (8 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "9.3 gal (34 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "4188.8 lbs (1,900 kg)",
+            "Turning Radius": "11 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "19.7 mph (31 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "sync/shuttle"
+        }
+    }
+}

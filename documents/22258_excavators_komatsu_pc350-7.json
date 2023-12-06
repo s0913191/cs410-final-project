@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc350-7/22258",
+    "source_url_id": "22258",
+    "source_url_model": "pc350-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:11:25.030907",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC350-7",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.5 ft (10 m)",
+            "Max Digging Depth": "24.3 ft (7 m)",
+            "Max Loading Height": "23.4 ft (7 m)",
+            "Max Reach Along Ground": "35.9 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "21.3 ft (6 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.9 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length of Track on Ground": "12.2 ft (4 m)",
+            "Removal Counterweight Clearance": "3.9 ft (1 m)",
+            "Tail Swing Radius": "11.4 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "504.7 cu in (0 m)",
+            "Engine Make": "Komatsu",
+            "Engine Model": "SAA6D114E",
+            "Net Power": "241.4 hp (180 kw)",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.5 gal (30 l)",
+            "Engine Oil Capacity": "9.3 gal (34 l)",
+            "Fuel Capacity": "159.9 gal (602 l)",
+            "Hydraulic Pump Flow Capacity": "141.4 gal/min (534 l/min)",
+            "Operating Weight": "71209.4 lbs (32,300 kg)",
+            "Swing Drive Fluid Capacity": "3.6 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.5 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "59349.6 lbs (26,921 kg)",
+            "Ground Pressure": "9.6 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "23.7 in (58 cm)"
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/h400hd/15747289",
+    "source_url_id": "15747289",
+    "source_url_model": "h400hd",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:29:04.420683",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "H400HD",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Dry Disc on Drive Axle",
+            "Service brake": "Oil immersed (wet) disc"
+        },
+        "Dimensions": {
+            "Gradeability": "39%",
+            "Ground Clearance": "14.8 in (36 cm)",
+            "Height to Top of Overhead Guard": "11.1 ft (3 m)",
+            "Length to Fork Face": "18.9 ft (5 m)",
+            "Max Fork Height": "15.3 ft (5 m)",
+            "Overall Height - mast lowered": "13.6 ft (4 m)",
+            "Overall Width": "9.6 ft (3 m)",
+            "Right Angle Stack": "31.5 ft (9 m)",
+            "Turning Radius": "17.3 ft (5 m)",
+            "Wheelbase": "12.4 ft (4 m)"
+        },
+        "Engine": {
+            "Alternator": "120 A",
+            "Battery": "900 CCA",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emission Tier Level": "TIER 4F",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB 6.7L",
+            "Fuel Type": "Diesel",
+            "Number of Cylinders": "6",
+            "Power": "220 hp (164 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque": "700 lbs/ft",
+            "Torque Measured @": "1500 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "89 ft/min",
+            "Load Capacity": "40000 lbs (18,144 kg)",
+            "Load Center": "36 in (91 cm)",
+            "Lower Speed": "98 ft/min",
+            "Mast Tip Forward": "10  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0",
+            "Max Fork Spread": "94.3 in (239 cm)"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "91165 lbs (41,352 kg)",
+            "Axle load - rear": "7785 lbs (3,531 kg)",
+            "DEF tank capacity": "10 gal (38 l)",
+            "Drawbar Pull": "48400 lbs (21,954 kg)",
+            "Front Tire Size": "14.00 x 24",
+            "Fuel Capacity": "80 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "54 gal (204 l)",
+            "Max Speed": "16 mph (26 kph)",
+            "Operating Voltage": "24 V V",
+            "Operational Weight": "59399 lbs (26,943 kg)",
+            "Rear Tire Size": "14.00 x 24",
+            "Tire Type": "Pneumatic"
+        },
+        "Transmission": {
+            "Drive system": "Powershift Transmission",
+            "Number of Forward / Reverse Speeds": "5-3",
+            "Transmission Type": "ZF WG 211"
+        }
+    }
+}

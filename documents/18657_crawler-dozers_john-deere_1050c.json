@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/1050c/18657",
+    "source_url_id": "18657",
+    "source_url_model": "1050c",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:32.204175",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "1050C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height - Top of Cab": "12 ft (4 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Length w/ Blade": "21.1 ft (6 m)",
+            "Length w/o Blade": "16.1 ft (5 m)",
+            "Width Over Tracks": "9 ft in (23 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Intercooled and turbocharged",
+            "Displacement": "793 cu in (0 m)",
+            "Engine Model": "D 9406 TI-E",
+            "Max Torque": "1129 lbs/ft",
+            "Net Power": "324 hp (242 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "89 gal/min (337 l/min)",
+            "Pump type": "Variable-displacement piston pump with load-sensing proportional pum flow control",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "18 gal (68 l)",
+            "Engine Oil Capacity": "6.3 gal (23 l)",
+            "Final Drives Fluid Capacity": "5.5 gal (19 l)",
+            "Fuel Capacity": "161 gal (609 l)",
+            "Hydraulic Fluid Capacity": "55 gal (208 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "73985 lbs (33,559 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "12.5 cu yds (9 m)",
+            "Height": "65 in (165 cm)",
+            "Width": "13.8 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "6.8 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Dual-path, electronic-controlled, closed-loop hydrostatic drive"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5510 cu in (0 m)",
+            "Ground Pressure": "13.4 psi",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "7.2 ft (2 m)",
+            "Track Pitch": "8.5 in (20 cm)"
+        }
+    }
+}

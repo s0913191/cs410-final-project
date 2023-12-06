@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/ac-40-1/8941",
+    "source_url_id": "8941",
+    "source_url_model": "ac-40-1",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:11.660091",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AC 40-1",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "102.4 ft (31 m)",
+            "Min Height @ Max Raise Angle": "25.6 ft (8 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "275 hp (205 kw)",
+            "Make": "Terex",
+            "Max Torque": "811.4 lbs/ft",
+            "Model": "OM 906 LA",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "23.3 ft (7 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Transport Height": "10.5 ft (3 m)",
+            "Transport Length": "28.2 ft (9 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10.1 ft (3 m)",
+            "Width w/ Outriggers Extended": "20.4 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Carrier Fuel Capacity": "79.3 gal (299 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49.8 mph (79 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison automatic transmission"
+        }
+    }
+}

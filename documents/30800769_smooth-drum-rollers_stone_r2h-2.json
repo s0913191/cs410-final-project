@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/r2h-2/30800769",
+    "source_url_id": "30800769",
+    "source_url_model": "r2h-2",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:06.346749",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "R2H-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "165 in (419 cm)"
+        },
+        "Drum": {
+            "Drum Width": "22/43 in (56 cm)"
+        },
+        "Engine": {
+            "Make": "Kubota V3307-DI"
+        },
+        "Operating Specifications": {
+            "Operating Width": "83 in (211 cm)"
+        }
+    }
+}

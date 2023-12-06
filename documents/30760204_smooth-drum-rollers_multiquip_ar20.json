@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/multiquip/ar20/30760204",
+    "source_url_id": "30760204",
+    "source_url_model": "ar20",
+    "source_url_make": "multiquip",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:15.116320",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Multiquip",
+    "equipment_model": "AR20",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "3.3 ft (1 m)",
+            "Turning Radius - Inside": "10.1 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "39.4 in (99 cm)",
+            "Frequency": "2922 - 4,020 hz (175,320 - 241,200 vpm)",
+            "Vibration Frequency": "3,660-4,020 hz (219,600 vpm)"
+        },
+        "Engine": {
+            "Make": "Yanmar",
+            "Model": "3TVN76"
+        },
+        "Operating Specifications": {
+            "Operating Width": "41 in (104 cm)"
+        }
+    }
+}

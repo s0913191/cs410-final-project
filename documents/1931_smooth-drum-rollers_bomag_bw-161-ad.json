@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-161-ad/1931",
+    "source_url_id": "1931",
+    "source_url_model": "bw-161-ad",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:04.361142",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 161 AD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "4.1 ft (1 m)",
+            "Drum Diameter - Rear": "4.1 ft (1 m)",
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Overall Length": "15.8 in (38 cm)",
+            "Overall Width": "6.2 ft (2 m)",
+            "Wheelbase": "10.5 in (25 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "13938.2 lbs (6,322 kg)",
+            "Centrifugal Force - Low": "13039 lbs (5,915 kg)",
+            "Drum Diameter": "48.1 in (122 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibration Frequency 2": "45 hz (2,700 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Engine Model": "BF4L 913",
+            "Gross Power": "102 hp (76 kw)",
+            "Net Power": "93.9 hp (69 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2150 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "34.1 gal (129 l)",
+            "Hydraulic System Fluid Capacity": "219.3 gal (829 l)",
+            "Max Speed": "8.1 mph (13 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "21459.8 lbs (9,734 kg)"
+        }
+    }
+}

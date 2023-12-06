@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/puma-140/30671026",
+    "source_url_id": "30671026",
+    "source_url_model": "puma-140",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:38.190046",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "PUMA 140",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "9.9 ft (3 m)",
+            "Wheelbase": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Make": "CaseIH",
+            "Gross Power": "140 hp (104 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "120 hp (89 kw)",
+            "Stroke": "5.2 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "26.5 gal/min (98 l/min)",
+            "Pump Type": "Closed center pressure flow compensated"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "15196.5 lbs (6,893 kg)",
+            "DEF tank capacity": "1585.3 gal (5,999 l)",
+            "Fuel Capacity": "79 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "19.6 gal (72 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Production": {
+            "Series": "Puma Series",
+            "Years Manufactured": "2008 - 2011"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Partial power shift"
+        }
+    }
+}

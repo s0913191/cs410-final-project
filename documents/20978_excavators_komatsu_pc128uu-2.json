@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc128uu-2/20978",
+    "source_url_id": "20978",
+    "source_url_model": "pc128uu-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:25.105905",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC128UU-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "16 ft (5 m)",
+            "Digging Reach": "16 ft (5 m)"
+        },
+        "Engine": {
+            "Net Power": "86 hp (64 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "29540 lbs (13,399 kg)"
+        }
+    }
+}

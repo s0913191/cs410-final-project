@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/gs-1930/30774406",
+    "source_url_id": "30774406",
+    "source_url_model": "gs-1930",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:04.006118",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "GS-1930",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "19 ft (6 m)",
+            "Gradeability": "25%",
+            "Ground Clearance": "2.4 in (5 cm)",
+            "Height w/ Rails": "6.6 ft (2 m)",
+            "Height w/o Rails": "5.8 ft (2 m)",
+            "Overall Length": "6.1 in (15 cm)",
+            "Overall Width": "2.5 ft (1 m)",
+            "Platform Size": "5.3x2.4 ft (2 m)",
+            "Stowed Height": "6.7 ft (2 m)",
+            "Stowed Width": "2.5 ft (1 m)",
+            "Turning Radius": "5.1 ft (2 m)",
+            "Wheelbase": "4.4 ft (1 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "225",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "3.8 gal (11 l)",
+            "Max Speed": "2.5 mph (3 kph)",
+            "Operating Weight": "2702.9 lbs (1,226 kg)",
+            "Tire Fill/Type": "Solid non-marking",
+            "Tire Size": "12x4.5"
+        },
+        "Platform": {
+            "Deck Extension": "35.9 in (89 cm)",
+            "Lift Time": "16 sec",
+            "Lower Time": "25 sec",
+            "Max Platform Height": "19 ft (6 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "25.6 ft (8 m)",
+            "Platform Inner Length": "64.2 in (163 cm)",
+            "Platform Inner Width": "29.2 in (74 cm)"
+        },
+        "Tires": {
+            "Tire Size": "12x4.5x8 (30x11x20)"
+        }
+    }
+}

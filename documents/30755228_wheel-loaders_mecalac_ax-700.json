@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/mecalac/ax-700/30755228",
+    "source_url_id": "30755228",
+    "source_url_model": "ax-700",
+    "source_url_make": "mecalac",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:56.023769",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Mecalac",
+    "equipment_model": "AX 700",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout force": "786.8 lbs (357 kg)",
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Dumping angle, top": "45  \t\u00b0",
+            "Lifting force": "3500 NEWTON",
+            "Payload on forks, max. turned, frontal": "4629.8 lbs (2,100 kg)",
+            "Thrust force": "3800 NEWTON",
+            "Tipping load Standard bucket": "7054.8 lbs (3,200 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Hinge Pin - Max Height": "10.8 ft (3 m)",
+            "Length with Bucket on Ground": "17.4 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.6 ft (1 m)",
+            "Wheelbase": "6.7 ft (2 m)",
+            "Width Over Tires": "5.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Low-noise, water-cooled, turbo diesel engine",
+            "Battery": "100 Ah",
+            "Engine Model": "Deutz TD 2.9 L4",
+            "Net Power": "68 hp (51 kw)",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "16.4 gal/min (61 l/min)",
+            "Pump Type": "Single circuit hydraulics with central gear pump"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Front Axle/Diff Fluid Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "23 gal (87 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10383.8 lbs (4,710 kg)",
+            "Rear Axle Oscillation": "11  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "1.8 gal (4 l)",
+            "Steering Angle": "40  \t\u00b0",
+            "Tire Size": "12.5-18",
+            "Turning Radius": "12.2 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)"
+        }
+    }
+}

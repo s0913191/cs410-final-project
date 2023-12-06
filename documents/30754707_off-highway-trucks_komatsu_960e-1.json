@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/960e-1/30754707",
+    "source_url_id": "30754707",
+    "source_url_model": "960e-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:11.321515",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "960E-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "5.6 ft (2 m)",
+            "Dump Height": "46.3 ft (14 m)",
+            "Ground Clearance": "3.4 ft (1 m)",
+            "Overall Height": "24.2 ft (7 m)",
+            "Overall Length": "51.2 ft (16 m)",
+            "Overall Width": "30.2 ft (9 m)",
+            "Wheelbase": "28.7 ft (9 m)"
+        },
+        "Dump": {
+            "Dump Angle": "45  \t\u00b0",
+            "Load Capacity - heaped": "280 cu yds (214 m)",
+            "Load Capacity - Struck": "194.9 cu yds (148 m)",
+            "Lower Time": "28 sec",
+            "Raise Time": "24 sec",
+            "Rated Payload": "45  \t\u00b0"
+        },
+        "Engine": {
+            "Aspiration": "140  A",
+            "Displacement": "4759.9 cu in (0 m)",
+            "Engine Model": "SSDA18V170",
+            "Gross Power": "3500.1 hp (2,610 kw)",
+            "Net Power": "3345.9 hp (2,494 kw)",
+            "Number of Cylinders": "18",
+            "Power Measured @": "1900 rpm",
+            "Rated Engine Speed": "350.1 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Cooling System Fluid Capacity": "190 gal (719 l)",
+            "Engine Oil Capacity": "90.1 gal (341 l)",
+            "Fuel Capacity": "1400.2 gal (5,299 l)",
+            "Hydraulic System Fluid Capacity": "350.1 gal (1,325 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "56/80 R63"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "719996.7 gal (2,725,185 l)"
+        },
+        "Transmission": {
+            "Max Speed": "40.1 mph (64 kph)",
+            "Transmission Type": "Auto ECPC"
+        },
+        "Weights": {
+            "Empty Weight": "549998.2 lbs (249,478 kg)",
+            "Loaded Weight": "1270021.3 lbs (576,078 kg)",
+            "Weight Distribution Front - empty": "49.5%",
+            "Weight Distribution Front - loaded": "33%",
+            "Weight Distribution Rear - empty": "50.5%",
+            "Weight Distribution Rear - loaded": "67%"
+        }
+    }
+}

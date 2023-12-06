@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex-american/hc210/30836133",
+    "source_url_id": "30836133",
+    "source_url_model": "hc210",
+    "source_url_make": "terex-american",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:12.587835",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex American",
+    "equipment_model": "HC210",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "350 ft (107 m)",
+            "Max Lift Capacity": "210 t (190,509 kg)"
+        }
+    }
+}

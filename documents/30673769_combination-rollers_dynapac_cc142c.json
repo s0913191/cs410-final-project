@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combination-rollers/dynapac/cc142c/30673769",
+    "source_url_id": "30673769",
+    "source_url_model": "cc142c",
+    "source_url_make": "dynapac",
+    "source_url_category": "combination-rollers",
+    "source_date_scraped": "2023-09-13 17:39:03.423227",
+    "equipment_category": "Combination Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC142C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "2.7 ft (1 m)",
+            "Ground Clearance": "10.3 in (25 cm)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Overall Length": "9 in (23 cm)",
+            "Overall Width": "4.2 ft (1 m)",
+            "Turning Radius - Inside": "0.8 ft (0 m)",
+            "Wheelbase": "6.4 in (15 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "7418.7 lbs (3,365 kg)",
+            "Drum Diameter": "31.6 in (79 cm)",
+            "Drum Width": "51.2 in (130 cm)",
+            "Frequency": "52 hz (3,120 vpm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "236.2 lbs/in",
+            "Vibration Frequency 1": "52 hz (3,120 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "D2011 L03 I",
+            "Gross Power": "45.6 hp (34 kw)",
+            "Make": "Deutz",
+            "Model": "F3L2011",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Weight": "8267.4 lbs (3,750 kg)"
+        }
+    }
+}

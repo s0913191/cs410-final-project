@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d61ex-12/41407",
+    "source_url_id": "41407",
+    "source_url_model": "d61ex-12",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:40.244329",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D61EX-12",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Length w/ Blade": "17.9 ft (5 m)",
+            "Width Over Tracks": "6.3 ft in (15 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "S6D114E-1",
+            "Max Torque": "578.3 lbs/ft",
+            "Net Power": "152 hp (113 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1850 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump type": "closed center load sensing",
+            "Relief Valve Pressure": "2987.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "35  A",
+            "Cooling System Fluid Capacity": "11.7 gal (42 l)",
+            "Engine Oil Capacity": "5.1 gal (19 l)",
+            "Final Drives Fluid Capacity": "7.6 gal (27 l)",
+            "Fuel Capacity": "83.3 gal (314 l)",
+            "Hydraulic Fluid Capacity": "12.7 gal (45 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "37258.2 lbs (16,900 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "4.5 cu yds (3 m)",
+            "Height": "47.3 in (119 cm)",
+            "Width": "10.8 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.5 mph (10 kph)",
+            "Max Speed - Reverse": "8 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TORQFLOW"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5896.3 cu in (0 m)",
+            "Ground Pressure": "6.4 psi",
+            "Number of Shoes per Side": "46",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "6.3 ft (2 m)"
+        }
+    }
+}

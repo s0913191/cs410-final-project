@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/3055d-cr/3885",
+    "source_url_id": "3885",
+    "source_url_model": "3055d-cr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:09.447163",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "305.5D CR",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "12.7 ft (4 m)",
+            "Max Reach Along Ground": "19.8 ft (6 m)"
+        },
+        "Engine": {
+            "Make": "Mitsubishi",
+            "Model": "S4Q2-T",
+            "Net Power": "47 hp (35 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "11696 lbs (5,305 kg)"
+        }
+    }
+}

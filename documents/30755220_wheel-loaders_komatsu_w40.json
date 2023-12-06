@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/w40/30755220",
+    "source_url_id": "30755220",
+    "source_url_model": "w40",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:00.321997",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "W40",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "13070 lbs (5,929 kg)",
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Bucket Width": "7.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Hinge Pin - Max Height": "11.1 ft (3 m)",
+            "Length with Bucket on Ground": "17.8 ft (5 m)",
+            "Reach at Max Lift and Dump": "3.2 ft (1 m)",
+            "Wheelbase": "8.1 ft (2 m)",
+            "Width Over Tires": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "264 cu in (0 m)",
+            "Engine Model": "4D105",
+            "Gross Power": "72 hp (54 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.5 gal (30 l)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Operating Weight": "14175.8 lbs (6,430 kg)",
+            "Static Tipping Weight": "10868.8 lbs (4,930 kg)",
+            "Tire Size": "16.9-24-10PR (L2)",
+            "Turning Radius": "16.2 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Max Speed - Reverse": "21.2 mph (34 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Torqflow countershaft soft shift"
+        }
+    }
+}

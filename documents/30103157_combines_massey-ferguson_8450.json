@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/massey-ferguson/8450/30103157",
+    "source_url_id": "30103157",
+    "source_url_model": "8450",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:58.863019",
+    "equipment_category": "Combines",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "8450",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Overall Length": "17.2 in (43 cm)",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Wastegate",
+            "Displacement": "452 cu in (0 m)",
+            "Gross Power": "215 hp (160 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "180 hp (134 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "39 gal/min (148 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "15604.4 lbs (7,078 kg)",
+            "3 Point Hitch Type": "Cat III",
+            "Fuel Capacity": "158.6 gal (598 l)",
+            "Operating Weight": "19136 lbs (8,680 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "Dyna-VT"
+        }
+    }
+}

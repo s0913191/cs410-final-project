@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/john-deere/4920/30104247",
+    "source_url_id": "30104247",
+    "source_url_model": "4920",
+    "source_url_make": "john-deere",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:39.553896",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "John Deere",
+    "equipment_model": "4920",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "84 in (213 cm)",
+            "Max Boom Width": "393.8 ft (120 m)",
+            "Min Adjustable Height": "24 in (61 cm)",
+            "Min Boom Width": "216.6 ft (66 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "4.4 ft (1 m)",
+            "Tire Size": "380/105R50",
+            "Wheelbase": "14.2 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "496 cu in (0 m)",
+            "Engine Model": "PowerTech Diesel",
+            "Gross Power": "300 hp (224 kw)",
+            "Number of Cylinders": "6"
+        },
+        "Operating Specifications": {
+            "Foam Marker Tank Capacity": "35 gal (132 l)",
+            "Fuel Capacity": "140 gal (530 l)",
+            "Hydraulic Fluid Capacity": "20 gal (76 l)",
+            "Rinse Tank Capacity": "140 gal (530 l)",
+            "Solution Tank Capacity": "1200 gal (4,542 l)"
+        },
+        "Transmission": {
+            "Max Speed": "35 mph (56 kph)",
+            "Transmission Type": "Hyrdrostatic"
+        }
+    }
+}

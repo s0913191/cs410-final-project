@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/417-ht-shl/30755180",
+    "source_url_id": "30755180",
+    "source_url_model": "417-ht-shl",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:47:13.407473",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "417 HT SHL",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "15736.7 lbs (7,138 kg)",
+            "Bucket Capacity - heaped": "1.9 cu yds (1 m)",
+            "Bucket Capacity - struck": "1.6 cu yds (1 m)",
+            "Bucket Width": "7.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "11.8 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Hinge Pin - Max Height": "14.5 ft (4 m)",
+            "Length with Bucket on Ground": "23.5 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "9.2 ft (3 m)",
+            "Width Over Tires": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo charged",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "JCB EcoMAX T4F",
+            "Engine Type": "4 stroke direct injection",
+            "Gross Power": "125 hp (93 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5.2 in (13 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "3480.9": "240 bar psi",
+            "Dump Time": "2.1 sec",
+            "Lower Time": "3.3 sec",
+            "Pump Flow Capacity": "41.3 gal/min (155 l/min)",
+            "Pump Type": "Variable placement piston pump",
+            "Raise Time": "4.9 sec",
+            "Relief Valve Setting": "3190 psi",
+            "Total cycle": "10.3 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Articulation Angle": "40  \t\u00b0",
+            "Auxiliary fuel tank": "29.4 gal (110 l)",
+            "DEF tank capacity": "5.3 gal (19 l)",
+            "Fuel Capacity": "30.7 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "41 gal (155 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "22171.9 lbs (10,057 kg)",
+            "Rear Axle Oscillation": "11  \t\u00b0",
+            "Turning Radius": "19.4 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "31.1 mph (50 kph)",
+            "Max Speed - Reverse": "23.7 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Smooth shift Powershift ZF 4WG115"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/steinbock/je-15and-or500/30757574",
+    "source_url_id": "30757574",
+    "source_url_model": "je-15and-or500",
+    "source_url_make": "steinbock",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:39:36.748457",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Steinbock",
+    "equipment_model": "JE 15/500",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Height to Top of Overhead Guard": "6.4 ft (2 m)",
+            "Length to Fork Face": "5.9 ft (2 m)",
+            "Max Fork Height": "16.5 ft (5 m)",
+            "Overall Height - mast lowered": "10.1 ft (3 m)",
+            "Overall Width": "3.3 ft (1 m)",
+            "Turning Radius": "4.8 ft (1 m)",
+            "Wheelbase": "3.5 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "Electric motor",
+            "Power": "5.4 hp (4 kw)"
+        },
+        "MAST": {
+            "Lift Speed": "98.5 ft/min",
+            "Load Capacity": "3086.5 lbs (1,400 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Lower Speed": "102.4 ft/min",
+            "Mast Tip Forward": "7  \t\u00b0",
+            "Mast Tip Rear": "5  \t\u00b0",
+            "Max Fork Spread": "38.6 in (97 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "7.8 mph (11 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "1",
+            "Operating Weight": "6250.2 lbs (2,835 kg)",
+            "Tire Type": "cushion"
+        }
+    }
+}

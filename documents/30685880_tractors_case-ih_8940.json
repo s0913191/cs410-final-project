@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/8940/30685880",
+    "source_url_id": "30685880",
+    "source_url_model": "8940",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:16.474067",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "8940",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Axle Clearance": "22.8 in (56 cm)",
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.5 in (10 cm)",
+            "Displacement": "506.5 cu in (0 m)",
+            "Gross Power": "227 hp (169 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "205 hp (153 kw)",
+            "Stroke": "5.4 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2 To 4",
+            "Pump Flow Capacity": "29 gal/min (110 l/min)",
+            "Relief Valve Pressure": "2200 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "110  A",
+            "Cooling System Fluid Capacity": "7.8 gal (27 l)",
+            "Engine Oil Capacity": "5.5 gal (19 l)",
+            "Fuel Capacity": "45.5 gal (170 l)",
+            "Hydraulic System Fluid Capacity": "45.5 gal (170 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "18168.3 lbs (8,241 kg)",
+            "Tire Size Front - 2wd / 4wd": "14L-16.1"
+        },
+        "Production": {
+            "Series": "Magnum 8900 Series",
+            "Years Manufactured": "1997 - 1998"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4R-42"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

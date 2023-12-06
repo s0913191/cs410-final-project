@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/ac-30/34122",
+    "source_url_id": "34122",
+    "source_url_model": "ac-30",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:10.068606",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AC 30",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "90.9 ft (27 m)",
+            "Max Lift Capacity": "66138.7 lbs (30,000 kg)",
+            "Max Working Radius": "72.2 ft (22 m)",
+            "Min Height @ Max Raise Angle": "32.9 ft (10 m)",
+            "Min Working Radius": "8.9 ft (2 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "1.7 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "230.7 hp (172 kw)",
+            "Make": "Terex",
+            "Max Torque": "669.8 lbs/ft",
+            "Model": "QSB 5.9",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "22.6 ft (7 m)",
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Transport Height": "10.2 ft (3 m)",
+            "Transport Length": "27.5 ft (8 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "9.7 ft (3 m)",
+            "Width w/ Outriggers Extended": "19.4 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Carrier Fuel Capacity": "68.7 gal (257 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "48501.7 lbs (22,000 kg)",
+            "Tire Size": "445/65 R 22.5"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49.8 mph (79 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison automatic"
+        }
+    }
+}

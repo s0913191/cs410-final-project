@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/ap1000d/30671229",
+    "source_url_id": "30671229",
+    "source_url_model": "ap1000d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:57.315667",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "AP1000D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8 - 24.10 ft (2 - 7 m)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "14.5 lbs (6 kg)",
+            "Paving Speed": "300 ft/min",
+            "Paving Width - max": "8 - 24.20 ft (2 - 7 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "32470 lbs (14,728 kg)"
+        }
+    }
+}

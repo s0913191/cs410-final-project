@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/magnum-310/28514496",
+    "source_url_id": "28514496",
+    "source_url_model": "magnum-310",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:00.045848",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MAGNUM 310",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "309 hp (230 kw)"
+        },
+        "Production": {
+            "Series": "Magnum Series",
+            "Years Manufactured": "2005 - 2011"
+        }
+    }
+}

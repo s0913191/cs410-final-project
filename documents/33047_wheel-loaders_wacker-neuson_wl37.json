@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/wacker-neuson/wl37/33047",
+    "source_url_id": "33047",
+    "source_url_model": "wl37",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:44.455119",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "WL37",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.8 cu yds (0 m)",
+            "Dumping angle, top": "40  \t\u00b0"
+        },
+        "Capacities": {
+            "Engine Oil": "2.8 gal (8 l)",
+            "Fuel Tank": "14.6 gal (53 l)",
+            "Hydraulic oil tank": "17.2 gal (64 l)",
+            "Hydraulic system": "19.9 gal (72 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Length with Bucket on Ground": "13.6 ft (4 m)",
+            "Overall length": "16.3 ft (5 m)",
+            "Track Width": "47.3 in (119 cm)",
+            "Turning Radius": "5.5 ft (2 m)",
+            "Wheelbase": "6.7 ft (2 m)",
+            "Width Over Tires": "5.2 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "95 A",
+            "Displacement": "221 cu in (0 m)",
+            "Engine Make": "Deutz",
+            "Engine Model": "TD2011 L04w",
+            "Gross Power": "74 hp (55 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "34 gal/min (129 l/min)",
+            "Relief Valve Pressure": "6527 psi"
+        },
+        "Operating Specifications": {
+            "Max Speed": "4.4 mph (6 kph)",
+            "Operating Voltage": "12 V V"
+        },
+        "Weights": {
+            "Breakout force maximum": "8783 lbs/ft",
+            "Lifting force maximum": "8331 lbs (3,779 kg)",
+            "Operating weight": "8223 lbs (3,730 kg)"
+        }
+    }
+}

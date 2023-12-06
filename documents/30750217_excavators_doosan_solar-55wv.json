@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/solar-55wv/30750217",
+    "source_url_id": "30750217",
+    "source_url_model": "solar-55wv",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:19.274487",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "SOLAR 55WV",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "19.5 ft (6 m)",
+            "Max Digging Depth": "11.5 ft (3 m)",
+            "Max Loading Height": "13.9 ft (4 m)",
+            "Max Reach Along Ground": "19.2 ft (6 m)",
+            "Max Vertical Wall Dig Depth": "9.1 ft (3 m)",
+            "Shipping Height of Unit": "9.4 ft (3 m)",
+            "Shipping Length of Unit": "20.3 ft (6 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.3 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.3 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Overall Width": "6.3 in (15 cm)",
+            "Tail Swing Radius": "5.5 ft (2 m)",
+            "Upper Structure Clearance": "3.3 ft (1 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "186.4 cu in (0 m)",
+            "Engine Model": "4TNV94L-PDBWE",
+            "Gross Power": "56.8 hp (42 kw)",
+            "Net Power": "54.1 hp (40 kw)",
+            "Net Torque": "151 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "2.7 gal (8 l)",
+            "Engine Oil Capacity": "2.5 gal (8 l)",
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Hydraulic Pump Flow Capacity": "31.8 gal/min (117 l/min)",
+            "Hydraulic Pump Type": "2x piston",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Hydraulic System Relief Valve Pressure": "3271 psi",
+            "Operating Voltage": "12 V",
+            "Operating Weight": "12235.7 lbs (5,550 kg)",
+            "Tire Size": "12-16.5-12PR"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.1 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

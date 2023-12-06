@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/ft300/31076721",
+    "source_url_id": "31076721",
+    "source_url_model": "ft300",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:26:59.682910",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "FT300",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "29 hp (22 kw)"
+        },
+        "Production": {
+            "Series": "FT Granforce Series",
+            "Years Manufactured": "2016 -"
+        }
+    }
+}

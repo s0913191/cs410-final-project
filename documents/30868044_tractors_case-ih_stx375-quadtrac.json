@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/stx375-quadtrac/30868044",
+    "source_url_id": "30868044",
+    "source_url_model": "stx375-quadtrac",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:09.552092",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "STX375 QUADTRAC",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "375 hp (280 kw)"
+        },
+        "Production": {
+            "Series": "Steiger STX Series",
+            "Years Manufactured": "2002 - 2005"
+        }
+    }
+}

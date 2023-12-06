@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/bobcat/mt55/30719556",
+    "source_url_id": "30719556",
+    "source_url_model": "mt55",
+    "source_url_make": "bobcat",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:18.622797",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "MT55",
+    "equipment_spec": {
+        "Dimensions": {
+            "Reach at Max Lift and Dump": "1.6 ft (0 m)",
+            "Width Over Tracks": "3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "3356.4 cu in (0 m)",
+            "Emission Tier Level": "Tier 4",
+            "Fuel": "Diesel",
+            "Horsepower - Gross": "24.8 hp (18 kw)",
+            "Number of Cylinders": "3"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "12 gal/min (45 l/min)"
+        },
+        "Loader": {
+            "Operating Load": "550 lbs (250 kg)",
+            "Tipping Angle": "1610  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "7 gal (27 l)",
+            "Operating Weight": "2610 lbs (1,184 kg)",
+            "Travel Speed": "3.5 mph (5 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.9 psi"
+        }
+    }
+}

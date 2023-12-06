@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/caterpillar/grw-280i-10-95-mt/30833969",
+    "source_url_id": "30833969",
+    "source_url_model": "grw-280i-10-95-mt",
+    "source_url_make": "caterpillar",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:17.707766",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "GRW 280i-10 (9.5 mt)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "222 Inches"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "82 Inches"
+        }
+    }
+}

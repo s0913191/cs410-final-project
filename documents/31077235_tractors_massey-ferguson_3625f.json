@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/3625f/31077235",
+    "source_url_id": "31077235",
+    "source_url_model": "3625f",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:33.406016",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "3625F",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "69 hp (51 kw)"
+        },
+        "Production": {
+            "Series": "3600 Series",
+            "Years Manufactured": "2011 - 2017"
+        }
+    }
+}

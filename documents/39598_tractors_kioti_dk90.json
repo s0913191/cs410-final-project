@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kioti/dk90/39598",
+    "source_url_id": "39598",
+    "source_url_model": "dk90",
+    "source_url_make": "kioti",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:51.725178",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kioti",
+    "equipment_model": "DK90",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.3 in (43 cm)",
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Overall Length": "13.4 in (33 cm)",
+            "Tire Size": "front 12.4x24 rear 18.4x34",
+            "Wheelbase": "7.6 ft (2 m)",
+            "Width Outside Frame": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "268.5 cu in (0 m)",
+            "Engine Model": "1104C-44T",
+            "Gross Power": "90 hp (67 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "78 hp (58 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "12.3 gal/min (45 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5291.1 lbs (2,400 kg)",
+            "3 Point Hitch Type": "Cat. II",
+            "Fuel Capacity": "33.1 gal (125 l)",
+            "Operating Weight": "7936.7 lbs (3,600 kg)",
+            "Turning Radius": "12.5 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed": "21.2 mph (34 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "fully synchro shuttle"
+        }
+    }
+}

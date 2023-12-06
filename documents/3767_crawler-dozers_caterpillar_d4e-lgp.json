@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d4e-lgp/3767",
+    "source_url_id": "3767",
+    "source_url_model": "d4e-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:15.867778",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D4E LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Length of Track on Ground": "7.3 ft (2 m)",
+            "Length w/ Blade": "13.9 ft (4 m)",
+            "Length w/o Blade": "10.5 ft (3 m)",
+            "Width Over Tracks": "8.4 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "427.2 cu in (0 m)",
+            "Engine Model": "3304",
+            "Gross Power": "80.5 hp (60 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "51 gal (193 l)",
+            "Operating Weight": "22520.3 lbs (10,215 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "2.3 cu yds (2 m)",
+            "Width": "10.1 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.8 mph (8 kph)",
+            "Max Speed - Reverse": "6.8 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5223.6 cu in (0 m)",
+            "Ground Pressure": "4.3 psi",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "30 in (76 cm)",
+            "Track Gauge": "5.9 ft (2 m)"
+        }
+    }
+}

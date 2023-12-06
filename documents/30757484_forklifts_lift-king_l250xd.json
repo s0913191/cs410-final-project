@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/lift-king/l250xd/30757484",
+    "source_url_id": "30757484",
+    "source_url_model": "l250xd",
+    "source_url_make": "lift-king",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:33:52.420440",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Lift King",
+    "equipment_model": "L250XD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.1 in (18 cm)",
+            "Height to Top of Overhead Guard": "8.9 ft (2 m)",
+            "Length to Fork Face": "11.9 ft (3 m)",
+            "Max Fork Height": "7.5 ft (2 m)",
+            "Overall Height - mast lowered": "8.9 ft (2 m)",
+            "Overall Width": "4.7 ft (1 m)",
+            "Turning Radius": "10.3 ft (3 m)",
+            "Wheelbase": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "347.9 cu in (0 m)",
+            "Engine Model": "GM Vortec V8",
+            "Fuel Type": "LPG",
+            "Power": "140 hp (104 kw)"
+        },
+        "MAST": {
+            "Load Capacity": "25000 lbs (11,340 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "8.6 mph (13 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "36220 lbs (16,429 kg)",
+            "Tire Type": "solid cushion front 28x14x22 rear 22x8x16"
+        }
+    }
+}

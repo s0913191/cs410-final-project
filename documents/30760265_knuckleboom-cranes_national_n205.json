@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/knuckleboom-cranes/national/n205/30760265",
+    "source_url_id": "30760265",
+    "source_url_model": "n205",
+    "source_url_make": "national",
+    "source_url_category": "knuckleboom-cranes",
+    "source_date_scraped": "2023-09-13 17:48:16.049511",
+    "equipment_category": "Knuckleboom Cranes",
+    "equipment_make": "National",
+    "equipment_model": "N205",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "57.5 ft (17 m)",
+            "Max Lift Capacity": "11 t (9,979 kg)"
+        }
+    }
+}

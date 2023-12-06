@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m6s-111sdscc/30751699",
+    "source_url_id": "30751699",
+    "source_url_model": "m6s-111sdscc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:26.031071",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M6S-111SDSCC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17 in (43 cm)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Overall Length": "163.2 in (414 cm)",
+            "Standard tire": "Front-13.6-38,Rear-13.6-38 (steel)",
+            "Tire Size": "front 12 rear 24 (with Creep)",
+            "Wheelbase": "8 ft (2 m)",
+            "Width": "7.8 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "203 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V3800-TIEF4",
+            "Gross Power": "114 hp (85 kw)",
+            "Model Name": "M6S-111SDS",
+            "Net Power": "105 hp (78 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "95 hp (71 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.6 gal/min (64 l/min)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Fuel Capacity": "4.7 gal (15 l)",
+            "Operating Weight": "8157.2 lbs (3,700 kg)"
+        },
+        "Power Take-Off (PTO)": {
+            "Clutch": "Hydraulic Wet Clutch"
+        }
+    }
+}

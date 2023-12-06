@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/kobelco/ck2500/20476",
+    "source_url_id": "20476",
+    "source_url_model": "ck2500",
+    "source_url_make": "kobelco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:37.254181",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Kobelco",
+    "equipment_model": "CK2500",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "350 ft (107 m)",
+            "Max Lift Capacity": "250 t (226,796 kg)"
+        }
+    }
+}

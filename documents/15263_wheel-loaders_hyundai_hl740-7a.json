@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl740-7a/15263",
+    "source_url_id": "15263",
+    "source_url_model": "hl740-7a",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:05.347346",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL740-7A",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "20240 lbs (9,181 kg)",
+            "Bucket Capacity - heaped": "2.8 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.4 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "9.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length with Bucket on Ground": "23.9 ft (7 m)",
+            "Reach at Max Lift and Dump": "31.9 ft (9 m)",
+            "Wheelbase": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry, dual elements",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Make": "CUMMINS",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "138 hp (103 kw)",
+            "Make": "Cummins",
+            "Model": "QSB6.7",
+            "Net Power": "145 hp (108 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "4.9 in (10 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.8 sec",
+            "Lower Time": "2.8 sec",
+            "Pump Flow Capacity": "47.3 gal/min (178 l/min)",
+            "Pump Type": "Open-centered",
+            "Raise Time": "5.6 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "9.3 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "5.7 gal (19 l)",
+            "Fuel Capacity": "60.3 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "43.6 gal (163 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "25463.4 lbs (11,550 kg)",
+            "Rated Bucket Capacity": "2.7 cu yds (2 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.7 gal (19 l)",
+            "Tire Size": "20.5-25, 16 PR, L3",
+            "Transmission Fluid Capacity": "6.4 gal (23 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.6 mph (35 kph)",
+            "Max Speed - Reverse": "14.5 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "3-elements, single-stage"
+        },
+        "Weights": {
+            "Operational Weight": "25460 lbs (11,549 kg)"
+        }
+    }
+}

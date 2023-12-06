@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/daedong/ex50cr/30751514",
+    "source_url_id": "30751514",
+    "source_url_model": "ex50cr",
+    "source_url_make": "daedong",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:42.169062",
+    "equipment_category": "Tractors",
+    "equipment_make": "Daedong",
+    "equipment_model": "EX50(CR)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.6 in (36 cm)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Overall Length": "11.4 in (28 cm)",
+            "Tire Size": "front 9.5-16 rear 13.6-26",
+            "Wheelbase": "6.2 ft (2 m)",
+            "Width Outside Frame": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "148.6 cu in (0 m)",
+            "Engine Model": "4A243LXM",
+            "Gross Power": "50 hp (37 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "39.5 hp (29 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "16.9 gal/min (61 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2493.5 lbs (1,131 kg)",
+            "Fuel Capacity": "11.9 gal (42 l)",
+            "Operating Weight": "3968.4 lbs (1,800 kg)",
+            "Turning Radius": "10.3 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "17.3 mph (27 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "synchroshuttle"
+        }
+    }
+}

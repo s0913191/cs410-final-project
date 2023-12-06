@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/xcmg/qy50b/5204575",
+    "source_url_id": "5204575",
+    "source_url_model": "qy50b",
+    "source_url_make": "xcmg",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:19.544260",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "XCMG",
+    "equipment_model": "QY50B",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "132.3 ft (40 m)",
+            "Max Lift Capacity": "100000 lbs (45,360 kg)",
+            "Min Height @ Max Raise Angle": "37 ft (11 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "356.8 hp (265 kw)",
+            "Max Torque": "1076.9 lbs/ft",
+            "Model": "WD615.46",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Angle of departure": "10  \t\u00b0",
+            "Approach Angle": "16  \t\u00b0",
+            "Gradeability": "46%",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "10.9 ft (3 m)",
+            "Transport Length": "43.6 ft (13 m)",
+            "Transport Width": "9.1 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "12.5 ft (4 m)",
+            "Width w/ Outriggers Extended": "21.7 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "87898.3 lbs (39,870 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "48.5 mph (77 kph)"
+        }
+    }
+}

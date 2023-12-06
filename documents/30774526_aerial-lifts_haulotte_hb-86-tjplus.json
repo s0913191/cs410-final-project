@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/hb-86-tjplus/30774526",
+    "source_url_id": "30774526",
+    "source_url_model": "hb-86-tjplus",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:32.510278",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HB 86 TJ+",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "5.11x2.7 lbs (2 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "92.0 ft (28 m)",
+            "Stowed Height": "9.8 ft (3 m)",
+            "Stowed Width": "8.1 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "385/45-28"
+        },
+        "Transmission": {
+            "4WD": "yes"
+        }
+    }
+}

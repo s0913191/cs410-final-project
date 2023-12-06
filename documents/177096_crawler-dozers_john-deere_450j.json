@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/450j/177096",
+    "source_url_id": "177096",
+    "source_url_model": "450j",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:44.361841",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "450J",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "J. Deere PowerTech",
+            "Model": "M 4045",
+            "Net Power": "70 hp (52 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16283-17525 lbs (7,386 kg)"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/992d/4391",
+    "source_url_id": "4391",
+    "source_url_model": "992d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:04.346502",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "992D",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "146711 lbs (66,548 kg)",
+            "Bucket Capacity - heaped": "14 cu yds (11 m)",
+            "Bucket Capacity - struck": "11.7 cu yds (8 m)",
+            "Bucket Width": "15.6 ft (5 m)",
+            "Dump Clearance at Max Raise": "13.7 ft (4 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "18.1 ft (5 m)",
+            "Hinge Pin - Max Height": "20.6 ft (6 m)",
+            "Length with Bucket on Ground": "43.2 ft (13 m)",
+            "Reach at Max Lift and Dump": "7.6 ft (2 m)",
+            "Wheelbase": "15.9 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "3412",
+            "Gross Power": "735 hp (548 kw)",
+            "Net Power": "690 hp (515 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "3.4 sec",
+            "Lower Time": "3.7 sec",
+            "Pump Flow Capacity": "474 gal/min (1,794 l/min)",
+            "Pump Type": "closed with pressure control",
+            "Raise Time": "11.4 sec",
+            "Relief Valve Setting": "3250 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "36 gal (136 l)",
+            "Engine Oil Fluid Capacity": "18.8 gal (68 l)",
+            "Front Axle/Diff Fluid Capacity": "79.3 gal (299 l)",
+            "Fuel Capacity": "300.1 gal (1,136 l)",
+            "Hydraulic System Fluid Capacity": "143 gal (541 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "196559.8 lbs (89,159 kg)",
+            "Rear Axle Oscillation": "22  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "79.3 gal (299 l)",
+            "Static Tipping Weight": "113527.1 lbs (51,496 kg)",
+            "Tire Size": "45/65-45, 38PR L5",
+            "Transmission Fluid Capacity": "34.9 gal (129 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "13.1 mph (21 kph)",
+            "Max Speed - Reverse": "14.3 mph (23 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "planetary electric shift, power shift"
+        }
+    }
+}

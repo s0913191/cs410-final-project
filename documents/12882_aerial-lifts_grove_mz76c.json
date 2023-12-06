@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/mz76c/12882",
+    "source_url_id": "12882",
+    "source_url_model": "mz76c",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:55.872569",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "MZ76C",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "750 lbs (340 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "ST/70 ft (0 m)",
+            "Stowed Height": "8.3 ft (2 m)",
+            "Stowed Width": "7.9 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "15x22.5"
+        },
+        "Transmission": {
+            "4WD": "opt."
+        }
+    }
+}

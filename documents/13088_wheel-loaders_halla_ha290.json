@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/halla/ha290/13088",
+    "source_url_id": "13088",
+    "source_url_model": "ha290",
+    "source_url_make": "halla",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:32.256063",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Halla",
+    "equipment_model": "HA290",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "35273 lbs (16,000 kg)",
+            "Bucket Capacity - heaped": "3.8 cu yds (2 m)",
+            "Bucket Width": "9.8 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Length with Bucket on Ground": "25 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "504.7 cu in (0 m)",
+            "Engine Model": "6CT8.3C",
+            "Gross Power": "192 hp (143 kw)",
+            "Net Power": "189 hp (141 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.5 sec",
+            "Lower Time": "2.5 sec",
+            "Pump Flow Capacity": "66.6 gal/min (250 l/min)",
+            "Pump Type": "closed with pressure & vacuum relief",
+            "Raise Time": "6.6 sec",
+            "Relief Valve Setting": "2957 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "11.9 gal (42 l)",
+            "Engine Oil Fluid Capacity": "5 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "8.5 gal (30 l)",
+            "Fuel Capacity": "75.6 gal (284 l)",
+            "Hydraulic System Fluid Capacity": "29.6 gal (110 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "34259.9 lbs (15,540 kg)",
+            "Rear Axle Oscillation": "28  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "8.5 gal (30 l)",
+            "Static Tipping Weight": "28832.1 lbs (13,078 kg)",
+            "Tire Size": "23.5x25 16PR",
+            "Transmission Fluid Capacity": "4.8 gal (15 l)",
+            "Turning Radius": "16.5 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.3 mph (39 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

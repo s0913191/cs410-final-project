@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/favelle-favco/m2480d/30760334",
+    "source_url_id": "30760334",
+    "source_url_model": "m2480d",
+    "source_url_make": "favelle-favco",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:16.283403",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Favelle Favco",
+    "equipment_model": "M2480D",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "300 ft (91 m)",
+            "Max Lift Capacity": "303 t (274,877 kg)"
+        }
+    }
+}

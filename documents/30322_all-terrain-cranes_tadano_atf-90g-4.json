@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/tadano/atf-90g-4/30322",
+    "source_url_id": "30322",
+    "source_url_model": "atf-90g-4",
+    "source_url_make": "tadano",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:05.841300",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "ATF-90G-4",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82.4  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "177.2 ft (54 m)",
+            "Max Lift Capacity": "220000 lbs (99,791 kg)",
+            "Max Working Radius": "65.6 ft (20 m)",
+            "Min Height @ Max Raise Angle": "45 ft (14 m)",
+            "Min Working Radius": "8.2 ft (2 m)",
+            "Number of Sections": "6",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "729 cu in (0 m)",
+            "Make": "Tadano",
+            "Max Torque": "1475 lbs/ft",
+            "Model": "OM 501 LA",
+            "Net Power": "428 hp (319 kw)",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "35.4 ft (11 m)",
+            "Transport Height": "12.9 ft (4 m)",
+            "Transport Length": "43.5 ft (13 m)",
+            "Transport Width": "9.1 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "12.9 ft (4 m)",
+            "Width w/ Outriggers Extended": "23.7 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Carrier Fuel Capacity": "105.7 gal (397 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "105840 lbs (48,009 kg)",
+            "Tire Size": "16.00R25",
+            "Upper Structure Fuel Capacity": "58.2 gal (220 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "52.8 mph (84 kph)",
+            "Max Speed - Reverse": "4.9 mph (6 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "ZF AS-Tronic 12AS2302 fully automatic"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "174 hp (130 kw)",
+            "Make": "Tadano",
+            "Max Torque": "500 lbs/ft",
+            "Model": "OM 470 LA",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1600 rpm"
+        }
+    }
+}

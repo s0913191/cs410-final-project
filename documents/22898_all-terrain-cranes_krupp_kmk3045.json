@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/krupp/kmk3045/22898",
+    "source_url_id": "22898",
+    "source_url_model": "kmk3045",
+    "source_url_make": "krupp",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:40.879098",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Krupp",
+    "equipment_model": "KMK3045",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "84  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "112 ft (34 m)",
+            "Max Lift Capacity": "90000 lbs (40,824 kg)",
+            "Max Working Radius": "105 ft (32 m)",
+            "Min Height @ Max Raise Angle": "44 ft (13 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "296.4 hp (221 kw)",
+            "Make": "Krupp",
+            "Max Torque": "811.4 lbs/ft",
+            "Model": "OM 422 diesel",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "28.7 ft (9 m)",
+            "Transport Height": "11.9 ft (3 m)",
+            "Transport Length": "37.1 ft (11 m)",
+            "Transport Width": "8.2 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10.7 ft (3 m)",
+            "Width w/ Outriggers Extended": "18.7 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Carrier Fuel Capacity": "80 gal (303 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "79500 lbs (36,061 kg)",
+            "Tire Size": "14.00R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "42 mph (68 kph)",
+            "Max Speed - Reverse": "10.9 mph (16 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "ZF 6-gear powershift 6 WG 200"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Krupp"
+        }
+    }
+}

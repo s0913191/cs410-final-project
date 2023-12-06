@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/case/465/2481",
+    "source_url_id": "2481",
+    "source_url_model": "465",
+    "source_url_make": "case",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:50.236236",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "465",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Ground Clearance": "9.1 in (23 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length w/o Bucket": "9.3 ft (3 m)",
+            "Length with Bucket": "12 ft (4 m)",
+            "Reach at Max Lift and Dump": "36.8 in (91 cm)",
+            "Turning Radius from Center - inc bucket": "86.3 in (218 cm)",
+            "Turning Radius from Center - machine rear": "65.1 in (165 cm)",
+            "Wheelbase": "4.3 ft (1 m)",
+            "Width Over Tires": "5.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "274 cu in (0 m)",
+            "Engine Model": "Family III 445T/M2, Tier II certified",
+            "Gross Power": "82 hp (61 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "22.1 gal/min (83 l/min)",
+            "Pump Type": "Gear pump",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Breakout Force": "6175 psi",
+            "Bucket Capacity": "0.8 cu yds (0 m)",
+            "Operating Load Rating": "3000 lbs (1,361 kg)",
+            "Tipping Angle": "6000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "12  A",
+            "Chain Box Fluid Capacity - each side": "2 gal (8 l)",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Fluid Capacity": "3.2 gal (11 l)",
+            "Fuel Capacity": "20.2 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "17.5 gal (64 l)",
+            "Max Speed": "12.3 mph (19 kph)",
+            "Operational Weight": "8910 lbs (4,042 kg)",
+            "Tire Size": "12.00 x 16.5"
+        }
+    }
+}

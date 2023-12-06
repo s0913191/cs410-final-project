@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/krupp/kmk5110/22894",
+    "source_url_id": "22894",
+    "source_url_model": "kmk5110",
+    "source_url_make": "krupp",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:41.903477",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Krupp",
+    "equipment_model": "KMK5110",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "84  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "138 ft (42 m)",
+            "Max Lift Capacity": "220000 lbs (99,791 kg)",
+            "Max Working Radius": "120 ft (37 m)",
+            "Min Height @ Max Raise Angle": "47 ft (14 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "1.9 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "441.2 hp (329 kw)",
+            "Make": "Krupp",
+            "Max Torque": "1301.8 lbs/ft",
+            "Model": "OM 442 LA",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "42.6 ft (13 m)",
+            "Transport Height": "12.4 ft (4 m)",
+            "Transport Length": "47.5 ft (14 m)",
+            "Transport Width": "9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "12 ft (4 m)",
+            "Width w/ Outriggers Extended": "26.3 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Carrier Fuel Capacity": "100 gal (379 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "132500 lbs (60,102 kg)",
+            "Tire Size": "14.00R25",
+            "Upper Structure Fuel Capacity": "50 gal (189 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "43.1 mph (69 kph)",
+            "Max Speed - Reverse": "9.1 mph (14 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison automatic CLBT 755"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "169 hp (126 kw)",
+            "Make": "Krupp",
+            "Max Torque": "413.1 lbs/ft",
+            "Model": "OM 366 A",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1600 rpm"
+        }
+    }
+}

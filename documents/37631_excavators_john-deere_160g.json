@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/160g/37631",
+    "source_url_id": "37631",
+    "source_url_model": "160g",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:59.233796",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "160G",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "21.4 ft (6 m)"
+        },
+        "Engine": {
+            "Net Power": "121 hp (90 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "39685 lbs (18,001 kg)"
+        }
+    }
+}

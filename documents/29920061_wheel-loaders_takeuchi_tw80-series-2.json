@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/takeuchi/tw80-series-2/29920061",
+    "source_url_id": "29920061",
+    "source_url_model": "tw80-series-2",
+    "source_url_make": "takeuchi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:21.467033",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TW80 Series 2",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Deutz",
+            "Model": "TD2.9L T",
+            "Net Power": "74 hp (55 kw)"
+        },
+        "Weights": {
+            "Operational Weight": "12700 lbs (5,761 kg)"
+        }
+    }
+}

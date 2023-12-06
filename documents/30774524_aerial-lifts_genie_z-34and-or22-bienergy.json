@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/z-34and-or22-bienergy/30774524",
+    "source_url_id": "30774524",
+    "source_url_model": "z-34and-or22-bienergy",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:10.951206",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "Z-34/22 BiEnergy",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "2.6x4.8 lbs (1 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "34.6 ft (10 m)",
+            "Stowed Height": "6.7 ft (2 m)",
+            "Stowed Width": "5.8 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "9-14.5 industrial"
+        }
+    }
+}

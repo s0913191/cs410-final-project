@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/liebherr/lr632b-l/30750892",
+    "source_url_id": "30750892",
+    "source_url_model": "lr632b-l",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:43.288457",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LR632B L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length of Track on Ground": "9.3 ft (3 m)",
+            "Length w/o Blade": "14.3 ft (4 m)",
+            "Width Over Tracks": "7.9 ft in (18 cm)"
+        },
+        "Engine": {
+            "Aspiration": "turbo-charged",
+            "Displacement": "640.8 cu in (0 m)",
+            "Engine Model": "D 936 L A6",
+            "Gross Power": "204 hp (152 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "55.3 gal/min (208 l/min)",
+            "Pump type": "swash plate variable displacement piston pump",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "16.4 gal (61 l)",
+            "Engine Oil Capacity": "11.4 gal (42 l)",
+            "Final Drives Fluid Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic Fluid Capacity": "42.8 gal (159 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "44969.9 lbs (20,398 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "10  \t\u00b0",
+            "Capacity": "7.3 cu yds (5 m)",
+            "Height": "55.2 in (140 cm)",
+            "Width": "11.1 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.9 mph (10 kph)",
+            "Max Speed - Reverse": "6.9 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Infinitely variable hydrostatic travel drive, independent drive for each frame"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "10.1 psi",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "20 in (51 cm)"
+        }
+    }
+}

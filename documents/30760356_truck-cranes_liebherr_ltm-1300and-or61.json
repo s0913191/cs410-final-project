@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/liebherr/ltm-1300and-or61/30760356",
+    "source_url_id": "30760356",
+    "source_url_model": "ltm-1300and-or61",
+    "source_url_make": "liebherr",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:55.243137",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1300/6.1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "380 ft (116 m)",
+            "Max Lift Capacity": "360 t (326,587 kg)"
+        }
+    }
+}

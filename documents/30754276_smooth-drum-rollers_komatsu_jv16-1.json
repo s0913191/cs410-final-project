@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/komatsu/jv16-1/30754276",
+    "source_url_id": "30754276",
+    "source_url_model": "jv16-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:07.639253",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "JV16-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6.5 in (15 cm)",
+            "Height - Top of Cab": "4.6 ft (1 m)",
+            "Overall Length": "6.6 in (15 cm)",
+            "Wheelbase": "3 in (8 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "3530 lbs (1,601 kg)",
+            "Drum Diameter": "19.7 in (48 cm)",
+            "Drum Width": "31.5 in (79 cm)",
+            "Static Linear Load": "135.2 lbs/in",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)"
+        },
+        "Engine": {
+            "Displacement": "35.2 cu in (0 m)",
+            "Engine Model": "C NM10-31HM",
+            "Gross Power": "8.5 hp (6 kw)"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "0.7 gal (0 l)",
+            "Fuel Capacity": "2.3 gal (8 l)",
+            "Max Speed": "2.5 mph (3 kph)",
+            "Operating Weight": "2799.9 lbs (1,270 kg)"
+        }
+    }
+}

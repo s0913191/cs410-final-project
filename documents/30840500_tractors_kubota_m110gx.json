@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m110gx/30840500",
+    "source_url_id": "30840500",
+    "source_url_model": "m110gx",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:31:26.310486",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M110GX",
+    "equipment_spec": {
+        "Dimensions": {
+            "Crop clearance": "22.1 in (56 cm)",
+            "Height - Top of ROPS/FOPS": "9.3 ft (3 m)",
+            "Overall Length": "167.2 in (424 cm)",
+            "Overall Width": "6.9 ft (2 m)",
+            "Tread with R4-Front": "65 in (165 cm)",
+            "Tread with R4-Rear": "80.4 in (203 cm)",
+            "Wheelbase": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger with intercooler",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V3800-TI-CRS",
+            "Gross Power": "109 hp (81 kw)",
+            "Net Power": "109.5 hp (81 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "96 hp (72 kw)",
+            "Stroke": "4.8 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "18.8 gal/min (68 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "9446.9 lbs (4,285 kg)",
+            "Fuel Capacity": "50.2 gal (189 l)",
+            "Operating Weight": "8796.5 lbs (3,990 kg)",
+            "Tire Size Front - 2wd / 4wd": "340/85R24",
+            "Turning Radius": "13.2 ft (4 m)"
+        },
+        "Production": {
+            "Series": "Grand X Series",
+            "Years Manufactured": "2012 -"
+        },
+        "Tires": {
+            "Rear Tires Size": "480/70R34"
+        },
+        "Transmission": {
+            "Max Speed": "23.7 mph (37 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "Intelli-Shift transmission"
+        }
+    }
+}

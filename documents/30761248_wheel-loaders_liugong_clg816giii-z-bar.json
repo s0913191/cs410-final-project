@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/clg816giii-z-bar/30761248",
+    "source_url_id": "30761248",
+    "source_url_model": "clg816giii-z-bar",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:20.220108",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "CLG816GIII Z-bar",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "7.8 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Yanmar",
+            "Model": "4TNV98",
+            "Net Power": "67 hp (50 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "1 cu yds (1 m)"
+        },
+        "Weights": {
+            "Operational Weight": "12340 lbs (5,597 kg)"
+        }
+    }
+}

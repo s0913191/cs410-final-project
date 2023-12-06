@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/bm-lm620/30755050",
+    "source_url_id": "30755050",
+    "source_url_model": "bm-lm620",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:24.758466",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM LM620",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "3.9 cu yds (2 m)",
+            "Bucket Capacity - struck": "0.9 cu yds (0 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Hinge Pin - Max Height": "12.6 ft (4 m)",
+            "Length with Bucket on Ground": "17.9 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.1 ft (1 m)",
+            "Wheelbase": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "direct injection",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Model": "BM1113A LH",
+            "Gross Power": "69 hp (51 kw)",
+            "Net Power": "63 hp (47 kw)",
+            "Number of Cylinders": "3"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "37 gal/min (140 l/min)",
+            "Relief Valve Setting": "1280 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "13900 lbs (6,305 kg)",
+            "Tire Size": "front 16.9-30/10 rear 9.00-20/10",
+            "Turning Radius": "16 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "18.4 mph (29 kph)",
+            "Max Speed - Reverse": "18.4 mph (29 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

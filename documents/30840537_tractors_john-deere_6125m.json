@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6125m/30840537",
+    "source_url_id": "30840537",
+    "source_url_model": "6125m",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:22:05.130143",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6125M",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "520 in (1,321 cm)",
+            "Tire Size": "380/85R24. Rear: 460/85R34",
+            "Wheelbase": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "PowerTech PVX",
+            "Gross Power": "130 hp (97 kw)",
+            "Net Power": "125 hp (93 kw)",
+            "Number of Cylinders": "4",
+            "PTO Power": "102 hp (76 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "43468",
+            "Pump Flow Capacity": "21.1 gal/min (79 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5154 lbs (2,338 kg)",
+            "3 Point Hitch Type": "II/IIIN",
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Engine Oil Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "58 gal (220 l)",
+            "Hydraulic System Fluid Capacity": "13.7 gal (49 l)",
+            "Operating Weight": "19180 lbs (8,700 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "fully synchronized"
+        },
+        "Years of Manufacture": {
+            "Approximate First Year of Manufacture": "2013",
+            "Approximate Last Year of Manufacture": "2015"
+        }
+    }
+}

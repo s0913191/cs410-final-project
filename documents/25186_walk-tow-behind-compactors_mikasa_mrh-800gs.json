@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/walk-tow-behind-compactors/mikasa/mrh-800gs/25186",
+    "source_url_id": "25186",
+    "source_url_model": "mrh-800gs",
+    "source_url_make": "mikasa",
+    "source_url_category": "walk-tow-behind-compactors",
+    "source_date_scraped": "2023-09-13 17:46:12.499836",
+    "equipment_category": "Walk / Tow Behind Compactors",
+    "equipment_make": "Mikasa",
+    "equipment_model": "MRH-800GS",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "25.6 in (64 cm)",
+            "Vibration Frequency": "3300 hz (198,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Honda"
+        },
+        "Operating Specifications": {
+            "Operating Width": "27.2 in (69 cm)"
+        }
+    }
+}

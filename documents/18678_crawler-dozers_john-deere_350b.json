@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/350b/18678",
+    "source_url_id": "18678",
+    "source_url_model": "350b",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:36.149443",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "350B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Width Over Tracks": "5 ft in (13 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Naturally aspirated",
+            "Displacement": "164 cu in (0 m)",
+            "Engine Model": "300 Series",
+            "Max Torque": "110 lbs/ft",
+            "Net Power": "42 hp (31 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14 gal/min (53 l/min)",
+            "Pump type": "Open-center",
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.3 gal (11 l)",
+            "Engine Oil Capacity": "2.3 gal (8 l)",
+            "Final Drives Fluid Capacity": "10 gal (38 l)",
+            "Fuel Capacity": "22 gal (83 l)",
+            "Hydraulic Fluid Capacity": "6.4 gal (23 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10600 lbs (4,808 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Collar shift"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hitachi/zw-310/30755244",
+    "source_url_id": "30755244",
+    "source_url_model": "zw-310",
+    "source_url_make": "hitachi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:52.421979",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZW-310",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "47884.4 lbs (21,720 kg)",
+            "Bucket Capacity - heaped": "5.2 cu yds (4 m)",
+            "Bucket Capacity - struck": "4.4 cu yds (3 m)",
+            "Bucket Width": "10.4 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Hinge Pin - Max Height": "14.5 ft (4 m)",
+            "Length with Bucket on Ground": "29.4 ft (9 m)",
+            "Reach at Max Lift and Dump": "4.3 ft (1 m)",
+            "Wheelbase": "11.4 ft (3 m)",
+            "Width Over Tires": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger & intercooled",
+            "Displacement": "782.1 cu in (0 m)",
+            "Engine Model": "OM460LA",
+            "Net Power": "295 hp (220 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3 sec",
+            "Pump Type": "variable displacement axial plunger pump",
+            "Raise Time": "5.8 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "15.6 gal (57 l)",
+            "Engine Oil Fluid Capacity": "10.4 gal (38 l)",
+            "Front Axle/Diff Fluid Capacity": "12.7 gal (45 l)",
+            "Fuel Capacity": "101 gal (382 l)",
+            "Hydraulic System Fluid Capacity": "33.9 gal (125 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "49119 lbs (22,280 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "12.7 gal (45 l)",
+            "Static Tipping Weight": "38801.4 lbs (17,600 kg)",
+            "Tire Size": "26.5-25-16PR (L3)",
+            "Transmission Fluid Capacity": "6.7 gal (23 l)",
+            "Turning Radius": "19.4 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Max Speed - Reverse": "21.5 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Torque converter, countershaft type powershift with computer-controlled automatic shift and manual shit features included"
+        }
+    }
+}

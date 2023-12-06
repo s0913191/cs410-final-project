@@ -1,0 +1,179 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/770/6602",
+    "source_url_id": "6602",
+    "source_url_model": "770",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:27.529778",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "770",
+    "equipment_spec": {
+        "Approximate Weights - Flat Floor": {
+            "Chassis": "35 lbs (16 kg)"
+        },
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "Body Hoists": {
+            "Body Lower Time - Float": "12.5 sec",
+            "Body Power Down - High Idle": "12.5 sec",
+            "Body Raise Time - High Idle": "9.5 sec",
+            "Pump Flow - High Idle": "136 gal/min (515 l/min)",
+            "Relief Valve Setting - Lower": "500 psi",
+            "Relief Valve Setting - Raise": "2500 psi"
+        },
+        "Brakes": {
+            "Brake Standards": "ISO 3450: 1996",
+            "Brake Surface - Front": "216 cu in (0 m)",
+            "Brake Surface - Rear": "6235 cu in (0 m)",
+            "Standards": "2.74:1"
+        },
+        "Capacity - Dual Slope - 100% Fill Factor": {
+            "Heaped 2:1 (SAE)": "32.8 cu yds (24 m)",
+            "Struck": "21.5 cu yds (16 m)"
+        },
+        "Capacity - Flat Floor - 100% Fill Factor": {
+            "Heaped 2:1 (SAE)": "32.8 cu yds (24 m)",
+            "Struck": "21.5 cu yds (16 m)"
+        },
+        "Dimensions": {
+            "Centerline Front Tire Width": "10.2 ft (3 m)",
+            "Centerline of Rear Dual Tire Width": "8.4 ft (2 m)",
+            "Dump Clearance": "1.6 ft (0 m)",
+            "Dump Ground Clearance": "1.6 ft (0 m)",
+            "Dump Height": "27.2 ft (8 m)",
+            "Engine Guard Clearance": "2.3 ft (1 m)",
+            "Front Canopy Height": "13.6 ft (4 m)",
+            "Ground Clearance": "2.3 ft (1 m)",
+            "Height - Top of ROPS/FOPS": "12.9 ft (4 m)",
+            "Inside Body Depth - Maximum": "4.4 ft (1 m)",
+            "Inside Body Length": "18.3 ft (5 m)",
+            "Inside Body Width": "12.2 ft (4 m)",
+            "Loading Height - Empty": "10.3 ft (3 m)",
+            "Operating Width": "15.6 ft (5 m)",
+            "Outside Body Width": "157000 ft (47,854 m)",
+            "Overall Body Length": "26.9 ft (8 m)",
+            "Overall Canopy Width": "13 ft (4 m)",
+            "Overall Height": "10.3 ft (3 m)",
+            "Overall Height - Body Raised": "27.2 ft (8 m)",
+            "Overall Length": "28.7 ft (9 m)",
+            "Overall Tire Width": "12.2 ft (4 m)",
+            "Overall Width": "15.6 ft (5 m)",
+            "Rear Axle - Clearance": "1.7 ft (0 m)",
+            "Rear Axle - Tail": "8.5 ft (2 m)",
+            "Wheel Base": "13 ft (4 m)",
+            "Wheelbase": "13 ft (4 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x2"
+        },
+        "Dump": {
+            "Dump Angle": "47.5  \t\u00b0",
+            "Load Capacity - heaped": "32.9 cu yds (24 m)",
+            "Load Capacity - Struck": "22.4 cu yds (17 m)",
+            "Lower Time": "12.5 sec",
+            "Raise Time": "9.5 sec",
+            "Rated Payload": "80000 lbs (36,288 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "927.6 cu in (0 m)",
+            "Engine Model": "Cat C15 ACERT",
+            "Gross Power": "511 hp (381 kw)",
+            "Gross Power - SAE J1995": "511 hp (381 kw)",
+            "Make": "Cat",
+            "Max Torque": "1711 lbs/ft",
+            "Model": "C15 ACERT",
+            "Net Power": "476 hp (355 kw)",
+            "Net Power - 80/1269/EEC": "476 hp (355 kw)",
+            "Net Power - SAE J1349": "476 hp (355 kw)",
+            "Number of Cylinders": "6",
+            "Peak Torque": "1711 lbs/ft",
+            "Power Measured @": "1800 rpm",
+            "Rated Engine Speed": "1800 rpm",
+            "Stroke": "6.7 in (15 cm)",
+            "Torque Measured @": "Turbocharged rpm",
+            "Torque Rise": "12.5"
+        },
+        "Final Drives": {
+            "Differential Ratio": "2.74:1",
+            "Planetary Ratio": "4.80:1",
+            "Total Reduction Ratio": "13.15:1"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Power Shift",
+            "Body Capacity - SAE 2:1": "32.8 cu yds (24 m)",
+            "Brake/Hoist System Fluid Capacity": "73 gal (276 l)",
+            "Cooling System Fluid Capacity": "30 gal (114 l)",
+            "Diff and Final Drive Fluid Capacity": "42 gal (159 l)",
+            "Engine Oil Capacity": "56 gal (212 l)",
+            "Fuel Capacity": "140 gal (530 l)",
+            "Hydraulic System Fluid Capacity": "25 gal (95 l)",
+            "Maximum Capacity": "80000 lbs (36,288 kg)",
+            "Nominal Payload Capacity": "22 lbs (10 kg)",
+            "Nominal Payload Class (100%)": "80000 lbs (36,288 kg)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Steering System Fluid Capacity": "15 gal (57 l)",
+            "Tire Size": "18.00R33(E4)",
+            "Top Speed - Loaded": "46.5 mph (74 kph)"
+        },
+        "Service Refill Capacities": {
+            "Brake / Hoist / Fan Hydraulic Tank": "35 gal (132 l)",
+            "Brake/Hoist Hydraulic Tank": "80000 gal (302,800 l)",
+            "Cooling System": "30 gal (114 l)",
+            "Crankcase": "9 gal (34 l)",
+            "Differential - Final Drives": "22 gal (83 l)",
+            "Fuel Tank": "140 gal (530 l)",
+            "Steering System - Including Tank": "15 gal (57 l)",
+            "Steering Tank": "9 gal (34 l)",
+            "Torque Converter - Transmission Sump": "53380 gal (202,043 l)"
+        },
+        "Steering System": {
+            "Steer Angle": "40  \t\u00b0",
+            "Steering Standards": "ISO 5010:1992",
+            "Turning Circle - Clearance Diameter": "ISO 3450: 1996 ft (0 m)"
+        },
+        "Suspension": {
+            "Effective Cylinder Stroke - Front": "9.2 in (23 cm)",
+            "Effective Cylinder Stroke - Rear": "5.9 in (13 cm)",
+            "Rear axle - Oscillation": "5.4  \t\u00b0"
+        },
+        "Tires": {
+            "Standard Tire": "18.00R33 (E4)",
+            "Standard Tires": "216"
+        },
+        "Transmission": {
+            "Forward - 1": "7.5 mph (11 kph)",
+            "Forward - 2": "10.3 mph (16 kph)",
+            "Forward - 3": "14 mph (23 kph)",
+            "Forward - 4": "18.8 mph (29 kph)",
+            "Forward - 5": "25.4 mph (40 kph)",
+            "Forward - 6": "34.3 mph (55 kph)",
+            "Forward - 7": "46.5 mph (74 kph)",
+            "Max Speed": "46.5 mph (74 kph)",
+            "Number of Gears - Forward": "7",
+            "Number of Gears - Reverse": "1",
+            "Reverse": "9.9 mph (14 kph)",
+            "Transmission Type": "Power Shift"
+        },
+        "Weights": {
+            "Body Weight": "22110 lbs (10,029 kg)",
+            "Chassis Weight": "53380 lbs (24,213 kg)",
+            "Empty Weight": "75490 lbs (34,242 kg)",
+            "Front Axle - Empty": "48%",
+            "Front Axle - Loaded": "34%",
+            "Loaded Weight": "157000 lbs (71,215 kg)",
+            "Operating Weight": "157000 lbs (71,215 kg)",
+            "Operating Weight - Loaded": "ISO 5010:1992 lbs (0 kg)",
+            "Rear Axle - Empty": "52%",
+            "Rear Axle - Loaded": "66%",
+            "Target Gross Machine Operating Weight": "157000 lbs (71,215 kg)",
+            "Weight Distribution Front - empty": "48%",
+            "Weight Distribution Front - loaded": "34%",
+            "Weight Distribution Rear - empty": "52%",
+            "Weight Distribution Rear - loaded": "66%"
+        }
+    }
+}

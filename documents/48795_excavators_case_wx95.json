@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/wx95/48795",
+    "source_url_id": "48795",
+    "source_url_model": "wx95",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:23.712169",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "WX95",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Digging Depth": "13 ft (4 m)",
+            "Max Reach Along Ground": "25.5 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "7.1 ft (2 m)",
+            "Shipping Height of Unit": "10 ft (3 m)",
+            "Shipping Length of Unit": "22.8 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Overall Width": "24 in (61 cm)",
+            "Overall Width - Outriggers Down": "8.9 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "439TC-M2",
+            "Net Power": "99 hp (74 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Engine Oil Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "33.9 gal (125 l)",
+            "Hydraulic Pump Flow Capacity": "39.9 gal/min (148 l/min)",
+            "Hydraulic System Fluid Capacity": "24.9 gal (91 l)",
+            "Hydraulic System Relief Valve Pressure": "5076.4 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "21054.2 lbs (9,550 kg)",
+            "Tire Size": "500/45-20"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "20.6 mph (32 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

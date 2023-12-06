@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc800-plus/30754169",
+    "source_url_id": "30754169",
+    "source_url_model": "cc800-plus",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:32.830958",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC800 Plus",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Failsafe brake in both drums",
+            "Service brake": "Hydrostatic in forward and reverse lever"
+        },
+        "Dimensions": {
+            "Curb clearance": "18 in (46 cm)",
+            "Gradeability": "40%",
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Overall Length": "80.4 in (203 cm)",
+            "Overall Width": "2.9 ft (1 m)",
+            "Overhang Front": "0.2 ft (0 m)",
+            "Overhang Rear": "0.2 ft (0 m)",
+            "Wheelbase": "53.2 in (135 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "3821.8 lbs (1,733 kg)",
+            "Drum Diameter": "23.2 in (58 cm)",
+            "Drum thickness": "0.6 in (0 cm)",
+            "Drum Width": "31.5 in (79 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "52.1 lbs/in",
+            "Vibration Frequency 1": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Emissions Certification": "Tier 4f",
+            "Engine Make": "Kubota",
+            "Engine Model": "D1105-E4B",
+            "Engine Type": "Water cooled diesel",
+            "Gross Power": "24.2 hp (18 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "23 gal (87 l)",
+            "Max Speed": "5.6 mph (8 kph)",
+            "Operating Weight": "3670.7 lbs (1,665 kg)",
+            "Operating weight ROPS": "3472.3 lbs (1,575 kg)",
+            "Oscillating angle": "13  \t\u00b0",
+            "Steering Angle": "34  \t\u00b0",
+            "Water Spray System Fluid Capacity": "50.2 gal (189 l)"
+        }
+    }
+}

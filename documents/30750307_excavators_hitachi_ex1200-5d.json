@@ -1,0 +1,93 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/ex1200-5d/30750307",
+    "source_url_id": "30750307",
+    "source_url_model": "ex1200-5d",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:52.012023",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EX1200-5D",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Max Cutting Height": "40.4 ft (12 m)",
+            "Max Dig Depth": "26.1 ft (8 m)",
+            "Max Dump Height": "26.4 ft (8 m)",
+            "Max Reach on Ground": "43.9 ft (13 m)",
+            "Max Vertical Wall Dig Depth": "16.7 ft (5 m)"
+        },
+        "Backhoe Boom / Stick 2": {
+            "Max Cutting Height": "44.3 ft (13 m)",
+            "Max Dig Depth": "30.7 ft (9 m)",
+            "Max Dump Height": "29.3 ft (9 m)",
+            "Max Reach on Ground": "49.3 ft (15 m)",
+            "Max Vertical Wall Dig Depth": "25 ft (8 m)"
+        },
+        "Backhoe Boom / Stick 3": {
+            "Max Cutting Height": "46 ft (14 m)",
+            "Max Dig Depth": "34.2 ft (10 m)",
+            "Max Dump Height": "31 ft (9 m)",
+            "Max Reach on Ground": "52.8 ft (16 m)",
+            "Max Vertical Wall Dig Depth": "29.2 ft (9 m)"
+        },
+        "Backhoe Boom / Stick 4": {
+            "Max Cutting Height": "47.3 ft (14 m)",
+            "Max Dig Depth": "37.5 ft (11 m)",
+            "Max Dump Height": "34 ft (10 m)",
+            "Max Reach on Ground": "56.1 ft (17 m)",
+            "Max Vertical Wall Dig Depth": "34 ft (10 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "8.6 cu yds (6 m)",
+            "Minimum Bucket Capacity": "7.8 cu yds (5 m)",
+            "Reference Bucket Capacity": "7.8 cu yds (5 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "17.8 ft (5 m)",
+            "Height of Tracks": "5.2 ft (2 m)",
+            "Length of Track on Ground": "16.5 ft (5 m)",
+            "Length of Tracks": "21 ft (6 m)",
+            "Upper Structure Ground Clearance": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "1412 cu in (0 m)",
+            "Engine Model": "QSK23",
+            "Gross Power": "760 hp (567 kw)",
+            "Net Power": "721 hp (538 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1650 rpm"
+        },
+        "Loading Shovel": {
+            "Max Cutting Height": "40.6 ft (12 m)",
+            "Max Dig Depth": "17.2 ft (5 m)",
+            "Max Dig Reach": "37.6 ft (11 m)",
+            "Max Dump Height": "28.7 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "29.9 gal (110 l)",
+            "Engine Oil Capacity": "18.5 gal (68 l)",
+            "Fuel Capacity": "370 gal (1,400 l)",
+            "Hydraulic System Fluid Capacity": "356.7 gal (1,347 l)",
+            "Operating Voltage": "24 V V",
+            "Swing Speed": "5.8 rpm"
+        },
+        "Undercarriage": {
+            "Backhoe Ground Pressure - Shoe 1": "19.8 psi",
+            "Backhoe Ground Pressure - Shoe 2": "15.9 psi",
+            "Backhoe Operating Weight - Shoe 1": "238100 lbs (108,002 kg)",
+            "Backhoe Operating Weight - Shoe 2": "242500 lbs (109,997 kg)",
+            "Backhoe Shoe Width 1": "28 in (71 cm)",
+            "Backhoe Shoe Width 2": "35 in (89 cm)",
+            "Loading Shovel Ground Pressure": "20.2 psi",
+            "Loading Shovel Operating Weight": "244713.1 lbs (111,001 kg)",
+            "Loading Shovel Shoe Width": "28 in (71 cm)",
+            "Max Travel Speed": "2.2 mph (3 kph)",
+            "Number of Lower Rollers": "8",
+            "Number of Track Shoes per Side": "52",
+            "Number of Upper Rollers": "3",
+            "Tail Swing Radius": "16 ft (5 m)",
+            "Track Gauge": "12.8 ft (4 m)"
+        }
+    }
+}

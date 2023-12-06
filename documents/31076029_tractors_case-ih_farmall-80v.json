@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/farmall-80v/31076029",
+    "source_url_id": "31076029",
+    "source_url_model": "farmall-80v",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:26.173454",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "FARMALL 80V",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Production": {
+            "Series": "Farmall V Series",
+            "Years Manufactured": "2017 -"
+        }
+    }
+}

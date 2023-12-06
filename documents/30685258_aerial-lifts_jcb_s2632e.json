@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jcb/s2632e/30685258",
+    "source_url_id": "30685258",
+    "source_url_model": "s2632e",
+    "source_url_make": "jcb",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:13.203547",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JCB",
+    "equipment_model": "S2632E",
+    "equipment_spec": {
+        "Brakes": {
+            "Brakes Type": "2, rear-wheel",
+            "Drive and steer model": "2, front-wheel",
+            "Gradeability": "25"
+        },
+        "Dimensions": {
+            "Ground Clearance": "4 in (10 cm)",
+            "Solid tyre dimensions": "305 x 115 mm, (12 x 4.5)in",
+            "Turning Radius - Outside": "6.2 ft (2 m)",
+            "Weight": "4546 lbs (2,062 kg)"
+        },
+        "Electrical System": {
+            "Battery": "6V x 4 (225)",
+            "Input voltage of Charger": "100-24 VAc",
+            "Output voltage of Charger": "25 A",
+            "Power unit": "4.5 hp (3 kw)"
+        },
+        "Engine": {
+            "Engine Model": "S2632E"
+        },
+        "Hydraulic System": {
+            "Hydraulic Oil capacity(Power angle tilt dozer)": "3.7 gal (11 l)",
+            "Hydraulic system tank": "4.8 gal (15 l)",
+            "system pressure": "3481 psi"
+        },
+        "Performance": {
+            "Load capacity": "1212.6 lbs (550 kg)"
+        },
+        "Platform": {
+            "Drive Speed - Platform Elevated": "0.5 mph (0 kph)",
+            "Drive Speed - Platform Lowered": "2 mph (3 kph)",
+            "Extension outreach": "3 ft (1 m)",
+            "Max allowable side force (indoor)": "90 lbs/ft",
+            "Max allowable slope (side/side)": "1.5  \t\u00b0",
+            "Max Platform Height": "26.6 ft (8 m)",
+            "Max Working Height": "32.6 ft (10 m)",
+            "Max. allowable slope (front/back)": "3  \t\u00b0",
+            "Overall height (stowed, guardrail unfolded)": "7.8 ft (2 m)",
+            "Overall length (stowed , guardrail folded)": "7.9 ft (2 m)",
+            "Overall width (stowed)": "2.7 ft (1 m)"
+        }
+    }
+}

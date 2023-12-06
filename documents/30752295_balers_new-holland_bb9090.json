@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/new-holland/bb9090/30752295",
+    "source_url_id": "30752295",
+    "source_url_model": "bb9090",
+    "source_url_make": "new-holland",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:49.622951",
+    "equipment_category": "Balers",
+    "equipment_make": "New Holland",
+    "equipment_model": "BB9090",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "4.2 ft (1 m)",
+            "Bale Length - max": "9 ft (3 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "One hydraulic cylinder",
+            "Number of Bars": "4",
+            "Number of Tines": "128",
+            "Overall Width": "1 ft (0 m)",
+            "Tine to Tine Width": "0.8 ft (0 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "11.8 ft (3 m)",
+            "Overall Length": "30.9 ft (9 m)",
+            "Overall Width": "10.8 ft (3 m)",
+            "Tractor PTO Power Required": "150.2 hp (112 kw)",
+            "Weight": "21680.3 lbs (9,834 kg)"
+        },
+        "Feeding Chamber": {
+            "Packer Type": "6 paired tines on 3 cranks",
+            "Stuffer Type": "6 tines"
+        },
+        "Plunger": {
+            "SPM": "33"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "30",
+            "Twine Type": "Double knot"
+        }
+    }
+}

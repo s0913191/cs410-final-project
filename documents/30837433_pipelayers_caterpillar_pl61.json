@@ -1,0 +1,135 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pipelayers/caterpillar/pl61/30837433",
+    "source_url_id": "30837433",
+    "source_url_model": "pl61",
+    "source_url_make": "caterpillar",
+    "source_url_category": "pipelayers",
+    "source_date_scraped": "2023-09-13 16:35:15.860556",
+    "equipment_category": "Pipelayers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "PL61",
+    "equipment_spec": {
+        "Air Conditioning System": {
+            "Air Conditioning": "The air conditioning system on this machine contains the fluorinated greenhouse gas refrigerant R134a (Global Warming Potential = 1430). The system contains 1.3 kg of refrigerant which has a CO2 equivalent of 1.859 metric tonnes."
+        },
+        "Boom": {
+            "Max Lift Capacity": "40000 lbs (18,144 kg)"
+        },
+        "Dimensions": {
+            "Boom Height (at SAE 1.22 m [4 ft] overhang)": "245 in (622 cm)",
+            "Boom Length": "18 ft (5 m)",
+            "Cat C4.4 ACERT Emissions": "U.S. EPA Tier 4 Final/EU Stage IV/Korea Tier 4 Final",
+            "Cat C7.1 ACERT Emissions": "China Nonroad Stage III, equivalent to Tier 3/Stage IIIA",
+            "DEF Tank(1)": "5 gal (19 l)",
+            "Engine Power - 2,000 rpm - ISO 14396": "157 hp (117 kw)",
+            "Engine Power - 2,000 rpm - SAE J1995": "160 hp (119 kw)",
+            "Fuel Tank": "69 gal (261 l)",
+            "Height - Top of ROPS/FOPS": "118 in (300 cm)",
+            "Height - Top of Stack": "112 in (284 cm)",
+            "Length - Track on Ground": "104 in (264 cm)",
+            "Machine Height - Tip of Winch": "101 in (257 cm)",
+            "Net Power - 2,200 rpm - ISO 9249": "130 hp (97 kw)",
+            "Net Power - 2,200 rpm - ISO 9249 (DIN)": "132 hp (98 kw)",
+            "Net Power - 2,200 rpm - SAE J1349": "128 hp (95 kw)",
+            "Net Power - Caterpillar": "125 hp (93 kw)",
+            "Net Power - EEC 80/1269": "125 hp (93 kw)",
+            "Net Power - SAE J1349": "123.4 hp (92 kw)",
+            "Operating Length": "12.6 ft (4 m)",
+            "Track Gauge": "6.6 ft (2 m)",
+            "Width - Counterweight Extended": "187 in (475 cm)",
+            "Width - Tractor - Counterweight Retracted": "128 in (325 cm)",
+            "Width - Tractor - Counterweight/Boom Removed": "126 in (320 cm)",
+            "Width - Tractor - With 560 mm [22 in] Shoes": "101 in (257 cm)",
+            "Width - Tractor - With 760 mm [30 in] Shoes": "109 in (277 cm)"
+        },
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "403 cu in (0 m)",
+            "Engine Model": "Cat C6.6 ACERT",
+            "Flywheel Power": "125 hp (93 kw)",
+            "Net Power": "125 hp (93 kw)",
+            "Net Power - ISO 9249": "125 hp (93 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic Controls": {
+            "Hydraulic Controls Type": "piston type, variable, two section",
+            "Output - Maximum": "142 gal/min (537 l/min)",
+            "Relief Valve Setting - Counterweight": "2500 psi"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "142 gal/min (537 l/min)",
+            "Pump type": "piston type, variable, two section",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Lift System": {
+            "Lift Capacity at Tipping Point - ISO 8813": "40000 lbs (18,144 kg)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Final Drives Fluid Capacity": "6 gal (23 l)",
+            "Fuel Capacity": "77.9 gal (291 l)",
+            "Hydraulic System Fluid Capacity": "15.3 gal (57 l)"
+        },
+        "Pipelaying Equipment": {
+            "2 Part Line Hook Speed (Hi)": "114 ft/min",
+            "2 Part Line Hook Speed (Lo)": "54 ft/min",
+            "3 Part Line Hook Speed (Hi)": "76 ft/min",
+            "3 Part Line Hook Speed (Lo)": "36 ft/min",
+            "Bare Drum Hook Speed (Hi)": "228 ft/min",
+            "Bare Drum Hook Speed (Lo)": "108 ft/min",
+            "Boom Line Speed": "151 ft/min",
+            "Boom Winch Capacity - 16 mm (5/8 in) Diameter": "162 ft (49 m)",
+            "Boom Winch Drum Diameter": "9.7 in (23 cm)",
+            "Boom Winch Drum Length": "10 in (25 cm)",
+            "Boom Winch Flange Diameter": "14.7 in (36 cm)",
+            "Boom with Wire Rope Installed - 16 mm (5/8 in) Diameter": "130 ft (40 m)",
+            "Counterweight Extendible": "6570 lbs (2,980 kg)",
+            "Hook Winch Capacity - 16 mm (5/8 in) Diameter": "239 ft (73 m)",
+            "Hook Winch Drum Diameter": "8.5 in (20 cm)",
+            "Hook Winch Drum Length": "10 in (25 cm)",
+            "Hook Winch Flange Diameter": "15.5 in (38 cm)",
+            "Hook with Wire Rope Installed - 16 mm (5/8 in) Diameter": "130 ft (40 m)",
+            "Lift Capacity": "40000 lbs (18,144 kg)"
+        },
+        "Service Capacities": {
+            "Cooling System": "6.4 gal (23 l)",
+            "Crankcase - With Filter": "4.4 gal (15 l)",
+            "Final Drive - Each": "6 gal (23 l)",
+            "Fuel Tank": "77.9 gal (291 l)",
+            "Hydraulic Tank": "15.3 gal (57 l)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4650 cu in (0 m)",
+            "Ground Contact Area - LGP": "6200 cu in (0 m)",
+            "Ground Contact Area - Narrow": "4650 cu in (0 m)",
+            "Ground Pressure - LGP": "6.3 psi",
+            "Ground Pressure - Narrow": "8.2 psi",
+            "Ground Pressure(1) - LGP": "5.9 psi",
+            "Ground Pressure(1) - Narrow": "7.8 psi",
+            "Number of Shoes - Each Side": "40",
+            "Number of Shoes per Side": "40",
+            "Number of Shoes/Rollers - Each Side": "40/8",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "22 in (56 cm)",
+            "Track Gauge": "6.6 ft (2 m)",
+            "Track Gauge - LGP": "79 in (201 cm)",
+            "Track Gauge - Narrow": "70 in (178 cm)",
+            "Track on Ground": "104 in (264 cm)",
+            "Track Rollers - Each Side": "7",
+            "Track Shoe Width - LGP": "30 in (76 cm)",
+            "Track Shoe Width - Narrow": "22 in (56 cm)",
+            "Track Shoe Width - Narrow/LGP": "560/760 mm (22/30 in)"
+        },
+        "Weights": {
+            "Cab, 560 mm (22 in) Shoes": "37720 lbs (17,110 kg)",
+            "Cab, 560 mm (22 in) Shoes(1)": "37570 lbs (17,042 kg)",
+            "Cab, 760 mm (30 in) Shoes": "38780 lbs (17,591 kg)",
+            "Cab, 760 mm (30 in) Shoes(1)": "38600 lbs (17,509 kg)",
+            "Operating Weight": "37480 lbs (17,001 kg)",
+            "Operating Weight - LGP": "39242 lbs (17,800 kg)",
+            "Operating Weight - Narrow Shoes": "37480 lbs (17,001 kg)",
+            "Shipping Weight - LGP": "37192 lbs (16,870 kg)",
+            "Shipping Weight - Narrow Shoes": "35428 lbs (16,070 kg)"
+        }
+    }
+}

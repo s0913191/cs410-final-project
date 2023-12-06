@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/john-deere/370e/30681592",
+    "source_url_id": "30681592",
+    "source_url_model": "370e",
+    "source_url_make": "john-deere",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:01.505127",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "John Deere",
+    "equipment_model": "370E",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Rated Payload": "37.1 t (33,566 kg)"
+        },
+        "Engine": {
+            "Make": "Deere",
+            "Model": "PowerTech 13.5L IT4 engine"
+        },
+        "Weights": {
+            "Operating Weight": "67862 lbs (30,782 kg)"
+        }
+    }
+}

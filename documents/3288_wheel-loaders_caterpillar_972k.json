@@ -1,0 +1,93 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/972k/3288",
+    "source_url_id": "3288",
+    "source_url_model": "972k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:50.663880",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "972K",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed",
+            "Maximum Single-Wheel Rise and Fall": "19.5 in (48 cm)",
+            "Rear": "Oscillating ?13  \t\u00b0"
+        },
+        "Brakes": {
+            "Brakes": "Meet OSHA, SAE J1473 OCT90 and ISO 3450-1985 required standards"
+        },
+        "Bucket": {
+            "Bucket Capacities": "13 cu yds (10 m)"
+        },
+        "Cab": {
+            "ROPS/FOPS": "Meets SAE and ISO standards"
+        },
+        "Engine": {
+            "Bore": "4.5 in (10 cm)",
+            "Engine Model": "Cat C9.3 ACERT",
+            "Gross Power": "322 hp (240 kw)",
+            "Maximum Net Power - 1,800 rpm - EEC 80/1269": "288 hp (215 kw)",
+            "Maximum Net Power - 1,800 rpm - EEC 80/1269 - Metric": "292 hp (218 kw)",
+            "Net Power": "288 hp (215 kw)",
+            "Net Power - ISO 9249": "288 hp (215 kw)",
+            "Peak Net Torque - 1,400 rpm - SAE J1349": "985 lbs/ft",
+            "Stroke": "5.9 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2 sec",
+            "Hydraulic Cycle Time - Dump, at Maximum Raise": "2 sec",
+            "Hydraulic Cycle Time - Lower, Empty, Float Down": "2.4 sec",
+            "Hydraulic Cycle Time - Raise from Carry Position": "5.9 sec",
+            "Hydraulic Cycle Time - Total": "10.3 sec",
+            "Implement System - Maximum Operating Pressure": "4496 psi",
+            "Implement System - Optional 3rd Function Maximum Flow": "79.3 gal/min (299 l/min)",
+            "Implement System - Optional 3rd Function Maximum Pressure": "3000 psi",
+            "Pump Flow Capacity": "90 gal/min (341 l/min)",
+            "Pump Type": "PISTON",
+            "Raise Time": "5.9 sec",
+            "Relief Valve Setting": "4496 psi",
+            "Steering System - Pump Type": "Piston"
+        },
+        "Operating Specifications": {
+            "Breakout Force": "44075 lbs (19,992 kg)",
+            "Cooling System Fluid Capacity": "17.4 gal (64 l)",
+            "Fuel Capacity": "101 gal (382 l)",
+            "Hydraulic System Fluid Capacity": "52.3 gal (197 l)",
+            "Operating Weight": "57770 lbs (26,204 kg)",
+            "Transmission Fluid Capacity": "13.2 gal (49 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "17.4 gal (64 l)",
+            "Crankcase": "6.5 gal (23 l)",
+            "Differential - Final Drives - Front": "16.9 gal (61 l)",
+            "Differential - Final Drives - Rear": "16.9 gal (61 l)",
+            "Fuel Tank - Standard": "101 gal (382 l)",
+            "Hydraulic Tank": "52.3 gal (197 l)",
+            "Transmission": "13.2 gal (49 l)"
+        },
+        "Sound": {
+            "Standards": "Standards"
+        },
+        "Tires": {
+            "Tires": "Choices"
+        },
+        "Transmission": {
+            "Forward - 1": "4.4 mph (6 kph)",
+            "Forward - 2": "7.8 mph (11 kph)",
+            "Forward - 3": "13.3 mph (21 kph)",
+            "Forward - 4": "22.9 mph (35 kph)",
+            "Max Speed - Forward": "22.9 mph (35 kph)",
+            "Max Speed - Reverse": "26.2 mph (42 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Reverse - 1": "5 mph (8 kph)",
+            "Reverse - 2": "8.9 mph (13 kph)",
+            "Reverse - 3": "15.2 mph (24 kph)",
+            "Reverse - 4": "26.2 mph (42 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "57770 lbs (26,204 kg)"
+        }
+    }
+}

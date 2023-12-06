@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd-34hf/31007164",
+    "source_url_id": "31007164",
+    "source_url_model": "dd-34hf",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:34.355858",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD-34HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "23.9 in (58 cm)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Overall Length": "8.5 in (20 cm)",
+            "Overall Width": "4.9 ft (1 m)",
+            "Wheelbase": "5.7 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "8205.6 lbs (3,722 kg)",
+            "Drum Diameter": "29.1 in (74 cm)",
+            "Drum Width": "54.1 in (137 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "V2203M diesel",
+            "Gross Power": "44 hp (33 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Fuel Capacity": "18 gal (68 l)",
+            "Hydraulic System Fluid Capacity": "22.5 gal (83 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "6750.6 lbs (3,062 kg)"
+        }
+    }
+}

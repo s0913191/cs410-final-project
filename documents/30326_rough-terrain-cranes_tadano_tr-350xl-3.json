@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/tadano/tr-350xl-3/30326",
+    "source_url_id": "30326",
+    "source_url_model": "tr-350xl-3",
+    "source_url_make": "tadano",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:01.096262",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "TR-350XL-3",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "105 ft (32 m)",
+            "Max Lift Capacity": "69886.6 lbs (31,700 kg)",
+            "Min Height @ Max Raise Angle": "32.7 ft (10 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.6 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "24261.9 ft (7,395 m)",
+            "Transport Height": "11.8 ft (3 m)",
+            "Transport Length": "39.2 ft (12 m)",
+            "Transport Width": "9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "12.8 ft (4 m)",
+            "Wheelbase": "141.2 in (358 cm)",
+            "Width w/ Outriggers Extended": "20.7 ft (6 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type, replaceable element",
+            "Aspiration": "Direct injection diesel",
+            "Bore": "4.7 in (10 cm)",
+            "Cooling system": "Liquid pressurized, recirculating bypass",
+            "Displacement": "460.5 cu in (0 m)",
+            "Engine Make": "Mitsubishi",
+            "Engine Model": "6D16-TLEA",
+            "Fuel Filter": "Full flow with replaceable element",
+            "Gross Power": "246.8 hp (183 kw)",
+            "Max Torque": "521 lbs/ft",
+            "Number of Cylinders": "6",
+            "Oil Filter": "Full flow with replaceable element",
+            "Power Measured @": "2800 rpm",
+            "Radiator Core type": "Fin and tube core, thermostat controlled",
+            "Stroke": "4.6 in (10 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "139.3 gal (526 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "61509 lbs (27,900 kg)",
+            "Tire Size": "20.5-25 24PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "29.3 mph (47 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Electronically controlled full automatic transmission"
+        }
+    }
+}

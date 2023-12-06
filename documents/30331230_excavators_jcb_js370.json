@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/js370/30331230",
+    "source_url_id": "30331230",
+    "source_url_model": "js370",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:43.664555",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "JS370",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "26.5 ft (8 m)",
+            "Max Reach Along Ground": "38.6 ft (12 m)"
+        },
+        "Engine": {
+            "Net Power": "281 hp (210 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "85156 lbs (38,627 kg)"
+        }
+    }
+}

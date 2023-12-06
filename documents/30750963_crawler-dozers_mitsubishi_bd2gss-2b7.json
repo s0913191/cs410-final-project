@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/mitsubishi/bd2gss-2b7/30750963",
+    "source_url_id": "30750963",
+    "source_url_model": "bd2gss-2b7",
+    "source_url_make": "mitsubishi",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:50:22.302043",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Mitsubishi",
+    "equipment_model": "BD2GSS-2B7",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Length of Track on Ground": "6.2 ft (2 m)",
+            "Length w/ Blade": "11 ft (3 m)",
+            "Width Over Tracks": "7.6 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "180.4 cu in (0 m)",
+            "Engine Model": "C S4E2",
+            "Gross Power": "40 hp (30 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "9215.4 lbs (4,180 kg)"
+        },
+        "Standard Blade": {
+            "Height": "23.1 in (58 cm)",
+            "Width": "8.6 ft (2 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "DPS"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "28 in (71 cm)",
+            "Track Gauge": "5.3 ft (2 m)"
+        }
+    }
+}

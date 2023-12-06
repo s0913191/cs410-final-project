@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/leeboy/8500d/30679130",
+    "source_url_id": "30679130",
+    "source_url_model": "8500d",
+    "source_url_make": "leeboy",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:21.032247",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Leeboy",
+    "equipment_model": "8500D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Kubota",
+            "Model": "65hp"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "7.5 lbs (3 kg)",
+            "Paving Speed": "140 ft/min",
+            "Paving Width - max": "up to 15 ft (0 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "15800 lbs (7,167 kg)"
+        }
+    }
+}

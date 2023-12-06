@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/manitou/120xel/47457",
+    "source_url_id": "47457",
+    "source_url_model": "120xel",
+    "source_url_make": "manitou",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:32.273544",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "120XEL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4.8 in (10 cm)",
+            "Height w/ Rails": "8.4 ft (2 m)",
+            "Height w/o Rails": "6 ft (2 m)",
+            "Overall Length": "9.2 in (23 cm)",
+            "Overall Width": "4 ft (1 m)",
+            "Turning Radius": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "310",
+            "Charger Amps": "30",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Max Speed": "2.2 mph (3 kph)",
+            "Operating Weight": "6261.2 lbs (2,840 kg)",
+            "Tire Fill/Type": "Solid, Non-marking",
+            "Tire Size": "16.5x11.25"
+        },
+        "Platform": {
+            "Deck Extension": "47.3 in (119 cm)",
+            "Lift Time": "40 sec",
+            "Lower Time": "54 sec",
+            "Max Platform Height": "33.5 ft (10 m)",
+            "Max Platform Weight Capacity": "705.5 lbs (320 kg)",
+            "Max Working Height": "40.1 ft (12 m)",
+            "Platform Inner Length": "106.3 in (269 cm)",
+            "Platform Inner Width": "47.3 in (119 cm)"
+        }
+    }
+}

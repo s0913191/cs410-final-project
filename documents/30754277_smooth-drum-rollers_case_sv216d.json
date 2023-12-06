@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/case/sv216d/30754277",
+    "source_url_id": "30754277",
+    "source_url_model": "sv216d",
+    "source_url_make": "case",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:33.914452",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Case",
+    "equipment_model": "SV216D",
+    "equipment_spec": {
+        "Capacities": {
+            "Engine coolant": "9 gal (34 l)",
+            "Engine Oil": "3.6 gal (11 l)",
+            "Fuel Tank": "92.5 gal (348 l)",
+            "Hydraulic oil tank": "24.4 gal (91 l)",
+            "Transmission": "0.7 gal (0 l)",
+            "Vibration system": "408.9 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "17.4 in (43 cm)",
+            "Overall Length": "241.8 in (612 cm)",
+            "Overall Width": "7.5 ft (2 m)",
+            "Wheelbase": "120.1 in (305 cm)"
+        },
+        "Drive System": {
+            "Differential / Lock system": "Drive motor interlock",
+            "Drive": "Hydrostatic",
+            "Emergency brake": "Multi-disc",
+            "Grade ability without traction assist": "62  \t\u00b0",
+            "Parking brakes": "Multi-disc",
+            "piston type wheel drive pump": "1",
+            "Wheel drive": "1"
+        },
+        "Drum": {
+            "Drum thickness": "1.6 in (3 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Frame extensions": "43.4 in (109 cm)",
+            "Padfoot drum": "64.6 in (163 cm)",
+            "Smooth drum": "5 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "45",
+            "Battery": "2 X90 Amp",
+            "Voltage": "24 V"
+        },
+        "Engine": {
+            "Displacement": "250.2 cu in (0 m)",
+            "Emissions Certification": "Tier 4 Final",
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD4.1 L4",
+            "Gross engine horsepower": "2200",
+            "Gross Power": "154 hp (115 kw)",
+            "Max Torque": "449.2 lbs/ft",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Pad foot drum_Operating weight with out cab": "31438 lbs (14,260 kg)",
+            "Padfoot drum_ Max. weight with cab": "40785.6 lbs (18,500 kg)",
+            "Smooth drum Drum weight": "11351.7 lbs (5,149 kg)",
+            "Smooth drum Max. weight with Cab": "40785.6 lbs (18,500 kg)",
+            "Smooth drum Operating weight with Cab": "31636.4 lbs (14,350 kg)",
+            "Smooth drum_Static linear load": "107.6 lbs (49 kg)"
+        }
+    }
+}

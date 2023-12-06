@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/steyr/9085-mt/30751379",
+    "source_url_id": "30751379",
+    "source_url_model": "9085-mt",
+    "source_url_make": "steyr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:55.006025",
+    "equipment_category": "Tractors",
+    "equipment_make": "Steyr",
+    "equipment_model": "9085 MT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Overall Length": "13.9 in (33 cm)",
+            "Tire Size": "Front 14.9 R24, Rear 18.4 R34",
+            "Wheelbase": "8.2 ft (2 m)",
+            "Width Outside Frame": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, intercooled",
+            "Displacement": "268.4 cu in (0 m)",
+            "Gross Power": "86 hp (64 kw)",
+            "Net Power": "85.5 hp (63 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "Torque Rise": "37%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "13.3 gal/min (49 l/min)",
+            "Relief Valve Pressure": "2538.2 psi"
+        },
+        "Operating Specifications": {
+            "Turning Radius": "15.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "STEYR Power-2"
+        }
+    }
+}

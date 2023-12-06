@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cg223hf/30754037",
+    "source_url_id": "30754037",
+    "source_url_model": "cg223hf",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:35.506511",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CG223HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.7 in (25 cm)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Overall Length": "12.8 in (30 cm)",
+            "Overall Width": "5.2 ft (2 m)",
+            "Wheelbase": "9.2 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "20008 lbs (9,076 kg)",
+            "Centrifugal Force - Low": "8767.6 lbs (3,977 kg)",
+            "Drum Diameter": "44.1 in (112 cm)",
+            "Drum Width": "57.1 in (145 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "54 hz (3,240 vpm)",
+            "Vibration Frequency 2": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "air cooled",
+            "Engine Model": "BF4M 2011",
+            "Gross Power": "84 hp (63 kw)",
+            "Power Measured @": "2700 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "16534 lbs (7,500 kg)"
+        }
+    }
+}

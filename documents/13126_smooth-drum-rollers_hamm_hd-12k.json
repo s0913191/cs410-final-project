@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-12k/13126",
+    "source_url_id": "13126",
+    "source_url_model": "hd-12k",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:58.200487",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 12K",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "5.5 ft (2 m)",
+            "Overall Length": "8 in (20 cm)",
+            "Overall Width": "4.2 ft (1 m)",
+            "Turning Radius - Inside": "88 in (224 cm)"
+        },
+        "Drum": {
+            "Drum Width": "47 in (119 cm)",
+            "Vibration Frequency": "3300 hz (198,000 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "F2L1011F",
+            "Gross Power": "24.9 hp (18 kw)",
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Operating Width": "47 in (119 cm)",
+            "Water Spray Tank Fluid Capacity": "52.9 gal (197 l)"
+        },
+        "Weights": {
+            "Operating Weight - standard": "5732.1 lbs (2,600 kg)"
+        }
+    }
+}

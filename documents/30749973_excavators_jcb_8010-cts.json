@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/8010-cts/30749973",
+    "source_url_id": "30749973",
+    "source_url_model": "8010-cts",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:04:18.837723",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "8010 CTS",
+    "equipment_spec": {
+        "Boom": {
+            "Boom swing left": "70  \t\u00b0",
+            "Boom swing right": "70  \t\u00b0",
+            "Bucket rotation": "201  \t\u00b0",
+            "Bucket tearout": "2090.8 lbs (948 kg)",
+            "Dipper tearout": "1034.2 lbs (469 kg)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Height": "8.6 ft (2 m)",
+            "Max Reach Along Ground": "10.2 ft (3 m)",
+            "Max.Dumping Height": "5.9 ft (2 m)",
+            "Maximum digging depth - dozer up": "6.3 ft (2 m)",
+            "Maximum vertical wallcut depth": "5.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall length": "9.8 ft (3 m)",
+            "Tail Swing Radius": "3 ft (1 m)",
+            "Undercarriage Overall Length": "4.1 ft (1 m)",
+            "Width Over Tracks": "2.3 ft (1 m)"
+        },
+        "Engine": {
+            "Alternator": "15 A",
+            "Cooling system": "Water cooled",
+            "Displacement": "69017.9 cu in (1 m)",
+            "Engine Model": "403D-11",
+            "Net Power": "18.6 hp (13 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "6.4 gal/min (23 l/min)",
+            "Excavator/track main relief": "180 bar",
+            "Nominal output": "3.2 gal/min (11 l/min)",
+            "Pump Type": "3 section gear",
+            "Slew main relief": "95 lpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "0.8 gal (0 l)",
+            "Fuel Capacity": "3.1 gal (11 l)",
+            "Hydraulic Pump Flow Capacity": "4.3 gal/min (15 l/min)",
+            "Hydraulic System Fluid Capacity": "5.6 gal (19 l)",
+            "Operating Weight": "2447.2 lbs (1,110 kg)"
+        },
+        "Performance": {
+            "Gradeability": "35%"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "2023.3 lbs (918 kg)",
+            "Number of Track Rollers per Side": "3",
+            "Track tension": "Grease"
+        }
+    }
+}

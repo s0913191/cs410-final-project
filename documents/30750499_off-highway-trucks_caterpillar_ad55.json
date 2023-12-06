@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/ad55/30750499",
+    "source_url_id": "30750499",
+    "source_url_model": "ad55",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:53.192545",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "AD55",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Overall Height": "16.5 ft (5 m)",
+            "Overall Length": "37.9 ft (11 m)",
+            "Overall Width": "11 ft (3 m)",
+            "Wheelbase": "19.4 ft (6 m)"
+        },
+        "Dump": {
+            "Capacity - Struck": "35.2 cu yds (27 m)",
+            "Lower Time": "4 sec",
+            "Raise Time": "11 sec"
+        },
+        "Engine": {
+            "Displacement": "1106.5 cu in (0 m)",
+            "Engine Model": "C18 ATTAAC",
+            "Gross Power": "650 hp (485 kw)",
+            "Net Power": "617 hp (460 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "22.5 gal (83 l)",
+            "Engine Oil Capacity": "17 gal (64 l)",
+            "Fuel Capacity": "201.9 gal (761 l)",
+            "Hydraulic System Fluid Capacity": "70.3 gal (265 l)",
+            "Tire Size": "25x65 R33",
+            "Transmission Fluid Capacity": "15.9 gal (57 l)"
+        },
+        "Transmission": {
+            "Max Speed": "26.9 mph (42 kph)",
+            "Number of Forward Gears": "7",
+            "Number of Reverse Gears": "2"
+        },
+        "Weights": {
+            "Front Axle - empty": "69004 lbs (31,300 kg)",
+            "Rear Axle - empty": "34612 lbs (15,700 kg)",
+            "Total Empty": "103617 lbs (47,000 kg)"
+        }
+    }
+}

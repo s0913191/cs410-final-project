@@ -1,0 +1,71 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/bx1880/30680119",
+    "source_url_id": "30680119",
+    "source_url_model": "bx1880",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:26:45.741063",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "BX1880",
+    "equipment_spec": {
+        "Brakes": {
+            "Brakes Type": "Wet disc"
+        },
+        "Dimensions": {
+            "Front Tread Range": "36.7 in (91 cm)",
+            "Ground Clearance": "7.6 in (18 cm)",
+            "Height - Top of ROPS/FOPS": "6.9 ft (2 m)",
+            "Rear Tread Range": "32.3 in (81 cm)",
+            "Tire Size": "24x12.00-12",
+            "Wheelbase": "4.6 ft (1 m)",
+            "Width": "44.1 in (112 cm)"
+        },
+        "Drive System": {
+            "Drive": "4WD"
+        },
+        "Electrical System": {
+            "Batteries": "V"
+        },
+        "Engine": {
+            "Bore": "2.7 in (5 cm)",
+            "Displacement": "43.9 cu in (0 m)",
+            "Engine Make": "KUBOTA",
+            "Engine Model": "D722",
+            "Engine Type": "Liquid-cooled, 3-cylinder diesel",
+            "Gross Power": "18 hp (13 kw)",
+            "Max Torque": "33.2 lbs/ft",
+            "Number of Cylinders": "3",
+            "Power Measured @": "3450 rpm",
+            "PTO Power": "13.7 hp (10 kw)",
+            "Stroke": "2.7 in (5 cm)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "6.2 gal/min (23 l/min)",
+            "Relief Valve Pressure": "1790 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "683.5 lbs (310 kg)",
+            "3 Point Hitch Type": "SAE Category I",
+            "Cooling System Fluid Capacity": "0.8 gal (0 l)",
+            "Fuel Capacity": "6.6 gal (23 l)",
+            "Operating Weight": "1336.1 lbs (606 kg)"
+        },
+        "Power Take-Off (PTO)": {
+            "Mid- PTO": "Live independent PTO",
+            "PTO type": "STD (540rpm)",
+            "Rear PTO": "STD (2500rpm)"
+        },
+        "Production": {
+            "Series": "BX80 Series",
+            "Years Manufactured": "2017 -"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic transmission",
+            "Travelspeeds(FRWD)Speed range": "7.8 mph (11 kph)"
+        }
+    }
+}

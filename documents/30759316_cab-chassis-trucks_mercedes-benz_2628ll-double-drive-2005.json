@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/mercedes-benz/2628ll-double-drive-2005/30759316",
+    "source_url_id": "30759316",
+    "source_url_model": "2628ll-double-drive-2005",
+    "source_url_make": "mercedes-benz",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:57:18.154728",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Mercedes-Benz",
+    "equipment_model": "2628LL Double Drive (2005)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.9 in (28 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Number of Rear Axles": "2",
+            "Tire Size": "315/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length From Back of Cab to End of Frame": "235.83 in (597 cm)",
+            "Length from Back of Cab to End of Frame": "235.9 in (597 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "47.25 in (119 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "47.3 in (119 cm)",
+            "Overall Length": "27.3 ft (8 m)",
+            "Total Chassis Weight": "16865.4 lbs (7,650 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "29.9 ft (9 m)",
+            "Wheelbase": "153.6 in (389 cm)"
+        }
+    }
+}

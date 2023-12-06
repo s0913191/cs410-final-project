@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/982m/40769",
+    "source_url_id": "40769",
+    "source_url_model": "982m",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:55.461110",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "982M",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.0 ft (3 m)"
+        },
+        "Engine": {
+            "Model": "C13 ACERT",
+            "Net Power": "392 hp (292 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "6 - 15.80 cu yds (5 - 11 m)"
+        },
+        "Weights": {
+            "Operational Weight": "78382 lbs (35,554 kg)"
+        }
+    }
+}

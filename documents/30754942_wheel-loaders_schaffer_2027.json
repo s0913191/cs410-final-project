@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/schaffer/2027/30754942",
+    "source_url_id": "30754942",
+    "source_url_model": "2027",
+    "source_url_make": "schaffer",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:09.862315",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Schaffer",
+    "equipment_model": "2027",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.4 cu yds (0 m)",
+            "Bucket Width": "4.2 ft (1 m)",
+            "Dump Clearance at Max Raise": "6.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.7 ft (0 m)",
+            "Height - Top of Cab": "5.8 ft (2 m)",
+            "Length with Bucket on Ground": "11.5 ft (3 m)",
+            "Reach at Max Lift and Dump": "2 ft (1 m)",
+            "Wheelbase": "4.6 ft (1 m)",
+            "Width Over Tires": "3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "67.2 cu in (0 m)",
+            "Engine Model": "D1105",
+            "Net Power": "25.1 hp (19 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "3000 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "3307 lbs (1,500 kg)",
+            "Static Tipping Weight": "1587.4 lbs (720 kg)",
+            "Tire Size": "26x12-12",
+            "Turning Radius": "3.2 ft (1 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "9.4 mph (14 kph)",
+            "Max Speed - Reverse": "9.4 mph (14 kph)",
+            "Number of Forward Gears": "1",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

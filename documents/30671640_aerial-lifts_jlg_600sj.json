@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/600sj/30671640",
+    "source_url_id": "30671640",
+    "source_url_model": "600sj",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:02.692996",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "600SJ",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,000/500 lbs (454 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "ST/60.5 ft (0 m)",
+            "Stowed Height": "8.5 ft (2 m)",
+            "Stowed Width": "7.11 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "15x19.5"
+        },
+        "Transmission": {
+            "4WD": "avail"
+        }
+    }
+}

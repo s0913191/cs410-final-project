@@ -1,0 +1,93 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/789d/7524",
+    "source_url_id": "7524",
+    "source_url_model": "789d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:45.867325",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "789D",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "2WD"
+        },
+        "Dump": {
+            "Rated Payload": "181 t (164,200 kg)"
+        },
+        "Engine": {
+            "Bore": "6.7 in (15 cm)",
+            "Displacement": "4766 cu in (0 m)",
+            "Engine Model": "3516C - HD",
+            "Gross Power": "2100 hp (1,566 kw)",
+            "Gross Power - SAE J1995": "2100 hp (1,566 kw)",
+            "Net Power": "1969 hp (1,468 kw)",
+            "Stroke": "8.3 in (20 cm)"
+        },
+        "Weights": {
+            "Body Weight Range": "715000",
+            "Front Axle - Empty": "46%",
+            "Front Axle - Loaded": "33%",
+            "Gross Machine Operating Weight (GMW)": "Standards lbs (0 kg)",
+            "Operating Weight - Loaded": "SAE J1511 OCT90 ISO 5010:1992 lbs (0 kg)",
+            "Rear Axle - Empty": "54%",
+            "Rear Axle - Loaded": "67%"
+        },
+        "Body Hoists": {
+            "Body Raise Time - High Idle": "18.9 sec",
+            "Pump Flow - High Idle": "193 gal/min (731 l/min)",
+            "Relief Valve Setting - Raise": "2500 psi"
+        },
+        "Brakes": {
+            "Brake Surface - Front": "12662 cu in (0 m)",
+            "Brake Surface - Rear": "SAE J1473 OCT90 ISO 3450:1996 cu in (0 m)",
+            "Standards": "2.35:1"
+        },
+        "Final Drives": {
+            "Differential Ratio": "25.46:1",
+            "Planetary Ratio": "10.83:1",
+            "Total Reduction Ratio": "400000"
+        },
+        "Operating Specifications": {
+            "Nominal Payload Capacity": "400000 lbs (181,439 kg)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Standard MSD Body (SAE 2:1)": "170 cu yds (130 m)"
+        },
+        "ROPS": {
+            "ROPS Standards": "Standards"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "192 gal (727 l)",
+            "Crankcase": "77 gal (291 l)",
+            "Differential - Final Drives": "154 gal (583 l)",
+            "Fuel Tank - Optional": "23 920 kg-45 547 kg (52,850 lb-100,414 lb) gal (87 l)",
+            "Fuel Tank - Standard": "1000 gal (3,785 l)"
+        },
+        "Sound": {
+            "Sound Standards": "Standards"
+        },
+        "Steering System": {
+            "Steering Standards": "37.00-R57"
+        },
+        "Suspension": {
+            "Effective Cylinder Stroke - Front": "3.5 in (8 cm)",
+            "Effective Cylinder Stroke - Rear": "3.5 in (8 cm)",
+            "Rear axle - Oscillation": "4 \t\u00b0"
+        },
+        "Tires": {
+            "Standard Tires": "37.00-R57"
+        },
+        "Transmission": {
+            "Forward - 1": "7.8 mph (11 kph)",
+            "Forward - 2": "10.6 mph (16 kph)",
+            "Forward - 3": "14.4 mph (23 kph)",
+            "Forward - 4": "19.4 mph (31 kph)",
+            "Forward - 5": "26.3 mph (42 kph)",
+            "Forward - 6": "35.5 mph (56 kph)",
+            "Reverse": "7.3 mph (11 kph)"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6430-cab-tractor/30751225",
+    "source_url_id": "30751225",
+    "source_url_model": "6430-cab-tractor",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:22:41.912802",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6430 Cab Tractor",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, air-to-water aftercooling",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Make": "2240",
+            "Gross Power": "115 hp (86 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "PTO Power": "95 hp (71 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "43.6 gal (163 l)",
+            "Operating Weight": "8987 lbs (4,077 kg)",
+            "Tire Size Front - 2wd / 4wd": "14.9R24",
+            "Turning Radius": "14.7 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4R34"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Syncro Plus"
+        }
+    }
+}

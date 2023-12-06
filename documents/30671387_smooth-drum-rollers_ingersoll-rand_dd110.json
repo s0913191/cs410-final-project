@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd110/30671387",
+    "source_url_id": "30671387",
+    "source_url_model": "dd110",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:36.471703",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD110",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "152.4 in (386 cm)"
+        },
+        "Drum": {
+            "Drum Width": "78 in (198 cm)",
+            "Vibration Frequency": "1,850-2,500 hz (111,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "87.2 in (221 cm)"
+        }
+    }
+}

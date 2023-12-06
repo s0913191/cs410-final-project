@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/rammax/p35k4b/30571569",
+    "source_url_id": "30571569",
+    "source_url_model": "p35k4b",
+    "source_url_make": "rammax",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:20.578496",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Rammax",
+    "equipment_model": "P35K4B",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "35 in (89 cm)",
+            "Vibration Frequency": "2040 hz (122,400 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "43 in (109 cm)"
+        }
+    }
+}

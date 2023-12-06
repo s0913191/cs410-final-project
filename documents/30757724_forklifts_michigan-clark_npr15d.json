@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/michigan-clark/npr15d/30757724",
+    "source_url_id": "30757724",
+    "source_url_model": "npr15d",
+    "source_url_make": "michigan-clark",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:36:24.844673",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Michigan / Clark",
+    "equipment_model": "NPR15D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.8 in (3 cm)",
+            "Height to Top of Overhead Guard": "8 ft (2 m)",
+            "Length to Fork Face": "5.1 ft (2 m)",
+            "Max Fork Height": "17.5 ft (5 m)",
+            "Overall Height - mast lowered": "8 ft (2 m)",
+            "Overall Width": "3.4 ft (1 m)",
+            "Right Angle Stack": "8.9 ft (2 m)",
+            "Turning Radius": "6.4 ft (2 m)",
+            "Wheelbase": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Electric 36V"
+        },
+        "MAST": {
+            "Lift Speed": "82 ft/min",
+            "Load Capacity": "3000 lbs (1,361 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "90 ft/min",
+            "Mast Tip Forward": "3  \t\u00b0",
+            "Mast Tip Rear": "4  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "7.1 mph (11 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "8708 lbs (3,950 kg)",
+            "Tire Type": "Solid"
+        }
+    }
+}

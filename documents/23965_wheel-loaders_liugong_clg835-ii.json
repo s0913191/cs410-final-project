@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/clg835-ii/23965",
+    "source_url_id": "23965",
+    "source_url_model": "clg835-ii",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:21.672350",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "CLG835 II",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "21019.7 lbs (9,534 kg)",
+            "Bucket Capacity - heaped": "2.3 cu yds (2 m)",
+            "Bucket Width": "8.1 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.6 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Hinge Pin - Max Height": "12.3 ft (4 m)",
+            "Length with Bucket on Ground": "22.8 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "9.2 ft (3 m)",
+            "Width Over Tires": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "QSB5.9-C130",
+            "Net Power": "130 hp (97 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "2.9 sec",
+            "Raise Time": "4.8 sec",
+            "Relief Valve Setting": "2320.7 psi"
+        },
+        "Operating Specifications": {
+            "Engine Oil Fluid Capacity": "3.2 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "7.4 gal (27 l)",
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Hydraulic System Fluid Capacity": "39.7 gal (148 l)",
+            "Operating Weight": "25573.7 lbs (11,600 kg)",
+            "Rear Axle/Diff Fluid Capacity": "7.4 gal (27 l)",
+            "Static Tipping Weight": "14550.6 lbs (6,600 kg)",
+            "Tire Size": "17.5-25",
+            "Transmission Fluid Capacity": "10.6 gal (38 l)",
+            "Turning Radius": "16.3 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23 mph (37 kph)",
+            "Max Speed - Reverse": "14.3 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "counter shaft type powershift"
+        }
+    }
+}

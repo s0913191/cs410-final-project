@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/takeuchi/tl10v2/30479220",
+    "source_url_id": "30479220",
+    "source_url_model": "tl10v2",
+    "source_url_make": "takeuchi",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:10.732769",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TL10V2",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "3600 lbs (1,633 kg)",
+            "Operating Width": "68.5 in (173 cm)"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/621f/2827",
+    "source_url_id": "2827",
+    "source_url_model": "621f",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:32.239250",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "621F",
+    "equipment_spec": {
+        "Brakes": {
+            "Service brake": "Wet Multi Disc"
+        },
+        "Bucket": {
+            "Breakout Force": "25425.9 lbs (11,533 kg)",
+            "Bucket Capacity - heaped": "2.7 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Dump reach @ full height, 45 degrees dump": "3.2 ft (1 m)",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Hinge Pin - Max Height": "12.6 ft (4 m)",
+            "Length with Bucket on Ground": "24 ft (7 m)",
+            "Reach at Max Lift and Dump": "4.9 ft (1 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "120 A",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emissions": "Tier 4",
+            "Engine Model": "FPT F4HFE613W",
+            "Engine speed - Rated speed, full load": "2000 rpm",
+            "Gross Power": "172 hp (128 kw)",
+            "Make": "Case",
+            "Max Torque": "538.5 lbs/ft",
+            "Net Power": "152 hp (113 kw)",
+            "Number of Cylinders": "6"
+        },
+        "Hydraulic cycle times (unloaded)": {
+            "Total cycle time": "11.9 sec"
+        },
+        "Hydraulic System": {
+            "Maximum system pressure": "3625 psi",
+            "Pump Flow Capacity": "45.2 gal/min (170 l/min)",
+            "Pump Type": "Axial Piston Pump",
+            "Steering pump type": "Articulation"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "120  A",
+            "Cooling System Fluid Capacity": "7.1 gal (27 l)",
+            "DEF tank capacity": "15.6 gal (57 l)",
+            "Front Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "65 gal (246 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "26711 lbs (12,116 kg)",
+            "Rated Bucket Capacity": "4.5 cu yds (3 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Static Tipping Weight": "19559.5 lbs (8,872 kg)",
+            "Transmission Fluid Capacity": "7.1 gal (27 l)"
+        },
+        "Transmission": {
+            "Differential lock": "F: LSD / R: LSD",
+            "Max Speed - Forward": "24 mph (39 kph)",
+            "Max Speed - Reverse": "15.5 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Weights": {
+            "Operational Weight": "26711 lbs (12,116 kg)"
+        }
+    }
+}

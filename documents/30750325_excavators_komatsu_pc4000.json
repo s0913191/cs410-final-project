@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc4000/30750325",
+    "source_url_id": "30750325",
+    "source_url_model": "pc4000",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:11:47.278778",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC4000",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Max Dig Depth": "26.3 ft (8 m)",
+            "Max Reach on Ground": "54.5 ft (16 m)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "26.25 ft (8 m)",
+            "Max Reach Along Ground": "26.25 ft (8 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "28.8 cu yds (21 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "26 ft (8 m)",
+            "Digging Reach": "26 ft (8 m)"
+        },
+        "Engine": {
+            "Net Power": "1875 hp (1,398 kw)"
+        },
+        "Loading Shovel": {
+            "Arm Crowd Force": "300000 lbs/ft",
+            "Max Dump Height": "39.4 ft (12 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "839000 lbs (380,568 kg)"
+        },
+        "Undercarriage": {
+            "Backhoe Shoe Width 1": "78 in (198 cm)",
+            "Loading Shovel Shoe Width": "158 in (401 cm)",
+            "Max Travel Speed": "1.3 mph (2 kph)",
+            "Number of Lower Rollers": "7",
+            "Number of Track Shoes per Side": "47",
+            "Number of Upper Rollers": "3"
+        }
+    }
+}

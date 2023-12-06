@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/892e-lc-long-front/30748333",
+    "source_url_id": "30748333",
+    "source_url_model": "892e-lc-long-front",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:07:04.529968",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "892E LC Long Front",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "50 ft (15 m)",
+            "Max Digging Depth": "45.2 ft (14 m)",
+            "Max Loading Height": "44.3 ft (13 m)",
+            "Max Reach Along Ground": "60 ft (18 m)",
+            "Shipping Height of Unit": "11 ft (3 m)",
+            "Shipping Length of Unit": "47 ft (14 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Length of Track on Ground": "15.2 ft (5 m)",
+            "Removal Counterweight Clearance": "3.9 ft (1 m)",
+            "Tail Swing Radius": "10.9 ft (3 m)",
+            "Width to Outside of Tracks": "11.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with aftercooler",
+            "Displacement": "466 cu in (0 m)",
+            "Engine Model": "6076A",
+            "Gross Power": "232 hp (173 kw)",
+            "Max Torque": "650 lbs/ft",
+            "Net Power": "220 hp (164 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "42 A",
+            "Cooling System Fluid Capacity": "34 gal (129 l)",
+            "Engine Oil Capacity": "7.5 gal (27 l)",
+            "Fuel Capacity": "135 gal (511 l)",
+            "Hydraulic Pump Flow Capacity": "144 gal/min (545 l/min)",
+            "Hydraulic System Fluid Capacity": "82 gal (310 l)",
+            "Hydraulic System Relief Valve Pressure": "4270 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "65120 lbs (29,538 kg)",
+            "Swing Drive Fluid Capacity": "13.8 gal (49 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "51200 lbs (23,224 kg)",
+            "Ground Pressure": "6.6 psi",
+            "Max Travel Speed": "2.6 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "50",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        }
+    }
+}

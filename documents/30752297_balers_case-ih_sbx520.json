@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/case-ih/sbx520/30752297",
+    "source_url_id": "30752297",
+    "source_url_model": "sbx520",
+    "source_url_make": "case-ih",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:59:02.845883",
+    "equipment_category": "Balers",
+    "equipment_make": "Case Ih",
+    "equipment_model": "SBX520",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "1.5 ft (0 m)",
+            "Bale Length - max": "4.3 ft (1 m)",
+            "Bale Length - min": "1 ft (0 m)",
+            "Bale Width": "1.2 ft (0 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "manual",
+            "Number of Bars": "4",
+            "Number of Tines": "88",
+            "Tine to Tine Width": "5.4 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "4.7 ft (1 m)",
+            "Overall Length": "20 ft (6 m)",
+            "Overall Width": "9 ft (3 m)",
+            "Tractor PTO Power Required": "35 hp (26 kw)",
+            "Weight": "3137 lbs (1,423 kg)"
+        },
+        "Feeding Chamber": {
+            "Feed Opening": "283 cu in (0 m)",
+            "Stuffer Type": "6 feeder tines on moving finger bar"
+        },
+        "Plunger": {
+            "Bearing Type": "5 sealed ball",
+            "Density Control": "springs",
+            "SPM": "79",
+            "Stroke Length": "30 in (76 cm)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "4",
+            "Twine Type": "knotter"
+        }
+    }
+}

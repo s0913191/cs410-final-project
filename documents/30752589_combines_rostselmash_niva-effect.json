@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/rostselmash/niva-effect/30752589",
+    "source_url_id": "30752589",
+    "source_url_model": "niva-effect",
+    "source_url_make": "rostselmash",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:33.533802",
+    "equipment_category": "Combines",
+    "equipment_make": "Rostselmash",
+    "equipment_model": "Niva-Effect",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "723 rpm",
+            "Cleaning Fan Speed - Low": "432 rpm",
+            "Total Cleaning Area": "3751.1 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "13.1 ft (4 m)",
+            "Overall Length": "35.9 ft (11 m)",
+            "Wheelbase": "11.7 ft (3 m)",
+            "Width Over Tires": "13.6 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "D-260.1",
+            "Power": "152.9 hp (113 kw)"
+        },
+        "Feeding": {
+            "Conveyor Speed": "42 rpm",
+            "Conveyor Width": "210.7 in (533 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "85.2 bu",
+            "Unloading Discharge Height": "8.6 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Operating Weight w/o Attachment": "14632.1 lbs (6,637 kg)"
+        },
+        "Separating": {
+            "Separating Area": "6727.1 cu in (0 m)",
+            "Separator Length": "142.5 in (361 cm)",
+            "Separator Type": "4 key straw walker"
+        },
+        "Threshing": {
+            "Concave Area": "1441.6 cu in (0 m)",
+            "Rotor Diameter": "23.7 in (58 cm)",
+            "Rotor Length": "46.7 in (117 cm)",
+            "Rotor Speed - High": "1260 rpm",
+            "Rotor Speed - Low": "743 rpm"
+        }
+    }
+}

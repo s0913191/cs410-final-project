@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/1650m-lgp/30747948",
+    "source_url_id": "30747948",
+    "source_url_model": "1650m-lgp",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:13.946458",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "1650M LGP",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Case",
+            "Model": "F4HFE6132 Tier IV Interim",
+            "Net Power": "150 hp (112 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "39300 lbs (17,826 kg)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/oilfield-trailers/talbert/60fg-oil-field/30761862",
+    "source_url_id": "30761862",
+    "source_url_model": "60fg-oil-field",
+    "source_url_make": "talbert",
+    "source_url_category": "oilfield-trailers",
+    "source_date_scraped": "2023-09-13 17:54:35.632887",
+    "equipment_category": "Oilfield Trailers",
+    "equipment_make": "Talbert",
+    "equipment_model": "60FG (Oil Field)",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "Starting 53 ft (0 m)"
+        },
+        "Weights": {
+            "Equipment Weight": "27160 lbs (12,320 kg)",
+            "Weight Capacity": "120000 lbs (54,432 kg)"
+        }
+    }
+}

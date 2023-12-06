@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/sumitomo/sh135xu-3b/30748605",
+    "source_url_id": "30748605",
+    "source_url_model": "sh135xu-3b",
+    "source_url_make": "sumitomo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:18:30.195336",
+    "equipment_category": "Excavators",
+    "equipment_make": "Sumitomo",
+    "equipment_model": "SH135XU-3B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "16 ft (5 m)",
+            "Max Loading Height": "19.8 ft (6 m)",
+            "Max Reach Along Ground": "23.7 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "11.8 ft (3 m)",
+            "Shipping Height of Unit": "9.3 ft (3 m)",
+            "Shipping Length of Unit": "24.3 ft (7 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.6 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Length of Track on Ground": "9.2 ft (3 m)",
+            "Tail Swing Radius": "4.9 ft (1 m)",
+            "Width to Outside of Tracks": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "177 cu in (0 m)",
+            "Engine Model": "AJ 4IJJIX",
+            "Net Power": "95.1 hp (71 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "61.9 gal/min (231 l/min)",
+            "Hydraulic System Relief Valve Pressure": "4974.8 psi",
+            "Operating Weight": "32628.5 lbs (14,800 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Shoe Size": "19.7 in (48 cm)"
+        }
+    }
+}

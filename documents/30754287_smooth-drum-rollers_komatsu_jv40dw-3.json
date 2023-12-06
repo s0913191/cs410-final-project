@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/komatsu/jv40dw-3/30754287",
+    "source_url_id": "30754287",
+    "source_url_model": "jv40dw-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:09.706051",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "JV40DW-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "2.7 ft (1 m)",
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of Cab": "5.8 ft (2 m)",
+            "Overall Length": "10.2 in (25 cm)",
+            "Overall Width": "4.6 ft (1 m)",
+            "Wheelbase": "7.6 in (18 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "5510 lbs (2,499 kg)",
+            "Drum Diameter": "31.5 in (79 cm)",
+            "Drum Width": "51.2 in (130 cm)",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)"
+        },
+        "Engine": {
+            "Displacement": "87.3 cu in (0 m)",
+            "Engine Model": "3D84E",
+            "Gross Power": "27.7 hp (20 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2700 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "12.5 gal (45 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Weight": "8598.1 lbs (3,900 kg)"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/versatile/555/30670049",
+    "source_url_id": "30670049",
+    "source_url_model": "555",
+    "source_url_make": "versatile",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:21.200455",
+    "equipment_category": "Tractors",
+    "equipment_make": "Versatile",
+    "equipment_model": "555",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "252.8 in (640 cm)",
+            "Wheelbase": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "555.4 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "VT-555-C",
+            "Gross Power": "210 hp (157 kw)",
+            "Number of Cylinders": "8",
+            "PTO Power": "182 hp (136 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Open-center",
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "23.2 gal/min (87 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "3, 3N/2",
+            "Cooling System Fluid Capacity": "11 gal (42 l)",
+            "Engine Oil Capacity": "6.5 gal (23 l)",
+            "Front Tire Size": "18.4x38",
+            "Fuel Capacity": "120 gal (454 l)",
+            "Hydraulic System Fluid Capacity": "21 gal (79 l)",
+            "Operating Weight": "22000 lbs (9,979 kg)",
+            "Rear Tire Size": "18.4x38"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "17.3 mph (27 kph)",
+            "Max Speed - Reverse": "5.5 mph (8 kph)",
+            "Number of Forward Gears": "15",
+            "Number of Reverse Gears": "5"
+        }
+    }
+}

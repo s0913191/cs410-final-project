@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/792/19347",
+    "source_url_id": "19347",
+    "source_url_model": "792",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:06:54.340526",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "792",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Shipping Height of Unit": "10.5 ft (3 m)",
+            "Shipping Length of Unit": "35.8 ft (11 m)"
+        },
+        "Dimensions": {
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with aftercooler",
+            "Displacement": "466 cu in (0 m)",
+            "Engine Model": "400 Series",
+            "Max Torque": "590 lbs/ft",
+            "Net Power": "180 hp (134 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "42 A",
+            "Cooling System Fluid Capacity": "47.6 gal (178 l)",
+            "Engine Oil Capacity": "24.6 gal (91 l)",
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Hydraulic Pump Flow Capacity": "68.7 gal/min (257 l/min)",
+            "Hydraulic System Fluid Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Relief Valve Pressure": "3770 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "60280 lbs (27,343 kg)",
+            "Swing Drive Fluid Capacity": "12.7 gal (45 l)"
+        }
+    }
+}

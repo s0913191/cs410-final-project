@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/3910/30465672",
+    "source_url_id": "30465672",
+    "source_url_model": "3910",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:21.287271",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "3910",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "47  hp"
+        },
+        "Production": {
+            "Series": "10 Utility Series",
+            "Year Manufactured": "1983 - 1989"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tb110-low-profile/30751137",
+    "source_url_id": "30751137",
+    "source_url_model": "tb110-low-profile",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:09.395080",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TB110 Low-Profile",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.5 in (28 cm)",
+            "Height": "6.6 ft (2 m)",
+            "Height - Top of Cab": "5.3 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.2 ft (2 m)",
+            "Overall Length": "11 in (28 cm)",
+            "Overall Width": "6.7 ft (2 m)",
+            "Tire Size": "Front 9.5x24, Rear 16.9x24",
+            "Wheelbase": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "305.2 cu in (0 m)",
+            "Gross Power": "108 hp (81 kw)",
+            "Max Torque": "249 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "90 hp (67 kw)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "18.5 gal/min (68 l/min)",
+            "Relief Valve Pressure": "2600 psi",
+            "Relief Valve Setting": "2600 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3600.2 lbs (1,633 kg)",
+            "3 Point Hitch Type": "Cat. II",
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "37 gal (140 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size Front - 2wd / 4wd": "9.5x15"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9x24"
+        },
+        "Transmission": {
+            "Max Speed": "15.3 mph (24 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "constant mesh"
+        }
+    }
+}

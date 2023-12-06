@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/ap800b/5288",
+    "source_url_id": "5288",
+    "source_url_model": "ap800b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:01.994818",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "AP800B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "19.6 ft (6 m)",
+            "Tire Size": "front 22x12, rear 16.00x24",
+            "Transport Height": "8.8 ft (2 m)",
+            "Transport Width": "8.6 ft (2 m)",
+            "Width w/ Hopper Open": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "235.6 cu in (0 m)",
+            "Engine Model": "T4.236",
+            "Gross Power": "102 hp (76 kw)"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "14.1 in (36 cm)",
+            "Hopper Capacity": "7.6 lbs (3 kg)",
+            "Paving Speed - max": "312.1 ft/min",
+            "Paving Width - max": "20 ft (6 m)",
+            "Travel Speed - max": "13 mph (21 kph)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5.5 gal (19 l)",
+            "Fuel Capacity": "43.1 gal (163 l)",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Operating Weight w/ Screed": "26241.7 lbs (11,903 kg)",
+            "Operating Weight w/o Screed": "23501.3 lbs (10,660 kg)"
+        }
+    }
+}

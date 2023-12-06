@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/8670/30681571",
+    "source_url_id": "30681571",
+    "source_url_model": "8670",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:24.400176",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "8670",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "170 hp (127 kw)"
+        },
+        "Production": {
+            "Series": "70 Genesis Series",
+            "Years Manufactured": "1993 - 2000"
+        }
+    }
+}

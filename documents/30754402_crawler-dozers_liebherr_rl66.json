@@ -1,0 +1,81 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/liebherr/rl66/30754402",
+    "source_url_id": "30754402",
+    "source_url_model": "rl66",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:50:06.044957",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Liebherr",
+    "equipment_model": "RL66",
+    "equipment_spec": {
+        "Boom": {
+            "Overall Height": "31217.2 ft (9,515 m)"
+        },
+        "Brakes": {
+            "Parking brake": "Multi-disc brake, wear-free, automatically applied with neutral joystick position",
+            "Service brake": "Hydrostatic (self-locking), wear-free"
+        },
+        "Dimensions": {
+            "Boom Length": "27.9 ft (8 m)",
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Height to Top of Suspended Cab": "12.2 ft (4 m)",
+            "Overall Height": "11.7 ft (3 m)",
+            "Overall Length": "19.1 ft (6 m)",
+            "Overall Width": "11 ft (3 m)",
+            "Track Gauge": "8.3 ft (2 m)",
+            "Width Over Tracks": "18.6 ft (5 m)"
+        },
+        "Drum": {
+            "Cable diameter": "0.8 in (0 cm)",
+            "Cable length": "393.8 in (998 cm)",
+            "Drum Diameter": "10 in (25 cm)",
+            "Drum length": "11 in (28 cm)",
+            "Flange diamter": "24.1 in (61 cm)",
+            "Hook block": "4 sheaves",
+            "Hook speed (up, down)": "52.5 ft/min"
+        },
+        "Engine": {
+            "Aspiration": "Turbochanged",
+            "Battery Amp Hours": "4 x 95",
+            "Cooling system": "Hydrostatic fan drive",
+            "Displacement": "732.3 cu in (0 m)",
+            "Engine Model": "D 946 A7 Emission regulations , EPA/CARB Tier 3/Tier 4f",
+            "Injection system": "Direct fuel injection",
+            "Lubrication System": "Pressurised lube system",
+            "Net Power": "368.8 hp (274 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Control valve": "3 circuits, expandable to 6",
+            "Controls": "Single joystick for hoist winch and adjustable boom cylinder, free all device of hook in case of danger. Further single joystick for counterweight.",
+            "Filtration": "Return filter with magnetic rod in the hydraulic tank",
+            "Hoist cylinder": "Variable flow hydraulic pump",
+            "Hydraulic system": "Load sensing (demand controlled)",
+            "Operating pressure": "4060 psi",
+            "Pump Flow Capacity": "74.8 gal/min (280 l/min)",
+            "Pump type": "Swash plate piston pump"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Cooling System Fluid Capacity": "18 gal (68 l)",
+            "Engine Oil Capacity": "11.4 gal (42 l)",
+            "Final Drives Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "174.4 gal (659 l)",
+            "Hydraulic System Fluid Capacity": "34.1 gal (129 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "130844.4 lbs (59,350 kg)"
+        },
+        "Transmission": {
+            "Final Drive Type": "Combination spur gear with planetary gear, double-sealed (duo cone seals) with electronic seal-integrity indicator",
+            "Max Speed - Reverse": "2.5 mph (3 kph)",
+            "Steering": "Hydrostatic",
+            "Transmission Type": "Infinitely variable hydrostatic travel drive, independent drive for each track"
+        },
+        "Undercarriage": {
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "36 in (91 cm)"
+        }
+    }
+}

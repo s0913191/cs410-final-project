@@ -1,0 +1,88 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/new-holland/rg200b/30754516",
+    "source_url_id": "30754516",
+    "source_url_model": "rg200b",
+    "source_url_make": "new-holland",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:22:04.021836",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "New Holland",
+    "equipment_model": "RG200.B",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "42  \t\u00b0",
+            "Blade Tip Angle - Rear": "90  \t\u00b0",
+            "Diameter": "69.1 in (175 cm)",
+            "Max Lift Above Ground": "17.6 in (43 cm)",
+            "Max Reach Outside Tires - Left": "77.9 in (196 cm)",
+            "Max Reach Outside Tires - Right": "85.6 in (216 cm)",
+            "Rotation": "360  \t\u00b0",
+            "Shift Left": "21 in (53 cm)",
+            "Shift Right": "27.1 in (69 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "8.5 ft (2 m)",
+            "Front Ground Clearance": "2.1 ft (1 m)",
+            "Height to Top of Isomount Cab": "10.4 ft (3 m)",
+            "Overall Length": "28.1 ft (9 m)",
+            "Rear Ground Clearance": "1.3 ft (0 m)",
+            "Tandem Axle Wheelbase": "5.3 ft (2 m)",
+            "Wheelbase": "20.5 ft (6 m)",
+            "Width Over Tires": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "6CT 8.3",
+            "Max Power": "200 hp (149 kw)",
+            "Net Power Gears 7-8": "200 hp (149 kw)",
+            "Net Torque Gears 7-8": "640 lbs/ft"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Oscillation - Total": "19  \t\u00b0",
+            "Wheel Lean": "17.5  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "49 gal/min (185 l/min)",
+            "Pump Type": "variable displacement piston",
+            "Relief Valve Pressure": "2800 psi"
+        },
+        "Moldboard": {
+            "Blade Down Pressure": "23955 lbs (10,866 kg)",
+            "Max Depth of Cut": "28 in (71 cm)",
+            "Moldboard Height": "24.5 in (61 cm)",
+            "Moldboard Thickness": "0.9 in (0 cm)",
+            "Moldboard Width": "12.1 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Circle Gearbox Fluid Capacity": "0.8 gal (0 l)",
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Fuel Capacity": "90.1 gal (341 l)",
+            "Hydraulic System Fluid Capacity": "47.6 gal (178 l)",
+            "Max Operation Weight - Front Axle": "4612.1 lbs (2,092 kg)",
+            "Max Operation Weight - Rear Axle": "26724.5 lbs (12,122 kg)",
+            "Max Operation Weight - Total": "37950.4 lbs (17,214 kg)",
+            "Operating Voltage": "24 V V",
+            "Rear Diff/Final Drive Fluid Capacity": "3.2 gal (11 l)",
+            "Std Operation Weight - Front Axle": "11226 lbs (5,092 kg)",
+            "Std Operation Weight - Rear Axle": "26724.5 lbs (12,122 kg)",
+            "Std Operation Weight - Total": "37950.4 lbs (17,214 kg)",
+            "Tandem Case Fluid Capacity (each)": "6 gal (23 l)",
+            "Tire Size": "fireston 14x24 10 ply",
+            "Transmission Fluid Capacity": "7.6 gal (27 l)"
+        },
+        "Steering System": {
+            "Articulation Angle": "25  \t\u00b0",
+            "Turning Radius": "23914.1 ft (7,289 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "26.8 mph (42 kph)",
+            "Max Speed - Reverse": "19.1 mph (31 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "4",
+            "Transmission Type": "direct drive power shift"
+        }
+    }
+}

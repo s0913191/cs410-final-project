@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/welger/rp-435/30752408",
+    "source_url_id": "30752408",
+    "source_url_model": "rp-435",
+    "source_url_make": "welger",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:01:34.494202",
+    "equipment_category": "Balers",
+    "equipment_make": "Welger",
+    "equipment_model": "RP 435",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Diameter - max": "5.3 ft (2 m)",
+            "Bale Diameter - min": "3 ft (1 m)",
+            "Bale Width": "4.1 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Overall Width": "7.4 ft (2 m)",
+            "Tine to Tine Width": "6.2 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "9.1 ft (3 m)",
+            "Overall Length": "16.4 ft (5 m)",
+            "Overall Width": "8.9 ft (2 m)"
+        }
+    }
+}

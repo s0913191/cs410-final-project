@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/massey-ferguson/beta-7270-al/30752529",
+    "source_url_id": "30752529",
+    "source_url_model": "beta-7270-al",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:13.520988",
+    "equipment_category": "Combines",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "BETA 7270 AL",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1050 rpm",
+            "Cleaning Fan Speed - Low": "350 rpm",
+            "Total Cleaning Area": "8649.1 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Overall Length": "28.1 ft (9 m)",
+            "Width Over Tires": "12.6 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "512.6 cu in (0 m)",
+            "Engine Model": "84 ETA",
+            "Power": "305 hp (227 kw)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "232.7 bu",
+            "Unloading Auger Length": "16.5 ft (5 m)",
+            "Unloading Discharge Height": "14.6 ft (4 m)",
+            "Unloading Speed": "3 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "31195.5 lbs (14,150 kg)",
+            "Transmission Type": "hydrostatic"
+        },
+        "Separating": {
+            "Separating Area": "12400.1 cu in (0 m)",
+            "Separator Length": "61.5 in (155 cm)",
+            "Separator Type": "6 straw walkers rotary separator"
+        },
+        "Threshing": {
+            "Concave Area": "1534.6 cu in (0 m)",
+            "Rotor Diameter": "23.7 in (58 cm)",
+            "Rotor Length": "63 in (160 cm)",
+            "Rotor Speed - High": "1310 rpm",
+            "Rotor Speed - Low": "430 rpm"
+        }
+    }
+}

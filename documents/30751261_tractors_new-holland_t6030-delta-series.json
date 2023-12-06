@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t6030-delta-series/30751261",
+    "source_url_id": "30751261",
+    "source_url_model": "t6030-delta-series",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:48.450229",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T6.030 Delta Series",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "9.6 ft (3 m)",
+            "Wheelbase": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged,intercooled",
+            "Displacement": "412 cu in (0 m)",
+            "Gross Power": "115 hp (86 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "95 hp (71 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "27.1 gal/min (102 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "7509 lbs (3,406 kg)",
+            "Alternator Supplied Amperage": "120  A",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "67 gal (254 l)",
+            "Hydraulic System Fluid Capacity": "17.1 gal (64 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "12x12 SynchroCommad"
+        }
+    }
+}

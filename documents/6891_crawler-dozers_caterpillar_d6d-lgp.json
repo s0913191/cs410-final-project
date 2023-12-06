@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d6d-lgp/6891",
+    "source_url_id": "6891",
+    "source_url_model": "d6d-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:42.851013",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D6D LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Length of Track on Ground": "9.5 ft (3 m)",
+            "Length w/ Blade": "17 ft (5 m)",
+            "Length w/o Blade": "13 ft (4 m)",
+            "Width Over Tracks": "10 ft in (25 cm)"
+        },
+        "Engine": {
+            "Displacement": "640.8 cu in (0 m)",
+            "Engine Model": "3306",
+            "Gross Power": "140 hp (104 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "78 gal (295 l)",
+            "Operating Weight": "38301 lbs (17,373 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "4.1 cu yds (3 m)",
+            "Width": "12.2 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "8.1 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "8137.6 cu in (0 m)",
+            "Ground Pressure": "4.7 psi",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "35.9 in (89 cm)",
+            "Track Gauge": "7 ft (2 m)"
+        }
+    }
+}

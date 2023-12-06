@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/af-15/31004646",
+    "source_url_id": "31004646",
+    "source_url_model": "af-15",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:26.191679",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "AF-15",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "14 hp (10 kw)"
+        },
+        "Production": {
+            "Series": "AF Series",
+            "Years Manufactured": "1992 - 1996"
+        }
+    }
+}

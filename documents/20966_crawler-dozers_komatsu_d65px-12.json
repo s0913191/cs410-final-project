@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d65px-12/20966",
+    "source_url_id": "20966",
+    "source_url_model": "d65px-12",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:05.954698",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D65PX-12",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Length of Track on Ground": "10.8 ft (3 m)",
+            "Length w/ Blade": "18.3 ft (5 m)",
+            "Length w/o Blade": "14.6 ft (4 m)",
+            "Width Over Tracks": "9.9 ft in (23 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged engine",
+            "Displacement": "671.3 cu in (0 m)",
+            "Engine Model": "S6D125E-2",
+            "Gross Power": "190 hp (142 kw)",
+            "Max Torque": "723.6 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1950 rpm"
+        },
+        "Hydraulic System": {
+            "Pump type": "Double acting Piston",
+            "Relief Valve Pressure": "2987.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "35  A",
+            "Cooling System Fluid Capacity": "13.8 gal (49 l)",
+            "Engine Oil Capacity": "10.1 gal (38 l)",
+            "Final Drives Fluid Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "107.3 gal (405 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "42857.9 lbs (19,440 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "4.9 cu yds (3 m)",
+            "Height": "43.4 in (109 cm)",
+            "Width": "13.1 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "3.9 mph (5 kph)",
+            "Max Speed - Reverse": "5 mph (8 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TF,HSS"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "9317.9 cu in (0 m)",
+            "Ground Pressure": "4 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "37.5 in (94 cm)",
+            "Track Gauge": "6.8 ft (2 m)",
+            "Track Pitch": "8 in (20 cm)"
+        }
+    }
+}

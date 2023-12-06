@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/john-deere/9570rt/30774885",
+    "source_url_id": "30774885",
+    "source_url_model": "9570rt",
+    "source_url_make": "john-deere",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:56.883144",
+    "equipment_category": "Scrapers",
+    "equipment_make": "John Deere",
+    "equipment_model": "9570RT",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "QSX",
+            "Gross Power": "570 hp (425 kw)",
+            "Net Power": "628 hp (468 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "43563",
+            "Pump Flow Capacity": "115 gal/min (435 l/min)",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "350 gal (1,325 l)",
+            "Operating Weight": "44910 lbs (20,371 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "e18 PowerShift"
+        }
+    }
+}

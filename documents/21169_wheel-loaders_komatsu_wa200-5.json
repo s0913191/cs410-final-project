@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa200-5/21169",
+    "source_url_id": "21169",
+    "source_url_model": "wa200-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:12.841584",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA200-5",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "20944 lbs (9,500 kg)",
+            "Bucket Capacity - heaped": "2.6 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.2 cu yds (2 m)",
+            "Bucket Width": "8.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Hinge Pin - Max Height": "12 ft (4 m)",
+            "Length with Bucket on Ground": "22.7 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.3 ft (1 m)",
+            "Wheelbase": "9.4 ft (3 m)",
+            "Width Over Tires": "7.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharge",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "358.9 cu in (0 m)",
+            "Emissions Certification": "EPA Tier 2",
+            "Engine Model": "SAA6D102E-2",
+            "Gross Power": "127 hp (95 kw)",
+            "Net Power": "123 hp (92 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "4.8 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3.6 sec",
+            "Raise Time": "5.9 sec"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Fluid Capacity": "5.2 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "4.8 gal (15 l)",
+            "Fuel Capacity": "46.3 gal (174 l)",
+            "Hydraulic System Fluid Capacity": "15.4 gal (57 l)",
+            "Operating Weight": "20877.8 lbs (9,470 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "4.8 gal (15 l)",
+            "Tire Size": "17.5-25-12PR (L2)",
+            "Transmission Fluid Capacity": "1.5 gal (4 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

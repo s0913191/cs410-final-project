@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec380dl/32638",
+    "source_url_id": "32638",
+    "source_url_model": "ec380dl",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:47.237711",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC380DL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Tail Swing Radius": "11.7 ft (3 m)",
+            "Width to Outside of Tracks": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "781 cu in (0 m)",
+            "Engine Model": "D13 F",
+            "Gross Power": "292 hp (218 kw)",
+            "Net Power": "283 hp (211 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "163.7 gal (617 l)",
+            "Operating Weight": "87523.4 lbs (39,700 kg)"
+        }
+    }
+}

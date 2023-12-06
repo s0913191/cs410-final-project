@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/456bzx/30755157",
+    "source_url_id": "30755157",
+    "source_url_model": "456bzx",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:47:40.532051",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "456BZX",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "45620 lbs (20,693 kg)",
+            "Bucket Capacity - heaped": "3.7 cu yds (2 m)",
+            "Bucket Capacity - struck": "3.3 cu yds (2 m)",
+            "Bucket Width": "9.2 ft (3 m)",
+            "Dump Clearance at Max Raise": "10 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Hinge Pin - Max Height": "13.5 ft (4 m)",
+            "Length with Bucket on Ground": "25.4 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.3 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "6CT8.33-C",
+            "Gross Power": "205 hp (153 kw)",
+            "Net Power": "190 hp (142 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "3.5 sec",
+            "Pump Flow Capacity": "87 gal/min (329 l/min)",
+            "Pump Type": "variable displacement, load sensing pumps",
+            "Raise Time": "5.3 sec",
+            "Relief Valve Setting": "2774 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "10.1 gal (38 l)",
+            "Engine Oil Fluid Capacity": "5 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Fuel Capacity": "85.9 gal (322 l)",
+            "Hydraulic System Fluid Capacity": "56.8 gal (212 l)",
+            "Operating Voltage": "24 V V",
+            "Rear Axle Oscillation": "25  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Tire Size": "23.5X25X12 PLY (L2)",
+            "Transmission Fluid Capacity": "7.4 gal (27 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.3 mph (37 kph)",
+            "Max Speed - Reverse": "15.2 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

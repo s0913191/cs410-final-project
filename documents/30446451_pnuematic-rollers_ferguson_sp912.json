@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/ferguson/sp912/30446451",
+    "source_url_id": "30446451",
+    "source_url_model": "sp912",
+    "source_url_make": "ferguson",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:24.886993",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Ferguson",
+    "equipment_model": "SP912",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "240 in (610 cm)"
+        },
+        "Engine": {
+            "Make": "John Deere"
+        },
+        "Operating Specifications": {
+            "Operating Width": "68 in (173 cm)"
+        }
+    }
+}

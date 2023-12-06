@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/sr3370/30146537",
+    "source_url_id": "30146537",
+    "source_url_model": "sr3370",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:48.631518",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "SR3370",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.9 in (28 cm)",
+            "Height w/o Rails": "8.9 ft (2 m)",
+            "Overall Length": "11.1 in (28 cm)",
+            "Overall Width": "5.9 ft (2 m)",
+            "Turning Radius": "15.6 ft (5 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "diesel"
+        },
+        "Performance": {
+            "Operating Weight": "7980.8 lbs (3,620 kg)",
+            "Tire Size": "27 x 10.5x15"
+        },
+        "Platform": {
+            "Max Platform Height": "39.8 ft (12 m)",
+            "Max Platform Weight Capacity": "992.1 lbs (450 kg)"
+        }
+    }
+}

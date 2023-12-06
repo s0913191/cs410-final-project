@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hd325-7/21216",
+    "source_url_id": "21216",
+    "source_url_model": "hd325-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:18.800117",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HD325-7",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "rwd"
+        },
+        "Dump": {
+            "Rated Payload": "40.0 t (36,287 kg)"
+        },
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA6D140E-5"
+        },
+        "Weights": {
+            "Operating Weight": "140390 lbs (63,681 kg)"
+        }
+    }
+}

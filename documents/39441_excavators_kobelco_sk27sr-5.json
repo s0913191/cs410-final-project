@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk27sr-5/39441",
+    "source_url_id": "39441",
+    "source_url_model": "sk27sr-5",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:36.860787",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK27SR-5",
+    "equipment_spec": {
+        "Bucket": {
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Tail Swing Radius": "2.5 ft (1 m)",
+            "Wheelbase": "5.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "81.2 cu in (0 m)",
+            "Engine Model": "3TNV82A-SYB",
+            "Max Torque": "58.3 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Two variable displacement pumps"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "1.8 gal/min (4 l/min)",
+            "Hydraulic System Fluid Capacity": "6.7 gal (23 l)",
+            "Hydraulic System Relief Valve Pressure": "3335 psi",
+            "Travel speed, high range": "1.5 mph (2 kph)",
+            "Travel speed, low range": "2.6 mph (3 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.7 rpm"
+        }
+    }
+}

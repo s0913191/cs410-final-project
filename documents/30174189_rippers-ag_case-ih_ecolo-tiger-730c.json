@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rippers-ag/case-ih/ecolo-tiger-730c/30174189",
+    "source_url_id": "30174189",
+    "source_url_model": "ecolo-tiger-730c",
+    "source_url_make": "case-ih",
+    "source_url_category": "rippers-ag",
+    "source_date_scraped": "2023-09-13 17:08:32.814664",
+    "equipment_category": "Rippers Ag",
+    "equipment_make": "Case Ih",
+    "equipment_model": "ECOLO-TIGER 730C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Max Weight": "13600 lbs (6,169 kg)",
+            "Transport Width": "16.5 ft (5 m)",
+            "Working Width Spacing #1 min": "17.5 ft (5 m)"
+        },
+        "Disc System": {
+            "Blade Diameter": "24 in (61 cm)",
+            "Blade Thickness": "0.3 in (0 cm)",
+            "Depth Control": "independent hydraulic",
+            "Max Operating Depth": "4 in (10 cm)",
+            "Spacing #1": "15 in (38 cm)"
+        },
+        "Shanks": {
+            "Number of Main Shanks": "7",
+            "Shank Spacing": "30 in (76 cm)",
+            "Shank Trip Force": "4800 lbs (2,177 kg)"
+        },
+        "Tires": {
+            "Tires": "16.6x16.1 FI"
+        }
+    }
+}

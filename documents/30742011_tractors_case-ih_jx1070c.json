@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/jx1070c/30742011",
+    "source_url_id": "30742011",
+    "source_url_model": "jx1070c",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:36.882179",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "JX1070C",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "70 hp (52 kw)"
+        },
+        "Production": {
+            "Series": "JXC Series",
+            "Years Manufactured": "2004 - 2008"
+        }
+    }
+}

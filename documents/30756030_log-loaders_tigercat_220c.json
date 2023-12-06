@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/tigercat/220c/30756030",
+    "source_url_id": "30756030",
+    "source_url_model": "220c",
+    "source_url_make": "tigercat",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:06.623787",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "Tigercat",
+    "equipment_model": "220C",
+    "equipment_spec": {
+        "Boom/Stick Log Loader Option 1": {
+            "Boom/Stick Option (LGL) 1": "boom",
+            "Max Height": "25 ft (8 m)",
+            "Max Lift Capacity Over Front at Ground Level": "24008.4 lbs (10,890 kg)",
+            "Max Reach at Ground Level": "27.7 ft (8 m)",
+            "Shipping Length": "15 ft (5 m)"
+        },
+        "Dimensions": {
+            "Overall Width": "8.5 ft (2 m)",
+            "Tail Swing Radius": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB6.7 Tier III",
+            "Net Power": "160 hp (119 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Triple section gear"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Fuel Capacity": "99.9 gal (375 l)",
+            "Hydraulic System Fluid Capacity": "59.5 gal (223 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "25700 lbs (11,657 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "7 rpm"
+        }
+    }
+}

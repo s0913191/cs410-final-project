@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/jx1100u/30840636",
+    "source_url_id": "30840636",
+    "source_url_model": "jx1100u",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:42.180474",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "JX1100U",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "98 hp (73 kw)"
+        },
+        "Production": {
+            "Series": "JXU Maxxima Series",
+            "Years Manufactured": "2004 - 2008"
+        }
+    }
+}

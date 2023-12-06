@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/sd-116dx-tf-series/30783695",
+    "source_url_id": "30783695",
+    "source_url_model": "sd-116dx-tf-series",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:45.639485",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "SD-116DX TF Series",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "136 in (345 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "1225 - 2,025 hz (73,500 - 121,500 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "90 in (229 cm)"
+        }
+    }
+}

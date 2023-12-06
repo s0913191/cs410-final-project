@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-25m-extra-coal-dozer/30760501",
+    "source_url_id": "30760501",
+    "source_url_model": "td-25m-extra-coal-dozer",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:22.432226",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-25M Extra Coal Dozer",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSX15",
+            "Net Power": "330/370 hp (246 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "93243 lbs (42,295 kg)"
+        }
+    }
+}

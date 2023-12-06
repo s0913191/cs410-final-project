@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/daedong/dsc48/30752492",
+    "source_url_id": "30752492",
+    "source_url_model": "dsc48",
+    "source_url_make": "daedong",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:09.882466",
+    "equipment_category": "Combines",
+    "equipment_make": "Daedong",
+    "equipment_model": "DSC48",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Total Cleaning Area": "1440 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.6 ft (0 m)",
+            "Height to Top of Isomount Cab": "7.5 ft (2 m)",
+            "Overall Length": "14.3 ft (4 m)",
+            "Width Over Tires": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134.1 cu in (0 m)",
+            "Engine Model": "4A220C-CH",
+            "Number of Cylinders": "4",
+            "Power": "48 hp (36 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "5.7 bu"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13 gal (49 l)",
+            "Operating Weight w/o Attachment": "4806.1 lbs (2,180 kg)",
+            "Transmission Type": "hydrostatic"
+        },
+        "Threshing": {
+            "Rotor Diameter": "16.7 in (41 cm)",
+            "Rotor Length": "31.5 in (79 cm)",
+            "Rotor Speed - High": "985 rpm",
+            "Rotor Speed - Low": "503 rpm"
+        }
+    }
+}

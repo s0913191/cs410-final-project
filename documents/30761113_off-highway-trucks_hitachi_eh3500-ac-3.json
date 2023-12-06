@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/eh3500-ac-3/30761113",
+    "source_url_id": "30761113",
+    "source_url_model": "eh3500-ac-3",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:33.327325",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EH3500 AC-3",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "RWD"
+        },
+        "Dump": {
+            "Rated Payload": "200 t (181,437 kg)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSKTA50-CE"
+        },
+        "Weights": {
+            "Operating Weight": "709888 lbs (322,003 kg)"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/h25tpx/30758337",
+    "source_url_id": "30758337",
+    "source_url_model": "h25tpx",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:01.026968",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "H25TPX",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.8 in (33 cm)",
+            "Overall Height - mast lowered": "9.9 ft (3 m)",
+            "Overall Length": "43 in (109 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Turning Radius": "20.2 ft (6 m)",
+            "Wheelbase": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Diesel",
+            "Gross Power": "43.1 hp (32 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "39.7 gal (148 l)",
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operating Weight": "30247.5 lbs (13,720 kg)",
+            "Tire Fill/Type": "foam filled",
+            "Tire Size": "15 R 22"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "55.5 ft (17 m)",
+            "Max Platform Height": "76.5 ft (23 m)",
+            "Max Platform Weight Capacity": "507.1 lbs (230 kg)",
+            "Max Working Height": "83.1 ft (25 m)",
+            "Platform Inner Length": "70.9 in (178 cm)",
+            "Platform Inner Width": "31.5 in (79 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

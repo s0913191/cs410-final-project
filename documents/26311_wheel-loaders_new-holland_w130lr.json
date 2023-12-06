@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/new-holland/w130lr/26311",
+    "source_url_id": "26311",
+    "source_url_model": "w130lr",
+    "source_url_make": "new-holland",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:38.772033",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "W130LR",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "27386 lbs (12,422 kg)",
+            "Bucket Capacity - heaped": "2.6 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.2 cu yds (2 m)",
+            "Bucket Width": "8.6 ft (2 m)",
+            "Dump Clearance at Max Raise": "11 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Hinge Pin - Max Height": "14 ft (4 m)",
+            "Length with Bucket on Ground": "24 ft (7 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Direct Injection, diesel",
+            "Displacement": "411 cu in (0 m)",
+            "Engine Model": "668TA/M2",
+            "Gross Power": "148 hp (110 kw)",
+            "Net Power": "136 hp (101 kw)",
+            "Torque Rise": "33%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.5 sec",
+            "Lower Time": "5 sec",
+            "Pump Flow Capacity": "45.2 gal/min (170 l/min)",
+            "Pump Type": "Variable-Displacement, Piston Pump",
+            "Raise Time": "5.4 sec",
+            "Relief Valve Setting": "3600 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "6.3 gal (23 l)",
+            "Engine Oil Fluid Capacity": "4 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "30 gal (114 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "26578 lbs (12,056 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Static Tipping Weight": "18925 lbs (8,584 kg)",
+            "Tire Size": "20.5R25",
+            "Transmission Fluid Capacity": "5 gal (19 l)",
+            "Turning Radius": "17 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24 mph (39 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Countershaft,Power shift"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/doosan/d120/30756547",
+    "source_url_id": "30756547",
+    "source_url_model": "d120",
+    "source_url_make": "doosan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:25:55.852098",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Doosan",
+    "equipment_model": "D120",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Overhead Guard": "9.1 ft (3 m)",
+            "Length to Fork Face": "14.3 ft (4 m)",
+            "Overall Width": "7.8 ft (2 m)",
+            "Turning Radius": "13.3 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "488.2 cu in (0 m)",
+            "Engine Model": "DE08TS",
+            "Fuel Type": "diesel",
+            "Power": "138 hp (103 kw)"
+        },
+        "MAST": {
+            "Load Capacity": "26500 lbs (12,020 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "22 mph (35 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

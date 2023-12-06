@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/favelle-favco/30t/30760327",
+    "source_url_id": "30760327",
+    "source_url_model": "30t",
+    "source_url_make": "favelle-favco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:29.806127",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Favelle Favco",
+    "equipment_model": "30T",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "98 ft (30 m)",
+            "Max Lift Capacity": "30 t (27,216 kg)"
+        }
+    }
+}

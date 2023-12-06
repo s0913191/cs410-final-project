@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/liebherr/lr-11350/30760370",
+    "source_url_id": "30760370",
+    "source_url_model": "lr-11350",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:41.081718",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LR 11350",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "732 ft (223 m)",
+            "Max Lift Capacity": "1500 t (1,360,778 kg)"
+        }
+    }
+}

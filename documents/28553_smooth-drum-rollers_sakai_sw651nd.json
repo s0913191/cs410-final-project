@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/sw651nd/28553",
+    "source_url_id": "28553",
+    "source_url_model": "sw651nd",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:48.881497",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "SW651ND",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.9 in (25 cm)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Overall Length": "13.9 in (33 cm)",
+            "Overall Width": "5.3 ft (2 m)",
+            "Turning Radius - Inside": "139 in (353 cm)",
+            "Wheelbase": "9.9 in (23 cm)"
+        },
+        "Drum": {
+            "Drum Diameter": "42.2 in (107 cm)",
+            "Drum Width": "58.3 in (147 cm)",
+            "Vibration Frequency": "2940 hz (176,400 vpm)",
+            "Vibration Frequency 1": "49 hz (2,940 vpm)"
+        },
+        "Engine": {
+            "Displacement": "244.7 cu in (0 m)",
+            "Engine Model": "W04D-H",
+            "Gross Power": "75.1 hp (56 kw)",
+            "Make": "Hino WO4D-H",
+            "Power Measured @": "2050 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "16314.3 lbs (7,400 kg)",
+            "Operating Width": "58 in (147 cm)"
+        }
+    }
+}

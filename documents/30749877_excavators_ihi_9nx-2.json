@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/ihi/9nx-2/30749877",
+    "source_url_id": "30749877",
+    "source_url_model": "9nx-2",
+    "source_url_make": "ihi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:03:57.289815",
+    "equipment_category": "Excavators",
+    "equipment_make": "IHI",
+    "equipment_model": "9NX-2",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "9 ft (3 m)",
+            "Max Digging Depth": "5.2 ft (2 m)",
+            "Max Loading Height": "9.8 ft (3 m)",
+            "Max Vertical Wall Digging Depth": "3.9 ft (1 m)",
+            "Shipping Height of Unit": "6.9 ft (2 m)",
+            "Shipping Length of Unit": "8.9 ft (2 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Removal Counterweight Clearance": "1.4 ft (0 m)",
+            "Width to Outside of Tracks": "2.3 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "2TNV70",
+            "Net Power": "10 hp (7 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "2.2 gal (8 l)",
+            "Hydraulic Pump Flow Capacity": "5.9 gal/min (19 l/min)",
+            "Hydraulic System Relief Valve Pressure": "2350 psi",
+            "Operating Weight": "2060 lbs (934 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.7 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "3.8 psi",
+            "Max Travel Speed": "2.2 mph (3 kph)",
+            "Shoe Size": "7 in (18 cm)",
+            "Track Gauge": "1.7 ft (0 m)"
+        }
+    }
+}

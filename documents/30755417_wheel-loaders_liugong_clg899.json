@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/clg899/30755417",
+    "source_url_id": "30755417",
+    "source_url_model": "clg899",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:32.942887",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "CLG899",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "101164.1 lbs (45,888 kg)",
+            "Bucket Capacity - heaped": "7.1 cu yds (5 m)",
+            "Dump Clearance at Max Raise": "12.3 ft (4 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "13.6 ft (4 m)",
+            "Length with Bucket on Ground": "34 ft (10 m)",
+            "Reach at Max Lift and Dump": "5.6 ft (2 m)",
+            "Width Over Tires": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "KT19-C450",
+            "Net Power": "450.6 hp (336 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Gear"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "93696.5 lbs (42,500 kg)",
+            "Tire Size": "35/65-33"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.9 mph (35 kph)",
+            "Max Speed - Reverse": "22.9 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

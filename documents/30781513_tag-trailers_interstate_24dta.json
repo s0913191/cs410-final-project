@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/interstate/24dta/30781513",
+    "source_url_id": "30781513",
+    "source_url_model": "24dta",
+    "source_url_make": "interstate",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:08.664196",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Interstate",
+    "equipment_model": "24DTA",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "24x8.5 ft (7 m)"
+        },
+        "Engine": {
+            "Speed Rating": "65 mph (105 kph)"
+        },
+        "Weights": {
+            "Equipment Weight": "6100 lbs (2,767 kg)",
+            "Weight Capacity": "24000 lbs (10,886 kg)"
+        }
+    }
+}

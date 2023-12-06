@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/kato/cr250/74097",
+    "source_url_id": "74097",
+    "source_url_model": "cr250",
+    "source_url_make": "kato",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:46.765482",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Kato",
+    "equipment_model": "CR250",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "81  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "101.8 ft (31 m)",
+            "Max Lift Capacity": "55115.6 lbs (25,000 kg)",
+            "Max Working Radius": "85.4 ft (26 m)",
+            "Min Height @ Max Raise Angle": "26.3 ft (8 m)",
+            "Min Working Radius": "9.2 ft (3 m)",
+            "Number of Sections": "6",
+            "Swing Speed": "2.6 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "460.5 cu in (0 m)",
+            "Gross Power": "211.9 hp (157 kw)",
+            "Make": "Kato",
+            "Max Torque": "513.4 lbs/ft",
+            "Model": "C 6D16-TE1",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "23.8 ft (7 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Transport Height": "11.2 ft (3 m)",
+            "Transport Length": "29.8 ft (9 m)",
+            "Transport Width": "7.9 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "7.9 ft (2 m)",
+            "Width w/ Outriggers Extended": "20.7 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Carrier Fuel Capacity": "79.3 gal (299 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "52911 lbs (24,000 kg)",
+            "Tire Size": "385/95R25 170E ROAD",
+            "Upper Structure Hydraulic System Fluid Capacity": "116.3 gal (439 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "30.5 mph (48 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "remote mounted full automatic with transfer gear box"
+        }
+    }
+}

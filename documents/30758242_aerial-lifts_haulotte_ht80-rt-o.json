@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ht80-rt-o/30758242",
+    "source_url_id": "30758242",
+    "source_url_model": "ht80-rt-o",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:41.815730",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HT80 RT O",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "45%",
+            "Ground Clearance": "19 in (48 cm)",
+            "Overall Height - mast lowered": "9.4 ft (3 m)",
+            "Overall Length": "445.4 in (1,130 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tailswing Radius": "5 ft (2 m)",
+            "Turning Radius": "21.6 ft (6 m)",
+            "Wheelbase": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Make": "Kubota",
+            "Gross Power": "53 hp (40 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "37 gal (140 l)",
+            "Max Speed": "3.1 mph (5 kph)",
+            "Operating Weight": "38360 lbs (17,400 kg)",
+            "Tire Size": "1025x365"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "72.1 ft (22 m)",
+            "Max Platform Height": "80.1 ft (24 m)",
+            "Max Platform Weight Capacity": "500 lbs (227 kg)",
+            "Max Working Height": "86.1 ft (26 m)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/gm56/31076535",
+    "source_url_id": "31076535",
+    "source_url_model": "gm56",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:40.347056",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "GM56",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "55 hp (41 kw)"
+        },
+        "Production": {
+            "Series": "GM Series",
+            "Years Manufactured": "1998 - 2006"
+        }
+    }
+}

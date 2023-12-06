@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/kx91-3s2/30749959",
+    "source_url_id": "30749959",
+    "source_url_model": "kx91-3s2",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:31.344672",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "KX91-3S2",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "16.3 ft (5 m)",
+            "Max Digging Depth": "10.5 ft (3 m)",
+            "Max Loading Height": "11.6 ft (3 m)",
+            "Max Reach Along Ground": "16.9 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Length of Track on Ground": "15.7 ft (5 m)",
+            "Tail Swing Radius": "4.3 ft (1 m)",
+            "Traction force": "5599740.8 lbs (2,540,025 kg)",
+            "Width to Outside of Tracks": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "91.5 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "D1703-M-E3",
+            "Gross Power": "29.6 hp (22 kw)",
+            "Net Power": "28.3 hp (21 kw)",
+            "Power Measured @": "2250 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Hydraulic Pump Flow Capacity": "16.5 gal/min (61 l/min)",
+            "Hydraulic System Fluid Capacity": "14.6 gal (53 l)",
+            "Operating Weight": "16159.9 lbs (7,330 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.4 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Shoe Size": "11.9 in (28 cm)"
+        }
+    }
+}

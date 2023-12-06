@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/link-belt/rtc-8080-ii/42629",
+    "source_url_id": "42629",
+    "source_url_model": "rtc-8080-ii",
+    "source_url_make": "link-belt",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:52.315640",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "RTC-8080 II",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "149.7 ft (45 m)",
+            "Max Lift Capacity": "160000 lbs (72,576 kg)",
+            "Max Operating Radius": "130 ft (40 m)",
+            "Min Height @ Max Raise Angle": "47 ft (14 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.9 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "27.2 ft (8 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "50.5 ft (15 m)",
+            "Transport Width": "9.6 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.9 ft (4 m)",
+            "Wheelbase": "172.1 in (437 cm)",
+            "Width w/ Outriggers Extended": "24 ft (7 m)"
+        },
+        "Engine": {
+            "Bore": "4.3 in (10 cm)",
+            "Crankcase capacity": "14.2 L",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emissions compliance": "Tier 4F / Stage IV",
+            "Engine Make": "Cummins QSB",
+            "Engine Model": "C6.6",
+            "Gross Power": "270 hp (201 kw)",
+            "Max Torque": "730.2 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "4.9 in (10 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "160  A",
+            "DEF tank capacity": "5 gal (19 l)",
+            "Engine Oil Capacity": "4.6 gal (15 l)",
+            "Fuel Capacity": "75 gal (284 l)",
+            "Hydraulic System Fluid Capacity": "153.1 gal (579 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "81125.7 lbs (36,798 kg)",
+            "Tire Size": "29.5x25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "17.1 mph (27 kph)",
+            "Max Speed - Reverse": "17.1 mph (27 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

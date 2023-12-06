@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/jx1075n/30751142",
+    "source_url_id": "30751142",
+    "source_url_model": "jx1075n",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:38.842017",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "JX1075N",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.5 in (25 cm)",
+            "Height": "4.3 ft (1 m)",
+            "Height - Top of ROPS/FOPS": "7.3 ft (2 m)",
+            "Overall Length": "12.8 in (30 cm)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "177 cu in (0 m)",
+            "Gross Power": "75 hp (56 kw)",
+            "Max Torque": "221.3 lbs/ft",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm",
+            "PTO Power": "62 hp (46 kw)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "18.9 gal/min (68 l/min)",
+            "Relief Valve Setting": "2610 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3962 lbs (1,797 kg)",
+            "Alternator Supplied Amperage": "65  A",
+            "Fuel Capacity": "15 gal (57 l)",
+            "Operating Weight": "5886 lbs (2,670 kg)"
+        },
+        "Production": {
+            "Series": "JXN Series",
+            "Years Manufactured": "2005 - 2008"
+        },
+        "Tires": {
+            "Rear Tires Size": "380/70R24"
+        },
+        "Transmission": {
+            "Max Speed": "18.4 mph (29 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "16 x 16 w / mechanical shuttle"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/316e-l/30748692",
+    "source_url_id": "30748692",
+    "source_url_model": "316e-l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:49.435133",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "316E L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Length of Track on Ground": "13.1 ft (4 m)",
+            "Removal Counterweight Clearance": "3.4 ft (1 m)",
+            "Tail Swing Radius": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "C4.4 ACERT",
+            "Net Power": "119 hp (89 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Engine Oil Capacity": "3.6 gal (11 l)",
+            "Fuel Capacity": "76.7 gal (288 l)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Operating Weight": "37920 lbs (17,200 kg)",
+            "Swing Drive Fluid Capacity": "0.7 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "35115 lbs (15,928 kg)",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "7"
+        }
+    }
+}

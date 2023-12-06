@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/link-belt/htc-8670/30704386",
+    "source_url_id": "30704386",
+    "source_url_model": "htc-8670",
+    "source_url_make": "link-belt",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:01.924271",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HTC-8670",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "115 ft (35 m)",
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "115 ft (35 m)",
+            "Max Lift Capacity": "70 t (63,503 kg)",
+            "Min Height @ Max Raise Angle": "38 ft (12 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "1.7 rpm"
+        },
+        "CARRIER ENGINE": {
+            "bore": "6.3 in (15 cm)",
+            "Displacement": "775.1 cu in (0 m)",
+            "Gross Power": "365 hp (272 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "1350 lbs/ft",
+            "Model": "Series 60",
+            "Number of cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5.2 in (13 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "36.8 ft (11 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Transport Height": "11.6 ft (3 m)",
+            "Transport Length": "45.6 ft (14 m)",
+            "Transport Width": "8.5 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13.7 ft (4 m)",
+            "Width w/ Outriggers Extended": "26 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Carrier Hydraulic System Fluid Capacity": "169 gal (640 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "139993.6 lbs (63,500 kg)",
+            "Tire Size": "Front - 425/64R22.5, Rear - 11R22.5"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "58.2 mph (93 kph)",
+            "Max Speed - Reverse": "10.3 mph (16 kph)",
+            "Number of Forward Gears": "11",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Eaton RTO\u00c3\u00a2\u00e2?\u00ac\u00e2??14709MLL"
+        }
+    }
+}

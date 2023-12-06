@@ -1,0 +1,85 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/volvo/g780/30754554",
+    "source_url_id": "30754554",
+    "source_url_model": "g780",
+    "source_url_make": "volvo",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:22:31.706857",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Volvo",
+    "equipment_model": "G780",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "46  \t\u00b0",
+            "Blade Tip Angle - Rear": "13  \t\u00b0",
+            "Diameter": "66.7 in (168 cm)",
+            "Max Lift Above Ground": "17 in (43 cm)",
+            "Max Reach Outside Tires - Left": "91 in (231 cm)",
+            "Max Reach Outside Tires - Right": "90.5 in (229 cm)",
+            "Rotation": "360  \t\u00b0",
+            "Shift Left": "30 in (76 cm)",
+            "Shift Right": "29.5 in (74 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "9 ft (3 m)",
+            "Height to Top of Isomount Cab": "10.5 ft (3 m)",
+            "Overall Length": "28.6 ft (9 m)",
+            "Wheelbase": "20.5 ft (6 m)",
+            "Width Over Tires": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "659.1 cu in (0 m)",
+            "Engine Model": "M11",
+            "Max Power": "210 hp (157 kw)",
+            "Net Power Gears 7-8": "210 hp (157 kw)",
+            "Net Torque Gears 7-8": "760 lbs/ft",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2.3 ft (1 m)",
+            "Oscillation - Total": "16  \t\u00b0",
+            "Wheel Lean": "18  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "48.4 gal/min (182 l/min)",
+            "Pump Type": "load sensing hydraulic",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Moldboard": {
+            "Blade Down Pressure": "23485 lbs (10,653 kg)",
+            "Blade Pull at Max Weight": "26507 lbs (12,024 kg)",
+            "Max Depth of Cut": "33 in (84 cm)",
+            "Moldboard Height": "31 in (79 cm)",
+            "Moldboard Thickness": "1 in (3 cm)",
+            "Moldboard Width": "14 ft (4 m)",
+            "Side Shift Left": "26.5 in (66 cm)",
+            "Side Shift Right": "26.5 in (66 cm)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "13.3 gal (49 l)",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "23.8 gal (87 l)",
+            "Operating Voltage": "24 V V",
+            "Rear Diff/Final Drive Fluid Capacity": "9 gal (34 l)",
+            "Std Operation Weight - Front Axle": "13289.5 lbs (6,028 kg)",
+            "Std Operation Weight - Rear Axle": "29453.8 lbs (13,360 kg)",
+            "Std Operation Weight - Total": "42743.3 lbs (19,388 kg)",
+            "Tandem Case Fluid Capacity (each)": "27.8 gal (102 l)",
+            "Tire Size": "16.00 x 24, G-2",
+            "Transmission Fluid Capacity": "10.1 gal (38 l)"
+        },
+        "Steering System": {
+            "Articulation Angle": "22  \t\u00b0"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.8 mph (37 kph)",
+            "Max Speed - Reverse": "17 mph (27 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "4",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

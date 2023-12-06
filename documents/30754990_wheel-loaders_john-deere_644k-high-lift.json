@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/644k-high-lift/30754990",
+    "source_url_id": "30754990",
+    "source_url_model": "644k-high-lift",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:15.429100",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "644K High-Lift",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "30384 lbs (13,782 kg)",
+            "Bucket Capacity - heaped": "4.3 cu yds (3 m)",
+            "Bucket Capacity - struck": "3.7 cu yds (2 m)",
+            "Bucket Width": "10 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.8 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Hinge Pin - Max Height": "14.8 ft (4 m)",
+            "Length with Bucket on Ground": "28.3 ft (9 m)",
+            "Reach at Max Lift and Dump": "3.7 ft (1 m)",
+            "Wheelbase": "10.7 ft (3 m)",
+            "Width Over Tires": "9.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged charge air cooled",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6068H, Tier III certified",
+            "Net Power": "232 hp (173 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1700 rpm",
+            "Torque Measured @": "1400 rpm",
+            "Torque Rise": "55%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "81.9 gal/min (307 l/min)",
+            "Pump Type": "Variable axial piston",
+            "Raise Time": "5.5 sec",
+            "Relief Valve Setting": "3650 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "7.8 gal (27 l)",
+            "Engine Oil Fluid Capacity": "6.5 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "93 gal (352 l)",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "40798.8 lbs (18,506 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Static Tipping Weight": "26958.2 lbs (12,228 kg)",
+            "Tire Size": "23.5 R25",
+            "Transmission Fluid Capacity": "6.1 gal (23 l)",
+            "Turning Radius": "18.3 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.8 mph (35 kph)",
+            "Max Speed - Reverse": "15.5 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Countershaft, powershift"
+        }
+    }
+}

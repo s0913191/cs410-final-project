@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/sv216/30834043",
+    "source_url_id": "30834043",
+    "source_url_model": "sv216",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:37.181460",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV216",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "146 Inches"
+        },
+        "Drum": {
+            "Drum Width": "84 Inches",
+            "Vibration Frequency": "29 - 35 hz (1,740 - 2,100 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB 4.5"
+        },
+        "Operating Specifications": {
+            "Operating Width": "88.9 Inches"
+        }
+    }
+}

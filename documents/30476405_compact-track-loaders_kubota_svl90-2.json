@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/kubota/svl90-2/30476405",
+    "source_url_id": "30476405",
+    "source_url_model": "svl90-2",
+    "source_url_make": "kubota",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:52.026449",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Kubota",
+    "equipment_model": "SVL90-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Bucket hinge pin": "128.6 in (325 cm)",
+            "Dump angle": "43  \t\u00b0",
+            "Ground Clearance": "11.8 in (28 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length - with Bucket": "12.4 ft (4 m)",
+            "Length - without Bucket": "9.8 ft (3 m)",
+            "Overall Width": "77.3 in (196 cm)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Turning Radius from Center - machine rear": "113.5 in (287 cm)",
+            "Width Over Tracks": "1.5 ft (0 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbochar",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Model": "V3800-CR-T",
+            "Gross Power": "92 hp (69 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm",
+            "Stroke": "4.8 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "25.1 gal/min (95 l/min)",
+            "Pump Flow": "25.1 gal/min (95 l/min)",
+            "Relief Valve Pressure": "3555 psi"
+        },
+        "Loader": {
+            "Breakout Force": "6742 lbs (3,058 kg)",
+            "Bucket Breakout Force": "7961 lbs (3,611 kg)",
+            "Operating Load": "3009.4 lbs (1,365 kg)",
+            "Tipping Load": "8598.1 lbs (3,900 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "29.9 gal (110 l)",
+            "Hydraulic System Fluid Capacity": "18 gal (68 l)",
+            "Max Speed - high range": "7.3 mph (11 kph)",
+            "Max Speed - low range": "5 mph (8 kph)",
+            "Operating Weight": "11298.7 lbs (5,125 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.3 psi",
+            "Length of Track on Ground": "5.5 ft (2 m)",
+            "Number of Track Rollers per Side": "5",
+            "Track Gauge": "5 ft (2 m)"
+        }
+    }
+}

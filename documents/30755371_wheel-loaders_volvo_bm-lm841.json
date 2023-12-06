@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/bm-lm841/30755371",
+    "source_url_id": "30755371",
+    "source_url_model": "bm-lm841",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:26.873126",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM LM841",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "5.3 cu yds (4 m)",
+            "Bucket Capacity - struck": "1.8 cu yds (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "D 50 B",
+            "Gross Power": "112 hp (84 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1700 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "58.2 gal/min (220 l/min)",
+            "Relief Valve Setting": "1420 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "21759.7 lbs (9,870 kg)",
+            "Static Tipping Weight": "9479.9 lbs (4,300 kg)",
+            "Tire Size": "front 18.4-34/14 rear 14.9-24/12",
+            "Turning Radius": "18.4 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "16.5 mph (26 kph)",
+            "Max Speed - Reverse": "16.5 mph (26 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "power-shift"
+        }
+    }
+}

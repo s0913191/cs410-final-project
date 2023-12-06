@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/komatsu/fd30t-16/30133326",
+    "source_url_id": "30133326",
+    "source_url_model": "fd30t-16",
+    "source_url_make": "komatsu",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:33:27.091623",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Komatsu",
+    "equipment_model": "FD30T-16",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "5.6 in (13 cm)",
+            "Height to Top of Overhead Guard": "7 ft (2 m)",
+            "Length to Fork Face": "8.9 ft (2 m)",
+            "Max Fork Height": "10.7 ft (3 m)",
+            "Overall Height - mast lowered": "7.1 ft (2 m)",
+            "Overall Width": "4.1 ft (1 m)",
+            "Right Angle Stack": "9.4 ft (3 m)",
+            "Turning Radius": "7.8 ft (2 m)",
+            "Wheelbase": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "187 cu in (0 m)",
+            "Engine Make": "Yanmar",
+            "Engine Model": "4D94LE",
+            "Fuel Type": "Diesel",
+            "Number of Cylinders": "4",
+            "Power": "65 hp (48 kw)",
+            "Power Measured @": "2450 rpm",
+            "Torque": "140.9 lbs/ft",
+            "Torque Measured @": "1800 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "104 ft/min",
+            "Load Capacity": "6001 lbs (2,722 kg)",
+            "Load Center": "19.1 in (48 cm)",
+            "Lower Speed": "98 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "11.9 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "9502 lbs (4,310 kg)",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

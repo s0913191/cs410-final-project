@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa270-3/35916",
+    "source_url_id": "35916",
+    "source_url_model": "wa270-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:21.307078",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA270-3",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "2.8 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.4 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Hinge Pin - Max Height": "12.5 ft (4 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "S6D102E1",
+            "Max Torque": "417.5 lbs/ft",
+            "Number of Cylinders": "6"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "83 gal/min (314 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "48.9 gal (182 l)",
+            "Hydraulic System Fluid Capacity": "31.8 gal (117 l)",
+            "Max Speed": "26 mph (42 kph)",
+            "Operating Weight": "27116.9 lbs (12,300 kg)",
+            "Tire Size": "20.5 R25"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

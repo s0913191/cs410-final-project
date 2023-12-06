@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/hesston/5145/30752360",
+    "source_url_id": "30752360",
+    "source_url_model": "5145",
+    "source_url_make": "hesston",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:06.815252",
+    "equipment_category": "Balers",
+    "equipment_make": "Hesston",
+    "equipment_model": "5145",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Belt Width": "7.1 in (18 cm)",
+            "Number of Belts": "6"
+        },
+        "Bale Size": {
+            "Bale Diameter - max": "5.2 ft (2 m)",
+            "Bale Diameter - min": "2.5 ft (1 m)",
+            "Bale Weight - min": "1250.1 lbs (567 kg)",
+            "Bale Width": "3.9 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "4",
+            "Number of Tines": "72",
+            "Overall Width": "5.5 ft (2 m)",
+            "Tine to Tine Width": "3.7 ft (1 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "8.5 ft (2 m)",
+            "Overall Length": "12.3 ft (4 m)",
+            "Overall Width": "7.8 ft (2 m)",
+            "Tractor PTO Power Required": "40 hp (30 kw)",
+            "Weight": "3719.2 lbs (1,687 kg)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "4",
+            "Twine Type": "electric actuated"
+        }
+    }
+}

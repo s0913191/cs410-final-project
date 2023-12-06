@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/new-holland/l215/26364",
+    "source_url_id": "26364",
+    "source_url_model": "l215",
+    "source_url_make": "new-holland",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:44.649277",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "L215",
+    "equipment_spec": {
+        "Dimensions": {
+            "Bucket hinge pin fully raised": "9334 ft (2,845 m)",
+            "Ground Clearance": "7.1 in (18 cm)",
+            "Height - Top of ROPS/FOPS": "75.6 in (191 cm)",
+            "Length w/o Bucket": "8 ft (2 m)",
+            "Length with Bucket": "10 ft (3 m)",
+            "Reach at Max Lift and Dump": "18.5 in (46 cm)",
+            "Wheelbase": "3.1 ft (1 m)",
+            "Width Over Tires": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Bore": "3.4 in (8 cm)",
+            "Displacement": "122.1 cu in (0 m)",
+            "Engine Make": "ISM",
+            "Engine Model": "N844T",
+            "Gross Power": "49 hp (37 kw)",
+            "Max Torque": "109.2 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2900 rpm",
+            "Stroke": "3.6 in (8 cm)",
+            "Torque Measured @": "1750 rpm"
+        },
+        "Hydraulic System": {
+            "3.4": "3.4 sec sec",
+            "Displacement-Standard aux": "1.3 cu in (0 m)",
+            "Dump Time": "1.9 sec",
+            "Lower Time": "2.1 sec",
+            "Pump Flow Capacity": "15.6 gal/min (57 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Operating Load Rating": "1500 lbs (680 kg)",
+            "Operating Width": "59.8 in (150 cm)",
+            "Tipping load (ISO 14397)": "3000.5 lbs (1,361 kg)"
+        },
+        "Operating Specifications": {
+            "Chain Box Fluid Capacity - each side": "1.7 gal (4 l)",
+            "Engine Oil Fluid Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "16 gal (61 l)",
+            "Hydraulic System Fluid Capacity": "4 gal (15 l)",
+            "Operational Weight": "5370.5 lbs (2,436 kg)",
+            "Shipping Weight - Empty": "5070.7 lbs (2,300 kg)",
+            "Tire Size": "10 X 16.5"
+        }
+    }
+}

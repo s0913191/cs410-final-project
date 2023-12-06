@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-278-ad-4-am/30800732",
+    "source_url_id": "30800732",
+    "source_url_model": "bw-278-ad-4-am",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:23.671513",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 278 AD-4 AM",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "198 in (503 cm)"
+        },
+        "Drum": {
+            "Drum Width": "78 in (198 cm)",
+            "Vibration Frequency": "2500 - 3,000 hz (150,000 - 180,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "84.5 in (213 cm)"
+        }
+    }
+}

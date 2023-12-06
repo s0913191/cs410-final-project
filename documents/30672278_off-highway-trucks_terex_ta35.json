@@ -1,0 +1,76 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/terex/ta35/30672278",
+    "source_url_id": "30672278",
+    "source_url_model": "ta35",
+    "source_url_make": "terex",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:31.292472",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Terex",
+    "equipment_model": "TA35",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2.8 ft (1 m)",
+            "Dump Height": "22.7 ft (7 m)",
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Overall Height": "12.8 ft (4 m)",
+            "Overall Length": "35.8 ft (11 m)",
+            "Overall Width": "10.5 ft (3 m)",
+            "Wheelbase": "17.4 ft (5 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "27.5 cu yds (21 m)",
+            "Capacity - Struck": "20.3 cu yds (15 m)",
+            "Dump Angle": "66  \t\u00b0",
+            "Lower Time": "8 sec",
+            "Raise Time": "12.5 sec",
+            "Rated Payload": "74956 lbs (34,000 kg)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "855 cu in (0 m)",
+            "Engine Model": "Series 60",
+            "Gross Power": "400 hp (298 kw)",
+            "Make": "Detroit Diesel",
+            "Max Torque": "1445 lbs/ft",
+            "Model": "Series 60",
+            "Net Power": "388 hp (289 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Cooling System Fluid Capacity": "17.7 gal (64 l)",
+            "Engine Oil Capacity": "8.5 gal (30 l)",
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Hydraulic System Fluid Capacity": "87.2 gal (329 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "26.5R25",
+            "Transmission Fluid Capacity": "16.2 gal (61 l)"
+        },
+        "Transmission": {
+            "Max Speed": "33.5 mph (53 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison HD4560 fully automatic"
+        },
+        "Weights": {
+            "Center Axle - empty": "15707 lbs (7,125 kg)",
+            "Center Axle - loaded": "50705 lbs (23,000 kg)",
+            "Front Axle - empty": "33258 lbs (15,086 kg)",
+            "Front Axle - loaded": "38094 lbs (17,279 kg)",
+            "Operating Weight": "139509 lbs (63,281 kg)",
+            "Rear Axle - empty": "15582 lbs (7,068 kg)",
+            "Rear Axle - loaded": "50705 lbs (23,000 kg)",
+            "Total Empty": "64547 lbs (29,278 kg)",
+            "Total Loaded": "139506 lbs (63,280 kg)"
+        }
+    }
+}

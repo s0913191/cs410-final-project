@@ -1,0 +1,89 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/john-deere/672a/19592",
+    "source_url_id": "19592",
+    "source_url_model": "672a",
+    "source_url_make": "john-deere",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:51.448972",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "John Deere",
+    "equipment_model": "672A",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "44  \t\u00b0",
+            "Blade Tip Angle - Rear": "10  \t\u00b0",
+            "Diameter": "58 in (147 cm)",
+            "Max Lift Above Ground": "16.2 in (41 cm)",
+            "Max Reach Outside Tires - Left": "87.5 in (221 cm)",
+            "Max Reach Outside Tires - Right": "84.7 in (213 cm)",
+            "Rotation": "360  \t\u00b0",
+            "Shift Left": "34.4 in (86 cm)",
+            "Shift Right": "30 in (76 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "8.4 ft (2 m)",
+            "Front Ground Clearance": "1.9 ft (0 m)",
+            "Height to Top of Isomount Cab": "10.5 ft (3 m)",
+            "Overall Length": "27.3 ft (8 m)",
+            "Tandem Axle Wheelbase": "5.1 ft (2 m)",
+            "Wheelbase": "19.6 ft (6 m)",
+            "Width Over Tires": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6-414T",
+            "Max Power": "125 hp (93 kw)",
+            "Net Power Gears 7-8": "125 hp (93 kw)",
+            "Net Torque Gears 7-8": "372 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Oscillation - Total": "30  \t\u00b0",
+            "Wheel Lean": "20  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "37.6 gal/min (140 l/min)",
+            "Pump Type": "Closed Center variable Displacement"
+        },
+        "Moldboard": {
+            "Max Depth of Cut": "6 in (15 cm)",
+            "Moldboard Height": "24 in (61 cm)",
+            "Moldboard Thickness": "0.9 in (0 cm)",
+            "Moldboard Width": "12 ft (4 m)",
+            "Side Shift Left": "26.9 in (66 cm)",
+            "Side Shift Right": "26.9 in (66 cm)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "42  A",
+            "Circle Gearbox Fluid Capacity": "3 gal (11 l)",
+            "Cooling System Fluid Capacity": "7 gal (27 l)",
+            "Fuel Capacity": "60 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "38 gal (144 l)",
+            "Max Operation Weight - Front Axle": "9128 lbs (4,140 kg)",
+            "Max Operation Weight - Rear Axle": "21726 lbs (9,855 kg)",
+            "Max Operation Weight - Total": "30854 lbs (13,995 kg)",
+            "Oil System Fluid Capacity": "5 gal (19 l)",
+            "Operating Voltage": "25 V V",
+            "Std Operation Weight - Front Axle": "8702 lbs (3,947 kg)",
+            "Std Operation Weight - Rear Axle": "18650 lbs (8,460 kg)",
+            "Std Operation Weight - Total": "27352 lbs (12,407 kg)",
+            "Tandem Case Fluid Capacity (each)": "5 gal (19 l)",
+            "Tire Size": "13.00-24"
+        },
+        "Steering System": {
+            "Articulation Angle": "25  \t\u00b0",
+            "Turning Radius": "22.6 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.9 mph (37 kph)",
+            "Max Speed - Reverse": "7.6 mph (11 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "4",
+            "Transmission Type": "power shift"
+        }
+    }
+}

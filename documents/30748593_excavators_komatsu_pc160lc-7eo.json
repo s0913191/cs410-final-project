@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc160lc-7eo/30748593",
+    "source_url_id": "30748593",
+    "source_url_model": "pc160lc-7eo",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:42.444078",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC160LC-7EO",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "19.6 ft (6 m)",
+            "Max Loading Height": "20.9 ft (6 m)",
+            "Max Reach Along Ground": "28.9 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "16.6 ft (5 m)",
+            "Shipping Height of Unit": "9.9 ft (3 m)",
+            "Shipping Length of Unit": "28.2 ft (9 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "1.1 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Tail Swing Radius": "8 ft (2 m)",
+            "Width to Outside of Tracks": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "272.2 cu in (0 m)",
+            "Engine Model": "SAA4D107E-1",
+            "Net Power": "115.4 hp (86 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "82.5 gal/min (310 l/min)",
+            "Hydraulic System Relief Valve Pressure": "5511.5 psi",
+            "Operating Weight": "37125.9 lbs (16,840 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "19.7 in (48 cm)"
+        }
+    }
+}

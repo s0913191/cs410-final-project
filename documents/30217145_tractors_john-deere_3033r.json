@@ -1,0 +1,101 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/3033r/30217145",
+    "source_url_id": "30217145",
+    "source_url_model": "3033r",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:19:52.733560",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "3033R",
+    "equipment_spec": {
+        "3-Point Hitch": {
+            "Category": "Category 1",
+            "Lift capacity (24-in. behind link arms)": "998 kg (2,200 lbs)"
+        },
+        "Dimensions": {
+            "Approximate shipping weight (open-station; cab)": "ROPS: 1315.4 kg, Cab: 1619.3 kg",
+            "Front Axle Clearance": "12.2 in (30 cm)",
+            "Turning radius with brakes": "2.7 METERS",
+            "Wheelbase": "68 ft (21 m)"
+        },
+        "Electrical System": {
+            "Alternator (12-V)": "75 amp",
+            "Battery size": "500 CCA",
+            "Starter size": "1.9 hp (1 kw)"
+        },
+        "Engine": {
+            "Air cleaner": "Dual element with electronic restriction indicator",
+            "Aspiration": "Natural",
+            "Bore": "3.5 in (8 cm)",
+            "Compression ratio": "19.1:1",
+            "Cooling system": "Water pump",
+            "Cylinder liners": "Cast-In-Block",
+            "Displacement": "100.1 cu in (0 m)",
+            "Emissions compliance": "Final Tier 4",
+            "Engine Manufacturer": "Yanmar",
+            "Engine Model": "3TNV88C-MJT",
+            "Engine torque at rated speed": "87 Nm",
+            "Engine Type": "Diesel",
+            "Family": "EYDXL1.64NDA, FYDXL1.64NDA, GYDXL1.64NDA",
+            "Fuel tank capacity": "Rollover protective structure (ROPS): 51.1 L, Cab: 44.7 L",
+            "Gross Power": "31.8 hp (23 kw)",
+            "Injection pump type": "High pressure common rail direct injection",
+            "Lubrication": "Pressurized",
+            "Number of Cylinders": "3",
+            "Power take-off (PTO) power": "24.8 hp (18 kw)",
+            "Rated engine speed": "2600 rpm",
+            "Stroke": "3.6 in (8 cm)"
+        },
+        "Final Drive": {
+            "Final Drive Type": "Bull Gear"
+        },
+        "Fluid Capacities": {
+            "Crankcase with filter": "4.8 L",
+            "Transmission and hydraulic system": "23.8 L"
+        },
+        "Fuel System": {
+            "Fuel consumption": "7.6 L/hr",
+            "Fuel System Type": "High pressure common rail direct injection"
+        },
+        "Hydraulic System": {
+            "Draft control sensing": "Position control",
+            "Hydraulic Type": "Open Center",
+            "Maximum operating pressure": "2500 psi",
+            "Pump rated output": "Steering - 22.3 L/min, Implement - 32.5 L/min",
+            "Pump Type": "Dual gear",
+            "Remote control valves available": "Up to four rear remotes"
+        },
+        "Operator Station": {
+            "Gear shift location - console/floor": "Left Hand Side",
+            "Platform - flat/straddle": "Flat",
+            "Rollover protective structure": "Foldable"
+        },
+        "Power Take-Off (PTO)": {
+            "Brake (for mid and rear PTO)": "Multi-plate wet disc",
+            "Clutch": "Wet disc",
+            "Control": "Position control",
+            "Optional": "Mid - 2100 rpm",
+            "Standard": "Independent Rear - 540 rpm"
+        },
+        "Tires": {
+            "Front Tires Size": "Farm - 7-14, Turf (Gear 4WD) - 27x8.50-15, Turf (HST 4WD) - 25x10.5LLx15, R4 - 25x8.5-14",
+            "Front tread range": "114 CENTIMETERS",
+            "Rear Tires Size": "Farm - 11.2-24, Turf (Gear 4WD) - 41x14-20, Turf (HST 4WD) - 41x18LL-16.1, R4 - 15-19.5",
+            "Rear tread spacing": "103.1 CENTIMETERS"
+        },
+        "Transmission": {
+            "Axle capacity": "Front - 720-1450 kg, Rear - 2400 kg",
+            "Brakes": "Multi-plate wet disc",
+            "Clutch, wet/dry": "Wet disc",
+            "Creeper": "SpeedMatch optional",
+            "Cruise control": "Standard",
+            "Differential lock": "Yes",
+            "Final Drive Type": "Bull Gear",
+            "Left-hand reverser": "Yes",
+            "Standard transmission; forward/reverse": "Gear 4WD / eHydro (electronic hydrostatic)",
+            "Steering": "Hydrostatic power steering",
+            "Transmission gear ranges": "12F/12R PowrReverser (PRT)                                  3-range, infinitely variable"
+        }
+    }
+}

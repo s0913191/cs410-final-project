@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/komatsu/gd650aw-2c/30754544",
+    "source_url_id": "30754544",
+    "source_url_model": "gd650aw-2c",
+    "source_url_make": "komatsu",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:29.578529",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "GD650AW-2C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Base": "8.2 ft (2 m)",
+            "Height to Top of Isomount Cab": "10.2 ft (3 m)",
+            "Overall Length": "27.8 ft (8 m)",
+            "Rear Ground Clearance": "1 ft (0 m)",
+            "Tandem Axle Wheelbase": "5.1 ft (2 m)",
+            "Wheelbase": "19.5 ft (6 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "504.7 cu in (0 m)",
+            "Engine Model": "S6D114E",
+            "Max Power": "166.3 hp (124 kw)",
+            "Net Power Gear 5-6": "166.3 hp (124 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1 ft (0 m)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "26 in (66 cm)",
+            "Moldboard Width": "12.1 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Std Operation Weight - Total": "33091.4 lbs (15,010 kg)",
+            "Tire Size": "14.00-24-10PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "26.1 mph (42 kph)",
+            "Max Speed - Reverse": "14.5 mph (23 kph)",
+            "Number of Gears - Forward": "6"
+        }
+    }
+}

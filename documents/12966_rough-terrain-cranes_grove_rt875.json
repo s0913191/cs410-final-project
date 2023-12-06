@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt875/12966",
+    "source_url_id": "12966",
+    "source_url_model": "rt875",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:38.502073",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT875",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "113.9 ft (34 m)",
+            "Min Height @ Max Raise Angle": "36.1 ft (11 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "27916.7 ft (8,509 m)",
+            "Ground Clearance": "2 ft (1 m)",
+            "Transport Height": "12.8 ft (4 m)",
+            "Transport Length": "45.5 ft (14 m)",
+            "Transport Width": "12.1 ft (4 m)",
+            "Upper Structure Tail Swing Radius": "14.2 ft (4 m)",
+            "Wheelbase": "170 in (432 cm)",
+            "Width w/ Outriggers Extended": "26.1 ft (8 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "6CTA",
+            "Gross Power": "249.5 hp (186 kw)",
+            "Max Torque": "650 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "100.2 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "225.1 gal (852 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "111862.6 lbs (50,740 kg)",
+            "Tire Size": "29.5 x 25 - 28 PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "18.8 mph (29 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

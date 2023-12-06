@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/john-deere/872gp/38171",
+    "source_url_id": "38171",
+    "source_url_model": "872gp",
+    "source_url_make": "john-deere",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:05.854222",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "John Deere",
+    "equipment_model": "872GP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Base": "8.4 ft (2 m)",
+            "Height to Top of Isomount Cab": "10.5 ft (3 m)",
+            "Overall Length": "29.2 ft (9 m)",
+            "Wheelbase": "20.3 ft (6 m)"
+        },
+        "Engine": {
+            "Displacement": "548 cu in (0 m)",
+            "Engine Model": "PowerTech PSS 9.0L (Tier 4)",
+            "Max Power": "285 hp (213 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "57.5 gal/min (216 l/min)",
+            "Pump Type": "Variable axial piston",
+            "Relief Valve Pressure": "2750 psi"
+        },
+        "Moldboard": {
+            "Moldboard Height": "27.1 in (69 cm)",
+            "Moldboard Thickness": "1 in (3 cm)",
+            "Moldboard Width": "14 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "110 gal (416 l)",
+            "Hydraulic System Fluid Capacity": "16 gal (61 l)",
+            "Std Operation Weight - Front Axle": "11230 lbs (5,094 kg)",
+            "Std Operation Weight - Rear Axle": "28420 lbs (12,891 kg)",
+            "Std Operation Weight - Total": "39650.2 lbs (17,985 kg)"
+        }
+    }
+}

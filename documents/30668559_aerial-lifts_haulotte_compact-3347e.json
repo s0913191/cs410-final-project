@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/compact-3347e/30668559",
+    "source_url_id": "30668559",
+    "source_url_model": "compact-3347e",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:45.998651",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "COMPACT 3347E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Boom Type/Size": "38.9 ft (12 m)",
+            "Platform Size": "10.7x3.9 ft (3 m)",
+            "Stowed Height": "7.9 ft (2 m)",
+            "Stowed Width": "4 ft (1 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "310",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "7 gal (27 l)",
+            "Max Speed": "1.8 mph (2 kph)",
+            "Operating Weight": "5466 lbs (2,479 kg)",
+            "Tire Fill/Type": "Foam",
+            "Tire Size": "15x5"
+        },
+        "Platform": {
+            "Deck Extension": "36 in (91 cm)",
+            "Extended platform length": "10.7 ft (3 m)",
+            "Lift Time": "58 sec",
+            "Lower Time": "52 sec",
+            "Max Platform Height": "32.9 ft (10 m)",
+            "Max Platform Weight Capacity": "660 lbs (299 kg)",
+            "Max Working Height": "38.9 ft (12 m)",
+            "Platform Extension length": "3 ft (1 m)",
+            "Platform length - outside": "7.7 ft (2 m)",
+            "Platform width - outside": "3.2 ft (1 m)"
+        },
+        "Capacity": {
+            "Platform Capacity": "662 lbs (300 kg)"
+        },
+        "Tires": {
+            "Tire Size": "15x5"
+        }
+    }
+}

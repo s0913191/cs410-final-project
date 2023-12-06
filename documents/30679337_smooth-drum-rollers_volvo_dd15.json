@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/dd15/30679337",
+    "source_url_id": "30679337",
+    "source_url_model": "dd15",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:25.301253",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "DD15",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "39.4 in (99 cm)",
+            "Vibration Frequency": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota D722-B Tier IV"
+        },
+        "Operating Specifications": {
+            "Operating Width": "40.1 in (102 cm)"
+        }
+    }
+}

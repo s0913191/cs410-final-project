@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l3240hstc/30115619",
+    "source_url_id": "30115619",
+    "source_url_model": "l3240hstc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:29:40.270266",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L3240HSTC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Overall Length": "9.6 in (23 cm)",
+            "Tire Size": "front 7.2-16 rear 12.4-24",
+            "Wheelbase": "6 ft (2 m)",
+            "Width Outside Frame": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "100.5 cu in (0 m)",
+            "Engine Model": "E-TVCS",
+            "Gross Power": "34 hp (25 kw)",
+            "Net Power": "32 hp (24 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2700 rpm",
+            "PTO Power": "26.5 hp (19 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "13.3 gal/min (49 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2645.6 lbs (1,200 kg)",
+            "3 Point Hitch Type": "Cat. I",
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "11.7 gal (42 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3747.9 lbs (1,700 kg)",
+            "Turning Radius": "8.9 ft (2 m)"
+        },
+        "Transmission": {
+            "Transmission Type": "HST plus 3 range"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l-556-ind/30761242",
+    "source_url_id": "30761242",
+    "source_url_model": "l-556-ind",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:33.051194",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L 556 Ind.",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.6 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Liebherr",
+            "Model": "D 934 A7",
+            "Net Power": "188 hp (140 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.7 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "41535 lbs (18,840 kg)"
+        }
+    }
+}

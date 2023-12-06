@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/8660/30437689",
+    "source_url_id": "30437689",
+    "source_url_model": "8660",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:36.010465",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "8660",
+    "equipment_spec": {
+        "Engine": {
+            "Aspiration": "Turbocharged with air/air intercooler",
+            "Displacement": "512.6 cu in (0 m)",
+            "Gross Power": "295 hp (220 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "225 hp (168 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed Center Load Sensing",
+            "Maximum Operating Pressure": "2900 psi",
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "26.5 gal/min (98 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "22758.4 lbs (10,323 kg)",
+            "DEF tank capacity": "16 gal (61 l)",
+            "Fuel Capacity": "167 gal (632 l)"
+        },
+        "Power Take-Off (PTO)": {
+            "PTO speed": "1000 rpm"
+        },
+        "Production": {
+            "Series": "8600 Series",
+            "Years Manufactured": "2009 - 2013"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Transmission Type": "Dyna-VT with Dynamic Tractor Management"
+        }
+    }
+}

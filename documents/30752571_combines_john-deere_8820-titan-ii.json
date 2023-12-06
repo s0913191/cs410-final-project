@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/8820-titan-ii/30752571",
+    "source_url_id": "30752571",
+    "source_url_model": "8820-titan-ii",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:29.466952",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "8820 Titan II",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Description": "4 blade undershot, Diameter: 505 mm, Width 1632 mm",
+            "Cleaning Fan Speed - High": "1100 rpm",
+            "Cleaning Fan Speed - Low": "370 rpm"
+        },
+        "Dimensions": {
+            "Transport height": "149.7 in (378 cm)",
+            "Transport length": "441 in (1,120 cm)",
+            "Transport width": "16.5 ft (5 m)",
+            "Unloader clearance": "12.2 ft (4 m)",
+            "Unloader reach": "11.9 ft (3 m)",
+            "Wheelbase": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "466.3 cu in (0 m)",
+            "Engine Make": "John Deere",
+            "Engine Model": "6466AH-02",
+            "Number of Cylinders": "6",
+            "Power": "225 hp (168 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "215 bu",
+            "Unloading auger diameter": "12.1 in (30 cm)",
+            "Unloading Auger Length": "17.1 ft (5 m)",
+            "Unloading Speed": "1.9 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "100.4 gal (379 l)",
+            "Operating Weight w/o Attachment": "25485.5 lbs (11,560 kg)"
+        },
+        "Threshing": {
+            "Concave Area": "490 cu in (0 m)",
+            "Rotor Diameter": "22.1 in (56 cm)",
+            "Rotor Speed - High": "1230 rpm",
+            "Rotor Speed - Low": "700 rpm",
+            "width": "72.9 in (183 cm)"
+        },
+        "Tires": {
+            "Front Tires Size": "24.5 - 32 R1, 12-ply",
+            "Rear Tires Size": "11.25 - 24, 8-ply"
+        }
+    }
+}

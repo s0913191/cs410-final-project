@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/volvo/bm-vhk312/30754584",
+    "source_url_id": "30754584",
+    "source_url_model": "bm-vhk312",
+    "source_url_make": "volvo",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:22:18.441156",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM VHK312",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "D 70 B",
+            "Max Power": "160 hp (119 kw)",
+            "Net Power Gears 7-8": "160 hp (119 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "24.7 in (61 cm)",
+            "Moldboard Width": "12 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Std Operation Weight - Total": "28880.6 lbs (13,100 kg)",
+            "Tire Size": "14.00-24/12"
+        },
+        "Transmission": {
+            "Transmission Type": "hydro-mechanical"
+        }
+    }
+}

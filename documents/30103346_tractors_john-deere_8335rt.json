@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/8335rt/30103346",
+    "source_url_id": "30103346",
+    "source_url_model": "8335rt",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:24:14.185742",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "8335RT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.4 in (38 cm)",
+            "Height - Top of ROPS/FOPS": "131.3 ft (40 m)",
+            "Overall Length": "22.6 in (56 cm)",
+            "Overall Width": "11.3 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "PowerTech PSX",
+            "Gross Power": "335 hp (250 kw)",
+            "Net Power": "369 hp (275 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "323.3 hp (241 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "10.9 gal (38 l)",
+            "Engine Oil Capacity": "6.7 gal (23 l)",
+            "Operating Weight": "39000 lbs (17,690 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.5 mph (39 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "John Deere AutoPowr"
+        }
+    }
+}

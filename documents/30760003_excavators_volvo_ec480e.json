@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec480e/30760003",
+    "source_url_id": "30760003",
+    "source_url_model": "ec480e",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:52.824827",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC480E",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "25.8 ft (8 m)",
+            "Max Reach Along Ground": "39.10 ft (12 m)"
+        },
+        "Engine": {
+            "Net Power": "376 hp (280 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "117510 lbs (53,302 kg)"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/john-deere/310k-ep/30750392",
+    "source_url_id": "30750392",
+    "source_url_model": "310k-ep",
+    "source_url_make": "john-deere",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:11.771725",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "310K EP",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "9350 lbs (4,241 kg)",
+            "Bucket Dig Force - Extended": "9500 lbs (4,309 kg)",
+            "Dig Depth": "14.3 ft (4 m)",
+            "Dig Depth - Extended": "17.2 ft (5 m)",
+            "Load Height": "10.2 ft (3 m)",
+            "Load Height - Extended": "13.2 ft (4 m)",
+            "Reach From Swivel": "17.1 ft (5 m)",
+            "Reach From Swivel - Extended": "21.5 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height to Top of Suspended Cab": "9 ft (3 m)",
+            "Transport Length": "23.3 ft (7 m)",
+            "Transport Width": "7.2 ft (2 m)",
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "274.7 cu in (0 m)",
+            "Engine Make": "E 4045HT072",
+            "Engine Model": "John Deere PowerTech",
+            "Net Max Torque": "224 lbs/ft",
+            "Net Power": "52 hp (39 kw)",
+            "Net Torque Rise": "0.38",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "31.5 gal/min (117 l/min)",
+            "Pump Type": "Open center , gear type , tandem with unloader",
+            "Relief Valve Pressure": "3625 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "9350 lbs (4,241 kg)",
+            "Bucket Capacity": "1.1 cu yds (1 m)",
+            "Bucket Width": "86 in (218 cm)",
+            "Clearance at Max Dump Height": "8.1 ft (2 m)",
+            "Dig Depth": "6.3 in (15 cm)",
+            "Lift Capacity": "6600 lbs (2,994 kg)",
+            "Reach at Max Dump Height": "2.6 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.7 gal (30 l)",
+            "Fuel Capacity": "41 gal (155 l)",
+            "Hydraulic System Fluid Capacity": "23.6 gal (87 l)",
+            "Max Weight": "13913 lbs (6,311 kg)",
+            "Oil System Fluid Capacity": "3.5 gal (11 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "14352 lbs (6,510 kg)",
+            "Rear Axle Fluid Capacity": "4.8 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "11L-16 F-3",
+            "Transmission Fluid Capacity": "15.1 gal (57 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5L-24 R"
+        },
+        "Transmission": {
+            "Max Speed": "18.6 mph (29 kph)",
+            "Max Speed - Reverse": "7.5 mph (11 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

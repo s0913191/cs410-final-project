@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/fendt/722/30751389",
+    "source_url_id": "30751389",
+    "source_url_model": "722",
+    "source_url_make": "fendt",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:16:36.609870",
+    "equipment_category": "Tractors",
+    "equipment_make": "Fendt",
+    "equipment_model": "722",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "21.8 in (53 cm)",
+            "Overall height": "10.1 ft (3 m)",
+            "Overall Length": "205.8 in (521 cm)",
+            "Overall width": "8.4 ft (2 m)",
+            "Track width rear": "6.3 ft (2 m)",
+            "Turning Circle": "18.1 ft (5 m)",
+            "Wheelbase": "9.1 ft (3 m)"
+        },
+        "Electrical System": {
+            "Alternator": "14 v,200 Amp",
+            "Battery": "12 V, 180 Ah",
+            "Starter": "333 Amp"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, intercooler",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "44 cu in (0 m)",
+            "Engine Model": "722",
+            "Engine oil service interval hours": "500",
+            "Gross Power": "200 hp (149 kw)",
+            "Net Power": "185 hp (138 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "PTO Power": "165 hp (123 kw)",
+            "Rated engine speed": "2100 rpm",
+            "Starter": "5.4 hp (4 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "29.1 gal/min (110 l/min)",
+            "Relief Valve Pressure": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "200  A",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15399.3 lbs (6,985 kg)"
+        },
+        "Power Take-Off (PTO)": {
+            "Front PTO": "540 rpm",
+            "Rear PTO": "1000"
+        },
+        "Transmission": {
+            "Max Speed": "31.1 mph (50 kph)",
+            "Transmission Type": "ML 180 HD"
+        },
+        "Weights": {
+            "Implement weight": "7010.7 lbs (3,180 kg)"
+        }
+    }
+}

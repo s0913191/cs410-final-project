@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/3708f/31077253",
+    "source_url_id": "31077253",
+    "source_url_model": "3708f",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:37.395721",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "3708F",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "80 hp (60 kw)"
+        },
+        "Production": {
+            "Series": "3700 Series",
+            "Years Manufactured": "2017 -"
+        }
+    }
+}

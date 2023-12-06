@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/z-45and-or25j-dc-bienergy/30774444",
+    "source_url_id": "30774444",
+    "source_url_model": "z-45and-or25j-dc-bienergy",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:24.133784",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "Z-45/25J DC & BiEnergy",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "45.6 ft (14 m)",
+            "Platform Size": "2.5x6 ft (1 m)",
+            "Stowed Height": "6.6 ft (2 m)",
+            "Stowed Width": "5.9 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "9-14.5"
+        }
+    }
+}

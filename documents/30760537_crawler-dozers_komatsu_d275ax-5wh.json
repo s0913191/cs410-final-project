@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d275ax-5wh/30760537",
+    "source_url_id": "30760537",
+    "source_url_model": "d275ax-5wh",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:09.971566",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D275AX-5WH",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA6D140E-5",
+            "Net Power": "449 hp (335 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "113604 lbs (51,530 kg)"
+        }
+    }
+}

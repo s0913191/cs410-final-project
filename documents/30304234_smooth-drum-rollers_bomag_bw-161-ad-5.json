@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-161-ad-5/30304234",
+    "source_url_id": "30304234",
+    "source_url_model": "bw-161-ad-5",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:05.500782",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 161 AD-5",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Multi disc",
+            "Service brake": "Hydrostatic"
+        },
+        "Dimensions": {
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Overall Length": "190.6 in (483 cm)",
+            "Overall Width": "6.1 ft (2 m)",
+            "Track radius inner": "193 in (490 cm)",
+            "Wheelbase": "142.6 in (361 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "19109 lbs (8,668 kg)",
+            "Drum Diameter": "48.1 in (122 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Frequency": "45 hz (2,700 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "50 hz (3,000 vpm)",
+            "Vibration Frequency 2": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Cooling method": "Water",
+            "Emissions Certification": "Tier 4i",
+            "Engine Make": "Kubota",
+            "Engine Type": "V3800 CR-TI",
+            "Fuel Type": "Diesel",
+            "Gross Power": "114 hp (85 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "38.3 gal (144 l)",
+            "Operating Voltage": "12 V V",
+            "Operating weight Cabin": "22045 lbs (10,000 kg)",
+            "Operating weight ROPS": "21600 lbs (9,798 kg)",
+            "Water Spray Tank Fluid Capacity": "198.1 gal (749 l)"
+        },
+        "Steering System": {
+            "System": "Oscil.artic"
+        },
+        "Weights": {
+            "Front axle weight": "3550 lbs (1,610 kg)",
+            "Grossweight": "8800 lbs (3,992 kg)",
+            "Rear axle weight": "3750 lbs (1,701 kg)",
+            "Static linear load, front": "237 lbs/in",
+            "Static linear load, rear": "250 lbs/in"
+        }
+    }
+}

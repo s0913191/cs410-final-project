@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/sakai/sv201tb-1/30170143",
+    "source_url_id": "30170143",
+    "source_url_model": "sv201tb-1",
+    "source_url_make": "sakai",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:55.980537",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV201TB-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "103 in (262 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54 in (137 cm)",
+            "Vibration Frequency": "1800 hz (108,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota V3307- Tier III"
+        },
+        "Operating Specifications": {
+            "Operating Width": "60 in (152 cm)"
+        }
+    }
+}

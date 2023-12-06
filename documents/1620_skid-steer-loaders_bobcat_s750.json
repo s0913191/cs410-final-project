@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/bobcat/s750/1620",
+    "source_url_id": "1620",
+    "source_url_model": "s750",
+    "source_url_make": "bobcat",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:31.139586",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "S750",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "8.1 in (20 cm)",
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Wheelbase": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "207.5 cu in (0 m)",
+            "Engine Model": "3.4L",
+            "Gross Power": "85 hp (63 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "23 gal/min (87 l/min)",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Loader": {
+            "Operating Load Rating": "3200 lbs (1,452 kg)",
+            "Operating Width": "74 in (188 cm)",
+            "Tipping Angle": "6400  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "23.9 gal (87 l)",
+            "Operational Weight": "3200 lbs (1,452 kg)"
+        }
+    }
+}

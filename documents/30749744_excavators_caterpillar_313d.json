@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/313d/30749744",
+    "source_url_id": "30749744",
+    "source_url_model": "313d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:36.844285",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "313D",
+    "equipment_spec": {
+        "DRIVE SYSTEM": {
+            "Maximum Drawbar Pull": "25628 lbs (11,625 kg)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "259.4 cu in (0 m)",
+            "Engine Model": "Cat C4.2 ACERT",
+            "Flywheel Power": "89.9 hp (66 kw)",
+            "Gross Power": "96.6 hp (72 kw)",
+            "Net Power": "89.9 hp (66 kw)",
+            "Stroke": "5.2 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Maximum Pressure - Swing": "3336 psi",
+            "Maximum Pressure - Travel": "5076 psi",
+            "Pilot System - Maximum Flow": "5.8 gal/min (19 l/min)",
+            "Pilot System - Maximum Pressure": "598 psi"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "4.7 gal (15 l)",
+            "Engine Oil": "5.2 gal (19 l)",
+            "Final Drive - Each": "0.8 gal (0 l)",
+            "Fuel Tank": "66 gal (250 l)",
+            "Hydraulic System - Including Tank": "42.8 gal (159 l)",
+            "Hydraulic Tank": "39.6 gal (148 l)",
+            "Swing Drive": "0.8 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.4 rpm",
+            "Swing Torque": "22828 lbs/ft"
+        }
+    }
+}

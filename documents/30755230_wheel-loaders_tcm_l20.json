@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/tcm/l20/30755230",
+    "source_url_id": "30755230",
+    "source_url_model": "l20",
+    "source_url_make": "tcm",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:25.797648",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "TCM",
+    "equipment_model": "L20",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "2.7 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "9.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Length with Bucket on Ground": "22.2 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "BB-6BG1T",
+            "Net Power": "128.8 hp (95 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "45 gal (170 l)",
+            "Operating Weight": "20921.9 lbs (9,490 kg)",
+            "Static Tipping Weight": "16226.1 lbs (7,360 kg)",
+            "Tire Size": "17.5-25-12PRL-3"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Max Speed - Reverse": "21.5 mph (34 kph)",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

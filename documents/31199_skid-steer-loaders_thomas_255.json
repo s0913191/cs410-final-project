@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/thomas/255/31199",
+    "source_url_id": "31199",
+    "source_url_model": "255",
+    "source_url_make": "thomas",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:27.623767",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Thomas",
+    "equipment_model": "255",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.1 ft (2 m)",
+            "Ground Clearance": "9 in (23 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length w/o Bucket": "9.8 ft (3 m)",
+            "Length with Bucket": "12.2 ft (4 m)",
+            "Reach at Max Lift and Dump": "21.5 in (53 cm)",
+            "Turning Radius from Center - inc bucket": "84 in (213 cm)",
+            "Turning Radius from Center - machine rear": "69.8 in (175 cm)",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "202.5 cu in (0 m)",
+            "Engine Model": "V3300T Turbo",
+            "Gross Power": "87.4 hp (65 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2750 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21 gal/min (79 l/min)",
+            "Pump Type": "Hydrostatic",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Breakout Force": "7000 psi",
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Operating Load Rating": "2500 lbs (1,134 kg)",
+            "Tipping Angle": "5000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Fuel Capacity": "28.7 gal (106 l)",
+            "Hydraulic System Fluid Capacity": "24 gal (91 l)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "8000 lbs (3,629 kg)"
+        }
+    }
+}

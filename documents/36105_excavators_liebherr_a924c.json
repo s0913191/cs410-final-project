@@ -1,0 +1,120 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/a924c/36105",
+    "source_url_id": "36105",
+    "source_url_model": "a924c",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:14:06.359205",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "A924C",
+    "equipment_spec": {
+        "Boom/Stick Mat. Handler Option 1": {
+            "Boom/Stick Option (MAT) 1": "6.8m boom / 5m stick",
+            "Max Depth": "10.9 ft (3 m)",
+            "Max Height": "42.7 ft (13 m)",
+            "Max Reach Along Ground": "37.8 ft (11 m)"
+        },
+        "Boom/Stick Mat. Handler Option 2": {
+            "Boom/Stick Option (MAT) 2": "6.8m boom / 6m stick",
+            "Max Depth": "14.2 ft (4 m)",
+            "Max Height": "46 ft (14 m)",
+            "Max Reach Along Ground": "41.1 ft (13 m)"
+        },
+        "Boom/Stick Mat. Handler Option 3": {
+            "Boom/Stick Option (MAT) 3": "6.8m boom / 5m stick and grapple model 65",
+            "Max Depth": "19.7 ft (6 m)",
+            "Max Height": "36.1 ft (11 m)",
+            "Max Reach Along Ground": "41.7 ft (13 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "35 ft (11 m)",
+            "Max Digging Depth": "19.6 ft (6 m)",
+            "Max Loading Height": "24.7 ft (7 m)",
+            "Max Reach Along Ground": "31.1 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "14.2 ft (4 m)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "31.5 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "35.6 ft (11 m)",
+            "Max Digging Depth": "20.2 ft (6 m)",
+            "Max Loading Height": "25.1 ft (8 m)",
+            "Max Reach Along Ground": "31.7 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "14.5 ft (4 m)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "31.5 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 3": {
+            "Max Cutting Height": "36.1 ft (11 m)",
+            "Max Digging Depth": "20.9 ft (6 m)",
+            "Max Loading Height": "25.6 ft (8 m)",
+            "Max Reach Along Ground": "32.4 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "14.8 ft (4 m)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "31.5 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 4": {
+            "Max Cutting Height": "37 ft (11 m)",
+            "Max Digging Depth": "22.2 ft (7 m)",
+            "Max Loading Height": "26.5 ft (8 m)",
+            "Max Reach Along Ground": "33.5 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "16.1 ft (5 m)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "31.5 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.9 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Overall Width": "9.1 in (23 cm)",
+            "Overall Width - Outriggers Down": "14 ft (4 m)",
+            "Shipping Height": "10.8 ft (3 m)",
+            "Shipping Length": "33.4 ft (10 m)",
+            "Undercarriage Width": "9.1 ft (3 m)",
+            "Upper Structure Clearance": "4.3 ft (1 m)",
+            "Upperstructure Clearance": "4.5 ft (1 m)",
+            "Wheelbase": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo-charged and after-cooled reduced emissions",
+            "Displacement": "427.2 cu in (0 m)",
+            "Engine Model": "D 934 L",
+            "Gross Power": "184 hp (137 kw)",
+            "Net Power": "184 hp (137 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "56.8 gal/min (212 l/min)",
+            "Pump Type": "Liebherr variable displacement, swash plate double pump"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic Pump Flow Capacity": "56.8 gal/min (212 l/min)",
+            "Hydraulic System Fluid Capacity": "113.6 gal (428 l)",
+            "Hydraulic System Relief Valve Pressure": "5076.4 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "56400 lbs (25,583 kg)",
+            "Operating Weight w/o Attachment": "46100 lbs (20,911 kg)",
+            "Tire Size": "11.00-20"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "12.5 mph (19 kph)",
+            "Max Travel Speed": "12.5 mph (19 kph)",
+            "Transmission Type": "oversized two speed power shift transmission with additional creeper speed"
+        },
+        "Wheel Undercarriage": {
+            "Steering Angle": "30  \t\u00b0",
+            "Tire Size": "11.00-20",
+            "Wheelbase": "9.2 ft (3 m)",
+            "Width w/ Stabilizers on Ground": "14 ft (4 m)"
+        }
+    }
+}

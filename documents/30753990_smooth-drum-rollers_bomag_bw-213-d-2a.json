@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-213-d-2a/30753990",
+    "source_url_id": "30753990",
+    "source_url_model": "bw-213-d-2a",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:16.518633",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 213 D-2A",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "5 ft (2 m)",
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Overall Length": "18.9 in (46 cm)",
+            "Overall Width": "6.9 ft (2 m)",
+            "Wheelbase": "10.2 in (25 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "43163.4 lbs (19,579 kg)",
+            "Centrifugal Force - Low": "55078.2 lbs (24,983 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "169.7 lbs/in",
+            "Vibration Frequency 1": "31 hz (1,860 vpm)",
+            "Vibration Frequency 2": "40 hz (2,400 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Engine Model": "BF4L913",
+            "Gross Power": "114 hp (85 kw)",
+            "Net Power": "104.6 hp (78 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "51.6 gal (193 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "25593.5 lbs (11,609 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1/18-268PR"
+        }
+    }
+}

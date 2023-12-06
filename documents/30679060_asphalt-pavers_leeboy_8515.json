@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/leeboy/8515/30679060",
+    "source_url_id": "30679060",
+    "source_url_model": "8515",
+    "source_url_make": "leeboy",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:21.749954",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Leeboy",
+    "equipment_model": "8515",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/o Screed": "12.5 ft (4 m)",
+            "Transport Height": "6.5 ft (2 m)",
+            "Transport Width": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Hopper/Paver": {
+            "Paving Speed - max": "160.8 ft/min",
+            "Paving Width - max": "15 ft (5 m)",
+            "Travel Speed - max": "3.1 mph (5 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "20.1 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "39.9 gal (148 l)",
+            "Operating Weight w/o Screed": "15900 lbs (7,212 kg)"
+        }
+    }
+}

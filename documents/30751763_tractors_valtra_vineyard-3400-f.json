@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/valtra/vineyard-3400-f/30751763",
+    "source_url_id": "30751763",
+    "source_url_model": "vineyard-3400-f",
+    "source_url_make": "valtra",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:18.985150",
+    "equipment_category": "Tractors",
+    "equipment_make": "Valtra",
+    "equipment_model": "Vineyard 3400 F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "12.8 in (30 cm)",
+            "Tire Size": "6.50-16",
+            "Wheelbase": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Gross Power": "69 hp (51 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "5489.6 lbs (2,490 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24"
+        }
+    }
+}

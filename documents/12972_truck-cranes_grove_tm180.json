@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tm180/12972",
+    "source_url_id": "12972",
+    "source_url_model": "tm180",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:32.870373",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TM180",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "75  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "70 ft (21 m)",
+            "Max Lift Capacity": "36000 lbs (16,330 kg)",
+            "Max Working Radius": "65 ft (20 m)",
+            "Min Height @ Max Raise Angle": "28 ft (9 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.6 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "501 cu in (0 m)",
+            "Make": "Grove",
+            "Max Torque": "451 lbs/ft",
+            "Model": "RD 501",
+            "Net Power": "214.8 hp (160 kw)",
+            "Power Measured @": "3000 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "24.7 ft (7 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Transport Height": "11 ft (3 m)",
+            "Transport Length": "39.5 ft (12 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "9 ft (3 m)",
+            "Width w/ Outriggers Extended": "16.4 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "37  A",
+            "Carrier Fuel Capacity": "40 gal (151 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "47500 lbs (21,546 kg)",
+            "Tire Size": "front 15x22.5 rear 10.00x20",
+            "Upper Structure Fuel Capacity": "40 gal (151 l)",
+            "Upper Structure Hydraulic System Fluid Capacity": "120 gal (454 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49.5 mph (79 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Fuller 5CW65"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "300 cu in (0 m)",
+            "Make": "Grove",
+            "Max Torque": "253 lbs/ft",
+            "Model": "300",
+            "Net Power": "123 hp (92 kw)",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "1800 rpm"
+        }
+    }
+}

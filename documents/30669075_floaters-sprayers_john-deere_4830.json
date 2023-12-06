@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/john-deere/4830/30669075",
+    "source_url_id": "30669075",
+    "source_url_model": "4830",
+    "source_url_make": "john-deere",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:38.940664",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "John Deere",
+    "equipment_model": "4830",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "86.7 in (218 cm)",
+            "Max Boom Width": "100.1 ft (30 m)",
+            "Min Adjustable Height": "27.1 in (69 cm)",
+            "Min Boom Width": "80.1 ft (24 m)",
+            "Number of Sections": "7",
+            "Plumbing Material": "stainless steel"
+        },
+        "Dimensions": {
+            "Tire Size": "380/90R46",
+            "Wheelbase": "13.9 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "414 cu in (0 m)",
+            "Gross Power": "275 hp (205 kw)",
+            "Number of Cylinders": "6"
+        },
+        "Operating Specifications": {
+            "Foam Marker Tank Capacity": "50 gal (189 l)",
+            "Fuel Capacity": "132.9 gal (500 l)",
+            "Hydraulic Fluid Capacity": "17 gal (64 l)",
+            "Rinse Tank Capacity": "120 gal (454 l)",
+            "Solution Tank Capacity": "999.9 gal (3,781 l)"
+        },
+        "Transmission": {
+            "Max Speed": "29.6 mph (47 kph)",
+            "Number of Forward Gears": "4",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

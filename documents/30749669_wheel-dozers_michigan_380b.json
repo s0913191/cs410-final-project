@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-dozers/michigan/380b/30749669",
+    "source_url_id": "30749669",
+    "source_url_model": "380b",
+    "source_url_make": "michigan",
+    "source_url_category": "wheel-dozers",
+    "source_date_scraped": "2023-09-13 16:41:25.402731",
+    "equipment_category": "Wheel Dozers",
+    "equipment_make": "Michigan",
+    "equipment_model": "380B",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Capacity": "13.4 cu yds (10 m)",
+            "Blade Width": "15.8 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Height - Top of Cab": "15 ft (5 m)",
+            "Length with Blade on Ground": "33.3 ft (10 m)",
+            "Wheelbase": "15.4 ft (5 m)",
+            "Width Over Tires": "12.7 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "1710 cu in (0 m)",
+            "Engine Model": "VTA-28-C",
+            "Gross Power": "635 hp (474 kw)",
+            "Net Torque": "2065.2 lbs/ft",
+            "Number of Cylinders": "12",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Axle Oscillation": "14.5  \t\u00b0",
+            "Cooling System Fluid Capacity": "55 gal (208 l)",
+            "Engine Oil Capacity": "27 gal (102 l)",
+            "Front Diff Fluid Capacity": "24.5 gal (91 l)",
+            "Fuel Capacity": "200.1 gal (757 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "113670.4 lbs (51,560 kg)",
+            "Rear Diff Fluid Capacity": "24.5 gal (91 l)",
+            "Tire Size": "37,25-35 (30PR) E-3",
+            "Transmission Fluid Capacity": "33 gal (125 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "17.8 mph (27 kph)",
+            "Max Speed - Reverse": "17.8 mph (27 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Clark countershaft powershift"
+        }
+    }
+}

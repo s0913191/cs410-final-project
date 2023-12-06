@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/e70xn/30756627",
+    "source_url_id": "30756627",
+    "source_url_model": "e70xn",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:28:13.747615",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "E70XN",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Mechanical",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Front Tread Range": "36.6 in (91 cm)",
+            "Gradeability": "29%",
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Height to Top of Overhead Guard": "7.4 ft (2 m)",
+            "Length to Fork Face": "7.8 ft (2 m)",
+            "Overall Height - mast lowered": "6.9 ft (2 m)",
+            "Overall Width": "3.8 ft (1 m)",
+            "Rear Tread Range": "37.1 in (94 cm)",
+            "Right Angle Stack": "12.2 ft (4 m)",
+            "Turning Radius": "6.9 ft (2 m)",
+            "Wheelbase": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Hyster",
+            "Engine Model": "E70XN",
+            "Power": "24.7 hp (18 kw)"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "MAST": {
+            "Lift Speed": "93 ft/min",
+            "Load Capacity": "6999.7 lbs (3,175 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "91 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "5  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Auxiliary hydraulic flow": "10.6 gal/min (38 l/min)",
+            "Axle load - front": "4867.9 lbs (2,208 kg)",
+            "Axle load - rear": "7021.8 lbs (3,185 kg)",
+            "Drawbar Pull": "3329 lbs (1,510 kg)",
+            "Front Tire Size": "21 x 9 x 15",
+            "Max Speed": "10.6 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "7500.2 lbs (3,402 kg)",
+            "Rear Tire Size": "16 x 7 x 10.5",
+            "Tire Type": "Cushion"
+        }
+    }
+}

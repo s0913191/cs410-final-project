@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hitachi/zw180/40009",
+    "source_url_id": "40009",
+    "source_url_model": "zw180",
+    "source_url_make": "hitachi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:54.569360",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZW180",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "26752.3 lbs (12,135 kg)",
+            "Bucket Capacity - heaped": "3.7 cu yds (2 m)",
+            "Bucket Capacity - struck": "3.2 cu yds (2 m)",
+            "Bucket Width": "8.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Hinge Pin - Max Height": "12.9 ft (4 m)",
+            "Length with Bucket on Ground": "25 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "10.1 ft (3 m)",
+            "Width Over Tires": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger & charge air cooled",
+            "Displacement": "408.3 cu in (0 m)",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "171 hp (128 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "2.9 sec",
+            "Pump Type": "variable displacement axial plunger",
+            "Raise Time": "5.7 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "6.9 gal (23 l)",
+            "Engine Oil Fluid Capacity": "6.7 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "7.4 gal (27 l)",
+            "Fuel Capacity": "60.8 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "26.5 gal (98 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "31482.1 lbs (14,280 kg)",
+            "Rear Axle/Diff Fluid Capacity": "7.4 gal (27 l)",
+            "Static Tipping Weight": "25309.1 lbs (11,480 kg)",
+            "Tire Size": "20.5-25-12PR (L3)",
+            "Transmission Fluid Capacity": "8 gal (30 l)",
+            "Turning Radius": "17.2 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.7 mph (37 kph)",
+            "Max Speed - Reverse": "23.7 mph (37 kph)",
+            "Transmission Type": "Torque converter, countershaft type powershit with computer controlled automatic shift and manual shift features included"
+        }
+    }
+}

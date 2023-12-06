@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/tb100j/39486",
+    "source_url_id": "39486",
+    "source_url_model": "tb100j",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:49.862884",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "TB100J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Boom Type/Size": "ST,J ft (0 m)",
+            "Platform Size": "8x2.5 ft (2 m)",
+            "Stowed Height": "10.3 ft (3 m)",
+            "Stowed Width": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "gas/diesel"
+        },
+        "Performance": {
+            "Fuel Capacity": "50.1 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "89.9 gal (337 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "33001 lbs (14,969 kg)",
+            "Tire Fill/Type": "Foam",
+            "Tire Size": "15x22.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "66 ft (20 m)",
+            "Max Platform Height": "99.8 ft (30 m)",
+            "Max Platform Weight Capacity": "599.7 lbs (272 kg)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        },
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Tires": {
+            "Tire Size": "15x22.5"
+        },
+        "Transmission": {
+            "4WD": "Std"
+        }
+    }
+}

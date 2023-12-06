@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/tigercat/h09/30755962",
+    "source_url_id": "30755962",
+    "source_url_model": "h09",
+    "source_url_make": "tigercat",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:19.820535",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "Tigercat",
+    "equipment_model": "H09",
+    "equipment_spec": {
+        "Boom": {
+            "Max Reach w/ Head": "24.7 ft (7 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Overall Width": "6.3 ft (2 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Tire Size - front": "400",
+            "Tire Size - rear": "55 x 22.5"
+        },
+        "Engine": {
+            "Aspiration": "Turbodiesel",
+            "Engine Model": "NEF6",
+            "Gross Power": "180 hp (134 kw)",
+            "Max Torque": "516.3 lbs/ft",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "180  A",
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Hydraulic System Fluid Capacity": "22.5 gal (83 l)",
+            "Max Speed": "8 mph (13 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "24200 lbs (10,977 kg)",
+            "Transmission Type": "2-speed hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "1.9 ft (0 m)"
+        }
+    }
+}

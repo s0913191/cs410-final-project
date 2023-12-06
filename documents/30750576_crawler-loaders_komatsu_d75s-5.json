@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/komatsu/d75s-5/30750576",
+    "source_url_id": "30750576",
+    "source_url_model": "d75s-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:52.193588",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D75S-5",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "10.5 ft (3 m)",
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Length with Bucket on Ground": "20.4 ft (6 m)",
+            "Reach at Dump Height": "4.3 ft (1 m)",
+            "Width to Outside of Tracks": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "673.8 cu in (0 m)",
+            "Engine Model": "S6D125E",
+            "Net Power": "199.9 hp (148 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Breakout Force  Bucket": "39440 lbs (17,890 kg)",
+            "Bucket Capacity - struck": "2.9 cu yds (2 m)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Max Speed": "6 mph (10 kph)",
+            "Operating Weight": "46782.1 lbs (21,220 kg)",
+            "Static Tipping Load": "31217.5 lbs (14,160 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "12 psi",
+            "Length of Track on Ground": "9 ft (3 m)",
+            "Number of Track Rollers per Side": "7",
+            "Track Gauge": "76.8 in (193 cm)",
+            "Track Shoe Width": "18.2 in (46 cm)"
+        }
+    }
+}

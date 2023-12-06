@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/allmand/tlb-535/865627",
+    "source_url_id": "865627",
+    "source_url_model": "tlb-535",
+    "source_url_make": "allmand",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:33:53.675269",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Allmand",
+    "equipment_model": "TLB 535",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "9.11 ft (3 m)",
+            "Load Height": "7.8 ft (2 m)",
+            "Loading Height": "7.7 ft (2 m)",
+            "Max Digging Depth": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "33.3 hp (25 kw)"
+        },
+        "Loader": {
+            "Breakout Force": "3400 lbs (1,542 kg)",
+            "Bucket Breakout Force": "3400 lbs (1,542 kg)",
+            "Lift Capacity": "2100 lbs (953 kg)",
+            "SAE - Net": "33.3 hp (25 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "4690 lbs (2,127 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "hydrostatic mph (0 kph)"
+        },
+        "Travel Speed": {
+            "4th Gear Fwd": "hydrostatic mph (0 kph)"
+        }
+    }
+}

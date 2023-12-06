@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/case-ih/patriot-3150/28513609",
+    "source_url_id": "28513609",
+    "source_url_model": "patriot-3150",
+    "source_url_make": "case-ih",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:00.463110",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Case Ih",
+    "equipment_model": "PATRIOT 3150",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "60 in (152 cm)",
+            "Max Boom Width": "90 ft (27 m)",
+            "Min Adjustable Height": "20 in (51 cm)",
+            "Min Boom Width": "75 ft (23 m)",
+            "Nozzle Spacing": "20 in (51 cm)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "4 ft (1 m)",
+            "Overall Length": "90 in (229 cm)",
+            "Tire Size": "320/85 R38",
+            "Transport Height": "10.8 ft (3 m)",
+            "Transport Width": "11.5 ft (3 m)",
+            "Wheelbase": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo charged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Gross Power": "152 hp (113 kw)",
+            "Gross Torque": "414 lbs/ft",
+            "Number of Cylinders": "6"
+        },
+        "Operating Specifications": {
+            "Dry Weight - max": "15700 lbs (7,122 kg)",
+            "Foam Marker Tank Capacity": "35 gal (132 l)",
+            "Rinse Tank Capacity": "35 gal (132 l)",
+            "Solution Tank Capacity": "750 gal (2,839 l)"
+        },
+        "Transmission": {
+            "Max Speed": "25 mph (40 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

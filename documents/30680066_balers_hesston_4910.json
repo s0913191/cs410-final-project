@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/hesston/4910/30680066",
+    "source_url_id": "30680066",
+    "source_url_model": "4910",
+    "source_url_make": "hesston",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:05.411324",
+    "equipment_category": "Balers",
+    "equipment_make": "Hesston",
+    "equipment_model": "4910",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "4.2 ft (1 m)",
+            "Bale Length - max": "9 ft (3 m)",
+            "Bale Width": "3.9 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "Hydraulic Cylinder",
+            "Number of Bars": "5",
+            "Number of Tines": "120",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tine to Tine Width": "6.5 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "12.1 ft (4 m)",
+            "Overall Length": "23.8 ft (7 m)",
+            "Overall Width": "10.5 ft (3 m)",
+            "Tractor PTO Power Required": "120 hp (89 kw)",
+            "Weight": "18607.1 lbs (8,440 kg)"
+        },
+        "Feeding Chamber": {
+            "Packer Type": "Fork Type w/ 6 Hard Surfaced Tines",
+            "Stuffer Type": "Fork Type w/ 6 Tines"
+        },
+        "Plunger": {
+            "Bearing Type": "Taper Roller Bearings Sealed, Ball Bearing Rollers Sealed",
+            "SPM": "25.4",
+            "Stroke Length": "30.7 in (76 cm)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "24",
+            "Twine Type": "6 Double Knot Type"
+        }
+    }
+}

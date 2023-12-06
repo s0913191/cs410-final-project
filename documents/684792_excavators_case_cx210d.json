@@ -1,0 +1,86 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx210d/684792",
+    "source_url_id": "684792",
+    "source_url_model": "cx210d",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:34.323867",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX210D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "21.9 ft (6 m)",
+            "Max Digging Reach on Ground": "32 ft (10 m)",
+            "Max Reach Along Ground": "31.11 ft (9 m)",
+            "Max.Dumping Height": "22.4 ft (7 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Overall height": "9.9 ft (3 m)"
+        },
+        "Brakes": {
+            "Brakes Type": "Mechanical disc",
+            "Service brake": "SAHR disc - each motor",
+            "Travel control": "Dual stage relief or  counter balance design"
+        },
+        "Capacities": {
+            "Cooling system": "8.3 gal (30 l)",
+            "Engine oil w/ filter change": "6.2 gal (23 l)",
+            "Final Drive": "1.4 gal (4 l)",
+            "Hydraulic system": "66.1 gal (250 l)",
+            "Hydraulic Tank": "38.9 gal (144 l)",
+            "Swing drive": "1.4 gal (4 l)"
+        },
+        "Dimensions": {
+            "Boom length": "18.8 ft (5 m)",
+            "Cab height": "118.2 in (300 cm)",
+            "Center to center - idler to sprocket": "12.1 ft (4 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Ground pressure": "4.9 psi",
+            "Minimum ground clearance": "109.1 in (277 cm)",
+            "Overall height": "9.9 ft (3 m)",
+            "Tail Swing Radius": "9.2 ft (3 m)",
+            "Track shoe width": "2.7 ft (1 m)"
+        },
+        "Engine": {
+            "Air filter type": "Dry type element  with warning restriction indicator",
+            "Bore": "4.6 in (10 cm)",
+            "Displacement": "317.4 cu in (0 m)",
+            "Emission Tier Level": "Tier 4",
+            "Engine Make": "Isuzu",
+            "Engine Model": "Isuzu 4 HKIX",
+            "Fuel Filter": "Replaceable,  full flow spin-on cartridge",
+            "Fuel injection": "Direct injection - electronic",
+            "Fuel Type": "Requires ultra-low sulfur fuel  B5 biodiesel tolerant",
+            "Max Torque": "458.1 lbs/ft",
+            "Net Power": "160 hp (119 kw)",
+            "Oil Filter": "Replaceable,  full flow spin-on cartridge",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Main pump - Maximum flow": "111.5 gal (420 l)",
+            "System relief pressure": "4975 psi"
+        },
+        "Operating Specifications": {
+            "Arm Breakout Force": "25178.6 lbs (11,421 kg)",
+            "Arm size": "32.2 ft in ft (10 m)",
+            "Operating Weight": "48973.5 lbs (22,214 kg)"
+        },
+        "Performance": {
+            "Lift over end 10' radius": "18364.6 lbs (8,330 kg)",
+            "Lift over end Max. reach": "5732.1 lbs (2,600 kg)",
+            "Lift over side 10'  radius": "18364.6 lbs (8,330 kg)",
+            "Lift over side Max. reach": "4894.3 lbs (2,220 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.5 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "3.5 mph (5 kph)"
+        },
+        "Undercarriage": {
+            "Track Shoe Width": "31.5 in (79 cm)"
+        }
+    }
+}

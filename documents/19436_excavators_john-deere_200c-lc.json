@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/200c-lc/19436",
+    "source_url_id": "19436",
+    "source_url_model": "200c-lc",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:06:07.460536",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "200C LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "22 ft (7 m)",
+            "Max Loading Height": "22.3 ft (7 m)",
+            "Max Reach Along Ground": "32 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "19.9 ft (6 m)",
+            "Shipping Height of Unit": "9.8 ft (3 m)",
+            "Shipping Length of Unit": "31.2 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2.1 cu yds (2 m)",
+            "Minimum Bucket Capacity": "0.8 cu yds (0 m)",
+            "Reference Bucket Capacity": "1.2 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "19 ft (6 m)",
+            "Digging Reach": "19 ft (6 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Length of Track on Ground": "12.1 ft (4 m)",
+            "Tail Swing Radius": "9 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6068H",
+            "Max Torque": "427.1 lbs/ft",
+            "Net Power": "141 hp (105 kw)",
+            "Power Measured @": "2150 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "95.2 gal (360 l)",
+            "Hydraulic Pump Flow Capacity": "115.8 gal/min (435 l/min)",
+            "Hydraulic System Fluid Capacity": "34 gal (129 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Weight": "46130 lbs (20,924 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "13.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "42420 lbs (19,242 kg)",
+            "Ground Pressure": "4.8 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "31.9 in (79 cm)",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

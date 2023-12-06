@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liugong/908c/30759873",
+    "source_url_id": "30759873",
+    "source_url_model": "908c",
+    "source_url_make": "liugong",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:16:01.006757",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liugong",
+    "equipment_model": "908C",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "13.67 ft (4 m)",
+            "Max Reach Along Ground": "20.42 ft (6 m)"
+        },
+        "Engine": {
+            "Net Power": "76 hp (57 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16976 lbs (7,700 kg)"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/john-deere/648g-iii/6896631",
+    "source_url_id": "6896631",
+    "source_url_model": "648g-iii",
+    "source_url_make": "john-deere",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:32.415360",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "John Deere",
+    "equipment_model": "648G III",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Width": "51.6 ft (16 m)",
+            "Cable Width": "254 in (645 cm)",
+            "Drum Capacity at Cable Width": "43449 ft (13,243 m)",
+            "Drum Diameter": "0.7 in (0 cm)",
+            "Grapple Capacity - tongs tip to tip": "8 CUBIC ft",
+            "Ground Clearance": "12.1 ft (4 m)",
+            "Height": "4.6 ft (1 m)",
+            "Height - Top of Cab": "2.1 ft (1 m)",
+            "Height of Grapple from Ground": "9.6 ft (3 m)",
+            "Max Blade Height": "10.5 in (25 cm)",
+            "Max Height of Boom": "5.1 ft (2 m)",
+            "Max Line Pull - bare drum": "142 lbs (64 kg)",
+            "Overall Length": "10.6 ft (3 m)",
+            "Overall Width": "10 ft (3 m)",
+            "Tong Opening at Tips": "521 in (1,323 cm)",
+            "Wheelbase": "4.52 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "31975",
+            "Displacement": "turbocharged cu in (0 m)",
+            "Engine Model": "171",
+            "Net Power": "2200 hp (1,641 kw)",
+            "Peak Torque": "1400 lbs/ft",
+            "Power Measured @": "414 rpm",
+            "Torque Measured @": "83 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "3000 gal/min (11,355 l/min)",
+            "Pump Type": "42",
+            "Relief Valve Pressure": "11.3 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "direct-drive power shift",
+            "Cooling System Fluid Capacity": "5 gal (19 l)",
+            "Engine Oil Capacity": "7.5 gal (27 l)",
+            "Front Diff Fluid Capacity": "7.5 gal (27 l)",
+            "Fuel Capacity": "9 gal (34 l)",
+            "Hydraulic System Fluid Capacity": "90  \t\u00b0",
+            "Operating Voltage": "120  A",
+            "Operating Weight": "12 V lbs (5 kg)",
+            "Rear Diff Fluid Capacity": "7.8 gal (27 l)",
+            "Steering Angle": "30.5 - 32 V  -",
+            "Tire Size": "7.2",
+            "Transmission Fluid Capacity": "14.3 gal (53 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "10.2 mph (16 kph)",
+            "Number of Forward Gears": "7",
+            "Number of Reverse Gears": "13.6",
+            "Transmission Type": "8"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "variable-displacement axial piston cu in (0 m)",
+            "Length of Track on Ground": "6068H ft (1,850 m)"
+        },
+        "Winch - Grapple Skidder": {
+            "Drum Capacity - 25.4mm (1 in)": "30  \t\u00b0"
+        }
+    }
+}

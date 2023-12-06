@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d8r-ii/30750687",
+    "source_url_id": "30750687",
+    "source_url_model": "d8r-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:32.707440",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D8R II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height - Top of Cab": "11.6 ft (3 m)",
+            "Length of Track on Ground": "10.6 ft (3 m)",
+            "Length w/ Blade": "21.6 ft (6 m)",
+            "Length w/o Blade": "16.2 ft (5 m)",
+            "Width Over Tracks": "8.9 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "891 cu in (0 m)",
+            "Engine Model": "3406E TA",
+            "Gross Power": "310 hp (231 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "165.2 gal (625 l)",
+            "Operating Weight": "82960 lbs (37,630 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "11.4 cu yds (8 m)",
+            "Height": "66.6 in (168 cm)",
+            "Width": "13 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.6 mph (10 kph)",
+            "Max Speed - Reverse": "8.6 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5544 cu in (0 m)",
+            "Ground Pressure": "14.7 psi",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "6.9 ft (2 m)"
+        }
+    }
+}

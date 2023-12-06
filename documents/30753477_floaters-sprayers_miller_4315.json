@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/miller/4315/30753477",
+    "source_url_id": "30753477",
+    "source_url_model": "4315",
+    "source_url_make": "miller",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:47.543129",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Miller",
+    "equipment_model": "4315",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "30.3 in (76 cm)",
+            "Transport Height": "13.2 ft (4 m)",
+            "Transport Width": "12.9 ft (4 m)",
+            "Wheelbase": "14.8 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "OM926 7.2 Liter",
+            "Gross Power": "315 hp (235 kw)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "25500 lbs (11,567 kg)",
+            "Fuel Capacity": "150 gal (568 l)",
+            "Rinse Tank Capacity": "150 gal (568 l)",
+            "Solution Tank Capacity": "1400 gal (5,299 l)"
+        },
+        "Transmission": {
+            "Transmission Type": "Torq-Trac hydrostatic"
+        }
+    }
+}

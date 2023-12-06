@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hdplus-120i-vv-hf/30833688",
+    "source_url_id": "30833688",
+    "source_url_model": "hdplus-120i-vv-hf",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:08.974741",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD+ 120i VV HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "235 in (597 cm)"
+        },
+        "Drum": {
+            "Drum Width": "78 in (198 cm)",
+            "Vibration Frequency": "45/67 hz (2,700 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "84 in (213 cm)"
+        }
+    }
+}

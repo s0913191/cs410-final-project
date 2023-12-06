@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/hr18/30865",
+    "source_url_id": "30865",
+    "source_url_model": "hr18",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:01.397423",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "HR18",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "17.1 ft (5 m)",
+            "Max Digging Depth": "12.2 ft (4 m)",
+            "Max Loading Height": "11.9 ft (3 m)",
+            "Max Reach Along Ground": "19.7 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "6.3 ft (2 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "17.4 ft (5 m)",
+            "Max Digging Depth": "12.8 ft (4 m)",
+            "Max Loading Height": "12.2 ft (4 m)",
+            "Max Reach Along Ground": "20.4 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "6.9 ft (2 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.4 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Tail Swing Radius": "5 ft (2 m)",
+            "Width to Outside of Tracks": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "152.6 cu in (0 m)",
+            "Engine Model": "S4 Q2-61 KL",
+            "Net Power": "47 hp (35 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Hydraulic Pump Flow Capacity": "41.9 gal/min (155 l/min)",
+            "Hydraulic System Fluid Capacity": "27 gal (102 l)",
+            "Hydraulic System Relief Valve Pressure": "3552 psi",
+            "Operating Voltage": "12 V",
+            "Operating Weight": "10912.9 lbs (4,950 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "9450 lbs (4,287 kg)",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Shoe Size": "15.8 in (38 cm)"
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc800lc-8/21359",
+    "source_url_id": "21359",
+    "source_url_model": "pc800lc-8",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:33.865358",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC800LC-8",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "38.9 ft (12 m)",
+            "Max Digging Depth": "28.3 ft (9 m)",
+            "Max Loading Height": "26.8 ft (8 m)",
+            "Max Reach Along Ground": "44.2 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "18.3 ft (5 m)",
+            "Shipping Height of Unit": "15.4 ft (5 m)",
+            "Shipping Length of Unit": "47.3 ft (14 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "39.4 ft (12 m)",
+            "Max Digging Depth": "31.5 ft (9 m)",
+            "Max Loading Height": "27.3 ft (8 m)",
+            "Max Reach Along Ground": "47 ft (14 m)",
+            "Max Vertical Wall Digging Depth": "21.6 ft (6 m)",
+            "Shipping Height of Unit": "18.5 ft (5 m)",
+            "Shipping Length of Unit": "47.4 ft (14 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "41.7 ft (13 m)",
+            "Max Digging Depth": "34.8 ft (10 m)",
+            "Max Loading Height": "29.2 ft (9 m)",
+            "Max Reach Along Ground": "50.5 ft (15 m)",
+            "Max Vertical Wall Digging Depth": "26 ft (8 m)",
+            "Shipping Height of Unit": "20.6 ft (6 m)",
+            "Shipping Length of Unit": "46.4 ft (14 m)"
+        },
+        "Boom/Stick Mat. Handler Option 1": {
+            "Boom/Stick Option (MAT) 1": "2-piece front 16.8m 55'",
+            "Max Depth": "18.5 ft (5 m)",
+            "Max Height": "60.4 ft (18 m)",
+            "Max Reach Along Ground": "55.2 ft (17 m)"
+        },
+        "Boom/Stick Mat. Handler Option 2": {
+            "Boom/Stick Option (MAT) 2": "2-piece front 20.7m 68'",
+            "Max Depth": "25 ft (8 m)",
+            "Max Height": "72.9 ft (22 m)",
+            "Max Reach Along Ground": "68 ft (21 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "4.1 cu yds (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.8 ft (1 m)",
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Length of Track on Ground": "16.5 ft (5 m)",
+            "Removal Counterweight Clearance": "5.1 ft (2 m)",
+            "Tail Swing Radius": "14.5 ft (4 m)",
+            "Width to Outside of Tracks": "13.1 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, aftercooled",
+            "Displacement": "930 cu in (0 m)",
+            "Engine Model": "SAA6D140E-5",
+            "Gross Power": "496 hp (370 kw)",
+            "Net Power": "487 hp (363 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "261.1 gal/min (988 l/min)",
+            "Pump Type": "Variable-capacity piston pumps",
+            "Relief Pressure": "4980 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "26.5 gal (98 l)",
+            "Engine Oil Capacity": "15.4 gal (57 l)",
+            "Fuel Capacity": "258.9 gal (977 l)",
+            "Hydraulic Pump Flow Capacity": "261 gal/min (988 l/min)",
+            "Hydraulic System Fluid Capacity": "116.3 gal (439 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Max Drawbar Pull": "125660 lbs (56,999 kg)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "179900 lbs (81,602 kg)",
+            "Operating Weight w/o Attachment": "196958.8 lbs (89,340 kg)",
+            "Swing Drive Fluid Capacity": "13 gal (49 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "6.8 rpm",
+            "Swing Torque": "209461 lbs/ft"
+        },
+        "Track Undercarriage": {
+            "Length of Track on Ground": "16.5 ft (5 m)",
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "31.9 in (79 cm)",
+            "Track Gauge": "11.5 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "2.7 mph (3 kph)",
+            "Number of Forward Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "125668.2 lbs (57,003 kg)",
+            "Max Travel Speed": "2.6 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "39.8 in (99 cm)",
+            "Track Gauge": "11.5 ft (3 m)"
+        }
+    }
+}

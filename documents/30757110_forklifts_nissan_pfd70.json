@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/nissan/pfd70/30757110",
+    "source_url_id": "30757110",
+    "source_url_model": "pfd70",
+    "source_url_make": "nissan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:37:49.040640",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Nissan",
+    "equipment_model": "PFD70",
+    "equipment_spec": {
+        "Dimensions": {
+            "Counterweight Clearance": "3.7 ft (1 m)",
+            "Fork Length": "42.2 in (107 cm)",
+            "Fork Thickness": "2 in (5 cm)",
+            "Fork width": "5 in (13 cm)",
+            "Gradeability": "21%",
+            "Ground Clearance": "6 in (15 cm)",
+            "Height to Top of Overhead Guard": "7.1 ft (2 m)",
+            "Length to Fork Face": "9.1 ft (3 m)",
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "7.6 ft (2 m)",
+            "Overall Width": "3.4 ft (1 m)",
+            "Right Angle Stack": "9.5 ft (3 m)",
+            "Turning Radius": "7.9 ft (2 m)",
+            "Wheelbase": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "192.4 cu in (0 m)",
+            "Engine Model": "MUG1F2A35JV/LV/DV",
+            "Power": "55 hp (41 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque": "143.8 lbs/ft",
+            "Torque Measured @": "1800 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "86.6 ft/min",
+            "Load Capacity": "7000 lbs (3,175 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "11.8 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "10375 lbs (4,706 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

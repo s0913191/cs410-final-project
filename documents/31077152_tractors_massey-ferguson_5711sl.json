@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/5711sl/31077152",
+    "source_url_id": "31077152",
+    "source_url_model": "5711sl",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:04.283026",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "5711SL",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "105 hp (78 kw)"
+        },
+        "Production": {
+            "Series": "5700SL Series",
+            "Years Manufactured": "2016 -"
+        }
+    }
+}

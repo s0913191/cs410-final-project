@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/caterpillar/517/7466",
+    "source_url_id": "7466",
+    "source_url_model": "517",
+    "source_url_make": "caterpillar",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:25.706967",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "517",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Capacity at Cable Width": "68780 ft (20,964 m)",
+            "Grapple Capacity - tongs tip to tip": "10 CUBIC ft",
+            "Height - Top of Cab": "2.1 ft (1 m)",
+            "Height of Grapple from Ground": "7 ft ft (2 m)",
+            "Max Blade Height": "8 in (20 cm)",
+            "Max Height of Boom": "4.1 ft (1 m)",
+            "Max Line Pull - bare drum": "132.9 lbs (60 kg)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Reach of Grapple at Ground Level": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "40454.9",
+            "Engine Model": "1201",
+            "Power Measured @": "427.2 rpm",
+            "Torque Measured @": "68.7 rpm"
+        },
+        "Operating Specifications": {
+            "Tire Size": "9"
+        },
+        "Transmission": {
+            "Max Speed - Reverse": "26 mph (42 kph)"
+        },
+        "Undercarriage": {
+            "Length of Track on Ground": "3304 DIT ft (1,007 m)",
+            "Number of Track Rollers per Side": "5456.1",
+            "Width of Shoes": "8 in (20 cm)"
+        }
+    }
+}

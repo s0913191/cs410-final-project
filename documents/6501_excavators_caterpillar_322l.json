@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/322l/6501",
+    "source_url_id": "6501",
+    "source_url_model": "322l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:16.761485",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "322L",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "30.8 ft (9 m)",
+            "Max Digging Depth": "19.3 ft (6 m)",
+            "Max Loading Height": "20.5 ft (6 m)",
+            "Max Reach Along Ground": "29.9 ft (9 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "33.2 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "31.2 ft (9 m)",
+            "Max Digging Depth": "20.6 ft (6 m)",
+            "Max Loading Height": "21.5 ft (6 m)",
+            "Max Reach Along Ground": "31.5 ft (9 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "32.9 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "31.8 ft (9 m)",
+            "Max Digging Depth": "22.1 ft (7 m)",
+            "Max Loading Height": "22.1 ft (7 m)",
+            "Max Reach Along Ground": "32.9 ft (10 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "32.7 ft (10 m)"
+        },
+        "Dimensions": {
+            "Length of Track on Ground": "12.6 ft (4 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "6600 cu in (0 m)",
+            "Engine Make": "Caterpillar",
+            "Engine Model": "3116T",
+            "Net Power": "152.9 hp (113 kw)",
+            "Power Measured @": "1950 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "97.8 gal (367 l)",
+            "Hydraulic Pump Flow Capacity": "108.4 gal/min (409 l/min)",
+            "Hydraulic System Fluid Capacity": "71.4 gal (269 l)",
+            "Operating Weight": "54851.1 lbs (24,880 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "6.9 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "23.7 in (58 cm)"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/liebherr/lr622b/23505",
+    "source_url_id": "23505",
+    "source_url_model": "lr622b",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:52:04.490723",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LR622B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "9.6 ft (3 m)",
+            "Ground Clearance": "15.6 ft (5 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length to Front of Track": "14.3 ft (4 m)",
+            "Length with Bucket on Ground": "20.1 ft (6 m)",
+            "Reach at Dump Height": "3.4 ft (1 m)",
+            "Width to Outside of Tracks": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo-charged",
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Model": "D 924 T-E",
+            "Net Power": "132 hp (98 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "41.3 gal/min (155 l/min)",
+            "Pump Type": "swash plate piston pump",
+            "Relief Valve Pressure": "3770 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Breakout Force  Bucket": "30574.1 lbs (13,868 kg)",
+            "Bucket Capacity - struck": "2.3 cu yds (2 m)",
+            "Cooling System Fluid Capacity": "11.1 gal (42 l)",
+            "Engine Oil Capacity": "4.8 gal (15 l)",
+            "Final Drive Fluid Capacity - each": "3.5 gal (11 l)",
+            "Fuel Capacity": "68.7 gal (257 l)",
+            "Hydraulic System Fluid Capacity": "34.4 gal (129 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "35100 lbs (15,921 kg)",
+            "Static Tipping Load": "23369.1 lbs (10,600 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8.7 psi",
+            "Number of Track Rollers per Side": "6",
+            "Track Gauge": "66.2 in (168 cm)",
+            "Track Shoe Width": "20 in (51 cm)"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/nissan/pl50/48593",
+    "source_url_id": "48593",
+    "source_url_model": "pl50",
+    "source_url_make": "nissan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:37:53.102985",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Nissan",
+    "equipment_model": "PL50",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6.1 in (15 cm)",
+            "Length to Fork Face": "8.3 ft (2 m)",
+            "Overall Height - mast lowered": "7 ft (2 m)",
+            "Overall Width": "3.8 ft (1 m)",
+            "Turning Radius": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Power": "55 hp (41 kw)",
+            "Power Measured @": "2700 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "118.1 ft/min",
+            "Load Capacity": "5000 lbs (2,268 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.1 mph (19 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

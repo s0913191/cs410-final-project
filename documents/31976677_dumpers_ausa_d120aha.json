@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dumpers/ausa/d120aha/31976677",
+    "source_url_id": "31976677",
+    "source_url_model": "d120aha",
+    "source_url_make": "ausa",
+    "source_url_category": "dumpers",
+    "source_date_scraped": "2023-09-13 14:52:26.449161",
+    "equipment_category": "Dumpers",
+    "equipment_make": "Ausa",
+    "equipment_model": "D120AHA",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking": "Mechanical, sealed, multi-disc",
+            "Service": "Mechanical, sealed, multi-disc"
+        },
+        "Driving": {
+            "Driving": "",
+            "External Turning Radius": "123 in",
+            "Max. Speed": "10.6 mph",
+            "Maximum Gradient": "48%",
+            "Traction": "4x4",
+            "Tyres": "10.0/75-15.3"
+        },
+        "Engine": {
+            "Brand": "Kubota",
+            "Emissions": "Stage V - EPA Tier 4",
+            "Model": "D1105-E4B",
+            "No. of Cylinders": "3",
+            "Noise Level (LwA)": "101 dB(A)",
+            "Power": "21 hp",
+            "Torque": "71.4 @ 1600"
+        },
+        "General Information": {
+            "Chassis": "Articulated",
+            "Empty Weight": "3030 lb",
+            "Heaped Skip Capacity": "0.91 cu yd",
+            "Level Skip Capacity": "0.67 cu yd",
+            "Load Capacity": "2600 lb",
+            "Reversibility": "Non-reversible",
+            "Transmission": "Hydrostatic",
+            "Unloading System": "High",
+            "Water Skip Capacity": "0.55 cu yd"
+        },
+        "Hydraulic System": {
+            "Flow Rate": "4.6 gal/min",
+            "Hydraulic Circuit": "0.5 cu in gear pumps",
+            "Working Pressure": "2610 psi"
+        },
+        "Tank Capacity": {
+            "Fuel": "6.1 gal",
+            "Hydraulic System": "5.6 gal"
+        }
+    }
+}

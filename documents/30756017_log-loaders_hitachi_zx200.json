@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/hitachi/zx200/30756017",
+    "source_url_id": "30756017",
+    "source_url_model": "zx200",
+    "source_url_make": "hitachi",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:00.744590",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Overall length": "45.1 ft (14 m)",
+            "Overall Width": "12 ft (4 m)",
+            "Track shoe width": "2.4 ft (1 m)",
+            "Width Over Tracks": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "396.3 cu in (0 m)",
+            "Emissions Certification": "Tier 2",
+            "Engine Model": "AA-6BG1T"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "115.8 gal/min (435 l/min)",
+            "Pump Type": "Axial Piston",
+            "Relief Valve Pressure": "4980.1 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "269 gal (1,018 l)",
+            "Hydraulic System Fluid Capacity": "34.4 gal (129 l)",
+            "Operating Weight": "69187.7 lbs (31,383 kg)",
+            "Travel speed, high range": "3.5 mph (5 kph)"
+        },
+        "Undercarriage": {
+            "Track Gauge": "9.6 ft (3 m)"
+        }
+    }
+}

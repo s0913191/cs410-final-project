@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-20r-extra-std/30760667",
+    "source_url_id": "30760667",
+    "source_url_model": "td-20r-extra-std",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:21.092422",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-20R Extra STD",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSL9 (Tier 4f)",
+            "Net Power": "248 hp (185 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "52890 lbs (23,991 kg)"
+        }
+    }
+}

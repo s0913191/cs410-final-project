@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/mec/2591es/30712812",
+    "source_url_id": "30712812",
+    "source_url_model": "2591es",
+    "source_url_make": "mec",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:43.845261",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Mec",
+    "equipment_model": "2591ES",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12 in (30 cm)",
+            "Height w/ Rails": "8.4 ft (2 m)",
+            "Height w/o Rails": "6 ft (2 m)",
+            "Overall Length": "12.1 in (30 cm)",
+            "Overall Width": "7.6 ft (2 m)",
+            "Turning Radius": "16.3 ft (5 m)",
+            "Wheelbase": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "375",
+            "Number of Batteries": "8",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "23 gal (87 l)",
+            "Max Speed": "2.7 mph (3 kph)",
+            "Operating Weight": "8598.1 lbs (3,900 kg)",
+            "Tire Size": "12-16.5 NHS \"\"outrigger\"\",\"NULL"
+        },
+        "Platform": {
+            "Deck Extension": "48.1 in (122 cm)",
+            "Height of Rails": "3.8 ft (1 m)",
+            "Lift Time": "24 sec",
+            "Lower Time": "28 sec",
+            "Max Platform Height": "25 ft (8 m)",
+            "Max Platform Weight Capacity": "1999.6 lbs (907 kg)",
+            "Max Working Height": "31.3 ft (9 m)",
+            "Platform Inner Length": "131.9 in (333 cm)"
+        }
+    }
+}

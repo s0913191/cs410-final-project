@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/new-idea/7215/30752314",
+    "source_url_id": "30752314",
+    "source_url_model": "7215",
+    "source_url_make": "new-idea",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:01:10.145760",
+    "equipment_category": "Balers",
+    "equipment_make": "New Idea",
+    "equipment_model": "7215",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "1.5 ft (0 m)",
+            "Bale Length - max": "4.4 ft (1 m)",
+            "Bale Length - min": "1.1 ft (0 m)",
+            "Bale Width": "1.2 ft (0 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "4",
+            "Number of Tines": "56, Double Tines",
+            "Overall Width": "7.5 ft (2 m)",
+            "Tine to Tine Width": "5.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "5.5 ft (2 m)",
+            "Overall Length": "17.1 ft (5 m)",
+            "Overall Width": "8.5 ft (2 m)",
+            "Tractor PTO Power Required": "35 hp (26 kw)",
+            "Weight": "3300.4 lbs (1,497 kg)"
+        },
+        "Feeding Chamber": {
+            "Stuffer Type": "Crank Type w/ 4 Tines"
+        },
+        "Plunger": {
+            "Bearing Type": "Sealed Ball Bearing Rollers",
+            "Density Control": "Spring Loaded Density Control Rails",
+            "SPM": "100",
+            "Stroke Length": "21.7 in (53 cm)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "6",
+            "Twine Type": "Conventional Twine Tie",
+            "Wire Coil Capacity": "4"
+        }
+    }
+}

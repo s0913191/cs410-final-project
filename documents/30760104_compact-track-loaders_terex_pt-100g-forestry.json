@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/terex/pt-100g-forestry/30760104",
+    "source_url_id": "30760104",
+    "source_url_model": "pt-100g-forestry",
+    "source_url_make": "terex",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:24.677956",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "PT-100G Forestry",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "100 hp (75 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "8000 lbs (3,629 kg)",
+            "Operating Width": "74 in (188 cm)"
+        }
+    }
+}

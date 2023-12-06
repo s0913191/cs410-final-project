@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/1900/30169518",
+    "source_url_id": "30169518",
+    "source_url_model": "1900",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:12.609366",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "1900",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "28  hp"
+        },
+        "Production": {
+            "Series": "Hundred Compact Series",
+            "Year Manufactured": "1979 - 1983"
+        }
+    }
+}

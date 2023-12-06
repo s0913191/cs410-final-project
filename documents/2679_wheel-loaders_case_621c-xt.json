@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/621c-xt/2679",
+    "source_url_id": "2679",
+    "source_url_model": "621c-xt",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:26.975468",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "621C XT",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "27808.9 lbs (12,614 kg)",
+            "Bucket Capacity - heaped": "2.4 cu yds (2 m)",
+            "Bucket Capacity - struck": "2 cu yds (2 m)",
+            "Bucket Width": "8.4 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Hinge Pin - Max Height": "12.7 ft (4 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "359.1 cu in (0 m)",
+            "Engine Model": "6T-590",
+            "Gross Power": "139.5 hp (104 kw)",
+            "Net Power": "130.1 hp (97 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque": "424.8 lbs/ft",
+            "Torque Measured @": "1400 rpm",
+            "Torque Rise": "31%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.7 sec",
+            "Lower Time": "4.4 sec",
+            "Pump Flow Capacity": "61.6 gal/min (231 l/min)",
+            "Raise Time": "5.4 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "6.9 gal (23 l)",
+            "Engine Oil Fluid Capacity": "4 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "51 gal (193 l)",
+            "Hydraulic System Fluid Capacity": "40.5 gal (151 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "28810.1 lbs (13,068 kg)",
+            "Rear Axle/Diff Fluid Capacity": "2.6 gal (8 l)",
+            "Tire Size": "20.5 R25",
+            "Transmission Fluid Capacity": "2 gal (8 l)",
+            "Turning Radius": "17.1 ft (5 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Mechanical w/ electronic control"
+        }
+    }
+}

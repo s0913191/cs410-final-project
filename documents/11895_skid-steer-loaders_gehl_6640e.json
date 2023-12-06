@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/gehl/6640e/11895",
+    "source_url_id": "11895",
+    "source_url_model": "6640e",
+    "source_url_make": "gehl",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:57.086004",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Gehl",
+    "equipment_model": "6640E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Ground Clearance": "9.1 in (23 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length w/o Bucket": "8.5 ft (2 m)",
+            "Length with Bucket": "11.8 ft (3 m)",
+            "Reach at Max Lift and Dump": "34 in (86 cm)",
+            "Turning Radius from Center - inc bucket": "45.3 in (114 cm)",
+            "Turning Radius from Center - machine rear": "34.6 in (86 cm)",
+            "Wheelbase": "4 ft (1 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "190 cu in (0 m)",
+            "Engine Model": "BF4M2011",
+            "Gross Power": "82 hp (61 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "23 gal/min (87 l/min)"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.8 cu yds (0 m)",
+            "Operating Load Rating": "2600 lbs (1,179 kg)",
+            "Operating Width": "72.5 in (183 cm)",
+            "Tipping Angle": "5200  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "24.1 gal (91 l)",
+            "Hydraulic System Fluid Capacity": "23 gal (87 l)",
+            "Max Speed": "14 mph (23 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "7800 lbs (3,538 kg)",
+            "Tire Size": "14.00x17.5 HD"
+        }
+    }
+}

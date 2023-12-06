@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc100-6/21728",
+    "source_url_id": "21728",
+    "source_url_model": "pc100-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:13.791251",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC100-6",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "25.5 ft (8 m)",
+            "Max Digging Depth": "15.7 ft (5 m)",
+            "Max Loading Height": "18 ft (5 m)",
+            "Max Reach Along Ground": "24 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "14.1 ft (4 m)",
+            "Shipping Height of Unit": "9 ft (3 m)",
+            "Shipping Length of Unit": "23.6 ft (7 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "26.2 ft (8 m)",
+            "Max Digging Depth": "16.7 ft (5 m)",
+            "Max Loading Height": "18.8 ft (5 m)",
+            "Max Reach Along Ground": "25 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "14.8 ft (4 m)",
+            "Shipping Height of Unit": "9 ft (3 m)",
+            "Shipping Length of Unit": "23.6 ft (7 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "26.6 ft (8 m)",
+            "Max Digging Depth": "18.3 ft (5 m)",
+            "Max Loading Height": "19.2 ft (6 m)",
+            "Max Reach Along Ground": "26.4 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "16.9 ft (5 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "23.3 ft (7 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.8 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.3 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.6 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length of Track on Ground": "8.5 ft (2 m)",
+            "Removal Counterweight Clearance": "2.9 ft (1 m)",
+            "Tail Swing Radius": "7 ft (2 m)",
+            "Width to Outside of Tracks": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "239.3 cu in (0 m)",
+            "Engine Model": "S4D102E",
+            "Net Power": "80.5 hp (60 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60.8 gal (227 l)",
+            "Hydraulic Pump Flow Capacity": "57.1 gal/min (216 l/min)",
+            "Hydraulic System Fluid Capacity": "26.5 gal (98 l)",
+            "Hydraulic System Relief Valve Pressure": "4620 psi",
+            "Operating Weight": "23699.7 lbs (10,750 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.4 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "19.7 in (48 cm)",
+            "Track Gauge": "6.5 ft (2 m)"
+        }
+    }
+}

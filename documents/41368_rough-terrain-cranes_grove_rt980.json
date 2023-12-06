@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt980/41368",
+    "source_url_id": "41368",
+    "source_url_model": "rt980",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:41.853221",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT980",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "146 ft (45 m)",
+            "Max Lift Capacity": "160000 lbs (72,576 kg)",
+            "Max Operating Radius": "130 ft (40 m)",
+            "Min Height @ Max Raise Angle": "36 ft (11 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "1.8 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "29.8 ft (9 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Transport Height": "13.4 ft (4 m)",
+            "Transport Length": "45.5 ft (14 m)",
+            "Transport Width": "12.4 ft (4 m)",
+            "Upper Structure Tail Swing Radius": "14.3 ft (4 m)",
+            "Wheelbase": "15.5 in (38 cm)",
+            "Width w/ Outriggers Extended": "26.5 ft (8 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type",
+            "Aspiration": "turbocharged",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "426 cu in (0 m)",
+            "Engine Model": "6-7IT",
+            "Max Torque": "672 lbs/ft",
+            "Net Power": "230 hp (172 kw)",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum operating pressure": "2500 psi",
+            "Pump Flow Capacity": "317 gal/min (1,200 l/min)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Cooling System Fluid Capacity": "14.6 gal (53 l)",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "375 gal (1,419 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "131729 lbs (59,752 kg)",
+            "Tire Size": "33.25x35-32PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "18 mph (29 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "remote mounted full powershift"
+        }
+    }
+}

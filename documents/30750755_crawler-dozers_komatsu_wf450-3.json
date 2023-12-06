@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/wf450-3/30750755",
+    "source_url_id": "30750755",
+    "source_url_model": "wf450-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:41.957751",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WF450-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "12.3 ft (4 m)",
+            "Length w/ Blade": "29 ft (9 m)",
+            "Width Over Tracks": "3.5 ft in (8 cm)"
+        },
+        "Engine": {
+            "Displacement": "673.8 cu in (0 m)",
+            "Engine Model": "SA6D125E-2",
+            "Gross Power": "260.2 hp (194 kw)",
+            "Max Torque": "774.5 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Pump type": "2 pump system w/ main ,switch pump"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "18 gal (68 l)",
+            "Engine Oil Capacity": "10 gal (38 l)",
+            "Fuel Capacity": "89 gal (337 l)",
+            "Hydraulic Fluid Capacity": "42 gal (159 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "57320.2 lbs (26,000 kg)"
+        },
+        "Standard Blade": {
+            "Width": "2.8 ft (1 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.2 mph (10 kph)",
+            "Max Speed - Reverse": "6.5 mph (10 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full powershift transmission"
+        }
+    }
+}

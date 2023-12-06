@@ -1,0 +1,87 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/fiat-hitachi/fg105/30754509",
+    "source_url_id": "30754509",
+    "source_url_model": "fg105",
+    "source_url_make": "fiat-hitachi",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:43.127484",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Fiat-Hitachi",
+    "equipment_model": "FG105",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Rear": "27.5  \t\u00b0",
+            "Diameter": "69.1 in (175 cm)",
+            "Max Lift Above Ground": "24.5 in (61 cm)",
+            "Max Reach Outside Tires - Left": "69.3 in (175 cm)",
+            "Max Reach Outside Tires - Right": "81 in (206 cm)",
+            "Rotation": "360  \t\u00b0"
+        },
+        "Dimensions": {
+            "Blade Base": "8.7 ft (2 m)",
+            "Front Ground Clearance": "2.1 ft (1 m)",
+            "Height to Top of Isomount Cab": "11 ft (3 m)",
+            "Overall Length": "28 ft (9 m)",
+            "Rear Ground Clearance": "1.1 ft (0 m)",
+            "Tandem Axle Wheelbase": "19.6 ft (6 m)",
+            "Wheelbase": "5.1 ft (2 m)",
+            "Width Over Tires": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "6 CT8.3",
+            "Max Power": "197.2 hp (147 kw)",
+            "Net Power Gear 5-6": "197.2 hp (147 kw)",
+            "Net Torque Gears 7-8": "555.4 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Oscillation - Total": "19  \t\u00b0",
+            "Wheel Lean": "17.5  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "43.1 gal/min (163 l/min)",
+            "Pump Type": "full hydraulic, variable displacement",
+            "Relief Valve Pressure": "414.4 psi"
+        },
+        "Moldboard": {
+            "Blade Down Pressure": "17174.1 lbs (7,790 kg)",
+            "Max Depth of Cut": "6.5 in (15 cm)",
+            "Moldboard Height": "37.6 in (94 cm)",
+            "Moldboard Width": "9.1 ft (3 m)",
+            "Side Shift Left": "21 in (53 cm)",
+            "Side Shift Right": "27 in (69 cm)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Circle Gearbox Fluid Capacity": "0.8 gal (0 l)",
+            "Cooling System Fluid Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "79 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "25 gal (95 l)",
+            "Max Operation Weight - Front Axle": "9281.5 lbs (4,210 kg)",
+            "Max Operation Weight - Rear Axle": "25110.7 lbs (11,390 kg)",
+            "Max Operation Weight - Total": "34392.2 lbs (15,600 kg)",
+            "Oil System Fluid Capacity": "5.4 gal (19 l)",
+            "Operating Voltage": "24 V V",
+            "Rear Diff/Final Drive Fluid Capacity": "11.1 gal (42 l)",
+            "Tandem Case Fluid Capacity (each)": "8.1 gal (30 l)",
+            "Tire Size": "13X24(10PR)",
+            "Transmission Fluid Capacity": "6.7 gal (23 l)"
+        },
+        "Steering System": {
+            "Articulation Angle": "25  \t\u00b0",
+            "Turning Radius": "32.8 ft (10 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "26.1 mph (42 kph)",
+            "Max Speed - Reverse": "17.1 mph (27 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "3",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

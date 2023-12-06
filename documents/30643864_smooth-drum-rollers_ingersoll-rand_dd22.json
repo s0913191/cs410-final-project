@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd22/30643864",
+    "source_url_id": "30643864",
+    "source_url_model": "dd22",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:39.830463",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD22",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Overall Length": "8 in (20 cm)",
+            "Overall Width": "3.6 ft (1 m)",
+            "Turning Radius - Inside": "123.6 in (312 cm)",
+            "Turning Radius - Outside": "151.5 in (384 cm)",
+            "Wheelbase": "5.7 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "8318 lbs (3,773 kg)",
+            "Centrifugal Force - Low": "5620.3 lbs (2,549 kg)",
+            "Drum Diameter": "27.6 in (69 cm)",
+            "Drum Width": "47.2 in (119 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Vibration Frequency": "4000 hz (240,000 vpm)",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)",
+            "Vibration Frequency 2": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "A1700",
+            "Make": "Deutz",
+            "Net Power": "32 hp (24 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Hydraulic System Fluid Capacity": "7.1 gal (27 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5400 lbs (2,449 kg)",
+            "Operating Width": "44 in (112 cm)"
+        }
+    }
+}

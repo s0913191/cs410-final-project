@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/feller-bunchers/tigercat/724e/30170056",
+    "source_url_id": "30170056",
+    "source_url_model": "724e",
+    "source_url_make": "tigercat",
+    "source_url_category": "feller-bunchers",
+    "source_date_scraped": "2023-09-13 17:50:43.163142",
+    "equipment_category": "Feller Bunchers",
+    "equipment_make": "Tigercat",
+    "equipment_model": "724E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2 in (5 cm)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Overall Length": "18.6 ft (5 m)",
+            "Overall Width": "9.9 ft (3 m)",
+            "Wheelbase": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB6.7 Tier III",
+            "Gross Power": "220 hp (164 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Hydraulic System Fluid Capacity": "42.3 gal (159 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/o Attachment": "26980 lbs (12,238 kg)",
+            "Steering Articulation": "45  \t\u00b0",
+            "Tire Size": "28Lx 26"
+        },
+        "Transmission": {
+            "Transmission Type": "Hydrostatic 2-speed mechanical shift"
+        }
+    }
+}

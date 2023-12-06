@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/challenger/lb44b/268",
+    "source_url_id": "268",
+    "source_url_model": "lb44b",
+    "source_url_make": "challenger",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:59:09.052737",
+    "equipment_category": "Balers",
+    "equipment_make": "Challenger",
+    "equipment_model": "LB44B",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "4.2 ft (1 m)",
+            "Bale Length - max": "9 ft (3 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "hydraulic",
+            "Number of Tines": "128",
+            "Overall Width": "9.9 ft (3 m)",
+            "Tine to Tine Width": "6.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "11.8 ft (3 m)",
+            "Overall Length": "30.9 ft (9 m)",
+            "Overall Width": "10.8 ft (3 m)",
+            "Tractor PTO Power Required": "150 hp (112 kw)",
+            "Weight": "22741 lbs (10,315 kg)"
+        },
+        "Feeding Chamber": {
+            "Packer Type": "Fork Type w/ 6 Hard Surfaced Tines",
+            "Stuffer Type": "Fork Type"
+        },
+        "Plunger": {
+            "Bearing Type": "4 tapered roller bearings sealed, 2 ball bearing rollers sealed",
+            "SPM": "33",
+            "Stroke Length": "32.8 in (81 cm)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "30",
+            "Twine Type": "Six Double Knot Type"
+        }
+    }
+}

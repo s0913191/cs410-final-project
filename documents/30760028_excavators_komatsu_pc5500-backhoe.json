@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc5500-backhoe/30760028",
+    "source_url_id": "30760028",
+    "source_url_model": "pc5500-backhoe",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:07.702652",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC5500 Backhoe",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "27.3 ft (8 m)",
+            "Max Reach Along Ground": "65.0 ft (20 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "27.3 ft (8 m)",
+            "Digging Reach": "65 ft (20 m)"
+        },
+        "Engine": {
+            "Net Power": "1260 hp (940 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "1180000 lbs (535,245 kg)"
+        }
+    }
+}

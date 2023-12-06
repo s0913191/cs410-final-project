@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/wacker-neuson/rd-15/33057",
+    "source_url_id": "33057",
+    "source_url_model": "rd-15",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:42.442456",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "RD 15",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "91 in (231 cm)"
+        },
+        "Drum": {
+            "Drum Width": "31.5 in (79 cm)",
+            "Vibration Frequency": "3000 hz (180,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Hatz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "35 in (89 cm)"
+        }
+    }
+}

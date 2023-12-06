@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t7220/30716134",
+    "source_url_id": "30716134",
+    "source_url_model": "t7220",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:56.817100",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T7.220",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "167 hp (125 kw)"
+        },
+        "Production": {
+            "Series": "T7 Series",
+            "Years Manufactured": "2011 - 2013"
+        }
+    }
+}

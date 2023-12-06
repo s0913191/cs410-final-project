@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/volvo/bm-646/30750435",
+    "source_url_id": "30750435",
+    "source_url_model": "bm-646",
+    "source_url_make": "volvo",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:53.975895",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM 646",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14.1 ft (4 m)",
+            "Load Height": "8 ft (2 m)",
+            "Reach From Swivel": "19.2 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.4 ft (3 m)",
+            "Transport Length": "26.5 ft (8 m)",
+            "Wheelbase": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "256.3 cu in (0 m)",
+            "Engine Model": "BM TD 42",
+            "Gross Power": "84.5 hp (63 kw)",
+            "Net Max Torque": "220.6 lbs/ft",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "29.9 gal/min (110 l/min)",
+            "Pump Type": "gear pump",
+            "Relief Valve Pressure": "2465 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "8600 lbs (3,901 kg)",
+            "Clearance at Max Dump Height": "10.2 ft (3 m)",
+            "Reach at Max Dump Height": "1.8 ft (0 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "43  A",
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "25.4 gal (95 l)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Max Weight": "21495.1 lbs (9,750 kg)",
+            "Oil System Fluid Capacity": "2.8 gal (8 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size Front - 2wd / 4wd": "14.9-24/14",
+            "Transmission Fluid Capacity": "5.9 gal (19 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4-34/14"
+        },
+        "Transmission": {
+            "Max Speed": "18.5 mph (29 kph)",
+            "Max Speed - Reverse": "18.5 mph (29 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "hydromechanical gearbox with power shift"
+        }
+    }
+}

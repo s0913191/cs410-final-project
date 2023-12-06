@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/doosan/dl300-5/41591",
+    "source_url_id": "41591",
+    "source_url_model": "dl300-5",
+    "source_url_make": "doosan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:55.026709",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "DL300-5",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "37768 lbs (17,132 kg)",
+            "Bucket Capacity - heaped": "4.2 cu yds (3 m)",
+            "Bucket Width": "9.6 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.3 ft (3 m)"
+        },
+        "Capacities": {
+            "Cooling system": "13 gal (49 l)",
+            "Diesel exhaust fluid (DEF) tank": "10 gal (38 l)",
+            "Engine Oil": "9 gal (34 l)",
+            "Fuel Tank": "64 gal (242 l)",
+            "Hydraulic system": "45.7 gal (170 l)",
+            "Transmission": "14 gal (53 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Hinge Pin - Max Height": "13 ft (4 m)",
+            "Overall height": "11.4 ft in (28 cm)",
+            "Overall length": "26.6 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.9 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Alternator": "100 A",
+            "Bore": "5.2 in (13 cm)",
+            "Displacement": "567.6 cu in (0 m)",
+            "Engine Make": "Scania",
+            "Engine Model": "DC09",
+            "Gross Power": "271 hp (202 kw)",
+            "Horsepower -Net": "271 hp (202 kw)",
+            "Make": "Scania",
+            "Net Power": "271 hp (202 kw)",
+            "Net Torque": "940 lbs/ft",
+            "Number of Cylinders": "5",
+            "Power Measured @": "1800 rpm",
+            "Starter": "8 hp (6 kw)",
+            "Stroke": "5.6 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "3.2 sec",
+            "Lower Time": "1.4 sec",
+            "Raise Time": "5.8 sec",
+            "Relief Valve Pressure": "3626 psi"
+        },
+        "Operating Specifications": {
+            "Front Axle/Diff Fluid Capacity": "11 gal (42 l)",
+            "Operating Voltage": "28 V V",
+            "Operating Weight": "41844 lbs (18,980 kg)",
+            "Rated Bucket Capacity": "4.2 cu yds (3 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "11 gal (42 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "3.9 mph (5 kph)"
+        },
+        "Weights": {
+            "Operational Weight": "41844 lbs (18,980 kg)"
+        }
+    }
+}

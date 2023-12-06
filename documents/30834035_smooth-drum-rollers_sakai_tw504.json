@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/tw504/30834035",
+    "source_url_id": "30834035",
+    "source_url_model": "tw504",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:57.767353",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "TW504",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "8.3 Inches"
+        },
+        "Drum": {
+            "Drum Width": "51 Inches",
+            "Vibration Frequency": "52 hz (3,120 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "4.7 Inches"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/2745/30835646",
+    "source_url_id": "30835646",
+    "source_url_model": "2745",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:25.828392",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2745",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "155 hp (116 kw)"
+        },
+        "Production": {
+            "Series": "2000 Series",
+            "Years Manufactured": "1978 - 1983"
+        }
+    }
+}

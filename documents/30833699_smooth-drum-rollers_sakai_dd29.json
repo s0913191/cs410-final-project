@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/dd29/30833699",
+    "source_url_id": "30833699",
+    "source_url_model": "dd29",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:27.992813",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "DD29",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "49.2 in (124 cm)",
+            "Vibration Frequency": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota V2203-M"
+        },
+        "Operating Specifications": {
+            "Operating Width": "53.7 in (135 cm)"
+        }
+    }
+}

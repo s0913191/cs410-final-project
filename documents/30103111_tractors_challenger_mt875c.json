@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/challenger/mt875c/30103111",
+    "source_url_id": "30103111",
+    "source_url_model": "mt875c",
+    "source_url_make": "challenger",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:56.848875",
+    "equipment_category": "Tractors",
+    "equipment_make": "Challenger",
+    "equipment_model": "MT875C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.4 in (36 cm)",
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Overall Length": "22.5 in (56 cm)"
+        },
+        "Engine": {
+            "Engine Model": "C18 ACERT",
+            "Gross Power": "585 hp (436 kw)",
+            "Net Power": "631 hp (471 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "43561",
+            "Pump Flow Capacity": "36 gal/min (136 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "330 gal (1,249 l)",
+            "Operating Weight": "42200 lbs (19,142 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Caterpillar Powershift"
+        }
+    }
+}

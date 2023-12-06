@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/sd25f/64666",
+    "source_url_id": "64666",
+    "source_url_model": "sd25f",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:34.865313",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "SD25F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "4.5 ft (1 m)",
+            "Turning Radius - Inside": "7 ft (2 m)"
+        },
+        "Drum": {
+            "Drum Width": "42 in (107 cm)",
+            "Frequency": "36.7 hz (2,160 vpm)",
+            "Vibration Frequency": "36.7 hz (2,160 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "49.4 in (124 cm)"
+        }
+    }
+}

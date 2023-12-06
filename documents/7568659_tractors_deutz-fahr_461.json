@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/461/7568659",
+    "source_url_id": "7568659",
+    "source_url_model": "461",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:46.620268",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "4.61",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "88  hp"
+        },
+        "Production": {
+            "Series": "AgroStar Series",
+            "Years Manufactured": "1990 - 1993"
+        }
+    }
+}

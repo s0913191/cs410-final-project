@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/daewoo/solar-75v/30856146",
+    "source_url_id": "30856146",
+    "source_url_model": "solar-75v",
+    "source_url_make": "daewoo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:15.348410",
+    "equipment_category": "Excavators",
+    "equipment_make": "Daewoo",
+    "equipment_model": "SOLAR 75V",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "21.1 ft (6 m)",
+            "Digging Reach": "21.1 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "17643 lbs (8,003 kg)"
+        }
+    }
+}

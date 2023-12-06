@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/caterpillar/16h/6535",
+    "source_url_id": "6535",
+    "source_url_model": "16h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:29.280025",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "16H",
+    "equipment_spec": {
+        "Circle": {
+            "Max Lift Above Ground": "16.5 in (41 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "10.1 ft (3 m)",
+            "Height to Top of Isomount Cab": "11.6 ft (3 m)",
+            "Overall Length": "32.8 ft (10 m)",
+            "Wheelbase": "22.9 ft (7 m)",
+            "Width Over Tires": "10.2 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "891 cu in (0 m)",
+            "Engine Model": "3406 DITA",
+            "Max Power": "275 hp (205 kw)",
+            "Net Power Gears 7-8": "275 hp (205 kw)"
+        },
+        "Front Axle": {
+            "Oscillation - Total": "32  \t\u00b0",
+            "Wheel Lean": "18  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "64.2 gal/min (242 l/min)",
+            "Pump Type": "Axial Piston",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Moldboard": {
+            "Moldboard Height": "31 in (79 cm)",
+            "Moldboard Thickness": "1 in (3 cm)",
+            "Moldboard Width": "16.1 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Fuel Capacity": "130 gal (492 l)",
+            "Hydraulic System Fluid Capacity": "34.4 gal (129 l)",
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Total": "54560.1 lbs (24,748 kg)",
+            "Tire Size": "15-25 12PR (E-2)"
+        },
+        "Steering System": {
+            "Articulation Angle": "20  \t\u00b0",
+            "Turning Radius": "27 ft (8 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "27.7 mph (43 kph)",
+            "Max Speed - Reverse": "26.3 mph (42 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "8"
+        }
+    }
+}

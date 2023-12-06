@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/john-deere/1490d/30755963",
+    "source_url_id": "30755963",
+    "source_url_model": "1490d",
+    "source_url_make": "john-deere",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:14.172443",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "John Deere",
+    "equipment_model": "1490D",
+    "equipment_spec": {
+        "Boom": {
+            "Max Reach w/ Head": "32.9 ft (10 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "12.6 ft (4 m)",
+            "Overall Width": "9.8 ft (3 m)",
+            "Shipping Length - non tilt": "36.5 ft (11 m)",
+            "Shipping Length - tilt": "40 ft (12 m)",
+            "Wheelbase": "17.3 ft (5 m)"
+        },
+        "Engine": {
+            "Engine Model": "6068HTJ",
+            "Gross Power": "182.4 hp (136 kw)",
+            "Max Torque": "574.6 lbs/ft",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Fuel Capacity": "107 gal (405 l)",
+            "Hydraulic System Fluid Capacity": "37 gal (140 l)",
+            "Max Speed": "13.7 mph (21 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "50706.4 lbs (23,000 kg)",
+            "Transmission Type": "hydrostatic-mechanical two-speed gearbox"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "2 ft (1 m)"
+        }
+    }
+}

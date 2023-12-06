@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1100-41/30320113",
+    "source_url_id": "30320113",
+    "source_url_model": "ltm-1100-41",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:49.071313",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1100-4.1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "275 ft (84 m)",
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "170.7 ft (52 m)",
+            "Max Lift Capacity": "110 t (99,790 kg)",
+            "Max Working Radius": "157.5 ft (48 m)",
+            "Min Height @ Max Raise Angle": "37.8 ft (11 m)",
+            "Min Working Radius": "8.3 ft (2 m)",
+            "Number of Sections": "6",
+            "Swing Speed": "1.8 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "476 hp (355 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "2220 lbs/ft",
+            "Model": "D846 A7"
+        },
+        "Dimensions": {
+            "Carrier Length": "34.6 ft (10 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "42.9 ft (13 m)",
+            "Transport Width": "9.1 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.5 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "170  A",
+            "Carrier Fuel Capacity": "105.7 gal (397 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14 R25",
+            "Upper Structure Fuel Capacity": "70.1 gal (265 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)",
+            "Max Speed - Reverse": "4.5 mph (6 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "ZF 12-speed gear box with automatic control system AS-TRONIC"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "197 hp (147 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "678.6 lbs/ft",
+            "Model": "D934S A6"
+        }
+    }
+}

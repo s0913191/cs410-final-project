@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/claas/arion-610c/194291",
+    "source_url_id": "194291",
+    "source_url_model": "arion-610c",
+    "source_url_make": "claas",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:08.090139",
+    "equipment_category": "Tractors",
+    "equipment_make": "Claas",
+    "equipment_model": "ARION 610C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "20 in (51 cm)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Overall Length": "17 in (43 cm)",
+            "Tire Size": "Front 13.6 R 28, Rear 16.9R38",
+            "Wheelbase": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "414.3 cu in (0 m)",
+            "Engine Model": "ECE R 24",
+            "Gross Power": "123.4 hp (92 kw)",
+            "Net Power": "114 hp (85 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "15.9 gal/min (57 l/min)",
+            "Relief Valve Pressure": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "74 gal (280 l)",
+            "Operating Weight": "13898 lbs (6,304 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "Powershift speeds 4"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/hesston/814/44349",
+    "source_url_id": "44349",
+    "source_url_model": "814",
+    "source_url_make": "hesston",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:13.485711",
+    "equipment_category": "Balers",
+    "equipment_make": "Hesston",
+    "equipment_model": "814",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Belt Width": "11 in (28 cm)",
+            "Number of Belts": "5 Floor, 25 Forming, Endless"
+        },
+        "Bale Size": {
+            "Bale Diameter - min": "6.1 ft (2 m)",
+            "Bale Weight - max": "2000 lbs (907 kg)",
+            "Bale Weight - min": "600 lbs (272 kg)",
+            "Bale Width": "5 ft (2 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "44 double",
+            "Number of Tines": "4",
+            "Overall Width": "5.9 ft (2 m)",
+            "Tine to Tine Width": "4.9 ft (1 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "8.1 ft (2 m)",
+            "Overall Length": "14.5 ft (4 m)",
+            "Overall Width": "8.5 ft (2 m)",
+            "Tractor PTO Power Required": "70 hp (52 kw)",
+            "Weight": "4784.1 lbs (2,170 kg)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "8",
+            "Twine Type": "Electric, With Position Feedback"
+        }
+    }
+}

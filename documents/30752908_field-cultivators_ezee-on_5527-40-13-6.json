@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/field-cultivators/ezee-on/5527-40-13-6/30752908",
+    "source_url_id": "30752908",
+    "source_url_model": "5527-40-13-6",
+    "source_url_make": "ezee-on",
+    "source_url_category": "field-cultivators",
+    "source_date_scraped": "2023-09-13 17:04:27.096630",
+    "equipment_category": "Field Cultivators",
+    "equipment_make": "Ezee-on",
+    "equipment_model": "5527-40-13-6",
+    "equipment_spec": {
+        "Dimensions": {
+            "Transport Height": "11 ft (3 m)",
+            "Transport Width": "17.9 ft (5 m)"
+        },
+        "Frame": {
+            "Inner Wing Width": "6 ft (2 m)",
+            "Main Frame Width": "13.5 ft (4 m)",
+            "Max Working Width": "26.9 ft (8 m)",
+            "Min Working Width": "26.9 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Operational Weight": "10962 lbs (4,972 kg)"
+        }
+    }
+}

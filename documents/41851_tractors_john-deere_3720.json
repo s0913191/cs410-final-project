@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/3720/41851",
+    "source_url_id": "41851",
+    "source_url_model": "3720",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:20:08.406195",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "3720",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "5.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "91.6 cu in (0 m)",
+            "Engine Model": "3TNV84HT",
+            "Gross Power": "44 hp (33 kw)",
+            "Max Torque": "84.3 lbs/ft",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "35 hp (26 kw)",
+            "Torque Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "5",
+            "Pump Flow Capacity": "13.9 gal/min (49 l/min)",
+            "Relief Valve Setting": "2500 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2202.5 lbs (999 kg)",
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "0.4 gal (0 l)",
+            "Engine Oil Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "13.5 gal (49 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size Front - 2wd / 4wd": "7-14 / 6PR R1",
+            "Turning Radius": "8.8 ft (2 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "11.2-24 / 6PR/R1"
+        },
+        "Transmission": {
+            "Transmission Type": "eHydro"
+        }
+    }
+}

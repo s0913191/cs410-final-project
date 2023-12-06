@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/asv/rt-30/30760128",
+    "source_url_id": "30760128",
+    "source_url_model": "rt-30",
+    "source_url_make": "asv",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:08.868653",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "ASV",
+    "equipment_model": "RT-30",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "33 hp (25 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "665 lbs (302 kg)",
+            "Operating Width": "48 in (122 cm)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/gl-43/31076490",
+    "source_url_id": "31076490",
+    "source_url_model": "gl-43",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:15.389988",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "GL-43",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "43 hp (32 kw)"
+        },
+        "Production": {
+            "Series": "GL Series",
+            "Years Manufactured": "1991 - 1995"
+        }
+    }
+}

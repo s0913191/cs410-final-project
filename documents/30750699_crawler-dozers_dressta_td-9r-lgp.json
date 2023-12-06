@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-9r-lgp/30750699",
+    "source_url_id": "30750699",
+    "source_url_model": "td-9r-lgp",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:39.294033",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-9R LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length of Track on Ground": "7.2 ft (2 m)",
+            "Length w/ Blade": "14.7 ft (4 m)",
+            "Length w/o Blade": "10.1 ft (3 m)",
+            "Width Over Tracks": "7.2 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Model": "QSB3.3",
+            "Gross Power": "99 hp (74 kw)",
+            "Max Torque": "306 lbs/ft",
+            "Net Power": "93 hp (69 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "18.4 gal/min (68 l/min)",
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "120  A",
+            "Cooling System Fluid Capacity": "4.1 gal (15 l)",
+            "Engine Oil Capacity": "1.9 gal (4 l)",
+            "Final Drives Fluid Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "45 gal (170 l)",
+            "Hydraulic Fluid Capacity": "17.2 gal (64 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "21133.6 lbs (9,586 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.5 mph (8 kph)",
+            "Max Speed - Reverse": "6.5 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3096 cu in (0 m)",
+            "Ground Pressure": "7 psi",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "18 in (46 cm)",
+            "Track Gauge": "5.2 ft (2 m)"
+        }
+    }
+}

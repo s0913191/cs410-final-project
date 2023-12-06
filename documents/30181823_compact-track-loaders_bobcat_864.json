@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/bobcat/864/30181823",
+    "source_url_id": "30181823",
+    "source_url_model": "864",
+    "source_url_make": "bobcat",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:17.211458",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "864",
+    "equipment_spec": {
+        "Dimensions": {
+            "Bucket hinge pin": "121 in (307 cm)",
+            "Length - with Bucket": "11.4 ft (3 m)",
+            "Overall height": "6.8 ft (2 m)",
+            "Width": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo-charged",
+            "Displacement": "177.6 cu in (0 m)",
+            "Engine Make": "Deutz",
+            "Engine Model": "BF4M1011F",
+            "Net Power": "73.5 hp (54 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "18 gal/min (68 l/min)"
+        },
+        "Loader": {
+            "Tipping Load": "5714.4 lbs (2,592 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18078 lbs (8,200 kg)",
+            "Travel Speed": "6.1 mph (10 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.5 psi"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/521f-xr/30761210",
+    "source_url_id": "30761210",
+    "source_url_model": "521f-xr",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:08.167306",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "521F XR",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.3 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Case",
+            "Net Power": "131 hp (98 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2.6 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "24586 lbs (11,152 kg)"
+        }
+    }
+}

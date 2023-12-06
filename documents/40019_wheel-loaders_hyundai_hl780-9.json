@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl780-9/40019",
+    "source_url_id": "40019",
+    "source_url_model": "hl780-9",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:30.804697",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL780-9",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "7.1 cu yds (5 m)",
+            "Bucket Capacity - struck": "6.1 cu yds (5 m)",
+            "Bucket Width": "11.4 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "12.7 ft (4 m)",
+            "Hinge Pin - Max Height": "15 ft (5 m)",
+            "Length with Bucket on Ground": "31.6 ft (9 m)",
+            "Reach at Max Lift and Dump": "4.7 ft (1 m)",
+            "Wheelbase": "12.2 ft (4 m)",
+            "Width Over Tires": "10.6 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Model": "QSM11",
+            "Gross Power": "348 hp (260 kw)",
+            "Make": "Cummins",
+            "Model": "QSM11",
+            "Net Power": "344 hp (257 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "4.1 sec",
+            "Pump Flow Capacity": "111 gal/min (420 l/min)",
+            "Pump Type": "Variable Axial Piston",
+            "Raise Time": "6.1 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "17.2 gal (64 l)",
+            "Engine Oil Fluid Capacity": "10.1 gal (38 l)",
+            "Front Axle/Diff Fluid Capacity": "15.4 gal (57 l)",
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Hydraulic System Fluid Capacity": "61.9 gal (231 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "66138.7 lbs (30,000 kg)",
+            "Rated Bucket Capacity": "7.1 cu yds (5 m)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "15.4 gal (57 l)",
+            "Static Tipping Weight": "53351.9 lbs (24,200 kg)",
+            "Tire Size": "29.5-25",
+            "Transmission Fluid Capacity": "11.4 gal (42 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.7 mph (35 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Weights": {
+            "Operational Weight": "66100 lbs (29,983 kg)"
+        }
+    }
+}

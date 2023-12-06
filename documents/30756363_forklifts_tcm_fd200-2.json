@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/tcm/fd200-2/30756363",
+    "source_url_id": "30756363",
+    "source_url_model": "fd200-2",
+    "source_url_make": "tcm",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:40:32.949780",
+    "equipment_category": "Forklifts",
+    "equipment_make": "TCM",
+    "equipment_model": "FD200-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.7 in (25 cm)",
+            "Height to Top of Overhead Guard": "10.5 ft (3 m)",
+            "Length to Fork Face": "23.7 ft (7 m)",
+            "Max Fork Height": "9.9 ft (3 m)",
+            "Overall Height - mast lowered": "11.8 ft (3 m)",
+            "Overall Width": "10.1 ft (3 m)",
+            "Turning Radius": "16.5 ft (5 m)",
+            "Wheelbase": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "396.3 cu in (0 m)",
+            "Engine Model": "6BG1T",
+            "Fuel Type": "diesel",
+            "Power": "172 hp (128 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque": "457.3 lbs/ft",
+            "Torque Measured @": "1800 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "64.9 ft/min",
+            "Load Capacity": "44092.5 lbs (20,000 kg)",
+            "Load Center": "36 in (91 cm)",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "21.2 mph (34 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "60098.1 lbs (27,260 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

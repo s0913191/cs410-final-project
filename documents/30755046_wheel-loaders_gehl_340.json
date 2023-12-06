@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/gehl/340/30755046",
+    "source_url_id": "30755046",
+    "source_url_model": "340",
+    "source_url_make": "gehl",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:27.045772",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Gehl",
+    "equipment_model": "340",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Width": "4.6 ft (1 m)",
+            "Dump Clearance at Max Raise": "7.1 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height - Top of Cab": "7.5 ft (2 m)",
+            "Hinge Pin - Max Height": "9.4 ft (3 m)",
+            "Length with Bucket on Ground": "13.3 ft (4 m)",
+            "Reach at Max Lift and Dump": "1.1 ft (0 m)",
+            "Wheelbase": "5.4 ft (2 m)",
+            "Width Over Tires": "4.2 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "100.2 cu in (0 m)",
+            "Engine Model": "3TNV88",
+            "Net Power": "35 hp (26 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "20.9 gal/min (76 l/min)",
+            "Relief Valve Setting": "5000 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.1 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "6.9 gal (23 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5840.1 lbs (2,649 kg)",
+            "Static Tipping Weight": "3794.2 lbs (1,721 kg)",
+            "Tire Size": "30.5x12.5-16.5",
+            "Turning Radius": "9.9 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "11.5 mph (18 kph)",
+            "Max Speed - Reverse": "11.5 mph (18 kph)"
+        }
+    }
+}

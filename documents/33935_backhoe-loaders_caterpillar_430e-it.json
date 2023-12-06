@@ -1,0 +1,76 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/430e-it/33935",
+    "source_url_id": "33935",
+    "source_url_model": "430e-it",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:44.950941",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "430E IT",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "15892 lbs (7,209 kg)",
+            "Bucket Dig Force - Extended": "15680 lbs (7,112 kg)",
+            "Dig Depth": "15.5 ft (5 m)",
+            "Dig Depth - Extended": "19.5 ft (6 m)",
+            "Load Height": "13 ft (4 m)",
+            "Load Height - Extended": "14.9 ft (4 m)",
+            "Reach at Load Height - Extended": "9.6 ft (3 m)",
+            "Reach From Swivel": "19.9 ft (6 m)",
+            "Reach From Swivel - Extended": "23.8 ft (7 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Suspended Cab": "9.3 ft (3 m)",
+            "Transport Length": "24.2 ft (7 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268 cu in (0 m)",
+            "Engine Model": "3054C DIT",
+            "Gross Power": "101 hp (75 kw)",
+            "Net Max Torque": "299 lbs/ft",
+            "Net Power": "97 hp (72 kw)",
+            "Net Torque Rise": "0.29"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "43 gal/min (163 l/min)",
+            "Pump Type": "variable-flow, axial piston",
+            "Relief Valve Pressure": "3611 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "10401 lbs (4,718 kg)",
+            "Bucket Capacity": "1.4 cu yds (1 m)",
+            "Bucket Width": "8 in (20 cm)",
+            "Clearance at Max Dump Height": "8.6 ft (2 m)",
+            "Dig Depth": "4 in (10 cm)",
+            "Lift Capacity": "2935 lbs (1,331 kg)",
+            "Reach at Max Dump Height": "2.7 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.4 gal (15 l)",
+            "Front Axle Fluid Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "38 gal (144 l)",
+            "Hydraulic System Fluid Capacity": "21 gal (79 l)",
+            "Max Weight": "23568 lbs (10,690 kg)",
+            "Oil System Fluid Capacity": "2 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 4wd": "16066 lbs (7,288 kg)",
+            "Rear Axle Fluid Capacity": "4.4 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "335/80R 18 XM37  /  12.5/80-18 NHS (10 ply) 1-3 super traction",
+            "Transmission Fluid Capacity": "5 gal (19 l)",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5L-R24 XM37  /  21L-24 (16 ply) R4 ATU"
+        },
+        "Transmission": {
+            "Max Speed": "26.8 mph (42 kph)",
+            "Max Speed - Reverse": "26.8 mph (42 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "power-shuttle"
+        }
+    }
+}

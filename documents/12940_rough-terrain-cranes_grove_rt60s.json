@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt60s/12940",
+    "source_url_id": "12940",
+    "source_url_model": "rt60s",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:30.558662",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT60S",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "75  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "70 ft (21 m)",
+            "Max Lift Capacity": "36000 lbs (16,330 kg)",
+            "Max Operating Radius": "66.5 ft (20 m)",
+            "Min Height @ Max Raise Angle": "28 ft (9 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "3.1 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "20.4 ft (6 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Transport Height": "11 ft (3 m)",
+            "Transport Length": "35.6 ft (11 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10.3 ft (3 m)",
+            "Wheelbase": "9.6 in (23 cm)",
+            "Width w/ Outriggers Extended": "17.7 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "504 cu in (0 m)",
+            "Engine Model": "V-504C",
+            "Max Torque": "303 lbs/ft",
+            "Net Power": "142 hp (106 kw)",
+            "Power Measured @": "2600 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "47980 lbs (21,764 kg)",
+            "Tire Size": "16.00x24-16ply"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "28.5 mph (45 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "remote mounted full powershift"
+        }
+    }
+}

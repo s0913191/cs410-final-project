@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/8670/30437596",
+    "source_url_id": "30437596",
+    "source_url_model": "8670",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:36.245946",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "8670",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "290 hp (216 kw)"
+        },
+        "Production": {
+            "Series": "8600 Series",
+            "Years Manufactured": "2009 - 2013"
+        }
+    }
+}

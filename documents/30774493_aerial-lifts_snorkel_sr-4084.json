@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/sr-4084/30774493",
+    "source_url_id": "30774493",
+    "source_url_model": "sr-4084",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:45.585693",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "SR 4084",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "750 lbs (340 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "SL, R ft (0 m)",
+            "Platform Size": "6x10 ft (2 m)",
+            "Stowed Height": "8.9 ft (2 m)",
+            "Stowed Width": "7 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "26x12"
+        },
+        "Transmission": {
+            "4WD": "Std"
+        }
+    }
+}

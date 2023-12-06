@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hd785-7/22592",
+    "source_url_id": "22592",
+    "source_url_model": "hd785-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:28.172022",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HD785-7",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "rwd"
+        },
+        "Dump": {
+            "Rated Payload": "103.5 t (93,440 kg)"
+        },
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA12V141E-3"
+        },
+        "Weights": {
+            "Operating Weight": "366000 lbs (166,017 kg)"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/s70ft-fortis-advanceplus/30756792",
+    "source_url_id": "30756792",
+    "source_url_model": "s70ft-fortis-advanceplus",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:30:32.457285",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "S70FT (Fortis Advance+)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Length to Fork Face": "7.9 ft (2 m)",
+            "Max Fork Height": "10.6 ft (3 m)",
+            "Overall Height - mast lowered": "7.2 ft (2 m)",
+            "Overall Width": "3.8 ft (1 m)",
+            "Right Angle Stack": "8.3 ft (2 m)",
+            "Turning Radius": "7 ft (2 m)",
+            "Wheelbase": "4.7 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "146.5 cu in (0 m)",
+            "Engine Model": "2.4L",
+            "Fuel Type": "LP/Gas",
+            "Number of Cylinders": "4",
+            "Power": "62 hp (46 kw)",
+            "Power Measured @": "2600 rpm",
+            "Torque": "123 lbs/ft",
+            "Torque Measured @": "1800 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "104 ft/min",
+            "Load Capacity": "7000 lbs (3,175 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "88 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "10.6 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "10604.3 lbs (4,810 kg)",
+            "Tire Type": "Cushion"
+        }
+    }
+}

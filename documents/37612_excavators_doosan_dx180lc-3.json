@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx180lc-3/37612",
+    "source_url_id": "37612",
+    "source_url_model": "dx180lc-3",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:29.376793",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX180LC-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "20 ft (6 m)"
+        },
+        "Engine": {
+            "Net Power": "125 hp (93 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "41248 lbs (18,710 kg)"
+        }
+    }
+}

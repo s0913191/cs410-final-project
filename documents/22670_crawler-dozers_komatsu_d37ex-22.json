@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d37ex-22/22670",
+    "source_url_id": "22670",
+    "source_url_model": "d37ex-22",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:30.032609",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D37EX-22",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Length of Track on Ground": "7.2 ft (2 m)",
+            "Length w/ Blade": "13.7 ft (4 m)",
+            "Width Over Tracks": "6.3 ft in (15 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, air-to-air aftercooled",
+            "Bore": "3.8 in (8 cm)",
+            "Displacement": "199 cu in (0 m)",
+            "Engine Model": "SAA4D95LE-5",
+            "Gross Power": "80 hp (60 kw)",
+            "Make": "Komatsu",
+            "Model": "SAA4D95LE-5",
+            "Net Power": "78 hp (58 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.6 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26.2 gal/min (98 l/min)",
+            "Relief Valve Pressure": "3983 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18298 lbs (8,300 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "2.2 cu yds (2 m)",
+            "Height": "33.1 in (84 cm)",
+            "Width": "8.4 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.3 mph (8 kph)",
+            "Max Speed - Reverse": "5.3 mph (8 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "dual-path, hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2.8 cu in (0 m)",
+            "Ground Pressure": "6.7 psi",
+            "Standard Shoe Size": "15.8 in (38 cm)",
+            "Track Gauge": "5 ft (2 m)"
+        }
+    }
+}

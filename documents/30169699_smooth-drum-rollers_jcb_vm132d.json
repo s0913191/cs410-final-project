@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/jcb/vm132d/30169699",
+    "source_url_id": "30169699",
+    "source_url_model": "vm132d",
+    "source_url_make": "jcb",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:01.723930",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "JCB",
+    "equipment_model": "VM132D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.6 in (43 cm)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Overall Length": "18.8 in (46 cm)",
+            "Overall Width": "7.5 ft (2 m)",
+            "Wheelbase": "9.9 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "39116.8 lbs (17,743 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum Width": "82.7 in (208 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "194.9 lbs/in",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibration Frequency 2": "36 hz (2,160 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "B5.9 -150 C",
+            "Gross Power": "150 hp (112 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "5.1 gal (19 l)",
+            "Engine Oil Capacity": "3.8 gal (11 l)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Max Speed": "7.9 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "28660 lbs (13,000 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1-26/8 PR AWT"
+        }
+    }
+}

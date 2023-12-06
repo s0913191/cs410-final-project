@@ -1,0 +1,81 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/986k/30761305",
+    "source_url_id": "30761305",
+    "source_url_model": "986k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:56.772969",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "986K",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.6 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C15 ACERT",
+            "Net Power": "374 hp (279 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "6.5 - 13.50 cu yds (5 - 10 m)"
+        },
+        "Weights": {
+            "Operational Weight": "105023 lbs (47,638 kg)"
+        },
+        "Axles": {
+            "Front": "Fixed",
+            "Oscillation Angle": "12.5  \t\u00b0",
+            "Rear": "Trunnion"
+        },
+        "Brakes": {
+            "Brakes": "ISO 3450:2011"
+        },
+        "Hydraulic Cycle Times": {
+            "Dump": "3 sec",
+            "Lower": "4.9 sec",
+            "Lower Float Down": "4.3 sec",
+            "Rack Back": "4.5 sec",
+            "Raise": "8.5 sec",
+            "Total Hydraulic Cycle Time": "15.8 sec"
+        },
+        "Hydraulic System - Lift/Tilt": {
+            "Lift Cylinder - Bore": "7.5 in (18 cm)",
+            "Lift Cylinder - Stroke": "45 in (114 cm)",
+            "Lift/Tilt System - Circuit": "Load Sense",
+            "Lift/Tilt System - Pump": "2  110 cc variable displacement",
+            "Maximum Flow at 2,165 rpm": "123 gal/min (466 l/min)",
+            "Relief Valve Setting - Lift/Tilt": "4050 psi",
+            "Tilt Cylinder - Bore": "6.7 in (15 cm)",
+            "Tilt Cylinder - Stroke": "22.4 in (56 cm)"
+        },
+        "Service Refill Capacities": {
+            "Cooling Systems": "26 gal (98 l)",
+            "Crankcase": "9 gal (34 l)",
+            "Fuel Tank": "116 gal (439 l)",
+            "Hydraulic System - Tank Only": "34 gal (129 l)",
+            "Hydraulic System Factory Fill": "87 gal (329 l)",
+            "Transmission": "20 gal (76 l)"
+        },
+        "Sound Performance - Standard": {
+            "Machine Sound Level (ISO 6395)": "112 dB(A)",
+            "Operator Sound Level (ISO 6396)": "72 dB(A)"
+        },
+        "Sound Performance - Suppression": {
+            "Machine Sound Level (ISO 6395)": "110 dB(A)",
+            "Operator Sound Level (ISO 6396)": "72 dB(A)"
+        },
+        "Transmission": {
+            "Direct Drive - Forward 2": "8 mph (13 kph)",
+            "Direct Drive - Forward 3": "14 mph (23 kph)",
+            "Direct Drive - Forward 4": "24 mph (39 kph)",
+            "Direct Drive - Reverse 2": "9 mph (14 kph)",
+            "Direct Drive - Reverse 3": "16 mph (26 kph)",
+            "Forward - 1": "5 mph (8 kph)",
+            "Forward - 2": "8 mph (13 kph)",
+            "Reverse - 1": "5 mph (8 kph)",
+            "Reverse - 2": "8 mph (13 kph)",
+            "Transmission Type": "Cat Planetary Power Shift"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/cc-2800-1/8952",
+    "source_url_id": "8952",
+    "source_url_model": "cc-2800-1",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:06.245191",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "CC 2800-1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "591 ft (180 m)",
+            "Max Lift Capacity": "660 t (598,742 kg)"
+        }
+    }
+}

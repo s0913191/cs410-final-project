@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-780-1/42670",
+    "source_url_id": "42670",
+    "source_url_model": "rt-780-1",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:14.688688",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 780-1",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "126 ft (38 m)",
+            "Min Height @ Max Raise Angle": "40 ft (12 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.3 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "27.1 ft (8 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Transport Height": "13.1 ft (4 m)",
+            "Transport Length": "48 ft (15 m)",
+            "Transport Width": "8.7 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13.2 ft (4 m)",
+            "Wheelbase": "13.2 in (33 cm)",
+            "Width w/ Outriggers Extended": "11.4 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger with intercooler",
+            "Emissions Certification": "Tier 4",
+            "Engine Model": "Cummins QSB6.7",
+            "Fuel Type": "Ultra Low Sulfur Diesel",
+            "Gross Power": "260 hp (194 kw)",
+            "Max Torque": "730 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "80 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "178 gal (674 l)",
+            "Tire Size": "29.5 X 25-28PR"
+        },
+        "Transmission": {
+            "Max Speed": "25 mph (40 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Powershift transmission with torque converter"
+        },
+        "Weights": {
+            "counterweight": "15200 lbs (6,895 kg)"
+        }
+    }
+}

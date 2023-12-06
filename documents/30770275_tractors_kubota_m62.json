@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m62/30770275",
+    "source_url_id": "30770275",
+    "source_url_model": "m62",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:22.861356",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M62",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14.2 ft (4 m)",
+            "Load Height": "11 ft (3 m)"
+        },
+        "Dimensions": {
+            "Front Tread Range": "56.7 in (142 cm)",
+            "Rear Tread Range": "57.6 in (145 cm)",
+            "Wheelbase": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "148.5 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Type": "Diesel",
+            "Gross Power": "63 hp (47 kw)",
+            "Net Power": "59.1 hp (44 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30.9 gal/min (114 l/min)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "5992 lbs (2,718 kg)",
+            "Dig Depth": "2.8 in (5 cm)",
+            "Reach at Max Dump Height": "2.1 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17.7 gal (64 l)",
+            "Operating Weight 4wd": "8924.4 lbs (4,048 kg)",
+            "Tire Size Front - 2wd / 4wd": "10-16.5 R4",
+            "Turning Radius": "10.9 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "17.5L-24 R4"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "6",
+            "Transmission Type": "Hydrostatic, HST-PLUS"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/landoll/l1016/30835524",
+    "source_url_id": "30835524",
+    "source_url_model": "l1016",
+    "source_url_make": "landoll",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:10.624788",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Landoll",
+    "equipment_model": "L1016",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "16.1x6.7 ft (5 m)"
+        },
+        "Engine": {
+            "Speed Rating": "62 mph (100 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "spring"
+        },
+        "Weights": {
+            "Equipment Weight": "2673 lbs (1,213 kg)",
+            "Weight Capacity": "9977 lbs (4,526 kg)"
+        }
+    }
+}

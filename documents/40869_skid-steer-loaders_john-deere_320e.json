@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/320e/40869",
+    "source_url_id": "40869",
+    "source_url_model": "320e",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:51.311057",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "320E",
+    "equipment_spec": {
+        "Axles": {
+            "Maximum Axle Torque": "4994 lbs/ft",
+            "Tractive Effort": "7491 lbs/ft"
+        },
+        "Dimensions": {
+            "Angle of departure": "28  \t\u00b0",
+            "Ground Clearance": "8.7 in (20 cm)",
+            "Height - Top of ROPS/FOPS": "79.6 in (201 cm)",
+            "Hinge pin height, maximum height": "121.7 in (307 cm)",
+            "Length w/o Bucket": "9.4 ft (3 m)",
+            "Length with Bucket": "11.4 ft (3 m)",
+            "Reach at Max Lift and Dump": "36.3 in (91 cm)",
+            "Turning Radius - TTS870": "6.7 ft (2 m)",
+            "Wheelbase": "3.8 ft (1 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry dual element",
+            "Aspiration": "Naturally aspirated",
+            "Displacement": "201.4 cu in (0 m)",
+            "Emissions Certification": "Tier 4",
+            "Engine Make": "Yanmar",
+            "Engine Model": "4TNV98C standard",
+            "Gross Power": "66 hp (49 kw)",
+            "Net Torque": "177.8 lbs/ft",
+            "Net Torque Rise": "22%",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1625 rpm"
+        },
+        "Hydraulic System": {
+            "Hydraulic Horsepower-Standard Flow": "38 hp (28 kw)",
+            "Hydraulic Horsepower_High Flow": "53 hp (40 kw)",
+            "Pump Flow Capacity": "28.1 gal/min (106 l/min)",
+            "System Pressure at Couplers": "3250 psi"
+        },
+        "Loader": {
+            "Boom breakout force": "3200 lbs (1,452 kg)",
+            "Dump angle @ max. height": "43  \t\u00b0",
+            "Dump height": "8070.9 ft (2,460 m)",
+            "Operating Load Rating": "2350 lbs (1,066 kg)",
+            "Operating Width": "69 in (175 cm)",
+            "Tipping load (ISO 14397)": "4380 lbs (1,987 kg)",
+            "Width without Bucket": "5.8 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "20.1 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "20.1 gal (76 l)",
+            "Max Speed": "11.1 mph (18 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "7156.3 lbs (3,246 kg)"
+        }
+    }
+}

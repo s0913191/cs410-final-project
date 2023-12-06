@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/hamm/h7i-p/30753915",
+    "source_url_id": "30753915",
+    "source_url_model": "h7i-p",
+    "source_url_make": "hamm",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:48.972080",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Hamm",
+    "equipment_model": "H7i P",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.5 in (30 cm)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Overall length": "14.5 ft (4 m)",
+            "Overall width": "6.1 ft (2 m)",
+            "Turning Radius - Inside": "10.9 ft in (25 cm)",
+            "Wheelbase": "90.8 in (229 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "28101.2 lbs (12,747 kg)",
+            "Drum Diameter": "53.6 in (135 cm)",
+            "Drum thickness": "0.6 in (0 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Number of Pads": "84",
+            "Pad Height": "80 in (203 cm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Emissions level": "EU Stage IIIB / EPA Tier 4",
+            "Engine Make": "KUBOTA",
+            "Engine Model": "V3307-CR-T",
+            "Gross Power": "73.3 hp (54 kw)",
+            "Net Power": "73.3 hp (54 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "32.5 gal (121 l)",
+            "Max Speed": "7.8 mph (11 kph)",
+            "Operating Weight": "15256 lbs (6,920 kg)",
+            "Operating weight ROPS": "13646.7 lbs (6,190 kg)",
+            "Oscillating angle": "10  \t\u00b0",
+            "Smooth drum Operating weight with Cab": "14131.7 lbs (6,410 kg)"
+        },
+        "Tires": {
+            "Tires": "TR 14.9-24 8 TL"
+        }
+    }
+}

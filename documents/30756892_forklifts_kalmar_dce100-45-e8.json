@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/kalmar/dce100-45-e8/30756892",
+    "source_url_id": "30756892",
+    "source_url_model": "dce100-45-e8",
+    "source_url_make": "kalmar",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:32:56.629948",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Kalmar",
+    "equipment_model": "DCE100-45 E8",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "14.8 ft (4 m)",
+            "Wheelbase": "15 ft (5 m)"
+        },
+        "MAST": {
+            "Load Capacity": "22046.3 lbs (10,000 kg)"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "92594.2 lbs (42,000 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

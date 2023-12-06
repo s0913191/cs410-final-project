@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/john-deere/755c-series-ii/30750558",
+    "source_url_id": "30750558",
+    "source_url_model": "755c-series-ii",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:29.722442",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "755C Series II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "10.2 ft (3 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Length to Front of Track": "15.8 ft (5 m)",
+            "Length with Bucket on Ground": "22.5 ft (7 m)",
+            "Reach at Dump Height": "4 ft (1 m)",
+            "Width to Outside of Tracks": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "610 cu in (0 m)",
+            "Engine Model": "D 926 T-EA2",
+            "Max Torque": "678 lbs/ft",
+            "Net Power": "177 hp (132 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1000 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.1 sec",
+            "Lower Time": "1.5 sec",
+            "Pump Flow Capacity": "55 gal/min (208 l/min)",
+            "Pump Type": "Variable-Displacement piston pump with load-sensing proportional pump flow control",
+            "Raise Time": "6.5 sec",
+            "Relief Valve Pressure": "3770 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Breakout Force  Bucket": "37080 lbs (16,819 kg)",
+            "Bucket Capacity - heaped": "3.2 cu yds (2 m)",
+            "Cooling System Fluid Capacity": "15.3 gal (57 l)",
+            "Engine Oil Capacity": "5.8 gal (19 l)",
+            "Final Drive Fluid Capacity - each": "18 gal (68 l)",
+            "Fuel Capacity": "84.5 gal (318 l)",
+            "Hydraulic System Fluid Capacity": "46.2 gal (174 l)",
+            "Max Speed": "6.8 mph (10 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "46300 lbs (21,002 kg)",
+            "Static Tipping Load": "30412.8 lbs (13,795 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4210 cu in (0 m)",
+            "Ground Pressure": "11 psi",
+            "Length of Track on Ground": "8.8 ft (2 m)",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "6",
+            "Track Gauge": "70.9 in (178 cm)",
+            "Track Shoe Width": "20 in (51 cm)"
+        }
+    }
+}

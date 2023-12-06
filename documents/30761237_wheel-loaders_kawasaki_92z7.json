@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/92z7/30761237",
+    "source_url_id": "30761237",
+    "source_url_model": "92z7",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:48.549355",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "92Z7",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "14.8 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Hino",
+            "Model": "E13C-VV",
+            "Net Power": "286 hp (213 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "5.4 - 6.80 cu yds (4 - 5 m)"
+        },
+        "Weights": {
+            "Operational Weight": "59170 lbs (26,839 kg)"
+        }
+    }
+}

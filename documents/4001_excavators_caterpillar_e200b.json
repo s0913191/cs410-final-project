@@ -1,0 +1,87 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/e200b/4001",
+    "source_url_id": "4001",
+    "source_url_model": "e200b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:23.245223",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "E200B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "29.2 ft (9 m)",
+            "Max Digging Depth": "18.7 ft (5 m)",
+            "Max Loading Height": "19.9 ft (6 m)",
+            "Max Reach Along Ground": "29.1 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "15.9 ft (5 m)",
+            "Shipping Height of Unit": "9.9 ft (3 m)",
+            "Shipping Length of Unit": "31.9 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "30.1 ft (9 m)",
+            "Max Digging Depth": "20.4 ft (6 m)",
+            "Max Loading Height": "21.4 ft (6 m)",
+            "Max Reach Along Ground": "30.8 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.4 ft (5 m)",
+            "Shipping Height of Unit": "9.9 ft (3 m)",
+            "Shipping Length of Unit": "31.3 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "31 ft (9 m)",
+            "Max Digging Depth": "22.1 ft (7 m)",
+            "Max Loading Height": "22 ft (7 m)",
+            "Max Reach Along Ground": "32.4 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "20 ft (6 m)",
+            "Shipping Height of Unit": "9.8 ft (3 m)",
+            "Shipping Length of Unit": "31.2 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "31.7 ft (9 m)",
+            "Max Digging Depth": "25 ft (8 m)",
+            "Max Loading Height": "22.8 ft (7 m)",
+            "Max Reach Along Ground": "34.9 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "22.1 ft (7 m)",
+            "Shipping Length of Unit": "31.2 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.4 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Removal Counterweight Clearance": "3.4 ft (1 m)",
+            "Tail Swing Radius": "9.1 ft (3 m)",
+            "Width to Outside of Tracks": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "3116",
+            "Net Power": "118 hp (88 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55 A",
+            "Cooling System Fluid Capacity": "6.1 gal (23 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "74 gal (280 l)",
+            "Hydraulic Pump Flow Capacity": "94.1 gal/min (356 l/min)",
+            "Hydraulic System Fluid Capacity": "66.1 gal (250 l)",
+            "Hydraulic System Relief Valve Pressure": "4550 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "41447 lbs (18,800 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "38100 lbs (17,282 kg)",
+            "Ground Pressure": "6.3 psi",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "7.3 ft (2 m)"
+        }
+    }
+}

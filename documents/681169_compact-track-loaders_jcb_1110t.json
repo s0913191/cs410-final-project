@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/jcb/1110t/681169",
+    "source_url_id": "681169",
+    "source_url_model": "1110t",
+    "source_url_make": "jcb",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:30.701918",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "1110T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.1 ft (2 m)",
+            "Ground Clearance": "11 in (28 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length - with Bucket": "11.5 ft (3 m)",
+            "Length - without Bucket": "7.8 ft (2 m)",
+            "Reach at Max Lift and Dump": "2.2 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "86.6 in (218 cm)",
+            "Turning Radius from Center - machine rear": "65.6 in (165 cm)",
+            "Width Over Tracks": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "238 cu in (0 m)",
+            "Gross Power": "92 hp (69 kw)",
+            "Net Power": "82 hp (61 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "272 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "20.1 gal/min (76 l/min)",
+            "Pump Type": "hydrostatic drive pumps",
+            "Relief Valve Pressure": "2682 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.8 cu yds (0 m)",
+            "Operating Load": "2248.8 lbs (1,020 kg)",
+            "Tipping Angle": "6437.5  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "72  A",
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Engine Oil Capacity": "2.9 gal (8 l)",
+            "Fuel Capacity": "28.3 gal (106 l)",
+            "Hydraulic System Fluid Capacity": "9.3 gal (34 l)",
+            "Max Speed - high range": "6.3 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10196.4 lbs (4,625 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.8 psi",
+            "Length of Track on Ground": "5 ft (2 m)",
+            "Width of Track": "12.6 in (30 cm)"
+        }
+    }
+}

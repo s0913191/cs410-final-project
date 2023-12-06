@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/ac-120/8934",
+    "source_url_id": "8934",
+    "source_url_model": "ac-120",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:07.559012",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AC 120",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80.5  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "252.9 ft (77 m)",
+            "Min Height @ Max Raise Angle": "49 ft (15 m)",
+            "Number of Sections": "5"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "496.2 hp (370 kw)",
+            "Make": "Terex",
+            "Max Torque": "1489.9 lbs/ft",
+            "Model": "OM 442 LA",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "39.3 ft (12 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Transport Height": "13.1 ft (4 m)",
+            "Transport Length": "49.6 ft (15 m)",
+            "Transport Width": "9.1 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.9 ft (4 m)",
+            "Width w/ Outriggers Extended": "24.7 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "132.1 gal (500 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14.00 R 25",
+            "Upper Structure Fuel Capacity": "52.9 gal (197 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "50 mph (80 kph)",
+            "Max Speed - Reverse": "4 mph (6 kph)",
+            "Transmission Type": "ZF Transmatik system"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "150.2 hp (112 kw)",
+            "Make": "Terex",
+            "Max Torque": "398.3 lbs/ft",
+            "Model": "OM 366 A",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        }
+    }
+}

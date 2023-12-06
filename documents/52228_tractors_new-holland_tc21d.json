@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tc21d/52228",
+    "source_url_id": "52228",
+    "source_url_model": "tc21d",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:11.578190",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TC21D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.8 in (25 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Tire Size": "Front 5x12, Rear 8x16",
+            "Wheelbase": "4.8 ft (1 m)",
+            "Width Outside Frame": "3.8 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "61.3 cu in (0 m)",
+            "Gross Power": "21 hp (16 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "17 hp (13 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "7.7 gal/min (27 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1265 lbs (574 kg)",
+            "Fuel Capacity": "5.3 gal (19 l)",
+            "Operating Weight": "1535 lbs (696 kg)",
+            "Turning Radius": "6.8 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "10 mph (16 kph)",
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Manual"
+        }
+    }
+}

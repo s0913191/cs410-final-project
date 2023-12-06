@@ -1,0 +1,136 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/797/30754699",
+    "source_url_id": "30754699",
+    "source_url_model": "797",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:50.160627",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "797",
+    "equipment_spec": {
+        "Approximate Weights - Dual Slope": {
+            "Chassis": "458500 lbs (207,974 kg)"
+        },
+        "Approximate Weights - Flat Floor": {
+            "Chassis": "458500 lbs (207,974 kg)"
+        },
+        "Body Hoists": {
+            "Body Lower Time - Float": "18.5 sec",
+            "Body Power Down - High Idle": "17.3 sec",
+            "Body Raise Time - High Idle": "25 sec",
+            "Pump Flow - High Idle": "323 gal/min (1,223 l/min)",
+            "Relief Valve Setting - Raise": "3450.01 psi"
+        },
+        "Brakes": {
+            "Brake Standards": "30.1",
+            "Brake Surface - Rear": "Meet J-ISO 3450 JAN88 and ISO 3450-1996 standards cu in (0 m)",
+            "Standards": "Meet J-ISO 3450 JAN88 and ISO 3450-1996 standards"
+        },
+        "Dimensions": {
+            "Centerline Front Tire Width": "21.7 ft (6 m)",
+            "Centerline of Rear Dual Tire Width": "20 ft (6 m)",
+            "Dump Clearance": "6.2 ft (2 m)",
+            "Dump Height": "49.3 ft (15 m)",
+            "Engine Guard Clearance": "3.8 ft (1 m)",
+            "Height - Top of ROPS/FOPS": "21.4 ft (6 m)",
+            "Inside Body Depth - Maximum": "11 ft (3 m)",
+            "Inside Body Length": "32.3 ft (10 m)",
+            "Inside Body Width": "26.3 ft (8 m)",
+            "Loading Height - Empty": "23.2 ft (7 m)",
+            "Operating Width": "30.1 ft (9 m)",
+            "Outside Body Width": "28 ft (9 m)",
+            "Overall Body Length": "47.7 ft (14 m)",
+            "Overall Height": "23.8 ft (7 m)",
+            "Overall Height - Body Raised": "49.2 ft (15 m)",
+            "Overall Length": "47.7 ft (14 m)",
+            "Overall Tire Width": "30.1 ft (9 m)",
+            "Overall Width": "30.1 ft (9 m)",
+            "Rear Axle - Clearance": "2.6 ft (1 m)",
+            "Rear Axle - Tail": "13.2 ft (4 m)",
+            "Wheel Base": "23.7 ft (7 m)",
+            "Wheelbase": "23.7 ft (7 m)"
+        },
+        "Dump": {
+            "Load Capacity - heaped": "287.8 cu yds (219 m)",
+            "Load Capacity - Struck": "226.3 cu yds (173 m)",
+            "Rated Payload": "360 t (326,587 kg)"
+        },
+        "Engine": {
+            "Displacement": "7139.8 cu in (0 m)",
+            "Engine Model": "Cat 3524B",
+            "Gross Power": "3400 hp (2,535 kw)",
+            "Gross Power - SAE J1995": "3400 hp (2,535 kw)",
+            "Net Power": "3211 hp (2,394 kw)",
+            "Net Power - 80/1269/EEC": "3211 hp (2,394 kw)",
+            "Net Power - Cat": "3211 hp (2,394 kw)",
+            "Net Power - ISO 9249": "3211 hp (2,394 kw)",
+            "Net Power - SAE J1349": "3178 hp (2,370 kw)",
+            "Torque Rise": "17.3"
+        },
+        "Final Drives": {
+            "Differential Ratio": "1.265:1",
+            "Planetary Ratio": "16.67:1",
+            "Total Reduction Ratio": "21.09:1"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "1799.9 gal (6,809 l)",
+            "Lower Time": "17.3 sec",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Raise Time": "24 sec",
+            "Tire Size": "55/80R63",
+            "Top Speed - Loaded": "40 mph (64 kph)",
+            "Turning Circle - Clearance Diameter": "166 ft (51 m)"
+        },
+        "ROPS": {
+            "ROPS Standards": "Meets SAE J1040 APR88, SAE J231 JAN81, ISO 3471-1994 and ISO 3449-1992 LEVEL II"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "263 gal (995 l)",
+            "Cooling System": "315 gal (1,192 l)",
+            "Crankcase": "110 gal (416 l)",
+            "Differential - Final Drives": "110 gal (416 l)",
+            "Fuel Tank - Standard": "1000 gal (3,785 l)",
+            "Steering System - Including Tank": "114 gal (431 l)",
+            "Steering Tank": "62 gal (235 l)",
+            "Torque Converter - Transmission Sump": "459462.7 gal (1,739,064 l)",
+            "Torque Converter/Transmission System - Including Sump": "166 gal (628 l)"
+        },
+        "Sound": {
+            "Sound Standards": "Meets OSHA and MSHA occupational noise exposure criteria"
+        },
+        "Steering System": {
+            "Steering Standards": "Meets SAE J1511 OCT90 and ISO 5010-1984 standards"
+        },
+        "Tires": {
+            "Standard Tires": "55/80R63 tires"
+        },
+        "Transmission": {
+            "Forward - 1": "6.7 mph (10 kph)",
+            "Forward - 2": "9 mph (14 kph)",
+            "Forward - 3": "12.1 mph (19 kph)",
+            "Forward - 4": "16.3 mph (26 kph)",
+            "Forward - 5": "22 mph (35 kph)",
+            "Forward - 6": "29.7 mph (47 kph)",
+            "Forward - 7": "39.9 mph (63 kph)",
+            "Max Speed": "39.8 mph (63 kph)",
+            "Reverse": "7.6 mph (11 kph)",
+            "Transmission Type": "28"
+        },
+        "Weights": {
+            "Body Weight Range": "1314000",
+            "Chassis Weight": "459462.7 lbs (208,411 kg)",
+            "Empty Weight": "1225748.3 lbs (555,996 kg)",
+            "Front Axle - Empty": "43.5%",
+            "Gross Machine Operating Weight (GMW)": "1314000 lbs (596,027 kg)",
+            "Loaded Weight": "719875.5 lbs (326,533 kg)",
+            "Operating Weight - Empty": "510000 lbs (231,335 kg)",
+            "Operating Weight - Loaded": "1230000 lbs (557,924 kg)",
+            "Rear Axle - Empty": "56.5%",
+            "Weight Distribution Front - empty": "43.5%",
+            "Weight Distribution Front - loaded": "33%",
+            "Weight Distribution Rear - empty": "46.5%",
+            "Weight Distribution Rear - loaded": "67%"
+        }
+    }
+}

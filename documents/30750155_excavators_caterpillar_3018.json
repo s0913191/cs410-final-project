@@ -1,0 +1,87 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/3018/30750155",
+    "source_url_id": "30750155",
+    "source_url_model": "3018",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:53.038339",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "301.8",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "10 in (25 cm)",
+            "Blade Lift Height": "8 in (20 cm)",
+            "Blade Width": "45 ft (14 m)",
+            "Dig Depth": "9 in (23 cm)"
+        },
+        "Dimensions": {
+            "Center Ground Clearance": "0.1 ft (0 m)",
+            "Height - Over Cab": "0.6 ft (0 m)",
+            "Height - Over Canopy": "0.6 ft (0 m)",
+            "Maximum Cutting Height - Long Stick": "1 ft (0 m)",
+            "Maximum Cutting Height - Standard Stick": "1 ft (0 m)",
+            "Maximum Digging Depth - Long Stick": "0.7 ft (0 m)",
+            "Maximum Digging Depth - Standard Stick": "0.7 ft (0 m)",
+            "Maximum Dump Height - Long Stick": "0.7 ft (0 m)",
+            "Maximum Dump Height - Standard Stick": "0.7 ft (0 m)",
+            "Maximum Horizontal Reach - Long Stick": "1.1 ft (0 m)",
+            "Maximum Horizontal Reach - Standard Stick": "1.1 ft (0 m)",
+            "Maximum Reach - Ground Level - Long Stick": "1.1 ft (0 m)",
+            "Maximum Reach - Ground Level - Standard Stick": "1 ft (0 m)",
+            "Maximum Vertical Dig Depth - Long Stick": "0.5 ft (0 m)",
+            "Shipping Length": "1.1 ft (0 m)",
+            "Stick Length - Standard Stick": "0.3 ft (0 m)",
+            "Swing Radius - Rear": "0.3 ft (0 m)",
+            "Track Gauge": "0.3 ft (0 m)",
+            "Track Shoe Width": "0.8 ft (0 m)",
+            "Width - Over Track": "0.3 ft (0 m)",
+            "Width - Upper Structure": "0.3 ft (0 m)"
+        },
+        "Electrical System": {
+            "Electrical System Type": "Twelve-volt system"
+        },
+        "Engine": {
+            "Bore": "3 in (8 cm)",
+            "Displacement": "58.2 cu in (0 m)",
+            "Engine Model": "3003",
+            "Gross Power": "18.4 hp (13 kw)",
+            "Net Power": "17.4 hp (13 kw)",
+            "Stroke": "3 in (8 cm)"
+        },
+        "Hydraulic System": {
+            "Auxiliary Circuit - Primary (245 bar/3,553 psi)": "8.4 gal/min (30 l/min)",
+            "Digging Force - Bucket": "2844 lbs (1,290 kg)",
+            "Digging Force - Stick - Long": "1609 lbs (730 kg)",
+            "Digging Force - Stick - Standard": "1984 lbs (900 kg)",
+            "Operating Pressure - Equipment": "2734 psi",
+            "Operating Pressure - Swing": "2528 psi",
+            "Operating Pressure - Travel": "2734 psi",
+            "Pump - Gear (Single)": "4.5 gal/min (15 l/min)",
+            "Pump - Gear (Tandem)": "4.2 gal/min (15 l/min)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System TAG": "1.2 gal (4 l)",
+            "Engine Oil": "0.9 gal (0 l)",
+            "Fuel Tank": "5.8 gal (19 l)",
+            "Hydraulic System": "9.8 gal (34 l)",
+            "Hydraulic Tank": "5.3 gal (19 l)"
+        },
+        "Swing System": {
+            "Boom Swing - Left - With Stop": "54  \t\u00b0",
+            "Boom Swing - Left - Without Stop": "90  \t\u00b0",
+            "Boom Swing - Right": "50  \t\u00b0",
+            "Machine Swing Speed": "9.7 rpm",
+            "Swing System Type": "Hydraulic Motor Driven"
+        },
+        "Travel System": {
+            "Maximum Traction Force - High Speed": "1440 lbs (653 kg)",
+            "Maximum Traction Force - Low Speed": "3060 lbs (1,388 kg)",
+            "Travel Speed - High": "2.7 mph (3 kph)",
+            "Travel Speed - Low": "1.4 mph (2 kph)"
+        },
+        "Weights": {
+            "Operating Weight - With Cab": "3968 lbs (1,800 kg)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/gehl/v330/39090",
+    "source_url_id": "39090",
+    "source_url_model": "v330",
+    "source_url_make": "gehl",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:06.167764",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Gehl",
+    "equipment_model": "V330",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "84 hp (63 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "3300 lbs (1,497 kg)",
+            "Operating Width": "72 in (183 cm)"
+        }
+    }
+}

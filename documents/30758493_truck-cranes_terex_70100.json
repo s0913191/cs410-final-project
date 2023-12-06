@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex/70100/30758493",
+    "source_url_id": "30758493",
+    "source_url_model": "70100",
+    "source_url_make": "terex",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:11.608311",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "70100",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "100 ft (30 m)",
+            "Max Lift Capacity": "70000 lbs (31,752 kg)",
+            "Max Working Radius": "95 ft (29 m)",
+            "Min Height @ Max Raise Angle": "30.6 ft (9 m)",
+            "Min Working Radius": "5 ft (2 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "439.4 cu in (0 m)",
+            "Gross Power": "300 hp (224 kw)",
+            "Make": "Terex",
+            "Max Torque": "860 lbs/ft",
+            "Model": "C-7 7.2 L 1-6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1440 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Transport Height": "13.4 ft (4 m)",
+            "Transport Length": "41.1 ft (13 m)",
+            "Transport Width": "8.8 ft (2 m)",
+            "Width w/ Outriggers Extended": "25.6 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "120 gal (454 l)",
+            "Number of Axels": "2",
+            "Tire Size": "Front - 425/65R 22.5 / Rear - 11R22.5"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "74 mph (119 kph)",
+            "Number of Forward Gears": "10",
+            "Transmission Type": "Manual"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pw75-1/30750242",
+    "source_url_id": "30750242",
+    "source_url_model": "pw75-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:45.673733",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PW75-1",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "20.9 ft (6 m)",
+            "Max Digging Depth": "10.9 ft (3 m)",
+            "Max Loading Height": "15.7 ft (5 m)",
+            "Max Reach Along Ground": "20.8 ft (6 m)",
+            "Max Vertical Wall Dig Depth": "7.2 ft (2 m)",
+            "Shipping Height of Unit": "13 ft (4 m)",
+            "Shipping Length of Unit": "19.3 ft (6 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.4 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.4 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Overall Width": "7.3 in (18 cm)",
+            "Tail Swing Radius": "4.9 ft (1 m)",
+            "Upper Structure Clearance": "3.5 ft (1 m)",
+            "Wheelbase": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "202.5 cu in (0 m)",
+            "Engine Model": "4D98E",
+            "Net Power": "68.4 hp (51 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Hydraulic Pump Flow Capacity": "60 gal/min (227 l/min)",
+            "Hydraulic System Fluid Capacity": "18.5 gal (68 l)",
+            "Hydraulic System Relief Valve Pressure": "5910 psi",
+            "Operating Weight": "16534.7 lbs (7,500 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.2 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "18.7 mph (29 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2"
+        }
+    }
+}

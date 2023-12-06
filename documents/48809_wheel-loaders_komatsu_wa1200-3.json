@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa1200-3/48809",
+    "source_url_id": "48809",
+    "source_url_model": "wa1200-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:06.267238",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA1200-3",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "286600 lbs (130,001 kg)",
+            "Bucket Capacity - heaped": "26.2 cu yds (20 m)",
+            "Bucket Capacity - struck": "22.5 cu yds (17 m)",
+            "Bucket Width": "21 ft (6 m)",
+            "Dump Clearance at Max Raise": "20.7 ft (6 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "22.5 ft (7 m)",
+            "Hinge Pin - Max Height": "29 ft (9 m)",
+            "Length with Bucket on Ground": "59.8 ft (18 m)",
+            "Reach at Max Lift and Dump": "9.8 ft (3 m)",
+            "Wheelbase": "23.3 ft (7 m)",
+            "Width Over Tires": "18.8 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and Aftercooled",
+            "Displacement": "3674 cu in (0 m)",
+            "Engine Model": "QSK60",
+            "Gross Power": "1715 hp (1,279 kw)",
+            "Model": "SDA16V160",
+            "Net Power": "1560 hp (1,163 kw)",
+            "Number of Cylinders": "16",
+            "Power Measured @": "1900 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "3 sec",
+            "Lower Time": "5 sec",
+            "Pump Flow Capacity": "276 gal/min (1,045 l/min)",
+            "Raise Time": "13.5 sec",
+            "Relief Valve Setting": "4550 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Cooling System Fluid Capacity": "132.1 gal (500 l)",
+            "Engine Oil Fluid Capacity": "68.7 gal (257 l)",
+            "Front Axle/Diff Fluid Capacity": "177 gal (670 l)",
+            "Fuel Capacity": "1347.3 gal (5,098 l)",
+            "Hydraulic System Fluid Capacity": "317.1 gal (1,200 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "452390 lbs (205,203 kg)",
+            "Rated Bucket Capacity": "23.5 - 26.20 cu yds (18 - 20 m)",
+            "Rear Axle Oscillation": "20  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "177 gal (670 l)",
+            "Static Tipping Weight": "264100 lbs (119,795 kg)",
+            "Tire Size": "55.5/80-57",
+            "Transmission Fluid Capacity": "92.5 gal (348 l)",
+            "Turning Radius": "47.1 ft (14 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.4 mph (19 kph)",
+            "Max Speed - Reverse": "14.1 mph (23 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power shift"
+        },
+        "Weights": {
+            "Operational Weight": "452390 lbs (205,203 kg)"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d3g/4400",
+    "source_url_id": "4400",
+    "source_url_model": "d3g",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:02.694855",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D3G",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length of Track on Ground": "10.2 ft (3 m)",
+            "Length w/ Blade": "13.2 ft (4 m)",
+            "Length w/o Blade": "10.2 ft (3 m)",
+            "Width Over Tracks": "6.1 ft in (15 cm)"
+        },
+        "Engine": {
+            "Bore": "3.7 in (8 cm)",
+            "Displacement": "305 cu in (0 m)",
+            "Engine Model": "Cat 3046T",
+            "Gross Power": "77 hp (57 kw)",
+            "Net Power": "70 hp (52 kw)",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.7 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "2900 gal/min (10,977 l/min)",
+            "Relief Valve Pressure": "8.9 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5.5 gal (19 l)",
+            "Engine Oil Capacity": "3.4 gal (11 l)",
+            "Final Drives Fluid Capacity": "3.6 gal (11 l)",
+            "Fuel Capacity": "43.6 gal (163 l)",
+            "Hydraulic Fluid Capacity": "12 gal (45 l)",
+            "Operating Weight": "16227 lbs (7,361 kg)"
+        },
+        "Ripper": {
+            "Ripper Type": "Parallelogram"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "5.5 gal (19 l)",
+            "Fuel Tank": "43.6 gal (163 l)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "1.9 cu yds (1 m)",
+            "Height": "36.9 in (91 cm)",
+            "Width": "8.1 ft (2 m)"
+        },
+        "Standards": {
+            "FOPS": "SAE J231-JAN81, ISO 3449-92",
+            "ROPS": "SAE J397-OCT95, SAE J1040-MAY94, ISO 3471-94, ISO 3164-95"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.6 mph (8 kph)",
+            "Max Speed - Reverse": "6 mph (10 kph)",
+            "Number of Forward Gears": "1",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "dual path, closed loop hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2586 cu in (0 m)",
+            "Ground Pressure": "6.3 psi",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "16 in (41 cm)",
+            "Track Gauge": "4.8 ft (1 m)"
+        },
+        "Winch": {
+            "Drum Diameter": "10 in (25 cm)",
+            "Drum Width": "10.8 in (25 cm)",
+            "Weight": "1345 lbs (610 kg)"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/liebherr/lr614/30239691",
+    "source_url_id": "30239691",
+    "source_url_model": "lr614",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:52:02.347010",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LR614",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "8.6 ft (2 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Length to Front of Track": "12.7 ft (4 m)",
+            "Length with Bucket on Ground": "18.8 ft (5 m)",
+            "Reach at Dump Height": "3.1 ft (1 m)",
+            "Width to Outside of Tracks": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "274.7 cu in (0 m)",
+            "Engine Model": "4045HF289",
+            "Net Power": "97 hp (72 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.9 sec",
+            "Lower Time": "3.1 sec",
+            "Pump Flow Capacity": "30.4 gal/min (114 l/min)",
+            "Pump Type": "gear",
+            "Raise Time": "6.4 sec",
+            "Relief Valve Pressure": "3335 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Bucket Capacity - struck": "1.8 cu yds (1 m)",
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Engine Oil Capacity": "3.2 gal (11 l)",
+            "Final Drive Fluid Capacity - each": "2.4 gal (8 l)",
+            "Fuel Capacity": "55.5 gal (208 l)",
+            "Hydraulic System Fluid Capacity": "43.1 gal (163 l)",
+            "Max Speed": "5.9 mph (8 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "24647.7 lbs (11,180 kg)",
+            "Static Tipping Load": "16175.4 lbs (7,337 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8 psi",
+            "Length of Track on Ground": "7.2 ft (2 m)",
+            "Number of Shoes per Side": "38",
+            "Number of Track Rollers per Side": "6",
+            "Track Gauge": "63 in (160 cm)",
+            "Track Shoe Width": "18 in (46 cm)"
+        }
+    }
+}

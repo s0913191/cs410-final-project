@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/new-holland/e160/26598",
+    "source_url_id": "26598",
+    "source_url_model": "e160",
+    "source_url_make": "new-holland",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:16:51.912062",
+    "equipment_category": "Excavators",
+    "equipment_make": "New Holland",
+    "equipment_model": "E160",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "31.6 ft (9 m)",
+            "Max Digging Depth": "21.6 ft (6 m)",
+            "Max Loading Height": "19.8 ft (6 m)",
+            "Max Reach Along Ground": "30.6 ft (9 m)",
+            "Shipping Height of Unit": "9.8 ft (3 m)",
+            "Shipping Length of Unit": "28.5 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "30.2 ft (9 m)",
+            "Max Digging Depth": "20 ft (6 m)",
+            "Max Loading Height": "17 ft (5 m)",
+            "Max Reach Along Ground": "29 ft (9 m)",
+            "Shipping Height of Unit": "9.2 ft (3 m)",
+            "Shipping Length of Unit": "28.2 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.4 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.2 ft (0 m)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Length of Track on Ground": "10.8 ft (3 m)",
+            "Removal Counterweight Clearance": "3.5 ft (1 m)",
+            "Tail Swing Radius": "8.2 ft (2 m)",
+            "Width to Outside of Tracks": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "4D34-TEG",
+            "Net Power": "112 hp (84 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "35 A",
+            "Cooling System Fluid Capacity": "5 gal (19 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "74.2 gal (280 l)",
+            "Hydraulic Pump Flow Capacity": "80.8 gal/min (303 l/min)",
+            "Hydraulic System Fluid Capacity": "42 gal (159 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "36800 lbs (16,692 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "35100 lbs (15,921 kg)",
+            "Ground Pressure": "5.6 psi",
+            "Max Travel Speed": "3.7 mph (5 kph)",
+            "Shoe Size": "23.6 in (58 cm)",
+            "Track Gauge": "0.1 ft (0 m)"
+        }
+    }
+}

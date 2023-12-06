@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combination-rollers/hamm/hd-13-vt/30803553",
+    "source_url_id": "30803553",
+    "source_url_model": "hd-13-vt",
+    "source_url_make": "hamm",
+    "source_url_category": "combination-rollers",
+    "source_date_scraped": "2023-09-13 17:39:06.920955",
+    "equipment_category": "Combination Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 13 VT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "28.4 in (71 cm)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "8.5 ft (2 m)",
+            "Overall Length": "114.1 in (290 cm)",
+            "Overall Width": "4.7 ft (1 m)",
+            "Turning Radius - Inside": "106 in (269 cm)",
+            "Wheelbase": "76.8 in (193 cm)",
+            "Width over tyres": "50.3 in (127 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "14387.8 lbs (6,526 kg)",
+            "Centrifugal Force - Low": "8767.6 lbs (3,977 kg)",
+            "Drum Diameter": "35.5 in (89 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "51 in (130 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "86.8 lbs/in",
+            "Vibration Frequency": "51/60 hz (3,060 vpm)",
+            "Vibration Frequency 1": "60 hz (3,600 vpm)",
+            "Vibration Frequency 2": "51 hz (3,060 vpm)"
+        },
+        "Engine": {
+            "Emission Tier Level": "EU Stage IIIA",
+            "Engine Make": "KUBOTA",
+            "Engine Model": "D1503",
+            "Gross Power": "46.4 hp (34 kw)",
+            "Make": "Kubota",
+            "Net Power": "46.4 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.3 gal (72 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Weight": "10560.2 lbs (4,790 kg)",
+            "Operating weight ROPS": "8432.7 lbs (3,825 kg)",
+            "Operating Width": "56 in (142 cm)",
+            "Oscillating angle": "8  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "75.3 gal (284 l)"
+        },
+        "Tires": {
+            "Tires": "10.5/80-16"
+        }
+    }
+}

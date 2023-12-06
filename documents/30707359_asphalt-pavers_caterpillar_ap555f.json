@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/ap555f/30707359",
+    "source_url_id": "30707359",
+    "source_url_model": "ap555f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:00.449548",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "AP555F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "\u00c2\u00a0219 lbs (0 kg)",
+            "Paving Speed": "210 ft/min",
+            "Paving Width - max": "8.3 - 24.60 ft (2 - 7 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "30430 lbs (13,803 kg)"
+        }
+    }
+}

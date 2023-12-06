@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skip-loaders/case/580c/2493",
+    "source_url_id": "2493",
+    "source_url_model": "580c",
+    "source_url_make": "case",
+    "source_url_category": "skip-loaders",
+    "source_date_scraped": "2023-09-13 16:40:59.502845",
+    "equipment_category": "Skip Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "580C",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14 ft (4 m)",
+            "Dig Depth - Extended": "18 ft (5 m)",
+            "Reach From Swivel": "17.8 ft (5 m)",
+            "Reach From Swivel - Extended": "21.8 ft (6 m)"
+        },
+        "Dimensions": {
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "207.5 cu in (0 m)",
+            "Engine Make": "J.I. Case",
+            "Engine Model": "G207D",
+            "Gross Power": "57 hp (43 kw)",
+            "Net Power": "50 hp (37 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26 gal/min (98 l/min)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "7200 lbs (3,266 kg)",
+            "Clearance at Max Dump Height": "8.6 ft (2 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "Mechanical shuttle"
+        }
+    }
+}

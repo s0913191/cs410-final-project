@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc1100c-vi/30754173",
+    "source_url_id": "30754173",
+    "source_url_model": "cc1100c-vi",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:12.005214",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC1100C VI",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Failsafe multidisc brake on drum and wheels",
+            "Service brake": "Hydrostatic in forward and reverse lever"
+        },
+        "Dimensions": {
+            "Curb clearance": "22 in (56 cm)",
+            "Gradeability": "71%",
+            "Ground Clearance": "7 in (18 cm)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Overall Length": "94 in (239 cm)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Overhang Front": "0.3 ft (0 m)",
+            "Overhang Rear": "0.3 ft (0 m)",
+            "Turning Radius - Inside": "9 ft (3 m)",
+            "Turning Radius - Outside": "12 ft (4 m)",
+            "Wheelbase": "67 in (170 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "6519.5 lbs (2,957 kg)",
+            "Centrifugal Force - Low": "5620.3 lbs (2,549 kg)",
+            "Drum Diameter": "28 in (71 cm)",
+            "Drum thickness": "0.5 in (0 cm)",
+            "Drum Width": "42 in (107 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "60 lbs/in",
+            "Vibration Frequency 1": "66 hz (3,960 vpm)",
+            "Vibration Frequency 2": "61 hz (3,660 vpm)"
+        },
+        "Engine": {
+            "Emissions Certification": "Tier 4i",
+            "Engine Make": "Kubota",
+            "Engine Model": "D1703-M IIIA",
+            "Engine Type": "Water cooled",
+            "Gross Power": "35 hp (26 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "5.3 gal (19 l)",
+            "Fuel Capacity": "12 gal (45 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Weight": "6600 lbs (2,994 kg)",
+            "Operating weight ROPS": "4900 lbs (2,223 kg)",
+            "Oscillating angle": "10  \t\u00b0",
+            "Steering Angle": "30  \t\u00b0",
+            "Water Spray System Fluid Capacity": "49 gal (185 l)"
+        }
+    }
+}

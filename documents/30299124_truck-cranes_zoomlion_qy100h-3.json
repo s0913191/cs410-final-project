@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/zoomlion/qy100h-3/30299124",
+    "source_url_id": "30299124",
+    "source_url_model": "qy100h-3",
+    "source_url_make": "zoomlion",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:23.679755",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Zoomlion",
+    "equipment_model": "QY100H-3",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "167 ft (51 m)",
+            "Max Lift Capacity": "220462.3 lbs (100,001 kg)",
+            "Min Height @ Max Raise Angle": "45.7 ft (14 m)"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "523 hp (390 kw)",
+            "Max Torque": "1770.2 lbs/ft",
+            "Model": "OM502LA",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1080 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "40.3 ft (12 m)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Transport Height": "12.9 ft (4 m)",
+            "Transport Length": "50.2 ft (15 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "15.2 ft (5 m)",
+            "Width w/ Outriggers Extended": "25.6 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "119049.7 lbs (54,000 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "201.2 hp (150 kw)",
+            "Make": "Zoomlion",
+            "Max Torque": "553.2 lbs/ft",
+            "Model": "OM906LA.E2/5",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        }
+    }
+}

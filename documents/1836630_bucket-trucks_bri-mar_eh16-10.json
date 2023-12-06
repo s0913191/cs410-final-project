@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/bucket-trucks/bri-mar/eh16-10/1836630",
+    "source_url_id": "1836630",
+    "source_url_model": "eh16-10",
+    "source_url_make": "bri-mar",
+    "source_url_category": "bucket-trucks",
+    "source_date_scraped": "2023-09-13 17:56:15.384509",
+    "equipment_category": "Bucket Trucks",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "EH16-10",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x16 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "2495 lbs (1,132 kg)",
+            "Weight Capacity": "7505 lbs (3,404 kg)"
+        }
+    }
+}

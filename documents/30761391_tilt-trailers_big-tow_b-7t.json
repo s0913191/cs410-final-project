@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/big-tow/b-7t/30761391",
+    "source_url_id": "30761391",
+    "source_url_model": "b-7t",
+    "source_url_make": "big-tow",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:37.163513",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Big Tow",
+    "equipment_model": "B-7T",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x16 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "TORFLEX"
+        },
+        "Weights": {
+            "Equipment Weight": "4160 lbs (1,887 kg)",
+            "Weight Capacity": "14000 lbs (6,350 kg)"
+        }
+    }
+}

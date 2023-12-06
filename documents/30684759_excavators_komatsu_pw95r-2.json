@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pw95r-2/30684759",
+    "source_url_id": "30684759",
+    "source_url_model": "pw95r-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:47.651774",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PW95R-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.5 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.4 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Overall Width": "7.6 in (18 cm)",
+            "Tail Swing Radius": "5.2 ft (2 m)",
+            "Upper Structure Clearance": "3.7 ft (1 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "269.3 cu in (0 m)",
+            "Engine Model": "4D106-1FB",
+            "Net Power": "82.5 hp (61 kw)",
+            "Net Torque": "228.7 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Hydraulic Pump Flow Capacity": "47.6 gal/min (178 l/min)",
+            "Hydraulic Pump Type": "variable displacement axial piston",
+            "Hydraulic System Relief Valve Pressure": "3988.6 psi",
+            "Operating Voltage": "12 V",
+            "Operating Weight": "22266.7 lbs (10,100 kg)",
+            "Tire Size": "8.25-20"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "19.3 mph (31 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

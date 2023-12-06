@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d31ex-22/22556",
+    "source_url_id": "22556",
+    "source_url_model": "d31ex-22",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:12.733111",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D31EX-22",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Track Gauge": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, air-to-air aftercooled",
+            "Bore": "3.8 in (8 cm)",
+            "Displacement": "199 cu in (0 m)",
+            "Engine Model": "SAA4D95LE-5",
+            "Gross Power": "80 hp (60 kw)",
+            "Make": "Komatsu",
+            "Model": "SAA4D95LE-5",
+            "Net Power": "78 hp (58 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.6 in (10 cm)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18056 lbs (8,190 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.3 mph (8 kph)",
+            "Max Speed - Reverse": "5.3 mph (8 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "dual-path, hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2713 cu in (0 m)",
+            "Ground Pressure": "6.7 psi",
+            "Standard Shoe Size": "15.8 in (38 cm)",
+            "Track Gauge": "5 ft (2 m)"
+        },
+        "Weights": {
+            "Ripper weight": "1267.7 lbs (575 kg)"
+        }
+    }
+}

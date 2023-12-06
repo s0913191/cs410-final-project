@@ -1,0 +1,76 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/903c/48738",
+    "source_url_id": "48738",
+    "source_url_model": "903c",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:01.655622",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "903C",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "5171 lbs (2,346 kg)",
+            "Bucket Capacities": "1.3 cu yds (1 m)",
+            "Bucket Width": "5.8 ft (2 m)",
+            "Dump Clearance at Max Raise": "2.9 ft (1 m)"
+        },
+        "Cab": {
+            "FOPS": "ISO 3449:2000 Level I",
+            "ROPS": "ISO 3471:2008"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Hinge Pin - Max Height": "10.6 ft (3 m)",
+            "Length with Bucket on Ground": "15.9 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.9 ft (1 m)",
+            "Wheelbase": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "3.4 in (8 cm)",
+            "Displacement": "147 cu in (0 m)",
+            "Engine Model": "Cat C2.4*",
+            "Gross Power": "42 hp (31 kw)",
+            "Net Power": "40 hp (30 kw)",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "0.8 sec",
+            "Hydraulic Cycle Time - Dump": "0.8 sec",
+            "Hydraulic Cycle Time - Lift": "4.7 sec",
+            "Hydraulic Cycle Time - Lower, Float": "3.1 sec",
+            "Lower Time": "3.1 sec",
+            "Main Relief": "2988 psi",
+            "Pump Flow Capacity": "14 gal/min (53 l/min)",
+            "Raise Time": "4.7 sec",
+            "Relief Valve Setting": "2988 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Breakout Force": "5171 lbs (2,346 kg)",
+            "Cooling System Fluid Capacity": "3 gal (11 l)",
+            "Engine Oil Fluid Capacity": "2.4 gal (8 l)",
+            "Fuel Capacity": "11.4 gal (42 l)",
+            "Hydraulic System Fluid Capacity": "6.3 gal (23 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9150 lbs (4,150 kg)",
+            "Rated Bucket Capacity": "0.8 cu yds (0 m)",
+            "Static Tipping Weight": "3900 lbs (1,769 kg)",
+            "Tire Size": "15.5-16.5"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "3 gal (11 l)",
+            "Engine Oil": "2.4 gal (8 l)",
+            "Fuel Tank": "11.4 gal (42 l)",
+            "Hydraulic System": "6.3 gal (23 l)"
+        },
+        "Transmission": {
+            "Travel Speed": "10 mph (16 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "9150 lbs (4,150 kg)"
+        }
+    }
+}

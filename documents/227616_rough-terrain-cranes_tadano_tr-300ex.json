@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/tadano/tr-300ex/227616",
+    "source_url_id": "227616",
+    "source_url_model": "tr-300ex",
+    "source_url_make": "tadano",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:59.728742",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "TR-300EX",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "93.9 ft (28 m)",
+            "Max Lift Capacity": "66138.7 lbs (30,000 kg)",
+            "Min Height @ Max Raise Angle": "29.9 ft (9 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "3 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "29855.7 ft (9,100 m)",
+            "Transport Height": "11.6 ft (3 m)",
+            "Transport Length": "36.1 ft (11 m)",
+            "Transport Width": "8.6 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11 ft (3 m)",
+            "Wheelbase": "135.9 in (343 cm)",
+            "Width w/ Outriggers Extended": "20.7 ft (6 m)"
+        },
+        "Engine": {
+            "Bore": "4.7 in (10 cm)",
+            "Displacement": "460.5 cu in (0 m)",
+            "Engine Make": "Mitsubishi",
+            "Engine Model": "6D16T",
+            "Engine Type": "Direct Injection Diesel",
+            "Gross Power": "212.1 hp (158 kw)",
+            "Max Torque": "470.2 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2800 rpm",
+            "Stroke": "4.6 in (10 cm)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "108.4 gal (409 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "59745.3 lbs (27,100 kg)",
+            "Tire Size": "16.00 x 25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "31.1 mph (50 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Full powershift"
+        }
+    }
+}

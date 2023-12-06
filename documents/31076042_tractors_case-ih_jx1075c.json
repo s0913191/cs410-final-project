@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/jx1075c/31076042",
+    "source_url_id": "31076042",
+    "source_url_model": "jx1075c",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:38.226912",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "JX1075C",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "75 hp (56 kw)"
+        },
+        "Production": {
+            "Series": "JXC Series",
+            "Years Manufactured": "2004 - 2008"
+        }
+    }
+}

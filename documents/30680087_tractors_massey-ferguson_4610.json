@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/4610/30680087",
+    "source_url_id": "30680087",
+    "source_url_model": "4610",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:50.090336",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "4610",
+    "equipment_spec": {
+        "3-Point Hitch": {
+            "Category": "Category I and  II",
+            "Extendable lower links": "Extendable ball ends",
+            "Lift capacity @ 24in. (ASAE)": "3417.2 lbs (1,550 kg)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Overall Length": "152.6 in (386 cm)",
+            "Overall Width": "6.6 ft (2 m)",
+            "Wheelbase": "7.4 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "95",
+            "Battery": "12 V"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Make": "AGCO Power",
+            "Engine Model": "33 AWIC",
+            "Gross Power": "99 hp (74 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "80 hp (60 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Open Center system",
+            "Number of Remote Control Valves": "1 or 2 standard",
+            "Pump Flow Capacity": "23.7 gal/min (87 l/min)",
+            "Pump Type": "Gear type single pump"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "27 gal (102 l)"
+        },
+        "Power Take-Off (PTO)": {
+            "Optional": "Independent",
+            "Power Take-Off(PTO) Type": "Electronically engaged",
+            "PTO speed": "540 rpm",
+            "PTO Speeds @ Engine rpm": "1000"
+        },
+        "Production": {
+            "Series": "4600 Series",
+            "Years Manufactured": "2013 - 2015"
+        },
+        "Transmission": {
+            "Transmission Type": "12F x 12R Power shuttle"
+        },
+        "Weights": {
+            "Weight (shipping, 4WD, cab, flange axle)": "6944.6 lbs (3,150 kg)",
+            "Weight 4WD With ROPS": "6503.7 lbs (2,950 kg)"
+        }
+    }
+}

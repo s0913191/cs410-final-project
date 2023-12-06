@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d9t-iv/30760594",
+    "source_url_id": "30760594",
+    "source_url_model": "d9t-iv",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:44.980512",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D9T IV",
+    "equipment_spec": {
+        "Engine": {
+            "Model": "18 ACERT",
+            "Net Power": "436 hp (325 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "95917 lbs (43,508 kg)"
+        }
+    }
+}

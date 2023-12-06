@@ -1,0 +1,81 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/terex/tlb-840/30729",
+    "source_url_id": "30729",
+    "source_url_model": "tlb-840",
+    "source_url_make": "terex",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:35.011635",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TLB 840",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth - Extended": "17.7 ft (5 m)",
+            "Load Height": "7.5 ft (2 m)",
+            "Loading Height": "11.7 ft (3 m)",
+            "Max Digging Depth": "14.9 ft (4 m)",
+            "Reach at Load Height - Extended": "10.3 ft (3 m)",
+            "Reach From Swivel": "18.8 ft (5 m)",
+            "Reach From Swivel - Extended": "21.9 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height to Top of Suspended Cab": "9 ft (3 m)",
+            "Transport Length": "19.7 ft (6 m)",
+            "Transport Width": "7.6 ft (2 m)",
+            "Wheelbase": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Make": "Deutz",
+            "Gross Power": "93.8 hp (69 kw)",
+            "Net Max Torque": "295 lbs/ft",
+            "Net Power": "88.1 hp (66 kw)",
+            "Net Torque Rise": "0.32",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21 gal/min (79 l/min)",
+            "Relief Valve Pressure": "3625 psi"
+        },
+        "Loader": {
+            "Breakout Force": "10,485 lbs (4,756 kg)",
+            "Bucket Breakout Force": "10485 lbs (4,756 kg)",
+            "Bucket Capacity": "0.2 cu yds (0 m)",
+            "Bucket Width": "12.1 in (30 cm)",
+            "Clearance at Max Dump Height": "9.4 ft (3 m)",
+            "Dig Depth": "6.2 in (15 cm)",
+            "Lift Capacity": "7,291 lbs (3,307 kg)",
+            "Reach at Max Dump Height": "2.4 ft (1 m)",
+            "SAE - Net": "94 hp (70 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "120  A",
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Front Axle Fluid Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "30.8 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "24.4 gal (91 l)",
+            "Max Weight": "18106 lbs (8,213 kg)",
+            "Oil System Fluid Capacity": "2.3 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15895 lbs (7,210 kg)",
+            "Rear Axle Fluid Capacity": "4.1 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "12.5 x 18",
+            "Transmission Fluid Capacity": "4 gal (15 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5 x 24"
+        },
+        "Transmission": {
+            "Max Speed": "25.2 mph (40 kph)",
+            "Max Speed - Reverse": "25.1 mph (40 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        },
+        "Travel Speed": {
+            "4th Gear Fwd": "25.6 mph (40 kph)"
+        }
+    }
+}

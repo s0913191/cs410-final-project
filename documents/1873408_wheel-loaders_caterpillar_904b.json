@@ -1,0 +1,115 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/904b/1873408",
+    "source_url_id": "1873408",
+    "source_url_model": "904b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:03.608284",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "904B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "8003 lbs (3,630 kg)",
+            "Breakout Force - Reference Bucket": "8003 lbs (3,630 kg)",
+            "Bucket Capacity - heaped": "0.8 cu yds (0 m)",
+            "Bucket Width": "5.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "7.8 ft (2 m)",
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)",
+            "Type - Reference bucket": "General purpose"
+        },
+        "Cab": {
+            "FOPS": "meets the following criteria: SAEJ1231 JAN81, ISO3449:1992",
+            "ROPS": "meets the following criteria: SAEJ1040 MAY94, ISO 3471-1:1986"
+        },
+        "Dimensions": {
+            "Dump Clearance at Max Lift": "7.9 ft (2 m)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Hinge Pin - Max Height": "10.3 ft (3 m)",
+            "Length w/ Bucket on Ground": "15.6 ft (5 m)",
+            "Length with  out Forks on Ground": "17.5 ft (5 m)",
+            "Length with Bucket on Ground": "17.5 ft (5 m)",
+            "Max Lift Height": "10.1 ft (3 m)",
+            "Reach at Max Height and Dump": "2.2 ft (1 m)",
+            "Reach at Max Lift and Dump": "2.2 ft (1 m)",
+            "Tread Width": "52.4 in (132 cm)",
+            "Wheelbase": "6.3 ft (2 m)",
+            "Width Over Tires": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Bore": "3.5 in (8 cm)",
+            "EEC 80/1269 Rating": "52 hp (39 kw)",
+            "Engine Model": "S4Q2 Turbo",
+            "Gross Power": "55 hp (41 kw)",
+            "ISO 9249 Rating": "52 hp (39 kw)",
+            "Net Power": "52 hp (39 kw)",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "3rd Valve Flow": "22 gal/min (83 l/min)",
+            "Dump Time": "0.8 sec",
+            "Lower Time": "3.2 sec",
+            "Main Relief": "3002 psi",
+            "Pump Flow Capacity": "22 gal/min (83 l/min)",
+            "Raise Time": "4.5 sec",
+            "Relief Valve Setting": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Articulation": "42  \t\u00b0",
+            "Breakout Force": "8003 lbs (3,630 kg)",
+            "Cooling System Fluid Capacity": "2.2 gal (8 l)",
+            "Dump Height at Full Lift": "7.8 ft in (18 cm)",
+            "Engine Oil Capacity": "2 gal (8 l)",
+            "Engine Oil Fluid Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "22 gal (83 l)",
+            "Full Turn Static Tipping Load - Bucket": "5511 lbs (2,500 kg)",
+            "Full Turn Static Tipping Load - Forks": "4409 lb",
+            "Hydraulic Lift Capacity": "7464 lbs (3,386 kg)",
+            "Hydraulic System Fluid Capacity": "11.4 gal (42 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9810.6 lbs (4,450 kg)",
+            "Oscillation +/-": "8  \t\u00b0",
+            "Rack Back - Transport Position": "45  \t\u00b0",
+            "Rated Bucket Capacity": "0.8 cu yds (0 m)",
+            "Rated Operating Load at Full Turn - Bucket": "2756 lbs (1,250 kg)",
+            "Rated Operating Load at Full Turn - Forks": "3527 lb",
+            "Reach - Without Teeth": "2.2 ft (1 m)",
+            "Rear Axle Oscillation": "8  \t\u00b0",
+            "Static Tipping Load - Bucket": "6568 lbs (2,979 kg)",
+            "Static Tipping Weight": "6568 lbs (2,979 kg)",
+            "Straight Tipping Load - Bucket": "6568 lbs (2,979 kg)",
+            "Tire Size": "12x16.5",
+            "Transmission Fluid Capacity": "2 gal (8 l)",
+            "Turning Radius": "12.7 ft (4 m)"
+        },
+        "Power Train, Axles and Brakes": {
+            "Axle and Final Drives": "Fixed front axle and oscillating rear axle with conventional differential and planetary gear reduction final drives",
+            "Brake Standards": "Brake meets ISO 3450:1996",
+            "Maximum Travel Speeds - Forward and Reverse, High": "12 mph (19 kph)",
+            "Maximum Travel Speeds - With 12.5-18 Tires, Forward and Reverse, Low": "4 mph (6 kph)",
+            "Service and Parking Brake": "Service and Parking brake are combined in an oil immersed drop box",
+            "Transmission Type": "Closed-loop, two-speed hydrostatic single-path transmission."
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "2 gal (8 l)",
+            "Engine Oil": "2 gal (8 l)",
+            "Fuel Tank": "22 gal (83 l)",
+            "Hydraulic System": "11 gal (42 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12 mph (19 kph)",
+            "Max Speed - Reverse": "12 mph (19 kph)",
+            "Max Speed Forward": "12.5 mph (19 kph)",
+            "Max Speed Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "2speed hydrostatic single path transmission"
+        },
+        "Weights": {
+            "Operating Weight": "9810 lbs (4,450 kg)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/terex/cr352l/30761034",
+    "source_url_id": "30761034",
+    "source_url_model": "cr352l",
+    "source_url_make": "terex",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:37.551249",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Terex",
+    "equipment_model": "CR352L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "10.0 lbs (5 kg)",
+            "Paving Speed": "400 ft/min",
+            "Paving Width - max": "20 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "31870 lbs (14,456 kg)"
+        }
+    }
+}

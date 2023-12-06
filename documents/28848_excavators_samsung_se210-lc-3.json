@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/samsung/se210-lc-3/28848",
+    "source_url_id": "28848",
+    "source_url_model": "se210-lc-3",
+    "source_url_make": "samsung",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:18:13.310586",
+    "equipment_category": "Excavators",
+    "equipment_make": "Samsung",
+    "equipment_model": "SE210 LC-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "43.7 ft (13 m)",
+            "Max Digging Depth": "39.7 ft (12 m)",
+            "Max Loading Height": "36 ft (11 m)",
+            "Max Reach Along Ground": "51.6 ft (16 m)",
+            "Shipping Height of Unit": "10.4 ft (3 m)",
+            "Shipping Length of Unit": "42.1 ft (13 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.7 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Length of Track on Ground": "12.1 ft (4 m)",
+            "Removal Counterweight Clearance": "3.4 ft (1 m)",
+            "Tail Swing Radius": "9.4 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "B5.9-C",
+            "Max Torque": "456 lbs/ft",
+            "Net Power": "143 hp (107 kw)",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "92.5 gal (348 l)",
+            "Hydraulic Pump Flow Capacity": "105.7 gal/min (397 l/min)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Weight": "49736.3 lbs (22,560 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.6 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3.4 mph (5 kph)",
+            "Shoe Size": "31.5 in (79 cm)",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

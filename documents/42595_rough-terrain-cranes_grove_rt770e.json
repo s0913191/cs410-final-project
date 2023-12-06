@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt770e/42595",
+    "source_url_id": "42595",
+    "source_url_model": "rt770e",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:37.044148",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT770E",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "138 ft (42 m)",
+            "Max Lift Capacity": "14365 lbs (6,516 kg)",
+            "Max Operating Radius": "180 ft (55 m)",
+            "Min Height @ Max Raise Angle": "36 ft (11 m)",
+            "Min Operating Radius": "20 ft (6 m)",
+            "Number of Sections": "4"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "11259.9 ft (3,432 m)",
+            "Ground Clearance": "6.9 ft (2 m)",
+            "Transport Height": "18.3 ft (5 m)",
+            "Transport Length": "26.4 ft (8 m)",
+            "Transport Width": "12 ft (4 m)",
+            "Upper Structure Tail Swing Radius": "44.7 ft (13 m)",
+            "Wheelbase": "160 in (406 cm)",
+            "Width w/ Outriggers Extended": "17.4 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo-charged",
+            "Cylinders": "6",
+            "Displacement": "427.2 cu in (0 m)",
+            "Emissions Certification": "Tier 4F",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB6",
+            "Gross Power": "240.1 hp (179 kw)",
+            "Max Torque": "728 lbs/ft",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Max operating pressure": "4000 psi"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "12 V V",
+            "Tire Size": "23.5 x 25 \u00c3\u00a2\u00e2?\u00ac\u00e2?? 24 Bias ply rating"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "2.5 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "37 mph (60 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Rangeshift"
+        },
+        "Weights": {
+            "counterweight": "14365.4 lbs (6,516 kg)"
+        }
+    }
+}

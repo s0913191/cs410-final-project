@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/case/dv210c/30094361",
+    "source_url_id": "30094361",
+    "source_url_model": "dv210c",
+    "source_url_make": "case",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:30.894628",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Case",
+    "equipment_model": "DV210C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "215 in (546 cm)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Vibration Frequency": "42 - 67 hz (2,520 - 4,020 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz TCD 3.6 L4"
+        },
+        "Operating Specifications": {
+            "Operating Width": "71 in (180 cm)"
+        }
+    }
+}

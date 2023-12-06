@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/hd785-7/30761123",
+    "source_url_id": "30761123",
+    "source_url_model": "hd785-7",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:43.851502",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "HD785-7",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "RWD"
+        },
+        "Dump": {
+            "Rated Payload": "100.3 t (90,719 kg)"
+        },
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA12V140E-3"
+        },
+        "Weights": {
+            "Operating Weight": "360253 lbs (163,410 kg)"
+        }
+    }
+}

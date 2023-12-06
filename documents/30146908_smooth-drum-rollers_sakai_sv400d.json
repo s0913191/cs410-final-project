@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/sv400d/30146908",
+    "source_url_id": "30146908",
+    "source_url_model": "sv400d",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:37.448012",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV400D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.5 in (30 cm)",
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Overall Length": "16 in (41 cm)",
+            "Overall Width": "6.2 ft (2 m)",
+            "Wheelbase": "8.5 in (20 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "26527.5 lbs (12,033 kg)",
+            "Centrifugal Force - Low": "20907.3 lbs (9,483 kg)",
+            "Drum Diameter": "51.2 in (130 cm)",
+            "Drum Width": "67 in (170 cm)",
+            "Vibration Frequency 1": "40 hz (2,400 vpm)",
+            "Vibration Frequency 2": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Displacement": "264.2 cu in (0 m)",
+            "Engine Model": "A-4BG1",
+            "Gross Power": "81.9 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Hydraulic System Fluid Capacity": "13.3 gal (49 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "15873.3 lbs (7,200 kg)"
+        },
+        "Tires": {
+            "Tires": "16.9-24-10PR (OR)"
+        }
+    }
+}

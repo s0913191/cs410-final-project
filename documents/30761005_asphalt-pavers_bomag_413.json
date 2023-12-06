@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/bomag/413/30761005",
+    "source_url_id": "30761005",
+    "source_url_model": "413",
+    "source_url_make": "bomag",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:51.733585",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Bomag",
+    "equipment_model": "413",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "4 - 13 ft (1 - 4 m)"
+        },
+        "Engine": {
+            "Make": "Honda"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "3 lbs (1 kg)",
+            "Paving Width - max": "4 - 13 ft (1 - 4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "4250 lbs (1,928 kg)"
+        }
+    }
+}

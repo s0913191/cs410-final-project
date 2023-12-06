@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/changlin/zl50h/30755270",
+    "source_url_id": "30755270",
+    "source_url_model": "zl50h",
+    "source_url_make": "changlin",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:21.846405",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Changlin",
+    "equipment_model": "ZL50H",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "35969.5 lbs (16,315 kg)",
+            "Bucket Capacity - heaped": "4 cu yds (3 m)",
+            "Dump Clearance at Max Raise": "10.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Length with Bucket on Ground": "27 ft (8 m)",
+            "Reach at Max Lift and Dump": "4 ft (1 m)",
+            "Wheelbase": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "6CT8.3",
+            "Net Power": "205.2 hp (153 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Operating Weight": "35935.4 lbs (16,300 kg)",
+            "Tire Size": "23.5-25-16PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.8 mph (34 kph)",
+            "Max Speed - Reverse": "23.7 mph (37 kph)",
+            "Transmission Type": "torque converter"
+        }
+    }
+}

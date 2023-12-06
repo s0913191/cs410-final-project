@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/dv-plus-90i-vt-s/30754080",
+    "source_url_id": "30754080",
+    "source_url_model": "dv-plus-90i-vt-s",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:48.461091",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "DV PLUS 90i VT-S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "26.2 in (66 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Maximum width": "10006.6 ft (3,050 m)",
+            "Overall Length": "174.9 in (442 cm)",
+            "Overall Width": "6.2 ft (2 m)",
+            "Turning Radius - Inside": "9.9 ft (3 m)",
+            "Wheelbase": "128 in (325 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "18884 lbs (8,566 kg)",
+            "Centrifugal Force - Low": "17535.1 lbs (7,954 kg)",
+            "Drum Diameter": "47.3 in (119 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Type": "Smooth/divided",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "161.9 lbs/in",
+            "Vibration Frequency 1": "42 hz (2,520 vpm)",
+            "Vibration Frequency 2": "50 hz (3,000 vpm)"
+        },
+        "Engine": {
+            "Emissions Certification": "EPA Tier 4",
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 3.6 L4",
+            "Gross Power": "99.8 hp (74 kw)",
+            "Net Power": "99.8 hp (74 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "42.3 gal (159 l)",
+            "Operating Weight": "25948.5 lbs (11,770 kg)",
+            "Operating weight Cabin": "19709.4 lbs (8,940 kg)",
+            "Oscillating angle": "4  \t\u00b0",
+            "Water Spray System Fluid Capacity": "241.2 gal (912 l)"
+        },
+        "Speeds": {
+            "Speed -  working gear": "6.3 mph (10 kph)"
+        },
+        "Tires": {
+            "Number of tyres, rear": "4",
+            "Size of tyres, rear": "11.00-20",
+            "Width over tyres, rear": "66.2 in (168 cm)"
+        }
+    }
+}

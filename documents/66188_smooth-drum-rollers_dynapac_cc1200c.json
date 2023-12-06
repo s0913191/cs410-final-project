@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc1200c/66188",
+    "source_url_id": "66188",
+    "source_url_model": "cc1200c",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:12.737200",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC1200C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "105 in (267 cm)"
+        },
+        "Drum": {
+            "Drum Width": "47 in (119 cm)",
+            "Vibration Frequency": "3480 hz (208,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "51 in (130 cm)"
+        }
+    }
+}

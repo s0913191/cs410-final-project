@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/massey-ferguson/1836/30752306",
+    "source_url_id": "30752306",
+    "source_url_model": "1836",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:28.979376",
+    "equipment_category": "Balers",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "1836",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Apron belts": "Flywheel",
+            "Apron belts - Number": "2",
+            "Apron belts - Size": "12.1 in (30 cm)",
+            "Apron belts - Type": "Wedge Grip pattern",
+            "Baler Thrower type": "Belt",
+            "Belt drive": "Hydraulic pump driven by baler"
+        },
+        "Bale Size": {
+            "Bale cross section,Height X Width(in,mm)": "14 x 18 (356 x 457)",
+            "Bale Length - max": "4.4 ft (1 m)",
+            "Bale Length - min": "1.1 ft (0 m)",
+            "Bale Weight - max": "70.6 lbs (32 kg)",
+            "Baler weight": "2698.5 lbs (1,224 kg)"
+        },
+        "Baler Pickup": {
+            "Augers": "13 in (33 cm)",
+            "Inside Width": "61.2 in (155 cm)",
+            "Number of Bars": "3",
+            "Number of Tines": "66",
+            "Outer tine-to-tine width": "73.6 in (185 cm)",
+            "Pickup gauge wheel": "2",
+            "Pickup protection": "Belt drive",
+            "Tine to Tine Width": "4.6 ft (1 m)"
+        },
+        "Dimensions": {
+            "Height w/shielding": "65 in (165 cm)",
+            "Length  w/o bale chute": "168 in (427 cm)",
+            "Length w/bale chute": "204.1 in (518 cm)",
+            "Length w/bale thrower": "240 in (610 cm)",
+            "Overall Height": "6.1 ft (2 m)",
+            "Overall Length": "5.3 ft (2 m)",
+            "Overall Width": "7.8 ft (2 m)",
+            "Weight": "500.5 lbs (227 kg)"
+        },
+        "Engine": {
+            "PTO Horsepower": "45.6 hp (34 kw)",
+            "PTO Speed": "540 rpm"
+        },
+        "Feeding Chamber": {
+            "Drive": "No. 60 chain",
+            "Protection": "Shearbolt",
+            "Stuffer Type": "Crank type w/4 tines"
+        },
+        "Plunger": {
+            "Plunger speed (strokes/min)": "92",
+            "Stroke Length": "21.7 in (53 cm)"
+        },
+        "Tires": {
+            "Standard": "9.5L x 14 , 6 Ply"
+        },
+        "Wrapping System": {
+            "Protection": "Shearbolt",
+            "Twine Ball Capacity": "4 balls",
+            "Twine Type": "Knotters"
+        }
+    }
+}

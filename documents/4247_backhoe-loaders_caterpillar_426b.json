@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/426b/4247",
+    "source_url_id": "4247",
+    "source_url_model": "426b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:39.830544",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "426B",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "14440 lbs (6,550 kg)",
+            "Bucket Dig Force - Extended": "14440 lbs (6,550 kg)",
+            "Dig Depth": "15.5 ft (5 m)",
+            "Dig Depth - Extended": "20.3 ft (6 m)",
+            "Load Height": "12.6 ft (4 m)",
+            "Load Height - Extended": "16.2 ft (5 m)",
+            "Reach at Load Height - Extended": "9 ft (3 m)",
+            "Reach From Swivel": "19.9 ft (6 m)",
+            "Reach From Swivel - Extended": "24.3 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height to Top of Suspended Cab": "9 ft (3 m)",
+            "Transport Length": "22.7 ft (7 m)",
+            "Transport Width": "7.5 ft (2 m)",
+            "Wheelbase": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "244.1 cu in (0 m)",
+            "Engine Make": "Caterpillar",
+            "Engine Model": "3054",
+            "Gross Power": "61.1 hp (45 kw)",
+            "Net Power": "58.9 hp (43 kw)",
+            "Net Torque Rise": "0.252",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "10.9 gal/min (38 l/min)",
+            "Pump Type": "Closed-center",
+            "Relief Valve Pressure": "4013.2 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "9217.2 lbs (4,181 kg)",
+            "Bucket Capacity": "1.3 cu yds (1 m)",
+            "Bucket Width": "89.1 in (226 cm)",
+            "Clearance at Max Dump Height": "8.6 ft (2 m)",
+            "Dig Depth": "4.1 in (10 cm)",
+            "Reach at Max Dump Height": "2.7 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "52  A",
+            "Cooling System Fluid Capacity": "5.6 gal (19 l)",
+            "Fuel Capacity": "33.9 gal (125 l)",
+            "Hydraulic System Fluid Capacity": "20.9 gal (76 l)",
+            "Max Weight": "14969.4 lbs (6,790 kg)",
+            "Oil System Fluid Capacity": "2.2 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Rear Axle Fluid Capacity": "4.9 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "11L-16 /10.5-20",
+            "Transmission Fluid Capacity": "2.7 gal (8 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9-24 / 19.5L-24"
+        },
+        "Transmission": {
+            "Max Speed": "20.1 mph (32 kph)",
+            "Max Speed - Reverse": "20.2 mph (32 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Power shuttle - full synchro"
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hevi/gex-8000/31882168",
+    "source_url_id": "31882168",
+    "source_url_model": "gex-8000",
+    "source_url_make": "hevi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:41.875075",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hevi",
+    "equipment_model": "GEX-8000",
+    "equipment_spec": {
+        "Battery": {
+            "Aux Battery Capacity": "36 Ah",
+            "Aux Battery Type": "Lead-Acid",
+            "Aux Battery Voltage": "24 V",
+            "Battery Capacity": "141 KWh",
+            "Battery Cooling Mode": "Liquid Cooling",
+            "Battery Heating Mode": "PTC Heating",
+            "Battery Operating Temperature": "-31 to -140 Farenheight",
+            "Battery Type": "Lithium Ferrophospate (LFP)",
+            "Battery Voltage": "618.24 V",
+            "Charging Port": "J1772 / CCS1",
+            "Charging Times (220V | 480V | DCFC)": "12 | 3 | <1.5 hours",
+            "Energy Consumption": "12 KWh",
+            "Service Life": "4000 Cycles"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "7' 7\"",
+            "Max Reach Along Ground": "19' 7\""
+        },
+        "DImensions": {
+            "Angle of Approach": "5 \t\u00b0",
+            "Dozer Blade Height": "1' 8\" ft (0 m)",
+            "Dozer Blade, Max Reach at Ground Level": "5' 8\" ft (2 m)",
+            "Front Slew Radius": "8' 7\" ft (2 m)",
+            "Ground Clearance to Super Structure": "3' 7\" ft (1 m)",
+            "Height of Counterweight": "6' 9\" ft (2 m)",
+            "Highest Position Leveler B lade": "1' 2\" ft (0 m)",
+            "Highest Position Leveler Blade": "14 in (36 cm)",
+            "Lowest Position Leveler Blade": "3 in (8 cm)",
+            "Max Cutting Height": "19'6\" ft (6 m)",
+            "Max Digging Depth": "7' 7\" ft (2 m)",
+            "Max Dump Height": "15 ft (5 m)",
+            "Maximum Digging Reach": "19' 7\" ft (6 m)",
+            "Maximum Digging Reach at Ground Level": "19 ft (6 m)",
+            "Maximum Vertical Wall Digging Depth": "5' 2\" ft (2 m)",
+            "Minimum Ground Clearance": "9 in (23 cm)",
+            "Overall Height Cab": "9' 7\" ft (3 m)",
+            "Overall Length": "20 ft (6 m)",
+            "Overall Width": "6' 11\" ft (2 m)",
+            "Tall Slew Radius": "7' 1\" ft (2 m)",
+            "Tires Width": "19 in (48 cm)",
+            "Track Length": "10.75 ft (3 m)",
+            "Wheel Base": "8 ft (2 m)",
+            "Width of House": "6' 9\" ft (2 m)"
+        },
+        "Driving": {
+            "Brakes": "Hydraulic Caliper Disc Brakes",
+            "Forward Speed": "2.4 mph (3 kph)",
+            "Motor Type": "Permanent Magnet Synchronization",
+            "Rated Power": "60 KWh",
+            "Rated Voltage": "380 V",
+            "Reverse Speed": "1.5 mph (2 kph)",
+            "Steering Mode": "Standard Steering and Rotational House",
+            "Tire": "8.25-16-16PR",
+            "Transmission": "Hydraulic",
+            "Transmission Gear": "1 Forward 1 Reverse"
+        },
+        "General": {
+            "Boom Swing Angle": "360 \t\u00b0",
+            "Bucket Capacity": ".34 cu yds (0 m)",
+            "Maximum Digging Force": "50 NEWTON",
+            "Maximum Gradeability": "70 PERCENT",
+            "Operating Weight": "18739 lbs (8,500 kg)"
+        },
+        "Hydraulics": {
+            "Protection grade IP67": "Yes",
+            "Rotating Speed": "2000 r/min",
+            "Working Hydraulic Motor Type": "Load Sensing System",
+            "Working Hydraulic Output Volume": "42.3 gal/min (159 l/min)",
+            "Working Hydraulic Pressure": "4061 psi",
+            "Working Hydraulic Rated Power": "46.5 KWh",
+            "Working Hydraulic Rated Torque": "222 lbs/ft",
+            "Working Oil Capacity": "52.5 gal (197 l)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18739 lbs (8,500 kg)"
+        }
+    }
+}

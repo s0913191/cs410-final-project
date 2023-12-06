@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-900-50/30679515",
+    "source_url_id": "30679515",
+    "source_url_model": "bw-900-50",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:26.601203",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 900-50",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Hydromechanical",
+            "Service brake": "Hydrostatic"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height": "5.7 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "7.6 ft (2 m)",
+            "Overall Length": "6.5 in (15 cm)",
+            "Overall Width": "3.2 ft (1 m)",
+            "Turning Radius - Inside": "64.8 in (163 cm)",
+            "Wheelbase": "4.1 ft (1 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "3372 lbs (1,530 kg)",
+            "Drum Width": "37.8 in (94 cm)",
+            "Frequency": "70 hz (4,200 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Vibration Frequency": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Honda",
+            "Engine Model": "GX 630",
+            "Gross Power": "20 hp (15 kw)",
+            "Make": "Honda",
+            "Number of Cylinders": "2"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "7.1 gal (27 l)",
+            "Max Speed": "5.4 mph (8 kph)",
+            "Operating Width": "37.8 in (94 cm)",
+            "Spray Water Capacity": "36.2 gal (136 l)"
+        },
+        "Steering System": {
+            "Oscillating angle": "6  \t\u00b0",
+            "Steering angle to either side": "33  \t\u00b0",
+            "Steering Method": "Hydrostatic",
+            "System": "Oscillatory Articulation"
+        },
+        "Weights": {
+            "Average axle load CECE": "1321 lbs (599 kg)",
+            "Max Static Linear Load - Drive Drum": "37.3 lbs/in",
+            "Operating Weight - standard": "2646 lbs (1,200 kg)"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l4240dt/30751475",
+    "source_url_id": "30751475",
+    "source_url_model": "l4240dt",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:30:19.529407",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L4240DT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Overall Length": "10.2 in (25 cm)",
+            "Tire Size": "front 8.3-16 rear 14.9-24",
+            "Wheelbase": "6.3 ft (2 m)",
+            "Width Outside Frame": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "134.1 cu in (0 m)",
+            "Engine Model": "E-TVCS",
+            "Gross Power": "44 hp (33 kw)",
+            "Net Power": "42 hp (31 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm",
+            "PTO Power": "36.5 hp (27 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.7 gal/min (53 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2755.8 lbs (1,250 kg)",
+            "3 Point Hitch Type": "Cat. I",
+            "Alternator Supplied Amperage": "40  A",
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3527.4 lbs (1,600 kg)",
+            "Turning Radius": "8.9 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "16.8 mph (26 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "FST"
+        }
+    }
+}

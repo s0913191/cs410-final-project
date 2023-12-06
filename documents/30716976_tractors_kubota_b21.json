@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/b21/30716976",
+    "source_url_id": "30716976",
+    "source_url_model": "b21",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:26:11.679707",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "B21",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "6.8 ft (2 m)",
+            "Max Digging Depth": "7.5 ft (2 m)"
+        },
+        "Dimensions": {
+            "Wheelbase": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "61.1 cu in (0 m)",
+            "Engine Model": "B21",
+            "Gross Power": "21 hp (16 kw)",
+            "Net Power": "19 hp (14 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8.5 gal/min (30 l/min)",
+            "Pump Type": "open center/constant flow",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Loader": {
+            "Breakout Force": "1543 lbs (700 kg)",
+            "Lift Capacity": "926 lbs (420 kg)",
+            "SAE - Net": "21 hp (16 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6.4 gal (23 l)",
+            "Operating Weight": "3836 lbs (1,740 kg)",
+            "Operating Weight 2wd": "3836.1 lbs (1,740 kg)",
+            "Tire Size Front - 2wd / 4wd": "23x8.50-14 R4",
+            "Turning Radius": "9.4 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "12.4-16 R4"
+        },
+        "Transmission": {
+            "Max Speed": "11.1 mph (18 kph)",
+            "Transmission Type": "HST (3 range)"
+        },
+        "Travel Speed": {
+            "4Th Gear Fwd": "11.2 mph (18 kph)"
+        }
+    }
+}

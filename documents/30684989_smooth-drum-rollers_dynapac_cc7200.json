@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc7200/30684989",
+    "source_url_id": "30684989",
+    "source_url_model": "cc7200",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:32.101505",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC7200",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Failsafe multidisc brake in drum and wheel motors.",
+            "Service brake": "Hydrostatic in forward and reverse lever"
+        },
+        "Dimensions": {
+            "Gradeability": "31%",
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Overall Length": "222.6 in (564 cm)",
+            "Overall Width": "7 ft (2 m)",
+            "Turning Radius - Inside": "19.6 ft (6 m)",
+            "Turning Radius - Outside": "26.6 ft (8 m)",
+            "Wheelbase": "147.8 in (373 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "48334 lbs (21,924 kg)",
+            "Centrifugal Force - Low": "22930.6 lbs (10,401 kg)",
+            "Drum Diameter": "60.2 in (152 cm)",
+            "Drum thickness": "1 in (3 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "216.8 lbs/in",
+            "Vibration Frequency 1": "45 hz (2,700 vpm)",
+            "Vibration Frequency 2": "45 hz (2,700 vpm)"
+        },
+        "Engine": {
+            "Emissions Certification": "Tier 4",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB 6.7 IIIA",
+            "Engine Type": "Water cooled with after cooler",
+            "Gross Power": "228 hp (170 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "88.5 gal (333 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Weight": "37037.7 lbs (16,800 kg)",
+            "Operating weight ROPS": "39650.2 lbs (17,985 kg)",
+            "Oscillating angle": "5  \t\u00b0",
+            "Steering Angle": "30  \t\u00b0",
+            "Water Spray System Fluid Capacity": "354 gal (1,340 l)"
+        }
+    }
+}

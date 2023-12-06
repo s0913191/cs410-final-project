@@ -1,0 +1,100 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx490lc-5/41487",
+    "source_url_id": "41487",
+    "source_url_model": "dx490lc-5",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:00.594450",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX490LC-5",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "24 ft (7 m)",
+            "Max Loading Height": "23.9 ft (7 m)",
+            "Max Reach Along Ground": "38.9 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "20.1 ft (6 m)",
+            "Min Digging Reach": "2.8 ft (1 m)",
+            "Minimum swing radius": "205.2 in (521 cm)",
+            "Shipping Height of Unit": "11.8 ft (3 m)",
+            "Shipping Length of Unit": "40.2 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Digging Depth": "26.1 ft (8 m)",
+            "Max Loading Height": "25.4 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "14.9 ft (4 m)",
+            "Min Digging Reach": "3.5 ft (1 m)",
+            "Minimum swing radius": "205.2 in (521 cm)",
+            "Shipping Height of Unit": "11.3 ft (3 m)",
+            "Shipping Length of Unit": "40.3 ft (12 m)"
+        },
+        "Bucket": {
+            "Minimum Bucket Capacity": "2.8 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Counterweight Clearance": "4.8 ft (1 m)",
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Length of Track on Ground": "17.9 ft (5 m)",
+            "Tail Swing Radius": "12.5 ft (4 m)",
+            "Undercarriage Width": "12.5 ft (4 m)"
+        },
+        "Electrical System": {
+            "Alternator": "28 V, 100 amp",
+            "Battery": "12 V, 200 AH, 1300",
+            "Starter": "24 V"
+        },
+        "Engine": {
+            "Air cleaner": "Double Elements",
+            "Bore": "5.2 in (13 cm)",
+            "Displacement": "775.1 cu in (0 m)",
+            "Engine Make": "Scania",
+            "Engine Model": "Dc13",
+            "Gross Power": "380 hp (283 kw)",
+            "Max Torque": "368.8 lbs/ft",
+            "Net Power": "373 hp (278 kw)",
+            "Power Measured @": "1800 rpm",
+            "Starter": "8 hp (6 kw)",
+            "Stroke": "6.3 in (15 cm)",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "177": "177 gal/min gal/min (670 l/min)",
+            "Pilotpump-Gear Design": "6.3 gal/min",
+            "Relief Pressure - Boost": "4978 psi",
+            "Relief Pressure -Normal": "4694 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "13.5 gal (49 l)",
+            "DEF tank capacity": "18.5 gal (68 l)",
+            "Engine Oil Capacity": "11.9 gal (42 l)",
+            "Fuel Capacity": "181 gal (685 l)",
+            "Hydraulic System Fluid Capacity": "132.1 gal (500 l)",
+            "Hydraulic System Relief Valve Pressure": "8.4 psi",
+            "Hydraulic Tank": "103.1 gal (390 l)",
+            "Operating Weight": "112206 lbs (50,896 kg)",
+            "Swing Drive Fluid Capacity": "1.4 gal (4 l)"
+        },
+        "Performance": {
+            "Maximum Grade": "70%",
+            "Swing - Normal Mode": "4694 psi",
+            "Swing-Power Mode": "4978 psi",
+            "Traction Force -Draw bar Pull": "100531 lbs/ft",
+            "Travel-Normal Mode": "4694 psi",
+            "Travel-Power Mode": "4978 psi"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.6 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8.4 psi",
+            "Number of bottom rollers per side": "9",
+            "Number of Shoes per Side": "53",
+            "Number of top rollers per side": "3",
+            "Shoe Size": "35.5 in (89 cm)",
+            "Track Gauge": "10.9 ft (3 m)"
+        },
+        "Weights": {
+            "counterweight": "20283 lbs (9,200 kg)"
+        }
+    }
+}

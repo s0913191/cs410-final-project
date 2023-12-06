@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/lift-king/lk120r/30759034",
+    "source_url_id": "30759034",
+    "source_url_model": "lk120r",
+    "source_url_make": "lift-king",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:33:57.514578",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Lift King",
+    "equipment_model": "LK120R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "181.2 in (460 cm)",
+            "Length to Fork Face": "21.4 ft (6 m)",
+            "Overall Height": "8.6 ft (2 m)",
+            "Turning Radius Outside Tires": "17.4 ft (5 m)",
+            "Wheelbase": "10.4 ft (3 m)",
+            "Width Over Tires": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Gross Power": "155 hp (116 kw)"
+        },
+        "Lift System": {
+            "Max Forward Reach": "36 ft (11 m)",
+            "Max Lift Capacity": "12000 lbs (5,443 kg)",
+            "Max Lift Height": "55.2 ft (17 m)",
+            "Max Load at Max Height": "4000 lbs (1,814 kg)",
+            "Max Load at Max Reach": "2000 lbs (907 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "30200 lbs (13,699 kg)",
+            "Tire Size": "17.5x25"
+        },
+        "Transmission": {
+            "Max Speed - forward": "21.8 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "powershift"
+        }
+    }
+}

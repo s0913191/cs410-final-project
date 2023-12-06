@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combination-rollers/dynapac/cc422c/30105217",
+    "source_url_id": "30105217",
+    "source_url_model": "cc422c",
+    "source_url_make": "dynapac",
+    "source_url_category": "combination-rollers",
+    "source_date_scraped": "2023-09-13 17:39:04.818137",
+    "equipment_category": "Combination Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC422C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length": "16.3 in (41 cm)",
+            "Overall Width": "6 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "31023.7 lbs (14,072 kg)",
+            "Centrifugal Force - Low": "15736.7 lbs (7,138 kg)",
+            "Drum Diameter": "51.2 in (130 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "468 lbs/in",
+            "Vibration Frequency 1": "51 hz (3,060 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "4AA BT3.9-C",
+            "Gross Power": "124.8 hp (92 kw)",
+            "Power Measured @": "22200 rpm"
+        },
+        "Operating Specifications": {
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Weight": "21936 lbs (9,950 kg)"
+        }
+    }
+}

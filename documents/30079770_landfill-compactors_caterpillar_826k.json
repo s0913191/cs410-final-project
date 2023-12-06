@@ -1,0 +1,90 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/landfill-compactors/caterpillar/826k/30079770",
+    "source_url_id": "30079770",
+    "source_url_model": "826k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "landfill-compactors",
+    "source_date_scraped": "2023-09-13 17:39:18.327625",
+    "equipment_category": "Landfill Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "826K",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Planetary - Fixed",
+            "Oscillation Angle": "5  \t\u00b0",
+            "Rear": "Planetary - Oscillating"
+        },
+        "Brakes": {
+            "Parking Brake": "Drum and Shoe, Spring Applied, Hydraulic Released"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.2 ft (1 m)",
+            "Ground Clearance - Bumper": "3.2 ft (1 m)",
+            "Height - ROPS/Canopy": "14.1 ft (4 m)",
+            "Height - Top of Cab": "15 ft (5 m)",
+            "Height - Top of Cab with A/C": "15 ft (5 m)",
+            "Height - Top of Exhaust Pipe": "14.6 ft (4 m)",
+            "Height - Top of Hood": "10.9 ft (3 m)",
+            "Hitch to Centerline of Front Axle": "6.1 ft (2 m)",
+            "Length With Blade on Ground": "28.59 ft (9 m)",
+            "Length with Blade on Ground": "28.6 ft (9 m)",
+            "Wheel Base": "12.2 ft (4 m)",
+            "Wheelbase": "12.2 ft (4 m)",
+            "Width - Over Wheels": "12.5 ft (4 m)",
+            "Width Over Wheels": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "927.6 cu in (0 m)",
+            "Emissions": "Tier 4 Final/Stage IV or Tier 3/Stage IIIA equivalent",
+            "Engine Model": "Cat C15 ACERT",
+            "Gross Power": "435 hp (324 kw)",
+            "High Idle Speed": "2300 rpm",
+            "Low Idle Speed": "800 rpm",
+            "Max Torque": "1478.8 lbs/ft",
+            "Net Power": "405 hp (302 kw)",
+            "Stroke": "6.7 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Main Relief Pressure": "3495 psi",
+            "Maximum Supply Pressure": "3495 psi"
+        },
+        "Hydraulic System - Steering": {
+            "Bore": "4.5 in (10 cm)",
+            "Maximum System Flow": "170 L/min @ 1,950 rpm (44.9 gal/min @ 1,950 rpm)",
+            "Steering Pressure Limited": "3481 psi",
+            "Steering System - Circuit": "Double Acting - End Mounted",
+            "Steering System - Pump": "Piston - Variable Displacement",
+            "Stroke": "22.7 in (56 cm)",
+            "Vehicle Articulation Angle": "86   \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "30.6 gal (114 l)",
+            "Fuel Capacity": "206.6 gal (780 l)",
+            "Hydraulic System Fluid Capacity": "30.9 gal (114 l)",
+            "Operating Weight": "90207 lbs (40,918 kg)",
+            "Transmission Fluid Capacity": "17.4 gal (64 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "30.6 gal (114 l)",
+            "Differential - Final Drives - Front": "26.4 gal (98 l)",
+            "Differential - Final Drives - Rear": "29.1 gal (110 l)",
+            "Engine Crankcase": "9 gal (34 l)",
+            "Fuel Tank": "206.6 gal (780 l)",
+            "Hydraulic Tank Only": "35.4 gal (132 l)",
+            "Transmission": "17.4 gal (64 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Planetary - Powershift - ECPC"
+        },
+        "Weights": {
+            "Operating Weight": "90207 lbs (40,918 kg)"
+        },
+        "Wheels": {
+            "Front Wheels Drum Diameter": "5.3 in (13 cm)",
+            "Front Wheels Drum Width": "4 in (10 cm)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/3690/30840758",
+    "source_url_id": "30840758",
+    "source_url_model": "3690",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:36.934707",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "3690",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "188 hp (140 kw)"
+        },
+        "Production": {
+            "Series": "3600 Series",
+            "Years Manufactured": "1991 - 1994"
+        }
+    }
+}

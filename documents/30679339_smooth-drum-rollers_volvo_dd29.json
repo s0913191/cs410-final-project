@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/dd29/30679339",
+    "source_url_id": "30679339",
+    "source_url_model": "dd29",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:27.082005",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "DD29",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "4.1 ft (1 m)",
+            "Turning Radius - Inside": "8.5 ft (2 m)"
+        },
+        "Drum": {
+            "Drum Width": "49.2 in (124 cm)",
+            "Frequency": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        }
+    }
+}

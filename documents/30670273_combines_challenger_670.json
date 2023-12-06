@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/challenger/670/30670273",
+    "source_url_id": "30670273",
+    "source_url_model": "670",
+    "source_url_make": "challenger",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:01:51.027981",
+    "equipment_category": "Combines",
+    "equipment_make": "Challenger",
+    "equipment_model": "670",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Total Cleaning Area": "8296 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Transport Height": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "C9 8.8L",
+            "Power": "350 hp (261 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Feeding": {
+            "Conveyor Width": "55.5 in (140 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "300 bu",
+            "Unloading Speed": "2.5 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "160 gal (606 l)",
+            "Operating Weight w/o Attachment": "31600 lbs (14,334 kg)",
+            "Transmission Type": "4-Speed Hydrostatic"
+        },
+        "Threshing": {
+            "Concave Area": "2205 cu in (0 m)",
+            "Rotor Diameter": "27.6 in (69 cm)",
+            "Rotor Length": "140 in (356 cm)"
+        }
+    }
+}

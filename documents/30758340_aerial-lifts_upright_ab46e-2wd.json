@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/ab46e-2wd/30758340",
+    "source_url_id": "30758340",
+    "source_url_model": "ab46e-2wd",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:58.679299",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "AB46E 2WD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6 in (15 cm)",
+            "Overall Height - mast lowered": "6.6 ft (2 m)",
+            "Overall Length": "17.9 in (43 cm)",
+            "Overall Width": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "350",
+            "Number of Batteries": "8",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operating Weight": "14299.2 lbs (6,486 kg)",
+            "Tire Fill/Type": "poly filled / high grip"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "25 ft (8 m)",
+            "Max Platform Height": "46.3 ft (14 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "52.9 ft (16 m)",
+            "Platform Inner Length": "72.9 in (183 cm)",
+            "Platform Inner Width": "39.4 in (99 cm)",
+            "Platform Rotation": "160  \t\u00b0"
+        }
+    }
+}

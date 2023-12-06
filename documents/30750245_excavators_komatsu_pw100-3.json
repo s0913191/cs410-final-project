@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pw100-3/30750245",
+    "source_url_id": "30750245",
+    "source_url_model": "pw100-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:42.408816",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PW100-3",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "26.1 ft (8 m)",
+            "Max Digging Depth": "14.5 ft (4 m)",
+            "Max Loading Height": "18.8 ft (5 m)",
+            "Max Reach Along Ground": "23.7 ft (7 m)",
+            "Max Vertical Wall Dig Depth": "11.9 ft (3 m)",
+            "Shipping Height of Unit": "12 ft (4 m)",
+            "Shipping Length of Unit": "22.8 ft (7 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "26.8 ft (8 m)",
+            "Max Digging Depth": "15.5 ft (5 m)",
+            "Max Loading Height": "19.3 ft (6 m)",
+            "Max Reach Along Ground": "24.7 ft (7 m)",
+            "Max Vertical Wall Dig Depth": "12.9 ft (4 m)",
+            "Shipping Height of Unit": "12.4 ft (4 m)",
+            "Shipping Length of Unit": "22.4 ft (7 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.5 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.4 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Overall Width": "8.1 in (20 cm)",
+            "Tail Swing Radius": "6.9 ft (2 m)",
+            "Upper Structure Clearance": "4 ft (1 m)",
+            "Wheelbase": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "298.5 cu in (0 m)",
+            "Engine Model": "S6D95L",
+            "Net Power": "108.7 hp (81 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "55.5 gal (208 l)",
+            "Hydraulic Pump Flow Capacity": "61.6 gal/min (231 l/min)",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Hydraulic System Relief Valve Pressure": "4690 psi",
+            "Operating Weight": "24427.3 lbs (11,080 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.8 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "21.5 mph (34 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2"
+        }
+    }
+}

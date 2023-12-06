@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liugong/clg906c/30114987",
+    "source_url_id": "30114987",
+    "source_url_model": "clg906c",
+    "source_url_make": "liugong",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:16:12.765655",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liugong",
+    "equipment_model": "CLG906C",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "12.8 ft (4 m)",
+            "Max Loading Height": "13.6 ft (4 m)",
+            "Max Reach Along Ground": "19.9 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "9.7 ft (3 m)",
+            "Shipping Height of Unit": "8.6 ft (2 m)",
+            "Shipping Length of Unit": "19.4 ft (6 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.4 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Tail Swing Radius": "5.6 ft (2 m)",
+            "Width to Outside of Tracks": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "183.1 cu in (0 m)",
+            "Engine Model": "4TNV94L-PLY",
+            "Net Power": "50.2 hp (37 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "39.7 gal/min (148 l/min)",
+            "Hydraulic System Relief Valve Pressure": "3190.9 psi",
+            "Operating Weight": "13007.3 lbs (5,900 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.3 mph (3 kph)",
+            "Shoe Size": "15.8 in (38 cm)"
+        }
+    }
+}

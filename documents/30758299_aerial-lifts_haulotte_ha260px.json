@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ha260px/30758299",
+    "source_url_id": "30758299",
+    "source_url_model": "ha260px",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:13.164513",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HA260PX",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16.6 in (41 cm)",
+            "Overall Height - mast lowered": "8.8 ft (2 m)",
+            "Overall Length": "39.4 in (99 cm)",
+            "Overall Width": "7.9 ft (2 m)",
+            "Turning Radius": "12.8 ft (4 m)",
+            "Wheelbase": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "F4 L2011",
+            "Fuel Type": "Diesel",
+            "Gross Power": "56.4 hp (42 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "39.7 gal (148 l)",
+            "Max Speed": "2.8 mph (3 kph)",
+            "Operating Weight": "35163.8 lbs (15,950 kg)",
+            "Tire Fill/Type": "foam filled",
+            "Tire Size": "15 R 22"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "53.2 ft (16 m)",
+            "Max Platform Height": "77.5 ft (23 m)",
+            "Max Platform Weight Capacity": "507.1 lbs (230 kg)",
+            "Max Working Height": "84 ft (26 m)",
+            "Platform Inner Length": "70.9 in (178 cm)",
+            "Platform Inner Width": "31.5 in (79 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

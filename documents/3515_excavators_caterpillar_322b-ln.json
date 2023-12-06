@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/322b-ln/3515",
+    "source_url_id": "3515",
+    "source_url_model": "322b-ln",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:15.804720",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "322B LN",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "31.6 ft (9 m)",
+            "Max Digging Depth": "22 ft (7 m)",
+            "Max Loading Height": "22.2 ft (7 m)",
+            "Max Reach Along Ground": "32.9 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "14.6 ft (4 m)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "34 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "31 ft (9 m)",
+            "Max Digging Depth": "20.5 ft (6 m)",
+            "Max Loading Height": "21.5 ft (6 m)",
+            "Max Reach Along Ground": "31.5 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "13.2 ft (4 m)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "34 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "29.8 ft (9 m)",
+            "Max Digging Depth": "19.5 ft (6 m)",
+            "Max Loading Height": "19.6 ft (6 m)",
+            "Max Reach Along Ground": "30 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "13.5 ft (4 m)",
+            "Shipping Height of Unit": "11 ft (3 m)",
+            "Shipping Length of Unit": "32.5 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "29.1 ft (9 m)",
+            "Max Digging Depth": "17.8 ft (5 m)",
+            "Max Loading Height": "18.9 ft (5 m)",
+            "Max Reach Along Ground": "28.4 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "12 ft (4 m)",
+            "Shipping Length of Unit": "32.5 ft (10 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Length of Track on Ground": "12.5 ft (4 m)",
+            "Removal Counterweight Clearance": "3.8 ft (1 m)",
+            "Tail Swing Radius": "10.1 ft (3 m)",
+            "Width to Outside of Tracks": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "3116TA",
+            "Net Power": "153 hp (114 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Hydraulic Pump Flow Capacity": "108.4 gal/min (409 l/min)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Weight": "52492.1 lbs (23,810 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "43650 lbs (19,800 kg)",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        }
+    }
+}

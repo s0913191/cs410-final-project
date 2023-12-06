@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/u50/23133",
+    "source_url_id": "23133",
+    "source_url_model": "u50",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:44.684255",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "U50",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Overall Length": "12.4 in (30 cm)",
+            "Tire Size": "front: 9.5-20 (6PR), rear 13.6-28 (6PR)",
+            "Wheelbase": "6.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "152.9 cu in (0 m)",
+            "Engine Model": "S4Q",
+            "Gross Power": "47 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3307 lbs (1,500 kg)",
+            "Alternator Supplied Amperage": "45  A",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "4850.2 lbs (2,200 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "19.7 mph (31 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "synchro shuttle"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/xcmg/lw620g/30755297",
+    "source_url_id": "30755297",
+    "source_url_model": "lw620g",
+    "source_url_make": "xcmg",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:51.716541",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "XCMG",
+    "equipment_model": "LW620G",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4.4 cu yds (3 m)",
+            "Dump Clearance at Max Raise": "10.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Length with Bucket on Ground": "28.2 ft (9 m)",
+            "Reach at Max Lift and Dump": "4.2 ft (1 m)",
+            "Wheelbase": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "Cat",
+            "Net Power": "233.4 hp (174 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Operating Weight": "45194.8 lbs (20,500 kg)",
+            "Static Tipping Weight": "34943.3 lbs (15,850 kg)",
+            "Tire Size": "23.5-25-16PR"
+        },
+        "Transmission": {
+            "Transmission Type": "countershaft powershift"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/rammax/t-16/30783008",
+    "source_url_id": "30783008",
+    "source_url_model": "t-16",
+    "source_url_make": "rammax",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:23.651385",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Rammax",
+    "equipment_model": "T-16",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "69.3 in (175 cm)"
+        },
+        "Drum": {
+            "Drum Width": "35.4 in (89 cm)",
+            "Vibration Frequency": "3900 hz (234,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Yanmar"
+        },
+        "Operating Specifications": {
+            "Operating Width": "37.4 in (94 cm)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/1440/31019304",
+    "source_url_id": "31019304",
+    "source_url_model": "1440",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:04.796780",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "1440",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "40 hp (30 kw)"
+        },
+        "Production": {
+            "Series": "1400 Series",
+            "Years Manufactured": "2002 - 2005"
+        }
+    }
+}

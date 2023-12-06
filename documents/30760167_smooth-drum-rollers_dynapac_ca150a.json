@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca150a/30760167",
+    "source_url_id": "30760167",
+    "source_url_model": "ca150a",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:54.453613",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA150A",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "5.5 ft (2 m)",
+            "Turning Radius - Inside": "9 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Frequency": "45 hz (2,700 vpm)"
+        },
+        "Engine": {
+            "Make": "John Deere",
+            "Model": "3.3"
+        }
+    }
+}

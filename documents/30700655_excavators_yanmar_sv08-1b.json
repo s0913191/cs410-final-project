@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/yanmar/sv08-1b/30700655",
+    "source_url_id": "30700655",
+    "source_url_model": "sv08-1b",
+    "source_url_make": "yanmar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:43.173640",
+    "equipment_category": "Excavators",
+    "equipment_make": "Yanmar",
+    "equipment_model": "SV08-1B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Boom Swing - Left": "45  \t\u00b0",
+            "Boom Swing - Right": "90  \t\u00b0",
+            "Max Digging Depth": "5.33 ft (2 m)",
+            "Max Reach Along Ground": "8.96 ft (2 m)"
+        },
+        "Bucket": {
+            "Arm digging Force": "1390 lbs (631 kg)",
+            "Bucket digging Force - SAE": "2360 lbs (1,071 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.5 ft (0 m)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Tail Swing Radius": "2.4 ft (1 m)",
+            "Width to Outside of Tracks": "2.8 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Make": "YANMAR",
+            "Engine Model": "2TE67L-BV4",
+            "Net Power": "10.3 hp (7 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "2.7 gal (8 l)",
+            "Hydraulic Pump Flow Capacity": "2.6 gal/min (8 l/min)",
+            "Operating Weight": "2348 lbs (1,065 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.4 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.2 psi",
+            "Max Travel Speed": "1.2 mph (2 kph)"
+        }
+    }
+}

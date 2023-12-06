@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/steyr/370-kompakt/30751347",
+    "source_url_id": "30751347",
+    "source_url_model": "370-kompakt",
+    "source_url_make": "steyr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:52.261446",
+    "equipment_category": "Tractors",
+    "equipment_make": "Steyr",
+    "equipment_model": "370 Kompakt",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "11.3 in (28 cm)",
+            "Wheelbase": "6.8 ft (2 m)",
+            "Width Outside Frame": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Light Turbocharged",
+            "Displacement": "178.8 cu in (0 m)",
+            "Engine Model": "TR14396-2000/25/EC",
+            "Net Power": "72 hp (54 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm",
+            "Torque Rise": "32%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "12.5 gal/min (45 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.9 gal (72 l)",
+            "Operating Weight": "6283.2 lbs (2,850 kg)",
+            "Turning Radius": "12.5 ft (4 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "STEYR Synchro Shift"
+        }
+    }
+}

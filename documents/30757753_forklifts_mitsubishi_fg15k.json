@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/mitsubishi/fg15k/30757753",
+    "source_url_id": "30757753",
+    "source_url_model": "fg15k",
+    "source_url_make": "mitsubishi",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:36:38.441264",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Mitsubishi",
+    "equipment_model": "FG15K",
+    "equipment_spec": {
+        "Engine": {
+            "Fuel Type": "LP Gas"
+        },
+        "MAST": {
+            "Load Capacity": "3307 lbs (1,500 kg)",
+            "Load Center": "19.7 in (48 cm)"
+        }
+    }
+}

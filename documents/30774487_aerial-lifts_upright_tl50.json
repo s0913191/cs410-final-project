@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/tl50/30774487",
+    "source_url_id": "30774487",
+    "source_url_model": "tl50",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:18.965393",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "TL50",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "473 lbs (215 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "ATM/49.2 ft (0 m)",
+            "Platform Size": "2x4 ft (1 m)",
+            "Stowed Height": "6.6 ft (2 m)",
+            "Stowed Width": "5.7 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "195R-13C"
+        },
+        "Transmission": {
+            "4WD": "no"
+        }
+    }
+}

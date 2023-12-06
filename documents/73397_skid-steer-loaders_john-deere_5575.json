@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/5575/73397",
+    "source_url_id": "73397",
+    "source_url_model": "5575",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:00.014440",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "5575",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.4 ft (2 m)",
+            "Ground Clearance": "8.3 in (20 cm)",
+            "Height - Top of Cab": "6.1 ft (2 m)",
+            "Length w/o Bucket": "8.1 ft (2 m)",
+            "Length with Bucket": "10 ft (3 m)",
+            "Reach at Max Lift and Dump": "24 in (61 cm)",
+            "Turning Radius from Center - inc bucket": "71 in (180 cm)",
+            "Turning Radius from Center - machine rear": "56 in (142 cm)",
+            "Wheelbase": "3.2 ft (1 m)",
+            "Width Over Tires": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "100.1 cu in (0 m)",
+            "Engine Model": "3017D001",
+            "Gross Power": "39 hp (29 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "3000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "10 gal/min (38 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "2650 psi"
+        },
+        "Loader": {
+            "Breakout Force": "2405 psi",
+            "Operating Load Rating": "1410 lbs (640 kg)",
+            "Tipping Angle": "2819.8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Chain Box Fluid Capacity - each side": "1.6 gal (4 l)",
+            "Cooling System Fluid Capacity": "2.8 gal (8 l)",
+            "Fuel Capacity": "10 gal (38 l)",
+            "Max Speed": "6.7 mph (10 kph)",
+            "Operating Speed": "6.7 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "4500 lbs (2,041 kg)"
+        }
+    }
+}

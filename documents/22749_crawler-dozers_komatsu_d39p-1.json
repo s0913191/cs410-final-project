@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d39p-1/22749",
+    "source_url_id": "22749",
+    "source_url_model": "d39p-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:46.149962",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D39P-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.4 ft (2 m)",
+            "Length of Track on Ground": "7.2 ft (2 m)",
+            "Length w/ Blade": "11 ft (3 m)",
+            "Width Over Tracks": "7.2 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "S4D102"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "38.6 gal (144 l)",
+            "Operating Weight": "16005.6 lbs (7,260 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6 mph (10 kph)",
+            "Max Speed - Reverse": "7.1 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "5.2 ft (2 m)"
+        }
+    }
+}

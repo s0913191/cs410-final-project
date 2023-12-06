@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/ab46rt-4wd/30758380",
+    "source_url_id": "30758380",
+    "source_url_model": "ab46rt-4wd",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:00.396222",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "AB46RT 4WD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Overall Height - mast lowered": "7.3 ft (2 m)",
+            "Overall Length": "19.2 in (48 cm)",
+            "Overall Width": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V1505T",
+            "Fuel Type": "diesel"
+        },
+        "Performance": {
+            "Max Speed": "4.5 mph (6 kph)",
+            "Operating Weight": "16644.9 lbs (7,550 kg)",
+            "Tire Fill/Type": "poly filled / high grip"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "25 ft (8 m)",
+            "Max Platform Height": "47 ft (14 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "53.5 ft (16 m)",
+            "Platform Inner Length": "72.9 in (183 cm)",
+            "Platform Inner Width": "39.4 in (99 cm)",
+            "Platform Rotation": "160  \t\u00b0"
+        }
+    }
+}

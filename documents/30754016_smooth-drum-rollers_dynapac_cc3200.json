@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc3200/30754016",
+    "source_url_id": "30754016",
+    "source_url_model": "cc3200",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:19.531176",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC3200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "28.2 in (71 cm)",
+            "Gradeability": "32%",
+            "Ground Clearance": "10.7 in (25 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "176.8 in (447 cm)",
+            "Overall Width": "6.2 ft (2 m)",
+            "Turning Radius - Inside": "16.3 ft (5 m)",
+            "Turning Radius - Outside": "22 ft (7 m)",
+            "Wheelbase": "131.5 in (333 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "20232.9 lbs (9,177 kg)",
+            "Centrifugal Force - Low": "16860.7 lbs (7,648 kg)",
+            "Drum Diameter": "45.3 in (114 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Width": "68.2 in (173 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "132.2 lbs/in",
+            "Vibration Frequency 1": "48 hz (2,880 vpm)",
+            "Vibration Frequency 2": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 3.6 HT",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "73.8 hp (54 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "34.4 gal (129 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "20833.7 lbs (9,450 kg)",
+            "Operating weight ROPS": "17967.7 lbs (8,150 kg)",
+            "Steering Angle": "32  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "198.2 gal (749 l)"
+        }
+    }
+}

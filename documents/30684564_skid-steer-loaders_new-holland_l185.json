@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/new-holland/l185/30684564",
+    "source_url_id": "30684564",
+    "source_url_model": "l185",
+    "source_url_make": "new-holland",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:42.268572",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "L185",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "12.6 ft (4 m)",
+            "Ground Clearance": "7.9 in (18 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length with Bucket": "11.6 ft (3 m)",
+            "Reach at Max Lift and Dump": "32.7 in (81 cm)",
+            "Turning Radius from Center - inc bucket": "75.6 in (191 cm)",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "195.3 cu in (0 m)",
+            "Engine Model": "F5CE5454",
+            "Gross Power": "72 hp (54 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "19.3 gal/min (72 l/min)",
+            "Pump Type": "Gear type",
+            "Relief Valve Pressure": "3050 psi"
+        },
+        "Loader": {
+            "Breakout Force": "7669.9 psi",
+            "Bucket Capacity": "0.7 cu yds (0 m)",
+            "Operating Load Rating": "2500.1 lbs (1,134 kg)",
+            "Tipping Angle": "5000.1  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Chain Box Fluid Capacity - each side": "2.7 gal (8 l)",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Fluid Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "18 gal (68 l)",
+            "Hydraulic System Fluid Capacity": "15 gal (57 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Speed": "11.3 mph (18 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "7098.9 lbs (3,220 kg)",
+            "Tire Size": "12.00X16.5"
+        }
+    }
+}

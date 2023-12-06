@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/sakai/sv400tf/28639",
+    "source_url_id": "28639",
+    "source_url_model": "sv400tf",
+    "source_url_make": "sakai",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:58.325001",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV400TF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.5 in (30 cm)",
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Overall Length w/o Blade": "16 ft (5 m)",
+            "Wheelbase": "8.5 in (20 cm)",
+            "Width Over Tires": "6.2 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "28550.8 lbs (12,950 kg)",
+            "Centrifugal Force - Low": "23155.4 lbs (10,503 kg)",
+            "Drum Diameter": "55.2 in (140 cm)",
+            "Drum Width": "67 in (170 cm)",
+            "Number of Pads": "140",
+            "Pad Height": "3 in (8 cm)",
+            "Vibration Frequency 1": "40 hz (2,400 vpm)",
+            "Vibratory Frequency 2": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Displacement": "264.2 cu in (0 m)",
+            "Engine Model": "A-4BG1",
+            "Gross Power": "81.9 hp (60 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Hydraulic System Fluid Capacity": "13.3 gal (49 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "19290.5 lbs (8,750 kg)"
+        },
+        "Tires": {
+            "Tires": "16.9-24-10PR(OR)"
+        }
+    }
+}

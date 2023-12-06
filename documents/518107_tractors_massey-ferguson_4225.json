@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/4225/518107",
+    "source_url_id": "518107",
+    "source_url_model": "4225",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:41.721669",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "4225",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "65 hp (48 kw)"
+        },
+        "Production": {
+            "Series": "4200 Series",
+            "Years Manufactured": "1997 - 2001"
+        }
+    }
+}

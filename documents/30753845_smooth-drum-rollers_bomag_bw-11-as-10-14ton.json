@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-11-as-10-14ton/30753845",
+    "source_url_id": "30753845",
+    "source_url_model": "bw-11-as-10-14ton",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:54.107381",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 11 AS (10-14ton)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "4.1 ft (1 m)",
+            "Drum Diameter - Rear": "5.1 ft (2 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height": "6.5 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "9.2 ft (3 m)",
+            "Overall Length": "16.6 in (41 cm)",
+            "Overall Width": "5.3 ft (2 m)",
+            "Wheelbase": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "4B3.3TAA",
+            "Gross Power": "78 hp (58 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "30.2 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "15.1 gal (57 l)",
+            "Max Speed": "10.2 mph (16 kph)",
+            "Operating Voltage": "12 V V",
+            "Spray Water Capacity": "170.4 gal (643 l)"
+        },
+        "Weights": {
+            "Max Static Linear Load - Drive Drum": "304 lbs/in",
+            "Max Static Linear Load - guide drum": "223 lbs/in",
+            "Operating Weight - max ballast": "28413 lbs (12,888 kg)",
+            "Operating Weight - standard": "21483 lbs (9,745 kg)"
+        }
+    }
+}

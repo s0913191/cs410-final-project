@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/2410/31077207",
+    "source_url_id": "31077207",
+    "source_url_model": "2410",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:18.276624",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2410",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "40 hp (30 kw)"
+        },
+        "Production": {
+            "Series": "2400 Series",
+            "Years Manufactured": "2003 - 2008"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/spra-coupe/4655/28517007",
+    "source_url_id": "28517007",
+    "source_url_model": "4655",
+    "source_url_make": "spra-coupe",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:19.741727",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Spra-Coupe",
+    "equipment_model": "4655",
+    "equipment_spec": {
+        "Boom": {
+            "Max Boom Width": "80 ft (24 m)",
+            "Min Boom Width": "60 ft (18 m)"
+        },
+        "Dimensions": {
+            "Overall Length": "18.7 in (46 cm)",
+            "Tire Size": "Front9.0-24 8-Ply, Rear 320/85R24",
+            "Transport Height": "10 ft (3 m)",
+            "Transport Width": "11.2 ft (3 m)",
+            "Wheelbase": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "1104C",
+            "Gross Power": "123 hp (92 kw)",
+            "Gross Torque": "369 lbs/ft",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "9856 lbs (4,471 kg)",
+            "Fuel Capacity": "44 gal (167 l)",
+            "Hydraulic Fluid Capacity": "4 gal (15 l)",
+            "Solution Tank Capacity": "400 gal (1,514 l)"
+        },
+        "Transmission": {
+            "Max Speed": "18.6 mph (29 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison 2100 RDS 5-speed automatic"
+        }
+    }
+}

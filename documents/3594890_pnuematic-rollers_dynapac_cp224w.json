@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/dynapac/cp224w/3594890",
+    "source_url_id": "3594890",
+    "source_url_model": "cp224w",
+    "source_url_make": "dynapac",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:21.554072",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CP224W",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "250 in (635 cm)"
+        },
+        "Drum": {
+            "Drum Width": "89 in (226 cm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "89 in (226 cm)"
+        }
+    }
+}

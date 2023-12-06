@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/ausa/c150h/28514215",
+    "source_url_id": "28514215",
+    "source_url_model": "c150h",
+    "source_url_make": "ausa",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:23:06.395332",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Ausa",
+    "equipment_model": "C150H",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking": "Mechanical, sealed, multi-disc",
+            "Service": "Hydraulic, sealed, multi-disc"
+        },
+        "Capacity": {
+            "Fuel": "11.8877 gal (42 l)",
+            "Hydraulic system": "40 - 10.57 gal (151 - 38 l)"
+        },
+        "Driving": {
+            "External turning radius": "2570 mm (101 in)",
+            "Max Speed": "12.4 mph (19 kph)",
+            "Maximum gradient": "25%",
+            "Tires": "10.0/75-15.3 6.00-9 / 23x8.5-12",
+            "Traction": "4x2 / 4x4 Compen\u00ae"
+        },
+        "Engine": {
+            "Brand": "Kubota",
+            "Emissions": "Stage V - EPA Tier 4",
+            "Model": "V1505 \u2013 E4B",
+            "No. of cylinders": "4",
+            "Noise Level": "101 dB(A)",
+            "Power": "18.5 KWh",
+            "Torque": "92,6@1700"
+        },
+        "General": {
+            "Empty weight": "2700 kg (5,952 lbs)",
+            "Load Capacity": "1500 kg (3,307 lbs)",
+            "Load capacity to 500 mm": "1500 kg (3,307 lbs)",
+            "Load capacity to 600 mm": "1350 kg (2,976 lbs)",
+            "Maximum lift": "4000 mm (157 in)",
+            "Transmission": "Hydrostatic"
+        },
+        "Hydraulics": {
+            "Hydraulic circuit": "5.8118032440429 gal/min (19 l/min)",
+            "Workiing pressure": "200 bar"
+        },
+        "Mast": {
+            "Carriage width": "1260 mm (50 in)",
+            "Fork carriage": "FEM 2"
+        }
+    }
+}

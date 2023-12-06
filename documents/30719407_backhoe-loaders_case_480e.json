@@ -1,0 +1,71 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/case/480e/30719407",
+    "source_url_id": "30719407",
+    "source_url_model": "480e",
+    "source_url_make": "case",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:03.392864",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "480E",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "8115.3 lbs (3,681 kg)",
+            "Bucket Dig Force - Extended": "8274 lbs (3,753 kg)",
+            "Dig Depth": "12.1 ft (4 m)",
+            "Dig Depth - Extended": "15.2 ft (5 m)",
+            "Load Height": "8.4 ft (2 m)",
+            "Load Height - Extended": "8.7 ft (2 m)",
+            "Reach From Swivel": "15.8 ft (5 m)",
+            "Reach From Swivel - Extended": "18.7 ft (5 m)"
+        },
+        "Dimensions": {
+            "Front Wheel Tread Width": "67 in (170 cm)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height to Top of Suspended Cab": "8.4 ft (2 m)",
+            "Rear Tread Range": "65.8 in (165 cm)",
+            "Transport Length": "21.4 ft (6 m)",
+            "Transport Width": "7.3 ft (2 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Make": "J.I. Case",
+            "Engine Model": "4-390",
+            "Gross Power": "69 hp (51 kw)",
+            "Net Max Torque": "186 lbs/ft",
+            "Net Power": "63 hp (47 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "23 gal/min (87 l/min)",
+            "Pump Type": "Open center",
+            "Relief Valve Pressure": "2350 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "6340 lbs (2,876 kg)",
+            "Clearance at Max Dump Height": "8.6 ft (2 m)",
+            "Reach at Max Dump Height": "2.3 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Max Weight": "10904.1 lbs (4,946 kg)",
+            "Operating Voltage": "12 V V",
+            "Tire Size Front - 2wd / 4wd": "7.50x16"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9x24"
+        },
+        "Transmission": {
+            "Max Speed": "20.9 mph (32 kph)",
+            "Max Speed - Reverse": "18.3 mph (29 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Power shuttle"
+        }
+    }
+}

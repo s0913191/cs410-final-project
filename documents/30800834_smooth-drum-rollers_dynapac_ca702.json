@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca702/30800834",
+    "source_url_id": "30800834",
+    "source_url_model": "ca702",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:09.362243",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA702",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "28 hz (1,680 vpm)"
+        }
+    }
+}

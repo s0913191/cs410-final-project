@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/komatsu/d31p-20a/30750575",
+    "source_url_id": "30750575",
+    "source_url_model": "d31p-20a",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:39.843395",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D31P-20A",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length to Front of Track": "10 ft (3 m)",
+            "Length with Bucket on Ground": "13 ft (4 m)",
+            "Width to Outside of Tracks": "7.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "298.5 cu in (0 m)",
+            "Engine Model": "6D95L",
+            "Net Power": "71 hp (53 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2350 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "14991.5 lbs (6,800 kg)"
+        },
+        "Undercarriage": {
+            "Length of Track on Ground": "7.2 ft (2 m)",
+            "Number of Shoes per Side": "41",
+            "Number of Track Rollers per Side": "6",
+            "Track Gauge": "65 in (165 cm)",
+            "Track Shoe Width": "23.7 in (58 cm)"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/sw770hf/30198146",
+    "source_url_id": "30198146",
+    "source_url_model": "sw770hf",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:50.697592",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "SW770HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "6.6 ft (2 m)",
+            "Turning Radius - Inside": "15.2 in (38 cm)"
+        },
+        "Drum": {
+            "Drum Width": "67 in (170 cm)",
+            "Frequency": "2500 - 4,000 hz (150,000 - 240,000 vpm)",
+            "Vibration Frequency": "42 - 67 hz (2,520 - 4,020 vpm)"
+        },
+        "Engine": {
+            "Make": "Isuzu",
+            "Model": "4JJ1XDIA"
+        },
+        "Operating Specifications": {
+            "Operating Width": "6 in (15 cm)"
+        }
+    }
+}

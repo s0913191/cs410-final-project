@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/3230/30770688",
+    "source_url_id": "30770688",
+    "source_url_model": "3230",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:19.341198",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "3230",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "37  hp"
+        },
+        "Production": {
+            "Series": "30 Utility Series",
+            "Year Manufactured": "1990 - 1994"
+        }
+    }
+}

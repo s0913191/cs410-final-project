@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/terex/mt3300/30754716",
+    "source_url_id": "30754716",
+    "source_url_model": "mt3300",
+    "source_url_make": "terex",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:53.576595",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Terex",
+    "equipment_model": "MT3300",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "4 ft (1 m)",
+            "Dump Height": "35.5 ft (11 m)",
+            "Overall Height": "21 ft (6 m)",
+            "Overall Length": "40.1 ft (12 m)",
+            "Overall Width": "21.4 ft (6 m)",
+            "Wheelbase": "17.4 ft (5 m)"
+        },
+        "Dump": {
+            "Dump Angle": "45  \t\u00b0",
+            "Load Capacity - heaped": "113.8 cu yds (86 m)",
+            "Load Capacity - Struck": "82.5 cu yds (63 m)",
+            "Lower Time": "9 sec",
+            "Raise Time": "20 sec",
+            "Rated Payload": "45  \t\u00b0"
+        },
+        "Engine": {
+            "Aspiration": "100  A",
+            "Engine Model": "K1500E",
+            "Gross Power": "1350 hp (1,007 kw)",
+            "Net Power": "1275 hp (951 kw)",
+            "Number of Cylinders": "12",
+            "Rated Engine Speed": "214.8 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Cooling System Fluid Capacity": "80.1 gal (303 l)",
+            "Engine Oil Capacity": "56.8 gal (212 l)",
+            "Fuel Capacity": "600 gal (2,271 l)",
+            "Hydraulic System Fluid Capacity": "214.8 gal (810 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "33.00R51 Radial"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "300000 gal (1,135,500 l)"
+        },
+        "Transmission": {
+            "Max Speed": "33 mph (53 kph)"
+        },
+        "Weights": {
+            "Empty Weight": "232000 lbs (105,235 kg)",
+            "Loaded Weight": "532000 lbs (241,314 kg)",
+            "Weight Distribution Front - empty": "56.8%",
+            "Weight Distribution Front - loaded": "33.1%",
+            "Weight Distribution Rear - empty": "43.3%",
+            "Weight Distribution Rear - loaded": "66.9%"
+        }
+    }
+}

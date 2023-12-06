@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/case-ih/2388/30669658",
+    "source_url_id": "30669658",
+    "source_url_model": "2388",
+    "source_url_make": "case-ih",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:01:42.274062",
+    "equipment_category": "Combines",
+    "equipment_make": "Case Ih",
+    "equipment_model": "2388",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "6 ft (2 m)",
+            "Overall Length": "7 ft (2 m)",
+            "Width Over Tires": "349 ft (106 m)"
+        },
+        "Engine": {
+            "Engine Model": "6TAA-8304",
+            "Number of Cylinders": "6",
+            "Power": "375.5 hp (280 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "680 gal (2,574 l)",
+            "Number of Gears": "3",
+            "Operating Weight w/o Attachment": "20944 lbs (9,500 kg)",
+            "Transmission Type": "hydraulic transmission"
+        },
+        "Threshing": {
+            "Rotor Diameter": "760 in (1,930 cm)",
+            "Rotor Length": "2740 in (6,960 cm)"
+        }
+    }
+}

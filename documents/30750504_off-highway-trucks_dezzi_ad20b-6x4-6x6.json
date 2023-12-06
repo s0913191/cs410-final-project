@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/dezzi/ad20b-6x4-6x6/30750504",
+    "source_url_id": "30750504",
+    "source_url_model": "ad20b-6x4-6x6",
+    "source_url_make": "dezzi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:08.550062",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Dezzi",
+    "equipment_model": "AD20B 6X4 &6X6",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height": "11.2 ft (3 m)",
+            "Overall Length": "30.5 ft (9 m)",
+            "Overall Width": "8.6 ft (2 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "14.4 cu yds (11 m)",
+            "Capacity - Struck": "11.2 cu yds (8 m)",
+            "Dump Angle": "66  \t\u00b0",
+            "Raise Time": "16 sec",
+            "Rated Payload": "44092.5 lbs (20,000 kg)"
+        },
+        "Engine": {
+            "Engine Model": "Cummins 6",
+            "Gross Power": "168 hp (125 kw)",
+            "Max Torque": "520 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Tire Size": "29.5R25"
+        },
+        "Transmission": {
+            "Max Speed": "37.3 mph (60 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "ZF 6WG210 powershift/automatic"
+        },
+        "Weights": {
+            "Total Empty": "36155.9 lbs (16,400 kg)"
+        }
+    }
+}

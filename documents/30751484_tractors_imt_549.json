@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/imt/549/30751484",
+    "source_url_id": "30751484",
+    "source_url_model": "549",
+    "source_url_make": "imt",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:36.158500",
+    "equipment_category": "Tractors",
+    "equipment_make": "IMT",
+    "equipment_model": "549",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.3 in (30 cm)",
+            "Height - Top of Cab": "7.5 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "7.5 ft (2 m)",
+            "Overall Length": "10.7 in (25 cm)",
+            "Overall Width": "5.5 ft (2 m)",
+            "Tire Size": "front 7.5-20 rear 12.4-22",
+            "Width Outside Frame": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "DM33/T",
+            "Gross Power": "46.3 hp (34 kw)",
+            "Power Measured @": "2250 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "5247.1 lbs (2,380 kg)",
+            "Tire Size Front - 2wd / 4wd": "43632"
+        },
+        "Tires": {
+            "Rear Tires Size": "12.4-28"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "10",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "fully synchronized"
+        }
+    }
+}

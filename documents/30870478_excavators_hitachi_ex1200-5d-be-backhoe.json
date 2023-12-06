@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/ex1200-5d-be-backhoe/30870478",
+    "source_url_id": "30870478",
+    "source_url_model": "ex1200-5d-be-backhoe",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:52.490264",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EX1200-5D BE Backhoe",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "26 ft (8 m)",
+            "Digging Reach": "45 ft (14 m)"
+        },
+        "Engine": {
+            "Net Power": "760 hp (567 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "240700 lbs (109,181 kg)"
+        }
+    }
+}

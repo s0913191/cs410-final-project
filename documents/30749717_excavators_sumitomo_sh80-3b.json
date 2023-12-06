@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/sumitomo/sh80-3b/30749717",
+    "source_url_id": "30749717",
+    "source_url_model": "sh80-3b",
+    "source_url_make": "sumitomo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:18:53.313016",
+    "equipment_category": "Excavators",
+    "equipment_make": "Sumitomo",
+    "equipment_model": "SH80-3B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "15.1 ft (5 m)",
+            "Max Loading Height": "15.1 ft (5 m)",
+            "Max Reach Along Ground": "23.9 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "11 ft (3 m)",
+            "Shipping Height of Unit": "8.9 ft (2 m)",
+            "Shipping Length of Unit": "22.2 ft (7 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.4 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Tail Swing Radius": "5.4 ft (2 m)",
+            "Width to Outside of Tracks": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134.3 cu in (0 m)",
+            "Engine Model": "AU-4LE2X",
+            "Net Power": "53.7 hp (40 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "36 gal/min (136 l/min)",
+            "Hydraulic System Relief Valve Pressure": "4786.3 psi",
+            "Operating Weight": "18739.3 lbs (8,500 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Shoe Size": "17.8 in (43 cm)"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/bm-lm1640/30755235",
+    "source_url_id": "30755235",
+    "source_url_model": "bm-lm1640",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:22.507004",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM LM1640",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4 cu yds (3 m)",
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Hinge Pin - Max Height": "13.2 ft (4 m)",
+            "Length with Bucket on Ground": "26.1 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.8 ft (1 m)",
+            "Wheelbase": "11.4 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "D11 R 41",
+            "Gross Power": "215 hp (160 kw)",
+            "Net Power": "202 hp (151 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "95.2 gal/min (360 l/min)",
+            "Relief Valve Setting": "1990 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "36376.3 lbs (16,500 kg)",
+            "Static Tipping Weight": "23810 lbs (10,800 kg)",
+            "Tire Size": "23.5-25/16",
+            "Turning Radius": "20.7 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "26.1 mph (42 kph)",
+            "Max Speed - Reverse": "26.1 mph (42 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "hydraulically operated planetary gearbox"
+        }
+    }
+}

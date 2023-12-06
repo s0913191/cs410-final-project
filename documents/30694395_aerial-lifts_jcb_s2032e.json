@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jcb/s2032e/30694395",
+    "source_url_id": "30694395",
+    "source_url_model": "s2032e",
+    "source_url_make": "jcb",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:11.596373",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JCB",
+    "equipment_model": "S2032E",
+    "equipment_spec": {
+        "Brakes": {
+            "Brakes Type": "2, rear-wheel",
+            "Drive and steer model": "2, front-wheel",
+            "Gradeability": "25"
+        },
+        "Dimensions": {
+            "Ground Clearance": "4 in (10 cm)",
+            "Solid tyre dimensions": "305 x 115 mm, (12 x 4.5)in",
+            "Turning Radius - Outside": "6.2 ft (2 m)",
+            "Weight": "4043.3 lbs (1,834 kg)"
+        },
+        "Electrical System": {
+            "Battery": "6V x 4 (225)",
+            "Input voltage of Charger": "100-24 VAc",
+            "Output voltage of Charger": "25 A",
+            "Power unit": "4.5 hp (3 kw)"
+        },
+        "Engine": {
+            "Engine Model": "S2032E"
+        },
+        "Hydraulic System": {
+            "Hydraulic Oil capacity(Power angle tilt dozer)": "3.7 gal (11 l)",
+            "Hydraulic system tank": "4.8 gal (15 l)",
+            "system pressure": "3481 psi"
+        },
+        "Performance": {
+            "Load capacity": "1851.9 lbs (840 kg)"
+        },
+        "Platform": {
+            "Drive Speed - Platform Elevated": "0.5 mph (0 kph)",
+            "Drive Speed - Platform Lowered": "2 mph (3 kph)",
+            "Extension outreach": "3 ft (1 m)",
+            "Max allowable side force (indoor)": "90 lbs/ft",
+            "Max allowable slope (side/side)": "1.5  \t\u00b0",
+            "Max allowable wind speed (outdoor)": "28 mph (45 kph)",
+            "Max Platform Height": "20.8 ft (6 m)",
+            "Max Working Height": "26.8 ft (8 m)",
+            "Max. allowable side force (outdoor)": "45 lbs/ft",
+            "Max. allowable slope (front/back)": "3  \t\u00b0",
+            "Overall height (stowed, guardrail unfolded)": "7.3 ft (2 m)",
+            "Overall length (stowed , guardrail folded)": "7.9 ft (2 m)",
+            "Overall width (stowed)": "2.7 ft (1 m)"
+        }
+    }
+}

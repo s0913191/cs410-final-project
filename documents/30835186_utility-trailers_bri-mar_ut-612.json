@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/utility-trailers/bri-mar/ut-612/30835186",
+    "source_url_id": "30835186",
+    "source_url_model": "ut-612",
+    "source_url_make": "bri-mar",
+    "source_url_category": "utility-trailers",
+    "source_date_scraped": "2023-09-13 17:56:11.347437",
+    "equipment_category": "Utility Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "UT-612",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.3x12 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "1215 lbs (551 kg)",
+            "Weight Capacity": "1785 lbs (810 kg)"
+        }
+    }
+}

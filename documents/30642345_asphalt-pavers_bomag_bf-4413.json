@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/bomag/bf-4413/30642345",
+    "source_url_id": "30642345",
+    "source_url_model": "bf-4413",
+    "source_url_make": "bomag",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:53.213131",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BF 4413",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "12.2 ft (4 m)",
+            "Length w/o Screed": "11.5 ft (3 m)",
+            "Track Width": "12.1 in (30 cm)",
+            "Transport Height": "6.7 ft (2 m)",
+            "Transport Width": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Gross Power": "60 hp (45 kw)",
+            "Make": "Cummins"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "7.5 lbs (3 kg)",
+            "Paving Speed": "0 - 360 ft/min  -",
+            "Paving Thickness - max": "6 in (15 cm)",
+            "Paving Width - max": "13.2 ft (4 m)",
+            "Travel Speed - max": "4.2 mph (6 kph)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.1 gal (11 l)",
+            "Fuel Capacity": "23.3 gal (87 l)",
+            "Hydraulic System Fluid Capacity": "27.7 gal (102 l)",
+            "Operating Weight w/ Screed": "15500 lbs (7,031 kg)"
+        }
+    }
+}

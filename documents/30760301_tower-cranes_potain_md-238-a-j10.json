@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/md-238-a-j10/30760301",
+    "source_url_id": "30760301",
+    "source_url_model": "md-238-a-j10",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:21.730916",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "MD 238 A J10",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "227 ft (69 m)",
+            "Max Lift Capacity": "11 t (9,979 kg)"
+        }
+    }
+}

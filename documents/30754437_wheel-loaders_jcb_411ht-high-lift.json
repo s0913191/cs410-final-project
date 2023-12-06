@@ -1,0 +1,84 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/411ht-high-lift/30754437",
+    "source_url_id": "30754437",
+    "source_url_model": "411ht-high-lift",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:58.193937",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "411HT High Lift",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "16455 lbs (7,464 kg)",
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Bucket Capacity - struck": "1.4 cu yds (1 m)",
+            "Bucket Width": "7.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Dump Clearance at Max Lift": "9.1 ft (3 m)",
+            "Fork Tine Length": "4.1 ft (1 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Hinge Pin - Max Height": "11.1 ft (3 m)",
+            "Hinge Pin Max Height": "11.9 ft (3 m)",
+            "Length w/ Bucket on Ground": "20 ft (6 m)",
+            "Length with Bucket on Ground": "19.9 ft (6 m)",
+            "Max Lift Height": "11.4 ft (3 m)",
+            "Reach at Max Height and Dump": "3.2 ft (1 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "8.9 ft (2 m)",
+            "Width Over Tires": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "Dieselmax",
+            "Gross Power": "92 hp (69 kw)",
+            "Max Torque": "313 lbs/ft",
+            "Net Power": "92.8 hp (69 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "3.7 sec",
+            "Pump Flow Capacity": "13.3 gal/min (49 l/min)",
+            "Pump Type": "Double gear pump",
+            "Raise Time": "5 sec",
+            "Relief Valve Setting": "3190 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "6.1 gal (23 l)",
+            "Engine Oil Capacity": "3 gal (11 l)",
+            "Engine Oil Fluid Capacity": "3.1 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "6.7 gal (23 l)",
+            "Front Diff Fluid Capacity": "6.6 gal (23 l)",
+            "Fuel Capacity": "33 gal (125 l)",
+            "Hydraulic System Fluid Capacity": "29 gal (110 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "19122.9 lbs (8,674 kg)",
+            "Rear Axle Oscillation": "12.5  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "6.7 gal (23 l)",
+            "Rear Diff Fluid Capacity": "6.6 gal (23 l)",
+            "Static Tipping Load - Bucket": "12853 lbs (5,830 kg)",
+            "Static Tipping Load - Forks": "9027 lbs (4,095 kg)",
+            "Static Tipping Weight": "11834.5 lbs (5,368 kg)",
+            "Tire Size": "Michelin 15.5R25 XHA (L3)",
+            "Transmission Fluid Capacity": "7.1 gal (27 l)",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.4 mph (37 kph)",
+            "Max Speed - Reverse": "17.1 mph (27 kph)",
+            "Max Speed Forward": "23.3 mph (37 kph)",
+            "Max Speed Reverse": "17.1 mph (27 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Smooth shift powershift"
+        }
+    }
+}

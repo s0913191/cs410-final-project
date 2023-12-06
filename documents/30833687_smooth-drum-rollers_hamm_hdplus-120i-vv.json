@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hdplus-120i-vv/30833687",
+    "source_url_id": "30833687",
+    "source_url_model": "hdplus-120i-vv",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:08.621757",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD+ 120i VV",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "35.5 in (89 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length": "208.7 in (528 cm)",
+            "Overall Width": "7.1 ft (2 m)",
+            "Track width": "7.1 ft (2 m)",
+            "Turning Radius - Inside": "20.7 ft (6 m)",
+            "Wheelbase": "153.6 in (389 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "38892 lbs (17,641 kg)",
+            "Centrifugal Force - Low": "21356.9 lbs (9,687 kg)",
+            "Drum Diameter": "55.2 in (140 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Width": "78 in (198 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency": "40/50 hz (2,400 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 4.1 L4",
+            "Gross Power": "154.3 hp (115 kw)",
+            "Make": "Deutz",
+            "Net Power": "154.3 hp (115 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "68.7 gal (257 l)",
+            "Max Speed": "3.8 mph (5 kph)",
+            "Operating Weight": "29519.9 lbs (13,390 kg)",
+            "Operating weight Cabin": "27502.7 lbs (12,475 kg)",
+            "Operating weight ROPS": "26973.6 lbs (12,235 kg)",
+            "Operating Width": "84 in (213 cm)",
+            "Steering Angle": "10  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "302.5 gal (1,143 l)"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/gehl/1640e/42155",
+    "source_url_id": "42155",
+    "source_url_model": "1640e",
+    "source_url_make": "gehl",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:44.371274",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Gehl",
+    "equipment_model": "1640E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "6.1 ft (2 m)",
+            "Ground Clearance": "6 in (15 cm)",
+            "Height - Top of Cab": "6.3 ft (2 m)",
+            "Length w/o Bucket": "6.3 ft (2 m)",
+            "Length with Bucket": "8.5 ft (2 m)",
+            "Reach at Max Lift and Dump": "14.9 in (36 cm)",
+            "Turning Radius from Center - inc bucket": "58 in (147 cm)",
+            "Turning Radius from Center - machine rear": "43.2 in (109 cm)",
+            "Wheelbase": "2.6 ft (1 m)",
+            "Width Over Tires": "3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "81 cu in (0 m)",
+            "Engine Model": "3TNV82BPMS",
+            "Gross Power": "24 hp (18 kw)",
+            "Max Torque": "68 lbs/ft",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic": {
+            "Pump Flow Capacity": "10.1 gal/min (38 l/min)",
+            "Relief Valve Pressure": "2255 psi"
+        },
+        "Loader": {
+            "Operating Load Rating": "851 lbs (386 kg)",
+            "Operating Width": "35.8 in (89 cm)"
+        },
+        "Operational": {
+            "Fuel Capacity": "7.7 gal (27 l)",
+            "Hydraulic System Fluid Capacity": "7.2 gal (27 l)",
+            "Operating Speed": "5.5 mph (8 kph)",
+            "Operational Weight": "2980.7 lbs (1,352 kg)"
+        }
+    }
+}

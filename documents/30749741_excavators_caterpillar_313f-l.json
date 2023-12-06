@@ -1,0 +1,94 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/313f-l/30749741",
+    "source_url_id": "30749741",
+    "source_url_model": "313f-l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:39.291853",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "313F L",
+    "equipment_spec": {
+        "DRIVE SYSTEM": {
+            "Maximum Drawbar Pull": "24706 lbs (11,207 kg)",
+            "Maximum Travel Speed": "3.3 mph (5 kph)"
+        },
+        "Engine": {
+            "Bore": "3.9 in (8 cm)",
+            "Displacement": "207 cu in (0 m)",
+            "Engine Model": "Cat C3.4B",
+            "Flywheel Power": "70 hp (52 kw)",
+            "Gross Power": "70 hp (52 kw)",
+            "Gross Power - SAE J1995": "74 hp (55 kw)",
+            "Net Power": "70 hp (52 kw)",
+            "Net Power - SAE J1349": "70 hp (52 kw)",
+            "Stroke": "4.4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Boom Cylinder - Bore": "4 in (10 cm)",
+            "Boom Cylinder - Stroke": "40 in (102 cm)",
+            "Bucket Cylinder - Bore": "4 in (10 cm)",
+            "Bucket Cylinder - Stroke": "37 in (94 cm)",
+            "Main System - Maximum Flow - Total": "63.4 gal/min (238 l/min)",
+            "Maximum Pressure - Equipment": "4424 psi",
+            "Maximum Pressure - Swing": "3336 psi",
+            "Maximum Pressure - Travel": "4424 psi",
+            "Pilot System - Maximum Pressure": "598 psi",
+            "Stick Cylinder - Bore": "5 in (13 cm)",
+            "Stick Cylinder - Stroke": "47 in (119 cm)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.8 gal (15 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Hydraulic System Fluid Capacity": "43.4 gal (163 l)",
+            "Operating Weight": "29300 lbs (13,290 kg)",
+            "Swing Drive Fluid Capacity": "0.8 gal (0 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "4.7 gal (15 l)",
+            "Engine Oil": "2.1 gal (8 l)",
+            "Fuel Tank Capacity": "66 gal (250 l)",
+            "Hydraulic System - Including Tank": "43.3 gal (163 l)",
+            "Hydraulic Tank": "23.9 gal (87 l)",
+            "Swing Drive": "0.8 gal (0 l)"
+        },
+        "Swing": {
+            "Swing Speed": "11.7 rpm",
+            "Swing Torque": "22791 lbs/ft"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "19.8 ft (6 m)",
+            "Max Reach Along Ground": "28.3 ft (9 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Length of Track on Ground": "12.4 ft (4 m)",
+            "Removal Counterweight Clearance": "2.9 ft (1 m)",
+            "Tail Swing Radius": "7.2 ft (2 m)"
+        },
+        "Standards": {
+            "Brakes": "ISO 10265"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.7 rpm"
+        },
+        "Track": {
+            "Number of Shoes - Each Side - Long Undercarriage": "46 pieces",
+            "Number of Track Rollers - Each Side - Long Undercarriage": "7 pieces"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "24706.6 lbs (11,207 kg)",
+            "Max Travel Speed": "5.5 mph (8 kph)",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "46",
+            "Number of Track Rollers per Side": "7"
+        },
+        "Weights": {
+            "Maximum Operating Weight": "32200 lbs (14,606 kg)",
+            "Minimum Operating Weight": "29300 lbs (13,290 kg)",
+            "Operating Weight": "29300 lbs (13,290 kg)"
+        }
+    }
+}

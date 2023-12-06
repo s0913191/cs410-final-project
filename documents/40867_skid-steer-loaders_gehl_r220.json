@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/gehl/r220/40867",
+    "source_url_id": "40867",
+    "source_url_model": "r220",
+    "source_url_make": "gehl",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:02.863666",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Gehl",
+    "equipment_model": "R220",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "72 hp (54 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2200 lbs (998 kg)",
+            "Operating Width": "65.5 in (165 cm)"
+        }
+    }
+}

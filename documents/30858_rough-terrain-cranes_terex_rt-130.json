@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-130/30858",
+    "source_url_id": "30858",
+    "source_url_model": "rt-130",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:08.857457",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 130",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "155 ft (47 m)",
+            "Min Height @ Max Raise Angle": "41.5 ft (13 m)",
+            "Number of Sections": "5"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "29.2 ft (9 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "49.8 ft (15 m)",
+            "Transport Width": "11.1 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "15.2 ft (5 m)",
+            "Wheelbase": "180 in (457 cm)",
+            "Width w/ Outriggers Extended": "26 ft (8 m)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSC-300",
+            "Gross Power": "300 hp (224 kw)",
+            "Max Torque": "1000 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "80 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "304 gal (1,151 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "33.25x29-32 PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.7 mph (19 kph)",
+            "Number of Forward Gears": "6"
+        }
+    }
+}

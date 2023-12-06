@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc210lc-8m0/30748390",
+    "source_url_id": "30748390",
+    "source_url_model": "pc210lc-8m0",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:10:12.519243",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC210LC-8M0",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "45.4 ft (14 m)",
+            "Max Digging Depth": "37.9 ft (11 m)",
+            "Max Loading Height": "37.7 ft (11 m)",
+            "Max Reach Along Ground": "49.7 ft (15 m)",
+            "Max Vertical Wall Digging Depth": "31.3 ft (9 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Length of Track on Ground": "14.6 ft (4 m)",
+            "Removal Counterweight Clearance": "3.6 ft (1 m)",
+            "Tail Swing Radius": "9.7 ft (3 m)",
+            "Width to Outside of Tracks": "9.8 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "408.3 cu in (0 m)",
+            "Engine Make": "Komatsu",
+            "Engine Model": "SAA6D107E-1",
+            "Gross Power": "147.6 hp (110 kw)",
+            "Net Power": "138.2 hp (103 kw)",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "4.9 in (10 cm)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5.4 gal (19 l)",
+            "Engine Oil Capacity": "6.2 gal (23 l)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic Pump Flow Capacity": "116 gal/min (439 l/min)",
+            "Hydraulic System Fluid Capacity": "35.7 gal (132 l)",
+            "Operating Weight": "51478 lbs (23,350 kg)",
+            "Swing Drive Fluid Capacity": "1.8 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.4 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "40016 lbs (18,151 kg)",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "49",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

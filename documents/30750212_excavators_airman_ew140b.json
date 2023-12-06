@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/airman/ew140b/30750212",
+    "source_url_id": "30750212",
+    "source_url_model": "ew140b",
+    "source_url_make": "airman",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:52:41.314261",
+    "equipment_category": "Excavators",
+    "equipment_make": "Airman",
+    "equipment_model": "EW140B",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "30.2 ft (9 m)",
+            "Max Digging Depth": "15.1 ft (5 m)",
+            "Max Reach Along Ground": "26.3 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "10.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Overall Width": "8.4 in (20 cm)",
+            "Overall Width - Outriggers Down": "12.9 ft (4 m)",
+            "Wheelbase": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "293 cu in (0 m)",
+            "Engine Model": "D5D EBE2",
+            "Gross Power": "92 hp (69 kw)",
+            "Net Power": "88 hp (66 kw)",
+            "Net Torque": "409.4 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "5.7 gal (19 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Front Diff Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Hydraulic Pump Flow Capacity": "60.8 gal/min (227 l/min)",
+            "Hydraulic Pump Type": "Axial Piston Pump",
+            "Hydraulic System Fluid Capacity": "62.1 gal (235 l)",
+            "Operating Voltage": "24 V",
+            "Rear Diff Fluid Capacity": "3 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "18.7 mph (29 kph)",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

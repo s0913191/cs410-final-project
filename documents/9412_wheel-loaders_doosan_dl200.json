@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/doosan/dl200/9412",
+    "source_url_id": "9412",
+    "source_url_model": "dl200",
+    "source_url_make": "doosan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:39.843856",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "DL200",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "23149 lbs (10,500 kg)",
+            "Bucket Capacity - heaped": "2.5 cu yds (2 m)",
+            "Bucket Width": "8.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Hinge Pin - Max Height": "12.6 ft (4 m)",
+            "Length with Bucket on Ground": "24 ft (7 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo compressor and air to air cooling",
+            "Displacement": "360 cu in (0 m)",
+            "Engine Model": "DL06",
+            "Gross Power": "143 hp (107 kw)",
+            "Net Power": "137 hp (102 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "4.1 sec",
+            "Pump Flow Capacity": "23.3 gal/min (87 l/min)",
+            "Pump Type": "gear type",
+            "Raise Time": "5.8 sec",
+            "Relief Valve Setting": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Engine Oil Fluid Capacity": "7.2 gal (27 l)",
+            "Front Axle/Diff Fluid Capacity": "5.2 gal (19 l)",
+            "Fuel Capacity": "64.2 gal (242 l)",
+            "Hydraulic System Fluid Capacity": "30.4 gal (114 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "25673 lbs (11,645 kg)",
+            "Rear Axle Oscillation": "22  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "4.9 gal (15 l)",
+            "Static Tipping Weight": "19555.1 lbs (8,870 kg)",
+            "Tire Size": "20.5R25",
+            "Transmission Fluid Capacity": "8 gal (30 l)",
+            "Turning Radius": "17.1 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.8 mph (34 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        }
+    }
+}

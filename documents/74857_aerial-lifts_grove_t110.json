@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/t110/74857",
+    "source_url_id": "74857",
+    "source_url_model": "t110",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:15.951611",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "T110",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height - mast lowered": "8.7 ft (2 m)",
+            "Overall Length": "46.4 in (117 cm)",
+            "Overall Width": "8.5 ft (2 m)",
+            "Turning Radius": "21 ft (6 m)",
+            "Wheelbase": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "CSG-6.49",
+            "Gross Power": "110 hp (82 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "30.2 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "100.2 gal (379 l)",
+            "Max Speed": "2.5 mph (3 kph)",
+            "Operating Weight": "39698.7 lbs (18,007 kg)",
+            "Tire Fill/Type": "Foam",
+            "Tire Size": "445/65R22.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "74 ft (23 m)",
+            "Max Platform Height": "110.1 ft (34 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "116 ft (35 m)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "36.3 in (91 cm)"
+        }
+    }
+}

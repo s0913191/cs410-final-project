@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/champion/c66c/30754472",
+    "source_url_id": "30754472",
+    "source_url_model": "c66c",
+    "source_url_make": "champion",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:38.670735",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Champion",
+    "equipment_model": "C66C",
+    "equipment_spec": {
+        "Blades": {
+            "Maximum Shoulder Reach Outside of Tires - Left": "3.0 in (8 cm)",
+            "Maximum Shoulder Reach Outside of Tires - Right": "3.0 in (8 cm)",
+            "Moldboard Sideshift - Left": "44 in (112 cm)",
+            "Moldboard Sideshift - Right": "44 in (112 cm)"
+        },
+        "Circle": {
+            "Blade Tip Angle - Front": "45  \t\u00b0",
+            "Blade Tip Angle - Rear": "5  \t\u00b0",
+            "Max Lift Above Ground": "12.1 in (30 cm)",
+            "Max Reach Outside Tires - Left": "75 in (191 cm)",
+            "Max Reach Outside Tires - Right": "75 in (191 cm)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "9.1 ft (3 m)",
+            "Overall Length": "20.9 ft (6 m)",
+            "Width Over Tires": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Base Power (1st Gear) - Net": "110 hp (82 kw)",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "4BT3.9",
+            "Net Power Gear 1-2": "80.5 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Front Axle": {
+            "Oscillation - Total": "35  \t\u00b0",
+            "Wheel Lean": "15  \t\u00b0"
+        },
+        "Moldboard": {
+            "Moldboard Height": "21 in (53 cm)",
+            "Moldboard Length": "10 ft (3 m)",
+            "Moldboard Thickness": "0.7 in (0 cm)",
+            "Moldboard Width": "10 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "13400 lbs (6,078 kg)",
+            "Std Operation Weight - Total": "13404.2 lbs (6,080 kg)"
+        },
+        "Steering System": {
+            "Articulation Angle": "27  \t\u00b0",
+            "Turning Radius": "9.6 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "19.9 mph (31 kph)",
+            "Max Speed - Reverse": "19.9 mph (31 kph)",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

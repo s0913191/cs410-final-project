@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/new-holland/lw50b/30755060",
+    "source_url_id": "30755060",
+    "source_url_model": "lw50b",
+    "source_url_make": "new-holland",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:27.129835",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "LW50.B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "12050 lbs (5,466 kg)",
+            "Bucket Capacity - heaped": "1 cu yds (1 m)",
+            "Dump Clearance at Max Raise": "7.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Hinge Pin - Max Height": "10.1 ft (3 m)",
+            "Length with Bucket on Ground": "16.8 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.8 ft (1 m)",
+            "Wheelbase": "7 ft (2 m)",
+            "Width Over Tires": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "183 cu in (0 m)",
+            "Engine Model": "704.3",
+            "Gross Power": "57 hp (43 kw)",
+            "Net Power": "53 hp (40 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "14 gal/min (53 l/min)",
+            "Pump Type": "Gear",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "3335 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "3 gal (11 l)",
+            "Engine Oil Fluid Capacity": "2 gal (8 l)",
+            "Front Axle/Diff Fluid Capacity": "1.2 gal (4 l)",
+            "Fuel Capacity": "23.5 gal (87 l)",
+            "Hydraulic System Fluid Capacity": "15.5 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10038 lbs (4,553 kg)",
+            "Rear Axle/Diff Fluid Capacity": "1.5 gal (4 l)",
+            "Static Tipping Weight": "7634 lbs (3,463 kg)",
+            "Turning Radius": "12.3 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.4 mph (19 kph)",
+            "Max Speed - Reverse": "12.4 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

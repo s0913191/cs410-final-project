@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca624-hf/30800678",
+    "source_url_id": "30800678",
+    "source_url_model": "ca624-hf",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:09.119408",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA624 HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "242 in (615 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "3,060/4,020 hz (183,600 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB 4.5 T3"
+        },
+        "Operating Specifications": {
+            "Operating Width": "91 in (231 cm)"
+        }
+    }
+}

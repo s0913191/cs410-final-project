@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/hd40a/27605",
+    "source_url_id": "27605",
+    "source_url_model": "hd40a",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:17.643231",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "HD40A",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "75.4 ft (23 m)",
+            "Max Lift Capacity": "4 t (3,629 kg)"
+        }
+    }
+}

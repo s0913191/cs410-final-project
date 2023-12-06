@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/1759/11917883",
+    "source_url_id": "11917883",
+    "source_url_model": "1759",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:14.015365",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "1759",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Overall Length": "134.7 in (340 cm)",
+            "Wheelbase": "6.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Cooling method": "Liquid-cooled",
+            "Displacement": "103.8 cu in (0 m)",
+            "Engine Model": "1759",
+            "Gross Power": "59 hp (44 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3307 lbs (1,500 kg)",
+            "Fuel Capacity": "14.6 gal (53 l)",
+            "Hydraulic System Fluid Capacity": "12.8 gal (45 l)"
+        },
+        "Production": {
+            "Series": "1700 Series",
+            "Years Manufactured": "2013 - 2018"
+        },
+        "Transmission": {
+            "Brake type": "Internal wet disc brakes",
+            "Differential lock": "Mechanical engagement",
+            "Transmission Type": "12 X 12 power shuttle"
+        }
+    }
+}

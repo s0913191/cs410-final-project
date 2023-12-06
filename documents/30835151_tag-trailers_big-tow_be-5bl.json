@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/big-tow/be-5bl/30835151",
+    "source_url_id": "30835151",
+    "source_url_model": "be-5bl",
+    "source_url_make": "big-tow",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:54:54.342023",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Big Tow",
+    "equipment_model": "BE-5BL",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x14 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "TORFLEX"
+        },
+        "Weights": {
+            "Equipment Weight": "3260 lbs (1,479 kg)",
+            "Weight Capacity": "10000 lbs (4,536 kg)"
+        }
+    }
+}

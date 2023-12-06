@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc900/30677241",
+    "source_url_id": "30677241",
+    "source_url_model": "cc900",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:33.291671",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC900",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.1 in (25 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Overall Length": "6.9 in (15 cm)",
+            "Overall Width": "3.2 ft (1 m)",
+            "Overhang Front": "0.2 ft (0 m)",
+            "Overhang Rear": "0.2 ft (0 m)",
+            "Turning Radius - Inside": "65 in (165 cm)",
+            "Turning Radius - Outside": "9.3 ft (3 m)",
+            "Wheelbase": "4.5 in (10 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "3821.8 lbs (1,733 kg)",
+            "Drum Diameter": "23 in (58 cm)",
+            "Drum thickness": "0.6 in (0 cm)",
+            "Drum Width": "35 in (89 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "52.7 lbs/in",
+            "Vibration Frequency": "70 hz (4,200 vpm)",
+            "Vibration Frequency 1": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "watercooled",
+            "Engine Make": "Kubota 2351",
+            "Engine Model": "D1105-E4B",
+            "Gross Power": "24.2 hp (18 kw)",
+            "Make": "Perkins 403D-11",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6.1 gal (23 l)",
+            "Max Speed": "5.6 mph (8 kph)",
+            "Operating Weight": "3670.7 lbs (1,665 kg)",
+            "Operating weight ROPS": "3527.4 lbs (1,600 kg)",
+            "Operating Width": "38 in (97 cm)",
+            "Water Spray Tank Fluid Capacity": "29.1 gal (110 l)"
+        }
+    }
+}

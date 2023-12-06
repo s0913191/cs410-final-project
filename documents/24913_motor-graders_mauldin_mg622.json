@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/mauldin/mg622/24913",
+    "source_url_id": "24913",
+    "source_url_model": "mg622",
+    "source_url_make": "mauldin",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:45.870399",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Mauldin",
+    "equipment_model": "MG622",
+    "equipment_spec": {
+        "Circle": {
+            "Diameter": "54 in (137 cm)",
+            "Max Lift Above Ground": "14.1 in (36 cm)",
+            "Max Reach Outside Tires - Left": "77.3 in (196 cm)",
+            "Max Reach Outside Tires - Right": "71.5 in (180 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "7.8 ft (2 m)",
+            "Height to Top of Isomount Cab": "9.7 ft (3 m)",
+            "Overall Length": "27.4 ft (8 m)",
+            "Tandem Axle Wheelbase": "4.8 ft (1 m)",
+            "Wheelbase": "17.4 ft (5 m)",
+            "Width Over Tires": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and aftercooled",
+            "Displacement": "246.6 cu in (0 m)",
+            "Max Power": "133 hp (99 kw)",
+            "Net Torque Gears 1-2": "363.3 lbs/ft"
+        },
+        "Front Axle": {
+            "Oscillation - Total": "30  \t\u00b0",
+            "Wheel Lean": "20  \t\u00b0"
+        },
+        "Moldboard": {
+            "Max Depth of Cut": "23.5 in (58 cm)",
+            "Moldboard Height": "22 in (56 cm)",
+            "Moldboard Width": "12 ft (4 m)",
+            "Side Shift Left": "31.3 in (79 cm)",
+            "Side Shift Right": "26.8 in (66 cm)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "25 gal (95 l)",
+            "Operating Voltage": "12 V V",
+            "Std Operation Weight - Front Axle": "6695 lbs (3,037 kg)",
+            "Std Operation Weight - Rear Axle": "16145 lbs (7,323 kg)",
+            "Std Operation Weight - Total": "22840 lbs (10,360 kg)",
+            "Tire Size": "15.5-25"
+        },
+        "Steering System": {
+            "Articulation Angle": "24  \t\u00b0",
+            "Turning Radius": "20.5 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22 mph (35 kph)",
+            "Max Speed - Reverse": "22 mph (35 kph)",
+            "Number of Gears - Forward": "2",
+            "Number of Gears - Reverse": "2",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

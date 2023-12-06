@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stavostroj/v900/30754135",
+    "source_url_id": "30754135",
+    "source_url_model": "v900",
+    "source_url_make": "stavostroj",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:00.301497",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stavostroj",
+    "equipment_model": "V900",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "5 ft (2 m)",
+            "Ground Clearance": "16.6 in (41 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "17 in (43 cm)",
+            "Overall Width": "7.3 ft (2 m)",
+            "Wheelbase": "8.9 in (20 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "46310.7 lbs (21,006 kg)",
+            "Centrifugal Force - Low": "39341.6 lbs (17,845 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum Width": "86.7 in (218 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "155.9 lbs/in",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibration Frequency 2": "35 hz (2,100 vpm)"
+        },
+        "Engine": {
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "6BT5.9",
+            "Gross Power": "149 hp (111 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "23627 lbs (10,717 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1x26.8PLY"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/sakai/t2-1/30753821",
+    "source_url_id": "30753821",
+    "source_url_model": "t2-1",
+    "source_url_make": "sakai",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:39.102132",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "T2-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "9.6 ft (3 m)",
+            "Overall Length": "16.5 in (41 cm)",
+            "Overall Width": "7.5 ft (2 m)",
+            "Wheelbase": "12.7 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "396.3 cu in (0 m)",
+            "Engine Model": "BB-4BG1T diesel engine",
+            "Gross Power": "97.9 hp (72 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Max Speed": "11.9 mph (18 kph)",
+            "Operating Voltage": "24 V V"
+        },
+        "Tires": {
+            "Number of Tires - Front": "3",
+            "Number of Tires - Rear": "4",
+            "Standard Tire Size": "14/70-20-12PR(OR) smooth tread",
+            "Wheel Track/Tire Overlap": "2.2 in (5 cm)"
+        },
+        "Weights": {
+            "Average Weight per Wheel - Max Ballast": "4724.6 lbs (2,143 kg)",
+            "Average Weight per Wheel - Standard": "2896.9 lbs (1,314 kg)",
+            "Operating Weight - max ballast": "33069.4 lbs (15,000 kg)",
+            "Operating Weight - standard": "20282.6 lbs (9,200 kg)"
+        }
+    }
+}

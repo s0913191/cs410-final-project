@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1100-2/23473",
+    "source_url_id": "23473",
+    "source_url_model": "ltm-1100-2",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:48.820587",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1100-2",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "230 ft (70 m)",
+            "Max Lift Capacity": "120 t (108,862 kg)"
+        }
+    }
+}

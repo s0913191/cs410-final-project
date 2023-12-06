@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx225lc-3/9446",
+    "source_url_id": "9446",
+    "source_url_model": "dx225lc-3",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:36.996059",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX225LC-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Length of Track on Ground": "14.6 ft (4 m)",
+            "Removal Counterweight Clearance": "3.5 ft (1 m)",
+            "Tail Swing Radius": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "DL06K",
+            "Net Power": "167 hp (125 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "48281.3 lbs (21,900 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Number of Shoes per Side": "51"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l-550-z-xpower/30761317",
+    "source_url_id": "30761317",
+    "source_url_model": "l-550-z-xpower",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:32.322248",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L 550 Z XPower",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.6 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Liebherr",
+            "Model": "D 934 A7",
+            "Net Power": "192 hp (143 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.2 cu yds (3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "39020 lbs (17,699 kg)"
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/100c-1/815133",
+    "source_url_id": "815133",
+    "source_url_model": "100c-1",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:04:00.661131",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "100C-1",
+    "equipment_spec": {
+        "Blades": {
+            "Approach angle": "31  \t\u00b0",
+            "Blade Height": "10.6 in (25 cm)",
+            "Blade width": "1550 mm (61 in)",
+            "Dig depth (below ground)": "1.4 ft (0 m)",
+            "Maximum height": "1.1 ft (0 m)",
+            "Reach in front of tracks": "1.2 ft (0 m)"
+        },
+        "Boom": {
+            "Boom swing left": "45  \t\u00b0",
+            "Boom swing right": "60  \t\u00b0",
+            "Bucket rotation": "189  \t\u00b0",
+            "Bucket tearout": "5170.7 lbs (2,345 kg)",
+            "Dipper rotation": "119  \t\u00b0",
+            "Dipper tearout": "3821.8 lbs (1,733 kg)",
+            "Slew speed": "9.6 rpm"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Reach": "15.7 ft in (38 cm)",
+            "Max Reach Along Ground": "15.3 ft (5 m)",
+            "Max.Dumping Height": "10.6 ft (3 m)",
+            "Maximum digging depth - dozer down": "10.1 ft (3 m)",
+            "Maximum digging depth - dozer up": "9 ft (3 m)",
+            "Maximum height to dipper nose pivot pin": "12.6 ft (4 m)",
+            "Maximum vertical wallcut depth": "6.9 ft (2 m)",
+            "Minimum front swing radius (fully offset)": "6.2 ft (2 m)",
+            "Minimum front swing radius (no offset)": "6.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Cab height": "61.2 in (155 cm)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Overall width of superstructure": "5.1 ft (2 m)",
+            "Removal Counterweight Clearance": "2.5 ft (1 m)",
+            "Tail Swing Radius": "4.1 ft (1 m)",
+            "Track Gauge": "4.2 ft (1 m)",
+            "Transport Height- Minimum": "7874.1 ft (2,400 m)",
+            "Transport Length, Minimum": "13385.9 ft (4,080 m)",
+            "Width Over Tracks": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "65 A",
+            "Cooling system": "Water cooled",
+            "Displacement": "91291.6 cu in (1 m)",
+            "Engine Model": "403D-I5",
+            "Fuel": "Diesel",
+            "Gross Power": "24.7 hp (18 kw)",
+            "Net Power": "22.2 hp (16 kw)",
+            "Power Measured @": "2100 rpm",
+            "Starter Motor": "2 KW hp (1 kw)",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "15.6 gal/min (57 l/min)",
+            "Excavator/track main relief": "235 bar",
+            "Nominal output": "25.4 gal/min (95 l/min)",
+            "Pump Type": "2 Variable & 1 Gear",
+            "Slew main relief": "190 lpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "2.3 gal (8 l)",
+            "Engine Oil Capacity": "1.2 gal (4 l)",
+            "Fuel Capacity": "14.8 gal (53 l)",
+            "Hydraulic Pump Flow Capacity": "17.5 gal/min (64 l/min)",
+            "Hydraulic System Fluid Capacity": "18.8 gal (68 l)",
+            "Operating Voltage": "12 V",
+            "Operating Weight": "6320.7 lbs (2,867 kg)"
+        },
+        "Performance": {
+            "Gradeability": "36%",
+            "Travel speed  low": "1.6 mph (2 kph)",
+            "Travel Speed - High": "3.1 mph (5 kph)"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "3",
+            "Track tension": "Grease",
+            "Tractive Effort": "55.2 lbs (25 kg)"
+        }
+    }
+}

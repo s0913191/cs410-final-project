@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/d300e/30671527",
+    "source_url_id": "30671527",
+    "source_url_model": "d300e",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:59.800946",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D300E",
+    "equipment_spec": {
+        "Body Capacities": {
+            "Heaped (SAE 2:1)": "21.6 cu yds (16 m)",
+            "Struck": "17 cu yds (13 m)"
+        },
+        "Body Hoist": {
+            "Lower Time": "12 sec",
+            "Raise Time": "11 sec"
+        },
+        "Body Plate Thickness": {
+            "Base": "0.6 in (0 cm)",
+            "Front": "0.4 in (0 cm)",
+            "Side": "0.5 in (0 cm)"
+        },
+        "Dimensions": {
+            "Dump Height": "20.6 ft (6 m)",
+            "Overall Height": "11 ft (3 m)",
+            "Overall Length": "32.7 ft (10 m)",
+            "Overall Width": "9.5 ft (3 m)"
+        },
+        "Dump": {
+            "Dump Angle": "55  \t\u00b0",
+            "Rated Payload": "59965.8 lbs (27,200 kg)"
+        },
+        "Engine": {
+            "Engine Model": "3306",
+            "Flywheel Power": "285 hp (213 kw)",
+            "Gross Power": "285 hp (213 kw)"
+        },
+        "Operating Weights": {
+            "Total - Empty": "48369.4 lbs (21,940 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "16.7 gal (61 l)",
+            "Engine Crankcase": "7.4 gal (27 l)",
+            "Fuel Tank": "95.1 gal (360 l)",
+            "Hydraulic System": "52.9 gal (197 l)",
+            "Transmission": "15.9 gal (57 l)"
+        },
+        "Transmission": {
+            "Forward - 1": "3.8 mph (5 kph)",
+            "Forward - 2": "6.5 mph (10 kph)",
+            "Forward - 3": "10.7 mph (16 kph)",
+            "Forward - 4": "18.6 mph (29 kph)",
+            "Forward - 5": "30.7 mph (48 kph)",
+            "Reverse - 1": "4 mph (6 kph)",
+            "Reverse - 2": "11.2 mph (18 kph)"
+        },
+        "Weights": {
+            "Total Empty": "48369 lbs (21,940 kg)"
+        }
+    }
+}

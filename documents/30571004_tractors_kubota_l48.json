@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l48/30571004",
+    "source_url_id": "30571004",
+    "source_url_model": "l48",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:30:40.635807",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L48",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "5908 lbs (2,680 kg)",
+            "Dig Depth": "11.3 ft (3 m)",
+            "Load Height": "9.6 ft (3 m)",
+            "Loading Height": "9.4 ft (3 m)",
+            "Max Digging Depth": "11.2 ft (3 m)",
+            "Reach From Swivel": "14.4 ft (4 m)"
+        },
+        "Dimensions": {
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "148.5 cu in (0 m)",
+            "Engine Model": "L48",
+            "Gross Power": "48 hp (36 kw)",
+            "Net Power": "46 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26 gal/min (98 l/min)",
+            "Pump Type": "open center/constant flow",
+            "Relief Valve Pressure": "2880 psi"
+        },
+        "Loader": {
+            "Breakout Force": "4395 lbs (1,994 kg)",
+            "Lift Capacity": "2340 lbs (1,061 kg)",
+            "SAE - Net": "48 hp (36 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Operating Weight": "7760 lbs (3,520 kg)",
+            "Operating Weight 2wd": "7760.3 lbs (3,520 kg)",
+            "Tire Size Front - 2wd / 4wd": "10-16.5R4",
+            "Turning Radius": "11.2 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "17.5L-24R4"
+        },
+        "Transmission": {
+            "Max Speed": "16.2 mph (26 kph)",
+            "Transmission Type": "HST 3 range"
+        },
+        "Travel Speed": {
+            "4Th Gear Fwd": "16.1 mph (26 kph)"
+        }
+    }
+}

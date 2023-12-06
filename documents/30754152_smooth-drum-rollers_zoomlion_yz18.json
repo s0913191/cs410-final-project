@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/zoomlion/yz18/30754152",
+    "source_url_id": "30754152",
+    "source_url_model": "yz18",
+    "source_url_make": "zoomlion",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:47.675674",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Zoomlion",
+    "equipment_model": "YZ18",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "5.3 ft (2 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Overall Length": "20.4 in (51 cm)",
+            "Overall Width": "7.9 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "60698.5 lbs (27,532 kg)",
+            "Centrifugal Force - Low": "83179.4 lbs (37,730 kg)",
+            "Drum Diameter": "63 in (160 cm)",
+            "Drum Width": "84.7 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "318.5 lbs/in",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibration Frequency 2": "35 hz (2,100 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BF6L913",
+            "Gross Power": "158.3 hp (118 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "39683.3 lbs (18,000 kg)"
+        },
+        "Tires": {
+            "Tires": "20.5-25"
+        }
+    }
+}

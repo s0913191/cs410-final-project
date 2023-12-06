@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/material-handlers/doosan/dx210wmh/30855955",
+    "source_url_id": "30855955",
+    "source_url_model": "dx210wmh",
+    "source_url_make": "doosan",
+    "source_url_category": "material-handlers",
+    "source_date_scraped": "2023-09-13 15:44:32.609069",
+    "equipment_category": "Material Handlers",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX210WMH",
+    "equipment_spec": {
+        "Boom/Stick Mat. Handler Option 1": {
+            "Boom/Stick Option (MAT) 1": "Boom -  21.33 ft / Arm - 14.76 ft",
+            "Max Depth": "16.4 ft (5 m)",
+            "Max Height": "39.8 ft (12 m)",
+            "Max Reach Along Ground": "35.9 ft (11 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Cab - fixed riser": "11.2 ft (3 m)",
+            "Shipping Height": "11.8 ft (3 m)",
+            "Shipping Length": "31.3 ft (9 m)",
+            "Undercarriage Width": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Emission Tier Level": "T3",
+            "Gross Power": "170.3 hp (127 kw)",
+            "Net Power": "160.9 hp (119 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "61.3 gal/min (231 l/min)",
+            "Relief Pressure": "4786.3 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Engine Oil Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "92.5 gal (348 l)",
+            "Hydraulic System Fluid Capacity": "74 gal (280 l)",
+            "Operating Weight w/o Attachment": "58202 lbs (26,400 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11 rpm",
+            "Swing Torque": "60786 lbs/ft"
+        },
+        "Transmission": {
+            "Max Speed": "22.4 mph (35 kph)"
+        }
+    }
+}

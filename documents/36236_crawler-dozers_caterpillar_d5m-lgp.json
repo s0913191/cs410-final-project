@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d5m-lgp/36236",
+    "source_url_id": "36236",
+    "source_url_model": "d5m-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:38.782269",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D5M LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Length of Track on Ground": "8.6 ft (2 m)",
+            "Length w/ Blade": "16.9 ft (5 m)",
+            "Length w/o Blade": "12.3 ft (4 m)",
+            "Width Over Tracks": "9.1 ft in (23 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "3116T",
+            "Gross Power": "121 hp (90 kw)",
+            "Net Power": "110 hp (82 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "25.1 gal/min (95 l/min)",
+            "Pump type": "Piston",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "12.2 gal (45 l)",
+            "Engine Oil Capacity": "6.9 gal (23 l)",
+            "Final Drives Fluid Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "57.6 gal (216 l)",
+            "Hydraulic Fluid Capacity": "8.5 gal (30 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "27800 lbs (12,610 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "2.7 cu yds (2 m)",
+            "Height": "35.9 in (89 cm)",
+            "Width": "11.1 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.2 mph (10 kph)",
+            "Max Speed - Reverse": "7.5 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power Shift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4924 cu in (0 m)",
+            "Ground Pressure": "5.7 psi",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "6.6 ft (2 m)"
+        }
+    }
+}

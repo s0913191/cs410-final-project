@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/mack/cv713-2004/30759313",
+    "source_url_id": "30759313",
+    "source_url_model": "cv713-2004",
+    "source_url_make": "mack",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:56:54.030474",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Mack",
+    "equipment_model": "CV713 (2004)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "19.3 in (48 cm)",
+            "Number of Rear Axles": "2"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length From Back of Cab to End of Frame": "195.99 in (495 cm)",
+            "Length from Back of Cab to End of Frame": "196 in (498 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "65 in (165 cm)",
+            "Overall Length": "29 ft (9 m)",
+            "Total Chassis Weight": "15558 lbs (7,057 kg)",
+            "Wheelbase": "248.1 in (630 cm)"
+        }
+    }
+}

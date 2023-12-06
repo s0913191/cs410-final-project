@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/724j-z-bar/30754974",
+    "source_url_id": "30754974",
+    "source_url_model": "724j-z-bar",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:22.370270",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "724J Z-Bar",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "30610 lbs (13,885 kg)",
+            "Bucket Capacity - heaped": "4.8 cu yds (3 m)",
+            "Bucket Capacity - struck": "4.2 cu yds (3 m)",
+            "Bucket Width": "10 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Hinge Pin - Max Height": "13.6 ft (4 m)",
+            "Length with Bucket on Ground": "27 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.8 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "109.2 ft (33 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged charge air cooled",
+            "Displacement": "496 cu in (0 m)",
+            "Engine Model": "6081H",
+            "Net Power": "215 hp (160 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1300 rpm",
+            "Torque Rise": "49%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "74 gal/min (280 l/min)",
+            "Pump Type": "Variable axial piston",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "3600 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "8.2 gal (30 l)",
+            "Engine Oil Fluid Capacity": "6.7 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "31 gal (117 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "40671 lbs (18,448 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Static Tipping Weight": "27432 lbs (12,443 kg)",
+            "Tire Size": "23.5 R25",
+            "Transmission Fluid Capacity": "6.9 gal (23 l)",
+            "Turning Radius": "21.5 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22 mph (35 kph)",
+            "Max Speed - Reverse": "15.5 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Automatic Powershift"
+        }
+    }
+}

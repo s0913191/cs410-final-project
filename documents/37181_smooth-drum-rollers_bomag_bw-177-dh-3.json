@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-177-dh-3/37181",
+    "source_url_id": "37181",
+    "source_url_model": "bw-177-dh-3",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:07.968184",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 177 DH-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "4.1 ft (1 m)",
+            "Ground Clearance": "14 in (36 cm)",
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Overall Length": "15.3 in (38 cm)",
+            "Overall Width": "5.5 ft (2 m)",
+            "Turning Radius - Inside": "122.8 in (310 cm)",
+            "Wheelbase": "8.2 in (20 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "30349.3 lbs (13,766 kg)",
+            "Centrifugal Force - Low": "26977.1 lbs (12,237 kg)",
+            "Drum Diameter": "48.2 in (122 cm)",
+            "Drum Width": "66.4 in (168 cm)",
+            "Frequency": "1800 - 2,280 hz (108,000 - 136,800 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "335.7 lbs/in",
+            "Vibration Frequency": "1,800-2,280 hz (108,000 vpm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibration Frequency 2": "40 hz (2,400 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "QSB4.5-110",
+            "Gross Power": "110 hp (82 kw)",
+            "Make": "Cummins",
+            "Net Power": "107.3 hp (80 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "33.1 gal (125 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "16226.1 lbs (7,360 kg)",
+            "Operating Width": "71.5 in (180 cm)"
+        },
+        "Tires": {
+            "Tires": "14.9-24-AWT 6PR"
+        }
+    }
+}

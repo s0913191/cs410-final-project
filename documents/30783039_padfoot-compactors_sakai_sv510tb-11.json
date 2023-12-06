@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/sakai/sv510tb-11/30783039",
+    "source_url_id": "30783039",
+    "source_url_model": "sv510tb-11",
+    "source_url_make": "sakai",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:40:02.190926",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV510TB-11",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "137 in (348 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "1,650-2,200 hz (99,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Isuzu BB-6BG1T"
+        },
+        "Operating Specifications": {
+            "Operating Width": "84 in (213 cm)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/abg/abg5770/30761003",
+    "source_url_id": "30761003",
+    "source_url_model": "abg5770",
+    "source_url_make": "abg",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:43.861680",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "ABG",
+    "equipment_model": "ABG5770",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8.17 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "12 lbs (5 kg)",
+            "Paving Speed": "131.2 ft/min",
+            "Paving Width - max": "24.58 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "35818 lbs (16,247 kg)"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/w11/2682",
+    "source_url_id": "2682",
+    "source_url_model": "w11",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:57.332552",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "W11",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.8 cu yds (0 m)",
+            "Bucket Capacity - struck": "0.7 cu yds (0 m)",
+            "Dump Clearance at Max Raise": "8.7 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Hinge Pin - Max Height": "10.4 ft (3 m)",
+            "Overall height": "13 ft in (33 cm)",
+            "Overall length": "16.8 ft (5 m)",
+            "Wheelbase": "7.7 ft (2 m)",
+            "Width Over Tires": "5.7 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "207.5 cu in (0 m)",
+            "Engine Make": "Case",
+            "Engine Model": "G207D",
+            "Gross Power": "60 hp (45 kw)",
+            "Net Power": "55 hp (41 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "4.2 in (10 cm)",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.9 sec",
+            "Lower Time": "5.3 sec",
+            "Raise Time": "5.2 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "42  A",
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Engine Oil Fluid Capacity": "1.8 gal (4 l)",
+            "Fuel Capacity": "28.1 gal (106 l)",
+            "Hydraulic System Fluid Capacity": "14.1 gal (53 l)",
+            "Operating Voltage": "12 V V",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Transmission Fluid Capacity": "3.6 gal (11 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.7 mph (35 kph)",
+            "Max Speed - Reverse": "22.7 mph (35 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

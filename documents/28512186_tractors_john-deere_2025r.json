@@ -1,0 +1,98 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/2025r/28512186",
+    "source_url_id": "28512186",
+    "source_url_model": "2025r",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:19:20.302070",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "2025R",
+    "equipment_spec": {
+        "3-Point Hitch": {
+            "Category": "Limited Category 1",
+            "Lift capacity (24-in. behind link arms)": "400 kg (882 lbs)"
+        },
+        "Dimensions": {
+            "Front Axle Clearance": "12.5 in (30 cm)",
+            "Limited slip differential": "No",
+            "Shipping weight": "813.5 kg (1,792 lbs)",
+            "Turning radius without brakes": "8.7 ft (2 m)",
+            "Wheelbase": "63 ft (19 m)"
+        },
+        "Electrical System": {
+            "Alternator (12-V)": "40 amp",
+            "Battery size": "500 CCA",
+            "Starter size": "1.6 hp (1 kw)"
+        },
+        "Engine": {
+            "Air cleaner": "Dual element",
+            "Aspiration": "Natural",
+            "Bore": "3.2 in (8 cm)",
+            "Compression ratio": ".95",
+            "Cooling system": "Water pump",
+            "Cylinder liners": "Cast-In-Block",
+            "Displacement": "77.4 cu in (0 m)",
+            "Emissions compliance": "Final Tier 4",
+            "Engine Manufacturer": "Yanmar",
+            "Engine Model": "3TNV80F-NCJT",
+            "Engine torque at rated speed": "53 Nm",
+            "Engine Type": "Diesel",
+            "Family": "GYDXL1.27NS1, HYDXL1.27NS1",
+            "Fuel tank capacity": "6.3 gal",
+            "Gross Power": "23.9 hp (17 kw)",
+            "Injection pump type": "Indirect Injection",
+            "Lubrication": "Pressurized",
+            "Number of Cylinders": "3",
+            "Power take-off (PTO) power": "18 hp (13 kw)",
+            "Rated engine speed": "3200 rpm",
+            "Stroke": "3.4 in (8 cm)"
+        },
+        "Final Drive": {
+            "Differential lock": "Yes",
+            "Final Drive Type": "Spur Gear"
+        },
+        "Fluid Capacities": {
+            "Crankcase with filter": "2.7 L"
+        },
+        "Fuel System": {
+            "Fuel consumption": "1.5 gal/hr",
+            "Fuel System Type": "Indirect Injection"
+        },
+        "Hydraulic System": {
+            "Draft control sensing": "Position control",
+            "Hydraulic Type": "Open Center",
+            "Maximum operating pressure": "2150 psi",
+            "Pump rated output": "Steering 13.25 L/min 3.5 gpm, Implement 13.25 L/min,  3.5 gpm,  26.5 L/min , 7.0 gpm",
+            "Pump Type": "Gear",
+            "Remote control valves available": "2"
+        },
+        "Operator Station": {
+            "Gear shift location - console/floor": "Left Hand Side",
+            "Platform - flat/straddle": "Three-piece semi flat",
+            "Rollover protective structure": "Type Foldable OSHA, SAE, ASAE"
+        },
+        "Power Take-Off (PTO)": {
+            "Brake (for mid and rear PTO)": "Wet disc",
+            "Clutch": "Wet disc",
+            "Control": "Independent",
+            "Standard": "Rear - 540 rpm, Mid - 2100 rpm"
+        },
+        "Tires": {
+            "Front Tires Size": "R3 Turf - 23x8.50-12, R4 Industrial - 23x8.50-12, R3 Radial - 220/55-R12",
+            "Front tread range": "95.3 CENTIMETERS",
+            "Rear Tires Size": "R3 Turf - 31x13.5-15, R4 Industrial - 12-16.5, R3 Radial - 280/70-R16"
+        },
+        "Transmission": {
+            "Axle capacity": "Front - 612 kg, Rear - 1100 kg",
+            "Brakes": "Wet disc",
+            "Creeper": "No",
+            "Cruise control": "Standard",
+            "Differential lock": "Yes",
+            "Final Drive Type": "Spur Gear",
+            "Left-hand reverser": "No",
+            "Standard transmission; forward/reverse": "Hydrostatic - 2 range",
+            "Steering": "Power steering"
+        }
+    }
+}

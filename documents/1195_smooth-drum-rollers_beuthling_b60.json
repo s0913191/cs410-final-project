@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/beuthling/b60/1195",
+    "source_url_id": "1195",
+    "source_url_model": "b60",
+    "source_url_make": "beuthling",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:49.956791",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Beuthling",
+    "equipment_model": "B60",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "56 in (142 cm)"
+        },
+        "Drum": {
+            "Drum Width": "34.5 in (86 cm)"
+        },
+        "Engine": {
+            "Make": "Honda"
+        },
+        "Operating Specifications": {
+            "Operating Width": "38 in (97 cm)"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca4000pd/30122020",
+    "source_url_id": "30122020",
+    "source_url_model": "ca4000pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:35.485051",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA4000PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "18 in (46 cm)",
+            "Gradeability": "57%",
+            "Ground Clearance": "18 in (46 cm)",
+            "Height": "7 ft (2 m)",
+            "Height - Top of Cab": "117 ft (36 m)",
+            "Height - Top of ROPS/FOPS": "9.8 ft (3 m)",
+            "Overall Length": "236 in (599 cm)",
+            "Overall length": "19.7 ft (6 m)",
+            "Overhang Front": "4 ft (1 m)",
+            "Overhang Rear": "4 ft (1 m)",
+            "Turning Radius - Inside": "11 ft (3 m)",
+            "Turning Radius - Outside": "18 ft (5 m)",
+            "Wheelbase": "118 in (300 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "62950 lbs (28,554 kg)",
+            "Centrifugal Force - Low": "33720 lbs (15,295 kg)",
+            "Drum Diameter": "59 in (150 cm)",
+            "Drum Width": "84 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "130",
+            "Pad Height": "4 in (10 cm)",
+            "Pad Surface Area": "22.6 cu in (0 m)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibration Frequency 2": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB4.5",
+            "Gross Power": "160 hp (119 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.1 gal (72 l)",
+            "Max Speed": "4.4 mph (6 kph)",
+            "Max Steering Angle": "38  \t\u00b0",
+            "Operating Weight": "67020.6 lbs (30,400 kg)",
+            "Operating weight Cabin": "64595.5 lbs (29,300 kg)",
+            "Operating weight ROPS": "28900 lbs (13,109 kg)",
+            "Tire Size": "23,1 x 26 TR"
+        },
+        "Tires": {
+            "Tires": "23,1 x 26 TR"
+        }
+    }
+}

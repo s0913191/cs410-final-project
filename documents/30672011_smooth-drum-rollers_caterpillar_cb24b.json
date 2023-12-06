@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb24b/30672011",
+    "source_url_id": "30672011",
+    "source_url_model": "cb24b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:38.396103",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB24B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter": "28 in (71 cm)",
+            "Drum Diameter - Front": "2.4 ft (1 m)",
+            "Ground Clearance": "11 in (28 cm)",
+            "Maximum Machine Height": "106 in (269 cm)",
+            "Overall Length": "8.5 in (20 cm)",
+            "Overall Width": "4.4 ft (1 m)",
+            "Turning Radius - Inside": "97 in (246 cm)",
+            "Wheel Base": "6 ft (2 m)",
+            "Wheelbase": "6 in (15 cm)"
+        },
+        "Drum": {
+            "Drum Width": "47 in (119 cm)",
+            "Vibration Frequency": "42/52/63 hz (2,520 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "C1.5",
+            "Gross Power": "36.2 hp (27 kw)",
+            "Make": "Cat"
+        },
+        "Operating Specifications": {
+            "Curb Clearance": "20 in (51 cm)",
+            "Fuel Capacity": "17 gal (64 l)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Operating Weight": "6003 lbs (2,723 kg)",
+            "Operating Width": "52 in (132 cm)",
+            "Standard Compaction Width": "47 in (119 cm)",
+            "Static Linear Load": "63 lbs (29 kg)",
+            "Travel Speed - Maximum": "7.5 mph (11 kph)",
+            "Turning Radius - Inside Drum Edge": "96 in (244 cm)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank Capacity": "17 gal (64 l)",
+            "Water Spray Tank Capacity": "62 gal (235 l)"
+        },
+        "Transmission": {
+            "Max Speed": "7.5 mph (11 kph)"
+        },
+        "Vibratory System": {
+            "Centrifugal Force per Drum - Maximum": "7374 lbs (3,345 kg)",
+            "Centrifugal Force per Drum - Minimum": "3282 lbs (1,489 kg)",
+            "Frequency": "42 - 63 hz (2,520 - 3,780 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)"
+        },
+        "Weights": {
+            "Maximum Weight at Front Drum": "2857 lbs (1,296 kg)",
+            "Maximum Weight at Rear Drum": "3147 lbs (1,428 kg)",
+            "Operating Weight": "6003 lbs (2,723 kg)"
+        }
+    }
+}

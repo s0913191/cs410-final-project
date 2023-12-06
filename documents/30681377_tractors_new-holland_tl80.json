@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tl80/30681377",
+    "source_url_id": "30681377",
+    "source_url_model": "tl80",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:32.247417",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TL80",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "80 hp (60 kw)"
+        },
+        "Production": {
+            "Series": "TL Series",
+            "Years Manufactured": "1999 - 2004"
+        }
+    }
+}

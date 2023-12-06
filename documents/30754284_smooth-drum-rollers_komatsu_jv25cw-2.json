@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/komatsu/jv25cw-2/30754284",
+    "source_url_id": "30754284",
+    "source_url_model": "jv25cw-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:08.355394",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "JV25CW-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "2.3 ft (1 m)",
+            "Ground Clearance": "7.7 in (18 cm)",
+            "Height - Top of Cab": "5.3 ft (2 m)",
+            "Overall Length": "8.7 in (20 cm)",
+            "Wheelbase": "6.4 in (15 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "4630 lbs (2,100 kg)",
+            "Drum Diameter": "26.6 in (66 cm)",
+            "Drum Width": "47.3 in (119 cm)",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)"
+        },
+        "Engine": {
+            "Displacement": "91.3 cu in (0 m)",
+            "Engine Model": "3D84E",
+            "Gross Power": "25.4 hp (19 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "9.6 gal (34 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Weight": "5379.3 lbs (2,440 kg)"
+        }
+    }
+}

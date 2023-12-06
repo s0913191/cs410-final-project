@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/case-ih/1680/30669769",
+    "source_url_id": "30669769",
+    "source_url_model": "1680",
+    "source_url_make": "case-ih",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:01:40.847915",
+    "equipment_category": "Combines",
+    "equipment_make": "Case Ih",
+    "equipment_model": "1680",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Total Sieve Area-Fixed": "868001.8 cu in (14 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "129.6 ft (39 m)",
+            "Overall Length": "22.3 ft (7 m)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "6TA-830",
+            "Number of Cylinders": "6",
+            "Power": "235 hp (175 kw)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "204.4 bu",
+            "Unloading Discharge Height": "12.5 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "122.9 gal (462 l)",
+            "Max Speed": "12.5 mph (19 kph)",
+            "Number of Gears": "3",
+            "Transmission Type": "Hydro"
+        },
+        "Threshing": {
+            "Rotor Diameter": "30 in (76 cm)",
+            "width": "111.1 in (282 cm)"
+        },
+        "Tires": {
+            "Standard fitment size": "24,5-32",
+            "Standard_Rear": "14,9-24"
+        }
+    }
+}

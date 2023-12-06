@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l250h/41670",
+    "source_url_id": "41670",
+    "source_url_model": "l250h",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:50.786895",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L250H",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Volvo",
+            "Model": "D13J",
+            "Net Power": "395 hp (295 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "7.2 - 13.30 cu yds (5 - 10 m)"
+        },
+        "Weights": {
+            "Operational Weight": "74900 - 77,790 lbs (33,974 - 35,285 kg)"
+        }
+    }
+}

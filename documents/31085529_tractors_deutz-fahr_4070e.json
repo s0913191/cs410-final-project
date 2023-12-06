@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/4070e/31085529",
+    "source_url_id": "31085529",
+    "source_url_model": "4070e",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:52.588232",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "4070E",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "64  hp"
+        },
+        "Production": {
+            "Series": "4E Series",
+            "Years Manufactured": "2018 -"
+        }
+    }
+}

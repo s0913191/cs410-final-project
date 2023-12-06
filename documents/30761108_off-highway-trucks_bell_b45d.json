@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/bell/b45d/30761108",
+    "source_url_id": "30761108",
+    "source_url_model": "b45d",
+    "source_url_make": "bell",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:02.774846",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Bell",
+    "equipment_model": "B45D",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Rated Payload": "45.0 t (40,823 kg)"
+        },
+        "Engine": {
+            "Make": "Mercedes Benz",
+            "Model": "OM502LA-V8 IT4i"
+        },
+        "Weights": {
+            "Operating Weight": "72708 lbs (32,980 kg)"
+        }
+    }
+}

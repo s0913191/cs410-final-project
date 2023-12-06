@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/e400ajpn/30643316",
+    "source_url_id": "30643316",
+    "source_url_model": "e400ajpn",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:20.761555",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "E400AJPN",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "5 in (13 cm)",
+            "Overall Height": "6.6 ft (2 m)",
+            "Overall Length": "22 ft in (56 cm)",
+            "Overall length": "22 in (56 cm)",
+            "Overall Width": "4.2 ft (1 m)",
+            "Platform Dimension A": "2.6 ft (1 m)",
+            "Platform Dimension B": "4 ft (1 m)",
+            "Tailswing Radius": "4 ft (1 m)",
+            "Tire Size": "22 x 6 x 17.75 Non-marking (F), 25 x 7 x 12 Non-marking (R)",
+            "Up and Over Height": "21.6 ft (6 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Electrical System": {
+            "Batteries": "8 x 6V, 370 amp-hr"
+        },
+        "Performance": {
+            "Drive Speed": "3 mph (5 kph)",
+            "Gradeability": "30%",
+            "Hydraulic System Fluid Capacity": "4 gal (15 l)",
+            "Jib - Range of articulation": "144  \t\u00b0",
+            "Operating Weight": "14900 lbs (6,759 kg)",
+            "Platform Capacity": "500 lbs (227 kg)",
+            "Swing": "360  \t\u00b0",
+            "Swing Type": "Non-Continuous",
+            "Turning Radius - Outside (axles retracted)": "10.4 ft (3 m)"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "22.5 ft (7 m)",
+            "Max Platform Height": "40 ft (12 m)"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/s4088/30758143",
+    "source_url_id": "30758143",
+    "source_url_model": "s4088",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:03.192728",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "S4088",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.4 in (33 cm)",
+            "Height w/ Rails": "9.5 ft (3 m)",
+            "Height w/o Rails": "5.8 ft (2 m)",
+            "Overall Length": "12.9 in (30 cm)",
+            "Overall Width": "7.4 ft (2 m)",
+            "Turning Radius": "14.5 ft (4 m)",
+            "Wheelbase": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "DF750 Dual Fuel",
+            "Gross Power": "20 hp (15 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "13 gal (49 l)",
+            "Hydraulic System Fluid Capacity": "14.1 gal (53 l)",
+            "Max Speed": "2 mph (3 kph)",
+            "Operating Weight": "8900.1 lbs (4,037 kg)",
+            "Tire Fill/Type": "Air",
+            "Tire Size": "10x16.5 Loader Lug"
+        },
+        "Platform": {
+            "Deck Extension": "48.1 in (122 cm)",
+            "Height of Rails": "3.8 ft (1 m)",
+            "Lift Time": "45 sec",
+            "Lower Time": "50 sec",
+            "Max Platform Height": "40 ft (12 m)",
+            "Max Platform Weight Capacity": "1000.9 lbs (454 kg)",
+            "Max Working Height": "46 ft (14 m)",
+            "Platform Inner Length": "140.2 in (356 cm)",
+            "Platform Inner Width": "74.1 in (188 cm)"
+        }
+    }
+}

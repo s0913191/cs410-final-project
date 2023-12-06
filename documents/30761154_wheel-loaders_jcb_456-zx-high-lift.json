@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/456-zx-high-lift/30761154",
+    "source_url_id": "30761154",
+    "source_url_model": "456-zx-high-lift",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:47:39.554839",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "456 ZX High Lift",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "Diesel",
+            "Net Power": "206 hp (154 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.6 cu yds (3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "44540 lbs (20,203 kg)"
+        }
+    }
+}

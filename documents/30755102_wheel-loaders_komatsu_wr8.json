@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wr8/30755102",
+    "source_url_id": "30755102",
+    "source_url_model": "wr8",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:07.596902",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WR8",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "1.1 cu yds (1 m)",
+            "Bucket Width": "6.5 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.6 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Hinge Pin - Max Height": "11.8 ft (3 m)",
+            "Length with Bucket on Ground": "16.7 ft (5 m)",
+            "Reach at Max Lift and Dump": "4.3 ft (1 m)",
+            "Wheelbase": "8.1 ft (2 m)",
+            "Width Over Tires": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "199 cu in (0 m)",
+            "Engine Model": "4D95L",
+            "Gross Power": "55.3 hp (41 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "16.7 gal (61 l)",
+            "Operating Weight": "12566.4 lbs (5,700 kg)",
+            "Tire Size": "17.5/65 20-10PR",
+            "Turning Radius": "15.5 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "18.1 mph (29 kph)",
+            "Max Speed - Reverse": "18.7 mph (29 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

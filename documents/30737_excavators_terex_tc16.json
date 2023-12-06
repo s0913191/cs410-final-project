@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/tc16/30737",
+    "source_url_id": "30737",
+    "source_url_model": "tc16",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:16.658716",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "TC16",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "11.5 ft (3 m)",
+            "Max Digging Depth": "7.9 ft (2 m)",
+            "Max Loading Height": "7.9 ft (2 m)",
+            "Max Reach Along Ground": "13.42 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "4 ft (1 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "11.2 ft (3 m)",
+            "Max Digging Depth": "7.3 ft (2 m)",
+            "Max Loading Height": "7.6 ft (2 m)",
+            "Max Vertical Wall Digging Depth": "3.7 ft (1 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.6 ft (0 m)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Length of Track on Ground": "3.7 ft (1 m)",
+            "Tail Swing Radius": "3.7 ft (1 m)",
+            "Width to Outside of Tracks": "3.3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "58 cu in (0 m)",
+            "Engine Model": "L3E-W 262 KL",
+            "Max Torque": "439.6 lbs/ft",
+            "Net Power": "18 hp (13 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "8 gal (30 l)",
+            "Hydraulic Pump Flow Capacity": "14 gal/min (53 l/min)",
+            "Hydraulic System Fluid Capacity": "9.3 gal (34 l)",
+            "Hydraulic System Relief Valve Pressure": "2390 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3 638 lbs (1 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "2610 lbs (1,184 kg)",
+            "Ground Pressure": "3.4 psi",
+            "Max Travel Speed": "1.7 mph (2 kph)",
+            "Shoe Size": "9.1 in (23 cm)",
+            "Track Gauge": "2.6 ft (1 m)"
+        }
+    }
+}

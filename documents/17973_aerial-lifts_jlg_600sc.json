@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/600sc/17973",
+    "source_url_id": "17973",
+    "source_url_model": "600sc",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:02.333888",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "600SC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15 in (38 cm)",
+            "Overall Height - mast lowered": "8.2 ft (2 m)",
+            "Overall Length": "28.7 in (71 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Platform Dimension A": "3 ft (1 m)",
+            "Platform Dimension B": "8 ft (2 m)",
+            "Tailswing Radius": "4 ft (1 m)",
+            "Track width": "1.8 ft (0 m)"
+        },
+        "Engine": {
+            "Diesel Engine Type": "Deutz TD2.9L4 Tier 4 Final",
+            "Fuel Type": "Diesel",
+            "Maximum Ground Bearing Pressure": "5.5 psi",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Drive Speed": "1.6 mph (2 kph)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Gradeability": "55%",
+            "Hydraulic System Fluid Capacity": "34 gal (129 l)",
+            "Operating Weight": "25942 lbs (11,767 kg)",
+            "Swing": "360  \t\u00b0",
+            "Swing Type": "Continuous"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "50.3 ft (15 m)",
+            "Max Platform Height": "59.5 ft (18 m)",
+            "Platform Capacity - Restricted": "1000 lbs (454 kg)",
+            "Platform Capacity - Unrestricted": "600 lbs (272 kg)"
+        }
+    }
+}

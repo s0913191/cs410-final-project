@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/326e/37495",
+    "source_url_id": "37495",
+    "source_url_model": "326e",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:54.548781",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "326E",
+    "equipment_spec": {
+        "Axles": {
+            "Maximum Axle Torque": "5680 lbs/ft"
+        },
+        "Dimensions": {
+            "Angle of departure": "25  \t\u00b0",
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of ROPS/FOPS": "83.5 in (211 cm)",
+            "Hinge pin height, maximum height": "125.2 in (318 cm)",
+            "Length w/o Bucket": "10.1 ft (3 m)",
+            "Length with Bucket": "12.9 ft (4 m)",
+            "Reach at Max Lift and Dump": "40.2 in (102 cm)",
+            "Turning Radius - TTS870": "7.2 ft (2 m)",
+            "Wheelbase": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry dual element",
+            "Bore": "3.9 in (8 cm)",
+            "Displacement": "201.4 cu in (0 m)",
+            "Emissions Certification": "Tier 4",
+            "Engine Make": "Yanmar",
+            "Engine Model": "4TNV98CT standard",
+            "Gross Power": "69 hp (51 kw)",
+            "Net Torque Rise": "36%",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Stroke": "4.4 in (10 cm)",
+            "Torque Measured @": "1625 rpm"
+        },
+        "Hydraulic System": {
+            "Hydraulic Horsepower-Standard Flow": "42 hp (31 kw)",
+            "Hydraulic Horsepower_High Flow": "63 hp (47 kw)",
+            "Pump Flow Capacity": "33.1 gal/min (125 l/min)",
+            "System Pressure at Couplers": "3450 psi"
+        },
+        "Loader": {
+            "Boom breakout force": "5000 lbs (2,268 kg)",
+            "bucket breakout force (ISO 14397)": "7750 lbs (3,515 kg)",
+            "Dump angle @ max. height": "45  \t\u00b0",
+            "Operating Load Rating": "2850 lbs (1,293 kg)",
+            "Operating Width": "73 in (185 cm)",
+            "Rollback - Ground Level": "35  \t\u00b0",
+            "Tipping load (ISO 14397)": "5400 lbs (2,449 kg)",
+            "Width without Bucket": "6.1 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "24.4 gal (91 l)",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Max Speed": "11 mph (18 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "8200 lbs (3,720 kg)"
+        }
+    }
+}

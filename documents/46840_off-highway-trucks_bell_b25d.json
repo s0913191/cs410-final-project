@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/bell/b25d/46840",
+    "source_url_id": "46840",
+    "source_url_model": "b25d",
+    "source_url_make": "bell",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:22:56.788840",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Bell",
+    "equipment_model": "B25D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height": "11.3 ft (3 m)",
+            "Overall Length": "31.4 ft (9 m)",
+            "Overall Width": "9.5 ft (3 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "18.1 cu yds (14 m)",
+            "Capacity - Struck": "13.8 cu yds (10 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "6 sec",
+            "Raise Time": "12 sec"
+        },
+        "Engine": {
+            "Engine Model": "OM906LA",
+            "Gross Power": "205 hp (153 kw)",
+            "Max Torque": "737.6 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Tire Size": "23.5r25"
+        },
+        "Transmission": {
+            "Max Speed": "33 mph (53 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "ZF HP592"
+        },
+        "Weights": {
+            "Total Empty": "38580.9 lbs (17,500 kg)",
+            "Total Loaded": "51147.3 lbs (23,200 kg)"
+        }
+    }
+}

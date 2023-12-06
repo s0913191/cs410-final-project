@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d4k2-lgp/30760516",
+    "source_url_id": "30760516",
+    "source_url_model": "d4k2-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:24.246880",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D4K2 LGP",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C4.4 ACERT",
+            "Net Power": "92 hp (69 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18761 lbs (8,510 kg)"
+        }
+    }
+}

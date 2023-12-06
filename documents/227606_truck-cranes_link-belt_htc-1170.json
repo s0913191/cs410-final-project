@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/link-belt/htc-1170/227606",
+    "source_url_id": "227606",
+    "source_url_model": "htc-1170",
+    "source_url_make": "link-belt",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:57.871956",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HTC-1170",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "120.6 ft (37 m)",
+            "Min Height @ Max Raise Angle": "38 ft (12 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "bore": "5.6 in (13 cm)",
+            "Displacement": "855 cu in (0 m)",
+            "Gross Power": "310 hp (231 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "1005 lbs/ft",
+            "Model": "NTA-C310",
+            "Number of cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "6 in (15 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "40 ft (12 m)",
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Transport Height": "11.4 ft (3 m)",
+            "Transport Length": "48.8 ft (15 m)",
+            "Transport Width": "11.1 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.4 ft (4 m)",
+            "Width w/ Outriggers Extended": "26.1 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Carrier Fuel Capacity": "100 gal (379 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "96880 lbs (43,945 kg)",
+            "Tire Size": "14.00 R 20"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "48.1 mph (77 kph)"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/clg842-ii/23980",
+    "source_url_id": "23980",
+    "source_url_model": "clg842-ii",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:24.802730",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "CLG842 II",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "3.1 cu yds (2 m)",
+            "Bucket Width": "9.1 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.6 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Length with Bucket on Ground": "24.7 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "9.9 ft (3 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "QSB5.9-C175",
+            "Net Power": "155.6 hp (116 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "30203.4 lbs (13,700 kg)",
+            "Static Tipping Weight": "17637 lbs (8,000 kg)",
+            "Tire Size": "20.5x25",
+            "Turning Radius": "20.6 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.5 mph (37 kph)",
+            "Max Speed - Reverse": "16 mph (26 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

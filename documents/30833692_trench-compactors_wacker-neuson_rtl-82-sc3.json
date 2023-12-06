@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/trench-compactors/wacker-neuson/rtl-82-sc3/30833692",
+    "source_url_id": "30833692",
+    "source_url_model": "rtl-82-sc3",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "trench-compactors",
+    "source_date_scraped": "2023-09-13 17:46:08.927609",
+    "equipment_category": "Trench Compactors",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "RTL 82-SC3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "63 in (160 cm)"
+        },
+        "Drum": {
+            "Drum Width": "32 in (81 cm)",
+            "Vibration Frequency": "2500 hz (150,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Kohler"
+        },
+        "Operating Specifications": {
+            "Operating Width": "22 in (56 cm)"
+        }
+    }
+}

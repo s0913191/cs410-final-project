@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/farmall-60c/30753356",
+    "source_url_id": "30753356",
+    "source_url_model": "farmall-60c",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:20.418026",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "FARMALL 60C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "8 ft (2 m)",
+            "Overall Length": "11.5 in (28 cm)",
+            "Overall Width": "5.4 ft (2 m)",
+            "Wheelbase": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "134.3 cu in (0 m)",
+            "Gross Power": "60 hp (45 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm",
+            "PTO Power": "50 hp (37 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.6 gal/min (64 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3465 lbs (1,572 kg)",
+            "Fuel Capacity": "13.5 gal (49 l)",
+            "Operating Weight": "4238 lbs (1,922 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "12 x 12 Powershuttle"
+        }
+    }
+}

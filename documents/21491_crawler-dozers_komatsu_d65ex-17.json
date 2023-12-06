@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d65ex-17/21491",
+    "source_url_id": "21491",
+    "source_url_model": "d65ex-17",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:59.906276",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D65EX-17",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "15.3 cu in (0 m)",
+            "Engine Model": "SAA6D140E-6",
+            "Gross Power": "360 hp (268 kw)",
+            "Make": "Komatsu",
+            "Model": "SAA6D114E-5",
+            "Net Power": "354 hp (264 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "47.6 gal/min (178 l/min)",
+            "Pump type": "Piston",
+            "Relief Valve Pressure": "3980 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "27.3 gal (102 l)",
+            "Engine Oil Capacity": "9.8 gal (34 l)",
+            "Final Drives Fluid Capacity": "8.2 gal (30 l)",
+            "Fuel Capacity": "165 gal (625 l)",
+            "Hydraulic Fluid Capacity": "24.2 gal (91 l)",
+            "Operating Weight": "87100 lbs (39,508 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.2 mph (11 kph)",
+            "Max Speed - Reverse": "8.7 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TORQFLOW"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "6.2 cu in (0 m)",
+            "Ground Pressure": "11.9 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "42",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "28 in (71 cm)"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/a954bhd/30750276",
+    "source_url_id": "30750276",
+    "source_url_model": "a954bhd",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:14:10.953206",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "A954BHD",
+    "equipment_spec": {
+        "Boom/Stick Mat. Handler Option 1": {
+            "Boom/Stick Option (MAT) 1": "Boom 8800mm w/stick 7000mm",
+            "Max Depth": "14 ft (4 m)",
+            "Max Height": "55.8 ft (17 m)",
+            "Max Reach Along Ground": "50 ft (15 m)"
+        },
+        "Boom/Stick Mat. Handler Option 2": {
+            "Boom/Stick Option (MAT) 2": "Boom 8800mm w/stick 8000mm",
+            "Max Depth": "18 ft (5 m)",
+            "Max Height": "58 ft (18 m)",
+            "Max Reach Along Ground": "54 ft (16 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Shipping Height of Unit": "13.1 ft (4 m)",
+            "Shipping Length of Unit": "42.7 ft (13 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Shipping Height of Unit": "13.1 ft (4 m)",
+            "Shipping Length of Unit": "47.6 ft (14 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "13.1 ft (4 m)",
+            "Height to Top of Cab - fixed riser": "16.9 ft (5 m)",
+            "Height to Top of Cab - Hydraulic Riser Raised": "26.4 ft (8 m)",
+            "Height to Top of Cab - hydraulic riser raised": "26.37 ft (8 m)",
+            "Overall Width": "10.8 in (25 cm)",
+            "Overall Width - Outriggers Down": "18.7 ft (5 m)",
+            "Shipping Height": "13.1 ft (4 m)",
+            "Shipping Length": "42.7 ft (13 m)",
+            "Tail Swing Radius": "12.6 ft (4 m)",
+            "Undercarriage Width": "12.2 ft (4 m)",
+            "Upperstructure Clearance": "6.4 ft (2 m)",
+            "Wheelbase": "11.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Direct Injection Turbo-charged and after-cooled reduced emmissions",
+            "Displacement": "610.3 cu in (0 m)",
+            "Engine Model": "D 926 TI-E",
+            "Net Power": "302 hp (225 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "185 gal/min (700 l/min)",
+            "Pump Type": "Liebherr variable displacement, swash plate, in line double pump",
+            "Relief Pressure": "5076.4 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Fuel Capacity": "186.6 gal (704 l)",
+            "Hydraulic Pump Flow Capacity": "92.5 gal/min (348 l/min)",
+            "Hydraulic Pump Type": "variable displacement swash plate",
+            "Hydraulic System Fluid Capacity": "211.4 gal (799 l)",
+            "Hydraulic System Relief Valve Pressure": "5076.4 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "138891.3 lbs (63,001 kg)",
+            "Operating Weight w/o Attachment": "140875.4 lbs (63,901 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "6.2 rpm",
+            "Swing Torque": "115.1 lbs/ft"
+        },
+        "Transmission": {
+            "Max Speed": "6.3 mph (10 kph)",
+            "Max Travel Speed": "6.3 mph (10 kph)"
+        },
+        "Wheel Undercarriage": {
+            "Tire Size": "1600mm-600mm",
+            "Wheelbase": "11.9 ft (3 m)",
+            "Width w/ Stabilizers on Ground": "18.7 ft (5 m)"
+        }
+    }
+}

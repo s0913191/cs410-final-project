@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/9270/30840514",
+    "source_url_id": "30840514",
+    "source_url_model": "9270",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:25.444281",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "9270",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "13.7 ft (4 m)",
+            "Overall Length": "279.2 in (709 cm)",
+            "Track Width": "95.7 in (241 cm)",
+            "Wheelbase": "11.8 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.6 in (13 cm)",
+            "Displacement": "854.4 cu in (0 m)",
+            "Engine Make": "CaseIH",
+            "Engine Model": "Cummins NTA-855",
+            "Gross Power": "335 hp (250 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "308 hp (230 kw)",
+            "Stroke": "6 in (15 cm)",
+            "Torque": "1131 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center load sensing pressure compensating",
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "27 gal/min (102 l/min)",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "14000 lbs (6,350 kg)",
+            "3 Point Hitch Type": "III",
+            "Cooling System Fluid Capacity": "16.6 gal (61 l)",
+            "Engine Oil Capacity": "11 gal (42 l)",
+            "Front Tire Size": "24.5-32",
+            "Fuel Capacity": "250 gal (946 l)",
+            "Hydraulic System Fluid Capacity": "26 gal (98 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "34045 lbs (15,443 kg)",
+            "Rear Tire Size": "24.5-32"
+        },
+        "Production": {
+            "Series": "9200 Series",
+            "Years Manufactured": "1990 - 1995"
+        },
+        "Transmission": {
+            "Max Speed - forward": "17.3 mph (27 kph)",
+            "Max Speed - reverse": "8.6 mph (13 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

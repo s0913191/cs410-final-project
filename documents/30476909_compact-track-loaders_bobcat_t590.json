@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/bobcat/t590/30476909",
+    "source_url_id": "30476909",
+    "source_url_model": "t590",
+    "source_url_make": "bobcat",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:25.490654",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "T590",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length - with Bucket": "11.1 ft (3 m)",
+            "Length - without Bucket": "8.8 ft (2 m)",
+            "Overall height": "6.5 ft (2 m)",
+            "Overall width": "5.6 ft (2 m)",
+            "Reach at Max Lift and Dump": "1.7 ft (0 m)",
+            "Turning Radius from Center - machine rear": "6.7 in (15 cm)"
+        },
+        "Engine": {
+            "Bore": "3.5 in (8 cm)",
+            "Displacement": "158.7 cu in (0 m)",
+            "Emission Tier Level": "Tier 4",
+            "Engine Model": "V2607-DI-TE3B Interim Tier 4",
+            "Fuel": "Diesel",
+            "Gross Power": "61 hp (45 kw)",
+            "Horsepower - Gross": "66 hp (49 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "155.6 lbs/ft",
+            "Power Measured @": "2700 rpm",
+            "Stroke": "4.4 in (10 cm)",
+            "Torque Measured @": "1425 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "17.1 gal/min (64 l/min)",
+            "Pump Type": "Engine driven, gear type",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Loader": {
+            "Breakout Force": "4753 lbs (2,156 kg)",
+            "Operating Load": "2100 lbs (953 kg)",
+            "Operating Width": "67 in (170 cm)",
+            "Tipping Angle": "6000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3 gal (11 l)",
+            "Engine Oil Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "36.5 gal (136 l)",
+            "Operating Weight": "7822 lbs (3,548 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.1 psi",
+            "Length of Track on Ground": "4.6 ft (1 m)",
+            "Width of Track": "12.6 in (30 cm)"
+        }
+    }
+}

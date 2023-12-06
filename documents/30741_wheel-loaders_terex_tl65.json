@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/tl65/30741",
+    "source_url_id": "30741",
+    "source_url_model": "tl65",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:48.730729",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TL65",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "8325 lbs (3,776 kg)",
+            "Bucket Capacity - heaped": "1 cu yds (1 m)",
+            "Bucket Width": "5.6 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Hinge Pin - Max Height": "10.3 ft (3 m)",
+            "Length with Bucket on Ground": "15.7 ft (5 m)",
+            "Reach at Max Lift and Dump": "2 ft (1 m)",
+            "Wheelbase": "6.4 ft (2 m)",
+            "Width Over Tires": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "189 cu in (0 m)",
+            "Engine Model": "F4M 2011",
+            "Make": "Deutz",
+            "Net Power": "50 hp (37 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "11 gal/min (42 l/min)",
+            "Relief Valve Setting": "3625 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.9 gal (72 l)",
+            "Hydraulic System Fluid Capacity": "13 gal (49 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9040 lbs (4,101 kg)",
+            "Rated Bucket Capacity": "0.65 - 1.30 cu yds (0 - 1 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Static Tipping Weight": "6558.8 lbs (2,975 kg)",
+            "Tire Size": "365/70 R18 EM01 Mitas",
+            "Turning Radius": "12.7 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Weights": {
+            "Operational Weight": "9040 lbs (4,101 kg)"
+        }
+    }
+}

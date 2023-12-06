@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/steyr/6140-profi/30751372",
+    "source_url_id": "30751372",
+    "source_url_model": "6140-profi",
+    "source_url_make": "steyr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:54.662726",
+    "equipment_category": "Tractors",
+    "equipment_make": "Steyr",
+    "equipment_model": "6140 Profi",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Overall Length": "14.9 in (36 cm)",
+            "Tire Size": "Front 14.9 R28, Rear 18.4 PR38",
+            "Track Width": "55.4 in (140 cm)",
+            "Wheelbase": "8.8 ft (2 m)",
+            "Width Outside Frame": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, intercooled",
+            "Displacement": "410.6 cu in (0 m)",
+            "Gross Power": "152 hp (113 kw)",
+            "Net Power": "141 hp (105 kw)",
+            "Number of Cylinders": "6",
+            "Torque Rise": "35%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "29.9 gal/min (110 l/min)",
+            "Relief Valve Pressure": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)"
+        },
+        "Transmission": {
+            "Max Speed": "31.1 mph (50 kph)",
+            "Transmission Type": "STEYR Power-8"
+        }
+    }
+}

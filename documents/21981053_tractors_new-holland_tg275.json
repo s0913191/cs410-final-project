@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tg275/21981053",
+    "source_url_id": "21981053",
+    "source_url_model": "tg275",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:21.697854",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TG275",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "275 hp (205 kw)"
+        },
+        "Production": {
+            "Series": "TG II Series",
+            "Years Manufactured": "2006 - 2007"
+        }
+    }
+}

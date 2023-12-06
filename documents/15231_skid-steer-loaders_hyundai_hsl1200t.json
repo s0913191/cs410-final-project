@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/hyundai/hsl1200t/15231",
+    "source_url_id": "15231",
+    "source_url_model": "hsl1200t",
+    "source_url_make": "hyundai",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:10.112577",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HSL1200T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.1 ft (2 m)",
+            "Ground Clearance": "9.1 in (23 cm)",
+            "Height - Top of Cab": "7.1 ft (2 m)",
+            "Length w/o Bucket": "9.8 ft (3 m)",
+            "Length with Bucket": "12.2 ft (4 m)",
+            "Reach at Max Lift and Dump": "25.4 in (64 cm)",
+            "Turning Radius from Center - inc bucket": "84.1 in (213 cm)",
+            "Turning Radius from Center - machine rear": "69.9 in (175 cm)",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V3300T",
+            "Gross Power": "83 hp (62 kw)",
+            "Power Measured @": "2700 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.1 gal/min (79 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Operating Load Rating": "2500.1 lbs (1,134 kg)",
+            "Tipping Angle": "5000.1  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "28.8 gal (106 l)",
+            "Hydraulic System Fluid Capacity": "35.1 gal (132 l)",
+            "Operating Speed": "6.8 mph (10 kph)",
+            "Operational Weight": "8000.6 lbs (3,629 kg)",
+            "Tire Size": "12x16.5"
+        }
+    }
+}

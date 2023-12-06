@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/link-belt-excavators/80spinacetier4a/30759764",
+    "source_url_id": "30759764",
+    "source_url_model": "80spinacetier4a",
+    "source_url_make": "link-belt-excavators",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:15:56.383194",
+    "equipment_category": "Excavators",
+    "equipment_make": "Link-Belt Excavators",
+    "equipment_model": "80SpinAce(Tier4A)",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "13.8 ft (4 m)",
+            "Max Reach Along Ground": "22.6 ft (7 m)"
+        },
+        "Engine": {
+            "Make": "Isuzu",
+            "Model": "AU-4LE2X",
+            "Net Power": "54 hp (40 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18585 lbs (8,430 kg)"
+        }
+    }
+}

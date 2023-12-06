@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-190-ad-4am/1742415",
+    "source_url_id": "1742415",
+    "source_url_model": "bw-190-ad-4am",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:11.009849",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 190 AD-4AM",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.8 in (33 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "14.9 in (36 cm)",
+            "Wheelbase": "10.9 in (25 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - MEd": "37543.1 lbs (17,029 kg)",
+            "Centrifugal Force - Med": "24504.2 lbs (11,115 kg)",
+            "Drum Diameter": "48.1 in (122 cm)",
+            "Drum Width": "78.8 in (198 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "170.8 lbs/in",
+            "Vibration Frequency 1": "46 hz (2,760 vpm)",
+            "Vibration Frequency 2": "57 hz (3,420 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "TCD 2012 L04",
+            "Gross Power": "134 hp (100 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Max Speed": "7.1 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "26896 lbs (12,200 kg)"
+        }
+    }
+}

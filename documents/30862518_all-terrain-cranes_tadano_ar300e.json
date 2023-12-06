@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/tadano/ar300e/30862518",
+    "source_url_id": "30862518",
+    "source_url_model": "ar300e",
+    "source_url_make": "tadano",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:01.477503",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "AR300E",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "86.3 ft (26 m)",
+            "Max Lift Capacity": "66138.7 lbs (30,000 kg)",
+            "Min Height @ Max Raise Angle": "27.8 ft (8 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.1 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "680.4 cu in (0 m)",
+            "Gross Power": "222 hp (166 kw)",
+            "Make": "Tadano",
+            "Max Torque": "564.2 lbs/ft",
+            "Model": "6D22-1A",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Transport Height": "12 ft (4 m)",
+            "Transport Length": "32.7 ft (10 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "9.5 ft (3 m)",
+            "Width w/ Outriggers Extended": "19.7 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "52.9 gal (197 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "52911 lbs (24,000 kg)",
+            "Tire Size": "14.00R24"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "43.5 mph (69 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Constant mesh full power shift"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Tadano"
+        }
+    }
+}

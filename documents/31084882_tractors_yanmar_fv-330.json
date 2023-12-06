@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/fv-330/31084882",
+    "source_url_id": "31084882",
+    "source_url_model": "fv-330",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:46.239397",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "FV-330",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "32 hp (24 kw)"
+        },
+        "Production": {
+            "Series": "FV Series",
+            "Years Manufactured": "1992 - 1998"
+        }
+    }
+}

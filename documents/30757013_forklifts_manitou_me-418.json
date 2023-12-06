@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/me-418/30757013",
+    "source_url_id": "30757013",
+    "source_url_model": "me-418",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:03.873565",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "ME 418",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "0.4 in (0 cm)",
+            "Length to Fork Face": "6.1 ft (2 m)",
+            "Overall Height - mast lowered": "0.1 ft (0 m)",
+            "Overall Width": "3.9 ft (1 m)",
+            "Turning Radius": "6.3 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Power": "11.6 hp (8 kw)"
+        },
+        "MAST": {
+            "Load Capacity": "3968.4 lbs (1,800 kg)",
+            "Load Center": "19.7 in (48 cm)"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "6768.2 lbs (3,070 kg)",
+            "Tire Type": "Super-elastic"
+        },
+        "Performance": {
+            "Drawbar pull force": "2697.8 lbs (1,223 kg)",
+            "Lift capacity at max - height": "3968.4 lbs (1,800 kg)",
+            "Travel Speed": "8.4 mph (13 kph)"
+        }
+    }
+}

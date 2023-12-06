@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/b7510dt/30751403",
+    "source_url_id": "30751403",
+    "source_url_model": "b7510dt",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:26:37.954677",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "B7510DT",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "spur gear"
+        },
+        "Dimensions": {
+            "Ground Clearance": "12 in (30 cm)",
+            "Overall Length": "7.6 in (18 cm)",
+            "Tire Size": "front 6-12 rear 9.5-16",
+            "Wheelbase": "5 ft (2 m)",
+            "Width Outside Frame": "3.6 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "E-TVCS liquid cooled",
+            "Displacement": "61.1 cu in (0 m)",
+            "Engine Model": "D1005-E-D16",
+            "Gross Power": "21 hp (16 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "17 hp (13 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "7 gal/min (27 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1058.3 lbs (480 kg)",
+            "3 Point Hitch Type": "cat. I",
+            "Cooling System Fluid Capacity": "1.1 gal (4 l)",
+            "Engine Oil Capacity": "0.8 gal (0 l)",
+            "Fuel Capacity": "5.3 gal (19 l)",
+            "Operating Weight": "1322.8 lbs (600 kg)",
+            "Turning Radius": "6.6 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "8.8 mph (13 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "gear"
+        }
+    }
+}

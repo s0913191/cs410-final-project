@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/gehl/rt250-gen3/30760141",
+    "source_url_id": "30760141",
+    "source_url_model": "rt250-gen3",
+    "source_url_make": "gehl",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:25.742471",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Gehl",
+    "equipment_model": "RT250 GEN:3",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2500 lbs (1,134 kg)",
+            "Operating Width": "69.5 in (175 cm)"
+        }
+    }
+}

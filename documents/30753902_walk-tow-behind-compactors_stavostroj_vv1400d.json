@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/walk-tow-behind-compactors/stavostroj/vv1400d/30753902",
+    "source_url_id": "30753902",
+    "source_url_model": "vv1400d",
+    "source_url_make": "stavostroj",
+    "source_url_category": "walk-tow-behind-compactors",
+    "source_date_scraped": "2023-09-13 17:46:15.974364",
+    "equipment_category": "Walk / Tow Behind Compactors",
+    "equipment_make": "Stavostroj",
+    "equipment_model": "VV1400D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16.6 in (41 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length w/o Blade": "17.2 ft (5 m)",
+            "Wheelbase": "8.9 in (20 cm)",
+            "Width Over Tires": "8.3 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "48783.6 lbs (22,128 kg)",
+            "Centrifugal Force - Low": "58450.4 lbs (26,513 kg)",
+            "Drum Diameter": "67 in (170 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "135",
+            "Pad Surface Area": "18.6 cu in (0 m)",
+            "Vibration Frequency 1": "35 hz (2,100 vpm)",
+            "Vibratory Frequency 2": "27 hz (1,620 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Engine Model": "6BT5.9C",
+            "Net Power": "145 hp (108 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Weight": "34392.2 lbs (15,600 kg)"
+        }
+    }
+}

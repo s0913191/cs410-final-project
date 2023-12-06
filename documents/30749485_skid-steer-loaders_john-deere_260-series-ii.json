@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/260-series-ii/30749485",
+    "source_url_id": "30749485",
+    "source_url_model": "260-series-ii",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:41.544144",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "260 Series II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.1 in (28 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length w/o Bucket": "9.6 ft (3 m)",
+            "Length with Bucket": "11.5 ft (3 m)",
+            "Reach at Max Lift and Dump": "32.1 in (81 cm)",
+            "Wheelbase": "4 ft (1 m)",
+            "Width Over Tires": "6.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "179 cu in (0 m)",
+            "Engine Model": "3029T",
+            "Gross Power": "72.4 hp (54 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.3 gal/min (79 l/min)",
+            "Pump Type": "Hydrostatic",
+            "Relief Valve Pressure": "3100 psi"
+        },
+        "Loader": {
+            "Breakout Force": "7500 psi",
+            "Operating Load Rating": "2400 lbs (1,089 kg)",
+            "Tipping Angle": "5000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "20 gal (76 l)",
+            "Max Speed": "12 mph (19 kph)",
+            "Operating Speed": "7 mph (11 kph)",
+            "Operational Weight": "8250 lbs (3,742 kg)",
+            "Tire Size": "14x17.5 SKS"
+        }
+    }
+}

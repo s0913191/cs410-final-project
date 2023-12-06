@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l3540hst/53960",
+    "source_url_id": "53960",
+    "source_url_model": "l3540hst",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:29:54.810277",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L3540HST",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Overall Length": "9.6 in (23 cm)",
+            "Tire Size": "front 7.2-16 rear 12.4-24",
+            "Wheelbase": "6 ft (2 m)",
+            "Width Outside Frame": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "111.4 cu in (0 m)",
+            "Engine Model": "E-TVCS",
+            "Gross Power": "37 hp (28 kw)",
+            "Net Power": "35 hp (26 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2700 rpm",
+            "PTO Power": "28 hp (21 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "13.3 gal/min (49 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2645.6 lbs (1,200 kg)",
+            "3 Point Hitch Type": "Cat. I",
+            "Alternator Supplied Amperage": "40  A",
+            "Fuel Capacity": "11.7 gal (42 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3395.2 lbs (1,540 kg)",
+            "Turning Radius": "8.9 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "15.8 mph (24 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "HST plus 3 ranges"
+        }
+    }
+}

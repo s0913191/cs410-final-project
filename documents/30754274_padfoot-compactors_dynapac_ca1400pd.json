@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca1400pd/30754274",
+    "source_url_id": "30754274",
+    "source_url_model": "ca1400pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:30.959815",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA1400PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "14 in (36 cm)",
+            "Gradeability": "50%",
+            "Ground Clearance": "14 in (36 cm)",
+            "Height - Top of ROPS/FOPS": "9 ft (3 m)",
+            "Overall Length": "14.8 in (36 cm)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Overhang Front": "0.4 ft (0 m)",
+            "Overhang Rear": "0.4 ft (0 m)",
+            "Turning Radius - Inside": "9.5 ft (3 m)",
+            "Turning Radius - Outside": "15 ft (5 m)",
+            "Wheelbase": "87 in (221 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "25600 lbs (11,612 kg)",
+            "Centrifugal Force - Low": "12400 lbs (5,625 kg)",
+            "Drum Diameter": "48 in (122 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "66 in (168 cm)",
+            "Pad Height": "3 in (8 cm)",
+            "Pad Surface Area": "13 cu in (0 m)"
+        },
+        "Engine": {
+            "Engine Make": "Kubota",
+            "Engine Model": "V 3307 CR-TE4",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "75 hp (56 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "31 gal (117 l)",
+            "Max Speed": "6.2 mph (10 kph)",
+            "Operating Weight": "15200 lbs (6,895 kg)",
+            "Operating weight ROPS": "14350 lbs (6,509 kg)",
+            "Tire Size": "400/60-22.5 flotation"
+        }
+    }
+}

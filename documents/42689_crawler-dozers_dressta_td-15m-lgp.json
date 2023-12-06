@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-15m-lgp/42689",
+    "source_url_id": "42689",
+    "source_url_model": "td-15m-lgp",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:07.833625",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-15M LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Length w/o Blade": "18.1 ft (5 m)",
+            "Width Over Tracks": "11 ft in (28 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and CAC",
+            "Displacement": "505 cu in (0 m)",
+            "Engine Model": "QSC 8.3",
+            "Gross Power": "205 hp (153 kw)",
+            "Net Power": "190 hp (142 kw)",
+            "Number of Cylinders": "6",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "46 gal/min (174 l/min)",
+            "Pump type": "Pump, tandem gear, driven from torque converter.",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "13.2 gal (49 l)",
+            "Engine Oil Capacity": "13.2 gal (49 l)",
+            "Final Drives Fluid Capacity": "10.6 gal (38 l)",
+            "Fuel Capacity": "102.5 gal (386 l)",
+            "Hydraulic Fluid Capacity": "16 gal (61 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "46451 lbs (21,070 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "4.7 cu yds (3 m)",
+            "Height": "43 in (109 cm)",
+            "Width": "12.7 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.3 mph (10 kph)",
+            "Max Speed - Reverse": "7.4 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Modular, countershaft type powershift, electro-hydraulic control."
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "8.9 cu in (0 m)",
+            "Ground Pressure": "5.4 psi",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "37 in (94 cm)"
+        }
+    }
+}

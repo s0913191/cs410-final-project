@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/tigercat/604c/30756068",
+    "source_url_id": "30756068",
+    "source_url_model": "604c",
+    "source_url_make": "tigercat",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:40.027715",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Tigercat",
+    "equipment_model": "604C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Cable Width": "213.3 in (541 cm)",
+            "Drum Capacity at Cable Width": "40000 ft (12,192 m)",
+            "Drum Diameter": "1 in (3 cm)",
+            "Grapple Capacity - tongs tip to tip": "12.1 CUBIC ft",
+            "Height - Top of Cab": "1.7 ft (0 m)",
+            "Max Line Pull - bare drum": "173.9 lbs (79 kg)",
+            "Overall Length": "8.7 ft (2 m)",
+            "Overall Width": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "26003.6",
+            "Engine Model": "190",
+            "Torque Measured @": "46.3 rpm"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "11.9 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "single-speed mechanical,  variable speed hydrostatic",
+            "Operating Voltage": "80  A",
+            "Operating Weight": "24 V lbs (11 kg)",
+            "Steering Angle": "23.1 - 26 V  -",
+            "Transmission Fluid Capacity": "23.8 gal (87 l)"
+        },
+        "Transmission": {
+            "Number of Reverse Gears": "11"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "Variable displacement axial piston cu in (0 m)",
+            "Length of Track on Ground": "QSB6.7 ft (0 m)"
+        },
+        "Winch - Grapple Skidder": {
+            "Drum Capacity - 25.4mm (1 in)": "15  \t\u00b0"
+        }
+    }
+}

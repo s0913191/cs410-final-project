@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/314e-lcr/30562884",
+    "source_url_id": "30562884",
+    "source_url_model": "314e-lcr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:43.521275",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "314E LCR",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "28.5 - 19.50 ft (9 - 6 m)"
+        },
+        "Engine": {
+            "Net Power": "89 hp (66 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "32600 lbs (14,787 kg)"
+        }
+    }
+}

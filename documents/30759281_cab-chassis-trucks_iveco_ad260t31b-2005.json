@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/iveco/ad260t31b-2005/30759281",
+    "source_url_id": "30759281",
+    "source_url_model": "ad260t31b-2005",
+    "source_url_make": "iveco",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:56:35.053881",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Iveco",
+    "equipment_model": "AD260T31B (2005)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Number of Rear Axles": "2",
+            "Tire Size": "315/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length from Back of Cab to End of Frame": "189.6 in (480 cm)",
+            "Length From Back of Cab to End of Frame": "189.57 in (480 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "26.97 in (66 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "27 in (69 cm)",
+            "Overall Length": "23.1 ft (7 m)",
+            "Total Chassis Weight": "17339.4 lbs (7,865 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "27.4 ft (8 m)",
+            "Wheelbase": "137.8 in (348 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length From Back of Cab to End of Frame": "202.17 in (513 cm)",
+            "Length from Back of Cab to End of Frame": "202.2 in (513 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "27 in (69 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "26.97 in (66 cm)",
+            "Overall Length": "24.2 ft (7 m)",
+            "Total Chassis Weight": "17471.7 lbs (7,925 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "28.7 ft (9 m)",
+            "Wheelbase": "150.4 in (381 cm)"
+        }
+    }
+}

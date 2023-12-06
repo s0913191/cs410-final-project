@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tms500e/12948",
+    "source_url_id": "12948",
+    "source_url_model": "tms500e",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:40.822262",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TMS500E",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "76  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "95 ft (29 m)",
+            "Max Lift Capacity": "80000 lbs (36,288 kg)",
+            "Max Working Radius": "85 ft (26 m)",
+            "Min Height @ Max Raise Angle": "29 ft (9 m)",
+            "Min Working Radius": "9 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "3 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "506.5 cu in (0 m)",
+            "Gross Power": "330 hp (246 kw)",
+            "Make": "Grove",
+            "Max Torque": "950 lbs/ft",
+            "Model": "ISC330",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "34.7 ft (10 m)",
+            "Transport Height": "11.3 ft (3 m)",
+            "Transport Length": "37 ft (11 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "12 ft (4 m)",
+            "Width w/ Outriggers Extended": "20 ft (6 m)"
+        },
+        "Hydraulic System": {
+            "Maximum operating pressure": "3500 psi"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "60 gal (227 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "62000 lbs (28,123 kg)",
+            "Tire Size": "Front- 425/65R 22.5 / Rear - 11R22.5",
+            "Upper Structure Hydraulic System Fluid Capacity": "95.9 gal (360 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "65.3 mph (105 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison automatic"
+        }
+    }
+}

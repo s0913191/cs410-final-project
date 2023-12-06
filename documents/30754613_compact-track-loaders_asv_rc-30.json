@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/asv/rc-30/30754613",
+    "source_url_id": "30754613",
+    "source_url_model": "rc-30",
+    "source_url_make": "asv",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:02.097391",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "ASV",
+    "equipment_model": "RC-30",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10 in (25 cm)",
+            "Height - Top of Cab": "6 ft (2 m)",
+            "Length - with Bucket": "9.4 ft (3 m)",
+            "Length - without Bucket": "7.6 ft (2 m)",
+            "Width Over Tracks": "3.9 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "92 cu in (0 m)",
+            "Engine Model": "403C-15",
+            "Gross Power": "31.5 hp (23 kw)",
+            "Peak Torque": "64.4 lbs/ft",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "10 gal/min (38 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Operating Load": "800 lbs (363 kg)",
+            "Tipping Angle": "1600  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "1.5 gal (4 l)",
+            "Engine Oil Capacity": "1.1 gal (4 l)",
+            "Fuel Capacity": "10 gal (38 l)",
+            "Hydraulic System Fluid Capacity": "8.1 gal (30 l)",
+            "Max Speed - high range": "5.9 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3305 lbs (1,499 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "1178.1 cu in (0 m)",
+            "Ground Pressure": "2.8 psi",
+            "Length of Track on Ground": "4.6 ft (1 m)",
+            "Track Gauge": "3 ft (1 m)",
+            "Width of Track": "11.1 in (28 cm)"
+        }
+    }
+}

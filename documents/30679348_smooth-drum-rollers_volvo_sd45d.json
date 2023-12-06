@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/sd45d/30679348",
+    "source_url_id": "30679348",
+    "source_url_model": "sd45d",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:36.080107",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "SD45D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "4.5 ft (1 m)",
+            "Turning Radius - Inside": "8.4 ft (2 m)"
+        },
+        "Drum": {
+            "Drum Width": "54 in (137 cm)",
+            "Frequency": "31.7 hz (1,860 vpm)",
+            "Vibration Frequency": "32 hz (1,920 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "62.6 in (157 cm)"
+        }
+    }
+}

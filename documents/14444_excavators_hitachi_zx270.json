@@ -1,0 +1,86 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx270/14444",
+    "source_url_id": "14444",
+    "source_url_model": "zx270",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:01:36.602081",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX270",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "31.7 ft (9 m)",
+            "Max Digging Depth": "21.5 ft (6 m)",
+            "Max Loading Height": "22.2 ft (7 m)",
+            "Max Reach Along Ground": "32.4 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "17.4 ft (5 m)",
+            "Shipping Height of Unit": "11.3 ft (3 m)",
+            "Shipping Length of Unit": "34.1 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "32.8 ft (10 m)",
+            "Max Digging Depth": "23.8 ft (7 m)",
+            "Max Loading Height": "23.2 ft (7 m)",
+            "Max Reach Along Ground": "34.6 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "20.1 ft (6 m)",
+            "Shipping Height of Unit": "10.5 ft (3 m)",
+            "Shipping Length of Unit": "33.8 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "33.4 ft (10 m)",
+            "Max Digging Depth": "25.9 ft (8 m)",
+            "Max Loading Height": "23.8 ft (7 m)",
+            "Max Reach Along Ground": "36.4 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "21.9 ft (6 m)",
+            "Shipping Height of Unit": "11 ft (3 m)",
+            "Shipping Length of Unit": "34 ft (10 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.9 cu yds (1 m)",
+            "Minimum Bucket Capacity": "1.1 cu yds (1 m)",
+            "Reference Bucket Capacity": "1.5 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length of Track on Ground": "12.3 ft (4 m)",
+            "Removal Counterweight Clearance": "3.9 ft (1 m)",
+            "Tail Swing Radius": "9.7 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, intercooled",
+            "Displacement": "396.3 cu in (0 m)",
+            "Engine Model": "AA-6BGIT",
+            "Max Torque": "469.9 lbs/ft",
+            "Net Power": "173 hp (129 kw)",
+            "Power Measured @": "2150 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "6.1 gal (23 l)",
+            "Engine Oil Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "100.4 gal (379 l)",
+            "Hydraulic Pump Flow Capacity": "110.5 gal/min (416 l/min)",
+            "Hydraulic System Fluid Capacity": "81.2 gal (307 l)",
+            "Hydraulic System Relief Valve Pressure": "5050 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "59524.9 lbs (27,000 kg)",
+            "Swing Drive Fluid Capacity": "4.5 gal (15 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.6 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8 psi",
+            "Max Travel Speed": "3.1 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "45",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        }
+    }
+}

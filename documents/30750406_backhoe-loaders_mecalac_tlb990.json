@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/mecalac/tlb990/30750406",
+    "source_url_id": "30750406",
+    "source_url_model": "tlb990",
+    "source_url_make": "mecalac",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:06.524380",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Mecalac",
+    "equipment_model": "TLB990",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14.4 ft (4 m)",
+            "Load Height": "11.9 ft (3 m)",
+            "Reach From Swivel": "18.8 ft (5 m)"
+        },
+        "Dimensions": {
+            "Dump Angle": "45 \t\u00b0",
+            "Hinge pin height, maximum height": "142.4 in (361 cm)",
+            "Loading height (EVW)": "11.1 ft (3 m)",
+            "Reach @ ground level": "4760.5 ft (1,451 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "1204E\u00e2??E44TA",
+            "Gross Power": "93.9 hp (69 kw)",
+            "Net Max Torque": "295.1 lbs/ft",
+            "Net Power": "88.2 hp (66 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.2 gal/min (79 l/min)",
+            "Relief Valve Pressure": "3632 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "1.4 cu yds (1 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Front Axle Fluid Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "37 gal (140 l)",
+            "Hydraulic System Fluid Capacity": "24.4 gal (91 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "18144.1 lbs (8,230 kg)",
+            "Rear Axle Fluid Capacity": "4.1 gal (15 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

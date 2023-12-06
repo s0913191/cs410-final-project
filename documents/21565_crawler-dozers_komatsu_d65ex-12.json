@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d65ex-12/21565",
+    "source_url_id": "21565",
+    "source_url_model": "d65ex-12",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:56.791208",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D65EX-12",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Length of Track on Ground": "8.8 ft (2 m)",
+            "Length w/ Blade": "17.9 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "673.8 cu in (0 m)",
+            "Engine Model": "S6D125E-2",
+            "Max Torque": "723.6 lbs/ft",
+            "Net Power": "190.5 hp (142 kw)",
+            "Number of Cylinders": "6"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "55.5 gal/min (208 l/min)",
+            "Pump type": "Double acting piston",
+            "Relief Valve Pressure": "2987.8 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "13.8 gal (49 l)",
+            "Engine Oil Capacity": "10.1 gal (38 l)",
+            "Final Drives Fluid Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "107.3 gal (405 l)",
+            "Hydraulic Fluid Capacity": "14.6 gal (53 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "36453.5 lbs (16,535 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "7.4 cu yds (5 m)",
+            "Height": "56.2 in (142 cm)",
+            "Width": "11.4 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "3.9 mph (5 kph)",
+            "Max Speed - Reverse": "5 mph (8 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Torqueflow Transmission, planetary gear"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5058.5 cu in (0 m)",
+            "Ground Pressure": "7.2 psi",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "2",
+            "Standard Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "6.2 ft (2 m)"
+        }
+    }
+}

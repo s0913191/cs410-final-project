@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb66b/30617758",
+    "source_url_id": "30617758",
+    "source_url_model": "cb66b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:46.831232",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB66B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "168 Inches"
+        },
+        "Drum": {
+            "Drum Width": "84 Inches",
+            "Vibration Frequency": "42/63.3 hz (2,520 vpm)"
+        },
+        "Engine": {
+            "Make": "Cat"
+        },
+        "Operating Specifications": {
+            "Operating Width": "92 Inches"
+        }
+    }
+}

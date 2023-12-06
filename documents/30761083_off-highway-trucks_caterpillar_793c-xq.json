@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/793c-xq/30761083",
+    "source_url_id": "30761083",
+    "source_url_model": "793c-xq",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:47.470505",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "793C XQ",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x2"
+        },
+        "Dump": {
+            "Rated Payload": "248.6 t (224,982 kg)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "3516B HD EUI"
+        },
+        "Weights": {
+            "Operating Weight": "846000 lbs (383,743 kg)"
+        }
+    }
+}

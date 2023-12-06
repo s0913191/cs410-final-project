@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec240b/32779",
+    "source_url_id": "32779",
+    "source_url_model": "ec240b",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:20.456040",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC240B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "19.9 ft (6 m)",
+            "Max Loading Height": "26.3 ft (8 m)",
+            "Max Reach Along Ground": "31.9 ft (9 m)",
+            "Shipping Length of Unit": "33.2 ft (10 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Length of Track on Ground": "12.7 ft (4 m)",
+            "Tail Swing Radius": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "179.7 hp (133 kw)"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "121.6 gal/min (458 l/min)",
+            "Hydraulic System Relief Valve Pressure": "4974.8 psi",
+            "Operating Weight": "53351.9 lbs (24,200 kg)"
+        },
+        "Undercarriage": {
+            "Shoe Size": "23.7 in (58 cm)"
+        }
+    }
+}

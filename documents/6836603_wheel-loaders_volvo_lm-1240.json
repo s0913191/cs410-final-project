@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/lm-1240/6836603",
+    "source_url_id": "6836603",
+    "source_url_model": "lm-1240",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:27.103232",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "LM 1240",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "9.2 cu yds (7 m)"
+        },
+        "Engine": {
+            "Engine Model": "D 70 B",
+            "Gross Power": "160 hp (119 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "27337.4 lbs (12,400 kg)",
+            "Static Tipping Weight": "19400.7 lbs (8,800 kg)",
+            "Tire Size": "20.5-25/16"
+        }
+    }
+}

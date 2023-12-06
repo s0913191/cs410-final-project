@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/vermeer/cx254/32181",
+    "source_url_id": "32181",
+    "source_url_model": "cx254",
+    "source_url_make": "vermeer",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:48.313911",
+    "equipment_category": "Excavators",
+    "equipment_make": "Vermeer",
+    "equipment_model": "CX254",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "17.3 ft (5 m)",
+            "Max Digging Depth": "11.9 ft (3 m)",
+            "Max Loading Height": "13.2 ft (4 m)",
+            "Max Reach Along Ground": "19 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "9 ft (3 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.2 ft (1 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Tail Swing Radius": "4.5 ft (1 m)",
+            "Width to Outside of Tracks": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "122 cu in (0 m)",
+            "Engine Model": "V2003-T Diesel",
+            "Net Power": "52 hp (39 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Hydraulic Pump Flow Capacity": "26.4 gal/min (98 l/min)",
+            "Hydraulic System Fluid Capacity": "21.9 gal (79 l)",
+            "Operating Weight": "11223.8 lbs (5,091 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Shoe Size": "16.2 in (41 cm)",
+            "Track Gauge": "4.9 ft (1 m)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l3130/22986",
+    "source_url_id": "22986",
+    "source_url_model": "l3130",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:29:32.097921",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L3130",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "31 hp (23 kw)"
+        },
+        "Production": {
+            "Series": "L30 Series",
+            "Years Manufactured": "2003 - 2007"
+        }
+    }
+}

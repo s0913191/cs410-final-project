@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-10k/28519889",
+    "source_url_id": "28519889",
+    "source_url_model": "hd-10k",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:55.007539",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 10K",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "92 in (234 cm)"
+        },
+        "Drum": {
+            "Drum Width": "39 in (99 cm)",
+            "Vibration Frequency": "3300 hz (198,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "39 in (99 cm)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/cs-94/31076014",
+    "source_url_id": "31076014",
+    "source_url_model": "cs-94",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:46.939864",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "CS 94",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "94 hp (70 kw)"
+        },
+        "Production": {
+            "Series": "CS Series",
+            "Years Manufactured": "1994 - 2003"
+        }
+    }
+}

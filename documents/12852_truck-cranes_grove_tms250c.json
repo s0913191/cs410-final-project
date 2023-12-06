@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tms250c/12852",
+    "source_url_id": "12852",
+    "source_url_model": "tms250c",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:38.425827",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TMS250C",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "75  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "80 ft (24 m)",
+            "Max Lift Capacity": "70000 lbs (31,752 kg)",
+            "Max Working Radius": "70 ft (21 m)",
+            "Min Height @ Max Raise Angle": "32 ft (10 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "3.6 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "210.6 hp (157 kw)",
+            "Make": "Grove",
+            "Max Torque": "605 lbs/ft",
+            "Model": "6CTA8.3",
+            "Number of cylinders": "6",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "32.7 ft (10 m)",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Transport Height": "12.1 ft (4 m)",
+            "Transport Length": "40.5 ft (12 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.5 ft (3 m)",
+            "Width w/ Outriggers Extended": "20 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "60 gal (227 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "50744 lbs (23,017 kg)",
+            "Tire Size": "front 425/65R22.5 rear 9.00x20-12PR",
+            "Upper Structure Hydraulic System Fluid Capacity": "86 gal (326 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "52 mph (84 kph)",
+            "Number of Forward Gears": "13",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Manual"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Grove"
+        }
+    }
+}

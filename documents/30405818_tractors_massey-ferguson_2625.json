@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/2625/30405818",
+    "source_url_id": "30405818",
+    "source_url_model": "2625",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:21.913343",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2625",
+    "equipment_spec": {
+        "3-Point Hitch": {
+            "Category": "Category I and  II Cross Drilled Ball Ends",
+            "Extendable lower links": "Optional",
+            "Lift capacity @ 24in. (ASAE)": "4519.5 lbs (2,050 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "13.8 in (33 cm)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "94.3 in (239 cm)",
+            "Overall Length": "138.2 in (351 cm)",
+            "Overall Width": "6.1 ft (2 m)",
+            "Wheelbase": "6.8 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "36",
+            "Battery": "622"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "220 cu in (0 m)",
+            "Engine Model": "S436E Tier II",
+            "Gross Power": "63 hp (47 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "PTO Power": "54 hp (40 kw)"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "11.2 gal/min (42 l/min)",
+            "Hydraulic System Type": "Open Center and Modified Closed Center",
+            "Number of Remote Control Valves": "1 or 2 Rear Valves",
+            "Pump Flow Capacity": "22.8 gal/min (83 l/min)",
+            "Pump Type": "Gear and Scotch Yoke"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4519.5 lbs (2,050 kg)",
+            "3 Point Hitch Type": "Cat I & II",
+            "Alternator Supplied Amperage": "36  A",
+            "Fuel Capacity": "11.1 gal (42 l)",
+            "Operating Weight": "5690 lbs (2,581 kg)",
+            "Tire Size Front - 2wd / 4wd": "16.9x28"
+        },
+        "Power Take-Off (PTO)": {
+            "Optional": "Independent",
+            "Power Take-Off(PTO) Type": "Dry Dual Disc",
+            "PTO speed": "540 rpm",
+            "PTO Speeds @ Engine rpm": "1790",
+            "Standard": "Live"
+        },
+        "Production": {
+            "Series": "2005 Series",
+            "Years Manufactured": "1985 - 1986"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Optional": "8F x 8R Shuttle"
+        },
+        "Weights": {
+            "Shipping": "5688 lbs (2,580 kg)"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/8480/30679176",
+    "source_url_id": "30679176",
+    "source_url_model": "8480",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:35.573605",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "8480",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Overall Length": "17.2 in (43 cm)",
+            "Tire Size": "18.4R46",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "512.6 cu in (0 m)",
+            "Gross Power": "290 hp (216 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "240 hp (179 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "10.4 gal/min (38 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "15604.4 lbs (7,078 kg)",
+            "3 Point Hitch Type": "Cat III",
+            "Fuel Capacity": "158.6 gal (598 l)"
+        },
+        "Production": {
+            "Series": "8400 Series",
+            "Years Manufactured": "2004 - 2007"
+        },
+        "Transmission": {
+            "Transmission Type": "Dyna-VT"
+        }
+    }
+}

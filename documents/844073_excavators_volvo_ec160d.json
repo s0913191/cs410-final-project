@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec160d/844073",
+    "source_url_id": "844073",
+    "source_url_model": "ec160d",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:03.863811",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC160D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "19.8 ft (6 m)",
+            "Max Reach Along Ground": "29.4 ft (9 m)"
+        },
+        "Engine": {
+            "Model": "D4H",
+            "Net Power": "39 hp (29 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "36400 lbs (16,511 kg)"
+        }
+    }
+}

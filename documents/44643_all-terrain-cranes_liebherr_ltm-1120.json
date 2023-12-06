@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1120/44643",
+    "source_url_id": "44643",
+    "source_url_model": "ltm-1120",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:49.785988",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1120",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "137.8 ft (42 m)",
+            "Min Height @ Max Raise Angle": "43.7 ft (13 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "473.4 hp (353 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "1475.2 lbs/ft",
+            "Model": "OM 442 LA",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "42.8 ft (13 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Transport Height": "12.7 ft (4 m)",
+            "Transport Length": "49.1 ft (15 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "15.8 ft (5 m)",
+            "Width w/ Outriggers Extended": "26.3 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "185 gal (700 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14.00 R 25",
+            "Upper Structure Fuel Capacity": "74 gal (280 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison Automatic Transmission"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "162.3 hp (121 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "413.1 lbs/ft",
+            "Model": "OM 366 A",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1500 rpm"
+        }
+    }
+}

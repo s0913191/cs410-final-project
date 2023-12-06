@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/john-deere/1263/63315",
+    "source_url_id": "63315",
+    "source_url_model": "1263",
+    "source_url_make": "john-deere",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:13.444275",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "John Deere",
+    "equipment_model": "1263",
+    "equipment_spec": {
+        "Boom": {
+            "Max Reach w/ Head": "28.2 ft (9 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "12 ft (4 m)",
+            "Overall Width": "9.4 ft (3 m)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Tire Size - front": "700 x 26.5 ELS",
+            "Tire Size - rear": "700 x 34 TRS"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "6CT8.3",
+            "Gross Power": "218 hp (163 kw)",
+            "Max Torque": "643.2 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Fuel Capacity": "122.9 gal (462 l)",
+            "Hydraulic System Fluid Capacity": "51 gal (193 l)",
+            "Max Speed": "15.6 mph (24 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "37258.2 lbs (16,900 kg)",
+            "Transmission Type": "Hydrostatic mechanical with two speed gearbox"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Ground Pressure": "7.9 psi"
+        }
+    }
+}

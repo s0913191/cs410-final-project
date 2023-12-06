@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/doosan/s300ll/30756026",
+    "source_url_id": "30756026",
+    "source_url_model": "s300ll",
+    "source_url_make": "doosan",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:00.302966",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "S300LL",
+    "equipment_spec": {
+        "Boom/Stick Log Loader Option 1": {
+            "Boom/Stick Option (LGL) 1": "Boom 20'8 (6300mm)/Stick 12'10 (3910mm)",
+            "Max Lift Capacity Over Front at Ground Level": "28570 lbs (12,959 kg)",
+            "Shipping Height": "15.4 ft (5 m)",
+            "Shipping Length": "48.2 ft (15 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.6 ft (1 m)",
+            "Length of Track on Ground": "13.2 ft (4 m)",
+            "Overall Width": "11.9 ft (3 m)",
+            "Tail Swing Radius": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "DE08TIS",
+            "Net Power": "197 hp (147 kw)",
+            "Power Measured @": "1900 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "130 gal/min (492 l/min)",
+            "Pump Type": "axial piston pump",
+            "Relief Valve Pressure": "4690 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "78600 lbs (35,653 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.1 rpm"
+        },
+        "Undercarriage": {
+            "Max Speed": "3.2 mph (5 kph)",
+            "Shoe Size": "27.6 in (69 cm)"
+        }
+    }
+}

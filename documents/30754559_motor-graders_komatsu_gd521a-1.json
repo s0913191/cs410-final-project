@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/komatsu/gd521a-1/30754559",
+    "source_url_id": "30754559",
+    "source_url_model": "gd521a-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:20.829935",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "GD521A-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Base": "8.4 ft (2 m)",
+            "Height to Top of Isomount Cab": "11.5 ft (3 m)",
+            "Overall Length": "26.8 ft (8 m)",
+            "Rear Ground Clearance": "1.2 ft (0 m)",
+            "Tandem Axle Wheelbase": "5.1 ft (2 m)",
+            "Wheelbase": "19 ft (6 m)",
+            "Width Over Tires": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "396.1 cu in (0 m)",
+            "Engine Model": "S6D105",
+            "Max Power": "135.5 hp (101 kw)",
+            "Net Power Gear 5-6": "135.5 hp (101 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1.2 ft (0 m)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "25.4 in (64 cm)",
+            "Moldboard Width": "12.2 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60 gal (227 l)",
+            "Std Operation Weight - Total": "23810 lbs (10,800 kg)",
+            "Tire Size": "13.00-24-8PR"
+        },
+        "Steering System": {
+            "Articulation Angle": "27  \t\u00b0",
+            "Turning Radius": "21.7 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "27.8 mph (43 kph)",
+            "Max Speed - Reverse": "33.9 mph (53 kph)",
+            "Number of Gears - Forward": "6"
+        }
+    }
+}

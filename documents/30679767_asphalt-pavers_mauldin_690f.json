@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/mauldin/690f/30679767",
+    "source_url_id": "30679767",
+    "source_url_model": "690f",
+    "source_url_make": "mauldin",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:28.541471",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Mauldin",
+    "equipment_model": "690F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8.9 ft (2 m)",
+            "Transport Height": "5.9 ft (2 m)",
+            "Transport Width": "8.5 ft (2 m)",
+            "Width w/ Hopper Open": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Gross Power": "38 hp (28 kw)"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "9 in (23 cm)",
+            "Paving Speed - max": "140 ft/min",
+            "Paving Width - max": "13 ft (4 m)",
+            "Travel Speed - max": "2.8 mph (3 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13 gal (49 l)",
+            "Hydraulic System Fluid Capacity": "17.5 gal (64 l)",
+            "Operating Weight w/ Screed": "9700 lbs (4,400 kg)"
+        }
+    }
+}

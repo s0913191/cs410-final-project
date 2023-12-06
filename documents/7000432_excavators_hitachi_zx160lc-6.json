@@ -1,0 +1,88 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx160lc-6/7000432",
+    "source_url_id": "7000432",
+    "source_url_model": "zx160lc-6",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:00:55.933770",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX160LC-6",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Digging Force - ISO": "20459 lbs (9,280 kg)",
+            "Arm Digging Force - SAE": "19784 lbs (8,974 kg)",
+            "Bucket Digging Force - ISO": "25180 lbs (11,422 kg)",
+            "Bucket Digging Force - SAE": "22257 lbs (10,096 kg)",
+            "Max Cutting Height": "29.2 ft (9 m)",
+            "Max Digging Depth": "19.7 ft (6 m)",
+            "Max Reach Along Ground": "28.7 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "16.2 ft (5 m)",
+            "Max.Dumping Height": "20.3 ft (6 m)",
+            "Minimum swing radius": "20.4 in (51 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Arm Digging Force - ISO": "18210 lbs (8,260 kg)",
+            "Arm Digging Force - SAE": "17536 lbs (7,954 kg)",
+            "Bucket Digging Force - ISO": "25180 lbs (11,422 kg)",
+            "Bucket Digging Force - SAE": "22257 lbs (10,096 kg)",
+            "Max Cutting Height": "29.2 ft (9 m)",
+            "Max Digging Depth": "21.4 ft (6 m)",
+            "Max Reach Along Ground": "30.1 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "18.8 ft (5 m)",
+            "Max.Dumping Height": "20.2 ft (6 m)",
+            "Minimum swing radius": "22.5 in (56 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Overall height": "10.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Cab height": "11.7 in (28 cm)",
+            "Center to center - idler to sprocket": "10.2 ft (3 m)",
+            "Counterweight Clearance": "3.4 ft (1 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Overall height": "10.2 ft (3 m)",
+            "Tail Swing Radius": "7.2 ft (2 m)",
+            "Track Gauge": "6.6 ft (2 m)",
+            "Undercarriage Overall Length": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "50 A",
+            "Aspiration": "Turbocharged and charged air cooled",
+            "Battery": "2",
+            "Displacement": "183.1 cu in (0 m)",
+            "Emission Tier Level": "EPA Final Tier 4",
+            "Engine Model": "4JJ1",
+            "Net Power": "101 hp (75 kw)",
+            "Off-Level Capacity": "70%",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Controls": "Pilot levers, short-stroke, low-effort hydraulic pilot controls with shutoff lever",
+            "Implement - Operating Pressure": "4980 psi",
+            "Travel - Operating Pressure": "4980 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Engine Oil Capacity": "4.5 gal (15 l)",
+            "Fuel Capacity": "75.3 gal (284 l)",
+            "Hydraulic Pump Flow Capacity": "33.1 gal/min (125 l/min)",
+            "Hydraulic System Fluid Capacity": "55.5 gal (208 l)",
+            "Operating Weight": "38400.2 lbs (17,418 kg)"
+        },
+        "Performance": {
+            "Travel speed  low": "2.2 mph (3 kph)",
+            "Travel Speed - High": "3.3 mph (5 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "13.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "38030 lbs (17,250 kg)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "7",
+            "Track Adjustment": "Hydraulic"
+        }
+    }
+}

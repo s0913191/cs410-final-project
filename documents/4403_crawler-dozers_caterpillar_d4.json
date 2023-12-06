@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d4/4403",
+    "source_url_id": "4403",
+    "source_url_model": "d4",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:06.977899",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "5.8 ft (2 m)",
+            "Length of Track on Ground": "5.2 ft (2 m)",
+            "Length w/o Blade": "10.3 ft (3 m)",
+            "Width Over Tracks": "6.5 ft in (15 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "350 cu in (0 m)",
+            "Gross Power": "48 hp (36 kw)",
+            "Net Power": "43 hp (32 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "11 gal (42 l)",
+            "Engine Oil Capacity": "3.8 gal (11 l)",
+            "Final Drives Fluid Capacity": "1.8 gal (4 l)",
+            "Fuel Capacity": "30 gal (114 l)",
+            "Operating Weight": "10860 lbs (4,926 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.4 mph (8 kph)",
+            "Max Speed - Reverse": "1.9 mph (2 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "1589 cu in (0 m)",
+            "Number of Shoes per Side": "31",
+            "Standard Shoe Size": "13 in (33 cm)",
+            "Track Gauge": "5 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/me-315/30757009",
+    "source_url_id": "30757009",
+    "source_url_model": "me-315",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:01.483723",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "ME 315",
+    "equipment_spec": {
+        "Dimensions": {
+            "Fork carriage width": "3.1 in (8 cm)",
+            "Ground Clearance": "4.4 in (10 cm)",
+            "Height to Top of Overhead Guard": "6.6 ft (2 m)",
+            "Length to Fork Face": "5.9 ft (2 m)",
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "7.1 ft (2 m)",
+            "Overall Width": "3.5 ft (1 m)",
+            "Turning Radius": "4.8 ft (1 m)",
+            "Wheelbase": "4.2 ft (1 m)"
+        },
+        "MAST": {
+            "Load Capacity": "3000.5 lbs (1,361 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Mast Tip Forward": "6.5  \t\u00b0",
+            "Mast Tip Rear": "5.5  \t\u00b0",
+            "Max Fork Spread": "41.6 in (104 cm)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "6305.3 lbs (2,860 kg)",
+            "Tire Type": "Super-elastic"
+        },
+        "Transmission": {
+            "Driving Position Noise Levels": "70 dB",
+            "Number of wheels Front": "2",
+            "Number of wheels Rear": "1",
+            "System Pressure": "2248.1 psi",
+            "Tyre Dimensions Rear": "15x4 , 5-8"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/318c-l/41446",
+    "source_url_id": "41446",
+    "source_url_model": "318c-l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:53.458488",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "318C L",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "29.3 ft (9 m)",
+            "Max Digging Depth": "19.5 ft (6 m)",
+            "Max Loading Height": "20.3 ft (6 m)",
+            "Max Reach Along Ground": "28.5 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "15.9 ft (5 m)",
+            "Shipping Height of Unit": "10.1 ft (3 m)",
+            "Shipping Length of Unit": "29.1 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "30.4 ft (9 m)",
+            "Max Digging Depth": "20.9 ft (6 m)",
+            "Max Loading Height": "21.3 ft (6 m)",
+            "Max Reach Along Ground": "30 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.7 ft (5 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "29 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "31.7 ft (9 m)",
+            "Max Digging Depth": "22.5 ft (7 m)",
+            "Max Loading Height": "22.5 ft (7 m)",
+            "Max Reach Along Ground": "31.6 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "19.8 ft (6 m)",
+            "Shipping Height of Unit": "11.5 ft (3 m)",
+            "Shipping Length of Unit": "29 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.4 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.6 cu yds (0 m)",
+            "Reference Bucket Capacity": "1 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "21 ft (6 m)",
+            "Digging Reach": "21 ft (6 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Length of Track on Ground": "11.4 ft (3 m)",
+            "Tail Swing Radius": "8.4 ft (2 m)",
+            "Width to Outside of Tracks": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "389 cu in (0 m)",
+            "Engine Model": "3066T",
+            "Gross Power": "130 hp (97 kw)",
+            "Net Power": "125 hp (93 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "3.7 gal (11 l)",
+            "Engine Oil Capacity": "7.9 gal (27 l)",
+            "Fuel Capacity": "85 gal (322 l)",
+            "Hydraulic Pump Flow Capacity": "50.2 gal/min (189 l/min)",
+            "Hydraulic System Fluid Capacity": "67.4 gal (254 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "43320 lbs (19,650 kg)",
+            "Swing Drive Fluid Capacity": "2.1 gal (8 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.8 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "45500 lbs (20,639 kg)",
+            "Ground Pressure": "6.2 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

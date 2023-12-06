@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/takeuchi/tb025/30353",
+    "source_url_id": "30353",
+    "source_url_model": "tb025",
+    "source_url_make": "takeuchi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:18:59.693659",
+    "equipment_category": "Excavators",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TB025",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "13.5 ft (4 m)",
+            "Max Digging Depth": "8.5 ft (2 m)",
+            "Max Loading Height": "9.5 ft (3 m)",
+            "Max Reach Along Ground": "14.6 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "6.5 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8 ft (2 m)",
+            "Length of Track on Ground": "4.6 ft (1 m)",
+            "Tail Swing Radius": "4.3 ft (1 m)",
+            "Width to Outside of Tracks": "4.8 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "91.3 cu in (0 m)",
+            "Net Power": "26 hp (19 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2450 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "7.6 gal (27 l)",
+            "Hydraulic Pump Flow Capacity": "12.6 gal/min (45 l/min)",
+            "Hydraulic System Fluid Capacity": "21.7 gal (79 l)",
+            "Hydraulic System Relief Valve Pressure": "2845 psi",
+            "Operating Weight": "5958 lbs (2,703 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "3",
+            "Shoe Size": "12 in (30 cm)"
+        }
+    }
+}

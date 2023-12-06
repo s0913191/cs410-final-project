@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/challenger/mt575b-2wd/30751250",
+    "source_url_id": "30751250",
+    "source_url_model": "mt575b-2wd",
+    "source_url_make": "challenger",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:44.862428",
+    "equipment_category": "Tractors",
+    "equipment_make": "Challenger",
+    "equipment_model": "MT575B 2WD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.4 in (43 cm)",
+            "Height - Top of ROPS/FOPS": "10.3 ft (3 m)",
+            "Overall Length": "15.9 in (38 cm)",
+            "Overall Width": "6.8 ft (2 m)",
+            "Wheelbase": "9.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and Aftercooled",
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "C6.6 ACERT",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "160 hp (119 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "47.6 gal/min (178 l/min)",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "14283.8 lbs (6,479 kg)",
+            "Alternator Supplied Amperage": "150  A",
+            "Cooling System Fluid Capacity": "6.8 gal (23 l)",
+            "Fuel Capacity": "97.8 gal (367 l)",
+            "Hydraulic System Fluid Capacity": "18.5 gal (68 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "15000 lbs (6,804 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "25 mph (40 kph)",
+            "Transmission Type": "Auto Power"
+        }
+    }
+}

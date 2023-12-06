@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/mustang/2200r/40871",
+    "source_url_id": "40871",
+    "source_url_model": "2200r",
+    "source_url_make": "mustang",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:32.148736",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Mustang",
+    "equipment_model": "2200R",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "72 hp (54 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2200 lbs (998 kg)",
+            "Operating Width": "65.5 in (165 cm)"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d475asd-5e0/30760452",
+    "source_url_id": "30760452",
+    "source_url_model": "d475asd-5e0",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:09.412012",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D475ASD-5E0",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SDA12V140E-3",
+            "Net Power": "890 hp (664 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "249560 lbs (113,200 kg)"
+        }
+    }
+}

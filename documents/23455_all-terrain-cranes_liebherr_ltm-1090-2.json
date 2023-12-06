@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1090-2/23455",
+    "source_url_id": "23455",
+    "source_url_model": "ltm-1090-2",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:48.118616",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1090-2",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "233 ft (71 m)",
+            "Max Lift Capacity": "110 t (99,790 kg)"
+        }
+    }
+}

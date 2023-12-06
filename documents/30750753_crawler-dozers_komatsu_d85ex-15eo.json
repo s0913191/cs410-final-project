@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d85ex-15eo/30750753",
+    "source_url_id": "30750753",
+    "source_url_model": "d85ex-15eo",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:27.154627",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D85EX-15EO",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "4.9 ft (1 m)",
+            "Length w/ Blade": "1.9 ft (0 m)",
+            "Length w/o Blade": "4 ft (1 m)",
+            "Width Over Tracks": "2.6 ft in (5 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo charged",
+            "Displacement": "11.1 cu in (0 m)",
+            "Engine Model": "SAA6D125E-5",
+            "Gross Power": "266 hp (198 kw)",
+            "Max Torque": "240 lbs/ft",
+            "Net Power": "264 hp (197 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "51.5 gal/min (193 l/min)",
+            "Pump type": "Plunger type",
+            "Relief Valve Pressure": "3270 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "15.3 gal (57 l)",
+            "Engine Oil Capacity": "10 gal (38 l)",
+            "Final Drives Fluid Capacity": "6.9 gal (23 l)",
+            "Fuel Capacity": "129 gal (488 l)",
+            "Hydraulic Fluid Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "46780 lbs (21,219 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "6.8 cu yds (5 m)",
+            "Height": "1436 in (3,647 cm)",
+            "Width": "18.6 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.2 mph (10 kph)",
+            "Max Speed - Reverse": "6.2 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TORQFLOW"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5295 cu in (0 m)",
+            "Ground Pressure": "10.7 psi",
+            "Number of Shoes per Side": "41",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22 in (56 cm)",
+            "Track Gauge": "6.7 ft (2 m)",
+            "Track Pitch": "10 in (25 cm)"
+        }
+    }
+}

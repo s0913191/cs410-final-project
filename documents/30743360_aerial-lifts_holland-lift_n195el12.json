@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/holland-lift/n195el12/30743360",
+    "source_url_id": "30743360",
+    "source_url_model": "n195el12",
+    "source_url_make": "holland-lift",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:59.676871",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Holland Lift",
+    "equipment_model": "N195EL12",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "5.9 in (13 cm)",
+            "Height w/ Rails": "12.3 ft (4 m)",
+            "Height w/o Rails": "10 ft (3 m)",
+            "Overall Length": "12.3 in (30 cm)",
+            "Overall Width": "4 ft (1 m)",
+            "Wheelbase": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "500",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Max Speed": "1.3 mph (2 kph)",
+            "Operating Weight": "20106.2 lbs (9,120 kg)",
+            "Tire Size": "22x9x16"
+        },
+        "Platform": {
+            "Deck Extension": "59.1 in (150 cm)",
+            "Lift Time": "80 sec",
+            "Lower Time": "50 sec",
+            "Max Platform Height": "63.7 ft (19 m)",
+            "Max Platform Weight Capacity": "1102.4 lbs (500 kg)",
+            "Max Working Height": "70.3 ft (21 m)",
+            "Platform Inner Length": "133.1 in (338 cm)",
+            "Platform Inner Width": "45.7 in (114 cm)"
+        }
+    }
+}

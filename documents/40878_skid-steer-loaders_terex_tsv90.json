@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/terex/tsv90/40878",
+    "source_url_id": "40878",
+    "source_url_model": "tsv90",
+    "source_url_make": "terex",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:19.090300",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TSV90",
+    "equipment_spec": {
+        "Axles": {
+            "Tractive Effort": "28541.5 lbs/ft"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "0.9 ft (0 m)",
+            "Ground Clearance - Unloaded": "10 in (25 cm)",
+            "Height - Top of ROPS/FOPS": "86 in (218 cm)",
+            "Height to Hinge Pin": "131 in (333 cm)",
+            "Length with Bucket": "12.2 ft (4 m)",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dual Stage",
+            "Displacement": "201.4 cu in (0 m)",
+            "Emissions Certification": "Tier 4",
+            "Engine Model": "Cummins QSB 3.3",
+            "Gross Power": "85 hp (63 kw)",
+            "Max Torque": "195.5 lbs/ft",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "25.9 gal/min (95 l/min)",
+            "Relief Valve Pressure": "3335 psi"
+        },
+        "Loader": {
+            "bucket breakout force (ISO 14397)": "5820 lbs (2,640 kg)",
+            "Operating Load Rating": "4129.3 lbs (1,873 kg)",
+            "Tipping load (ISO 14397)": "8258.6 lbs (3,746 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Engine Oil Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "23 gal (87 l)",
+            "Hydraulic System Fluid Capacity": "8.1 gal (30 l)",
+            "Max Speed": "12 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "8679.6 lbs (3,937 kg)",
+            "Shipping Weight - Empty": "8384.2 lbs (3,803 kg)",
+            "Tire Size": "12 X 16.5"
+        }
+    }
+}

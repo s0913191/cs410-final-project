@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l20f/32830",
+    "source_url_id": "32830",
+    "source_url_model": "l20f",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:45.219577",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L20F",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Volvo",
+            "Model": "D3.6D",
+            "Net Power": "50 hp (37 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "0.9 - 1.40 cu yds (0 - 1 m)"
+        },
+        "Weights": {
+            "Operational Weight": "9945 lbs (4,511 kg)"
+        }
+    }
+}

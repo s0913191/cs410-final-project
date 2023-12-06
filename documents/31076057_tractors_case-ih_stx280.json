@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/stx280/31076057",
+    "source_url_id": "31076057",
+    "source_url_model": "stx280",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:06.514096",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "STX280",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "280 hp (209 kw)"
+        },
+        "Production": {
+            "Series": "Steiger STX Series",
+            "Years Manufactured": "2006"
+        }
+    }
+}

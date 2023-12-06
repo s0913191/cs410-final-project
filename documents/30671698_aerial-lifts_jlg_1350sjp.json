@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/1350sjp/30671698",
+    "source_url_id": "30671698",
+    "source_url_model": "1350sjp",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:17.765111",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "1350SJP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "0.1 in (0 cm)",
+            "Overall Height - mast lowered": "10 ft (3 m)",
+            "Overall Length": "48.1 ft in (122 cm)",
+            "Overall length": "48.1 in (122 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Overall Width  (Axles Extended)": "12.6 ft (4 m)",
+            "Platform Dimension A": "3 ft (1 m)",
+            "Platform Dimension B": "8 ft (2 m)",
+            "Tailswing Radius": "5.6 ft (2 m)",
+            "Transport length": "38.2 ft in (97 cm)"
+        },
+        "Engine": {
+            "Diesel Engine Type": "DEUTZ TCD2.9L4 Tier 4 Final 74.2",
+            "Maximum Ground Bearing Pressure": "107 psi",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Axle Oscillation": "1 ft (0 m)",
+            "Drive Speed": "3.3 mph (5 kph)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Gradeability": "45%",
+            "Hydraulic System Fluid Capacity": "55 gal (208 l)",
+            "Operating Weight": "45000 lbs (20,412 kg)",
+            "Tire Size": "445/500710 Foam-Filled",
+            "Turning Radius - Outside (axles extended)": "19.4 ft (6 m)",
+            "Turning Radius - Outside (axles retracted)": "22.6 ft (7 m)"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "80 ft (24 m)",
+            "Max Platform Height": "135 ft (41 m)",
+            "Platform Capacity - Restricted": "1000 lbs (454 kg)",
+            "Platform Capacity - Unrestricted": "500 lbs (227 kg)"
+        },
+        "Swing System": {
+            "Swing": "360  \t\u00b0",
+            "Swing Type": "Continuous"
+        }
+    }
+}

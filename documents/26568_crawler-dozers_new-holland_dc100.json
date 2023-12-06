@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/new-holland/dc100/26568",
+    "source_url_id": "26568",
+    "source_url_model": "dc100",
+    "source_url_make": "new-holland",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:50:47.192207",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "New Holland",
+    "equipment_model": "DC100",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Length of Track on Ground": "8.1 ft (2 m)",
+            "Length w/ Blade": "14.6 ft (4 m)",
+            "Length w/o Blade": "11 ft (3 m)",
+            "Width Over Tracks": "8.3 ft in (20 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "Cummins 4A 3.9Elite",
+            "Gross Power": "100 hp (75 kw)",
+            "Max Torque": "327 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.3 gal/min (53 l/min)",
+            "Pump type": "gear type",
+            "Relief Valve Pressure": "3046 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "63  A",
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "2.6 gal (8 l)",
+            "Final Drives Fluid Capacity": "1.2 gal (4 l)",
+            "Fuel Capacity": "50.2 gal (189 l)",
+            "Hydraulic Fluid Capacity": "22.5 gal (83 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "20944 lbs (9,500 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "2.9 cu yds (2 m)",
+            "Height": "41.4 in (104 cm)",
+            "Width": "9.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.1 mph (10 kph)",
+            "Max Speed - Reverse": "6.1 mph (10 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "dual path hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3850 cu in (0 m)",
+            "Ground Pressure": "5.4 psi",
+            "Number of Shoes per Side": "41",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "20 in (51 cm)",
+            "Track Gauge": "5.6 ft (2 m)",
+            "Track Pitch": "6.8 in (15 cm)"
+        }
+    }
+}

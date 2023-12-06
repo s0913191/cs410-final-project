@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/challenger/mt645c/30170716",
+    "source_url_id": "30170716",
+    "source_url_model": "mt645c",
+    "source_url_make": "challenger",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:47.304816",
+    "equipment_category": "Tractors",
+    "equipment_make": "Challenger",
+    "equipment_model": "MT645C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "11.1 ft (3 m)",
+            "Overall Length": "222.9 in (564 cm)",
+            "Wheelbase": "10.2 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.4 in (10 cm)",
+            "Engine Make": "AGCO",
+            "Gross Power": "240 hp (179 kw)",
+            "Max Torque": "874.1 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "205 hp (153 kw)",
+            "Stroke": "5.8 in (13 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum system pressure": "2901 psi",
+            "Number of Remote Control Valves": "4 to 6",
+            "Pump Flow Capacity": "26.4 gal/min (98 l/min)",
+            "Pump Type": "Closed center load sensing"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "26459.9 lbs (12,002 kg)",
+            "DEF tank capacity": "7.9 gal (27 l)",
+            "Fuel Capacity": "155.9 gal (587 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "25794.1 lbs (11,700 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "Continuously variable transmission"
+        }
+    }
+}

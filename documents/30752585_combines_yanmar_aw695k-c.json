@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/yanmar/aw695k-c/30752585",
+    "source_url_id": "30752585",
+    "source_url_model": "aw695k-c",
+    "source_url_make": "yanmar",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:59.792059",
+    "equipment_category": "Combines",
+    "equipment_make": "Yanmar",
+    "equipment_model": "AW695K (C)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "9.1 ft (3 m)",
+            "Overall Length": "15.5 ft (5 m)",
+            "Width Over Tires": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "269.3 cu in (0 m)",
+            "Engine Model": "4TNV106T",
+            "Power": "93.8 hp (69 kw)",
+            "Power Measured @": "2350 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "55.4 bu",
+            "Unloading Auger Length": "14.8 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Operating Weight w/o Attachment": "8950.8 lbs (4,060 kg)",
+            "Transmission Type": "Hydrostatic Transmission"
+        },
+        "Threshing": {
+            "Rotor Diameter": "7.5 in (18 cm)",
+            "Rotor Length": "9.1 in (23 cm)",
+            "Rotor Speed - High": "1530 rpm",
+            "Rotor Speed - Low": "1530 rpm"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kioti/dk45s/30751662",
+    "source_url_id": "30751662",
+    "source_url_model": "dk45s",
+    "source_url_make": "kioti",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:49.838915",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kioti",
+    "equipment_model": "DK45S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.6 in (36 cm)",
+            "Height - Top of Cab": "7.7 ft (2 m)",
+            "Overall Length": "10.7 in (25 cm)",
+            "Tire Size": "front 9.5-16 rear 14.9-24",
+            "Wheelbase": "6.2 ft (2 m)",
+            "Width Outside Frame": "5.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134.1 cu in (0 m)",
+            "Engine Model": "4A220LXB",
+            "Gross Power": "45 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "38 hp (28 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "9.9 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2654.4 lbs (1,204 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "15.4 gal (57 l)",
+            "Operating Weight": "4585.7 lbs (2,080 kg)",
+            "Turning Radius": "8.8 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "17.4 mph (27 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "synchro shuttle"
+        }
+    }
+}

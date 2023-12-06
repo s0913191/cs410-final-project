@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/h190ft/30756655",
+    "source_url_id": "30756655",
+    "source_url_model": "h190ft",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:28:39.214779",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "H190FT",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Hand/Mechanical",
+            "Service brake": "Foot/Hydraulic"
+        },
+        "Dimensions": {
+            "Gradeability": "29%",
+            "Ground Clearance": "10 in (25 cm)",
+            "Height to Top of Overhead Guard": "8.4 ft (2 m)",
+            "Length to Fork Face": "13 ft (4 m)",
+            "Overall Height - mast lowered": "13 ft (4 m)",
+            "Overall Width": "7.4 ft (2 m)",
+            "Right Angle Stack": "14.2 ft (4 m)",
+            "Track width front": "6.6 ft (2 m)",
+            "Track width rear": "5.1 ft (2 m)",
+            "Turning Radius": "12.3 ft (4 m)",
+            "Wheelbase": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "230 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Fuel Type": "Diesel",
+            "Number of Cylinders": "4",
+            "Power": "74 hp (55 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque": "227 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "67 ft/min",
+            "Load Capacity": "17637 lbs (8,000 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Lower Speed": "73 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "9  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "11693 lbs (5,304 kg)",
+            "Axle load - rear": "14162 lbs (6,424 kg)",
+            "Drawbar Pull": "12000 lbs (5,443 kg)",
+            "Front Tire Size": "8.25 X 15 14PR",
+            "Fuel Capacity": "19.7 gal (72 l)",
+            "Hydraulic Tank": "19 gal (72 l)",
+            "Max Speed": "13 mph (21 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "25858.1 lbs (11,729 kg)",
+            "Rear Tire Size": "8.25 X 15 14PR",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

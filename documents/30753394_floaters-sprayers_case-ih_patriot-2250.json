@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/case-ih/patriot-2250/30753394",
+    "source_url_id": "30753394",
+    "source_url_model": "patriot-2250",
+    "source_url_make": "case-ih",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:05:59.538784",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Case Ih",
+    "equipment_model": "Patriot 2250",
+    "equipment_spec": {
+        "Boom": {
+            "Boom location": "Rear",
+            "Boom sections": "5 or 6 or 36 with AIM Command FLEX",
+            "Max Boom Width": "90 ft (27 m)",
+            "Min Boom Width": "60 ft (18 m)",
+            "Nozzle spacing": "20 (50.8) off-center or 20-30 (50.8-76.2) with 30 (76.2) on-center in (51 cm)",
+            "Overall Height": "12.2 ft (4 m)",
+            "Overall Length": "28.9 ft (9 m)",
+            "Overall Width-wheels extended": "11.5 ft (3 m)",
+            "Overall Width-wheels retracted": "10.5 ft (3 m)",
+            "Weight with widest boom": "21032.1 lbs (9,540 kg)"
+        },
+        "Capacities": {
+            "Diesel exhaust fluid (DEF) tank": "21 gal (79 l)",
+            "Dry material box option in place of tank": "No",
+            "Foam marker tank": "7 gal (27 l)",
+            "Fuel Tank": "120 gal (454 l)",
+            "Hand wash tank": "4.5 gal (15 l)",
+            "Hydraulic oil reservoir": "28 gal (106 l)",
+            "Rinse tank": "74 gal (280 l)"
+        },
+        "Chassis": {
+            "Steering system": "2WS, Hydraulic",
+            "Suspension": "Trailing-link with coil spring & shock standard,  Active susp. optional",
+            "Total Suspension travel": "11 in (28 cm)",
+            "Turning radius": "22.7 ft (7 m)",
+            "Wheel base": "140 in (356 cm)",
+            "Wheel track spacing": "120 in (305 cm)"
+        },
+        "Drive System": {
+            "Drive System description": "Hydrostatic",
+            "Parking brakes": "Spring-applied hydraulic released wet disc, all wheels",
+            "Primary Service Brake": "Drive system dynamic braking",
+            "Secondary Service Brake": "Dry disks on front wheels",
+            "Speed ranges": "4 ranges, shift on the go",
+            "Travel speeds - 1st": "28 mph (45 kph)",
+            "Wheel drive": "Full-time 4WD"
+        },
+        "Engine": {
+            "Alternator": "175 A",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emission Tier Level": "Tier 4 B or Final",
+            "Engine Make": "Case IH FPT",
+            "Engine Model": "NEF 6.7",
+            "Engine position Front or rear": "Rear",
+            "Number of Cylinders": "6",
+            "Peak rated power": "190 hp (142 kw)",
+            "Peak Torque": "612 lbs/ft",
+            "Rated power": "175 hp (131 kw)"
+        },
+        "Hydraulic System": {
+            "Chemical eductor": "Optional, stainless steel"
+        },
+        "Solution System": {
+            "Solution Fill connection- Front fill": "Optional",
+            "Solution Fill connection-Left side": "2 in (5 cm)",
+            "Solution pump": "Centrifugal-hydraulic motor driven",
+            "Solution system tank": "660 gal (2,498 l)",
+            "Tank material": "Polyethylene"
+        }
+    }
+}

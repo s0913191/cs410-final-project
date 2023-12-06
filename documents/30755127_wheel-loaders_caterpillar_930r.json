@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/930r/30755127",
+    "source_url_id": "30755127",
+    "source_url_model": "930r",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:27.453714",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "930R",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "17104 lbs (7,758 kg)",
+            "Bucket Capacity - heaped": "2.3 cu yds (2 m)",
+            "Bucket Capacity - struck": "1.7 cu yds (1 m)",
+            "Bucket Width": "8.1 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Hinge Pin - Max Height": "12.1 ft (4 m)",
+            "Length with Bucket on Ground": "20 ft (6 m)",
+            "Reach at Max Lift and Dump": "2.9 ft (1 m)",
+            "Wheelbase": "9.1 ft (3 m)",
+            "Width Over Tires": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "427.2 cu in (0 m)",
+            "Engine Model": "3304",
+            "Gross Power": "100.6 hp (75 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3.6 sec",
+            "Raise Time": "6.6 sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "39.1 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "19.6 gal (72 l)",
+            "Operating Weight": "21201.9 lbs (9,617 kg)",
+            "Static Tipping Weight": "16420.1 lbs (7,448 kg)",
+            "Tire Size": "17.5-25 12PR",
+            "Turning Radius": "19.5 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "19 mph (31 kph)",
+            "Max Speed - Reverse": "20.5 mph (32 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

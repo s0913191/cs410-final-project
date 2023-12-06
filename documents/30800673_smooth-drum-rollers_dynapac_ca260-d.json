@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca260-d/30800673",
+    "source_url_id": "30800673",
+    "source_url_model": "ca260-d",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:00.177909",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA260 D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "122 in (310 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "1980 hz (118,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB 6.7"
+        },
+        "Operating Specifications": {
+            "Operating Width": "94 in (239 cm)"
+        }
+    }
+}

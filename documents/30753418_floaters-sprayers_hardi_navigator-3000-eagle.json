@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/hardi/navigator-3000-eagle/30753418",
+    "source_url_id": "30753418",
+    "source_url_model": "navigator-3000-eagle",
+    "source_url_make": "hardi",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:35.076069",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Hardi",
+    "equipment_model": "Navigator 3000 EAGLE",
+    "equipment_spec": {
+        "Boom": {
+            "Max Boom Width": "98.5 ft (30 m)",
+            "Min Boom Width": "59.1 ft (18 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.7 ft (1 m)",
+            "Overall Length": "23.7 in (58 cm)",
+            "Transport Height": "12.5 ft (4 m)",
+            "Transport Width": "9.9 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "7495.8 lbs (3,400 kg)",
+            "Hand/Eye Wash Tank Capacity": "5.3 gal (19 l)",
+            "Rinse Tank Capacity": "132.1 gal (500 l)"
+        }
+    }
+}

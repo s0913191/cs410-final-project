@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/308e2-cr/8023153",
+    "source_url_id": "8023153",
+    "source_url_model": "308e2-cr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:26.024904",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "308E2 CR",
+    "equipment_spec": {
+        "Description:": {
+            "Maximum Bucket Capacity": "1.1 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.1 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)"
+        },
+        "Engine": {
+            "Net Power": "48.5 hp (36 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18431 lbs (8,360 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "3.7 gal (11 l)",
+            "Engine Oil": "3 gal (11 l)",
+            "Fuel Tank": "33 gal (125 l)",
+            "Hydraulic Tank": "21.7 gal (79 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "20720 lbs (9,399 kg)",
+            "Ground Pressure": "5.6 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Track Gauge": "6.6 ft (2 m)"
+        },
+        "Weights": {
+            "Operating Weight": "18519 lbs (8,400 kg)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "13.5 ft (4 m)",
+            "Max Reach Along Ground": "23 ft (7 m)"
+        }
+    }
+}

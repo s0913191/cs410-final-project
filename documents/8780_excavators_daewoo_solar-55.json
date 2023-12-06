@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/daewoo/solar-55/8780",
+    "source_url_id": "8780",
+    "source_url_model": "solar-55",
+    "source_url_make": "daewoo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:13.176683",
+    "equipment_category": "Excavators",
+    "equipment_make": "Daewoo",
+    "equipment_model": "SOLAR 55",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "12.7 ft (4 m)",
+            "Digging Reach": "12.7 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "11464 lbs (5,200 kg)"
+        }
+    }
+}

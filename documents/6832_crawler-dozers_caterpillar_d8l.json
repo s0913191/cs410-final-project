@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d8l/6832",
+    "source_url_id": "6832",
+    "source_url_model": "d8l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:29.248332",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D8L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "12.8 ft (4 m)",
+            "Length of Track on Ground": "10.6 ft (3 m)",
+            "Length w/ Blade": "16.3 ft (5 m)",
+            "Length w/o Blade": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "1098.5 cu in (0 m)",
+            "Engine Model": "3408",
+            "Gross Power": "335.3 hp (250 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "199 gal (753 l)",
+            "Operating Weight": "82243.5 lbs (37,305 kg)"
+        },
+        "Standard Blade": {
+            "Width": "13.7 ft (4 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5564.6 cu in (0 m)",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "7.3 ft (2 m)"
+        }
+    }
+}

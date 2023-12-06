@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/air-seeders-carts/bourgault/3310-75/30798821",
+    "source_url_id": "30798821",
+    "source_url_model": "3310-75",
+    "source_url_make": "bourgault",
+    "source_url_category": "air-seeders-carts",
+    "source_date_scraped": "2023-09-13 16:58:38.113913",
+    "equipment_category": "Air Seeders / Carts",
+    "equipment_make": "Bourgault",
+    "equipment_model": "3310-75",
+    "equipment_spec": {
+        "Base Size": {
+            "Base Width": "18.4 ft (5 m)",
+            "Number of Ranks": "5",
+            "Number of Sections": "5"
+        },
+        "Frame Widths": {
+            "Inner Wing": "13.2 ft (4 m)",
+            "Main Frame": "18.4 ft (5 m)",
+            "Transport Height": "18.5 ft (5 m)",
+            "Transport Width": "24.3 ft (7 m)"
+        },
+        "Tires": {
+            "Inner Wing Casters": "13.5Lx15FI",
+            "Main Frame Casters": "16.5x16.1FI",
+            "Outer Wing Casters": "13.5Lx15FI"
+        },
+        "Weights": {
+            "10 in Spacing": "46000 lbs (20,866 kg)",
+            "12 in Spacing": "42800 lbs (19,414 kg)"
+        },
+        "Working Width": {
+            "10 in Spacing": "75 ft (23 m)",
+            "12 in Spacing": "74 ft (23 m)"
+        }
+    }
+}

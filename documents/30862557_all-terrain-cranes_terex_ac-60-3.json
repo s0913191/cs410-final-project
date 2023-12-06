@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/ac-60-3/30862557",
+    "source_url_id": "30862557",
+    "source_url_model": "ac-60-3",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:13.905423",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AC 60-3",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "141.1 ft (43 m)",
+            "Max Lift Capacity": "132277.4 lbs (60,001 kg)",
+            "Max Working Radius": "111.6 ft (34 m)",
+            "Min Height @ Max Raise Angle": "43.4 ft (13 m)",
+            "Min Working Radius": "8.3 ft (2 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.8 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "348.7 hp (260 kw)",
+            "Make": "Terex",
+            "Max Torque": "1276 lbs/ft",
+            "Model": "OM 501 LA",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1080 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "30.6 ft (9 m)",
+            "Transport Height": "12.6 ft (4 m)",
+            "Transport Length": "38.2 ft (12 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.5 ft (3 m)",
+            "Width w/ Outriggers Extended": "20.7 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "105.7 gal (397 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "16.00 R 25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "52.9 mph (84 kph)",
+            "Number of Forward Gears": "12",
+            "Transmission Type": "Automated Gearbox"
+        }
+    }
+}

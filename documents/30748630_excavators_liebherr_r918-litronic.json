@@ -1,0 +1,91 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/r918-litronic/30748630",
+    "source_url_id": "30748630",
+    "source_url_model": "r918-litronic",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:14:22.665539",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "R918 Litronic",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Breakout force - ISO": "30349.3 lbs (13,766 kg)",
+            "Breakout force - SAE": "26527.5 lbs (12,033 kg)",
+            "Bucket Digging Force - ISO": "21132.1 lbs (9,585 kg)",
+            "Bucket Digging Force - SAE": "20008 lbs (9,076 kg)",
+            "Max Digging Depth": "18.8 ft (5 m)",
+            "Max Reach Along Ground": "29.2 ft (9 m)",
+            "Max. teeth height": "352.4 ft (107 m)",
+            "Max.Dumping Height": "19.6 ft (6 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Breakout force-ISO": "30349.3 lbs (13,766 kg)",
+            "Breakout force-SAE": "26527.5 lbs (12,033 kg)",
+            "Bucket Digging Force - ISO": "18884 lbs (8,566 kg)",
+            "Bucket Digging Force - SAE": "17984.8 lbs (8,158 kg)",
+            "Max Digging Depth": "20.1 ft (6 m)",
+            "Max. teeth height": "30.1 ft (9 m)",
+            "Max.Dumping Height": "20.2 ft (6 m)",
+            "Maximum Reach at Ground Level": "362.3 in (919 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Breakout force-ISO": "30349.3 lbs (13,766 kg)",
+            "Breakout force-SAE": "26527.5 lbs (12,033 kg)",
+            "Bucket Digging Force - ISO": "17085.5 lbs (7,750 kg)",
+            "Bucket Digging Force - SAE": "16411.1 lbs (7,444 kg)",
+            "Max Digging Depth": "21.4 ft (6 m)",
+            "Max Reach Along Ground": "31.2 ft (9 m)",
+            "Max. teeth height": "342.6 ft (104 m)",
+            "Max.Dumping Height": "19.4 ft (6 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1.6 cu yds (1 m)",
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)"
+        },
+        "Capacities": {
+            "Fuel Tank": "97.5 gal (367 l)",
+            "Hydraulic system": "92.5 gal (348 l)",
+            "Urea tank": "12.2 gal (45 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Undercarriage Width": "13.7 ft (4 m)"
+        },
+        "Electrical System": {
+            "Alternator": "28 V  / 140 A",
+            "Batteries": "2 x 135 Ah  /  12 V V",
+            "Engine idling": "sensor controlled",
+            "Voltage": "24V"
+        },
+        "Engine": {
+            "Air cleaner": "Dry-type",
+            "Aspiration": "Turbo-charged and after-coolerreduced emissions",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "274.7 cu in (0 m)",
+            "Emission Tier Level": "Tier 4 Final",
+            "Engine Model": "D924 A7-04",
+            "Exhaust Gas Recirculation (EGR)": "DOC Deutz",
+            "Horsepower, Net-ISO 9249": "163 hp (122 kw)",
+            "Horsepower, Net-SAE J1349": "161 hp (120 kw)",
+            "Max Torque": "503.1 lbs/ft",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5.2 in (13 cm)"
+        },
+        "Operating Specifications": {
+            "Hydraulic System Relief Valve Pressure": "5076 psi",
+            "Operating Weight": "44753.9 lbs (20,300 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "43163.4 lbs (19,579 kg)",
+            "Max Travel Speed": "3.7 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "43648",
+            "Tail Swing Radius": "5.1 ft (2 m)"
+        }
+    }
+}

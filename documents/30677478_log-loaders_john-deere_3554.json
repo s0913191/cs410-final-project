@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/john-deere/3554/30677478",
+    "source_url_id": "30677478",
+    "source_url_model": "3554",
+    "source_url_make": "john-deere",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:05.206058",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "3554",
+    "equipment_spec": {
+        "Boom/Stick Log Loader Option 1": {
+            "Boom/Stick Option (LGL) 1": "live-heel",
+            "Max Depth Below Ground": "24.3 ft (7 m)",
+            "Max Height": "49.5 ft (15 m)",
+            "Max Lift Capacity Over Front at Ground Level": "39903.7 lbs (18,100 kg)",
+            "Max Reach at Ground Level": "43 ft (13 m)",
+            "Shipping Height": "11.7 ft (3 m)",
+            "Shipping Length": "54.7 ft (16 m)"
+        },
+        "Boom/Stick Log Loader Option 2": {
+            "Boom/Stick Option (LGL) 2": "articulating grapple",
+            "Max Depth Below Ground": "17.4 ft (5 m)",
+            "Max Height": "45.3 ft (14 m)",
+            "Max Lift Capacity Over Front at Ground Level": "40344.6 lbs (18,300 kg)",
+            "Max Reach at Ground Level": "39.1 ft (12 m)",
+            "Shipping Height": "11.7 ft (3 m)",
+            "Shipping Length": "51.8 ft (16 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Height - Top of Cab": "18 ft (5 m)",
+            "Length of Track on Ground": "13.3 ft (4 m)",
+            "Overall Width": "11.9 ft (3 m)",
+            "Tail Swing Radius": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "496 cu in (0 m)",
+            "Engine Model": "6081H",
+            "Net Power": "245.5 hp (183 kw)",
+            "Net Torque": "940.4 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1100 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "153.8 gal/min (579 l/min)",
+            "Pump Type": "variable axial-piston",
+            "Relief Valve Pressure": "5050 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Cooling System Fluid Capacity": "14.7 gal (53 l)",
+            "Engine Oil Capacity": "8 gal (30 l)",
+            "Fuel Capacity": "269 gal (1,018 l)",
+            "Hydraulic System Fluid Capacity": "85.1 gal (322 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "99241.1 lbs (45,015 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.6 rpm",
+            "Swing Torque": "82862.9 lbs/ft"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "10.4 psi",
+            "Max Drawbar Pull": "56074.6 lbs (25,435 kg)",
+            "Max Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "28 in (71 cm)",
+            "Track Gauge": "9.6 ft (3 m)"
+        }
+    }
+}

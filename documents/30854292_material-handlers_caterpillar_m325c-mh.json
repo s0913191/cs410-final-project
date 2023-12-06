@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/material-handlers/caterpillar/m325c-mh/30854292",
+    "source_url_id": "30854292",
+    "source_url_model": "m325c-mh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "material-handlers",
+    "source_date_scraped": "2023-09-13 15:44:29.789842",
+    "equipment_category": "Material Handlers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "M325C MH",
+    "equipment_spec": {
+        "Boom/Stick Mat. Handler Option 1": {
+            "Boom/Stick Option (MAT) 1": "stick length 6000mm",
+            "Max Depth": "16.5 ft (5 m)",
+            "Max Height": "52.5 ft (16 m)",
+            "Max Reach Along Ground": "47.1 ft (14 m)"
+        },
+        "Boom/Stick Mat. Handler Option 2": {
+            "Boom/Stick Option (MAT) 2": "stick length 7420mm",
+            "Max Depth": "21 ft (6 m)",
+            "Max Height": "56.3 ft (17 m)",
+            "Max Reach Along Ground": "51.4 ft (16 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height to Top of Cab - Fixed Riser": "11.2 ft (3 m)",
+            "Height to Top of Cab - fixed riser": "11.16 ft (3 m)",
+            "Height to Top of Cab - hydraulic riser raised": "19.05 ft (6 m)",
+            "Height to Top of Cab - Hydraulic Riser Raised": "19.1 ft (6 m)",
+            "Shipping Height": "11.7 ft (3 m)",
+            "Shipping Length": "39.9 ft (12 m)",
+            "Tail Swing Radius": "10.1 ft (3 m)",
+            "Undercarriage Width": "9.9 ft (3 m)",
+            "Upperstructure Clearance": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "439.4 cu in (0 m)",
+            "Engine Model": "3126B ATAAC",
+            "Gross Power": "189 hp (141 kw)",
+            "Net Power": "173 hp (129 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "124.2 gal/min (469 l/min)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Fuel Capacity": "132.1 gal (500 l)",
+            "Hydraulic System Fluid Capacity": "92.5 gal (348 l)",
+            "Max Drawbar Pull": "349.9 lbs (158 kg)",
+            "Operating Weight w/o Attachment": "69445.7 lbs (31,500 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "12.5 mph (19 kph)"
+        },
+        "Wheel Undercarriage": {
+            "Tire Size": "12-20 dual",
+            "Wheelbase": "9.9 ft (3 m)",
+            "Width w/ Stabilizers on Ground": "16 ft (5 m)"
+        }
+    }
+}

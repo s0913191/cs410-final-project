@@ -1,0 +1,81 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/456-wastemaster/30754446",
+    "source_url_id": "30754446",
+    "source_url_model": "456-wastemaster",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:47:37.838195",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "456 Wastemaster",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "39341.6 lbs (17,845 kg)",
+            "Bucket Capacity - heaped": "3.7 cu yds (2 m)",
+            "Bucket Capacity - struck": "3.8 cu yds (2 m)",
+            "Bucket Width": "9.4 ft (3 m)",
+            "Dump Clearance at Max Raise": "13.1 ft (4 m)"
+        },
+        "Dimensions": {
+            "Dump Clearance at Max Lift": "13.3 ft (4 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Hinge Pin - Max Height": "17.5 ft (5 m)",
+            "Hinge Pin Max Height": "17.5 ft (5 m)",
+            "Length w/ Bucket on Ground": "31.1 ft (9 m)",
+            "Length with Bucket on Ground": "31.1 ft (9 m)",
+            "Reach at Max Height and Dump": "4.4 ft (1 m)",
+            "Reach at Max Lift and Dump": "4.4 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)",
+            "Width Over Tires": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "6CT 8.3C",
+            "Gross Power": "161 hp (120 kw)",
+            "Max Torque": "665.3 lbs/ft",
+            "Net Power": "153 hp (114 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "4.1 sec",
+            "Pump Flow Capacity": "108.4 gal/min (409 l/min)",
+            "Pump Type": "twin variable displacement piston pump",
+            "Raise Time": "5.8 sec",
+            "Relief Valve Setting": "3625 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Engine Oil Capacity": "5 gal (19 l)",
+            "Engine Oil Fluid Capacity": "5 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "18.3 gal (68 l)",
+            "Front Diff Fluid Capacity": "18.3 gal (68 l)",
+            "Fuel Capacity": "97.8 gal (367 l)",
+            "Hydraulic System Fluid Capacity": "56.8 gal (212 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "47679.4 lbs (21,627 kg)",
+            "Rear Axle Oscillation": "25  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Rear Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Static Tipping Load - Bucket": "21358.4 lbs (9,688 kg)",
+            "Static Tipping Weight": "20439.1 lbs (9,271 kg)",
+            "Tire Size": "Michelin 23.5R25 XHA L3",
+            "Transmission Fluid Capacity": "9 gal (34 l)",
+            "Turning Radius": "23.4 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.3 mph (37 kph)",
+            "Max Speed - Reverse": "15.2 mph (24 kph)",
+            "Max Speed Forward": "23.3 mph (37 kph)",
+            "Max Speed Reverse": "15.2 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "smooth shift powershift"
+        }
+    }
+}

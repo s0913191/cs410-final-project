@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/860sj/30679038",
+    "source_url_id": "30679038",
+    "source_url_model": "860sj",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:11.293578",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "860SJ",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11 in (28 cm)",
+            "Overall Height - mast lowered": "10 ft (3 m)",
+            "Overall length": "40 in (102 cm)",
+            "Overall Length": "37.3 in (94 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Platform Dimension A": "3 ft (1 m)",
+            "Platform Dimension B": "8 ft (2 m)",
+            "Tailswing Radius": "4.8 ft (1 m)",
+            "Turning Radius": "19.8 ft (6 m)"
+        },
+        "Engine": {
+            "Diesel Engine Type": "DEUTZ TD 2.9L Tier 4 Final 67",
+            "Dual Fuel Engine Type": "Ford MSG425 84hp",
+            "Maximum Ground Bearing Pressure": "81 psi",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Axle Oscillation": "0.7 ft (0 m)",
+            "Drive Speed": "3.5 mph (5 kph)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Hydraulic System Fluid Capacity": "48 gal (182 l)",
+            "Operating Weight": "36230 lbs (16,434 kg)",
+            "Tire Size": "15-625 Pnuematic"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "75 ft (23 m)",
+            "Max Platform Height": "86 ft (26 m)",
+            "Platform Capacity - Restricted": "750 lbs (340 kg)",
+            "Platform Capacity - Unrestricted": "500 lbs (227 kg)"
+        },
+        "Swing System": {
+            "Swing": "360  \t\u00b0",
+            "Swing Type": "Continuous"
+        }
+    }
+}

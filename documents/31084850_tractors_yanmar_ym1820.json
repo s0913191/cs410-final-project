@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ym1820/31084850",
+    "source_url_id": "31084850",
+    "source_url_model": "ym1820",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:53.325738",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "YM1820",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "18 hp (13 kw)"
+        },
+        "Production": {
+            "Series": "YM20 Series",
+            "Years Manufactured": "1982 - 1983"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hdplus-140-vv/30171026",
+    "source_url_id": "30171026",
+    "source_url_model": "hdplus-140-vv",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:10.166967",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD+ 140 VV",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "205 in (521 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "40 - 50 hz (2,400 - 3,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "89.3 in (226 cm)"
+        }
+    }
+}

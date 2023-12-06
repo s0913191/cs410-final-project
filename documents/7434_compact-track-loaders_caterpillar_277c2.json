@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/caterpillar/277c2/7434",
+    "source_url_id": "7434",
+    "source_url_model": "277c2",
+    "source_url_make": "caterpillar",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:00.986860",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "277C2",
+    "equipment_spec": {
+        "Cab": {
+            "FOPS": "SAE J1043 SEPT87, ISO 3449:1992 Level I",
+            "FOPS Level II": "SAE J231 JAN81, ISO 3449:1992 Level II",
+            "ROPS": "SAE J1040 MAY94, ISO 3471:1994"
+        },
+        "Dimensions": {
+            "Bucket Pin Height - Carry Position": "7.9 in (18 cm)",
+            "Bucket Pin Height - Maximum Lift": "10.3 ft (3 m)",
+            "Clearance at Maximum Lift and Dump": "95.5 in (241 cm)",
+            "Departure Angle": "42  \t\u00b0",
+            "Ground Clearance": "0.8 ft in (0 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length - Track on Ground": "71.2 in (180 cm)",
+            "Length - With Bucket on Ground": "145.4 in (368 cm)",
+            "Length - Without Bucket": "117.2 in (297 cm)",
+            "Maximum Dump Angle": "40  \t\u00b0",
+            "Maximum Overall Height": "157.4 in (399 cm)",
+            "Maximum Reach - With Arms Parallel": "55.4 in (140 cm)",
+            "Overall Length - Track": "90 in (229 cm)",
+            "Rack Back Angle - Maximum Height": "85  \t\u00b0",
+            "Reach at Maximum Lift/Dump": "24.3 in (61 cm)",
+            "Turn Radius from Center - Bucket": "91.7 in (231 cm)",
+            "Turn Radius from Center - Coupler": "58.5 in (147 cm)",
+            "Turn Radius from Center - Rear": "64 in (163 cm)",
+            "Vehicle Width": "78 in (198 cm)"
+        },
+        "Engine": {
+            "Bore": "3.7 in (8 cm)",
+            "Displacement": "201 cu in (0 m)",
+            "Engine Model": "Cat C3.4 DIT",
+            "Gross Power": "74 hp (55 kw)",
+            "Net Power": "73 hp (54 kw)",
+            "Net Power - SAE 1349": "73 hp (54 kw)",
+            "Stroke": "4.7 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic Flow (1)": "Standard",
+            "Hydraulic Flow (2)": "High Flow XPS",
+            "Hydraulic Power": "42.8 hp (31 kw)",
+            "Loader Hydraulic Flow": "22 gal/min (83 l/min)",
+            "Loader Hydraulic Pressure": "3335 psi",
+            "Maximum Loader Hydraulic Flow": "33 gal/min (125 l/min)",
+            "Maximum Loader Hydraulic Pressure": "4061 psi"
+        },
+        "Operating Specifications": {
+            "Breakout Force - Tilt Cylinder": "7308 lbs (3,315 kg)",
+            "Ground Contact Area": "2542 cu in (0 m)",
+            "Ground Pressure": "3.7 psi",
+            "Rated Operating Capacities - 35% Tipping Load": "2337 lbs (1,060 kg)",
+            "Rated Operating Capacities - 50% Tipping Load": "3200 lbs (1,452 kg)",
+            "Rated Operating Capacity with Optional Counterweight": "3571 lbs (1,620 kg)",
+            "Tipping Load": "6675 lbs (3,028 kg)"
+        },
+        "Power Train": {
+            "Travel Speed Forward": "5.6 mph (8 kph)",
+            "Travel Speed Forward - 2-Speed Option": "9.3 mph (14 kph)",
+            "Travel Speed Reverse": "5.6 mph (8 kph)",
+            "Travel Speed Reverse - 2-Speed Option": "9.3 mph (14 kph)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "3.7 gal (11 l)",
+            "Engine Crankcase": "2.6 gal (8 l)",
+            "Fuel Tank": "26 gal (98 l)",
+            "Hydraulic System": "15 gal (57 l)",
+            "Hydraulic Tank": "11 gal (42 l)"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d6r-ii/30750659",
+    "source_url_id": "30750659",
+    "source_url_model": "d6r-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:03.971772",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D6R II",
+    "equipment_spec": {
+        "Description:": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length of Track on Ground": "8.6 ft (2 m)",
+            "Length w/ Blade": "16.8 ft (5 m)",
+            "Length w/o Blade": "13.4 ft (4 m)",
+            "Width Over Tracks": "8.1 ft in (20 cm)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length of Track on Ground": "8.6 ft (2 m)",
+            "Length w/ Blade": "16.8 ft (5 m)",
+            "Length w/o Blade": "13.4 ft (4 m)",
+            "Width Over Tracks": "8.1 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "640.8 cu in (0 m)",
+            "Engine Model": "3306",
+            "Gross Power": "165 hp (123 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "101.2 gal (382 l)",
+            "Operating Weight": "45415.3 lbs (20,600 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "5.1 cu yds (4 m)",
+            "Height": "49.5 in (124 cm)",
+            "Width": "11.1 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.7 mph (11 kph)",
+            "Max Speed - Reverse": "10 mph (16 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4518 cu in (0 m)",
+            "Ground Pressure": "8.9 psi",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "6.2 ft (2 m)"
+        }
+    }
+}

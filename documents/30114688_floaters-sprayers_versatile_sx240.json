@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/versatile/sx240/30114688",
+    "source_url_id": "30114688",
+    "source_url_model": "sx240",
+    "source_url_make": "versatile",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:33.038327",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Versatile",
+    "equipment_model": "SX240",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "72.1 in (183 cm)",
+            "Max Boom Width": "100.1 ft (30 m)",
+            "Min Adjustable Height": "24.9 in (61 cm)",
+            "Min Boom Width": "89.9 ft (27 m)"
+        },
+        "Dimensions": {
+            "Overall Length": "324.1 in (823 cm)",
+            "Tire Size": "380/90R46",
+            "Wheelbase": "13.8 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "408.9 cu in (0 m)",
+            "Emission Tier Level": "iT4",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "248 hp (185 kw)",
+            "Gross Torque": "730 lbs/ft",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "130 gal (492 l)",
+            "Hydraulic Fluid Capacity": "32 gal (121 l)",
+            "Rinse Tank Capacity": "99.9 gal (375 l)"
+        },
+        "Transmission": {
+            "Max Speed": "35.5 mph (56 kph)",
+            "Number of Forward Gears": "5",
+            "Transmission Type": "Allison 2500RDS"
+        }
+    }
+}

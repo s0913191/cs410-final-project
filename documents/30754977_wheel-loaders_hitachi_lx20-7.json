@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hitachi/lx20-7/30754977",
+    "source_url_id": "30754977",
+    "source_url_model": "lx20-7",
+    "source_url_make": "hitachi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:42.018879",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hitachi",
+    "equipment_model": "LX20-7",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "6170 lbs (2,799 kg)",
+            "Bucket Capacity - heaped": "0.6 cu yds (0 m)",
+            "Bucket Capacity - struck": "0.5 cu yds (0 m)",
+            "Bucket Width": "5.2 ft (2 m)",
+            "Dump Clearance at Max Raise": "7.1 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Hinge Pin - Max Height": "8.9 ft (2 m)",
+            "Length with Bucket on Ground": "13.6 ft (4 m)",
+            "Reach at Max Lift and Dump": "2.7 ft (1 m)",
+            "Wheelbase": "5.9 ft (2 m)",
+            "Width Over Tires": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "91.5 cu in (0 m)",
+            "Engine Model": "D1503-DI-K2A",
+            "Net Power": "28 hp (21 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1 sec",
+            "Lower Time": "3.2 sec",
+            "Pump Flow Capacity": "8.9 gal/min (30 l/min)",
+            "Pump Type": "gear type",
+            "Raise Time": "5 sec",
+            "Relief Valve Setting": "2990 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "1.6 gal (4 l)",
+            "Engine Oil Fluid Capacity": "1.5 gal (4 l)",
+            "Front Axle/Diff Fluid Capacity": "1.2 gal (4 l)",
+            "Fuel Capacity": "13.2 gal (49 l)",
+            "Hydraulic System Fluid Capacity": "11.1 gal (42 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5831.3 lbs (2,645 kg)",
+            "Rear Axle Oscillation": "16  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "1.2 gal (4 l)",
+            "Static Tipping Weight": "3637.7 lbs (1,650 kg)",
+            "Tire Size": "15.5/60-18-8PR (L2) tubeless, nylon body",
+            "Turning Radius": "10 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "9.3 mph (14 kph)",
+            "Max Speed - Reverse": "9.4 mph (14 kph)",
+            "Transmission Type": "Hydrostatic transmission automatically controls power and speed with electrically controlled"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/hypac/c560h/30753816",
+    "source_url_id": "30753816",
+    "source_url_model": "c560h",
+    "source_url_make": "hypac",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:34.440118",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Hypac",
+    "equipment_model": "C560H",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "10.2 ft (3 m)",
+            "Overall Length": "16.4 in (41 cm)",
+            "Overall Width": "7 ft (2 m)",
+            "Turning Radius - Inside": "17.5 ft (5 m)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "TCD 2012 L04",
+            "Gross Power": "134 hp (100 kw)",
+            "Make": "Deutz",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Max Speed": "12.5 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Water Spray Tank Fluid Capacity": "105.7 gal (397 l)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "4",
+            "Number of Tires - Rear": "4",
+            "Oscillation Angle": "4  \t\u00b0",
+            "Standard Tire Size": "11.00-20-18PR",
+            "Wheel Track/Tire Overlap": "1.7 in (3 cm)"
+        },
+        "Weights": {
+            "Average Weight per Wheel - Max Ballast": "7441 lbs (3,375 kg)",
+            "Operating Weight - max ballast": "59525 lbs (27,000 kg)",
+            "Operating Weight - standard": "29762 lbs (13,500 kg)"
+        }
+    }
+}

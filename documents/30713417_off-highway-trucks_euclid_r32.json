@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/euclid/r32/30713417",
+    "source_url_id": "30713417",
+    "source_url_model": "r32",
+    "source_url_make": "euclid",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:17.715384",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Euclid",
+    "equipment_model": "R32",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "1.6 ft (0 m)",
+            "Dump Height": "25.4 ft (8 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Overall Height": "11.9 ft (3 m)",
+            "Overall Length": "26.4 ft (8 m)",
+            "Overall Width": "11.9 ft (3 m)",
+            "Wheelbase": "12 ft (4 m)"
+        },
+        "Dump": {
+            "Dump Angle": "55  \t\u00b0",
+            "Load Capacity - heaped": "27.5 cu yds (21 m)",
+            "Load Capacity - Struck": "19.1 cu yds (15 m)",
+            "Rated Payload": "71800 lbs (32,568 kg)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "732.3 cu in (0 m)",
+            "Engine Model": "TD 122KE",
+            "Gross Power": "401 hp (299 kw)",
+            "Max Torque": "1180 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "18.5 gal (68 l)",
+            "Engine Oil Capacity": "9.8 gal (34 l)",
+            "Fuel Capacity": "158.6 gal (598 l)",
+            "Hydraulic System Fluid Capacity": "19.9 gal (72 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "18.00-25/32"
+        },
+        "Transmission": {
+            "Max Speed": "35.4 mph (56 kph)",
+            "Number of Gears - Forward": "5",
+            "Number of Gears - Reverse": "5",
+            "Transmission Type": "planetary"
+        },
+        "Weights": {
+            "Empty Weight": "50706.4 lbs (23,000 kg)",
+            "Loaded Weight": "122577.1 lbs (55,601 kg)",
+            "Weight Distribution Front - empty": "50%",
+            "Weight Distribution Front - loaded": "32%",
+            "Weight Distribution Rear - empty": "50%",
+            "Weight Distribution Rear - loaded": "68%"
+        }
+    }
+}

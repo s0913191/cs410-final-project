@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/farmall-120c/30840489",
+    "source_url_id": "30840489",
+    "source_url_model": "farmall-120c",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:04.470913",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "FARMALL 120C",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "117 hp (87 kw)"
+        },
+        "Production": {
+            "Series": "Farmall C Series",
+            "Years Manufactured": "2015 -"
+        }
+    }
+}

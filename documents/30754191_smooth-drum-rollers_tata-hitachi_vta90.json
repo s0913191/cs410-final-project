@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/tata-hitachi/vta90/30754191",
+    "source_url_id": "30754191",
+    "source_url_model": "vta90",
+    "source_url_make": "tata-hitachi",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:13.203029",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Tata Hitachi",
+    "equipment_model": "VTA90",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.6 in (36 cm)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Overall Length": "17.1 in (43 cm)",
+            "Overall Width": "6.1 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "433881.3 lbs (196,807 kg)",
+            "Drum Diameter": "47.3 in (119 cm)",
+            "Drum Width": "65 in (165 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "413.8 lbs/in",
+            "Vibration Frequency 1": "50 hz (3,000 vpm)",
+            "Vibration Frequency 2": "33.4 hz (1,980 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BT India 4",
+            "Gross Power": "102 hp (76 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Hydraulic System Fluid Capacity": "52.9 gal (197 l)",
+            "Max Speed": "8.7 mph (13 kph)",
+            "Operating Weight": "20944 lbs (9,500 kg)"
+        }
+    }
+}

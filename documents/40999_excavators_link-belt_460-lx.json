@@ -1,0 +1,94 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/link-belt/460-lx/40999",
+    "source_url_id": "40999",
+    "source_url_model": "460-lx",
+    "source_url_make": "link-belt",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:15:19.715999",
+    "equipment_category": "Excavators",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "460 LX",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "35.5 ft (11 m)",
+            "Max Digging Depth": "22.6 ft (7 m)",
+            "Max Loading Height": "24.4 ft (7 m)",
+            "Max Reach Along Ground": "36.1 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "18.7 ft (5 m)",
+            "Shipping Height of Unit": "12 ft (4 m)",
+            "Shipping Length of Unit": "39.4 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "36.6 ft (11 m)",
+            "Max Digging Depth": "25.4 ft (8 m)",
+            "Max Loading Height": "25.4 ft (8 m)",
+            "Max Reach Along Ground": "38.7 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "21.6 ft (6 m)",
+            "Shipping Height of Unit": "11.9 ft (3 m)",
+            "Shipping Length of Unit": "39.2 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "37.3 ft (11 m)",
+            "Max Digging Depth": "27.4 ft (8 m)",
+            "Max Loading Height": "26.1 ft (8 m)",
+            "Max Reach Along Ground": "40.5 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "23.5 ft (7 m)",
+            "Shipping Height of Unit": "14.5 ft (4 m)",
+            "Shipping Length of Unit": "39.2 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "39 ft (12 m)",
+            "Max Digging Depth": "30.2 ft (9 m)",
+            "Max Loading Height": "27.7 ft (8 m)",
+            "Max Reach Along Ground": "43.4 ft (13 m)",
+            "Max Vertical Wall Dig Depth": "27 ft (8 m)",
+            "Shipping Length of Unit": "39.4 ft (12 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "4.1 cu yds (3 m)",
+            "Minimum Bucket Capacity": "1.6 cu yds (1 m)",
+            "Reference Bucket Capacity": "2.2 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Length of Track on Ground": "14.5 ft (4 m)",
+            "Removal Counterweight Clearance": "4.4 ft (1 m)",
+            "Tail Swing Radius": "11.9 ft (3 m)",
+            "Width to Outside of Tracks": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with Intercooler",
+            "Displacement": "600 cu in (0 m)",
+            "Engine Model": "AA-6SD1XQB",
+            "Max Torque": "940 lbs/ft",
+            "Net Power": "316 hp (236 kw)",
+            "Power Measured @": "1950 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "12.1 gal (45 l)",
+            "Engine Oil Capacity": "8.8 gal (30 l)",
+            "Fuel Capacity": "161.2 gal (609 l)",
+            "Hydraulic Pump Flow Capacity": "190.2 gal/min (719 l/min)",
+            "Hydraulic System Fluid Capacity": "118.9 gal (447 l)",
+            "Hydraulic System Relief Valve Pressure": "4970 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "101200 lbs (45,904 kg)",
+            "Swing Drive Fluid Capacity": "2.8 gal (8 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.7 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "50",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "35.5 in (89 cm)",
+            "Track Gauge": "9.1 ft (3 m)"
+        }
+    }
+}

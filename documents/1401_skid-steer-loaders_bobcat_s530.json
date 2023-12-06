@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/bobcat/s530/1401",
+    "source_url_id": "1401",
+    "source_url_model": "s530",
+    "source_url_make": "bobcat",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:24.424228",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "S530",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.3 in (18 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length w/o Bucket": "8.8 ft (2 m)",
+            "Length with Bucket": "11.1 ft (3 m)",
+            "Wheelbase": "3.6 ft (1 m)"
+        },
+        "Engine": {
+            "Bore": "3.5 in (8 cm)",
+            "Displacement": "148.5 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V2403-MDI-E3B",
+            "Gross Power": "48.9 hp (36 kw)",
+            "Max Torque": "117 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm",
+            "Stroke": "4.1 in (10 cm)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "3.8": "3.8 sec sec",
+            "Dump Time": "2.3 sec",
+            "Lower Time": "2.5 sec",
+            "Pump Flow Capacity": "17.1 gal/min (64 l/min)",
+            "Pump Type": "Engine driven, gear type",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Loader": {
+            "Operating Load Rating": "1850 lbs (839 kg)",
+            "Operating Width": "64.7 in (163 cm)",
+            "Tipping load (ISO 14397)": "3699.4 lbs (1,678 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Chain Box Fluid Capacity - each side": "8.6 gal (30 l)",
+            "Engine Oil Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "24.8 gal (91 l)",
+            "Hydraulic System Fluid Capacity": "9.6 gal (34 l)",
+            "Max Speed": "7.4 mph (11 kph)",
+            "Operating Voltage": "12 V V"
+        }
+    }
+}

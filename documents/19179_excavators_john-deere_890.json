@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/890/19179",
+    "source_url_id": "19179",
+    "source_url_model": "890",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:07:00.113676",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "890",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Shipping Height of Unit": "12.1 ft (4 m)",
+            "Shipping Length of Unit": "40 ft (12 m)"
+        },
+        "Dimensions": {
+            "Width to Outside of Tracks": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with Aftercooler",
+            "Displacement": "619 cu in (0 m)",
+            "Engine Model": "500 Series",
+            "Max Torque": "810 lbs/ft",
+            "Net Power": "250 hp (186 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "42 A",
+            "Cooling System Fluid Capacity": "19 gal (72 l)",
+            "Engine Oil Capacity": "36 gal (136 l)",
+            "Fuel Capacity": "128 gal (484 l)",
+            "Hydraulic Pump Flow Capacity": "55 gal/min (208 l/min)",
+            "Hydraulic System Fluid Capacity": "92 gal (348 l)",
+            "Hydraulic System Relief Valve Pressure": "2700 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "92600 lbs (42,003 kg)",
+            "Swing Drive Fluid Capacity": "9.3 gal (34 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "6 rpm"
+        }
+    }
+}

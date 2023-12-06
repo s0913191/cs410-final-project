@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/caterpillar/518/4295",
+    "source_url_id": "4295",
+    "source_url_model": "518",
+    "source_url_make": "caterpillar",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:25.951031",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "518",
+    "equipment_spec": {
+        "Dimensions": {
+            "Cable Width": "249.4 in (632 cm)",
+            "Drum Capacity at Cable Width": "26363 ft (8,036 m)",
+            "Drum Diameter": "0.7 in (0 cm)",
+            "Grapple Capacity - tongs tip to tip": "10.1 CUBIC ft",
+            "Height - Top of Cab": "1.6 ft (0 m)",
+            "Max Line Pull - bare drum": "301.9 lbs (137 kg)",
+            "Overall Length": "8.7 ft (2 m)",
+            "Overall Width": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "22597.4",
+            "Engine Model": "130",
+            "Power Measured @": "427.2 rpm",
+            "Torque Measured @": "51 rpm"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "10.7 psi"
+        },
+        "Operating Specifications": {
+            "Steering Angle": "23.1 - 26 V  -",
+            "Tire Size": "7.1",
+            "Transmission Fluid Capacity": "7.7 gal (27 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "17.9 mph (27 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "15",
+            "Transmission Type": "3"
+        },
+        "Undercarriage": {
+            "Length of Track on Ground": "3304 ft (1,007 m)"
+        },
+        "Winch - Grapple Skidder": {
+            "Drum Capacity - 25.4mm (1 in)": "14  \t\u00b0"
+        }
+    }
+}

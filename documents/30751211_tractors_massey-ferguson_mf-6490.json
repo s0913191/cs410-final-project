@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-6490/30751211",
+    "source_url_id": "30751211",
+    "source_url_model": "mf-6490",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:02.939559",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 6490",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "planetary"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "10 ft (3 m)",
+            "Overall Length": "17.9 in (43 cm)",
+            "Overall Width": "7.7 ft (2 m)",
+            "Tire Size": "front 14.9R30 rear 18.4R42",
+            "Wheelbase": "9.9 ft (3 m)",
+            "Width Outside Frame": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "wastegate",
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "66 CTA",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "140 hp (104 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "29.1 gal/min (110 l/min)",
+            "Relief Valve Pressure": "2900.8 psi",
+            "Relief Valve Setting": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "16490.6 lbs (7,480 kg)",
+            "3 Point Hitch Type": "Cat 3/3N",
+            "Alternator Supplied Amperage": "120  A",
+            "Fuel Capacity": "93.8 gal (352 l)",
+            "Operating Weight": "14299.2 lbs (6,486 kg)",
+            "Tire Size Front - 2wd / 4wd": "11.00x16",
+            "Turning Radius": "16.6 ft (5 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4R42"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "Dyna-6"
+        }
+    }
+}

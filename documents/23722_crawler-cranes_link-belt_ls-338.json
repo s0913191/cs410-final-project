@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/ls-338/23722",
+    "source_url_id": "23722",
+    "source_url_model": "ls-338",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:51.429188",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "LS-338",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "150 ft (46 m)",
+            "Min Height @ Max Raise Angle": "25 ft (8 m)",
+            "Swing Speed": "3.2 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Tail Swing Radius": "15.2 ft (5 m)",
+            "Transport Height": "37.6 ft (11 m)",
+            "Transport Width": "16.7 ft (5 m)"
+        },
+        "Engine": {
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "426 cu in (0 m)",
+            "Engine Model": "GM6-71N",
+            "Max Torque": "532 lbs/ft",
+            "Net Power": "171 hp (128 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1915 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "106 gal (401 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Max Speed": "0.9 mph (0 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8.5 psi",
+            "Number of Shoes per Side": "43",
+            "Width of Shoes": "38 in (97 cm)"
+        }
+    }
+}

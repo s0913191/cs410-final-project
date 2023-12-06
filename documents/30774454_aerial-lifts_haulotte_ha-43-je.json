@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ha-43-je/30774454",
+    "source_url_id": "30774454",
+    "source_url_model": "ha-43-je",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:04.021557",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HA 43 JE",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "507 lbs (230 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "48.8 ft (15 m)",
+            "Platform Size": "3.9x2.6 ft (1 m)",
+            "Stowed Height": "6.7 ft (2 m)",
+            "Stowed Width": "4.9 ft (1 m)"
+        },
+        "Tires": {
+            "Tire Size": "23x10-12"
+        }
+    }
+}

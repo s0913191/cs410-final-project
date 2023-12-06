@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/15/30749885",
+    "source_url_id": "30749885",
+    "source_url_model": "15",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:57.782528",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "15",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "6.6 ft (2 m)",
+            "Max Reach Along Ground": "11.3 ft (3 m)",
+            "Max Vertical Wall Digging Depth": "6.6 ft (2 m)",
+            "Shipping Height of Unit": "6.9 ft (2 m)",
+            "Shipping Length of Unit": "11.5 ft (3 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "8.3 ft (2 m)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length of Track on Ground": "4.5 ft (1 m)",
+            "Tail Swing Radius": "3.7 ft (1 m)",
+            "Width to Outside of Tracks": "3.3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "53.6 cu in (0 m)",
+            "Engine Model": "3TTNA72-UJB",
+            "Net Power": "14.5 hp (10 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2250 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "0.7 gal (0 l)",
+            "Fuel Capacity": "5.8 gal (19 l)",
+            "Hydraulic Pump Flow Capacity": "10.7 gal/min (38 l/min)",
+            "Hydraulic System Fluid Capacity": "11.1 gal (42 l)",
+            "Hydraulic System Relief Valve Pressure": "22.1 psi",
+            "Operating Weight": "2930 lbs (1,329 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "3.5 psi",
+            "Max Travel Speed": "1.3 mph (2 kph)",
+            "Number of Track Rollers per Side": "3",
+            "Shoe Size": "9.1 in (23 cm)",
+            "Track Gauge": "2.5 ft (1 m)"
+        }
+    }
+}

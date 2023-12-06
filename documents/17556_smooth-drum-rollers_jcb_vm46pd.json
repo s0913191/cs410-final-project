@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/jcb/vm46pd/17556",
+    "source_url_id": "17556",
+    "source_url_model": "vm46pd",
+    "source_url_make": "jcb",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:03.493573",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "JCB",
+    "equipment_model": "VM46PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.2 in (33 cm)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Overall Length w/o Blade": "14.4 ft (4 m)",
+            "Wheelbase": "7.3 in (18 cm)",
+            "Width Over Tires": "5 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "22841 lbs (10,361 kg)",
+            "Drum Diameter": "35.9 in (89 cm)",
+            "Drum Width": "55.2 in (140 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Number of Pads": "77",
+            "Pad Height": "3.2 in (8 cm)",
+            "Vibration Frequency 1": "32 hz (1,920 vpm)"
+        },
+        "Engine": {
+            "Displacement": "199 cu in (0 m)",
+            "Engine Model": "B 3.3",
+            "Gross Power": "60 hp (45 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "3.7 gal (11 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed": "7.9 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10802.7 lbs (4,900 kg)"
+        },
+        "Tires": {
+            "Tires": "12.4-24 Dyna Torque"
+        }
+    }
+}

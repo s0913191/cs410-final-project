@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/hamm/3520-p/30800751",
+    "source_url_id": "30800751",
+    "source_url_model": "3520-p",
+    "source_url_make": "hamm",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:44.279941",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Hamm",
+    "equipment_model": "3520 P",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "165 in (419 cm)"
+        },
+        "Drum": {
+            "Drum Width": "87.4 in (221 cm)",
+            "Vibration Frequency": "27 - 30 hz (1,620 - 1,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "94 in (239 cm)"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/john-deere/2054/30677254",
+    "source_url_id": "30677254",
+    "source_url_model": "2054",
+    "source_url_make": "john-deere",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:02.340749",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "2054",
+    "equipment_spec": {
+        "Boom/Stick Log Loader Option 1": {
+            "Boom/Stick Option (LGL) 1": "live-heel",
+            "Max Depth Below Ground": "21.3 ft (6 m)",
+            "Max Height": "41.3 ft (13 m)",
+            "Max Lift Capacity Over Front at Ground Level": "21100.5 lbs (9,571 kg)",
+            "Max Reach at Ground Level": "36 ft (11 m)",
+            "Shipping Height": "10.9 ft (3 m)",
+            "Shipping Length": "45.1 ft (14 m)"
+        },
+        "Boom/Stick Log Loader Option 2": {
+            "Boom/Stick Option (LGL) 2": "articulating grapple",
+            "Max Depth Below Ground": "19.3 ft (6 m)",
+            "Max Height": "39.3 ft (12 m)",
+            "Max Lift Capacity Over Front at Ground Level": "21384.9 lbs (9,700 kg)",
+            "Max Reach at Ground Level": "34 ft (10 m)",
+            "Shipping Height": "10.9 ft (3 m)",
+            "Shipping Length": "46.2 ft (14 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Height - Top of Cab": "15.5 ft (5 m)",
+            "Overall Width": "12 ft (4 m)",
+            "Tail Swing Radius": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6068T",
+            "Net Power": "140.9 hp (104 kw)",
+            "Net Torque": "427.1 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2150 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "115.8 gal/min (435 l/min)",
+            "Pump Type": "variable axial-piston",
+            "Relief Valve Pressure": "4980 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Cooling System Fluid Capacity": "6.3 gal (23 l)",
+            "Engine Oil Capacity": "5.1 gal (19 l)",
+            "Fuel Capacity": "269 gal (1,018 l)",
+            "Hydraulic System Fluid Capacity": "34 gal (129 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "69187.7 lbs (31,383 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "13.3 rpm",
+            "Swing Torque": "41923.1 lbs/ft"
+        },
+        "Undercarriage": {
+            "Max Drawbar Pull": "44421 lbs (20,149 kg)",
+            "Max Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "28 in (71 cm)",
+            "Track Gauge": "9.6 ft (3 m)"
+        }
+    }
+}

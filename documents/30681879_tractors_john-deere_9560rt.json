@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/9560rt/30681879",
+    "source_url_id": "30681879",
+    "source_url_model": "9560rt",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:28.461579",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "9560RT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16 in (41 cm)",
+            "Height - Top of ROPS/FOPS": "13 ft (4 m)",
+            "Overall Length": "19.8 in (48 cm)",
+            "Overall Width": "11.3 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "PowerTech PSX",
+            "Gross Power": "538 hp (401 kw)",
+            "Net Power": "560 hp (418 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "43561",
+            "Pump Flow Capacity": "48 gal/min (182 l/min)",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "14.6 gal (53 l)",
+            "Engine Oil Capacity": "12.7 gal (45 l)",
+            "Fuel Capacity": "340 gal (1,287 l)",
+            "Operating Weight": "44910 lbs (20,371 kg)",
+            "Tire Size Front - 2wd / 4wd": "TRACKS 30 INCH"
+        },
+        "Tires": {
+            "Rear Tires Size": "TRACKS 30 INCH"
+        },
+        "Transmission": {
+            "Max Speed": "24.7 mph (39 kph)",
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "John Deere PowerShift"
+        }
+    }
+}

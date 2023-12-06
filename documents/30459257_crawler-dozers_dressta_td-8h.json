@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-8h/30459257",
+    "source_url_id": "30459257",
+    "source_url_model": "td-8h",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:31.981890",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-8H",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Length w/ Blade": "14.2 ft (4 m)",
+            "Length w/o Blade": "10.6 ft (3 m)",
+            "Width Over Tracks": "7.1 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "4 10T/240T",
+            "Gross Power": "80 hp (60 kw)",
+            "Max Torque": "235.3 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "7.1 gal (27 l)",
+            "Engine Oil Capacity": "2.8 gal (8 l)",
+            "Fuel Capacity": "38.5 gal (144 l)",
+            "Operating Weight": "16768.4 lbs (7,606 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.8 mph (8 kph)",
+            "Max Speed - Reverse": "6.9 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2463 cu in (0 m)",
+            "Ground Pressure": "6.8 psi",
+            "Standard Shoe Size": "387 in (983 cm)"
+        }
+    }
+}

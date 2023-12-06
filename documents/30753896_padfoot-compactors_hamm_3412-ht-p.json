@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/hamm/3412-ht-p/30753896",
+    "source_url_id": "30753896",
+    "source_url_model": "3412-ht-p",
+    "source_url_make": "hamm",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:41.982694",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Hamm",
+    "equipment_model": "3412 HT P",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.8 in (36 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall length": "18.8 ft (5 m)",
+            "Overall width": "7.4 ft (2 m)",
+            "Turning Radius - Inside": "12.2 ft in (30 cm)",
+            "Wheelbase": "118.8 in (300 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "57551.1 lbs (26,105 kg)",
+            "Centrifugal Force - Low": "48334 lbs (21,924 kg)",
+            "Drum Diameter": "66.3 in (168 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Width": "84.3 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "140",
+            "Pad Height": "4 in (10 cm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibratory Frequency 2": "40 hz (2,400 vpm)"
+        },
+        "Engine": {
+            "Emissions level": "EU Stage IIIA / EPA Tier 3",
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 2012 L04",
+            "Gross Power": "134.2 hp (100 kw)",
+            "Net Power": "134.2 hp (100 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "76.7 gal (288 l)",
+            "Max Speed": "8.7 mph (13 kph)",
+            "Operating Weight": "30490 lbs (13,830 kg)",
+            "Operating weight ROPS": "26631.9 lbs (12,080 kg)",
+            "Oscillating angle": "10  \t\u00b0",
+            "Smooth drum Operating weight with Cab": "27116.9 lbs (12,300 kg)"
+        },
+        "Tires": {
+            "Tires": "TR 23.1-26 12 PR"
+        }
+    }
+}

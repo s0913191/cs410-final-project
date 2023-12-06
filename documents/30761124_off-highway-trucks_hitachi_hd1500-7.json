@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/hd1500-7/30761124",
+    "source_url_id": "30761124",
+    "source_url_model": "hd1500-7",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:40.975292",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "HD1500-7",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "RWD"
+        },
+        "Dump": {
+            "Rated Payload": "158.9 t (143,335 kg)"
+        },
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SDA16V159E-2"
+        },
+        "Weights": {
+            "Operating Weight": "550000 lbs (249,478 kg)"
+        }
+    }
+}

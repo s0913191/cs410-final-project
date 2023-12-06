@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/hagie/dts8t/30753432",
+    "source_url_id": "30753432",
+    "source_url_model": "dts8t",
+    "source_url_make": "hagie",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:19.371402",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Hagie",
+    "equipment_model": "DTS8T",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "128.5 in (325 cm)",
+            "Max Boom Width": "90 ft (27 m)",
+            "Min Adjustable Height": "52 in (132 cm)",
+            "Min Boom Width": "60 ft (18 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "8.5 ft (2 m)",
+            "Overall Length": "22 in (56 cm)",
+            "Tire Size": "13.6 R38 Goodyear",
+            "Transport Height": "12.4 ft (4 m)",
+            "Transport Width": "12 ft (4 m)",
+            "Wheelbase": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "6B5.9A",
+            "Gross Power": "152 hp (113 kw)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "12680 lbs (5,752 kg)",
+            "Fuel Capacity": "80 gal (303 l)",
+            "Solution Tank Capacity": "800 gal (3,028 l)"
+        },
+        "Transmission": {
+            "Max Speed": "24 mph (39 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Tandem pressure compensated pumps with shift on the go"
+        }
+    }
+}

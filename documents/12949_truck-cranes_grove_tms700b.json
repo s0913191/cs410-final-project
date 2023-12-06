@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tms700b/12949",
+    "source_url_id": "12949",
+    "source_url_model": "tms700b",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:42.832282",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TMS700B",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "118 ft (36 m)",
+            "Max Lift Capacity": "100000 lbs (45,360 kg)",
+            "Max Working Radius": "100 ft (30 m)",
+            "Min Height @ Max Raise Angle": "35 ft (11 m)",
+            "Min Working Radius": "9 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "506.5 cu in (0 m)",
+            "Gross Power": "250 hp (186 kw)",
+            "Make": "Grove",
+            "Max Torque": "660.2 lbs/ft",
+            "Model": "6CTA",
+            "Number of cylinders": "6",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "35.8 ft (11 m)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Transport Height": "10.8 ft (3 m)",
+            "Transport Length": "42 ft (13 m)",
+            "Transport Width": "7.7 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13.4 ft (4 m)",
+            "Width w/ Outriggers Extended": "20 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "99.4 gal (375 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "Front - 425/65R22.5-18PR / Rear - 11.0 x 20-14PR",
+            "Upper Structure Hydraulic System Fluid Capacity": "218 gal (825 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "50 mph (80 kph)",
+            "Number of Forward Gears": "13",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Roadranger"
+        },
+        "Weights": {
+            "counterweight": "3900 lbs (1,769 kg)"
+        }
+    }
+}

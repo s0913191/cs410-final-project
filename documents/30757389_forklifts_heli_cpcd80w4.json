@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/heli/cpcd80w4/30757389",
+    "source_url_id": "30757389",
+    "source_url_model": "cpcd80w4",
+    "source_url_make": "heli",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:27:02.856022",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Heli",
+    "equipment_model": "CPCD80W4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height to Top of Overhead Guard": "8.5 ft (2 m)",
+            "Max Fork Height": "14.6 ft (4 m)",
+            "Overall Height - mast lowered": "8.9 ft (2 m)",
+            "Turning Radius": "12.2 ft (4 m)",
+            "Wheelbase": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "396.3 cu in (0 m)",
+            "Engine Model": "6BG1",
+            "Fuel Type": "diesel",
+            "Number of Cylinders": "6",
+            "Power": "113.4 hp (84 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque": "306.1 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "74.9 ft/min",
+            "Load Capacity": "17637 lbs (8,000 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Lower Speed": "59.1 ft/min"
+        },
+        "Operating Specifications": {
+            "Max Speed": "18.7 mph (29 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "23920.2 lbs (10,850 kg)",
+            "Tire Type": "pneumatic 9.00-20-14PR"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/claas/mega-350/30752562",
+    "source_url_id": "30752562",
+    "source_url_model": "mega-350",
+    "source_url_make": "claas",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:02.197404",
+    "equipment_category": "Combines",
+    "equipment_make": "Claas",
+    "equipment_model": "Mega 350",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "390.6 cu in (0 m)",
+            "Engine Model": "OM 906 LA",
+            "Number of Cylinders": "6",
+            "Power": "217.3 hp (162 kw)",
+            "Power Boost Power": "228 hp (170 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "204.4 bu",
+            "Unloading Speed": "2.1 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Operating Weight w/o Attachment": "24471.4 lbs (11,100 kg)"
+        },
+        "Separating": {
+            "Separating Area": "11191.1 cu in (0 m)"
+        },
+        "Threshing": {
+            "Rotor Diameter": "17.8 in (43 cm)",
+            "Rotor Length": "52 in (132 cm)",
+            "Rotor Speed - High": "1500 rpm",
+            "Rotor Speed - Low": "650 rpm"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m95x/7765111",
+    "source_url_id": "7765111",
+    "source_url_model": "m95x",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:00.326097",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M95X",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "13.7 in (33 cm)",
+            "Tire Size": "front 12.4R24 rear 18.4R30",
+            "Wheelbase": "8 ft (2 m)",
+            "Width Outside Frame": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Model": "V3800TE2",
+            "Net Power": "95 hp (71 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "80 hp (60 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "18.1 gal/min (68 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5203 lbs (2,360 kg)",
+            "3 Point Hitch Type": "Cat II",
+            "Alternator Supplied Amperage": "80  A",
+            "Fuel Capacity": "50.2 gal (189 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9050 lbs (4,105 kg)",
+            "Turning Radius": "13.2 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed": "21.2 mph (34 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "Intelli-Shift dual-range power shift"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/komatsu/sk04j-2/30749494",
+    "source_url_id": "30749494",
+    "source_url_model": "sk04j-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:10.092466",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "SK04J-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "6.4 ft (2 m)",
+            "Ground Clearance": "6.9 in (15 cm)",
+            "Height - Top of Cab": "6.2 ft (2 m)",
+            "Length with Bucket": "8.5 ft (2 m)",
+            "Reach at Max Lift and Dump": "15.4 in (38 cm)",
+            "Turning Radius from Center - inc bucket": "57.7 in (145 cm)",
+            "Turning Radius from Center - machine rear": "49.9 in (124 cm)",
+            "Wheelbase": "2.5 ft (1 m)",
+            "Width Over Tires": "3.4 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "61.4 cu in (0 m)",
+            "Engine Model": "3D74E-1FC",
+            "Gross Power": "20.8 hp (15 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8.7 gal/min (30 l/min)",
+            "Pump Type": "gear pump",
+            "Relief Valve Pressure": "1595.5 psi"
+        },
+        "Loader": {
+            "Breakout Force": "2255.4 psi",
+            "Bucket Capacity": "0.1 cu yds (0 m)",
+            "Operating Load Rating": "859.9 lbs (390 kg)",
+            "Tipping Angle": "1719.7  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Engine Oil Fluid Capacity": "0.9 gal (0 l)",
+            "Fuel Capacity": "7.2 gal (27 l)",
+            "Hydraulic System Fluid Capacity": "3.2 gal (11 l)",
+            "Max Speed": "5.6 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "3417.2 lbs (1,550 kg)",
+            "Tire Size": "27/8.50x15"
+        }
+    }
+}

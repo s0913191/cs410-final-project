@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hdplus-120i-vo-viband-orosc/30833689",
+    "source_url_id": "30833689",
+    "source_url_model": "hdplus-120i-vo-viband-orosc",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:08.420523",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD+ 120i VO (vib/osc)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "235 in (597 cm)"
+        },
+        "Drum": {
+            "Drum Width": "78 in (198 cm)",
+            "Vibration Frequency": "40/50 hz (2,400 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "84 in (213 cm)"
+        }
+    }
+}

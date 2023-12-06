@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca1500d/30677428",
+    "source_url_id": "30677428",
+    "source_url_model": "ca1500d",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:54.202598",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA1500D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "14 in (36 cm)",
+            "Gradeability": "55%",
+            "Ground Clearance": "13 in (33 cm)",
+            "Height - Top of ROPS/FOPS": "9 ft (3 m)",
+            "Overall Length": "17.4 in (43 cm)",
+            "Overhang Front": "0.4 ft (0 m)",
+            "Overhang Rear": "0.4 ft (0 m)",
+            "Turning Radius - Inside": "10 ft (3 m)",
+            "Turning Radius - Outside": "16 ft (5 m)",
+            "Wheelbase": "106 in (269 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "29900 lbs (13,563 kg)",
+            "Centrifugal Force - Low": "16200 lbs (7,348 kg)",
+            "Drum Diameter": "48 in (122 cm)",
+            "Drum thickness": "0.9 in (0 cm)",
+            "Drum Width": "66 in (168 cm)"
+        },
+        "Engine": {
+            "Engine Make": "Deutz",
+            "Engine Model": "TD3.6",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "75 hp (56 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "50 gal (189 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "15900 lbs (7,212 kg)",
+            "Operating weight ROPS": "15500 lbs (7,031 kg)",
+            "Tire Size": "14.9 x 24 TL"
+        }
+    }
+}

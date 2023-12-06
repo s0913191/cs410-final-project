@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/mr-615-h32/30760321",
+    "source_url_id": "30760321",
+    "source_url_model": "mr-615-h32",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:28.215974",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "MR 615 H32",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "197 ft (60 m)",
+            "Max Lift Capacity": "35 t (31,751 kg)"
+        }
+    }
+}

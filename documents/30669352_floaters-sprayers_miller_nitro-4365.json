@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/miller/nitro-4365/30669352",
+    "source_url_id": "30669352",
+    "source_url_model": "nitro-4365",
+    "source_url_make": "miller",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:50.223240",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Miller",
+    "equipment_model": "NITRO 4365",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "118.2 in (300 cm)",
+            "Min Adjustable Height": "22.1 in (56 cm)"
+        },
+        "Dimensions": {
+            "Overall Length": "363 in (922 cm)",
+            "Transport Height": "13.2 ft (4 m)",
+            "Transport Width": "12.1 ft (4 m)",
+            "Wheelbase": "14.8 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "543.2 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSL",
+            "Gross Power": "365 hp (272 kw)"
+        },
+        "Operating Specifications": {
+            "Foam Marker Tank Capacity": "6 gal (23 l)",
+            "Fuel Capacity": "150 gal (568 l)",
+            "Rinse Tank Capacity": "100 gal (379 l)",
+            "Solution Tank Capacity": "1200 gal (4,542 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "5",
+            "Transmission Type": "Torq-Trac\u00ae hydrostatic"
+        }
+    }
+}

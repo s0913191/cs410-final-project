@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc800lc-8-super-digger/30874629",
+    "source_url_id": "30874629",
+    "source_url_model": "pc800lc-8-super-digger",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:34.911764",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC800LC-8 Super Digger",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "28.3 ft (9 m)",
+            "Max Reach Along Ground": "44.2 ft (13 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "28.3 ft (9 m)",
+            "Digging Reach": "44.2 ft (13 m)"
+        },
+        "Engine": {
+            "Net Power": "487 hp (363 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "188670 lbs (85,580 kg)"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/john-deere/703g/30755976",
+    "source_url_id": "30755976",
+    "source_url_model": "703g",
+    "source_url_make": "john-deere",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:14.415420",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "John Deere",
+    "equipment_model": "703G",
+    "equipment_spec": {
+        "Boom": {
+            "Max Reach w/ Head": "32.6 ft (10 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Overall Width": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "494.3 cu in (0 m)",
+            "Engine Model": "6081H",
+            "Gross Power": "181.1 hp (135 kw)",
+            "Max Torque": "678.6 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "10.2 gal (38 l)",
+            "Engine Oil Capacity": "7.4 gal (27 l)",
+            "Fuel Capacity": "154.3 gal (583 l)",
+            "Hydraulic System Fluid Capacity": "52.1 gal (197 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "45417.5 lbs (20,601 kg)"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Ground Pressure": "6.8 psi",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "7.6 ft (2 m)",
+            "Track Length": "13.6 ft (4 m)",
+            "Track Pitch": "7.5 in (18 cm)"
+        }
+    }
+}

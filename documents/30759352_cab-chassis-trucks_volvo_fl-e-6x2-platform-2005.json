@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/volvo/fl-e-6x2-platform-2005/30759352",
+    "source_url_id": "30759352",
+    "source_url_model": "fl-e-6x2-platform-2005",
+    "source_url_make": "volvo",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:57:29.934134",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "FL E 6x2 Platform (2005)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Number of Rear Axles": "2",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tire Size": "305/70R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length from Back of Cab to End of Frame": "266.3 in (676 cm)",
+            "Length From Back of Cab to End of Frame": "266.23 in (676 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "80 in (203 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "79.93 in (201 cm)",
+            "Overall Length": "28.3 ft (9 m)",
+            "Total Chassis Weight": "13812 lbs (6,265 kg)",
+            "Total GVW": "50706.4 lbs (23,000 kg)",
+            "Turning Radius": "26.5 ft (8 m)",
+            "Wheelbase": "145.7 in (368 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length from Back of Cab to End of Frame": "284.6 in (721 cm)",
+            "Length From Back of Cab to End of Frame": "284.53 in (721 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "86.42 in (218 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "86.5 in (218 cm)",
+            "Overall Length": "29.8 ft (9 m)",
+            "Total Chassis Weight": "13856.1 lbs (6,285 kg)",
+            "Total GVW": "50706.4 lbs (23,000 kg)",
+            "Turning Radius": "28 ft (9 m)",
+            "Wheelbase": "157.5 in (399 cm)"
+        },
+        "Wheelbase Cab Chassis Option 3": {
+            "Length from Back of Cab to End of Frame": "321.2 in (815 cm)",
+            "Length From Back of Cab to End of Frame": "321.15 in (815 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "99.5 in (251 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "99.41 in (251 cm)",
+            "Overall Length": "32.9 ft (10 m)",
+            "Total Chassis Weight": "13922.2 lbs (6,315 kg)",
+            "Total GVW": "50706.4 lbs (23,000 kg)",
+            "Turning Radius": "30.9 ft (9 m)",
+            "Wheelbase": "181.2 in (460 cm)"
+        },
+        "Wheelbase Cab Chassis Option 4": {
+            "Length From Back of Cab to End of Frame": "339.45 in (861 cm)",
+            "Length from Back of Cab to End of Frame": "339.5 in (861 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "106 in (269 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "105.91 in (267 cm)",
+            "Overall Length": "34.4 ft (10 m)",
+            "Total Chassis Weight": "14120.7 lbs (6,405 kg)",
+            "Total GVW": "50706.4 lbs (23,000 kg)",
+            "Turning Radius": "32.4 ft (10 m)",
+            "Wheelbase": "193 in (490 cm)"
+        }
+    }
+}

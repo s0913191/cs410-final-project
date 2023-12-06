@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/igo-t85/42645",
+    "source_url_id": "42645",
+    "source_url_model": "igo-t85",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:19.894031",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "IGO T85",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "114.7 ft (35 m)",
+            "Max Lift Capacity": "7 t (6,350 kg)"
+        }
+    }
+}

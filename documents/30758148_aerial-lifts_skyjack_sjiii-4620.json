@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/skyjack/sjiii-4620/30758148",
+    "source_url_id": "30758148",
+    "source_url_model": "sjiii-4620",
+    "source_url_make": "skyjack",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:11.740292",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Skyjack",
+    "equipment_model": "SJIII 4620",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Height w/ Rails": "6.6 ft (2 m)",
+            "Height w/o Rails": "5.3 ft (2 m)",
+            "Overall Length": "7.6 in (18 cm)",
+            "Overall Width": "4 ft (1 m)",
+            "Turning Radius": "7.9 ft (2 m)",
+            "Wheelbase": "6 ft (2 m)"
+        },
+        "Engine": {
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Max Speed": "2 mph (3 kph)",
+            "Operating Weight": "4100.6 lbs (1,860 kg)"
+        },
+        "Platform": {
+            "Deck Extension": "47.3 in (119 cm)",
+            "Lift Time": "32 sec",
+            "Max Platform Height": "20.1 ft (6 m)",
+            "Max Platform Weight Capacity": "1300.8 lbs (590 kg)",
+            "Max Working Height": "26 ft (8 m)",
+            "Platform Inner Length": "82.7 in (208 cm)",
+            "Platform Inner Width": "43.4 in (109 cm)"
+        }
+    }
+}

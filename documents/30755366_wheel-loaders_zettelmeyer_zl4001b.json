@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/zettelmeyer/zl4001b/30755366",
+    "source_url_id": "30755366",
+    "source_url_model": "zl4001b",
+    "source_url_make": "zettelmeyer",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:58:11.115436",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Zettelmeyer",
+    "equipment_model": "ZL4001B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "42713.7 lbs (19,375 kg)",
+            "Bucket Capacity - heaped": "5.3 cu yds (4 m)",
+            "Bucket Capacity - struck": "4.6 cu yds (3 m)",
+            "Bucket Width": "9.9 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Hinge Pin - Max Height": "14.5 ft (4 m)",
+            "Length with Bucket on Ground": "28.3 ft (9 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "direct",
+            "Displacement": "973.6 cu in (0 m)",
+            "Engine Model": "F 10L 413F",
+            "Gross Power": "302 hp (225 kw)",
+            "Net Power": "269 hp (201 kw)",
+            "Number of Cylinders": "10",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.7 sec",
+            "Lower Time": "4.6 sec",
+            "Pump Flow Capacity": "99.9 gal/min (375 l/min)",
+            "Pump Type": "gear tandem",
+            "Raise Time": "6.8 sec",
+            "Relief Valve Setting": "2610 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Engine Oil Fluid Capacity": "7.4 gal (27 l)",
+            "Front Axle/Diff Fluid Capacity": "11.1 gal (42 l)",
+            "Fuel Capacity": "111 gal (420 l)",
+            "Hydraulic System Fluid Capacity": "121.6 gal (458 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "52470.1 lbs (23,800 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "11.1 gal (42 l)",
+            "Static Tipping Weight": "42769.7 lbs (19,400 kg)",
+            "Tire Size": "26.5-25PR(L2)",
+            "Transmission Fluid Capacity": "10.6 gal (38 l)",
+            "Turning Radius": "22.7 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

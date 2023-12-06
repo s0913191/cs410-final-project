@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk290lc/30684741",
+    "source_url_id": "30684741",
+    "source_url_model": "sk290lc",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:38.052680",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK290LC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "23.8 ft (7 m)",
+            "Digging Reach": "23.8 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "66350 lbs (30,096 kg)"
+        }
+    }
+}

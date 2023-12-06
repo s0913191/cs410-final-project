@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/mccormick/cn45/30751405",
+    "source_url_id": "30751405",
+    "source_url_model": "cn45",
+    "source_url_make": "mccormick",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:07.949153",
+    "equipment_category": "Tractors",
+    "equipment_make": "Mccormick",
+    "equipment_model": "CN45",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8 ft (2 m)",
+            "Overall Length": "10.5 in (25 cm)",
+            "Wheelbase": "6.3 ft (2 m)",
+            "Width Outside Frame": "4.3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "141.1 cu in (0 m)",
+            "Gross Power": "41 hp (31 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "38 hp (28 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "9.1 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3258.5 lbs (1,478 kg)",
+            "3 Point Hitch Type": "1",
+            "Alternator Supplied Amperage": "45  A",
+            "Fuel Capacity": "13.5 gal (49 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5064.1 lbs (2,297 kg)",
+            "Turning Radius": "9.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "16.6 mph (26 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "synchro shuttle"
+        }
+    }
+}

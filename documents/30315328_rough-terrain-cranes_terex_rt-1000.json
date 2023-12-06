@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-1000/30315328",
+    "source_url_id": "30315328",
+    "source_url_model": "rt-1000",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:08.152253",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 1000",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "126 ft (38 m)",
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "126 ft (38 m)",
+            "Max Lift Capacity": "100 t (90,719 kg)",
+            "Min Height @ Max Raise Angle": "40 ft (12 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "1.5 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "28.9 ft (9 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Transport Height": "13.5 ft (4 m)",
+            "Transport Length": "48.6 ft (15 m)",
+            "Transport Width": "12.3 ft (4 m)",
+            "Wheelbase": "13 in (33 cm)",
+            "Width w/ Outriggers Extended": "27.2 ft (8 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged & Charge air cooled",
+            "Displacement": "504.5 cu in (0 m)",
+            "Engine Model": "6CTA8.3L",
+            "Gross Power": "275 hp (205 kw)",
+            "Max Torque": "828 lbs/ft",
+            "Net Power": "260 hp (194 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "80 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "303 gal (1,147 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "116588 lbs (52,884 kg)",
+            "Tire Size": "32.25 x 29 - 32 P.R."
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.8 mph (39 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Power-Shift Transmission"
+        }
+    }
+}

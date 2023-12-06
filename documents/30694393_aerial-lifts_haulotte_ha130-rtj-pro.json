@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ha130-rtj-pro/30694393",
+    "source_url_id": "30694393",
+    "source_url_model": "ha130-rtj-pro",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:07.381724",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HA130 RTJ PRO",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "40%",
+            "Ground Clearance": "15 in (38 cm)",
+            "Overall Length": "43 in (109 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tailswing Radius": "12.9 ft (4 m)",
+            "Tilt alarm": "4  \t\u00b0",
+            "Transport Height - Maximum": "12.3 ft (4 m)",
+            "Transport Length": "36.1 ft (11 m)",
+            "Turning Radius - Outside Tires": "18.1 ft (5 m)",
+            "Up and Over Height": "57.5 ft (17 m)",
+            "Wheelbase": "11.6 ft (3 m)"
+        },
+        "Electrical System": {
+            "Battery": "12V"
+        },
+        "Engine": {
+            "Emission Tier Level": "Tier 3Final",
+            "Engine Model": "Perkins",
+            "Gross Power": "83.9 hp (62 kw)"
+        },
+        "Performance": {
+            "Max Speed": "3.1 mph (5 kph)",
+            "Operating Weight": "52700 lbs (23,905 kg)",
+            "Tire Size": "445/65-225"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "65.2 ft (20 m)",
+            "Max Platform Height": "129.7 ft (39 m)",
+            "Max Platform Weight Capacity": "500 lbs (227 kg)",
+            "Max Working Height": "136.2 ft (41 m)",
+            "Maximum no of Persons": "2",
+            "Overall height (stowed, guardrail folded)": "9.1 ft (3 m)",
+            "Platform Inner Length": "96 in (244 cm)",
+            "Platform Inner Width": "36 in (91 cm)",
+            "Wind Rating": "28 mph (45 kph)"
+        }
+    }
+}

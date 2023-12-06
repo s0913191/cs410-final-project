@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/mitsubishi/bd2jsss-dd/30750930",
+    "source_url_id": "30750930",
+    "source_url_model": "bd2jsss-dd",
+    "source_url_make": "mitsubishi",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:50:33.731247",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Mitsubishi",
+    "equipment_model": "BD2JSSS-DD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "7.7 ft (2 m)",
+            "Length of Track on Ground": "6.9 ft (2 m)",
+            "Length w/ Blade": "11.3 ft (3 m)",
+            "Length w/o Blade": "9.2 ft (3 m)",
+            "Width Over Tracks": "9.5 ft in (23 cm)"
+        },
+        "Engine": {
+            "Displacement": "203.3 cu in (0 m)",
+            "Engine Model": "C S4SE1",
+            "Gross Power": "50 hp (37 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "10251.5 lbs (4,650 kg)"
+        },
+        "Standard Blade": {
+            "Height": "19.7 in (48 cm)",
+            "Width": "10.5 ft (3 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "DD"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "39.4 in (99 cm)",
+            "Track Gauge": "1.7 ft (0 m)",
+            "Track Pitch": "125.2 in (318 cm)"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/compact-3368-rte/30758198",
+    "source_url_id": "30758198",
+    "source_url_model": "compact-3368-rte",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:48.447722",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "COMPACT 3368 RTE",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height w/ Rails": "8.4 ft (2 m)",
+            "Height w/o Rails": "5.6 ft (2 m)",
+            "Overall Length": "8.7 in (20 cm)",
+            "Overall Width": "6 ft (2 m)",
+            "Turning Radius": "12.5 ft (4 m)",
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "285",
+            "Charger Amps": "45",
+            "Number of Batteries": "8",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "11.9 gal (42 l)",
+            "Max Speed": "3.6 mph (5 kph)",
+            "Operating Weight": "8201 lbs (3,720 kg)",
+            "Tire Fill/Type": "Foam",
+            "Tire Size": "26x12-12"
+        },
+        "Platform": {
+            "Deck Extension": "47 in (119 cm)",
+            "Lift Time": "35 sec",
+            "Lower Time": "35 sec",
+            "Max Platform Height": "33.3 ft (10 m)",
+            "Max Platform Weight Capacity": "992 lbs (450 kg)",
+            "Max Working Height": "39.3 ft (12 m)",
+            "Platform Inner Length": "98 in (249 cm)",
+            "Platform Inner Width": "61 in (155 cm)"
+        }
+    }
+}

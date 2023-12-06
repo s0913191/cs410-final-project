@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/moxy/mt26/30134018",
+    "source_url_id": "30134018",
+    "source_url_model": "mt26",
+    "source_url_make": "moxy",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:44.423362",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Moxy",
+    "equipment_model": "MT26",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2.1 ft (1 m)",
+            "Dump Height": "17.6 ft (5 m)",
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Overall Height": "11.7 ft (3 m)",
+            "Overall Length": "30.9 ft (9 m)",
+            "Overall Width": "9.1 ft (3 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6X6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "18.5 cu yds (14 m)",
+            "Capacity - Struck": "15 cu yds (11 m)",
+            "Lower Time": "10 sec",
+            "Raise Time": "11 sec",
+            "Rated Payload": "51808.7 lbs (23,500 kg)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "549.3 cu in (0 m)",
+            "Engine Model": "DC 9",
+            "Gross Power": "313.8 hp (233 kw)",
+            "Make": "Scania",
+            "Max Torque": "1069.5 lbs/ft",
+            "Model": "DC 9",
+            "Number of Cylinders": "6"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Cooling System Fluid Capacity": "9.6 gal (34 l)",
+            "Engine Oil Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Hydraulic System Fluid Capacity": "36.5 gal (136 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "23.5R25",
+            "Transmission Fluid Capacity": "15.1 gal (57 l)"
+        },
+        "Transmission": {
+            "Max Speed": "31.7 mph (50 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "ZF 6 WG 260 Dash 4 electronically-controlled automatic"
+        },
+        "Weights": {
+            "Front Axle - empty": "24140.7 lbs (10,950 kg)",
+            "Front Axle - loaded": "33510.3 lbs (15,200 kg)",
+            "Operating Weight": "100310 lbs (45,500 kg)",
+            "Rear Axle - empty": "24361.1 lbs (11,050 kg)",
+            "Rear Axle - loaded": "66800.1 lbs (30,300 kg)",
+            "Total Empty": "48501.8 lbs (22,000 kg)",
+            "Total Loaded": "100310.4 lbs (45,500 kg)"
+        }
+    }
+}

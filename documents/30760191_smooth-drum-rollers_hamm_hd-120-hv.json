@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-120-hv/30760191",
+    "source_url_id": "30760191",
+    "source_url_model": "hd-120-hv",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:57.970000",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 120 HV",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "208 in (528 cm)"
+        },
+        "Drum": {
+            "Drum Width": "78 in (198 cm)",
+            "Vibration Frequency": "2,520-3,200 hz (151,200 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "78 in (198 cm)"
+        }
+    }
+}

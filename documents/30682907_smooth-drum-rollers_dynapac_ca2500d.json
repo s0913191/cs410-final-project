@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca2500d/30682907",
+    "source_url_id": "30682907",
+    "source_url_model": "ca2500d",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:57.752016",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA2500D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "18 in (46 cm)",
+            "Gradeability": "51%",
+            "Ground Clearance": "17.8 in (43 cm)",
+            "Height - Top of ROPS/FOPS": "9.5 ft (3 m)",
+            "Overall Length": "236 in (599 cm)",
+            "Overall Length w/o Blade": "19.7 ft (6 m)",
+            "Overhang Front": "0.4 ft (0 m)",
+            "Overhang Rear": "0.4 ft (0 m)",
+            "Turning Radius - Inside": "132 in (335 cm)",
+            "Turning Radius - Outside": "18 ft (5 m)",
+            "Wheelbase": "9.9 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "56202.3 lbs (25,493 kg)",
+            "Centrifugal Force - Low": "29230 lbs (13,259 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum thickness": "1 in (3 cm)",
+            "Drum Width": "84 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Pad Height": "4 in (10 cm)",
+            "Pad Surface Area": "22.6 cu in (0 m)",
+            "Static Linear Load": "146 lbs/in",
+            "Vibration Frequency": "33 - 34 hz (1,980 - 2,040 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSF3.8",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "119.4 hp (89 kw)",
+            "Make": "Cummins QSB4.5 T4i",
+            "Net Power": "130.1 hp (97 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "5 gal (19 l)",
+            "Fuel Capacity": "72 gal (273 l)",
+            "Max Speed": "5 mph (8 kph)",
+            "Operating Weight": "57761.2 lbs (26,200 kg)",
+            "Operating weight ROPS": "49163.1 lbs (22,300 kg)",
+            "Operating Width": "91 in (231 cm)",
+            "Tire Size": "23,1 x 26 AW"
+        }
+    }
+}

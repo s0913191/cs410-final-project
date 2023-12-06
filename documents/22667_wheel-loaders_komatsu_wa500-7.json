@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa500-7/22667",
+    "source_url_id": "22667",
+    "source_url_model": "wa500-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:51.325773",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA500-7",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Model": "SAA6D140E-6",
+            "Net Power": "353 hp (263 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "6.8 - 8.20 cu yds (5 - 6 m)"
+        },
+        "Weights": {
+            "Operational Weight": "74626 - 75,453 lbs (33,850 - 34,225 kg)"
+        }
+    }
+}

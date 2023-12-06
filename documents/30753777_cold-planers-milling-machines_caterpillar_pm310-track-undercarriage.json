@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/caterpillar/pm310-track-undercarriage/30753777",
+    "source_url_id": "30753777",
+    "source_url_model": "pm310-track-undercarriage",
+    "source_url_make": "caterpillar",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:49.455095",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "PM310 Track Undercarriage",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Collecting Conveyor Speed": "827 ft/min",
+            "Collecting Conveyor Width": "21.6 in (53 cm)",
+            "Discharge Conveyor Length": "23.6 ft (7 m)",
+            "Discharge Conveyor Maximum Speed": "827 ft/min",
+            "Discharge Conveyor Swing - From Center": "60  \t\u00b0",
+            "Discharge Conveyor Width": "23.6 in (58 cm)"
+        },
+        "Dimensions": {
+            "Maximum Operating Height": "16.9 ft (5 m)",
+            "Maximum Truck Clearance": "15.5 ft (5 m)",
+            "Minimum Operating Height": "9.9 ft (3 m)",
+            "Operating Length - Conveyor Up": "36.5 ft (11 m)",
+            "Operating Width": "8.4 ft (2 m)",
+            "Shipping Length - Base Machine": "19.4 ft (6 m)",
+            "Shipping Length - With Conveyor Folded": "30.6 ft (9 m)",
+            "Shipping Maximum Height": "9.8 ft (3 m)",
+            "Shipping Width": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "C9.3 ACERT",
+            "Gross Power": "325 hp (242 kw)"
+        },
+        "Operating Specifications": {
+            "Inside Turn Radius": "6.3 ft (2 m)",
+            "Maximum Travel Speed": "3.4 mph (5 kph)",
+            "Operating Speed": "108 ft/min"
+        },
+        "Rotary Cutter": {
+            "Cutting Width": "39.4 ft (12 m)"
+        },
+        "Rotor Assembly": {
+            "Maximum Cutting Depth": "13 in (33 cm)",
+            "Number of Cutting Tools": "97"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank Capacity": "158.5 gal (598 l)",
+            "Water Spray System": "333 gal (1,260 l)"
+        },
+        "Weights": {
+            "Operating Weight - With Full Water Tank": "47746 lbs (21,657 kg)",
+            "Shipping Weight - With Empty Water Tank": "44187 lbs (20,043 kg)"
+        }
+    }
+}

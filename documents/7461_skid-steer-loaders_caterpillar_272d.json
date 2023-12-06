@@ -1,0 +1,106 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/caterpillar/272d/7461",
+    "source_url_id": "7461",
+    "source_url_model": "272d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:33.074038",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "272D",
+    "equipment_spec": {
+        "Cab": {
+            "FOPS": "SAE J1043 SEPT87, ISO 3449:1992 Level I",
+            "FOPS Level II": "SAE J231 JAN81, ISO 3449:1992 Level II",
+            "ROPS": "SAE J1040 MAY94, ISO 3471:1994"
+        },
+        "Dimensions": {
+            "Bucket Pin Height - Carry Position": "7.9 in (18 cm)",
+            "Bucket Pin Height - Maximum Lift": "10.6 ft (3 m)",
+            "Bucket Pin Reach - Maximum Lift": "16.1 in (41 cm)",
+            "Bumper Overhang - Rear Axle": "42.7 in (107 cm)",
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Clearance at Maximum Lift and Dump": "95.2 in (241 cm)",
+            "Departure Angle": "25  \t\u00b0",
+            "Ground Clearance": "8.9 in (20 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Hinge pin height - fully raised": "126.7 in (320 cm)",
+            "Length - With Bucket on Ground": "151.6 in (384 cm)",
+            "Length - Without Bucket": "123.6 in (312 cm)",
+            "Length w/o Bucket": "10.3 ft (3 m)",
+            "Length with Bucket": "12.7 ft (4 m)",
+            "Maximum Dump Angle": "52  \t\u00b0",
+            "Maximum Overall Height": "159.4 in (404 cm)",
+            "Maximum Reach - With Arms Parallel": "50.7 in (127 cm)",
+            "Rack Back Angle - Maximum Height": "83  \t\u00b0",
+            "Reach - Maximum Lift/Dump": "30.9 in (76 cm)",
+            "Reach at Max Lift and Dump": "31 in (79 cm)",
+            "Turn Radius from Center - Bucket": "91.5 in (231 cm)",
+            "Turn Radius from Center - Coupler": "58.9 in (147 cm)",
+            "Turn Radius from Center - Rear": "73.8 in (185 cm)",
+            "Turning Radius from Center - machine rear": "73.8 in (185 cm)",
+            "Vehicle Width over Tires": "76 in (193 cm)",
+            "Wheel Base": "4.6 ft (1 m)",
+            "Wheelbase": "4.6 ft (1 m)",
+            "Width Over Tires": "6.4 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "3.9 in (8 cm)",
+            "Displacement": "232 cu in (0 m)",
+            "Engine Model": "Cat C3.8 (turbocharged)",
+            "Gross Power": "95 hp (71 kw)",
+            "Gross Power - SAE J1995": "98 hp (73 kw)",
+            "Net Flywheel Power": "95 hp (71 kw)",
+            "Net Power - ISO 9249 EEC": "95 hp (71 kw)",
+            "Net Power - SAE 1349": "95 hp (71 kw)",
+            "Stroke": "4.7 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic Flow (1)": "Standard",
+            "Hydraulic Flow (2)": "High Flow XPS",
+            "Loader Hydraulic Flow": "23 gal/min (87 l/min)",
+            "Loader Hydraulic Pressure": "3335 psi",
+            "Maximum Loader Hydraulic Flow": "32 gal/min (121 l/min)",
+            "Maximum Loader Hydraulic Pressure": "4061 psi"
+        },
+        "Loader": {
+            "Operating Load Rating": "3200 lbs (1,452 kg)",
+            "Operating Width": "72 in (183 cm)",
+            "Tipping load (ISO 14397)": "6400.1 lbs (2,903 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Breakout Force - Lift Cylinder": "6100 lbs (2,767 kg)",
+            "Breakout Force - Tilt Cylinder": "7405 lbs (3,359 kg)",
+            "Chain Box Fluid Capacity - each side": "2.3 gal (8 l)",
+            "Cooling System Fluid Capacity": "3.7 gal (11 l)",
+            "Engine Oil Fluid Capacity": "2.7 gal (8 l)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Hydraulic System Fluid Capacity": "16.2 gal (61 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "18527.7 lbs (8,404 kg)",
+            "Rated Operating Capacity": "3200 lbs (1,452 kg)",
+            "Rated Operating Capacity with Optional Counterweight": "3450 lbs (1,565 kg)",
+            "Tipping Load": "6400 lbs (2,903 kg)",
+            "Tire Size": "14 x 17.5"
+        },
+        "Power Train": {
+            "Travel Speed Forward": "6.6 mph (10 kph)",
+            "Travel Speed Forward - 2-Speed Option": "9.4 mph (14 kph)",
+            "Travel Speed Reverse": "6.6 mph (10 kph)",
+            "Travel Speed Reverse - 2-Speed Option": "9.4 mph (14 kph)"
+        },
+        "Service Refill Capacities": {
+            "Chain Box - Each Side": "2.3 gal (8 l)",
+            "Cooling System": "3.7 gal (11 l)",
+            "Engine Crankcase": "2.6 gal (8 l)",
+            "Fuel Tank": "30.8 gal (114 l)",
+            "Hydraulic System": "16 gal (61 l)",
+            "Hydraulic Tank": "10.3 gal (38 l)"
+        },
+        "Weights": {
+            "Operating Weight": "8404 lbs (3,812 kg)"
+        }
+    }
+}

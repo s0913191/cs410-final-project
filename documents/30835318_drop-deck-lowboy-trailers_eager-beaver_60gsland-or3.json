@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/drop-deck-lowboy-trailers/eager-beaver/60gsland-or3/30835318",
+    "source_url_id": "30835318",
+    "source_url_model": "60gsland-or3",
+    "source_url_make": "eager-beaver",
+    "source_url_category": "drop-deck-lowboy-trailers",
+    "source_date_scraped": "2023-09-13 17:53:20.390791",
+    "equipment_category": "Drop Deck / Lowboy Trailers",
+    "equipment_make": "Eager Beaver",
+    "equipment_model": "60GSL/3",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "25x8.5 ft (8 m)"
+        },
+        "Engine": {
+            "Speed Rating": "65 mph (105 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "3",
+            "Suspension Type": "Air Ride"
+        },
+        "Weights": {
+            "Equipment Weight": "22500 lbs (10,206 kg)",
+            "Weight Capacity": "120000 lbs (54,432 kg)"
+        }
+    }
+}

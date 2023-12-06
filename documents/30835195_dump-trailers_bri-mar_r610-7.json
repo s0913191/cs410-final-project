@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dump-trailers/bri-mar/r610-7/30835195",
+    "source_url_id": "30835195",
+    "source_url_model": "r610-7",
+    "source_url_make": "bri-mar",
+    "source_url_category": "dump-trailers",
+    "source_date_scraped": "2023-09-13 17:54:10.137835",
+    "equipment_category": "Dump Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "R610-7",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6x10 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "1780 lbs (807 kg)",
+            "Weight Capacity": "5220 lbs (2,368 kg)"
+        }
+    }
+}

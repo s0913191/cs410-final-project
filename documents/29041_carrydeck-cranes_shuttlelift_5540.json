@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/shuttlelift/5540/29041",
+    "source_url_id": "29041",
+    "source_url_model": "5540",
+    "source_url_make": "shuttlelift",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:28.036721",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Shuttlelift",
+    "equipment_model": "5540",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "43 ft (13 m)",
+            "Max Lift Capacity": "30000 lbs (13,608 kg)"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/bobcat/s250/1524",
+    "source_url_id": "1524",
+    "source_url_model": "s250",
+    "source_url_make": "bobcat",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:21.319572",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "S250",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.3 ft (2 m)",
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Length w/o Bucket": "9.6 ft (3 m)",
+            "Length with Bucket": "12 ft (4 m)",
+            "Reach at Max Lift and Dump": "21.6 in (53 cm)",
+            "Turning Radius from Center - machine rear": "84.2 in (213 cm)",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Model": "V3300-DI-T",
+            "Gross Power": "75 hp (56 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "20.7 gal/min (76 l/min)"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Operating Load Rating": "2500 lbs (1,134 kg)",
+            "Tipping Angle": "5661  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12 mph (19 kph)",
+            "Operating Speed": "6.9 mph (10 kph)",
+            "Operational Weight": "7825 lbs (3,549 kg)"
+        }
+    }
+}

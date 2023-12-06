@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d51pxi-22/30760527",
+    "source_url_id": "30760527",
+    "source_url_model": "d51pxi-22",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:21.819898",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D51PXi-22",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SA6D107E-1",
+            "Net Power": "130 hp (97 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "29057 lbs (13,180 kg)"
+        }
+    }
+}

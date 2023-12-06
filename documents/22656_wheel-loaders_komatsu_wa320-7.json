@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa320-7/22656",
+    "source_url_id": "22656",
+    "source_url_model": "wa320-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:28.734321",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA320-7",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "TURBOCHARGED",
+            "Engine Model": "SAA6D107E-2",
+            "Gross Power": "173 hp (129 kw)",
+            "Model": "SAA6D107E-2",
+            "Net Power": "165 hp (123 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Lower Time": "3.3 sec",
+            "Pump Flow Capacity": "29.1 gal/min (110 l/min)",
+            "Pump Type": "GEAR TYPE PUMP",
+            "Raise Time": "5.7 sec",
+            "Relief Valve Setting": "2700 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.1 gal (23 l)",
+            "Engine Oil Fluid Capacity": "6.1 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "7.1 gal (27 l)",
+            "Fuel Capacity": "64.7 gal (242 l)",
+            "Hydraulic System Fluid Capacity": "23.7 gal (87 l)",
+            "Rated Bucket Capacity": "3.7 - 4.20 cu yds (2 - 3 m)",
+            "Rear Axle/Diff Fluid Capacity": "6.7 gal (23 l)",
+            "Tire Size": "20.5-25",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.6 mph (37 kph)",
+            "Max Speed - Reverse": "23.6 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "HYDROSTATIC"
+        },
+        "Weights": {
+            "Operational Weight": "33731 - 33,984 lbs (15,300 - 15,415 kg)"
+        }
+    }
+}

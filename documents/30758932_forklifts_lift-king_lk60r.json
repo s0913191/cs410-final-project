@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/lift-king/lk60r/30758932",
+    "source_url_id": "30758932",
+    "source_url_model": "lk60r",
+    "source_url_make": "lift-king",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:05.108898",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Lift King",
+    "equipment_model": "LK60R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16 in (41 cm)",
+            "Length to Fork Face": "17.4 ft (5 m)",
+            "Overall Height": "8 ft (2 m)",
+            "Turning Radius Outside Tires": "13.5 ft (4 m)",
+            "Wheelbase": "9.7 ft (3 m)",
+            "Width Over Tires": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "naturally aspirated",
+            "Engine Model": "4B3.9",
+            "Gross Power": "76 hp (57 kw)"
+        },
+        "Lift System": {
+            "Max Forward Reach": "22.7 ft (7 m)",
+            "Max Lift Capacity": "6000 lbs (2,722 kg)",
+            "Max Lift Height": "36.8 ft (11 m)",
+            "Max Load at Max Height": "6000 lbs (2,722 kg)",
+            "Max Load at Max Reach": "2000 lbs (907 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "25 gal (95 l)",
+            "Hydraulic System Fluid Capacity": "25 gal (95 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "18300 lbs (8,301 kg)",
+            "Tire Size": "13.00-24TG 12ply"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Transmission Type": "powershift"
+        }
+    }
+}

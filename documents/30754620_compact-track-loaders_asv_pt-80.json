@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/asv/pt-80/30754620",
+    "source_url_id": "30754620",
+    "source_url_model": "pt-80",
+    "source_url_make": "asv",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:01.711436",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "ASV",
+    "equipment_model": "PT-80",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.2 ft (2 m)",
+            "Ground Clearance": "15 in (38 cm)",
+            "Height - Top of Cab": "7.2 ft (2 m)",
+            "Length - with Bucket": "11.9 ft (3 m)",
+            "Length - without Bucket": "9.4 ft (3 m)",
+            "Reach at Max Lift and Dump": "1.7 ft (0 m)",
+            "Width Over Tracks": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "202 cu in (0 m)",
+            "Engine Model": "804C-33T",
+            "Gross Power": "80.5 hp (60 kw)",
+            "Peak Torque": "186 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "30 gal/min (114 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Operating Load": "3100 lbs (1,406 kg)",
+            "Tipping Angle": "6200  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Cooling System Fluid Capacity": "3 gal (11 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Fuel Capacity": "18 gal (68 l)",
+            "Hydraulic System Fluid Capacity": "21 gal (79 l)",
+            "Max Speed - high range": "11 mph (18 kph)",
+            "Max Speed - low range": "6 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8972 lbs (4,070 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2556 cu in (0 m)",
+            "Ground Pressure": "3.5 psi",
+            "Length of Track on Ground": "6 ft (2 m)",
+            "Number of Track Rollers per Side": "16",
+            "Width of Track": "18 in (46 cm)"
+        }
+    }
+}

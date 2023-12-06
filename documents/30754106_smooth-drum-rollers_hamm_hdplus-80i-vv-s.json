@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hdplus-80i-vv-s/30754106",
+    "source_url_id": "30754106",
+    "source_url_model": "hdplus-80i-vv-s",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:13.640495",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD+ 80i VV-S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "29.6 in (74 cm)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Overall Length": "176.4 in (447 cm)",
+            "Overall Width": "6 ft (2 m)",
+            "Track width": "6 ft (2 m)",
+            "Turning Radius - Inside": "13.6 ft (4 m)",
+            "Wheelbase": "131.5 in (333 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "14163 lbs (6,424 kg)",
+            "Centrifugal Force - Low": "14163 lbs (6,424 kg)",
+            "Drum Diameter": "44.9 in (112 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "136.1 lbs/in"
+        },
+        "Engine": {
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 2.9 L4",
+            "Gross Power": "74.3 hp (55 kw)",
+            "Net Power": "74.3 hp (55 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Max Speed": "3.8 mph (5 kph)",
+            "Operating Weight": "23104.5 lbs (10,480 kg)",
+            "Operating weight Cabin": "17703.2 lbs (8,030 kg)",
+            "Operating weight ROPS": "17328.4 lbs (7,860 kg)",
+            "Steering Angle": "10  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "185 gal (700 l)"
+        }
+    }
+}

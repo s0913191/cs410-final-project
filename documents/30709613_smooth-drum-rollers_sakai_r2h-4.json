@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/r2h-4/30709613",
+    "source_url_id": "30709613",
+    "source_url_model": "r2h-4",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:32.717045",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "R2H-4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "13.4 Inches"
+        },
+        "Drum": {
+            "Drum Width": "22 Inches"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "7.3 Inches"
+        }
+    }
+}

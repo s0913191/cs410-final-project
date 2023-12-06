@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/sd-40d/30705230",
+    "source_url_id": "30705230",
+    "source_url_model": "sd-40d",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:53.824705",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "SD-40D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "104 in (264 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54 in (137 cm)",
+            "Vibration Frequency": "1800 hz (108,000 vpm)"
+        },
+        "Engine": {
+            "Make": "John Deere"
+        },
+        "Operating Specifications": {
+            "Operating Width": "61 in (155 cm)"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/hitachi/cp210/30684991",
+    "source_url_id": "30684991",
+    "source_url_model": "cp210",
+    "source_url_make": "hitachi",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:33.026216",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Hitachi",
+    "equipment_model": "CP210",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of ROPS/FOPS": "10.2 ft (3 m)",
+            "Overall Length": "16.5 in (41 cm)",
+            "Overall Width": "7.5 ft (2 m)",
+            "Wheelbase": "12.7 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "264.2 cu in (0 m)",
+            "Engine Model": "BB-4BG1T",
+            "Gross Power": "90 hp (67 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2150 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "30.4 gal (114 l)",
+            "Max Speed": "15 mph (24 kph)",
+            "Water Spray Tank Fluid Capacity": "1056.7 gal (3,997 l)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "3",
+            "Number of Tires - Rear": "4",
+            "Standard Tire Size": "14/70-20-12PR (OR)",
+            "Wheel Track/Tire Overlap": "2.2 in (5 cm)"
+        },
+        "Weights": {
+            "Average Weight per Wheel - Max Ballast": "5328.6 lbs (2,417 kg)",
+            "Average Weight per Wheel - Standard": "4069.8 lbs (1,846 kg)",
+            "Operating Weight - max ballast": "37302.3 lbs (16,920 kg)",
+            "Operating Weight - standard": "28483.8 lbs (12,920 kg)"
+        }
+    }
+}

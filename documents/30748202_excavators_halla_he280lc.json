@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/halla/he280lc/30748202",
+    "source_url_id": "30748202",
+    "source_url_model": "he280lc",
+    "source_url_make": "halla",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:38.613719",
+    "equipment_category": "Excavators",
+    "equipment_make": "Halla",
+    "equipment_model": "HE280LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.7 ft (10 m)",
+            "Max Digging Depth": "24.7 ft (7 m)",
+            "Max Loading Height": "23.7 ft (7 m)",
+            "Max Reach Along Ground": "34.9 ft (10 m)",
+            "Shipping Height of Unit": "11.1 ft (3 m)",
+            "Shipping Length of Unit": "35.1 ft (11 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "1.6 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "24.5 ft (7 m)",
+            "Digging Reach": "24.5 ft (7 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Length of Track on Ground": "13.3 ft (4 m)",
+            "Removal Counterweight Clearance": "3.9 ft (1 m)",
+            "Tail Swing Radius": "10.9 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "505 cu in (0 m)",
+            "Engine Model": "6CT8.3-C",
+            "Max Torque": "587.1 lbs/ft",
+            "Net Power": "177.1 hp (132 kw)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "7.4 gal (27 l)",
+            "Engine Oil Capacity": "6 gal (23 l)",
+            "Fuel Capacity": "140.1 gal (530 l)",
+            "Hydraulic Pump Flow Capacity": "137.4 gal/min (519 l/min)",
+            "Hydraulic System Fluid Capacity": "100.4 gal (379 l)",
+            "Hydraulic System Relief Valve Pressure": "4970 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "62170.4 lbs (28,200 kg)",
+            "Swing Drive Fluid Capacity": "3 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.5 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "55430 lbs (25,143 kg)",
+            "Ground Pressure": "7.7 psi",
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "8.6 ft (2 m)"
+        }
+    }
+}

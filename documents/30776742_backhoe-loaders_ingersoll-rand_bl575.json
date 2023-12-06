@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/ingersoll-rand/bl575/30776742",
+    "source_url_id": "30776742",
+    "source_url_model": "bl575",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:35:15.524374",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "BL575",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "10.7 ft (3 m)",
+            "Max Digging Depth": "11 ft (3 m)"
+        },
+        "Loader": {
+            "Breakout Force": "9370 lbs (4,250 kg)",
+            "Lift Capacity": "3600 lbs (1,633 kg)",
+            "SAE - Net": "56 hp (42 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "9950 lbs (4,513 kg)"
+        },
+        "Travel Speed": {
+            "4Th Gear Fwd": "12.5 mph (19 kph)"
+        }
+    }
+}

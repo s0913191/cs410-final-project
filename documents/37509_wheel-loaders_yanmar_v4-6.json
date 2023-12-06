@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/yanmar/v4-6/37509",
+    "source_url_id": "37509",
+    "source_url_model": "v4-6",
+    "source_url_make": "yanmar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:55.230001",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Yanmar",
+    "equipment_model": "V4-6",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.7 cu yds (0 m)",
+            "Dump Clearance at Max Raise": "8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Length with Bucket on Ground": "14.5 ft (4 m)",
+            "Width Over Tires": "5.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "133.6 cu in (0 m)",
+            "Engine Model": "4TNV88-BNKAH",
+            "Gross Power": "40.4 hp (30 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.8 gal/min (53 l/min)",
+            "Relief Valve Setting": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "8410.7 lbs (3,815 kg)",
+            "Rear Axle Oscillation": "8  \t\u00b0",
+            "Static Tipping Weight": "5976 lbs (2,711 kg)",
+            "Tire Size": "15.5/60-18-8PR",
+            "Turning Radius": "12.8 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "11.8 mph (18 kph)",
+            "Max Speed - Reverse": "11.8 mph (18 kph)",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

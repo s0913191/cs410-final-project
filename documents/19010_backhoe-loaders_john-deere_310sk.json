@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/john-deere/310sk/19010",
+    "source_url_id": "19010",
+    "source_url_model": "310sk",
+    "source_url_make": "john-deere",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:15.177343",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "310SK",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "18.4 ft (5 m)",
+            "Load Height": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "102 hp (76 kw)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "11450 lbs (5,194 kg)",
+            "Lift Capacity": "7215 lbs (3,273 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "19855 lbs (9,006 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "20.5 mph (32 kph)"
+        }
+    }
+}

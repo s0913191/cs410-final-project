@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd-24-dura-pac/30783708",
+    "source_url_id": "30783708",
+    "source_url_model": "dd-24-dura-pac",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:33.398729",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD-24 DURA-PAC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "151.5 in (384 cm)",
+            "Turning Radius - Outside": "151.5 in (384 cm)"
+        },
+        "Drum": {
+            "Drum Width": "49.2 in (124 cm)",
+            "Vibration Frequency": "4000 hz (240,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "53.7 in (135 cm)"
+        }
+    }
+}

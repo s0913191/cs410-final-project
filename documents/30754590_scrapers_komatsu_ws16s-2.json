@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/komatsu/ws16s-2/30754590",
+    "source_url_id": "30754590",
+    "source_url_model": "ws16s-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:59.084821",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WS16S-2",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "21 cu yds (16 m)",
+            "Max Depth of Cut": "14.6 in (36 cm)",
+            "Rated Payload": "49383.6 lbs (22,400 kg)",
+            "Struck Capacity": "14.4 cu yds (11 m)",
+            "Width of Cut": "10.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.6 ft (3 m)",
+            "Overall Height": "14.7 ft (4 m)",
+            "Overall Length": "42 ft (13 m)",
+            "Overall Width": "11.5 ft (3 m)",
+            "Tractor Ground Clearance": "2.2 ft (1 m)",
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Tractor Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "855 cu in (0 m)",
+            "Gross Power": "364 hp (271 kw)",
+            "Make": "Komatsu",
+            "Model": "Cummins NTA855-C"
+        },
+        "Transmission": {
+            "Max Speed Forward": "32.4 mph (51 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "TORQFLOW planetary gear type"
+        },
+        "Weights": {
+            "Total Operating - empty": "67902.4 lbs (30,800 kg)",
+            "Total Operating - Loaded": "117726.9 lbs (53,400 kg)"
+        }
+    }
+}

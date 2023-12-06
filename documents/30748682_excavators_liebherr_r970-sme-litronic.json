@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/r970-sme-litronic/30748682",
+    "source_url_id": "30748682",
+    "source_url_model": "r970-sme-litronic",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:14:46.888843",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "R970 SME Litronic",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Breakout force - ISO": "88180 lbs (39,998 kg)",
+            "Digging force - ISO": "80470 lbs (36,501 kg)",
+            "Max Digging Depth": "23.7 ft (7 m)",
+            "Max. teeth height": "38.3 ft (12 m)",
+            "Max.Dumping Height": "25.9 ft (8 m)",
+            "Maximum Reach at Ground Level": "38.3 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Breakout force-ISO": "88180 lbs (39,998 kg)",
+            "Digging force - ISO": "73630 lbs (33,398 kg)",
+            "Max Digging Depth": "24.2 ft (7 m)",
+            "Max. teeth height": "38.2 ft (12 m)",
+            "Max.Dumping Height": "26.5 ft (8 m)",
+            "Maximum Reach at Ground Level": "39.6 in (99 cm)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "6.6 cu yds (5 m)"
+        },
+        "Capacities": {
+            "Fuel Tank": "301 gal (1,139 l)",
+            "Hydraulic system": "196 gal (742 l)",
+            "Urea tank": "48 gal (182 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Height - Top of Cab": "11.9 ft (3 m)",
+            "Undercarriage Width": "13.7 ft (4 m)",
+            "Wheelbase": "15.8 ft (5 m)"
+        },
+        "Electrical System": {
+            "Alternator": "three-phase current 28 V /140 A",
+            "Batteries": "2 x 180 Ah / 12 V V",
+            "Engine idling": "Sensor controlled",
+            "Voltage": "24V"
+        },
+        "Engine": {
+            "Air cleaner": "Dry-type",
+            "Bore": "5 in (13 cm)",
+            "Cooling system": "water-cooled",
+            "Displacement": "986 cu in (0 m)",
+            "Emission Tier Level": "Tier 4 Final",
+            "Engine Model": "D9508 A7 SCR",
+            "Horsepower, Net-ISO 9249": "449 hp (335 kw)",
+            "Horsepower, Net-SAE J1349": "443 hp (330 kw)",
+            "Max Torque": "2028 lbs/ft",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "6.2 in (15 cm)",
+            "Torque Measured @": "1100 rpm"
+        },
+        "Hydraulic System": {
+            "system pressure": "5076 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "177030 lbs (80,300 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "127692 lbs (57,921 kg)",
+            "Max Travel Speed": "2.2 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Track Rollers per Side": "8"
+        }
+    }
+}

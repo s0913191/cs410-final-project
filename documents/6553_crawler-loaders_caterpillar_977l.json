@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/caterpillar/977l/6553",
+    "source_url_id": "6553",
+    "source_url_model": "977l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:17.761370",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "977L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "10.6 ft (3 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Length to Front of Track": "13.3 ft (4 m)",
+            "Length with Bucket on Ground": "18.8 ft (5 m)",
+            "Reach at Dump Height": "4 ft (1 m)",
+            "Width to Outside of Tracks": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "640.8 cu in (0 m)",
+            "Engine Model": "3306",
+            "Net Power": "190 hp (142 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1950 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Lower Time": "3.4 sec",
+            "Raise Time": "7.8 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "19  A",
+            "Breakout Force  Bucket": "34160 lbs (15,495 kg)",
+            "Bucket Capacity - heaped": "2.8 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.4 cu yds (2 m)",
+            "Cooling System Fluid Capacity": "13 gal (49 l)",
+            "Engine Oil Capacity": "7.3 gal (27 l)",
+            "Final Drive Fluid Capacity - each": "6.8 gal (23 l)",
+            "Fuel Capacity": "102 gal (386 l)",
+            "Hydraulic System Fluid Capacity": "36.5 gal (136 l)",
+            "Max Speed": "7.1 mph (11 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "47641.9 lbs (21,610 kg)",
+            "Static Tipping Load": "31989.1 lbs (14,510 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3999.1 cu in (0 m)",
+            "Length of Track on Ground": "9.3 ft (3 m)",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "7",
+            "Track Gauge": "76 in (193 cm)",
+            "Track Shoe Width": "18 in (46 cm)"
+        }
+    }
+}

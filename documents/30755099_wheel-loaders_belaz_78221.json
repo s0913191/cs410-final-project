@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/belaz/78221/30755099",
+    "source_url_id": "30755099",
+    "source_url_model": "78221",
+    "source_url_make": "belaz",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:41:28.150766",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Belaz",
+    "equipment_model": "78221",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "74187 lbs (33,651 kg)",
+            "Bucket Capacity - heaped": "7.9 cu yds (5 m)",
+            "Bucket Width": "12.4 ft (4 m)",
+            "Dump Clearance at Max Raise": "13.3 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "13.3 ft (4 m)",
+            "Length with Bucket on Ground": "38.2 ft (12 m)",
+            "Reach at Max Lift and Dump": "7.3 ft (2 m)",
+            "Wheelbase": "13.2 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "4045TF250",
+            "Net Power": "489.5 hp (365 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "199.5 gal (753 l)",
+            "Operating Weight": "116845.1 lbs (53,001 kg)",
+            "Static Tipping Weight": "22046.3 lbs (10,000 kg)",
+            "Tire Size": "35/65-33"
+        },
+        "Transmission": {
+            "Transmission Type": "hydro mechanical countershaft"
+        }
+    }
+}

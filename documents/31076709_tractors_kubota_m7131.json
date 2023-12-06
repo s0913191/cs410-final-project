@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m7131/31076709",
+    "source_url_id": "31076709",
+    "source_url_model": "m7131",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:33.461823",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M7.131",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "128 hp (95 kw)"
+        },
+        "Production": {
+            "Series": "M7 Series",
+            "Years Manufactured": "2015 -"
+        }
+    }
+}

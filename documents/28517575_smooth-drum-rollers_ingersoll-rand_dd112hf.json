@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd112hf/28517575",
+    "source_url_id": "28517575",
+    "source_url_model": "dd112hf",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:36.924739",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD112HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "20.1 in (51 cm)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Overall Length": "19.7 in (48 cm)",
+            "Overall Width": "7.3 ft (2 m)",
+            "Wheelbase": "11.7 in (28 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "42070 lbs (19,083 kg)",
+            "Centrifugal Force - Low": "33090 lbs (15,010 kg)",
+            "Drum Diameter": "55.2 in (140 cm)",
+            "Drum Width": "78.8 in (198 cm)",
+            "Nominal Amplitude - High": "118.2 in (300 cm)",
+            "Nominal Amplitude - Low": "165.4 in (419 cm)",
+            "Vibration Frequency 1": "50 hz (3,000 vpm)",
+            "Vibration Frequency 2": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Model": "B3.9-C125",
+            "Gross Power": "125 hp (93 kw)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Weight": "27249.2 lbs (12,360 kg)"
+        }
+    }
+}

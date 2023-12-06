@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/eh600/30754685",
+    "source_url_id": "30754685",
+    "source_url_model": "eh600",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:38.382016",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EH600",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "1.6 ft (0 m)",
+            "Dump Height": "25.4 ft (8 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Overall Height": "11.9 ft (3 m)",
+            "Overall Length": "26.4 ft (8 m)",
+            "Overall Width": "12.3 ft (4 m)",
+            "Wheelbase": "12 ft (4 m)"
+        },
+        "Dump": {
+            "Dump Angle": "55  \t\u00b0",
+            "Load Capacity - heaped": "27.5 cu yds (21 m)",
+            "Load Capacity - Struck": "19.1 cu yds (15 m)",
+            "Lower Time": "12 sec",
+            "Raise Time": "12 sec",
+            "Rated Payload": "55  \t\u00b0"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged/Aftercooled",
+            "Displacement": "855 cu in (0 m)",
+            "Engine Model": "N14-C400",
+            "Gross Power": "400 hp (298 kw)",
+            "Net Power": "384 hp (286 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Rated Engine Speed": "29 rpm",
+            "Torque Measured @": "Turbocharged/Aftercooled rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Allison CLBT 754. Automatic planetary type transmission with built in retarder and 2nd gear start",
+            "Cooling System Fluid Capacity": "18.5 gal (68 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Fuel Capacity": "145 gal (549 l)",
+            "Hydraulic System Fluid Capacity": "29 gal (110 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "Michelin 18.00R25 E4"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "64000 gal (242,240 l)"
+        },
+        "Transmission": {
+            "Max Speed": "37.1 mph (60 kph)",
+            "Number of Gears - Forward": "5",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "Allison CLBT 754. Automatic planetary type transmission with built in retarder and 2nd gear start"
+        },
+        "Weights": {
+            "Empty Weight": "52450 lbs (23,791 kg)",
+            "Loaded Weight": "125467 lbs (56,912 kg)",
+            "Weight Distribution Front - empty": "50%",
+            "Weight Distribution Front - loaded": "32%",
+            "Weight Distribution Rear - empty": "50%",
+            "Weight Distribution Rear - loaded": "68%"
+        }
+    }
+}

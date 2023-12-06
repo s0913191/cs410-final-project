@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tj280/31084799",
+    "source_url_id": "31084799",
+    "source_url_model": "tj280",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:22.608497",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TJ280",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "280 hp (209 kw)"
+        },
+        "Production": {
+            "Series": "TJ II Series",
+            "Years Manufactured": "2006 - 2007"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/thd3300s-24/30757196",
+    "source_url_id": "30757196",
+    "source_url_model": "thd3300s-24",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:43:22.866382",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "THD3300S-24",
+    "equipment_spec": {
+        "Dimensions": {
+            "Aisle width": "20.8 ft (6 m)",
+            "Gradeability": "23%",
+            "Length to Fork Face": "15.5 ft (5 m)",
+            "Overall Height - mast lowered": "8.6 ft (2 m)",
+            "Overall Width": "8.6 ft (2 m)",
+            "Right Angle Stack": "17 ft (5 m)"
+        },
+        "MAST": {
+            "Lift Speed": "64.1 ft/min",
+            "Load Capacity": "33000 lbs (14,969 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "23 mph (37 kph)",
+            "PrimaryLocation": "outdoor"
+        }
+    }
+}

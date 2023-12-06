@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/ex600-6/30750308",
+    "source_url_id": "30750308",
+    "source_url_model": "ex600-6",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:00:40.136035",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EX600-6",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Max Cutting Height": "58.1 ft (18 m)",
+            "Max Dig Depth": "28.2 ft (9 m)",
+            "Max Dump Height": "38.1 ft (12 m)",
+            "Max Reach on Ground": "57.8 ft (17 m)",
+            "Max Vertical Wall Dig Depth": "13.4 ft (4 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "25.7 ft (8 m)",
+            "Length of Track on Ground": "21.9 ft (6 m)",
+            "Length of Tracks": "28.6 ft (9 m)",
+            "Upper Structure Ground Clearance": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "3661.5 cu in (0 m)",
+            "Engine Model": "QSKTA60-CE",
+            "Gross Power": "1944 hp (1,450 kw)",
+            "Net Power": "1944 hp (1,450 kw)"
+        },
+        "Loading Shovel": {
+            "Loading Shovel": "BE-Boom length 2570 millimeters, height 2350 millimeters, width 2570 millimeters / Arm length 5100 millimeters, height 2070 millimeters, width 2900 millimeters",
+            "Max Cutting Height": "53.5 ft (16 m)",
+            "Max Dig Depth": "12.9 ft (4 m)",
+            "Max Dig Reach": "50 ft (15 m)",
+            "Max Dump Height": "36.1 ft (11 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Cooling System Fluid Capacity": "162.3 gal (613 l)",
+            "Engine Oil Capacity": "144 gal (545 l)",
+            "Fuel Capacity": "1968.1 gal (7,449 l)",
+            "Hydraulic System Fluid Capacity": "1056.7 gal (3,997 l)",
+            "Operating Voltage": "24 V V",
+            "Swing Speed": "3.2 rpm"
+        },
+        "Undercarriage": {
+            "Backhoe Ground Pressure - Shoe 1": "27.3 psi",
+            "Backhoe Operating Weight - Shoe 1": "791459.6 lbs (359,003 kg)",
+            "Backhoe Shoe Width 1": "50 in (127 cm)",
+            "Loading Shovel Ground Pressure": "27.5 psi",
+            "Loading Shovel Operating Weight": "795868.9 lbs (361,003 kg)",
+            "Loading Shovel Shoe Width": "50 in (127 cm)",
+            "Max Travel Speed": "1.4 mph (2 kph)",
+            "Number of Lower Rollers": "8",
+            "Number of Track Shoes per Side": "38 Tracks per side",
+            "Number of Upper Rollers": "3 Upper rollers"
+        }
+    }
+}

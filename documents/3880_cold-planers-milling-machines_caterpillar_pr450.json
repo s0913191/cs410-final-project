@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/caterpillar/pr450/3880",
+    "source_url_id": "3880",
+    "source_url_model": "pr450",
+    "source_url_make": "caterpillar",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:51.852760",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "PR450",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Discharge Conveyor Width": "30 in (76 cm)"
+        },
+        "Dimensions": {
+            "Operating Length": "43.6 ft (13 m)",
+            "Shipping Height": "14 ft (4 m)",
+            "Shipping Width": "9.5 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "1098.5 cu in (0 m)",
+            "Engine Model": "3408",
+            "Gross Power": "450.6 hp (336 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "200.1 gal (757 l)",
+            "Operating Speed": "175.9 ft/min",
+            "Operating Weight - Full Load": "56791.1 lbs (25,760 kg)",
+            "Travel Speed": "2 mph (3 kph)",
+            "Water Spray System Fluid Capacity": "700.1 gal (2,650 l)"
+        },
+        "Rotary Cutter": {
+            "Cutting Depth": "10 in (25 cm)",
+            "Cutting Width": "6.3 ft (2 m)",
+            "Number of Tools": "144"
+        },
+        "Track": {
+            "Front Track Width": "12.1 in (30 cm)",
+            "Number of Track Units": "3",
+            "Rear Track Width": "12.1 in (30 cm)"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/caterpillar/931b/7006",
+    "source_url_id": "7006",
+    "source_url_model": "931b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:03.061709",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "931B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "8.1 ft (2 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Length to Front of Track": "9 ft (3 m)",
+            "Length with Bucket on Ground": "12.8 ft (4 m)",
+            "Reach at Dump Height": "2.6 ft (1 m)",
+            "Width to Outside of Tracks": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "317.4 cu in (0 m)",
+            "Engine Model": "3204",
+            "Net Power": "64.4 hp (48 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3.5 sec",
+            "Pump Flow Capacity": "23 gal/min (87 l/min)",
+            "Pump Type": "Single-section gear pump",
+            "Raise Time": "6.1 sec",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Breakout Force  Bucket": "11560 lbs (5,244 kg)",
+            "Bucket Capacity - heaped": "1.1 cu yds (1 m)",
+            "Bucket Capacity - struck": "0.9 cu yds (0 m)",
+            "Cooling System Fluid Capacity": "5.3 gal (19 l)",
+            "Engine Oil Capacity": "3.2 gal (11 l)",
+            "Final Drive Fluid Capacity - each": "2.2 gal (8 l)",
+            "Fuel Capacity": "30.7 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "20.1 gal (76 l)",
+            "Max Speed": "7.1 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15331 lbs (6,954 kg)",
+            "Static Tipping Load": "9083.1 lbs (4,120 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "1720.6 cu in (0 m)",
+            "Ground Pressure": "8.9 psi",
+            "Length of Track on Ground": "6 ft (2 m)",
+            "Number of Shoes per Side": "36",
+            "Number of Track Rollers per Side": "5",
+            "Track Gauge": "56 in (142 cm)",
+            "Track Shoe Width": "12.1 in (30 cm)"
+        }
+    }
+}

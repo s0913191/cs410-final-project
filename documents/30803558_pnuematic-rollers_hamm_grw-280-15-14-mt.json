@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/hamm/grw-280-15-14-mt/30803558",
+    "source_url_id": "30803558",
+    "source_url_model": "grw-280-15-14-mt",
+    "source_url_make": "hamm",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:28.532886",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "GRW 280-15 (14 mt)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "267 in (678 cm)"
+        },
+        "Drum": {
+            "Vibration Frequency": "0 hz (0 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "84 in (213 cm)"
+        }
+    }
+}

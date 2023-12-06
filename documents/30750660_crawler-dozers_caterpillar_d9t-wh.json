@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d9t-wh/30750660",
+    "source_url_id": "30750660",
+    "source_url_model": "d9t-wh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:45.955346",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D9T WH",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height - Top of Cab": "12.6 ft (4 m)",
+            "Length of Track on Ground": "11.4 ft (3 m)",
+            "Length w/ Blade": "21.8 ft (6 m)",
+            "Length w/o Blade": "16.2 ft (5 m)",
+            "Width Over Tracks": "9.4 ft in (23 cm)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C18 ACERT",
+            "Net Power": "410 hp (306 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "109180 lbs (49,524 kg)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank": "235 gal (889 l)"
+        },
+        "Standard Blade": {
+            "Capacity": "37.6 cu yds (28 m)",
+            "Width": "14.2 ft (4 m)"
+        },
+        "Standards": {
+            "FOPS": "SAE J/ISO3449 APR98 Level II, ISO 3449:1992 Level II",
+            "ROPS": "SAE J1040 MAY94, ISO 3471:1994"
+        },
+        "Transmission": {
+            "1 Forward": "2.4 mph (3 kph)",
+            "1 Reverse": "2.9 mph (3 kph)",
+            "2 Forward": "4.2 mph (6 kph)",
+            "2 Reverse": "5.2 mph (8 kph)",
+            "3 Forward": "7.3 mph (11 kph)",
+            "3 Reverse": "8.9 mph (13 kph)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "6569 cu in (0 m)",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "7.4 ft (2 m)"
+        }
+    }
+}

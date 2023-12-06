@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/kl31z/31076701",
+    "source_url_id": "31076701",
+    "source_url_model": "kl31z",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:28:26.975163",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "KL31Z",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "30 hp (22 kw)"
+        },
+        "Production": {
+            "Series": "KL Kingwel Zero Series",
+            "Years Manufactured": "2013 - 2015"
+        }
+    }
+}

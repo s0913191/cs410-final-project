@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/hyundai/hsl240t/30749470",
+    "source_url_id": "30749470",
+    "source_url_model": "hsl240t",
+    "source_url_make": "hyundai",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:12.317737",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HSL240T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "3.6 ft (1 m)",
+            "Ground Clearance": "7.5 in (18 cm)",
+            "Height - Top of Cab": "4.3 ft (1 m)",
+            "Length w/o Bucket": "5.1 ft (2 m)",
+            "Length with Bucket": "6.7 ft (2 m)",
+            "Reach at Max Lift and Dump": "10 in (25 cm)",
+            "Turning Radius from Center - inc bucket": "47.4 in (119 cm)",
+            "Turning Radius from Center - machine rear": "36.3 in (91 cm)",
+            "Wheelbase": "2.3 ft (1 m)",
+            "Width Over Tires": "3.6 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "CH25",
+            "Gross Power": "25 hp (19 kw)",
+            "Power Measured @": "3600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8.6 gal/min (30 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Operating Load Rating": "370 lbs (168 kg)",
+            "Tipping Angle": "1058.3  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "2.2 gal (8 l)",
+            "Hydraulic System Fluid Capacity": "11.6 gal (42 l)",
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operational Weight": "2200 lbs (998 kg)"
+        }
+    }
+}

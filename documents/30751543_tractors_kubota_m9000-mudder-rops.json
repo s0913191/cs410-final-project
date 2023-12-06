@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m9000-mudder-rops/30751543",
+    "source_url_id": "30751543",
+    "source_url_model": "m9000-mudder-rops",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:51.814388",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M9000 Mudder ROPS",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "inboard planetary"
+        },
+        "Dimensions": {
+            "Ground Clearance": "25.3 in (64 cm)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Overall Length": "13.4 in (33 cm)",
+            "Tire Size": "13.6-38R2",
+            "Wheelbase": "7.4 ft (2 m)",
+            "Width Outside Frame": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "E-TVCS indirect injection, liquid cooled",
+            "Displacement": "202 cu in (0 m)",
+            "Engine Model": "V3300-TIE",
+            "Net Power": "90 hp (67 kw)",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "80 hp (60 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "23.1 gal/min (87 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4629.8 lbs (2,100 kg)",
+            "3 Point Hitch Type": "Cat II",
+            "Cooling System Fluid Capacity": "2.4 gal (8 l)",
+            "Engine Oil Capacity": "2.9 gal (8 l)",
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "7140.8 lbs (3,239 kg)",
+            "Turning Radius": "13.8 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed": "16 mph (26 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "fully synchronized"
+        }
+    }
+}

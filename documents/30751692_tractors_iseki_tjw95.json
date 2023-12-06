@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/iseki/tjw95/30751692",
+    "source_url_id": "30751692",
+    "source_url_model": "tjw95",
+    "source_url_make": "iseki",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:50.928095",
+    "equipment_category": "Tractors",
+    "equipment_make": "Iseki",
+    "equipment_model": "TJW95",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18 in (46 cm)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Overall Length": "13.7 in (33 cm)",
+            "Tire Size": "Front 9.5R24, Rear 13R38",
+            "Wheelbase": "7.9 ft (2 m)",
+            "Width Outside Frame": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Waist Gate",
+            "Displacement": "268.4 cu in (0 m)",
+            "Engine Model": "RG Turbo",
+            "Net Power": "99.3 hp (74 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.5 gal/min (64 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Operating Weight": "8476.8 lbs (3,845 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "21 mph (34 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24"
+        }
+    }
+}

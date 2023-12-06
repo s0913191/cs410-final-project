@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/9560-sts/30752498",
+    "source_url_id": "30752498",
+    "source_url_model": "9560-sts",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:31.753173",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "9560 STS",
+    "equipment_spec": {
+        "Capacities": {
+            "Crankcase oil volume": "7.8 gal (27 l)"
+        },
+        "Dimensions": {
+            "Turning Radius": "24.3 ft (7 m)"
+        },
+        "Electrical System": {
+            "Alternator": "95 Amp",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Displacement": "494.3 cu in (0 m)",
+            "Engine Make": "John Deere",
+            "Engine Model": "6081HH",
+            "Number of Cylinders": "6",
+            "Power": "265.6 hp (198 kw)",
+            "Power Boost Power": "284.3 hp (212 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "220 bu",
+            "Unloading Speed": "2.2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Fuel Capacity": "200 gal (757 l)",
+            "Hydraulic System Fluid Capacity": "9 gal (34 l)",
+            "Number of Gears": "3",
+            "Transmission Fluid Capacity": "2.6 gal (8 l)"
+        }
+    }
+}

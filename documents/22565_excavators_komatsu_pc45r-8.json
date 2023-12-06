@@ -1,0 +1,76 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc45r-8/22565",
+    "source_url_id": "22565",
+    "source_url_model": "pc45r-8",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:03.237177",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC45R-8",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "18.9 ft (5 m)",
+            "Max Digging Depth": "11.6 ft (3 m)",
+            "Max Loading Height": "13.8 ft (4 m)",
+            "Max Reach Along Ground": "19.1 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "8.6 ft (2 m)",
+            "Shipping Height of Unit": "8.4 ft (2 m)",
+            "Shipping Length of Unit": "18 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "19.6 ft (6 m)",
+            "Max Digging Depth": "12.8 ft (4 m)",
+            "Max Loading Height": "14.5 ft (4 m)",
+            "Max Reach Along Ground": "20.3 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "9.4 ft (3 m)",
+            "Shipping Height of Unit": "8.4 ft (2 m)",
+            "Shipping Length of Unit": "18 ft (5 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.3 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.3 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Removal Counterweight Clearance": "2.1 ft (1 m)",
+            "Tail Swing Radius": "4.9 ft (1 m)",
+            "Width to Outside of Tracks": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "121.8 cu in (0 m)",
+            "Engine Model": "4D84E-3FA",
+            "Gross Power": "44.1 hp (33 kw)",
+            "Max Torque": "87.1 lbs/ft",
+            "Net Power": "38.8 hp (28 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "2 gal (8 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "13.7 gal (49 l)",
+            "Hydraulic Pump Flow Capacity": "34.3 gal/min (129 l/min)",
+            "Hydraulic System Fluid Capacity": "8.8 gal (30 l)",
+            "Hydraulic System Relief Valve Pressure": "3626 psi",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "10472 lbs (4,750 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.2 psi",
+            "Max Travel Speed": "2.9 mph (3 kph)",
+            "Number of Shoes per Side": "38",
+            "Number of Track Rollers per Side": "5",
+            "Shoe Size": "15.8 in (38 cm)",
+            "Track Gauge": "5 ft (2 m)"
+        }
+    }
+}

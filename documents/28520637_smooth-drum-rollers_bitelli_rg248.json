@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bitelli/rg248/28520637",
+    "source_url_id": "28520637",
+    "source_url_model": "rg248",
+    "source_url_make": "bitelli",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:50.658037",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bitelli",
+    "equipment_model": "RG248",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of ROPS/FOPS": "10.8 ft (3 m)",
+            "Overall Length": "14.9 in (36 cm)",
+            "Overall Width": "7 ft (2 m)",
+            "Wheelbase": "11.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Engine Model": "F6L 912",
+            "Net Power": "112 hp (84 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Max Speed": "12.5 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Water Spray Tank Fluid Capacity": "277.4 gal (1,048 l)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "4",
+            "Number of Tires - Rear": "4",
+            "Oscillation Angle": "6  \t\u00b0",
+            "Standard Tire Size": "11.00x20",
+            "Wheel Track/Tire Overlap": "11.9 in (28 cm)"
+        },
+        "Weights": {
+            "Average Weight per Wheel - Max Ballast": "6613.9 lbs (3,000 kg)",
+            "Average Weight per Wheel - Standard": "2411.9 lbs (1,094 kg)",
+            "Operating Weight - max ballast": "52911 lbs (24,000 kg)",
+            "Operating Weight - standard": "19290.5 lbs (8,750 kg)"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ha46-rtj-o/30758233",
+    "source_url_id": "30758233",
+    "source_url_model": "ha46-rtj-o",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:18.655500",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HA46 RTJ O",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "40%",
+            "Ground Clearance": "15 in (38 cm)",
+            "Overall Length": "266.4 in (676 cm)",
+            "Overall Width": "7.7 ft (2 m)",
+            "Tailswing Radius": "0.4 ft (0 m)",
+            "Tilt alarm": "5  \t\u00b0",
+            "Track Width": "85.2 in (216 cm)",
+            "Transport length": "200.4 in (508 cm)",
+            "Turning Radius - Outside": "14.9 ft (4 m)",
+            "Turntable rotation": "355  \t\u00b0",
+            "Up and Over Height": "25.1 ft (8 m)",
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Kubota",
+            "Gross Power": "25 hp (19 kw)",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operating Weight": "14222 lbs (6,451 kg)",
+            "Tire Size": "850x340"
+        },
+        "Platform": {
+            "Jib Range of Motion - Vertical": "140  \t\u00b0",
+            "Max Horizontal Reach": "27.3 ft (8 m)",
+            "Max Platform Height": "45.2 ft (14 m)",
+            "Max Platform Weight Capacity": "500 lbs (227 kg)",
+            "Max Working Height": "55.2 ft (17 m)",
+            "Platform Inner Length": "95 in (241 cm)",
+            "Platform Inner Width": "34.5 in (86 cm)",
+            "Platform Rotation": "165  \t\u00b0"
+        }
+    }
+}

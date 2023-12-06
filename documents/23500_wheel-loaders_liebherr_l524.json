@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l524/23500",
+    "source_url_id": "23500",
+    "source_url_model": "l524",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:45.761707",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L524",
+    "equipment_spec": {
+        "Bucket": {
+            "Arm length": "8.2 ft (2 m)",
+            "Breakout Force": "18210 lbs (8,260 kg)",
+            "Bucket Capacity - heaped": "2.4 cu yds (2 m)",
+            "Bucket Width": "8.2 ft (2 m)",
+            "Digging depth": "2 ft (1 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Hinge Pin - Max Height": "12.7 ft (4 m)",
+            "Length with Bucket on Ground": "23.5 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.5 ft (1 m)",
+            "Wheelbase": "9.4 ft (3 m)"
+        },
+        "Electrical System": {
+            "Alternator": "24/100 (V/A)",
+            "Battery": "2 x 135 Ah",
+            "Starter": "24/10.5 (V/HP)",
+            "Voltage": "24 V"
+        },
+        "Engine": {
+            "Air cleaner": "Dry air filter with main and safety element, pre-cleaner, service indicator on the display",
+            "Aspiration": "Inline engine, water-cooled, turbo-charged",
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "275 cu in (0 m)",
+            "Engine Model": "4045HFL92",
+            "Fuel injection": "Electronic Common Rail high-pressure injection",
+            "Gross Power": "121 hp (90 kw)",
+            "Max Torque": "354 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2 sec",
+            "Lower Time": "5 sec",
+            "Pump Flow Capacity": "27 gal/min (102 l/min)",
+            "Pump Type": "Load-Sensing, variable axial piston pump with output control and pressure cutoff",
+            "Raise Time": "6.5 sec",
+            "Relief Valve Setting": "4351.2 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "10 gal (38 l)",
+            "Engine Oil Fluid Capacity": "3.9 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "54.2 gal (204 l)",
+            "Hydraulic Fluid Capacity": "29 gal (110 l)",
+            "Hydraulic System Fluid Capacity": "44.9 gal (167 l)",
+            "Operating Weight": "22930 lbs (10,401 kg)",
+            "Rear Axle Oscillation": "12  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "4 gal (15 l)",
+            "Static Tipping Weight": "16535 lbs (7,500 kg)",
+            "Tire Size": "17.5R25 L3",
+            "Transmission Fluid Capacity": "1 gal (4 l)",
+            "Turning Radius": "19 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "20.6 mph (32 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Stepless hydrostatic travel drive"
+        }
+    }
+}

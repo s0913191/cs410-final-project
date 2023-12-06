@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/3650/41193",
+    "source_url_id": "41193",
+    "source_url_model": "3650",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:35.191825",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "3650",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "7.4 ft (2 m)",
+            "Overall Length": "156.9 in (396 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Wheelbase": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Gross Power": "94 hp (70 kw)",
+            "Max Torque": "287.7 lbs/ft",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum Operating Pressure": "2755.8 psi",
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "16.4 gal/min (61 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5511.6 lbs (2,500 kg)",
+            "Fuel Capacity": "17 gal (64 l)",
+            "Operating Weight": "6117.9 lbs (2,775 kg)"
+        },
+        "Production": {
+            "Series": "3600 Series",
+            "Years Manufactured": "1987 - 1990"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)"
+        }
+    }
+}

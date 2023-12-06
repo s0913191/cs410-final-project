@@ -1,0 +1,82 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/312e/3429",
+    "source_url_id": "3429",
+    "source_url_model": "312e",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:35.365387",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "312E",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "19.8 ft (6 m)",
+            "Max Reach Along Ground": "28.3 ft (9 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Removal Counterweight Clearance": "3 ft (1 m)",
+            "Tail Swing Radius": "7.1 ft (2 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Drawbar Pull": "25628 lbs (11,625 kg)"
+        },
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "269 cu in (0 m)",
+            "Engine Model": "Cat C4.4 ACERT",
+            "Flywheel Power": "91 hp (68 kw)",
+            "Gross Power": "95 hp (71 kw)",
+            "Gross Power - SAE J1995": "95 hp (71 kw)",
+            "Net Power": "91 hp (68 kw)",
+            "Net Power - SAE J1349": "91 hp (68 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Boom Cylinder - Bore": "4 in (10 cm)",
+            "Boom Cylinder - Stroke": "40 in (102 cm)",
+            "Bucket Cylinder - Bore": "4 in (10 cm)",
+            "Bucket Cylinder - Stroke": "37 in (94 cm)",
+            "Maximum Pressure - Equipment": "4424 psi",
+            "Maximum Pressure - Swing": "3336 psi",
+            "Maximum Pressure - Travel": "5076 psi",
+            "Stick Cylinder - Bore": "5 in (13 cm)",
+            "Stick Cylinder - Stroke": "47 in (119 cm)",
+            "Swing System - Maximum Flow": "34 gal/min"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Engine Oil Capacity": "3.6 gal (11 l)",
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Hydraulic System Fluid Capacity": "43.4 gal (163 l)",
+            "Operating Weight": "29770 lbs (13,504 kg)",
+            "Swing Drive Fluid Capacity": "0.7 gal (0 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "5.9 gal (19 l)",
+            "Final Drive - Each": "0.8 gal (0 l)",
+            "Fuel Tank Capacity": "66.1 gal (250 l)",
+            "Hydraulic System - Including Tank": "43.4 gal (163 l)",
+            "Hydraulic Tank": "24 gal (91 l)",
+            "Swing Drive": "0.7 gal (0 l)"
+        },
+        "Standards": {
+            "Brakes": "ISO 10265 2008"
+        },
+        "Track": {
+            "Number of Carrier Rollers - Each Side - Long Undercarriage": "2 pieces",
+            "Number of Shoes - Each Side - Long Undercarriage": "46 pieces",
+            "Number of Track Rollers - Each Side - Long Undercarriage": "7 pieces"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "25628 lbs (11,625 kg)",
+            "Max Travel Speed": "3.4 mph (5 kph)"
+        },
+        "Weights": {
+            "Maximum Operating Weight": "33080 lbs (15,005 kg)",
+            "Minimum Operating Weight": "29770 lbs (13,504 kg)",
+            "Operating Weight": "33080 lbs (15,005 kg)"
+        }
+    }
+}

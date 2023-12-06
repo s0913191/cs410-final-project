@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl760-7/15213",
+    "source_url_id": "15213",
+    "source_url_model": "hl760-7",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:19.574743",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL760-7",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "35857.1 lbs (16,265 kg)",
+            "Bucket Capacity - heaped": "4.2 cu yds (3 m)",
+            "Bucket Width": "9.6 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "1.2 ft (0 m)",
+            "Length with Bucket on Ground": "26.5 ft (8 m)",
+            "Reach at Max Lift and Dump": "5.7 ft (2 m)",
+            "Wheelbase": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB5.9-C",
+            "Gross Power": "215 hp (160 kw)",
+            "Net Power": "205.2 hp (153 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "40785.6 lbs (18,500 kg)",
+            "Static Tipping Weight": "30512 lbs (13,840 kg)",
+            "Tire Size": "23.5-25 L5"
+        },
+        "Transmission": {
+            "Transmission Type": "full automatic powershift torque converter"
+        }
+    }
+}

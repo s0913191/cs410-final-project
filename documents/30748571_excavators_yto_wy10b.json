@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/yto/wy10b/30748571",
+    "source_url_id": "30748571",
+    "source_url_model": "wy10b",
+    "source_url_make": "yto",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:58.063247",
+    "equipment_category": "Excavators",
+    "equipment_make": "YTO",
+    "equipment_model": "WY10B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "18.5 ft (5 m)",
+            "Max Digging Depth": "13.6 ft (4 m)",
+            "Max Loading Height": "13.2 ft (4 m)",
+            "Shipping Length of Unit": "22.2 ft (7 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.6 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Length of Track on Ground": "8.6 ft (2 m)",
+            "Removal Counterweight Clearance": "3.1 ft (1 m)",
+            "Tail Swing Radius": "6.4 ft (2 m)",
+            "Width to Outside of Tracks": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Model": "LR4105ZG56",
+            "Net Power": "80.5 hp (60 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic System Relief Valve Pressure": "4061.1 psi",
+            "Operating Weight": "23810 lbs (10,800 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "7.8 mph (11 kph)",
+            "Shoe Size": "19.7 in (48 cm)",
+            "Track Gauge": "6.3 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/777g/553413",
+    "source_url_id": "553413",
+    "source_url_model": "777g",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:41.897226",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "777G",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "2WD"
+        },
+        "Dump": {
+            "Rated Payload": "95.2 t (86,183 kg)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C32 ACERT"
+        },
+        "Weights": {
+            "Operating Weight": "401955 lbs (182,326 kg)"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-7m-dd-lt/30760474",
+    "source_url_id": "30760474",
+    "source_url_model": "td-7m-dd-lt",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:30.904368",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-7M DD LT",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "B4.5",
+            "Net Power": "74 hp (55 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16970 lbs (7,698 kg)"
+        }
+    }
+}

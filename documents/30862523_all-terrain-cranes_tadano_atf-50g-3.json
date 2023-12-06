@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/tadano/atf-50g-3/30862523",
+    "source_url_id": "30862523",
+    "source_url_model": "atf-50g-3",
+    "source_url_make": "tadano",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:04.600556",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "ATF-50G-3",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "83  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "141.1 ft (43 m)",
+            "Max Lift Capacity": "110000 lbs (49,896 kg)",
+            "Max Working Radius": "118.1 ft (36 m)",
+            "Min Height @ Max Raise Angle": "42 ft (13 m)",
+            "Min Working Radius": "8.2 ft (2 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2.2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "439.4 cu in (0 m)",
+            "Gross Power": "326 hp (243 kw)",
+            "Make": "Tadano",
+            "Max Torque": "958.9 lbs/ft",
+            "Model": "OM 926 LA",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "30.9 ft (9 m)",
+            "Transport Height": "12.3 ft (4 m)",
+            "Transport Length": "37.4 ft (11 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.4 ft (3 m)",
+            "Width w/ Outriggers Extended": "20.7 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Carrier Fuel Capacity": "92.5 gal (348 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "79370 lbs (36,002 kg)",
+            "Tire Size": "14.00R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "52.2 mph (84 kph)",
+            "Max Speed - Reverse": "4.3 mph (6 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "full automatic"
+        }
+    }
+}

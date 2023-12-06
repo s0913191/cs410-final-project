@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/dynapac/f9w/30753723",
+    "source_url_id": "30753723",
+    "source_url_model": "f9w",
+    "source_url_make": "dynapac",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:12.362851",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "F9W",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "17.8 ft (5 m)",
+            "Transport Height": "11 ft (3 m)",
+            "Transport Width": "6.6 ft (2 m)",
+            "Width w/ Hopper Open": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "BF 4M 202C",
+            "Gross Power": "104.6 hp (78 kw)"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "12.3 in (30 cm)",
+            "Hopper Capacity": "5.3 lbs (2 kg)",
+            "Paving Speed - max": "114.9 ft/min",
+            "Paving Thickness - max": "10.7 in (25 cm)",
+            "Paving Width - max": "17.4 ft (5 m)",
+            "Travel Speed - max": "12.5 mph (19 kph)"
+        },
+        "Operating Specifications": {
+            "Operating Weight w/ Screed": "27000 lbs (12,247 kg)"
+        }
+    }
+}

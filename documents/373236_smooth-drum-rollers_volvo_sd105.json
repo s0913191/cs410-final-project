@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/sd105/373236",
+    "source_url_id": "373236",
+    "source_url_model": "sd105",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:29.922285",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "SD105",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "136.3 in (345 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "31 - 34 hz (1,860 - 2,040 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB 4.5"
+        },
+        "Operating Specifications": {
+            "Operating Width": "90 in (229 cm)"
+        }
+    }
+}

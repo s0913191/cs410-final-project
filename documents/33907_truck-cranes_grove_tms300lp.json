@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tms300lp/33907",
+    "source_url_id": "33907",
+    "source_url_model": "tms300lp",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:39.140107",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TMS300LP",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "136 ft (41 m)",
+            "Max Lift Capacity": "70000 lbs (31,752 kg)",
+            "Max Working Radius": "100 ft (30 m)",
+            "Min Height @ Max Raise Angle": "34 ft (10 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2.6 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "426 cu in (0 m)",
+            "Make": "Grove",
+            "Max Torque": "582 lbs/ft",
+            "Model": "6-71N",
+            "Net Power": "213 hp (159 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "35.2 ft (11 m)",
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Transport Height": "10.7 ft (3 m)",
+            "Transport Length": "42 ft (13 m)",
+            "Transport Width": "8.1 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10.5 ft (3 m)",
+            "Wheelbase": "18.7 ft (5 m)",
+            "Width w/ Outriggers Extended": "18.1 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "62  A",
+            "Carrier Fuel Capacity": "90 gal (341 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "60984 lbs (27,662 kg)",
+            "Tire Size": "front 12.00x20 rear 11.00x20",
+            "Upper Structure Hydraulic System Fluid Capacity": "127 gal (481 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "51.2 mph (82 kph)",
+            "Number of Forward Gears": "13",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Fuller Roadranger RTO613"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Grove"
+        }
+    }
+}

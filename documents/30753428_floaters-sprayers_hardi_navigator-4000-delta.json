@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/hardi/navigator-4000-delta/30753428",
+    "source_url_id": "30753428",
+    "source_url_model": "navigator-4000-delta",
+    "source_url_make": "hardi",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:36.527187",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Hardi",
+    "equipment_model": "Navigator 4000 DELTA",
+    "equipment_spec": {
+        "Boom": {
+            "Max Boom Width": "91.9 ft (28 m)",
+            "Min Boom Width": "59.1 ft (18 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.7 ft (1 m)",
+            "Overall Length": "23.7 in (58 cm)",
+            "Transport Height": "12.5 ft (4 m)",
+            "Transport Width": "8.4 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "7672.1 lbs (3,480 kg)",
+            "Hand/Eye Wash Tank Capacity": "5.3 gal (19 l)",
+            "Rinse Tank Capacity": "132.1 gal (500 l)"
+        }
+    }
+}

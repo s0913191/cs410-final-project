@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/85za/30025837",
+    "source_url_id": "30025837",
+    "source_url_model": "85za",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:39.924259",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "85ZA",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "4172.5 lbs (1,892 kg)",
+            "Bucket Capacity - heaped": "5 cu yds (4 m)",
+            "Bucket Capacity - struck": "4.4 cu yds (3 m)",
+            "Dump Clearance at Max Raise": "9.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Length with Bucket on Ground": "26.3 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.8 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "diesel w/ turbo",
+            "Displacement": "712.2 cu in (0 m)",
+            "Engine Model": "PE6T34",
+            "Net Power": "216 hp (161 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3.5 sec",
+            "Raise Time": "6.3 sec"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "43651.6 lbs (19,800 kg)",
+            "Tire Size": "26.5-25-20PR(L3)",
+            "Turning Radius": "21.9 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.2 mph (34 kph)",
+            "Max Speed - Reverse": "21.6 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

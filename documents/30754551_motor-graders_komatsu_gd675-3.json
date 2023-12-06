@@ -1,0 +1,101 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/komatsu/gd675-3/30754551",
+    "source_url_id": "30754551",
+    "source_url_model": "gd675-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:35.270163",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "GD675-3",
+    "equipment_spec": {
+        "Blades": {
+            "Maximum Shoulder Reach Outside of Tires - Left": "79 in (201 cm)",
+            "Maximum Shoulder Reach Outside of Tires - Right": "79 in (201 cm)",
+            "Moldboard Sideshift - Left": "25 in (64 cm)",
+            "Moldboard Sideshift - Right": "25 in (64 cm)"
+        },
+        "Circle": {
+            "Blade Tip Angle - Front": "40  \t\u00b0",
+            "Blade Tip Angle - Rear": "5  \t\u00b0",
+            "Diameter": "60.3 in (152 cm)",
+            "Max Lift Above Ground": "19.9 in (48 cm)",
+            "Max Reach Outside Tires - Left": "78.8 in (198 cm)",
+            "Max Reach Outside Tires - Right": "78.8 in (198 cm)",
+            "Rotation": "360  \t\u00b0",
+            "Shift Left": "24.7 in (61 cm)",
+            "Shift Right": "24.7 in (61 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "835 ft (255 m)",
+            "Height to Top of Isomount Cab": "10.3 ft (3 m)",
+            "Overall Length": "32.4 ft (10 m)",
+            "Tandem Axle Wheelbase": "5.1 ft (2 m)",
+            "Wheelbase": "20 ft (6 m)",
+            "Width Over Tires": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and air-to-air aftercooled",
+            "Base Power (1st Gear) - Net": "180 hp (134 kw)",
+            "Displacement": "504.7 cu in (0 m)",
+            "Engine Model": "SAA6D114E-3",
+            "Max Power": "199.9 hp (148 kw)",
+            "Net Power Gear 1-2": "179.7 hp (133 kw)",
+            "Net Power Gear 4-6": "199.9 hp (148 kw)",
+            "Net Power Gear 5-6": "199.9 hp (148 kw)",
+            "Net Power Gears 7-8": "199.9 hp (148 kw)",
+            "Net Torque Gears 1-2": "612.2 lbs/ft",
+            "Net Torque Gears 3-4": "719.2 lbs/ft",
+            "Net Torque Gears 5-6": "719.2 lbs/ft",
+            "Net Torque Gears 7-8": "719.2 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2.7 ft (1 m)",
+            "Oscillation - Total": "32  \t\u00b0",
+            "Wheel Lean": "20  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "51 gal/min (193 l/min)",
+            "Pump Type": "load-sensing closed center hydraulics",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Moldboard": {
+            "Max Depth of Cut": "32.1 in (81 cm)",
+            "Moldboard Height": "26 in (66 cm)",
+            "Moldboard Length": "12 ft (4 m)",
+            "Moldboard Thickness": "1 in (3 cm)",
+            "Moldboard Width": "12 ft (4 m)",
+            "Side Shift Left": "32.3 in (81 cm)",
+            "Side Shift Right": "32.3 in (81 cm)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Circle Gearbox Fluid Capacity": "1.4 gal (4 l)",
+            "Cooling System Fluid Capacity": "10.5 gal (38 l)",
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Hydraulic System Fluid Capacity": "11.9 gal (42 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "38705 lbs (17,557 kg)",
+            "Std Operation Weight - Front Axle": "9479.9 lbs (4,300 kg)",
+            "Std Operation Weight - Rear Axle": "25375.3 lbs (11,510 kg)",
+            "Std Operation Weight - Total": "34855.1 lbs (15,810 kg)",
+            "Tandem Case Fluid Capacity (each)": "22 gal (83 l)",
+            "Tire Size": "low pressure, tubeless, 17.5R25",
+            "Transmission Fluid Capacity": "11.9 gal (42 l)"
+        },
+        "Steering System": {
+            "Articulation Angle": "23  \t\u00b0",
+            "Turning Radius": "2 ft (1 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "26.3 mph (42 kph)",
+            "Max Speed - Reverse": "23.8 mph (37 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "4",
+            "Transmission Type": "Full power shift transmission"
+        }
+    }
+}

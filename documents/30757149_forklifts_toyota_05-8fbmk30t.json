@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/05-8fbmk30t/30757149",
+    "source_url_id": "30757149",
+    "source_url_model": "05-8fbmk30t",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:41:33.960466",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "05-8FBMK30T",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Mechanical",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Gradeability": "29%",
+            "Ground Clearance": "3.8 in (8 cm)",
+            "Height to Top of Overhead Guard": "7.3 ft (2 m)",
+            "Length to Fork Face": "8.1 ft (2 m)",
+            "Max Fork Height": "11 ft (3 m)",
+            "Overall Height - mast lowered": "7.9 ft (2 m)",
+            "Overall Width": "4 ft (1 m)",
+            "Right Angle Stack": "8.6 ft (2 m)",
+            "Turning Radius": "7.1 ft (2 m)",
+            "Wheelbase": "5.7 ft (2 m)"
+        },
+        "Electrical System": {
+            "Battery capacity": "700 Ah",
+            "Control  Load Handling": "Transistor Inverter",
+            "Control  Power Steering": "Transistor Inverter",
+            "Control Drive": "Transistor Inverter",
+            "Motor Drive": "26.8 hp (19 kw)",
+            "Motor Load Handling (hydraulic)": "34.2 hp (25 kw)",
+            "Voltage": "80 V"
+        },
+        "Engine": {
+            "Engine Make": "TOYOTA"
+        },
+        "Hydraulic System": {
+            "Main pump flow standard": "10.6 gal/min (38 l/min)",
+            "Maximum operating pressure": "2321 psi"
+        },
+        "MAST": {
+            "Lift Speed": "74.9 ft/min",
+            "Load Capacity": "6000 lbs (2,722 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "110.3 ft/min",
+            "Mast Tip Forward": "4.5  \t\u00b0",
+            "Mast Tip Rear": "8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Drawbar Pull": "41887.9 lbs (19,000 kg)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "15483.1 lbs (7,023 kg)",
+            "Tire Type": "Solid Pneumatic"
+        },
+        "Tires": {
+            "Standard_Option_Front": "23 x 10 \u00c3\u00a2\u00e2?\u00ac\u00e2?? 12",
+            "Standard_Rear": "18 x 7 \u00c3\u00a2\u00e2?\u00ac\u00e2?? 8"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "11.8 mph (18 kph)",
+            "Max Speed - Reverse": "12.4 mph (19 kph)"
+        }
+    }
+}

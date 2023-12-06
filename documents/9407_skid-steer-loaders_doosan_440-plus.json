@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/doosan/440-plus/9407",
+    "source_url_id": "9407",
+    "source_url_model": "440-plus",
+    "source_url_make": "doosan",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:40.221321",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "440 Plus",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.3 ft (2 m)",
+            "Ground Clearance": "7.5 in (18 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length w/o Bucket": "8.3 ft (2 m)",
+            "Length with Bucket": "10.6 ft (3 m)",
+            "Reach at Max Lift and Dump": "25.4 in (64 cm)",
+            "Turning Radius from Center - inc bucket": "75.1 in (191 cm)",
+            "Turning Radius from Center - machine rear": "63.3 in (160 cm)",
+            "Wheelbase": "3.6 ft (1 m)",
+            "Width Over Tires": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "139.8 cu in (0 m)",
+            "Engine Model": "A2300",
+            "Gross Power": "47 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15.8 gal/min (57 l/min)",
+            "Pump Type": "gear type",
+            "Relief Valve Pressure": "3001.5 psi"
+        },
+        "Loader": {
+            "Breakout Force": "2910 psi",
+            "Operating Load Rating": "1973 lbs (895 kg)",
+            "Tipping Angle": "3946  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "14.3 gal (53 l)",
+            "Max Speed": "7.3 mph (11 kph)",
+            "Operational Weight": "6133 lbs (2,782 kg)",
+            "Tire Size": "10-16.5-8PR"
+        }
+    }
+}

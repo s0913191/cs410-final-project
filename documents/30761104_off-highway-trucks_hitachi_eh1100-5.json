@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/eh1100-5/30761104",
+    "source_url_id": "30761104",
+    "source_url_model": "eh1100-5",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:29.045195",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EH1100-5",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "RWD"
+        },
+        "Dump": {
+            "Rated Payload": "77 t (69,853 kg)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSK23"
+        },
+        "Weights": {
+            "Operating Weight": "240194 lbs (108,951 kg)"
+        }
+    }
+}

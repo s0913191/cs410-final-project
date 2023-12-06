@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/kobelco/ck1600g-2/30091152",
+    "source_url_id": "30091152",
+    "source_url_model": "ck1600g-2",
+    "source_url_make": "kobelco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:37.011714",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Kobelco",
+    "equipment_model": "CK1600G-2",
+    "equipment_spec": {
+        "Boom": {
+            "Basic jib length": "98.5 ft (30 m)",
+            "Boom base section": "25 ft (8 m)",
+            "Boom Length": "40 ft (12 m)",
+            "Boom tip section": "25 ft (8 m)",
+            "Jib base section": "15.1 ft (5 m)",
+            "Jib tip section": "15.1 ft (5 m)"
+        },
+        "Dimensions": {
+            "Center to center - idler to sprocket": "4.7 ft (1 m)",
+            "Counterweight Clearance": "4.5 ft (1 m)",
+            "Gradeability": "40%",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Overall length of crawler": "25.2 ft (8 m)",
+            "Overall width": "21.9 ft (6 m)",
+            "Shoe width": "48 ft (15 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type with replaceable paper element",
+            "Alternator": "80 A",
+            "Bore": "4.9 in (10 cm)",
+            "Displacement": "469 cu in (0 m)",
+            "Emission Tier Level": "Tire 4 Final",
+            "Engine Model": "P11C-VN",
+            "Fuel Filter": "Replaceable element",
+            "Gross Power": "365 hp (272 kw)",
+            "Max Torque": "1084.3 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Starter": "8.1 hp (6 kw)",
+            "Stroke": "6 in (15 cm)",
+            "Torque Measured @": "1400 rpm"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/case/1102d/30754165",
+    "source_url_id": "30754165",
+    "source_url_model": "1102d",
+    "source_url_make": "case",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:27.964940",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Case",
+    "equipment_model": "1102D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "21 in (53 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "204.8 in (518 cm)",
+            "Overall Width": "7.6 ft (2 m)",
+            "Wheelbase": "111.9 in (282 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "3942923.8 lbs (1,788,498 kg)",
+            "Drum thickness": "1 in (3 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)"
+        },
+        "Engine": {
+            "Displacement": "345 cu in (0 m)",
+            "Engine Make": "Duetz",
+            "Engine Model": "F 6 L 912",
+            "Net Power": "119 hp (89 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "74 gal (280 l)",
+            "Hydraulic System Fluid Capacity": "18.5 gal (68 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "24471.4 lbs (11,100 kg)"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/w180-1/30755324",
+    "source_url_id": "30755324",
+    "source_url_model": "w180-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:57.582491",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "W180-1",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "26060 lbs (11,821 kg)",
+            "Bucket Capacity - heaped": "5.3 cu yds (4 m)",
+            "Bucket Width": "10.9 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "12 ft (4 m)",
+            "Hinge Pin - Max Height": "14 ft (4 m)",
+            "Length with Bucket on Ground": "27.8 ft (8 m)",
+            "Reach at Max Lift and Dump": "4.3 ft (1 m)",
+            "Wheelbase": "11.7 ft (3 m)",
+            "Width Over Tires": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "854 cu in (0 m)",
+            "Engine Model": "Cummins NT855",
+            "Gross Power": "280 hp (209 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "22.8 gal (83 l)",
+            "Fuel Capacity": "113.6 gal (428 l)",
+            "Operating Weight": "52646.4 lbs (23,880 kg)",
+            "Rear Axle Oscillation": "30  \t\u00b0",
+            "Static Tipping Weight": "42549.3 lbs (19,300 kg)",
+            "Tire Size": "29.5-25-22PR (L-3)",
+            "Turning Radius": "25.9 ft (8 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.2 mph (32 kph)",
+            "Max Speed - Reverse": "20.2 mph (32 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TORQFLOW countershaft full soft-shift"
+        }
+    }
+}

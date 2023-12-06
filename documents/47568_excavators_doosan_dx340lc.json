@@ -1,0 +1,84 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx340lc/47568",
+    "source_url_id": "47568",
+    "source_url_model": "dx340lc",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:46.497078",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX340LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "32.8 ft (10 m)",
+            "Max Digging Depth": "22.8 ft (7 m)",
+            "Max Loading Height": "22.6 ft (7 m)",
+            "Max Reach Along Ground": "34.1 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "16.9 ft (5 m)",
+            "Shipping Height of Unit": "11.8 ft (3 m)",
+            "Shipping Length of Unit": "37.4 ft (11 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "34 ft (10 m)",
+            "Max Digging Depth": "24.8 ft (7 m)",
+            "Max Loading Height": "23.7 ft (7 m)",
+            "Max Reach Along Ground": "36.1 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "19.5 ft (6 m)",
+            "Shipping Height of Unit": "11.1 ft (3 m)",
+            "Shipping Length of Unit": "37.1 ft (11 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "35.6 ft (11 m)",
+            "Max Digging Depth": "27.2 ft (8 m)",
+            "Max Loading Height": "30.8 ft (9 m)",
+            "Max Reach Along Ground": "38.6 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "22.5 ft (7 m)",
+            "Shipping Height of Unit": "11.5 ft (3 m)",
+            "Shipping Length of Unit": "37.1 ft (11 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2.4 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1.7 cu yds (1 m)",
+            "Reference Bucket Capacity": "2 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length of Track on Ground": "13.3 ft (4 m)",
+            "Removal Counterweight Clearance": "4 ft (1 m)",
+            "Tail Swing Radius": "11.5 ft (3 m)",
+            "Width to Outside of Tracks": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "466 cu in (0 m)",
+            "Engine Model": "DL08",
+            "Max Torque": "846 lbs/ft",
+            "Net Power": "247 hp (184 kw)",
+            "Power Measured @": "1750 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Engine Oil Capacity": "9.6 gal (34 l)",
+            "Fuel Capacity": "145.3 gal (549 l)",
+            "Hydraulic Pump Flow Capacity": "140.1 gal/min (530 l/min)",
+            "Hydraulic System Fluid Capacity": "121.6 gal (458 l)",
+            "Hydraulic System Relief Valve Pressure": "4699.3 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "75178 lbs (34,101 kg)",
+            "Swing Drive Fluid Capacity": "1.6 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.9 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "9.2 psi",
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "48",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "23.7 in (58 cm)"
+        }
+    }
+}

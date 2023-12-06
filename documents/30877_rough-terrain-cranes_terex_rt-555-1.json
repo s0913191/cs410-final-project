@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-555-1/30877",
+    "source_url_id": "30877",
+    "source_url_model": "rt-555-1",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:13.040760",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 555-1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "110 ft (34 m)",
+            "Max Lift Capacity": "50-55 t (45,359 kg)",
+            "Number of Sections": "4",
+            "Swing Speed": "2 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "150.5 ft (46 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged & charge air cooled",
+            "Displacement": "360 cu in (0 m)",
+            "Engine Model": "QSB185",
+            "Gross Power": "185 hp (138 kw)",
+            "Net Power": "190 hp (142 kw)",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "548 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "80 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "112 gal (424 l)",
+            "Operating Weight": "76832 lbs (34,851 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/js460l/30854349",
+    "source_url_id": "30854349",
+    "source_url_model": "js460l",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:45.277877",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "JS460L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "29 ft (9 m)",
+            "Digging Reach": "29 ft (9 m)"
+        },
+        "Engine": {
+            "Net Power": "305 hp (227 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "103220 lbs (46,820 kg)"
+        }
+    }
+}

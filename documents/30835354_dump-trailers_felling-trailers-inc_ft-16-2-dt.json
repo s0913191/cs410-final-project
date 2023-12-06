@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dump-trailers/felling-trailers-inc/ft-16-2-dt/30835354",
+    "source_url_id": "30835354",
+    "source_url_model": "ft-16-2-dt",
+    "source_url_make": "felling-trailers-inc",
+    "source_url_category": "dump-trailers",
+    "source_date_scraped": "2023-09-13 17:54:12.931631",
+    "equipment_category": "Dump Trailers",
+    "equipment_make": "Felling Trailers, Inc.",
+    "equipment_model": "FT-16-2 DT",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "14 ft (4 m)"
+        },
+        "Weights": {
+            "Equipment Weight": "5300 lbs (2,404 kg)",
+            "Weight Capacity": "16000 lbs (7,258 kg)"
+        }
+    }
+}

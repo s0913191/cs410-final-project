@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/at700b/30862471",
+    "source_url_id": "30862471",
+    "source_url_model": "at700b",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:22.517154",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "AT700B",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "110 ft (34 m)",
+            "Max Lift Capacity": "100000 lbs (45,360 kg)",
+            "Max Working Radius": "100 ft (30 m)",
+            "Min Height @ Max Raise Angle": "35 ft (11 m)",
+            "Min Working Radius": "9 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "610.3 cu in (0 m)",
+            "Gross Power": "324.6 hp (242 kw)",
+            "Make": "Grove",
+            "Max Torque": "975 lbs/ft",
+            "Model": "LTA10-C325 turbocharged",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "36.5 ft (11 m)",
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Transport Height": "11.9 ft (3 m)",
+            "Transport Length": "41.9 ft (13 m)",
+            "Transport Width": "8.5 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13.4 ft (4 m)",
+            "Width w/ Outriggers Extended": "22.1 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "100.2 gal (379 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "81000 lbs (36,741 kg)",
+            "Tire Size": "16.00R21-22PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "56 mph (90 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "powershift"
+        }
+    }
+}

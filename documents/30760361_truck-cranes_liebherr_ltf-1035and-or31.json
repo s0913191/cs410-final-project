@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/liebherr/ltf-1035and-or31/30760361",
+    "source_url_id": "30760361",
+    "source_url_model": "ltf-1035and-or31",
+    "source_url_make": "liebherr",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:49.659097",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTF 1035/3.1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "146 ft (45 m)",
+            "Max Lift Capacity": "40 t (36,287 kg)"
+        }
+    }
+}

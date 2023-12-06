@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/hyundai/hsl240t/30754608",
+    "source_url_id": "30754608",
+    "source_url_model": "hsl240t",
+    "source_url_make": "hyundai",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:28.171355",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HSL240T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "3.6 ft (1 m)",
+            "Ground Clearance": "7.5 in (18 cm)",
+            "Height - Top of Cab": "4.3 ft (1 m)",
+            "Length - with Bucket": "6.7 ft (2 m)",
+            "Length - without Bucket": "5.1 ft (2 m)",
+            "Reach at Max Lift and Dump": "0.9 ft (0 m)",
+            "Turning Radius from Center - inc bucket": "47.4 in (119 cm)",
+            "Turning Radius from Center - machine rear": "36.3 in (91 cm)",
+            "Width Over Tracks": "3.6 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "CH25",
+            "Gross Power": "25 hp (19 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "8.6 gal/min (30 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "2.2 gal (8 l)",
+            "Hydraulic System Fluid Capacity": "11.6 gal (42 l)",
+            "Max Speed - low range": "3.2 mph (5 kph)",
+            "Operating Weight": "2200.3 lbs (998 kg)"
+        }
+    }
+}

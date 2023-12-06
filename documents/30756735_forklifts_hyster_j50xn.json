@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/j50xn/30756735",
+    "source_url_id": "30756735",
+    "source_url_model": "j50xn",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:29:45.570431",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "J50XN",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Mechanical",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Front Tread Range": "37 in (94 cm)",
+            "Gradeability": "35%",
+            "Ground Clearance": "3.9 in (8 cm)",
+            "Height to Top of Overhead Guard": "7.6 ft (2 m)",
+            "Length to Fork Face": "7.7 ft (2 m)",
+            "Overall Height - mast lowered": "7.2 ft (2 m)",
+            "Overall Width": "4 ft (1 m)",
+            "Rear Tread Range": "39.1 in (99 cm)",
+            "Right Angle Stack": "11.8 ft (3 m)",
+            "Turning Radius": "6.4 ft (2 m)",
+            "Wheelbase": "5.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Hyster",
+            "Engine Model": "J50XN"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "MAST": {
+            "Lift Speed": "124 ft/min",
+            "Load Capacity": "5000.1 lbs (2,268 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "100 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "5  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Auxiliary hydraulic flow": "10.6 gal/min (38 l/min)",
+            "Axle load - front": "5681.4 lbs (2,577 kg)",
+            "Axle load - rear": "5130.2 lbs (2,327 kg)",
+            "Drawbar Pull": "4248 lbs (1,927 kg)",
+            "Front Tire Size": "23 x 10 - 12",
+            "Max Speed": "11.2 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Voltage": "80 V V",
+            "Operating Weight": "6673.4 lbs (3,027 kg)",
+            "Rear Tire Size": "18 x 7 - 8",
+            "Tire Type": "Pneumatic"
+        },
+        "Transmission": {
+            "Number of Forward / Reverse Speeds": "Infinitely Variable"
+        }
+    }
+}

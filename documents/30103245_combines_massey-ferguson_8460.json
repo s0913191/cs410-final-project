@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/massey-ferguson/8460/30103245",
+    "source_url_id": "30103245",
+    "source_url_model": "8460",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:59.605413",
+    "equipment_category": "Combines",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "8460",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Overall Length": "17.2 in (43 cm)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Wastegate",
+            "Displacement": "452 cu in (0 m)",
+            "Gross Power": "235 hp (175 kw)",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "200 hp (149 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "158.6 gal (598 l)",
+            "Operating Weight": "19136 lbs (8,680 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "Dyna-VT"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/td80d/30131966",
+    "source_url_id": "30131966",
+    "source_url_model": "td80d",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:19.398512",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TD80D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.5 ft (2 m)",
+            "Tire Size": "rear: 16.9x30",
+            "Wheelbase": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "naturally aspirated",
+            "Displacement": "238 cu in (0 m)",
+            "Gross Power": "72 hp (54 kw)",
+            "Max Torque": "274 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "PTO Power": "62 hp (46 kw)",
+            "Torque Measured @": "1500 rpm",
+            "Torque Rise": "28%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "21.7 gal/min (79 l/min)",
+            "Relief Valve Pressure": "2755 psi",
+            "Relief Valve Setting": "2755 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5026.6 lbs (2,280 kg)",
+            "3 Point Hitch Type": "Cat. II",
+            "Alternator Supplied Amperage": "65  A",
+            "Fuel Capacity": "23.9 gal (87 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Production": {
+            "Series": "TDD Series",
+            "Years Manufactured": "2007 - 2008"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9x30"
+        },
+        "Transmission": {
+            "Max Speed": "17.3 mph (27 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "12FX12R with synchronized mechanical shuttle"
+        }
+    }
+}

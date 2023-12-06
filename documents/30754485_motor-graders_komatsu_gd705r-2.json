@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/komatsu/gd705r-2/30754485",
+    "source_url_id": "30754485",
+    "source_url_model": "gd705r-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:37.021289",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "GD705R-2",
+    "equipment_spec": {
+        "Circle": {
+            "Max Lift Above Ground": "16.6 in (41 cm)",
+            "Max Reach Outside Tires - Left": "92.2 in (234 cm)",
+            "Max Reach Outside Tires - Right": "92.4 in (234 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "9.1 ft (3 m)",
+            "Front Ground Clearance": "1.9 ft (0 m)",
+            "Height to Top of Isomount Cab": "11.3 ft (3 m)",
+            "Overall Length": "8.6 ft (2 m)",
+            "Rear Ground Clearance": "1.5 ft (0 m)",
+            "Tandem Axle Wheelbase": "5.1 ft (2 m)",
+            "Wheelbase": "20.2 ft (6 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "743 cu in (0 m)",
+            "Engine Model": "HN-220-CI",
+            "Max Power": "180 hp (134 kw)",
+            "Net Power Gear 4-6": "180 hp (134 kw)",
+            "Net Torque Gears 3-4": "579 lbs/ft"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Oscillation - Total": "26  \t\u00b0",
+            "Wheel Lean": "20  \t\u00b0"
+        },
+        "Moldboard": {
+            "Max Depth of Cut": "26.8 in (66 cm)",
+            "Moldboard Height": "27.6 in (69 cm)",
+            "Moldboard Thickness": "0.8 in (0 cm)",
+            "Moldboard Width": "14.2 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Std Operation Weight - Front Axle": "12434.1 lbs (5,640 kg)",
+            "Std Operation Weight - Rear Axle": "26146.9 lbs (11,860 kg)",
+            "Std Operation Weight - Total": "38580.9 lbs (17,500 kg)",
+            "Tire Size": "14.00-24-12PR"
+        },
+        "Steering System": {
+            "Turning Radius": "37.8 ft (11 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "27.4 mph (43 kph)",
+            "Max Speed - Reverse": "27.4 mph (43 kph)",
+            "Number of Gears - Forward": "4",
+            "Number of Gears - Reverse": "4",
+            "Transmission Type": "TORQFLOW"
+        }
+    }
+}

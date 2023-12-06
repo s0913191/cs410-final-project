@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/h-5i/30833668",
+    "source_url_id": "30833668",
+    "source_url_model": "h-5i",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:51.126695",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "H 5i",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "132 in (335 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54 in (137 cm)",
+            "Vibration Frequency": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "59 in (150 cm)"
+        }
+    }
+}

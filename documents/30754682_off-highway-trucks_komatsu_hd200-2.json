@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hd200-2/30754682",
+    "source_url_id": "30754682",
+    "source_url_model": "hd200-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:16.496318",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HD200-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "1.6 ft (0 m)",
+            "Dump Height": "21 ft (6 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Overall Height": "11.4 ft (3 m)",
+            "Overall Length": "24.5 ft (7 m)",
+            "Overall Width": "10.5 ft (3 m)",
+            "Wheelbase": "12.4 ft (4 m)"
+        },
+        "Dump": {
+            "Dump Angle": "65  \t\u00b0",
+            "Load Capacity - heaped": "19.9 cu yds (15 m)",
+            "Load Capacity - Struck": "14.7 cu yds (11 m)",
+            "Raise Time": "8 sec",
+            "Rated Payload": "65  \t\u00b0"
+        },
+        "Engine": {
+            "Displacement": "743 cu in (0 m)",
+            "Engine Model": "Cummins NTC-743-C",
+            "Gross Power": "280 hp (209 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "TCS-41-6C Torque Converter and TORQFLOW",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Tire Size": "16.00-25-24PR"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "40000 gal (151,400 l)"
+        },
+        "Transmission": {
+            "Max Speed": "31.1 mph (50 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "TCS-41-6C Torque Converter and TORQFLOW"
+        },
+        "Weights": {
+            "Empty Weight": "40785.6 lbs (18,500 kg)",
+            "Loaded Weight": "84999.3 lbs (38,555 kg)",
+            "Weight Distribution Front - empty": "47.6%",
+            "Weight Distribution Front - loaded": "30.1%",
+            "Weight Distribution Rear - empty": "52.4%",
+            "Weight Distribution Rear - loaded": "69.9%"
+        }
+    }
+}

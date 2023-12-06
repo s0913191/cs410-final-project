@@ -1,0 +1,82 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/797b/3207",
+    "source_url_id": "3207",
+    "source_url_model": "797b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:50.779027",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "797B",
+    "equipment_spec": {
+        "Description:": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "6.2 ft (2 m)",
+            "Dump Height": "50.2 ft (15 m)",
+            "Ground Clearance": "2.9 ft (1 m)",
+            "Overall Height": "24.9 ft (7 m)",
+            "Overall Length": "47.7 ft (14 m)",
+            "Overall Width": "30.1 ft (9 m)",
+            "Wheelbase": "23.7 ft (7 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x2"
+        },
+        "Dump": {
+            "Dump Angle": "45  \t\u00b0",
+            "Load Capacity - heaped": "287.8 cu yds (219 m)",
+            "Lower Time": "18.5 sec",
+            "Raise Time": "25 sec",
+            "Rated Payload": "380 t (344,730 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "7143 cu in (0 m)",
+            "Engine Model": "3524B HD EUI",
+            "Gross Power": "3550 hp (2,647 kw)",
+            "Make": "Cat",
+            "Model": "3524B",
+            "Net Power": "3370 hp (2,513 kw)",
+            "Number of Cylinders": "24",
+            "Power Measured @": "1750 rpm",
+            "Rated Engine Speed": "263 rpm",
+            "Torque Measured @": "Turbocharged rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Seven-speed planetary powershift with direct-injection",
+            "Brake/Hoist System Fluid Capacity": "486.7 gal (1,840 l)",
+            "Cooling System Fluid Capacity": "315 gal (1,192 l)",
+            "Diff and Final Drive Fluid Capacity": "110 gal (416 l)",
+            "Engine Oil Capacity": "110 gal (416 l)",
+            "Fuel Capacity": "1800 gal (6,813 l)",
+            "Hydraulic System Fluid Capacity": "263 gal (995 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Operating Voltage": "24 V V",
+            "Steering System Fluid Capacity": "114 gal (431 l)",
+            "Tire Size": "59/80R63 Standard Tires"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "793664.1 gal (3,004,018 l)"
+        },
+        "Transmission": {
+            "Max Speed": "42 mph (68 kph)",
+            "Number of Gears - Forward": "7",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "Seven-speed planetary powershift with direct-injection"
+        },
+        "Weights": {
+            "Empty Weight": "584225 lbs (265,003 kg)",
+            "Loaded Weight": "1375000 lbs (623,696 kg)",
+            "Operating Weight": "1375000 lbs (623,696 kg)",
+            "Weight Distribution Front - empty": "43.5%",
+            "Weight Distribution Front - loaded": "33.3%",
+            "Weight Distribution Rear - empty": "56.5%",
+            "Weight Distribution Rear - loaded": "66.7%"
+        }
+    }
+}

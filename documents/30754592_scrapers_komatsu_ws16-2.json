@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/komatsu/ws16-2/30754592",
+    "source_url_id": "30754592",
+    "source_url_model": "ws16-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:58.370927",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WS16-2",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "21 cu yds (16 m)",
+            "Max Depth of Cut": "11.9 in (28 cm)",
+            "Rated Payload": "48501.8 lbs (22,000 kg)",
+            "Struck Capacity": "14.4 cu yds (11 m)",
+            "Width of Cut": "10 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "12.1 ft (4 m)",
+            "Overall Height": "12.1 ft (4 m)",
+            "Overall Length": "42.4 ft (13 m)",
+            "Overall Width": "10.8 ft (3 m)",
+            "Tractor Ground Clearance": "1.6 ft (0 m)",
+            "Wheelbase": "24.3 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "33.9 gal (125 l)",
+            "Differential Fluid Capacity": "68.7 gal (257 l)",
+            "Engine Oil Fluid Capacity": "18.5 gal (68 l)",
+            "Fuel Capacity": "166.5 gal (628 l)",
+            "Tire Size": "33.5-33-20PR",
+            "Transmission Fluid Capacity": "21.2 gal (79 l)"
+        },
+        "Scraper Engine": {
+            "Displacement": "743 cu in (0 m)",
+            "Gross Power": "210 hp (157 kw)",
+            "Make": "Komatsu",
+            "Model": "NTO-6-CI"
+        },
+        "Tractor Engine": {
+            "Displacement": "743 cu in (0 m)",
+            "Gross Power": "210 hp (157 kw)",
+            "Make": "Komatsu",
+            "Model": "NTO-6-CI"
+        },
+        "Transmission": {
+            "Max Speed Forward": "37.3 mph (60 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Planetary gear"
+        },
+        "Weights": {
+            "Front Axel - loaded": "58837 lbs (26,688 kg)",
+            "Front Axle - empty": "37037.7 lbs (16,800 kg)",
+            "Rear Axle - empty": "37037.7 lbs (16,800 kg)",
+            "Rear Axle - loaded": "63740.1 lbs (28,912 kg)",
+            "Total Operating - empty": "74075.4 lbs (33,600 kg)",
+            "Total Operating - Loaded": "122577.1 lbs (55,601 kg)"
+        }
+    }
+}

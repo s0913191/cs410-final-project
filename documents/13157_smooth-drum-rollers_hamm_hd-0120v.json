@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-0120v/13157",
+    "source_url_id": "13157",
+    "source_url_model": "hd-0120v",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:53.128264",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 0120V",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "208 in (528 cm)"
+        },
+        "Drum": {
+            "Drum Width": "78 in (198 cm)",
+            "Vibration Frequency": "*[OSCILLATION] hz (0 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "81.5 in (206 cm)"
+        }
+    }
+}

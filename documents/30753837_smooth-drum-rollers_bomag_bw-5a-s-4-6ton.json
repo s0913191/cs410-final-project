@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-5a-s-4-6ton/30753837",
+    "source_url_id": "30753837",
+    "source_url_model": "bw-5a-s-4-6ton",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:24.922139",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 5A S (4-6ton)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "2.9 ft (1 m)",
+            "Drum Diameter - Rear": "4 ft (1 m)",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height": "5.3 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.1 ft (2 m)",
+            "Overall Length": "13.3 in (33 cm)",
+            "Overall Width": "7.1 ft (2 m)",
+            "Wheelbase": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "A2300",
+            "Gross Power": "47 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.8 gal (15 l)",
+            "Fuel Capacity": "17 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "15.1 gal (57 l)",
+            "Max Speed": "11 mph (18 kph)",
+            "Operating Voltage": "12 V V",
+            "Spray Water Capacity": "100.2 gal (379 l)"
+        },
+        "Weights": {
+            "Max Static Linear Load - Drive Drum": "191 lbs/in",
+            "Max Static Linear Load - guide drum": "126 lbs/in",
+            "Operating Weight - max ballast": "13047 lbs (5,918 kg)",
+            "Operating Weight - standard": "10347 lbs (4,693 kg)"
+        }
+    }
+}

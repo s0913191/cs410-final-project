@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc1100sp-6/30748429",
+    "source_url_id": "30748429",
+    "source_url_model": "pc1100sp-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:16.416884",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC1100SP-6",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "42.7 ft (13 m)",
+            "Max Digging Depth": "26 ft (8 m)",
+            "Max Loading Height": "27.8 ft (8 m)",
+            "Max Reach Along Ground": "44.9 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "16.5 ft (5 m)",
+            "Shipping Height of Unit": "20.6 ft (6 m)",
+            "Shipping Length of Unit": "52.6 ft (16 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "8.6 cu yds (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3.3 ft (1 m)",
+            "Height - Top of Cab": "12.9 ft (4 m)",
+            "Length of Track on Ground": "16.4 ft (5 m)",
+            "Removal Counterweight Clearance": "5.9 ft (2 m)",
+            "Tail Swing Radius": "16 ft (5 m)",
+            "Width to Outside of Tracks": "15.1 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with aftercooler",
+            "Displacement": "1412.7 cu in (0 m)",
+            "Engine Model": "SAA6D170",
+            "Net Power": "611 hp (456 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "36.8 gal (136 l)",
+            "Engine Oil Capacity": "12.7 gal (45 l)",
+            "Fuel Capacity": "359.3 gal (1,359 l)",
+            "Hydraulic Pump Flow Capacity": "419.6 gal/min (1,586 l/min)",
+            "Hydraulic System Fluid Capacity": "177 gal (670 l)",
+            "Hydraulic System Relief Valve Pressure": "4978.2 psi",
+            "Operating Weight": "229280.8 lbs (104,001 kg)",
+            "Swing Drive Fluid Capacity": "5.7 gal (19 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "5.8 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "154324 lbs (70,001 kg)",
+            "Ground Pressure": "19 psi",
+            "Max Travel Speed": "2 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "48",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "12.8 ft (4 m)"
+        }
+    }
+}

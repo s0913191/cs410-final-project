@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/fendt/12130/30752452",
+    "source_url_id": "30752452",
+    "source_url_model": "12130",
+    "source_url_make": "fendt",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:59:52.260194",
+    "equipment_category": "Balers",
+    "equipment_make": "Fendt",
+    "equipment_model": "12130",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "4.3 ft (1 m)",
+            "Bale Length - max": "8.9 ft (2 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "4",
+            "Number of Tines": "128",
+            "Overall Width": "7.5 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "11.8 ft (3 m)",
+            "Overall Length": "25.1 ft (8 m)",
+            "Overall Width": "9.9 ft (3 m)",
+            "Weight": "22740.7 lbs (10,315 kg)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "30",
+            "Twine Type": "Double knotter"
+        }
+    }
+}

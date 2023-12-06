@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/mx4800dtrc-gear-2wd/30751217",
+    "source_url_id": "30751217",
+    "source_url_model": "mx4800dtrc-gear-2wd",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:16.394239",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "MX4800DTRC GEAR 2WD",
+    "equipment_spec": {
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Battery": "600 A",
+            "Bore": "3.5 in (8 cm)",
+            "Crankcase capacity": "8.2 L",
+            "Engine Model": "V2403-CR-E4",
+            "Max Torque": "116.4 lbs/ft",
+            "Net Power": "46.9 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm",
+            "PTO Power": "40.5 hp (30 kw)",
+            "Stroke": "4.1 in (10 cm)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2866.1 lbs (1,300 kg)",
+            "Alternator Supplied Amperage": "600  A",
+            "Fuel Capacity": "13.5 gal (49 l)",
+            "Hydraulic System Fluid Capacity": "9.5 gal (34 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3470.1 lbs (1,574 kg)"
+        }
+    }
+}

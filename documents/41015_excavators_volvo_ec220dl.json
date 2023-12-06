@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec220dl/41015",
+    "source_url_id": "41015",
+    "source_url_model": "ec220dl",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:19.269802",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC220DL",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Breakout force - SAE": "29225.2 lbs (13,256 kg)",
+            "Max Digging Depth": "24.1 ft (7 m)",
+            "Max Digging Reach": "34.1 ft (10 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2.8 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Tail Swing Radius": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "165 hp (123 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "53792.8 lbs (24,400 kg)"
+        }
+    }
+}

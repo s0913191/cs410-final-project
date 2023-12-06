@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/marini/mf904/30753692",
+    "source_url_id": "30753692",
+    "source_url_model": "mf904",
+    "source_url_make": "marini",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:27.170686",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Marini",
+    "equipment_model": "MF904",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length of Track on Ground": "9.6 ft (3 m)",
+            "Length w/ Screed": "21.1 ft (6 m)",
+            "Track Width": "11.9 in (28 cm)",
+            "Transport Height": "11.8 ft (3 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Width w/ Hopper Open": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "BF6M1012C",
+            "Gross Power": "158.3 hp (118 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "15.8 in (38 cm)",
+            "Hopper Capacity": "8.6 lbs (4 kg)",
+            "Paving Speed - max": "78.8 ft/min",
+            "Paving Thickness - max": "11.9 in (28 cm)",
+            "Paving Width - max": "31.2 ft (9 m)",
+            "Travel Speed - max": "3 mph (5 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Operating Weight w/ Screed": "41447 lbs (18,800 kg)"
+        }
+    }
+}

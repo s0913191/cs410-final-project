@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/mustang/2054/26089",
+    "source_url_id": "26089",
+    "source_url_model": "2054",
+    "source_url_make": "mustang",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:28.113990",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Mustang",
+    "equipment_model": "2054",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.7 ft (2 m)",
+            "Ground Clearance": "7.5 in (18 cm)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Length w/o Bucket": "8.1 ft (2 m)",
+            "Length with Bucket": "10.3 ft (3 m)",
+            "Reach at Max Lift and Dump": "24.1 in (61 cm)",
+            "Turning Radius from Center - machine rear": "59.2 in (150 cm)",
+            "Wheelbase": "3.3 ft (1 m)",
+            "Width Over Tires": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "133.6 cu in (0 m)",
+            "Engine Model": "4TNV88",
+            "Gross Power": "47 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "3000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "28 gal/min (106 l/min)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Breakout Force": "4400 psi",
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load Rating": "1750 lbs (794 kg)",
+            "Operating Width": "60.7 in (152 cm)",
+            "Tipping Angle": "3300  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "700  A",
+            "Fuel Capacity": "14.3 gal (53 l)",
+            "Hydraulic System Fluid Capacity": "13 gal (49 l)",
+            "Max Speed": "7.2 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "6050 lbs (2,744 kg)"
+        }
+    }
+}

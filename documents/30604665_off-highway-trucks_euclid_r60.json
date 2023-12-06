@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/euclid/r60/30604665",
+    "source_url_id": "30604665",
+    "source_url_model": "r60",
+    "source_url_make": "euclid",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:19.961240",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Euclid",
+    "equipment_model": "R60",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2.5 ft (1 m)",
+            "Dump Height": "29.3 ft (9 m)",
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Overall Height": "14 ft (4 m)",
+            "Overall Length": "30.5 ft (9 m)",
+            "Overall Width": "14.6 ft (4 m)",
+            "Wheelbase": "14.1 ft (4 m)"
+        },
+        "Dump": {
+            "Dump Angle": "60  \t\u00b0",
+            "Load Capacity - heaped": "47.1 cu yds (36 m)",
+            "Load Capacity - Struck": "32.7 cu yds (24 m)",
+            "Lower Time": "14 sec",
+            "Raise Time": "10 sec",
+            "Rated Payload": "126287.4 lbs (57,283 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged Aftercooled",
+            "Displacement": "1150 cu in (0 m)",
+            "Engine Model": "KTTA19-C",
+            "Gross Power": "700.1 hp (522 kw)",
+            "Max Torque": "2013.6 lbs/ft",
+            "Net Power": "667.9 hp (497 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Brake/Hoist System Fluid Capacity": "46 gal (174 l)",
+            "Cooling System Fluid Capacity": "50.1 gal (189 l)",
+            "Engine Oil Capacity": "16.1 gal (61 l)",
+            "Fuel Capacity": "185 gal (700 l)",
+            "Hydraulic System Fluid Capacity": "72 gal (273 l)",
+            "Operating Voltage": "24 V V",
+            "Steering System Fluid Capacity": "26 gal (98 l)",
+            "Tire Size": "24.00-35(36)E3"
+        },
+        "Transmission": {
+            "Max Speed": "35.8 mph (56 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "2",
+            "Transmission Type": "Allison CLT-6063"
+        },
+        "Weights": {
+            "Empty Weight": "85358.6 lbs (38,718 kg)",
+            "Loaded Weight": "211643.8 lbs (96,001 kg)",
+            "Weight Distribution Front - empty": "49%",
+            "Weight Distribution Front - loaded": "32%",
+            "Weight Distribution Rear - empty": "51%",
+            "Weight Distribution Rear - loaded": "68%"
+        }
+    }
+}

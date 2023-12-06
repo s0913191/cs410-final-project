@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/9482/30840538",
+    "source_url_id": "30840538",
+    "source_url_model": "9482",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:27.450961",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "9482",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Overall Length": "265.8 in (673 cm)",
+            "Overall width": "12.5 ft (4 m)",
+            "Shipping weight": "18843 lbs (8,547 kg)",
+            "Wheelbase": "11.1 ft (3 m)",
+            "Width Outside Frame": "12.5 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5 in (13 cm)",
+            "Displacement": "659.1 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "M11",
+            "Gross Power": "310 hp (231 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "274 hp (204 kw)",
+            "Stroke": "5.8 in (13 cm)",
+            "Torque": "1050 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center load sensing",
+            "Number of Remote Control Valves": "1 to  4",
+            "Pump Flow Capacity": "45 gal/min (170 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "12998.5 lbs (5,896 kg)",
+            "3 Point Hitch Type": "IVN/3",
+            "Alternator Supplied Amperage": "130  A",
+            "Cooling System Fluid Capacity": "15.3 gal (57 l)",
+            "Engine Oil Capacity": "9.7 gal (34 l)",
+            "Front Tire Size": "20.8R42",
+            "Fuel Capacity": "245 gal (927 l)",
+            "Hydraulic System Fluid Capacity": "31 gal (117 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "33999.7 lbs (15,422 kg)",
+            "Rear Tire Size": "20.8R42"
+        },
+        "Production": {
+            "Series": "9082 Series",
+            "Years Manufactured": "1996 - 2000"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "17.1 mph (27 kph)",
+            "Max Speed - Reverse": "6.1 mph (10 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Partially synchronized"
+        }
+    }
+}

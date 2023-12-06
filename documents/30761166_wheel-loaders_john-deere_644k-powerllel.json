@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/644k-powerllel/30761166",
+    "source_url_id": "30761166",
+    "source_url_model": "644k-powerllel",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:17.752786",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "644K Powerllel",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "John Deere",
+            "Model": "6068H",
+            "Net Power": "232 hp (173 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.00 cu yds (3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "43563 lbs (19,760 kg)"
+        }
+    }
+}

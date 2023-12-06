@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/john-deere/4940/30670327",
+    "source_url_id": "30670327",
+    "source_url_model": "4940",
+    "source_url_make": "john-deere",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:40.696307",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "John Deere",
+    "equipment_model": "4940",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "14.2 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "549.3 cu in (0 m)",
+            "Number of Cylinders": "6"
+        },
+        "Operating Specifications": {
+            "Dry Weight - max": "35770 lbs (16,225 kg)",
+            "Dry Weight - min": "34780 lbs (15,776 kg)",
+            "Foam Marker Tank Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "155.1 gal (587 l)",
+            "Hydraulic Fluid Capacity": "25.8 gal (95 l)",
+            "Rinse Tank Capacity": "170.2 gal (643 l)",
+            "Solution Tank Capacity": "1199.9 gal (4,538 l)"
+        }
+    }
+}

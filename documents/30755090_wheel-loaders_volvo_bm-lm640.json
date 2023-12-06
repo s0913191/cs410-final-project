@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/bm-lm640/30755090",
+    "source_url_id": "30755090",
+    "source_url_model": "bm-lm640",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:25.665209",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM LM640",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4 cu yds (3 m)",
+            "Bucket Capacity - struck": "1 cu yds (1 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Hinge Pin - Max Height": "12.6 ft (4 m)",
+            "Length with Bucket on Ground": "17.7 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.1 ft (1 m)",
+            "Wheelbase": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "direct injection",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Model": "BM- 1113 ALH",
+            "Gross Power": "69 hp (51 kw)",
+            "Net Power": "63 hp (47 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30.8 gal/min (114 l/min)",
+            "Relief Valve Setting": "1280 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "14550 lbs (6,600 kg)",
+            "Tire Size": "front 16.9-30/10 rear 12.4-24/10",
+            "Turning Radius": "18 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "18.4 mph (29 kph)",
+            "Max Speed - Reverse": "18.4 mph (29 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

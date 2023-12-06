@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/terex/sk-415/30853",
+    "source_url_id": "30853",
+    "source_url_model": "sk-415",
+    "source_url_make": "terex",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:29.107598",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "SK 415",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "214 ft (65 m)",
+            "Max Lift Capacity": "22 t (19,958 kg)"
+        }
+    }
+}

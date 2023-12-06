@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/doosan/g30p/30682653",
+    "source_url_id": "30682653",
+    "source_url_model": "g30p",
+    "source_url_make": "doosan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:26:22.991190",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Doosan",
+    "equipment_model": "G30P",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Overhead Guard": "7.2 ft (2 m)",
+            "Length to Fork Face": "8.7 ft (2 m)",
+            "Overall Width": "4 ft (1 m)",
+            "Turning Radius": "7.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "183.1 cu in (0 m)",
+            "Fuel Type": "LP",
+            "Power": "60.2 hp (45 kw)"
+        },
+        "MAST": {
+            "Load Capacity": "6000 lbs (2,722 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12 mph (19 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

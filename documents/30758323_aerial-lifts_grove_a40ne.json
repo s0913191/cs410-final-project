@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/a40ne/30758323",
+    "source_url_id": "30758323",
+    "source_url_model": "a40ne",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:39.037814",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "A40NE",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height - mast lowered": "6.6 ft (2 m)",
+            "Overall Length": "18.7 in (46 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Turning Radius": "5.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "Diesel",
+            "Fuel Type": "Dual Fuel"
+        },
+        "Performance": {
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "13099.9 lbs (5,942 kg)"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "22 ft (7 m)",
+            "Max Platform Height": "40.3 ft (12 m)",
+            "Max Platform Weight Capacity": "487.3 lbs (221 kg)",
+            "Max Working Height": "46.3 ft (14 m)",
+            "Platform Inner Length": "48.1 in (122 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        }
+    }
+}

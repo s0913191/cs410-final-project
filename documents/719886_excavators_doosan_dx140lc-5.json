@@ -1,0 +1,89 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx140lc-5/719886",
+    "source_url_id": "719886",
+    "source_url_model": "dx140lc-5",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:19.041104",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX140LC-5",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "20.2 ft (6 m)",
+            "Max Digging Height": "28.7 ft (9 m)",
+            "Max Digging Reach": "28.4 ft (9 m)",
+            "Max Loading Height": "21.2 ft (6 m)",
+            "Max Reach Along Ground": "27.9 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "15.4 ft (5 m)",
+            "Min Digging Reach": "0.8 ft (0 m)",
+            "Minimum swing radius": "103.4 in (262 cm)",
+            "Shipping Height of Unit": "10.1 ft (3 m)",
+            "Shipping Length of Unit": "25.1 ft (8 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.6 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Counterweight Clearance": "3 ft (1 m)",
+            "Tail Swing Radius": "7.3 ft (2 m)",
+            "Track shoe width": "2 ft (1 m)",
+            "Undercarriage Width": "8.4 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "24 v, 85 amp",
+            "Battery": "12V, 100AH",
+            "Starter": "24V"
+        },
+        "Engine": {
+            "Air cleaner": "Double Elements",
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Make": "Perkins",
+            "Engine Model": "1204F",
+            "Gross Power": "115 hp (86 kw)",
+            "Max Torque": "1301.1 lbs/ft",
+            "Net Power": "113 hp (84 kw)",
+            "Power Measured @": "2000 rpm",
+            "Starter": "6 hp (4 kw)",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pilotpump-Gear Design": "7.9 gal/min",
+            "Relief Pressure - Boost": "4694 psi",
+            "Relief Pressure -Normal": "4978 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.6 gal (23 l)",
+            "DEF tank capacity": "5 gal (19 l)",
+            "Engine Oil Capacity": "2.1 gal (8 l)",
+            "Fuel Capacity": "70 gal (265 l)",
+            "Hydraulic System Fluid Capacity": "45 gal (170 l)",
+            "Hydraulic System Relief Valve Pressure": "5.4 psi",
+            "Hydraulic Tank": "39.7 gal (148 l)",
+            "Operating Weight": "32783 lbs (14,870 kg)",
+            "Swing Drive Fluid Capacity": "0.8 gal (0 l)"
+        },
+        "Performance": {
+            "Maximum Grade": "70%",
+            "Swing - Normal Mode": "4694 psi",
+            "Swing-Power Mode": "4978 psi",
+            "Traction Force -Draw bar Pull": "35935 lbs/ft",
+            "Travel-Normal Mode": "4694 psi",
+            "Travel-Power Mode": "4978 psi"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.7 rpm"
+        },
+        "Undercarriage": {
+            "Number of bottom rollers per side": "7",
+            "Number of Shoes per Side": "46",
+            "Number of top rollers per side": "1"
+        },
+        "Weights": {
+            "counterweight": "4850 lbs (2,200 kg)"
+        }
+    }
+}

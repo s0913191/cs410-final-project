@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/924k/3285",
+    "source_url_id": "3285",
+    "source_url_model": "924k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:19.521696",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "924K",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "6.6 cu yds (5 m)",
+            "Dump Clearance at Max Raise": "9.42 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "427.8 cu in (0 m)",
+            "Engine Model": "Cat\u00ae C7.1 ACERT\u2122",
+            "Gross Power": "140.9 hp (104 kw)",
+            "Max Torque": "524.5 lbs/ft",
+            "Model": "C6.6 ACERT",
+            "Net Power": "136.8 hp (101 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.5 gal (30 l)",
+            "Engine Oil Fluid Capacity": "5.2 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "5.6 gal (19 l)",
+            "Fuel Capacity": "51.6 gal (193 l)",
+            "Hydraulic System Fluid Capacity": "42.3 gal (159 l)",
+            "Rated Bucket Capacity": "2.5 - 6.50 cu yds (2 - 5 m)",
+            "Rear Axle/Diff Fluid Capacity": "5.6 gal (19 l)",
+            "Transmission Fluid Capacity": "2.3 gal (8 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        },
+        "Weights": {
+            "Operational Weight": "28360 lbs (12,864 kg)"
+        }
+    }
+}

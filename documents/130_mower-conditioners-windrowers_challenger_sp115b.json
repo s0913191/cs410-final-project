@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/mower-conditioners-windrowers/challenger/sp115b/130",
+    "source_url_id": "130",
+    "source_url_model": "sp115b",
+    "source_url_make": "challenger",
+    "source_url_category": "mower-conditioners-windrowers",
+    "source_date_scraped": "2023-09-13 17:07:54.394021",
+    "equipment_category": "Mower Conditioners / Windrowers",
+    "equipment_make": "Challenger",
+    "equipment_model": "SP115B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Wheel Tread Width": "127.5 in (323 cm)",
+            "Ground Clearance": "39.8 in (99 cm)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Length w/ Header": "21.5 ft (6 m)",
+            "Rear Wheel tread Width - max": "120 in (305 cm)",
+            "Rear Wheel Tread Width - min": "84.3 in (213 cm)",
+            "Wheelbase": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "269 cu in (0 m)",
+            "Number of Cylinders": "4",
+            "Power": "115 hp (86 kw)"
+        },
+        "Operating Specifications": {
+            "Front Tire Size": "16.9x28 bar tread",
+            "Fuel Capacity": "60 gal (227 l)",
+            "Operating Weight w/o Attachment": "8600 lbs (3,901 kg)",
+            "Rear Tire Size": "14L x 16.1"
+        },
+        "Transmission": {
+            "Final Drive Type": "Direct Drive Planetary",
+            "Max Speed": "15 mph (24 kph)",
+            "Transmission Type": "Hydrostatic - 2 speed"
+        }
+    }
+}

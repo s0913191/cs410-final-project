@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/john-deere/jd770/30754510",
+    "source_url_id": "30754510",
+    "source_url_model": "jd770",
+    "source_url_make": "john-deere",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:07.992096",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "John Deere",
+    "equipment_model": "JD770",
+    "equipment_spec": {
+        "Circle": {
+            "Diameter": "59.1 in (150 cm)",
+            "Max Lift Above Ground": "17.1 in (43 cm)",
+            "Max Reach Outside Tires - Left": "92.2 in (234 cm)",
+            "Max Reach Outside Tires - Right": "92.6 in (234 cm)",
+            "Rotation": "360  \t\u00b0"
+        },
+        "Dimensions": {
+            "Blade Base": "9 ft (3 m)",
+            "Front Ground Clearance": "1.9 ft (0 m)",
+            "Height to Top of Isomount Cab": "10.5 ft (3 m)",
+            "Overall Length": "27.8 ft (8 m)",
+            "Tandem Axle Wheelbase": "5.1 ft (2 m)",
+            "Wheelbase": "19.6 ft (6 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "531 cu in (0 m)",
+            "Max Power": "142 hp (106 kw)",
+            "Net Power Gears 7-8": "142 hp (106 kw)",
+            "Net Torque Gears 7-8": "440 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Oscillation - Total": "30  \t\u00b0",
+            "Wheel Lean": "20  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "57 gal/min (216 l/min)",
+            "Pump Type": "Closed Center Variable displacement",
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "Moldboard": {
+            "Moldboard Height": "24 in (61 cm)",
+            "Moldboard Thickness": "0.9 in (0 cm)",
+            "Moldboard Width": "12 ft (4 m)",
+            "Side Shift Left": "26.9 in (66 cm)",
+            "Side Shift Right": "26.9 in (66 cm)"
+        },
+        "Operating Specifications": {
+            "Circle Gearbox Fluid Capacity": "0.8 gal (0 l)",
+            "Cooling System Fluid Capacity": "10 gal (38 l)",
+            "Fuel Capacity": "70 gal (265 l)",
+            "Hydraulic System Fluid Capacity": "31 gal (117 l)",
+            "Max Operation Weight - Front Axle": "8637 lbs (3,918 kg)",
+            "Max Operation Weight - Rear Axle": "24992 lbs (11,336 kg)",
+            "Max Operation Weight - Total": "33559 lbs (15,222 kg)",
+            "Oil System Fluid Capacity": "5.5 gal (19 l)",
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Front Axle": "8220 lbs (3,729 kg)",
+            "Std Operation Weight - Rear Axle": "21625 lbs (9,809 kg)",
+            "Std Operation Weight - Total": "29845 lbs (13,538 kg)",
+            "Tandem Case Fluid Capacity (each)": "4 gal (15 l)",
+            "Tire Size": "14.00-24"
+        },
+        "Steering System": {
+            "Articulation Angle": "25  \t\u00b0",
+            "Turning Radius": "22.1 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "25.1 mph (40 kph)",
+            "Max Speed - Reverse": "8.6 mph (13 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "4",
+            "Transmission Type": "Power Shift"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/mitsubishi/mg460-vhp/30754493",
+    "source_url_id": "30754493",
+    "source_url_model": "mg460-vhp",
+    "source_url_make": "mitsubishi",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:51.778474",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Mitsubishi",
+    "equipment_model": "MG460 VHP",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "36  \t\u00b0",
+            "Blade Tip Angle - Rear": "81  \t\u00b0",
+            "Max Lift Above Ground": "18.6 in (46 cm)",
+            "Max Reach Outside Tires - Left": "77.6 in (196 cm)",
+            "Max Reach Outside Tires - Right": "78.8 in (198 cm)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "11.3 ft (3 m)",
+            "Overall Length": "28.2 ft (9 m)",
+            "Width Over Tires": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "732.3 cu in (0 m)",
+            "Engine Model": "6D24-TUN",
+            "Max Power": "185.1 hp (138 kw)",
+            "Net Power Gear 1-2": "155.6 hp (116 kw)",
+            "Net Power Gears 7-8": "8.1 hp (6 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Front Axle": {
+            "Oscillation - Total": "30  \t\u00b0",
+            "Wheel Lean": "20  \t\u00b0"
+        },
+        "Moldboard": {
+            "Moldboard Height": "24.1 in (61 cm)",
+            "Moldboard Thickness": "0.8 in (0 cm)",
+            "Moldboard Width": "12.2 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Std Operation Weight - Total": "39021.9 lbs (17,700 kg)"
+        },
+        "Steering System": {
+            "Articulation Angle": "29  \t\u00b0",
+            "Turning Radius": "22.7 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "23 mph (37 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "8",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/eco-log/554b/30755941",
+    "source_url_id": "30755941",
+    "source_url_model": "554b",
+    "source_url_make": "eco-log",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:47.823440",
+    "equipment_category": "Forwarders",
+    "equipment_make": "Eco Log",
+    "equipment_model": "554B",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Area": "41 CUBIC ft",
+            "Load Weight - 8wd": "22046.3 lbs (10,000 kg)"
+        },
+        "Crane": {
+            "Max Reach": "32.9 ft (10 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height to Top of crane": "11.71 ft (3 m)",
+            "Height to Top of Crane": "11.8 ft (3 m)",
+            "Length": "27.1 ft (8 m)",
+            "Width Over Tires": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "3054E",
+            "Power": "130 hp (97 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Front/Rear Tire Size - 8wd": "710/50x22.5",
+            "Fuel Capacity": "39.1 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "25.1 gal (95 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight - 8wd": "26455.5 lbs (12,000 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic Mechanical"
+        }
+    }
+}

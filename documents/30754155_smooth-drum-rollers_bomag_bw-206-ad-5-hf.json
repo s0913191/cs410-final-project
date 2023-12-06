@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-206-ad-5-hf/30754155",
+    "source_url_id": "30754155",
+    "source_url_model": "bw-206-ad-5-hf",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:13.271763",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 206 AD-5 HF",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Multi disc",
+            "Service brake": "Hydrostatic"
+        },
+        "Dimensions": {
+            "Ground Clearance": "9.8 in (23 cm)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Overall Length": "208.7 in (528 cm)",
+            "Overall Width": "7.2 ft (2 m)",
+            "Wheelbase": "153.5 in (389 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "21132 lbs (9,585 kg)",
+            "Drum Diameter": "55.1 in (140 cm)",
+            "Drum Width": "84.1 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "40 hz (2,400 vpm)",
+            "Vibration Frequency 2": "50 hz (3,000 vpm)"
+        },
+        "Engine": {
+            "Cooling method": "Water",
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 4.1 L04",
+            "Gross Power": "140.9 hp (104 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "43.6 gal (163 l)",
+            "Hydraulic System Fluid Capacity": "256.2 gal (969 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "31085 lbs (14,100 kg)"
+        },
+        "Steering System": {
+            "System": "Oscillatoty Articulation"
+        },
+        "Weights": {
+            "Front axle weight": "15332 lbs (6,955 kg)",
+            "Grossweight": "35724 lbs (16,204 kg)",
+            "Rear axle weight": "15763 lbs (7,150 kg)",
+            "Static linear load, front": "182.3 lbs/in",
+            "Static linear load, rear": "187.5 lbs/in"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/sany/qy25c/217186",
+    "source_url_id": "217186",
+    "source_url_model": "qy25c",
+    "source_url_make": "sany",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:58.776227",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Sany",
+    "equipment_model": "QY25C",
+    "equipment_spec": {
+        "Boom": {
+            "Max Lift Capacity": "55115.6 lbs (25,000 kg)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "285.7 hp (213 kw)",
+            "Make": "Sany",
+            "Max Torque": "774.5 lbs/ft",
+            "Model": "ISLe290",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1900 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "33.4 ft (10 m)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "11.4 ft (3 m)",
+            "Transport Length": "41.4 ft (13 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "8.3 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "79.3 gal (299 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "64816 lbs (29,400 kg)",
+            "Tire Size": "11.00-20-18PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49.8 mph (79 kph)"
+        }
+    }
+}

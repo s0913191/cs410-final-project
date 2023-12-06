@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/x40rt/869457",
+    "source_url_id": "869457",
+    "source_url_model": "x40rt",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:37.035713",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "X40RT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6 in (15 cm)",
+            "Height w/ Rails": "8.9 ft (2 m)",
+            "Overall Length": "12.5 in (30 cm)",
+            "Overall Width": "6.9 ft (2 m)",
+            "Turning Radius": "16.5 ft (5 m)"
+        },
+        "Engine": {
+            "Engine Model": "V-905",
+            "Fuel Type": "diesel",
+            "Gross Power": "22.5 hp (16 kw)"
+        },
+        "Performance": {
+            "Max Speed": "2.2 mph (3 kph)",
+            "Operating Weight": "10319.9 lbs (4,681 kg)",
+            "Tire Fill/Type": "poly filled/lug",
+            "Tire Size": "26 x 12"
+        },
+        "Platform": {
+            "Deck Extension": "47.3 in (119 cm)",
+            "Max Platform Height": "39.7 ft (12 m)",
+            "Max Platform Weight Capacity": "749.6 lbs (340 kg)",
+            "Max Working Height": "46.3 ft (14 m)",
+            "Platform Inner Length": "120.9 in (305 cm)",
+            "Platform Inner Width": "70.9 in (178 cm)"
+        }
+    }
+}

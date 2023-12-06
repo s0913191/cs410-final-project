@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/920/6561",
+    "source_url_id": "6561",
+    "source_url_model": "920",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:16.217568",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "920",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "8020 lbs (3,638 kg)",
+            "Bucket Capacity - heaped": "1.2 cu yds (1 m)",
+            "Bucket Width": "8.1 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Length with Bucket on Ground": "18.8 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.5 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "427.2 cu in (0 m)",
+            "Engine Model": "3304",
+            "Net Power": "80 hp (60 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "3 sec",
+            "Raise Time": "6 sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "39.1 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "19.6 gal (72 l)",
+            "Operating Weight": "18607.1 lbs (8,440 kg)",
+            "Static Tipping Weight": "29519.9 lbs (13,390 kg)",
+            "Tire Size": "15.5-25 12 PR (L-2)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "27.3 mph (43 kph)",
+            "Max Speed - Reverse": "14.5 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

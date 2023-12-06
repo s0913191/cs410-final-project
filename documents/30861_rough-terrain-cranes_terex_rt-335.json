@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-335/30861",
+    "source_url_id": "30861",
+    "source_url_model": "rt-335",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:11.064168",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 335",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "75  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "94.5 ft (29 m)",
+            "Min Height @ Max Raise Angle": "30.3 ft (9 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.8 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "23.9 ft (7 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Transport Height": "10.3 ft (3 m)",
+            "Transport Length": "38.8 ft (12 m)",
+            "Transport Width": "10.2 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "9 ft (3 m)",
+            "Wheelbase": "150.4 in (381 cm)",
+            "Width w/ Outriggers Extended": "23.5 ft (7 m)"
+        },
+        "Engine": {
+            "Air filter type": "Dry type",
+            "Aspiration": "Turbocharged",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "359 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "6BT5.9",
+            "Gross Power": "152 hp (113 kw)",
+            "Max Torque": "413.8 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "102  A",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "114 gal (431 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "63259.5 lbs (28,694 kg)",
+            "Tire Size": "23.5R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Full powershift"
+        }
+    }
+}

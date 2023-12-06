@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/ac-55/30836954",
+    "source_url_id": "30836954",
+    "source_url_model": "ac-55",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:13.169091",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AC 55",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "197.5 ft (60 m)",
+            "Max Lift Capacity": "65 t (58,967 kg)"
+        }
+    }
+}

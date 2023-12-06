@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1220-52/30862507",
+    "source_url_id": "30862507",
+    "source_url_model": "ltm-1220-52",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:53.121859",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1220-5.2",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "196.9 ft (60 m)",
+            "Max Lift Capacity": "485017.1 lbs (220,002 kg)",
+            "Max Working Radius": "216.6 ft (66 m)",
+            "Min Height @ Max Raise Angle": "43.7 ft (13 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "6"
+        },
+        "CARRIER ENGINE": {
+            "Make": "Liebherr",
+            "Max Torque": "2355 lbs/ft",
+            "Model": "D846 A7",
+            "Net Power": "503 hp (375 kw)"
+        },
+        "Dimensions": {
+            "Carrier Length": "43.7 ft (13 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "50.3 ft (15 m)",
+            "Transport Width": "18.1 ft (5 m)",
+            "Upper Structure Tail Swing Radius": "13.1 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "170  A",
+            "Carrier Fuel Capacity": "129.5 gal (488 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14R25",
+            "Upper Structure Fuel Capacity": "70.1 gal (265 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)",
+            "Max Speed - Reverse": "4.5 mph (6 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "ZF-12 speed gear box with automatic control system AS-TRONIC"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Liebherr",
+            "Max Torque": "1140 lbs/ft",
+            "Model": "D934L A6",
+            "Net Power": "245 hp (183 kw)"
+        }
+    }
+}

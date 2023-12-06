@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex-american/stinger-60100/30836149",
+    "source_url_id": "30836149",
+    "source_url_model": "stinger-60100",
+    "source_url_make": "terex-american",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:19.473640",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex American",
+    "equipment_model": "STINGER 60100",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "166 ft (51 m)",
+            "Max Lift Capacity": "30 t (27,216 kg)"
+        }
+    }
+}

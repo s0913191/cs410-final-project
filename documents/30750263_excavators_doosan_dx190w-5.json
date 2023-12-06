@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx190w-5/30750263",
+    "source_url_id": "30750263",
+    "source_url_model": "dx190w-5",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:33.705869",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX190W-5",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "18.8 ft (5 m)",
+            "Max Reach Along Ground": "29.7 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Digging Depth": "18.9 ft (5 m)",
+            "Max Loading Height": "22.2 ft (7 m)",
+            "Max Reach Along Ground": "29.8 ft (9 m)",
+            "Shipping Height of Unit": "9.3 ft (3 m)",
+            "Shipping Length of Unit": "28.8 ft (9 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Wheelbase": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Doosan",
+            "Engine Model": "DX190W-5",
+            "Gross Power": "173.5 hp (129 kw)",
+            "Net Power": "167.6 hp (125 kw)",
+            "Net Torque": "557 lbs/ft",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Engine Oil Capacity": "6.6 gal (23 l)",
+            "Fuel Capacity": "81.9 gal (307 l)",
+            "Operating Weight": "43431 lbs (19,700 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.9 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "21.8 mph (34 kph)"
+        }
+    }
+}

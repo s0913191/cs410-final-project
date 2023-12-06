@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/heli/cpd20e/30757395",
+    "source_url_id": "30757395",
+    "source_url_model": "cpd20e",
+    "source_url_make": "heli",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:27:07.705138",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Heli",
+    "equipment_model": "CPD20E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4.6 in (10 cm)",
+            "Height to Top of Overhead Guard": "7 ft (2 m)",
+            "Max Fork Height": "13.3 ft (4 m)",
+            "Overall Height - mast lowered": "7.1 ft (2 m)",
+            "Overall Width": "3.8 ft (1 m)",
+            "Wheelbase": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "electric",
+            "Power": "10.8 hp (7 kw)"
+        },
+        "MAST": {
+            "Lift Speed": "2.4 ft/min",
+            "Load Capacity": "4409.3 lbs (2,000 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Lower Speed": "59.1 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0",
+            "Max Fork Spread": "40.2 in (102 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "8.4 mph (13 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "8487.8 lbs (3,850 kg)",
+            "Tire Type": "front 7.00-12-12PR rear 18x7-8-14PR"
+        }
+    }
+}

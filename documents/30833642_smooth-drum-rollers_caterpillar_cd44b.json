@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cd44b/30833642",
+    "source_url_id": "30833642",
+    "source_url_model": "cd44b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:48.224659",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CD44B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "114 in (290 cm)"
+        },
+        "Drum": {
+            "Drum Width": "59-111 in (150 cm)",
+            "Vibration Frequency": "53.3/63.3 hz (3,180 vpm)"
+        },
+        "Engine": {
+            "Make": "Cat"
+        },
+        "Operating Specifications": {
+            "Operating Width": "66 in (168 cm)"
+        }
+    }
+}

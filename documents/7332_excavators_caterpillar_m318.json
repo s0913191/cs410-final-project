@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/m318/7332",
+    "source_url_id": "7332",
+    "source_url_model": "m318",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:34.073541",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "M318",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "20 ft (6 m)",
+            "Digging Reach": "20 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "39490 lbs (17,913 kg)"
+        }
+    }
+}

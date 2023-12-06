@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/840ii/30755119",
+    "source_url_id": "30755119",
+    "source_url_model": "840ii",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:14.628621",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "840II",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "26977.1 lbs (12,237 kg)",
+            "Bucket Capacity - heaped": "3.1 cu yds (2 m)",
+            "Bucket Width": "9.1 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.6 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Hinge Pin - Max Height": "12.5 ft (4 m)",
+            "Length with Bucket on Ground": "24.7 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "9.9 ft (3 m)",
+            "Width Over Tires": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "QSB5.9C173",
+            "Net Power": "173 hp (129 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "3.4 sec",
+            "Raise Time": "6.6 sec",
+            "Relief Valve Setting": "2610.7 psi"
+        },
+        "Operating Specifications": {
+            "Engine Oil Fluid Capacity": "5.9 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "9.3 gal (34 l)",
+            "Fuel Capacity": "55.5 gal (208 l)",
+            "Hydraulic System Fluid Capacity": "60.8 gal (227 l)",
+            "Rear Axle/Diff Fluid Capacity": "9 gal (34 l)",
+            "Static Tipping Weight": "17637 lbs (8,000 kg)",
+            "Transmission Fluid Capacity": "11.9 gal (42 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.5 mph (37 kph)",
+            "Max Speed - Reverse": "16 mph (26 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "counter shaft-type power shift"
+        }
+    }
+}

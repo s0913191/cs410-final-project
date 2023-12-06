@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/oilfield-trailers/eager-beaver/35-glb/30761419",
+    "source_url_id": "30761419",
+    "source_url_model": "35-glb",
+    "source_url_make": "eager-beaver",
+    "source_url_category": "oilfield-trailers",
+    "source_date_scraped": "2023-09-13 17:54:33.809593",
+    "equipment_category": "Oilfield Trailers",
+    "equipment_make": "Eager Beaver",
+    "equipment_model": "35 GLB",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "18x8.5 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "13900 lbs (6,305 kg)",
+            "Weight Capacity": "70000 lbs (31,752 kg)"
+        }
+    }
+}

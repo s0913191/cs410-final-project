@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/hamm/h-5i-p/30833663",
+    "source_url_id": "30833663",
+    "source_url_model": "h-5i-p",
+    "source_url_make": "hamm",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:46.117688",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Hamm",
+    "equipment_model": "H 5i P",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "132 in (335 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54 in (137 cm)",
+            "Vibration Frequency": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "59 in (150 cm)"
+        }
+    }
+}

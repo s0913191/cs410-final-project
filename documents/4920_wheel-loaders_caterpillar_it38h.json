@@ -1,0 +1,129 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/it38h/4920",
+    "source_url_id": "4920",
+    "source_url_model": "it38h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:14.849048",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "IT38H",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed front",
+            "Maximum Single-Wheel Rise and Fall": "17 in (43 cm)"
+        },
+        "Brakes": {
+            "Brakes": "Meets required standards"
+        },
+        "Bucket": {
+            "Breakout Force": "28326 lbs (12,849 kg)",
+            "Bucket Capacities": "4 cu yds (3 m)",
+            "Bucket Capacity - heaped": "4 cu yds (3 m)",
+            "Bucket Capacity - struck": "3.1 cu yds (2 m)",
+            "Maximum Bucket Capacity": "4 cu yds (3 m)"
+        },
+        "Dimensions": {
+            "Dump Clearance at Max Lift": "9.3 ft (3 m)",
+            "Fork Tine Length": "5 ft (2 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Height at Hook Max Reach": "6.1 ft (2 m)",
+            "Hinge Pin Max Height": "13 ft (4 m)",
+            "Hook Height at Max Lift - Extended": "22.1 ft (7 m)",
+            "Hook Height at Max Lift - extended": "22.07 ft (7 m)",
+            "Hook Height at Max Lift - Standard": "18.4 ft (5 m)",
+            "Hook Height at Max Lift - standard": "18.37 ft (5 m)",
+            "Hook Max Reach - Extended": "17.7 ft (5 m)",
+            "Hook Max Reach - extended": "17.62 ft (5 m)",
+            "Hook Max Reach - Standard": "12.4 ft (4 m)",
+            "Hook Max Reach - standard": "12.37 ft (4 m)",
+            "Hook Reach at Max Lift - Extended": "11.8 ft (3 m)",
+            "Hook Reach at Max Lift - extended": "11.75 ft (3 m)",
+            "Hook Reach at Max Lift - standard": "8.03 ft (2 m)",
+            "Hook Reach at Max Lift - Standard": "8.1 ft (2 m)",
+            "Length w/ Bucket on Ground": "24.8 ft (7 m)",
+            "Length with  out Forks on Ground": "27.4 ft (8 m)",
+            "Max Lift Height": "11.7 ft (3 m)",
+            "Reach at Max Height and Dump": "3.8 ft (1 m)",
+            "Wheelbase": "10 ft (3 m)",
+            "Width Over Tires": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "Cat 6.6 ACERT",
+            "Gross Power": "197.2 hp (147 kw)",
+            "Gross Power - SAE J1995": "197 hp (147 kw)",
+            "Max Torque": "620 lbs/ft",
+            "Net Power": "178.4 hp (133 kw)",
+            "Net Power - 80/1269/EEC": "180 hp (134 kw)",
+            "Net Power - ISO 9249": "180 hp (134 kw)",
+            "Net Power - SAE J1349": "178 hp (133 kw)",
+            "Peak Torque - 1,400 rpm - Net": "620 lbs/ft",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1400 rpm",
+            "Total Torque Rise": "0.38"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2 sec",
+            "Hydraulic Cycle Time - Dump": "1.4 sec",
+            "Hydraulic Cycle Time - Lower, Empty, Float Down": "2.7 sec",
+            "Hydraulic Cycle Time - Raise": "5.4 sec",
+            "Hydraulic Cycle Time - Total": "9.5 sec",
+            "Lower Time": "2.7 sec",
+            "Pilot System - Pump Output": "77.9 gal/min (291 l/min)",
+            "Pump Flow Capacity": "78 gal/min (295 l/min)",
+            "Pump Type": "Piston",
+            "Raise Time": "5 sec",
+            "Relief Valve Setting": "1000 psi",
+            "Steering System - Pump Type": "Piston"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Breakout Force": "27576 lbs (12,508 kg)",
+            "Cooling System Fluid Capacity": "9.6 gal (34 l)",
+            "Engine Oil Capacity": "4.6 gal (15 l)",
+            "Front Diff Fluid Capacity": "15.1 gal (57 l)",
+            "Fuel Capacity": "65.3 gal (246 l)",
+            "Hydraulic System Fluid Capacity": "23.6 gal (87 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "35282.8 lbs (16,004 kg)",
+            "Rear Axle Oscillation": "12  \t\u00b0",
+            "Rear Diff Fluid Capacity": "14.1 gal (53 l)",
+            "Static Tipping Load - Bucket": "23918 lbs (10,849 kg)",
+            "Static Tipping Load - Forks": "19546.2 lbs (8,866 kg)",
+            "Static Tipping Load - Full Turn": "22207 lbs (10,073 kg)",
+            "Static Tipping Load - Material Handler": "11598.6 lbs (5,261 kg)",
+            "Tire Size": "20.5-R25",
+            "Transmission Fluid Capacity": "11.4 gal (42 l)",
+            "Turning Radius": "20 ft (6 m)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "9.5 gal (34 l)",
+            "Crankcase": "4.6 gal (15 l)",
+            "Differential - Final Drives - Front": "15.1 gal (57 l)",
+            "Differential - Final Drives - Rear": "14 gal (53 l)",
+            "Fuel Tank - Standard": "65.3 gal (246 l)",
+            "Hydraulic Tank": "23.5 gal (87 l)",
+            "Transmission": "11.4 gal (42 l)"
+        },
+        "Transmission": {
+            "Forward - 1": "5 mph (8 kph)",
+            "Forward - 2": "9.1 mph (14 kph)",
+            "Forward - 3": "15.8 mph (24 kph)",
+            "Forward - 4": "26.8 mph (42 kph)",
+            "Max Speed Forward": "26.9 mph (42 kph)",
+            "Max Speed Reverse": "15.9 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Reverse - 1": "5 mph (8 kph)",
+            "Reverse - 2": "9.1 mph (14 kph)",
+            "Reverse - 3": "15.8 mph (24 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "33190 lbs (15,055 kg)"
+        }
+    }
+}

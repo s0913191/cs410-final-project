@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca260-pd/30800674",
+    "source_url_id": "30800674",
+    "source_url_model": "ca260-pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:33.836039",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA260 PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "122 in (310 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "1980 hz (118,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB 6.7"
+        },
+        "Operating Specifications": {
+            "Operating Width": "94 in (239 cm)"
+        }
+    }
+}

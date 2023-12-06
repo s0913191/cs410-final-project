@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/jcb/260t/47950",
+    "source_url_id": "47950",
+    "source_url_model": "260t",
+    "source_url_make": "jcb",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:35.054315",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "260T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Ground Clearance": "9.8 in (23 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length - with Bucket": "12.2 ft (4 m)",
+            "Reach at Max Lift and Dump": "2.9 ft (1 m)",
+            "Width Over Tracks": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "268 cu in (0 m)",
+            "Engine Model": "Dieselmax TC-63",
+            "Gross Power": "84 hp (63 kw)",
+            "Peak Torque": "267 lbs/ft",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "23 gal/min (87 l/min)",
+            "Relief Valve Pressure": "3335 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.8 cu yds (0 m)",
+            "Tipping Angle": "7991  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.1 gal (15 l)",
+            "Engine Oil Capacity": "3.7 gal (11 l)",
+            "Fuel Capacity": "27.3 gal (102 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed - low range": "5.7 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "10205 lbs (4,629 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.6 psi",
+            "Width of Track": "17.7 in (43 cm)"
+        }
+    }
+}

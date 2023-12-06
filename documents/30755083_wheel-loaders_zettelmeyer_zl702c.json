@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/zettelmeyer/zl702c/30755083",
+    "source_url_id": "30755083",
+    "source_url_model": "zl702c",
+    "source_url_make": "zettelmeyer",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:58:28.077172",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Zettelmeyer",
+    "equipment_model": "ZL702C",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "9217.2 lbs (4,181 kg)",
+            "Bucket Capacity - heaped": "1.2 cu yds (1 m)",
+            "Bucket Width": "6.3 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.2 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Hinge Pin - Max Height": "10.3 ft (3 m)",
+            "Length with Bucket on Ground": "16.5 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.5 ft (1 m)",
+            "Wheelbase": "6.6 ft (2 m)",
+            "Width Over Tires": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo + oil/air cooled",
+            "Displacement": "167 cu in (0 m)",
+            "Engine Model": "KHD BF 4L 1011 F",
+            "Gross Power": "68 hp (51 kw)",
+            "Net Power": "65 hp (48 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "13.8 gal/min (49 l/min)",
+            "Pump Type": "gear type",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "3340 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Engine Oil Fluid Capacity": "2.8 gal (8 l)",
+            "Front Axle/Diff Fluid Capacity": "2.7 gal (8 l)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "11020 lbs (4,999 kg)",
+            "Rear Axle Oscillation": "20  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "3 gal (11 l)",
+            "Static Tipping Weight": "8708.3 lbs (3,950 kg)",
+            "Tire Size": "405/70 R20",
+            "Turning Radius": "13.7 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic full power shift"
+        }
+    }
+}

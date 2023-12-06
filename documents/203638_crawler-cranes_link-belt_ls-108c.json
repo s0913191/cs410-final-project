@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/ls-108c/203638",
+    "source_url_id": "203638",
+    "source_url_model": "ls-108c",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:47.889017",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "LS-108C",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "100 ft (30 m)",
+            "Min Height @ Max Raise Angle": "40 ft (12 m)",
+            "Swing Speed": "4.3 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Tail Swing Radius": "12.4 ft (4 m)",
+            "Transport Height": "15.6 ft (5 m)",
+            "Transport Width": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.6 in (10 cm)",
+            "Displacement": "513 cu in (0 m)",
+            "Engine Make": "Isuzu",
+            "Engine Model": "6SA1",
+            "Max Torque": "376 lbs/ft",
+            "Net Power": "120 hp (89 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1850 rpm",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66 gal (250 l)"
+        },
+        "Transmission": {
+            "Max Speed": "1.2 mph (2 kph)"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "8",
+            "Width of Shoes": "30 in (76 cm)"
+        }
+    }
+}

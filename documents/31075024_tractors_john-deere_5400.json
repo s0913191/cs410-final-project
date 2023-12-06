@@ -1,0 +1,16 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/5400/31075024",
+    "source_url_id": "31075024",
+    "source_url_model": "5400",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:21:36.181656",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "5400",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "68 hp (51 kw)"
+        }
+    }
+}

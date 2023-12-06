@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/curb-gutter-machines/power-curber/5700c/27622",
+    "source_url_id": "27622",
+    "source_url_model": "5700c",
+    "source_url_make": "power-curber",
+    "source_url_category": "curb-gutter-machines",
+    "source_date_scraped": "2023-09-13 17:53:11.938142",
+    "equipment_category": "Curb / Gutter Machines",
+    "equipment_make": "Power Curber",
+    "equipment_model": "5700C",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Hopper/Paver": {
+            "Paving Speed": "50 ft/min",
+            "Paving Width - max": "11 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "25500 lbs (11,567 kg)"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/takeuchi/tl12r2/30146598",
+    "source_url_id": "30146598",
+    "source_url_model": "tl12r2",
+    "source_url_make": "takeuchi",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:12.996272",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TL12R2",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "111 hp (83 kw)"
+        },
+        "Loader": {
+            "Operating Width": "77.2 in (196 cm)"
+        }
+    }
+}

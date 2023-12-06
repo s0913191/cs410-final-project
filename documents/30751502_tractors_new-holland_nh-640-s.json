@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/nh-640-s/30751502",
+    "source_url_id": "30751502",
+    "source_url_model": "nh-640-s",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:35.122932",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "NH 640 S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "11 in (28 cm)",
+            "Tire Size": "7.50-16  16.9/14-30"
+        },
+        "Engine": {
+            "Engine Model": "8045.05",
+            "Gross Power": "85 hp (63 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat. 1-2",
+            "Operating Weight": "4629.8 lbs (2,100 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Gearbox with constant-mesh gears"
+        }
+    }
+}

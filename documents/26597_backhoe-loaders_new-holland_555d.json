@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/new-holland/555d/26597",
+    "source_url_id": "26597",
+    "source_url_model": "555d",
+    "source_url_make": "new-holland",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:08.535275",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "555D",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "10319.9 lbs (4,681 kg)",
+            "Dig Depth": "14.8 ft (4 m)",
+            "Load Height": "11.5 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "428 cu in (0 m)",
+            "Engine Make": "Ford",
+            "Engine Model": "Cat C7.1 ACERT",
+            "Gross Power": "275 hp (205 kw)",
+            "Net Power": "65 hp (48 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5.4 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Open center"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "12000 lbs (5,443 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "12 V V"
+        },
+        "Service Refill": {
+            "Cooling System": "15.1 gal (57 l)",
+            "Fuel Tank": "99.8 gal (375 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Power shuttle"
+        }
+    }
+}

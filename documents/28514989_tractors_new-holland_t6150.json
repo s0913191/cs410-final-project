@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t6150/28514989",
+    "source_url_id": "28514989",
+    "source_url_model": "t6150",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:52.794861",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T6.150",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.9 in (46 cm)",
+            "Height - Top of ROPS/FOPS": "9.6 ft (3 m)",
+            "Overall Length": "192.3 in (488 cm)",
+            "Overall Width": "7.5 ft (2 m)",
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Emissions Certification": "Tier 4A",
+            "Gross Power": "119.4 hp (89 kw)",
+            "Max Torque": "405 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5.2 in (13 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "21.2 gal/min (79 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "17337.2 lbs (7,864 kg)",
+            "DEF tank capacity": "9.8 gal (34 l)",
+            "Fuel Capacity": "46.3 gal (174 l)",
+            "Turning Radius": "13.3 ft (4 m)"
+        },
+        "Production": {
+            "Series": "T6 Series",
+            "Years Manufactured": "2012 - 2014"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "17",
+            "Number of Reverse Gears": "16"
+        }
+    }
+}

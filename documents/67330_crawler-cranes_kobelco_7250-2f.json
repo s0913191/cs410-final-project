@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/kobelco/7250-2f/67330",
+    "source_url_id": "67330",
+    "source_url_model": "7250-2f",
+    "source_url_make": "kobelco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:32.139134",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Kobelco",
+    "equipment_model": "7250-2F",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "90  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "250 ft (76 m)",
+            "Max Lift Capacity": "499999.6 lbs (226,798 kg)",
+            "Min Height @ Max Raise Angle": "49.9 ft (15 m)",
+            "Swing Speed": "2.2 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Operating Width": "24.6 ft (7 m)",
+            "Tail Swing Radius": "19.2 ft (6 m)",
+            "Transport Height": "29.3 ft (9 m)",
+            "Transport Width": "21 ft (6 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type with replaceable paper element",
+            "Displacement": "642 cu in (0 m)",
+            "Emissions level": "EPA Tier III",
+            "Engine Make": "Hino",
+            "Engine Model": "P11C-UN",
+            "Engine Type": "Water-cooled, direct fuel injection, with turbocharger",
+            "Fuel Filter": "Replaceable paper element",
+            "Gross Power": "331.3 hp (247 kw)",
+            "Max Torque": "958.9 lbs/ft",
+            "Power Measured @": "2000 rpm",
+            "Starter": "8.1 hp (6 kw)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "158.6 gal (598 l)",
+            "Line pull - Main winches": "29674.8 lbs (13,460 kg)",
+            "Operating Weight": "422000.1 lbs (191,418 kg)",
+            "Rope diameter- Main winches": "1.2 in (3 cm)"
+        },
+        "Transmission": {
+            "Max Speed": "0.7 mph (0 kph)"
+        },
+        "Undercarriage": {
+            "Width of Shoes": "42.2 in (107 cm)"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/john-deere/762b-series-ii/30754418",
+    "source_url_id": "30754418",
+    "source_url_model": "762b-series-ii",
+    "source_url_make": "john-deere",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:51.686319",
+    "equipment_category": "Scrapers",
+    "equipment_make": "John Deere",
+    "equipment_model": "762B Series II",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "11.6 cu yds (8 m)",
+            "Max Depth of Cut": "7.1 in (18 cm)",
+            "Width of Cut": "7.6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Suspended Cab": "9.9 ft (3 m)",
+            "Overall Height": "9.3 ft (3 m)",
+            "Overall Length": "33.1 ft (10 m)",
+            "Overall Width": "8.1 ft (2 m)",
+            "Tractor Ground Clearance": "1.9 ft (0 m)",
+            "Wheelbase": "20.4 ft (6 m)"
+        },
+        "Elevator": {
+            "Length of Flights": "5.6 ft (2 m)",
+            "Max Working Speed": "207 ft/min",
+            "Number of Flights": "18"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Differential Fluid Capacity": "8.3 gal (30 l)",
+            "Engine Oil Capacity": "7.6 gal (27 l)",
+            "Fuel Capacity": "87 gal (329 l)",
+            "Hydraulic System Fluid Capacity": "22 gal (83 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "23.5-25",
+            "Transmission Fluid Capacity": "13 gal (49 l)"
+        },
+        "Tractor Engine": {
+            "Aspiration": "turbocharged and aftercooled",
+            "Displacement": "496 cu in (0 m)",
+            "Gross Power": "190 hp (142 kw)",
+            "Make": "John Deere",
+            "Model": "6081AT001",
+            "Net Power": "180 hp (134 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Transmission": {
+            "Max Speed Forward": "25.5 mph (40 kph)",
+            "Max Speed Reverse": "4.5 mph (6 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "planetary"
+        },
+        "Weights": {
+            "Front Axel - loaded": "32200 lbs (14,606 kg)",
+            "Front Axle - empty": "22900 lbs (10,387 kg)",
+            "Rear Axle - empty": "12700 lbs (5,761 kg)",
+            "Rear Axle - loaded": "31000 lbs (14,062 kg)",
+            "Total Operating - empty": "35600 lbs (16,148 kg)",
+            "Total Operating - Loaded": "63200 lbs (28,667 kg)"
+        }
+    }
+}

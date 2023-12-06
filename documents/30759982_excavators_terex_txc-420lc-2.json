@@ -1,0 +1,81 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/txc-420lc-2/30759982",
+    "source_url_id": "30759982",
+    "source_url_model": "txc-420lc-2",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:34.958991",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "TXC 420LC-2",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "34.7 ft (10 m)",
+            "Max Digging Depth": "22.8 ft (7 m)",
+            "Max Loading Height": "24.5 ft (7 m)",
+            "Max Reach Along Ground": "39.33 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "12 ft (4 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "35.9 ft (11 m)",
+            "Max Digging Depth": "25.4 ft (8 m)",
+            "Max Loading Height": "25.6 ft (8 m)",
+            "Max Reach Along Ground": "37.1 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "14.3 ft (4 m)",
+            "Shipping Height of Unit": "11.5 ft (3 m)",
+            "Shipping Length of Unit": "38.3 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "37.3 ft (11 m)",
+            "Max Digging Depth": "27.7 ft (8 m)",
+            "Max Loading Height": "27 ft (8 m)",
+            "Max Reach Along Ground": "39.4 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "16.9 ft (5 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2.9 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1.9 cu yds (1 m)",
+            "Reference Bucket Capacity": "2.5 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Length of Track on Ground": "14 ft (4 m)",
+            "Removal Counterweight Clearance": "4.2 ft (1 m)",
+            "Tail Swing Radius": "12.1 ft (4 m)",
+            "Width to Outside of Tracks": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged air to air intercooled",
+            "Displacement": "669 cu in (0 m)",
+            "Engine Model": "DV11",
+            "Max Torque": "1101 lbs/ft",
+            "Net Power": "293 hp (218 kw)",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Engine Oil Capacity": "11.7 gal (42 l)",
+            "Fuel Capacity": "145.3 gal (549 l)",
+            "Hydraulic Pump Flow Capacity": "166.5 gal/min (628 l/min)",
+            "Hydraulic System Fluid Capacity": "111 gal (420 l)",
+            "Hydraulic System Relief Valve Pressure": "4550 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "90170 lbs (40,901 kg)",
+            "Swing Drive Fluid Capacity": "1.6 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.2 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "10.5 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "50",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "9.1 ft (3 m)"
+        }
+    }
+}

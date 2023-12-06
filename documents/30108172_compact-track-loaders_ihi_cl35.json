@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/ihi/cl35/30108172",
+    "source_url_id": "30108172",
+    "source_url_model": "cl35",
+    "source_url_make": "ihi",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:30.019263",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "IHI",
+    "equipment_model": "CL35",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "12.8 ft (4 m)",
+            "Ground Clearance": "12.3 in (30 cm)",
+            "Height - Top of Cab": "7.1 ft (2 m)",
+            "Reach at Max Lift and Dump": "2.5 ft (1 m)",
+            "Width Over Tracks": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "202.5 cu in (0 m)",
+            "Engine Make": "Yanmar",
+            "Engine Model": "4TNV98",
+            "Gross Power": "65.8 hp (48 kw)",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "17.7 gal/min (64 l/min)",
+            "Relief Valve Pressure": "2987.8 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load": "2458.2 lbs (1,115 kg)",
+            "Tip Capacity": "4916.4 lbs (2,230 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "24.1 gal (91 l)",
+            "Max Speed - high range": "6.3 mph (10 kph)",
+            "Max Speed - low range": "4.2 mph (6 kph)",
+            "Operating Weight": "7826.5 lbs (3,550 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.7 psi",
+            "Length of Track on Ground": "4.6 ft (1 m)"
+        }
+    }
+}

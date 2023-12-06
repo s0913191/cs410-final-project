@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/case-ih/lbx332-packer-cutter/30752368",
+    "source_url_id": "30752368",
+    "source_url_model": "lbx332-packer-cutter",
+    "source_url_make": "case-ih",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:58:52.976289",
+    "equipment_category": "Balers",
+    "equipment_make": "Case Ih",
+    "equipment_model": "LBX332 Packer Cutter",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "2.8 ft (1 m)",
+            "Bale Length - max": "9 ft (3 m)",
+            "Bale Length - min": "3.8 ft (1 m)",
+            "Bale Width": "2.6 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "hydraulic",
+            "Number of Bars": "4",
+            "Number of Tines": "56",
+            "Tine to Tine Width": "5.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "10 ft (3 m)",
+            "Overall Length": "27.8 ft (8 m)",
+            "Overall Width": "8.5 ft (2 m)",
+            "Tractor PTO Power Required": "110 hp (82 kw)",
+            "Weight": "16755 lbs (7,600 kg)"
+        },
+        "Feeding Chamber": {
+            "Packer Type": "3 forks, 6 double tines",
+            "Stuffer Type": "6 tine"
+        },
+        "Plunger": {
+            "Bearing Type": "4 vertical, 2 horizontal roller",
+            "Density Control": "hydraulic",
+            "SPM": "42",
+            "Stroke Length": "28 in (71 cm)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "30",
+            "Twine Type": "4 double knotter"
+        }
+    }
+}

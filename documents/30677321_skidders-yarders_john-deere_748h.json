@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/john-deere/748h/30677321",
+    "source_url_id": "30677321",
+    "source_url_model": "748h",
+    "source_url_make": "john-deere",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:34.372476",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "John Deere",
+    "equipment_model": "748H",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Width": "59.1 ft (18 m)",
+            "Cable Width": "179 in (455 cm)",
+            "Drum Capacity at Cable Width": "43449 ft (13,243 m)",
+            "Drum Diameter": "0.8 in (0 cm)",
+            "Grapple Capacity - tongs tip to tip": "8 CUBIC ft",
+            "Ground Clearance": "14.1 ft (4 m)",
+            "Height": "5.2 ft (2 m)",
+            "Height - Top of Cab": "2.1 ft (1 m)",
+            "Height of Grapple from Ground": "10.6 ft (3 m)",
+            "Max Blade Height": "14.9 in (36 cm)",
+            "Max Height of Boom": "10.3 ft (3 m)",
+            "Overall Length": "11.6 ft (3 m)",
+            "Overall Width": "10.3 ft (3 m)",
+            "Wheelbase": "5.11 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "37540",
+            "Displacement": "turbocharged cu in (0 m)",
+            "Engine Model": "189",
+            "Net Power": "2200 hp (1,641 kw)",
+            "Power Measured @": "414 rpm",
+            "Torque Measured @": "87 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "3100 gal/min (11,734 l/min)",
+            "Pump Type": "42",
+            "Relief Valve Pressure": "12.5 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "powershift",
+            "Hydraulic System Fluid Capacity": "45  \t\u00b0",
+            "Operating Voltage": "120  A",
+            "Operating Weight": "12 V lbs (5 kg)",
+            "Steering Angle": "30.5 - 32 V  -",
+            "Tire Size": "9.7",
+            "Transmission Fluid Capacity": "15 gal (57 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "10.8 mph (16 kph)",
+            "Number of Forward Gears": "7",
+            "Number of Reverse Gears": "14.3",
+            "Transmission Type": "8"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "variable displacement axial-piston cu in (0 m)",
+            "Length of Track on Ground": "6068H ft (1,850 m)"
+        },
+        "Winch - Grapple Skidder": {
+            "Drum Capacity - 25.4mm (1 in)": "30  \t\u00b0"
+        }
+    }
+}

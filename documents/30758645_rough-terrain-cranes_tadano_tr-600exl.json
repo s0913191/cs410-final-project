@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/tadano/tr-600exl/30758645",
+    "source_url_id": "30758645",
+    "source_url_model": "tr-600exl",
+    "source_url_make": "tadano",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:03.321564",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "TR-600EXL",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "138.5 ft (42 m)",
+            "Max Lift Capacity": "132277.4 lbs (60,001 kg)",
+            "Min Height @ Max Raise Angle": "36.1 ft (11 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2.4 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "26673.3 ft (8,130 m)",
+            "Transport Height": "12.5 ft (4 m)",
+            "Transport Length": "44.8 ft (13 m)",
+            "Transport Width": "10.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.6 ft (4 m)",
+            "Wheelbase": "155.6 in (394 cm)",
+            "Width w/ Outriggers Extended": "23.7 ft (7 m)"
+        },
+        "Engine": {
+            "Bore": "4.7 in (10 cm)",
+            "Displacement": "460.5 cu in (0 m)",
+            "Engine Make": "Mitsubishi",
+            "Engine Model": "6D16-TUA",
+            "Engine Type": "Direct injection Diesel",
+            "Gross Power": "211.9 hp (157 kw)",
+            "Max Torque": "520.8 lbs/ft",
+            "Power Measured @": "2800 rpm",
+            "Stroke": "4.6 in (10 cm)",
+            "Torque Measured @": "1250 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "195.5 gal (738 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "102515 lbs (46,501 kg)",
+            "Tire Size": "29.5 x 25 - 22PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power shift"
+        }
+    }
+}

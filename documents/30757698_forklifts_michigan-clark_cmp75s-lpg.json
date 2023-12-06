@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/michigan-clark/cmp75s-lpg/30757698",
+    "source_url_id": "30757698",
+    "source_url_model": "cmp75s-lpg",
+    "source_url_make": "michigan-clark",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:36:06.940545",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Michigan / Clark",
+    "equipment_model": "CMP75S LPG",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "8.1 in (20 cm)",
+            "Height to Top of Overhead Guard": "7.8 ft (2 m)",
+            "Length to Fork Face": "11.8 ft (3 m)",
+            "Max Fork Height": "11.5 ft (3 m)",
+            "Overall Height - mast lowered": "9.1 ft (3 m)",
+            "Overall Width": "7 ft (2 m)",
+            "Right Angle Stack": "13.5 ft (4 m)",
+            "Turning Radius": "11.4 ft (3 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "262 cu in (0 m)",
+            "Engine Model": "Vortec 4300LT",
+            "Fuel Type": "LPG",
+            "Number of Cylinders": "6",
+            "Power": "93 hp (69 kw)",
+            "Power Measured @": "2400 rpm",
+            "Torque": "235 lbs/ft",
+            "Torque Measured @": "2000 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "73 ft/min",
+            "Load Capacity": "16500 lbs (7,484 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "85 ft/min",
+            "Mast Tip Forward": "15  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0",
+            "Max Fork Spread": "80.4 in (203 cm)",
+            "Number of Mast Sections": "3"
+        },
+        "Operating Specifications": {
+            "Max Speed": "17.1 mph (27 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "220152 lbs (99,860 kg)",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

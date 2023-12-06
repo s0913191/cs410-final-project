@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/multiquip/p48k2b/30783746",
+    "source_url_id": "30783746",
+    "source_url_model": "p48k2b",
+    "source_url_make": "multiquip",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:52.882948",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Multiquip",
+    "equipment_model": "P48K2B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "144 in (366 cm)"
+        },
+        "Drum": {
+            "Drum Width": "47.2 in (119 cm)",
+            "Vibration Frequency": "2040 hz (122,400 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "56 in (142 cm)"
+        }
+    }
+}

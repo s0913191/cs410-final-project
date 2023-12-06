@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/sv210db-1/30834023",
+    "source_url_id": "30834023",
+    "source_url_model": "sv210db-1",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:36.705393",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV210DB-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "103 Inches"
+        },
+        "Drum": {
+            "Drum Width": "54 Inches",
+            "Vibration Frequency": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "62 Inches"
+        }
+    }
+}

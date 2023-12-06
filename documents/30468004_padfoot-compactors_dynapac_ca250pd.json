@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca250pd/30468004",
+    "source_url_id": "30468004",
+    "source_url_model": "ca250pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:33.110677",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA250PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.9 in (43 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length w/o Blade": "18.3 ft (5 m)",
+            "Overall Width": "7 ft (2 m)",
+            "Turning Radius - Inside": "0.8 ft (0 m)",
+            "Width Over Tires": "7 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "67442.7 lbs (30,592 kg)",
+            "Centrifugal Force - Low": "32822.2 lbs (14,888 kg)",
+            "Drum Diameter": "60 in (152 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Frequency": "33 hz (1,980 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "130",
+            "Pad Height": "4 in (10 cm)",
+            "Pad Surface Area": "22.7 cu in (0 m)",
+            "Vibration Frequency 1": "33 hz (1,980 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "water cooled turbo diesel with after cooler",
+            "Engine Model": "QSB 4.5",
+            "Gross Power": "110 hp (82 kw)",
+            "Make": "Cummins",
+            "Model": "QSB4.5T3",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operating Weight": "26896.4 lbs (12,200 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1x26"
+        }
+    }
+}

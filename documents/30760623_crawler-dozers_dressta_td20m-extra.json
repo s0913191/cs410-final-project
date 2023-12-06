@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td20m-extra/30760623",
+    "source_url_id": "30760623",
+    "source_url_model": "td20m-extra",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:55.857318",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD20M Extra",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSC 8.3 (Tier III)",
+            "Net Power": "240 hp (179 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "53351 lbs (24,200 kg)"
+        }
+    }
+}

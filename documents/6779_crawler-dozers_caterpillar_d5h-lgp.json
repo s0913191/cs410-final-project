@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d5h-lgp/6779",
+    "source_url_id": "6779",
+    "source_url_model": "d5h-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:34.472455",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D5H LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Length of Track on Ground": "10.3 ft (3 m)",
+            "Length w/ Blade": "17.4 ft (5 m)",
+            "Length w/o Blade": "13.6 ft (4 m)",
+            "Width Over Tracks": "10 ft in (25 cm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "427.2 cu in (0 m)",
+            "Engine Model": "3304",
+            "Gross Power": "129 hp (96 kw)",
+            "Net Power": "120 hp (89 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "28.8 gal/min (106 l/min)",
+            "Pump type": "Load sensing hydraulics, variable displacement piston pump",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "7.4 gal (27 l)",
+            "Engine Oil Capacity": "4.8 gal (15 l)",
+            "Final Drives Fluid Capacity": "1.9 gal (4 l)",
+            "Fuel Capacity": "65 gal (246 l)",
+            "Hydraulic Fluid Capacity": "18.5 gal (68 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "32380 lbs (14,688 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "4.2 cu yds (3 m)",
+            "Height": "40.4 in (102 cm)",
+            "Width": "13.1 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.3 mph (10 kph)",
+            "Max Speed - Reverse": "7.8 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Planetary powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "8308.1 cu in (0 m)",
+            "Ground Pressure": "3.9 psi",
+            "Number of Shoes per Side": "46",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "33.9 in (84 cm)",
+            "Track Gauge": "7.1 ft (2 m)"
+        }
+    }
+}

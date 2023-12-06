@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/volvo/bm-a20-6x4/30750537",
+    "source_url_id": "30750537",
+    "source_url_model": "bm-a20-6x4",
+    "source_url_make": "volvo",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:35:02.046212",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "BM A20 6x4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2 ft (1 m)",
+            "Dump Height": "20.9 ft (6 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Overall Height": "10.2 ft (3 m)",
+            "Overall Length": "33 ft (10 m)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Wheelbase": "14.2 ft (4 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "14.4 cu yds (11 m)",
+            "Capacity - Struck": "11.4 cu yds (8 m)",
+            "Dump Angle": "63  \t\u00b0",
+            "Lower Time": "16 sec",
+            "Raise Time": "16 sec",
+            "Rated Payload": "40785.6 lbs (18,500 kg)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "410.7 cu in (0 m)",
+            "Engine Model": "TD 71G",
+            "Gross Power": "201 hp (150 kw)",
+            "Max Torque": "472.1 lbs/ft",
+            "Net Power": "186 hp (139 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1700 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Engine Oil Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "78 gal (295 l)",
+            "Hydraulic System Fluid Capacity": "45 gal (170 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "Front - 18.00 R 25* / Rear 20.5 R 25*",
+            "Transmission Fluid Capacity": "5.6 gal (19 l)"
+        },
+        "Transmission": {
+            "Max Speed": "21.2 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Automatic Power-Shift"
+        },
+        "Weights": {
+            "Front Axle - empty": "17200 lbs (7,802 kg)",
+            "Front Axle - loaded": "23150 lbs (10,501 kg)",
+            "Rear Axle - empty": "15550 lbs (7,053 kg)",
+            "Rear Axle - loaded": "50380 lbs (22,852 kg)",
+            "Total Empty": "32750 lbs (14,855 kg)",
+            "Total Loaded": "73540 lbs (33,358 kg)"
+        }
+    }
+}

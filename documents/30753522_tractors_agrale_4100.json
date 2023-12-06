@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/agrale/4100/30753522",
+    "source_url_id": "30753522",
+    "source_url_model": "4100",
+    "source_url_make": "agrale",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:08:57.072422",
+    "equipment_category": "Tractors",
+    "equipment_make": "Agrale",
+    "equipment_model": "4100",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "4 ft (1 m)",
+            "Overall Length": "8 in (20 cm)",
+            "Overall Width": "3.9 ft (1 m)",
+            "Wheelbase": "4 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "40.8 cu in (0 m)",
+            "Engine Model": "M 93",
+            "Gross Power": "14.7 hp (10 kw)",
+            "Max Torque": "28.8 lbs/ft",
+            "Number of Cylinders": "1",
+            "Power Measured @": "2750 rpm",
+            "PTO Power": "13.2 hp (10 kw)",
+            "Torque Measured @": "2350 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "6",
+            "Pump Flow Capacity": "3.6 gal/min (11 l/min)",
+            "Relief Valve Setting": "1740.5 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "970.1 lbs (440 kg)",
+            "Alternator Supplied Amperage": "55  A",
+            "Engine Oil Capacity": "0.7 gal (0 l)",
+            "Fuel Capacity": "5.2 gal (19 l)",
+            "Hydraulic System Fluid Capacity": "2.7 gal (8 l)",
+            "Operating Voltage": "14 V V",
+            "Operating Weight": "2513.3 lbs (1,140 kg)",
+            "Tire Size Front - 2wd / 4wd": "4.00x15",
+            "Turning Radius": "7.1 ft (2 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "8.3/8x24"
+        },
+        "Transmission": {
+            "Max Speed": "10.1 mph (16 kph)",
+            "Number of Forward Gears": "7",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

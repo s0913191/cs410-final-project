@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/sl30rt/37119",
+    "source_url_id": "37119",
+    "source_url_model": "sl30rt",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:16.340483",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "SL30RT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,300 lbs (590 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "SP/30 ft (0 m)",
+            "Stowed Height": "8.5 ft (2 m)",
+            "Stowed Width": "7 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "26x12-10 Ply"
+        },
+        "Transmission": {
+            "4WD": "std."
+        }
+    }
+}

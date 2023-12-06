@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/sakai/ts160/28511976",
+    "source_url_id": "28511976",
+    "source_url_model": "ts160",
+    "source_url_make": "sakai",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:39.346071",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "TS160",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "0.7 ft (0 m)",
+            "Height - Top of ROPS/FOPS": "5.9 ft (2 m)",
+            "Overall Length": "8.8 in (20 cm)",
+            "Overall Width": "4.3 ft (1 m)",
+            "Wheelbase": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "D1105-K2A diesel engine",
+            "Gross Power": "19.6 hp (14 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "9.6 gal (34 l)",
+            "Hydraulic System Fluid Capacity": "10.4 gal (38 l)",
+            "Max Speed": "9.4 mph (14 kph)",
+            "Operating Voltage": "12 V V",
+            "Water Spray Tank Fluid Capacity": "48.9 gal (182 l)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "4",
+            "Number of Tires - Rear": "3",
+            "Standard Tire Size": "9.5/65-15-6PR(OR) smooth tread",
+            "Wheel Track/Tire Overlap": "3.3 in (8 cm)"
+        },
+        "Weights": {
+            "Average Weight per Wheel - Max Ballast": "913.4 lbs (414 kg)",
+            "Average Weight per Wheel - Standard": "855.4 lbs (388 kg)",
+            "Operating Weight - max ballast": "6393.5 lbs (2,900 kg)",
+            "Operating Weight - standard": "5985.6 lbs (2,715 kg)"
+        }
+    }
+}

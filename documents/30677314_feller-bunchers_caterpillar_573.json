@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/feller-bunchers/caterpillar/573/30677314",
+    "source_url_id": "30677314",
+    "source_url_model": "573",
+    "source_url_make": "caterpillar",
+    "source_url_category": "feller-bunchers",
+    "source_date_scraped": "2023-09-13 17:50:36.363589",
+    "equipment_category": "Feller Bunchers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "573",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "21 in (53 cm)",
+            "Height - Overall": "126 in (320 cm)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Length - With 22HC High Capacity Saw": "302.4 in (767 cm)",
+            "Overall Length": "25.2 ft (8 m)",
+            "Overall Width": "9.6 ft (3 m)",
+            "Wheel Base": "9.5 ft (3 m)",
+            "Wheelbase": "9.5 ft (3 m)",
+            "Width - Overall - 28L Tires": "116 in (295 cm)"
+        },
+        "Engine": {
+            "Engine Model": "Cat C7 ACERT",
+            "Engine Power": "225 hp (168 kw)",
+            "Net Power": "225.3 hp (168 kw)",
+            "Power Measured @": "2200 rpm",
+            "Rated Power": "225 hp (168 kw)"
+        },
+        "Hydraulic System": {
+            "Cylinders - Lift": "102 mm X 64 mm     (4.0 in X 2.5 in )",
+            "Cylinders - Steering": "89 mm X 51 mm     (3.5 in X 2.0 in)",
+            "Cylinders - Tilt": "102 mm X 64 mm     (4.0 in X 2.5 in )",
+            "Disc Saw Pump Flow": "32 gal/min (121 l/min)",
+            "Hydrostatic Pump Flow": "65 gal/min (246 l/min)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Articulation Angle - Left/Right - With 28L Tires": "90  \t\u00b0",
+            "Fuel Capacity": "72.2 gal (273 l)",
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Max Speed": "15 mph (24 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight w/o Attachment": "27776.1 lbs (12,599 kg)",
+            "Steering Articulation": "90  \t\u00b0",
+            "Tire Size": "28L x 26 (14PR)",
+            "Travel Speed - High Range with 28L Tires": "15 mph (24 kph)",
+            "Travel Speed - Low Range with 28L Tires": "5 mph (8 kph)",
+            "Turning Radius - Outside Front Tires - 28L tires": "198.1 in (503 cm)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank": "72 gal (273 l)"
+        },
+        "Transmission": {
+            "Transmission Type": "Hydrostatic transmission"
+        },
+        "Weights": {
+            "Est. Operating Weight": "27776.1 lbs (12,599 kg)",
+            "Operating Weight - Without Attachment": "27775 lbs (12,599 kg)"
+        }
+    }
+}

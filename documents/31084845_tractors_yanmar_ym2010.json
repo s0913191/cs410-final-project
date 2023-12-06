@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ym2010/31084845",
+    "source_url_id": "31084845",
+    "source_url_model": "ym2010",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:54.023967",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "YM2010",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "20 hp (15 kw)"
+        },
+        "Production": {
+            "Series": "YM10 Series",
+            "Years Manufactured": "1980 - 1981"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/caterpillar/657b/7012",
+    "source_url_id": "7012",
+    "source_url_model": "657b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:44.410498",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "657B",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "44 cu yds (34 m)",
+            "Struck Capacity": "32.1 cu yds (24 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "13.9 ft (4 m)",
+            "Overall Length": "51.6 ft (16 m)",
+            "Overall Width": "14.2 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Tire Size": "37.5-39, 44"
+        },
+        "Scraper Engine": {
+            "Gross Power": "400 hp (298 kw)",
+            "Make": "Caterpillar"
+        },
+        "Tractor Engine": {
+            "Gross Power": "550 hp (410 kw)",
+            "Make": "Caterpillar"
+        },
+        "Weights": {
+            "Total Operating - empty": "139100 lbs (63,095 kg)"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/apache/as1020/30672130",
+    "source_url_id": "30672130",
+    "source_url_model": "as1020",
+    "source_url_make": "apache",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:05:47.723905",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Apache",
+    "equipment_model": "AS1020",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "74 in (188 cm)",
+            "Min Adjustable Height": "14 in (36 cm)"
+        },
+        "Dimensions": {
+            "Overall Length": "24 in (61 cm)",
+            "Tire Size": "Front - 380/80R38, Rear - 380/90R46",
+            "Transport Height": "12 ft (4 m)",
+            "Transport Width": "12 ft (4 m)",
+            "Wheelbase": "15 ft (5 m)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "173 Tier III"
+        },
+        "Operating Specifications": {
+            "Dry Weight - max": "18499.9 lbs (8,391 kg)",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Hydraulic Fluid Capacity": "40 gal (151 l)",
+            "Solution Tank Capacity": "1000 gal (3,785 l)"
+        },
+        "Transmission": {
+            "Max Speed": "35 mph (56 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "ZF Powershift"
+        }
+    }
+}

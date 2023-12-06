@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt875bxl/48215",
+    "source_url_id": "48215",
+    "source_url_model": "rt875bxl",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:38.742863",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT875BXL",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "137.8 ft (42 m)",
+            "Min Height @ Max Raise Angle": "34.8 ft (10 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "28251.4 ft (8,611 m)",
+            "Transport Height": "13.1 ft (4 m)",
+            "Transport Length": "43 ft (13 m)",
+            "Transport Width": "10.4 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "14.1 ft (4 m)",
+            "Wheelbase": "160 in (406 cm)",
+            "Width w/ Outriggers Extended": "26.6 ft (8 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "6CTA",
+            "Gross Power": "249.5 hp (186 kw)",
+            "Max Torque": "794.4 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "80.1 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "200 gal (757 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "103471.8 lbs (46,934 kg)",
+            "Tire Size": "33.25 x 29 - 32PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Full powershift"
+        }
+    }
+}

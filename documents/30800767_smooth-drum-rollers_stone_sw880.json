@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/sw880/30800767",
+    "source_url_id": "30800767",
+    "source_url_model": "sw880",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:10.692001",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "SW880",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "173 in (439 cm)"
+        },
+        "Drum": {
+            "Drum Width": "79 in (201 cm)",
+            "Vibration Frequency": "2500 - 4,000 hz (150,000 - 240,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz TCD2012L04-2V"
+        },
+        "Operating Specifications": {
+            "Operating Width": "87 in (221 cm)"
+        }
+    }
+}

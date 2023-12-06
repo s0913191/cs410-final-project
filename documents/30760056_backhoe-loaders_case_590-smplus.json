@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/case/590-smplus/30760056",
+    "source_url_id": "30760056",
+    "source_url_model": "590-smplus",
+    "source_url_make": "case",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:18.308734",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "590 SM+",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "15.11 ft (5 m)",
+            "Load Height": "11.5 ft (3 m)",
+            "Loading Height": "11.5 ft (3 m)",
+            "Max Digging Depth": "15.11 ft (5 m)"
+        },
+        "Engine": {
+            "Net Power": "108 hp (81 kw)"
+        },
+        "Loader": {
+            "Breakout Force": "10981 lbs (4,981 kg)",
+            "Bucket Breakout Force": "10981 lbs (4,981 kg)",
+            "Lift Capacity": "7327 lbs (3,324 kg)",
+            "SAE - Net": "108 hp (81 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "15268 lbs (6,926 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "25.6 mph (40 kph)"
+        },
+        "Travel Speed": {
+            "4th Gear Fwd": "25.6 mph (40 kph)"
+        }
+    }
+}

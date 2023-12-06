@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/kubota/svl75-2hwc/30476399",
+    "source_url_id": "30476399",
+    "source_url_model": "svl75-2hwc",
+    "source_url_make": "kubota",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:50.008170",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Kubota",
+    "equipment_model": "SVL75-2HWC",
+    "equipment_spec": {
+        "Capacities": {
+            "Hydraulic oil tank": "9.2 gal (34 l)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Make": "Kubota",
+            "Engine Model": "V3800CR-TIE F4",
+            "Model Name": "SVL75-2HFWC",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "17.4 gal/min (64 l/min)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "6203.9 lbs (2,814 kg)",
+            "Lift arm Breakout force": "4766.4 lbs (2,162 kg)",
+            "Lift arm path": "Vertical",
+            "Tipping Angle": "6569.8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "24.6 gal (91 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "9358.7 lbs (4,245 kg)"
+        },
+        "Transmission": {
+            "Max Travel Speed": "7.1 mph (11 kph)",
+            "Min Travel Speed": "4.7 mph (6 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.6 psi",
+            "Length of Track on Ground": "4.8 ft (1 m)",
+            "Number of Track Rollers per Side": "4",
+            "Width of Track": "12.6 in (30 cm)"
+        }
+    }
+}

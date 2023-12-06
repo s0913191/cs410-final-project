@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/steyr/495-kompakt/30751380",
+    "source_url_id": "30751380",
+    "source_url_model": "495-kompakt",
+    "source_url_make": "steyr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:53.856557",
+    "equipment_category": "Tractors",
+    "equipment_make": "Steyr",
+    "equipment_model": "495 Kompakt",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "11.8 in (28 cm)",
+            "Wheelbase": "7.2 ft (2 m)",
+            "Width Outside Frame": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Light Turbocharged",
+            "Displacement": "274.7 cu in (0 m)",
+            "Engine Model": "TR14396-2000/25/EC",
+            "Net Power": "90 hp (67 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "Torque Rise": "37%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "12.5 gal/min (45 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Operating Weight": "6724.1 lbs (3,050 kg)",
+            "Turning Radius": "13 ft (4 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "STEYR Synchro Shift"
+        }
+    }
+}

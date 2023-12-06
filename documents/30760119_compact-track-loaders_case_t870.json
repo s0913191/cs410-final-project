@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/case/t870/30760119",
+    "source_url_id": "30760119",
+    "source_url_model": "t870",
+    "source_url_make": "case",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:43.368979",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "T870",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "99 hp (74 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "3525 lbs (1,599 kg)",
+            "Operating Width": "83.4 in (211 cm)"
+        }
+    }
+}

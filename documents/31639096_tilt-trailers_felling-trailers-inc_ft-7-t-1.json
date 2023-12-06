@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/felling-trailers-inc/ft-7-t-1/31639096",
+    "source_url_id": "31639096",
+    "source_url_model": "ft-7-t-1",
+    "source_url_make": "felling-trailers-inc",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:51.541890",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Felling Trailers, Inc.",
+    "equipment_model": "FT-7 T-1",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "14 ft (4 m)"
+        },
+        "Weights": {
+            "Equipment Weight": "1800 lbs (817 kg)",
+            "Weight Capacity": "6400 lbs (2,903 kg)"
+        }
+    }
+}

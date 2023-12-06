@@ -1,0 +1,19 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ke-170h/31084935",
+    "source_url_id": "31084935",
+    "source_url_model": "ke-170h",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:48.816836",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "Ke-170H",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "17 hp (13 kw)"
+        },
+        "Production": {
+            "Series": "KE Series"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc340lc-7slf/30748398",
+    "source_url_id": "30748398",
+    "source_url_model": "pc340lc-7slf",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:11:23.803778",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC340LC-7SLF",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "53.4 ft (16 m)",
+            "Max Digging Depth": "57.4 ft (17 m)",
+            "Max Loading Height": "44.3 ft (13 m)",
+            "Max Reach Along Ground": "67.1 ft (20 m)",
+            "Max Vertical Wall Digging Depth": "46.9 ft (14 m)",
+            "Shipping Height of Unit": "11.2 ft (3 m)",
+            "Shipping Length of Unit": "56.5 ft (17 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.6 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length of Track on Ground": "13.3 ft (4 m)",
+            "Removal Counterweight Clearance": "3.9 ft (1 m)",
+            "Tail Swing Radius": "12.6 ft (4 m)",
+            "Width to Outside of Tracks": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with aftercooler",
+            "Displacement": "504.7 cu in (0 m)",
+            "Engine Model": "SAA6D114E-2",
+            "Net Power": "241.4 hp (180 kw)",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60 A",
+            "Cooling System Fluid Capacity": "8.5 gal (30 l)",
+            "Engine Oil Capacity": "9.3 gal (34 l)",
+            "Fuel Capacity": "159.9 gal (602 l)",
+            "Hydraulic Pump Flow Capacity": "141.6 gal/min (534 l/min)",
+            "Hydraulic System Fluid Capacity": "49.7 gal (185 l)",
+            "Hydraulic System Relief Valve Pressure": "5404.9 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "90610 lbs (41,100 kg)",
+            "Swing Drive Fluid Capacity": "3.6 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.5 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "59304 lbs (26,900 kg)",
+            "Ground Pressure": "9.6 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "48",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        }
+    }
+}

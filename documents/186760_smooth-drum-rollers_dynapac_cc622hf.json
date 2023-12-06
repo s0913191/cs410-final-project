@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc622hf/186760",
+    "source_url_id": "186760",
+    "source_url_model": "cc622hf",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:30.909412",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC622HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Overall Length": "16.7 in (41 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "31023.7 lbs (14,072 kg)",
+            "Centrifugal Force - Low": "17310.3 lbs (7,852 kg)",
+            "Drum Diameter": "55.2 in (140 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "439.6 lbs/in",
+            "Vibration Frequency 1": "51 hz (3,060 vpm)",
+            "Vibration Frequency 2": "63 hz (3,780 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "4AA BT3.9-C",
+            "Gross Power": "124.8 hp (92 kw)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Weight": "27778.3 lbs (12,600 kg)"
+        }
+    }
+}

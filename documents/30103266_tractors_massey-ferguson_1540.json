@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/1540/30103266",
+    "source_url_id": "30103266",
+    "source_url_model": "1540",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:07.484395",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "1540",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.2 in (36 cm)",
+            "Height - Top of Cab": "7.3 ft (2 m)",
+            "Overall Length": "10.1 in (25 cm)",
+            "Track Width": "61.7 in (155 cm)",
+            "Wheelbase": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "91.4 cu in (0 m)",
+            "Gross Power": "10.1 hp (7 kw)",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "31 hp (23 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14 gal/min (53 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2799.9 lbs (1,270 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Operating Weight": "3058 lbs (1,387 kg)"
+        },
+        "Production": {
+            "Series": "1500 Series",
+            "Years Manufactured": "2005 - 2014"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8"
+        }
+    }
+}

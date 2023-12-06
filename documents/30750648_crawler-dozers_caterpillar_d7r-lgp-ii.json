@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d7r-lgp-ii/30750648",
+    "source_url_id": "30750648",
+    "source_url_model": "d7r-lgp-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:27.530069",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D7R LGP II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "19.5 ft (6 m)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Length w/ Blade": "19.1 ft (6 m)",
+            "Length w/o Blade": "15.5 ft (5 m)",
+            "Width Over Tracks": "10.4 ft in (25 cm)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "3176C",
+            "Net Power": "240 hp (179 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "47.6 gal/min (178 l/min)",
+            "Relief Valve Pressure": "3307 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "60916 lbs (27,631 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "7.7 cu yds (5 m)",
+            "Height": "53 in (135 cm)",
+            "Width": "15 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.6 mph (10 kph)",
+            "Max Speed - Reverse": "8.5 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "9000 cu in (0 m)",
+            "Ground Pressure": "6.6 psi",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "36 in (91 cm)",
+            "Track Gauge": "7.4 ft (2 m)",
+            "Track Pitch": "8.5 in (20 cm)"
+        }
+    }
+}

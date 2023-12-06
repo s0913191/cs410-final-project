@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/h135ft-gas/30756647",
+    "source_url_id": "30756647",
+    "source_url_model": "h135ft-gas",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:28:32.880602",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "H135FT Gas",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10 in (25 cm)",
+            "Height to Top of Overhead Guard": "8.4 ft (2 m)",
+            "Length to Fork Face": "11.8 ft (3 m)",
+            "Max Fork Height": "17.8 ft (5 m)",
+            "Overall Height - mast lowered": "12.3 ft (4 m)",
+            "Overall Width": "6.9 ft (2 m)",
+            "Turning Radius": "10.9 ft (3 m)",
+            "Wheelbase": "7.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "262 cu in (0 m)",
+            "Engine Model": "GM 4.3L",
+            "Fuel Type": "Gas",
+            "Number of Cylinders": "6",
+            "Power": "96.6 hp (72 kw)",
+            "Power Measured @": "2400 rpm",
+            "Torque": "210 lbs/ft",
+            "Torque Measured @": "2400 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "104.3 ft/min",
+            "Load Capacity": "13503.4 lbs (6,125 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "84.6 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0",
+            "Max Fork Spread": "73.9 in (185 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "14.3 mph (23 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "19914.4 lbs (9,033 kg)",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/mecalac/12mtx/30750271",
+    "source_url_id": "30750271",
+    "source_url_model": "12mtx",
+    "source_url_make": "mecalac",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:16:19.073902",
+    "equipment_category": "Excavators",
+    "equipment_make": "Mecalac",
+    "equipment_model": "12MTX",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max breakout force": "13825.8 lbs (6,271 kg)",
+            "Max Digging Depth": "13.5 ft (4 m)",
+            "Max Reach Along Ground": "23.4 ft (7 m)",
+            "Max Vertical Wall Dig Depth": "7.4 ft (2 m)",
+            "Shipping Height of Unit": "15.2 ft (5 m)",
+            "Shipping Length of Unit": "10.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Overall Width": "88.5 in (224 cm)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "95 A",
+            "Batteries": "100 Ah",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Cooling system": "Water",
+            "Displacement": "221 cu in (0 m)",
+            "Engine Model": "DEUTZ TCD 3.6L4",
+            "Net Power": "114 hp (85 kw)",
+            "Net Torque": "339.3 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "37 gal (140 l)",
+            "Hydraulic Pump Flow Capacity": "48.1 gal/min (182 l/min)",
+            "Hydraulic Pump Type": "Continuously variable speed",
+            "Hydraulic System Relief Valve Pressure": "6236.7 psi",
+            "Operating Weight": "21384.9 lbs (9,700 kg)"
+        }
+    }
+}

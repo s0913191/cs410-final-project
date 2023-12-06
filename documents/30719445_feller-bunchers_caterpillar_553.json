@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/feller-bunchers/caterpillar/553/30719445",
+    "source_url_id": "30719445",
+    "source_url_model": "553",
+    "source_url_make": "caterpillar",
+    "source_url_category": "feller-bunchers",
+    "source_date_scraped": "2023-09-13 17:50:35.890480",
+    "equipment_category": "Feller Bunchers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "553",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.8 in (3 cm)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Overall Length": "25 ft (8 m)",
+            "Overall Width": "9 ft (3 m)",
+            "Wheelbase": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "C6.6 ACERT",
+            "Net Power": "173 hp (129 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "150  A",
+            "Fuel Capacity": "72.2 gal (273 l)",
+            "Max Speed": "15 mph (24 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight w/o Attachment": "25300.3 lbs (11,476 kg)",
+            "Steering Articulation": "84  \t\u00b0",
+            "Tire Size": "28L x 26 (14PR)"
+        },
+        "Transmission": {
+            "Transmission Type": "Hydrostatic transmission"
+        }
+    }
+}

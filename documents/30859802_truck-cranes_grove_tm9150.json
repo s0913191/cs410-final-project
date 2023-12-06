@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tm9150/30859802",
+    "source_url_id": "30859802",
+    "source_url_model": "tm9150",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:37.496651",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TM9150",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "160 ft (49 m)",
+            "Max Lift Capacity": "300000 lbs (136,079 kg)",
+            "Max Working Radius": "150 ft (46 m)",
+            "Min Height @ Max Raise Angle": "42 ft (13 m)",
+            "Min Working Radius": "9 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.7 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "854.4 cu in (0 m)",
+            "Gross Power": "435.9 hp (324 kw)",
+            "Make": "Grove",
+            "Max Torque": "1450 lbs/ft",
+            "Model": "N14-435E",
+            "Number of cylinders": "6",
+            "Power Measured @": "1600 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "45 ft (14 m)",
+            "Transport Height": "13.1 ft (4 m)",
+            "Transport Length": "51.9 ft (16 m)",
+            "Transport Width": "11 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "15.5 ft (5 m)",
+            "Width w/ Outriggers Extended": "25 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "100 gal (379 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "180547.6 lbs (81,896 kg)",
+            "Tire Size": "front 445/65R22.5 rear 14.00R25",
+            "Upper Structure Fuel Capacity": "72 gal (273 l)",
+            "Upper Structure Hydraulic System Fluid Capacity": "326 gal (1,234 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "55 mph (89 kph)",
+            "Number of Forward Gears": "13",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Fuller RT00-14613"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "250 hp (186 kw)",
+            "Make": "Grove",
+            "Max Torque": "716 lbs/ft",
+            "Model": "6CTA8.3",
+            "Number of cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        }
+    }
+}

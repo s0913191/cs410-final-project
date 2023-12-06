@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dump-trailers/bri-mar/dt712t-10dp/30835266",
+    "source_url_id": "30835266",
+    "source_url_model": "dt712t-10dp",
+    "source_url_make": "bri-mar",
+    "source_url_category": "dump-trailers",
+    "source_date_scraped": "2023-09-13 17:54:04.348527",
+    "equipment_category": "Dump Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "DT712T-10DP",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "7.2x12 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "2900 lbs (1,315 kg)",
+            "Weight Capacity": "7100 lbs (3,221 kg)"
+        }
+    }
+}

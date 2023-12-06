@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/vibromax/265/30679598",
+    "source_url_id": "30679598",
+    "source_url_model": "265",
+    "source_url_make": "vibromax",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:15.393630",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Vibromax",
+    "equipment_model": "265",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.1 in (28 cm)",
+            "Height - Top of Cab": "5.7 ft (2 m)",
+            "Overall Length": "7.9 in (18 cm)",
+            "Wheelbase": "5.6 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "8100 lbs (3,674 kg)",
+            "Drum Diameter": "27.6 in (69 cm)",
+            "Drum Width": "47.3 in (119 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "64.2 lbs/in",
+            "Vibration Frequency 1": "58 hz (3,480 vpm)"
+        },
+        "Engine": {
+            "Displacement": "85.4 cu in (0 m)",
+            "Engine Model": "D140B",
+            "Net Power": "29 hp (22 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "16.7 gal (61 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "6084.8 lbs (2,760 kg)"
+        }
+    }
+}

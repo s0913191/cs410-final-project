@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/sd-200dxtf/30754126",
+    "source_url_id": "30754126",
+    "source_url_model": "sd-200dxtf",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:51.437663",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "SD-200DXTF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.5 in (46 cm)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Overall Length": "20.7 in (51 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Wheelbase": "10.6 in (25 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "82729.7 lbs (37,526 kg)",
+            "Centrifugal Force - Low": "53729.4 lbs (24,371 kg)",
+            "Drum Diameter": "65 in (165 cm)",
+            "Drum Width": "84.1 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "20.4 hz (1,200 vpm)",
+            "Vibration Frequency 2": "30.8 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "QSB5.9-TAA",
+            "Gross Power": "205 hp (153 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "67.9 gal (254 l)",
+            "Hydraulic System Fluid Capacity": "27.5 gal (102 l)",
+            "Max Speed": "7.9 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "44992 lbs (20,408 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1x26-10PR R3"
+        }
+    }
+}

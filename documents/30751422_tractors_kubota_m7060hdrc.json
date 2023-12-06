@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m7060hdrc/30751422",
+    "source_url_id": "30751422",
+    "source_url_model": "m7060hdrc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:36.291693",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M7060HDRC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Crop clearance": "18.2 in (46 cm)",
+            "Front Tread Range": "59.9 in (150 cm)",
+            "Height - Top of ROPS/FOPS": "97.3 in (246 cm)",
+            "Overall Length": "138 in (351 cm)",
+            "Overall width": "6.2 ft (2 m)",
+            "Rear Tread Range": "67.8 in (170 cm)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "45 A",
+            "Aspiration": "Turbocharged",
+            "Displacement": "203 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V3307-CR-TE4",
+            "Engine Type": "4 cylinder in-line, Common Rail System, direct Inject.",
+            "Model Name": "M7060",
+            "Net Power": "71 hp (53 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm",
+            "PTO Power": "64 hp (48 kw)"
+        },
+        "Hydraulic System": {
+            "Controls": "Position, draft (top link sensing) & mixed control",
+            "Hydraulic cylinders Type": "Two external cylinders",
+            "Hydraulic System Type": "Telescopic lower link ends, Telescopic Stabilizers",
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "11 gal/min (42 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3307 lbs (1,500 kg)",
+            "Fuel Capacity": "18.5 gal (68 l)",
+            "Operating Weight": "5026.6 lbs (2,280 kg)",
+            "Turning Radius": "11.9 ft (3 m)"
+        },
+        "Power Take-Off (PTO)": {
+            "PTO speed": "540 rpm",
+            "PTO type": "Live -independent PTO, electro-hydraulic clutch with brake"
+        },
+        "Tires": {
+            "Standard_Option_Front": "9.5-24",
+            "Standard_Option_Rear": "16.9-30"
+        },
+        "Transmission": {
+            "Brake type": "Mechanical wet disc",
+            "Clutch; Wet/Dry": "Multiple wet disk",
+            "Differential lock": "Limited Slip Differential / Mechanical",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "shuttle type": "Hydraulic-shuttle",
+            "Transmission Type": "HD"
+        }
+    }
+}

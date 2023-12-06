@@ -1,0 +1,96 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc1800-6/22454",
+    "source_url_id": "22454",
+    "source_url_model": "pc1800-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:45.255550",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC1800-6",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Max Cutting Height": "43.9 ft (13 m)",
+            "Max Dig Depth": "30.4 ft (9 m)",
+            "Max Dump Height": "28.3 ft (9 m)",
+            "Max Reach on Ground": "50.3 ft (15 m)",
+            "Max Vertical Wall Dig Depth": "9 ft (3 m)"
+        },
+        "Backhoe Boom / Stick 2": {
+            "Max Cutting Height": "4.5 ft (1 m)",
+            "Max Dig Depth": "32.9 ft (10 m)",
+            "Max Dump Height": "28.7 ft (9 m)",
+            "Max Reach on Ground": "52.7 ft (16 m)",
+            "Max Vertical Wall Dig Depth": "18.2 ft (5 m)"
+        },
+        "Backhoe Boom / Stick 3": {
+            "Max Cutting Height": "54.6 ft (16 m)",
+            "Max Dig Depth": "35.4 ft (11 m)",
+            "Max Dump Height": "37.7 ft (11 m)",
+            "Max Reach on Ground": "64.8 ft (20 m)",
+            "Max Vertical Wall Dig Depth": "29.6 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "43.9 ft (13 m)",
+            "Max Digging Depth": "30.4 ft (9 m)",
+            "Max Loading Height": "28.3 ft (9 m)",
+            "Max Reach Along Ground": "50.3 ft (15 m)",
+            "Max Vertical Wall Digging Depth": "9 ft (3 m)",
+            "Shipping Height of Unit": "22.2 ft (7 m)",
+            "Shipping Length of Unit": "56.4 ft (17 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "44.5 ft (13 m)",
+            "Max Digging Depth": "32.9 ft (10 m)",
+            "Max Loading Height": "28.7 ft (9 m)",
+            "Max Reach Along Ground": "52.7 ft (16 m)",
+            "Max Vertical Wall Digging Depth": "18.2 ft (5 m)",
+            "Shipping Height of Unit": "22.5 ft (7 m)",
+            "Shipping Length of Unit": "57.4 ft (17 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "15.7 cu yds (11 m)",
+            "Minimum Bucket Capacity": "7.7 cu yds (5 m)",
+            "Reference Bucket Capacity": "15.7 cu yds (11 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "30 ft (9 m)",
+            "Digging Reach": "30 ft (9 m)"
+        },
+        "Engine": {
+            "Net Power": "908 hp (677 kw)"
+        },
+        "Loading Shovel": {
+            "Loading Shovel": "boom 3950mm w/ arm 4450mm",
+            "Max Cutting Height": "47.4 ft (14 m)",
+            "Max Dig Depth": "10.6 ft (3 m)",
+            "Max Dig Reach": "43.3 ft (13 m)",
+            "Max Dump Height": "31.7 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "396800 lbs (179,987 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "4.5 rpm"
+        },
+        "Undercarriage": {
+            "Backhoe Ground Pressure - Shoe 1": "24.7 psi",
+            "Backhoe Ground Pressure - Shoe 2": "20.6 psi",
+            "Backhoe Operating Weight - Shoe 1": "396832.1 lbs (180,002 kg)",
+            "Backhoe Operating Weight - Shoe 2": "405915.2 lbs (184,122 kg)",
+            "Backhoe Shoe Width 1": "31.9 in (79 cm)",
+            "Backhoe Shoe Width 2": "39.8 in (99 cm)",
+            "Drawbar Pull": "231480 lbs (104,999 kg)",
+            "Ground Pressure": "24.7 psi",
+            "Max Travel Speed": "1.7 mph (2 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Lower Rollers": "8",
+            "Number of Shoes per Side": "49",
+            "Number of Track Rollers per Side": "8",
+            "Number of Track Shoes per Side": "3",
+            "Number of Upper Rollers": "49",
+            "Shoe Size": "31.9 in (79 cm)",
+            "Track Gauge": "15.1 ft (5 m)"
+        }
+    }
+}

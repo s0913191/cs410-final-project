@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-670-1/30039500",
+    "source_url_id": "30039500",
+    "source_url_model": "rt-670-1",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:13.953456",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 670-1",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "76  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "111 ft (34 m)",
+            "Min Height @ Max Raise Angle": "36 ft (11 m)",
+            "Number of Sections": "4"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "27.1 ft (8 m)",
+            "Transport Height": "12.8 ft (4 m)",
+            "Transport Length": "45.1 ft (14 m)",
+            "Transport Width": "11.4 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "11.6 ft (3 m)",
+            "Wheelbase": "13.2 in (33 cm)"
+        },
+        "Engine": {
+            "Engine Make": "Cumins",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "295.1 hp (220 kw)",
+            "Max Torque": "690 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "50 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "116 gal (439 l)",
+            "Tire Size": "29.5 X 25-28PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.4 mph (37 kph)",
+            "Number of Forward Gears": "6"
+        }
+    }
+}

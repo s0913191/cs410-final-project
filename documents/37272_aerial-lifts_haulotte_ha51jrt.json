@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ha51jrt/37272",
+    "source_url_id": "37272",
+    "source_url_model": "ha51jrt",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:21.384022",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HA51JRT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "507 lbs (230 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "56.1 ft (17 m)",
+            "Platform Size": "5.9x2.6 ft (2 m)",
+            "Stowed Height": "7.2 ft (2 m)",
+            "Stowed Width": "7.6 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "385/65-22.5"
+        },
+        "Transmission": {
+            "4WD": "yes"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/ls-98/23818",
+    "source_url_id": "23818",
+    "source_url_model": "ls-98",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:52.610785",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "LS-98",
+    "equipment_spec": {
+        "Boom": {
+            "Min Height @ Max Raise Angle": "40 ft (12 m)",
+            "Swing Speed": "4 rpm"
+        },
+        "Dimensions": {
+            "Counterweight Clearance": "3.8 ft (1 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Tail Swing Radius": "11.5 ft (3 m)",
+            "Transport Height": "15 ft (5 m)",
+            "Transport Width": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "284 cu in (0 m)",
+            "Engine Model": "GM 4-71N",
+            "Max Torque": "351 lbs/ft",
+            "Net Power": "110 hp (82 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "1850 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "58 gal (220 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "60426.5 lbs (27,409 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "1.8 mph (2 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8 psi",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "9",
+            "Width of Shoes": "24.1 in (61 cm)"
+        }
+    }
+}

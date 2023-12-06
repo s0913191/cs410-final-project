@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/holland-lift/t210dl25/30758136",
+    "source_url_id": "30758136",
+    "source_url_model": "t210dl25",
+    "source_url_make": "holland-lift",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:03.487470",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Holland Lift",
+    "equipment_model": "T210DL25",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.5 in (28 cm)",
+            "Height w/ Rails": "13.2 ft (4 m)",
+            "Height w/o Rails": "10.2 ft (3 m)",
+            "Overall Length": "18.9 in (46 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Wheelbase": "12.4 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "3M41"
+        },
+        "Performance": {
+            "Max Speed": "1.6 mph (2 kph)",
+            "Operating Weight": "39573 lbs (17,950 kg)",
+            "Tire Size": "14-17.5 14"
+        },
+        "Platform": {
+            "Deck Extension": "82.7 in (208 cm)",
+            "Lift Time": "120 sec",
+            "Lower Time": "105 sec",
+            "Max Platform Height": "68.9 ft (21 m)",
+            "Max Platform Weight Capacity": "2204.7 lbs (1,000 kg)",
+            "Max Working Height": "75.5 ft (23 m)",
+            "Platform Inner Length": "205.6 in (521 cm)",
+            "Platform Inner Width": "94.5 in (239 cm)"
+        }
+    }
+}

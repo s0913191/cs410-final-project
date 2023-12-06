@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/8018-cts/30874692",
+    "source_url_id": "30874692",
+    "source_url_model": "8018-cts",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:04:26.090664",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "8018 CTS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "10.1 ft (3 m)",
+            "Digging Reach": "14.7 ft (4 m)"
+        },
+        "Engine": {
+            "Net Power": "19 hp (14 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "4017 lbs (1,822 kg)"
+        }
+    }
+}

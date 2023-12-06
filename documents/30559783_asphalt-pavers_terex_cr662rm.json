@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/terex/cr662rm/30559783",
+    "source_url_id": "30559783",
+    "source_url_model": "cr662rm",
+    "source_url_make": "terex",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:40.671452",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Terex",
+    "equipment_model": "CR662RM",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "16.7 lbs (7 kg)",
+            "Paving Speed": "225 ft/min",
+            "Paving Width - max": "30 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "48300 lbs (21,909 kg)"
+        }
+    }
+}

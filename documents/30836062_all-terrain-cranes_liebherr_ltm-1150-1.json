@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1150-1/30836062",
+    "source_url_id": "30836062",
+    "source_url_model": "ltm-1150-1",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:51.497763",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1150-1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "293 ft (89 m)",
+            "Max Lift Capacity": "170 t (154,221 kg)"
+        }
+    }
+}

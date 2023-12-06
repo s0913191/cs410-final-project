@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/manitou/170aetjl/30758287",
+    "source_url_id": "30758287",
+    "source_url_model": "170aetjl",
+    "source_url_make": "manitou",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:35.993366",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "170AETJL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "5.6 in (13 cm)",
+            "Overall Height - mast lowered": "6.7 ft (2 m)",
+            "Overall Length": "22.5 in (56 cm)",
+            "Overall Width": "5.8 ft (2 m)",
+            "Turning Radius": "18.4 ft (5 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "300",
+            "Charger Amps": "45",
+            "Number of Batteries": "2",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operating Weight": "15234 lbs (6,910 kg)"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "30.9 ft (9 m)",
+            "Max Platform Height": "48.9 ft (15 m)",
+            "Max Platform Weight Capacity": "441 lbs (200 kg)",
+            "Max Working Height": "55.5 ft (17 m)",
+            "Platform Inner Length": "47.3 in (119 cm)",
+            "Platform Inner Width": "37.8 in (94 cm)",
+            "Platform Rotation": "140  \t\u00b0"
+        }
+    }
+}

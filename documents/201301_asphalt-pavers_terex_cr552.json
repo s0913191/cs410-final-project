@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/terex/cr552/201301",
+    "source_url_id": "201301",
+    "source_url_model": "cr552",
+    "source_url_make": "terex",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:39.482834",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Terex",
+    "equipment_model": "CR552",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "20.9 ft (6 m)",
+            "Tire Size": "front 16x22in rear 12-ply 24.5x32 in",
+            "Transport Height": "9 ft (3 m)",
+            "Transport Width": "10.4 ft (3 m)",
+            "Wheelbase": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "QSB5.9",
+            "Gross Power": "240 hp (179 kw)",
+            "Make": "Cummins",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "16 in (41 cm)",
+            "Hopper Capacity": "9.9 lbs (4 kg)",
+            "Paving Speed - max": "288.8 ft/min",
+            "Paving Thickness - max": "12.1 in (30 cm)",
+            "Paving Width - max": "29.9 ft (9 m)",
+            "Travel Speed - max": "11.2 mph (18 kph)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "105  A",
+            "Cooling System Fluid Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "72.2 gal (273 l)",
+            "Hydraulic System Fluid Capacity": "75.1 gal (284 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight w/ Screed": "41370 lbs (18,765 kg)",
+            "Operating Weight w/o Screed": "33470 lbs (15,182 kg)"
+        }
+    }
+}

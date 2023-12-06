@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combination-rollers/hamm/hd-10c-vt/30754111",
+    "source_url_id": "30754111",
+    "source_url_model": "hd-10c-vt",
+    "source_url_make": "hamm",
+    "source_url_category": "combination-rollers",
+    "source_date_scraped": "2023-09-13 17:39:06.424071",
+    "equipment_category": "Combination Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 10C VT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "7.3 ft (2 m)",
+            "Overall Length": "91 in (231 cm)",
+            "Overall Width": "3.6 ft (1 m)",
+            "Turning Radius - Inside": "7 ft (2 m)",
+            "Wheelbase": "61.5 in (155 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "5620.3 lbs (2,549 kg)",
+            "Centrifugal Force - Low": "3597 lbs (1,632 kg)",
+            "Drum Diameter": "24.5 in (61 cm)",
+            "Drum thickness": "0.5 in (0 cm)",
+            "Drum Width": "39.4 in (99 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "44.3 lbs/in",
+            "Vibration Frequency 1": "65 hz (3,900 vpm)",
+            "Vibration Frequency 2": "52 hz (3,120 vpm)"
+        },
+        "Engine": {
+            "Emission Tier Level": "EPA Tier 4",
+            "Engine Make": "KUBOTA",
+            "Engine Model": "D1005",
+            "Gross Power": "19.9 hp (14 kw)",
+            "Net Power": "19.8 hp (14 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2700 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "8.8 gal (30 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Weight": "4034.5 lbs (1,830 kg)",
+            "Operating weight ROPS": "3593.6 lbs (1,630 kg)",
+            "Oscillating angle": "8  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "18.5 gal (68 l)"
+        },
+        "Tires": {
+            "Tires": "4"
+        }
+    }
+}

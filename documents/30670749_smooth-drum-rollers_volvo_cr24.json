@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/cr24/30670749",
+    "source_url_id": "30670749",
+    "source_url_model": "cr24",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:21.166298",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "CR24",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "4.5 ft (1 m)",
+            "Turning Radius - Inside": "8.5 ft (2 m)"
+        },
+        "Drum": {
+            "Drum Width": "49.2 in (124 cm)",
+            "Frequency": "66.7 hz (3,960 vpm)",
+            "Vibration Frequency": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "517 in (1,313 cm)"
+        }
+    }
+}

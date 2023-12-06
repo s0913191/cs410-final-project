@@ -1,0 +1,93 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/302-cr/30750142",
+    "source_url_id": "30750142",
+    "source_url_model": "302-cr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:54.659856",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "302 CR",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "8.9 in (20 cm)"
+        },
+        "Dimensions - Long Stick": {
+            "Boom In Reach": "65.4 in (165 cm)",
+            "Boom Swing - Left": "65 in (165 cm)",
+            "Boom Swing - Right": "50 in (127 cm)",
+            "Dig Depth": "101.2 in (257 cm)",
+            "Maximum Blade Depth": "11.6 in (28 cm)",
+            "Maximum Blade Height": "11.2 in (28 cm)",
+            "Maximum Dig Height": "142.5 in (361 cm)",
+            "Maximum Dump Clearance": "103.9 in (262 cm)",
+            "Maximum Reach": "168.1 in (427 cm)",
+            "Maximum Reach - Ground Level": "165.7 in (419 cm)",
+            "O/A Undercarriage Length": "72.8 in (183 cm)",
+            "Stick Length": "45.7 in (114 cm)",
+            "Swing Bearing - Height": "17.4 in (43 cm)",
+            "Track Belt/Shoe Width": "9.8 in (23 cm)",
+            "Vertical Wall": "76.4 in (193 cm)"
+        },
+        "Dimensions - Standard Stick": {
+            "Boom In Reach": "65.4 in (165 cm)",
+            "Boom Swing - Left": "65 in (165 cm)",
+            "Boom Swing - Right": "50 in (127 cm)",
+            "Dig Depth": "93.3 in (236 cm)",
+            "Maximum Blade Depth": "11.6 in (28 cm)",
+            "Maximum Blade Height": "11.2 in (28 cm)",
+            "Maximum Dig Height": "139.8 in (353 cm)",
+            "Maximum Dump Clearance": "100.8 in (254 cm)",
+            "Maximum Reach": "161.8 in (409 cm)",
+            "Maximum Reach - Ground Level": "159.1 in (404 cm)",
+            "O/A Undercarriage Length": "72.8 in (183 cm)",
+            "Stick Length": "37.8 in (94 cm)",
+            "Swing Bearing - Height": "17.4 in (43 cm)",
+            "Track Belt/Shoe Width": "9.8 in (23 cm)",
+            "Vertical Wall": "72.8 in (183 cm)"
+        },
+        "Engine": {
+            "Bore": "3 in (8 cm)",
+            "Displacement": "69 cu in (0 m)",
+            "Engine Model": "C1.1",
+            "Net Power": "19.2 hp (14 kw)",
+            "Stroke": "3.2 in (8 cm)"
+        },
+        "Hydraulic System": {
+            "Auxiliary Circuit - Primary - Flow": "8.7 gal/min (30 l/min)",
+            "Auxiliary Circuit - Primary - Pressure": "3553.4 psi",
+            "Auxiliary Circuit - Secondary - Flow": "3.7 gal/min (11 l/min)",
+            "Auxiliary Circuit - Secondary - Pressure": "3553.4 psi",
+            "Digging Force - Bucket": "4406.3 lbs (1,999 kg)",
+            "Digging Force - Stick - Long": "2203.1 lbs (999 kg)",
+            "Digging Force - Stick - Standard": "2540.3 lbs (1,152 kg)",
+            "Hydraulic System Type": "Load Sensing Hydraulics with Variable Displacement Piston Pump",
+            "Operating Pressure - Equipment": "3553.4 psi",
+            "Operating Pressure - Swing": "2132.1 psi",
+            "Operating Pressure - Travel": "3553.4 psi",
+            "Pump Flow at 2,400 rpm": "17.4 gal/min (64 l/min)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "1 gal (4 l)",
+            "Engine Oil": "1.2 gal (4 l)",
+            "Fuel Tank": "6.9 gal (23 l)",
+            "Hydraulic System": "6.9 gal (23 l)",
+            "Hydraulic Tank": "4.8 gal (15 l)"
+        },
+        "Swing System": {
+            "Machine Swing Speed": "9.8 rpm"
+        },
+        "Travel System": {
+            "Gradeability - Maximum": "30  \t\u00b0",
+            "Ground Pressure - Maximum Weight": "3.9 psi",
+            "Ground Pressure - Minimum Weight": "3.4 psi",
+            "Maximum Traction Force - High Speed": "2967.5 lbs (1,346 kg)",
+            "Maximum Traction Force - Low Speed": "4496.2 lbs (2,039 kg)",
+            "Travel Speed - High": "2.7 mph (3 kph)",
+            "Travel Speed - Low": "1.8 mph (2 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "4850 lbs (2,200 kg)"
+        }
+    }
+}

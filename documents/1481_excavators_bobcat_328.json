@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/bobcat/328/1481",
+    "source_url_id": "1481",
+    "source_url_model": "328",
+    "source_url_make": "bobcat",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:52:50.664018",
+    "equipment_category": "Excavators",
+    "equipment_make": "Bobcat",
+    "equipment_model": "328",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "14 ft (4 m)",
+            "Max Digging Depth": "9.4 ft (3 m)",
+            "Max Loading Height": "9.8 ft (3 m)",
+            "Max Reach Along Ground": "14.9 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "6.9 ft (2 m)",
+            "Shipping Height of Unit": "7.8 ft (2 m)",
+            "Shipping Length of Unit": "13.7 ft (4 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Length of Track on Ground": "4.6 ft (1 m)",
+            "Removal Counterweight Clearance": "1.8 ft (0 m)",
+            "Tail Swing Radius": "3.9 ft (1 m)",
+            "Width to Outside of Tracks": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "97.7 cu in (0 m)",
+            "Net Power": "27.5 hp (20 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "14.1 gal (53 l)",
+            "Hydraulic Pump Flow Capacity": "17.5 gal/min (64 l/min)",
+            "Operating Weight": "6146.5 lbs (2,788 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.2 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.3 psi",
+            "Max Travel Speed": "2 mph (3 kph)",
+            "Shoe Size": "12.6 in (30 cm)",
+            "Track Gauge": "3.6 ft (1 m)"
+        }
+    }
+}

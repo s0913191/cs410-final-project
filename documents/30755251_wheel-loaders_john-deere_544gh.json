@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/544gh/30755251",
+    "source_url_id": "30755251",
+    "source_url_model": "544gh",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:48:37.555489",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "544GH",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "22207 lbs (10,073 kg)",
+            "Bucket Capacity - heaped": "2.5 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.2 cu yds (2 m)",
+            "Bucket Width": "8.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Hinge Pin - Max Height": "12.5 ft (4 m)",
+            "Length with Bucket on Ground": "22.7 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.1 ft (1 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger",
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "6059T",
+            "Gross Power": "130 hp (97 kw)",
+            "Net Power": "125 hp (93 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3.2 sec",
+            "Pump Flow Capacity": "46.3 gal/min (174 l/min)",
+            "Pump Type": "Gear Type",
+            "Raise Time": "5.8 sec",
+            "Relief Valve Setting": "2750 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Engine Oil Fluid Capacity": "5.1 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "5.1 gal (19 l)",
+            "Fuel Capacity": "57.6 gal (216 l)",
+            "Hydraulic System Fluid Capacity": "6.4 gal (23 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "23677 lbs (10,740 kg)",
+            "Rear Axle Oscillation": "22  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.1 gal (19 l)",
+            "Static Tipping Weight": "17895 lbs (8,117 kg)",
+            "Tire Size": "17.5-25",
+            "Transmission Fluid Capacity": "2.6 gal (8 l)",
+            "Turning Radius": "16.3 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.8 mph (37 kph)",
+            "Max Speed - Reverse": "16.9 mph (26 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power Shift w/ Torque Converter"
+        }
+    }
+}

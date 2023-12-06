@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-660b/30837310",
+    "source_url_id": "30837310",
+    "source_url_model": "rt-660b",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:13.498122",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 660B",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "106 ft (32 m)",
+            "Max Lift Capacity": "60 t (54,431 kg)"
+        }
+    }
+}

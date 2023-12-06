@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/sd45b-padfoot/30754264",
+    "source_url_id": "30754264",
+    "source_url_model": "sd45b-padfoot",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:35.606981",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "SD45B Padfoot",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Spring Applied, Hydraulically released on axle",
+            "Service brake": "Hydrostatic"
+        },
+        "Dimensions": {
+            "Ground Clearance": "14.5 in (36 cm)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Overall Length": "164.7 in (417 cm)",
+            "Overall Width": "4.6 ft (1 m)",
+            "Wheelbase": "94.5 in (239 cm)"
+        },
+        "Drum": {
+            "Drum Diameter": "39.4 in (99 cm)",
+            "Drum Width": "54 in (137 cm)",
+            "Pad Height": "2.9 in (5 cm)",
+            "Pad Surface Area": "11.8 cu in (0 m)",
+            "Shell Thickness": "0.8 in (0 cm)"
+        },
+        "Electrical System": {
+            "Alternator": "90",
+            "Batteries": "750",
+            "Voltage": "12"
+        },
+        "Engine": {
+            "Engine": "4 cylinders, direct injection, turbocharged, cooled EGR",
+            "Engine Make": "Volvo",
+            "Engine Model": "D3.3H",
+            "Rated horsepower": "73.8 hp (54 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "26.8 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "25.4 gal (95 l)",
+            "Operating Weight": "11658.1 lbs (5,288 kg)",
+            "Shipping Weight - Empty": "11457.5 lbs (5,197 kg)"
+        },
+        "Propulsion": {
+            "Drum Drive": "Low speed high torque motor",
+            "Propulsion Type": "Hydrostatic, single speed motor on planetary axle with flow divider and LSHT motor for drum drive",
+            "Tyre": "12.4-24 8PR R1"
+        },
+        "Vibration": {
+            "Centrifugal Force High Amp": "20907.3 lbs (9,483 kg)",
+            "Centrifugal Force Low Amp": "16860.7 lbs (7,648 kg)",
+            "Nominal Amplitude High Amp": "0.1 in (0 cm)",
+            "Nominal Amplitude Low Amp": "0.1 in (0 cm)"
+        }
+    }
+}

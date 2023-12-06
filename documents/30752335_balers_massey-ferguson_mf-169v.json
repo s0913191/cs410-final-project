@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/massey-ferguson/mf-169v/30752335",
+    "source_url_id": "30752335",
+    "source_url_model": "mf-169v",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:42.049786",
+    "equipment_category": "Balers",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 169V",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Diameter - max": "6.4 ft (2 m)",
+            "Bale Diameter - min": "2 ft (1 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "hydraulic pickup",
+            "Number of Bars": "5",
+            "Number of Tines": "160",
+            "Overall Width": "7.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "9.7 ft (3 m)",
+            "Overall Length": "15.6 ft (5 m)",
+            "Overall Width": "8.3 ft (2 m)",
+            "Tractor PTO Power Required": "100.6 hp (75 kw)",
+            "Weight": "8157.2 lbs (3,700 kg)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "6",
+            "Twine Type": "twin twine auto start, net wrap"
+        }
+    }
+}

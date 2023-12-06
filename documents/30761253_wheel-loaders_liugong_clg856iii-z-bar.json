@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/clg856iii-z-bar/30761253",
+    "source_url_id": "30761253",
+    "source_url_model": "clg856iii-z-bar",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:28.693720",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "CLG856III Z-bar",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.8 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB6.7",
+            "Net Power": "220 hp (164 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.5 cu yds (3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "40680 lbs (18,452 kg)"
+        }
+    }
+}

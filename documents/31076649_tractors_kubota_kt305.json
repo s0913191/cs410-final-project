@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/kt305/31076649",
+    "source_url_id": "31076649",
+    "source_url_model": "kt305",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:28:59.730563",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "KT305",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "29 hp (22 kw)"
+        },
+        "Production": {
+            "Series": "KT Kingeye Series",
+            "Years Manufactured": "2009 - 2011"
+        }
+    }
+}

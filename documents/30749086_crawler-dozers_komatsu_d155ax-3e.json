@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d155ax-3e/30749086",
+    "source_url_id": "30749086",
+    "source_url_model": "d155ax-3e",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:39.450370",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D155AX-3E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Length of Track on Ground": "10.6 ft (3 m)",
+            "Length w/ Blade": "26.8 ft (8 m)",
+            "Length w/o Blade": "16.4 ft (5 m)",
+            "Width Over Tracks": "8.9 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "930.1 cu in (0 m)",
+            "Engine Model": "SA6D140E-2",
+            "Gross Power": "306 hp (228 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "84878 lbs (38,500 kg)"
+        },
+        "Standard Blade": {
+            "Height": "67.8 in (170 cm)",
+            "Width": "13 ft (4 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "NSV",
+            "Number of Reverse Gears": "NSV",
+            "Transmission Type": "PS,HSS"
+        },
+        "Undercarriage": {
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "6.9 ft (2 m)"
+        }
+    }
+}

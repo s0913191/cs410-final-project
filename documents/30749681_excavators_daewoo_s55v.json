@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/daewoo/s55v/30749681",
+    "source_url_id": "30749681",
+    "source_url_model": "s55v",
+    "source_url_make": "daewoo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:47.030318",
+    "equipment_category": "Excavators",
+    "equipment_make": "Daewoo",
+    "equipment_model": "S55V",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "19 ft (6 m)",
+            "Max Digging Depth": "12.5 ft (4 m)",
+            "Max Loading Height": "13.3 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "10.1 ft (3 m)",
+            "Shipping Height of Unit": "8.4 ft (2 m)",
+            "Shipping Length of Unit": "19.2 ft (6 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Removal Counterweight Clearance": "2.2 ft (1 m)",
+            "Tail Swing Radius": "5.5 ft (2 m)",
+            "Width to Outside of Tracks": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "naturally aspirated",
+            "Displacement": "169.5 cu in (0 m)",
+            "Engine Model": "4TNE-94",
+            "Gross Power": "52.3 hp (39 kw)",
+            "Max Torque": "133.8 lbs/ft",
+            "Net Power": "51.3 hp (38 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "2.7 gal (8 l)",
+            "Engine Oil Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "30.4 gal (114 l)",
+            "Hydraulic Pump Flow Capacity": "14.5 gal/min (53 l/min)",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Hydraulic System Relief Valve Pressure": "2987.8 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "12125.5 lbs (5,500 kg)",
+            "Swing Drive Fluid Capacity": "0.4 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.5 psi",
+            "Max Travel Speed": "2.4 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "38",
+            "Number of Track Rollers per Side": "5",
+            "Shoe Size": "15.8 in (38 cm)",
+            "Track Gauge": "4.9 ft (1 m)"
+        }
+    }
+}

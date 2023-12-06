@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/roadtec-astec/rp-175/7638088",
+    "source_url_id": "7638088",
+    "source_url_model": "rp-175",
+    "source_url_make": "roadtec-astec",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:29.499936",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Roadtec / Astec",
+    "equipment_model": "RP-175",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length of Track on Ground": "8.5 ft (2 m)",
+            "Length w/ Screed": "20.1 ft (6 m)",
+            "Track Width": "14 in (36 cm)",
+            "Transport Height": "12.5 ft (4 m)",
+            "Width w/ Hopper Open": "10.4 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "402.8 cu in (0 m)",
+            "Gross Power": "174 hp (130 kw)",
+            "Make": "Cat",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "14 in (36 cm)",
+            "Hopper Capacity": "6.9 lbs (3 kg)",
+            "Paving Speed": "200 ft/min",
+            "Paving Speed - max": "200 ft/min",
+            "Paving Width - max": "16 ft (5 m)",
+            "Travel Speed - max": "7 mph (11 kph)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "115  A",
+            "Cooling System Fluid Capacity": "5.1 gal (19 l)",
+            "Fuel Capacity": "95.2 gal (360 l)",
+            "Hydraulic System Fluid Capacity": "48.9 gal (182 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "33300 lbs (15,105 kg)",
+            "Operating Weight w/ Screed": "38600 lbs (17,509 kg)",
+            "Operating Weight w/o Screed": "33300 lbs (15,105 kg)"
+        }
+    }
+}

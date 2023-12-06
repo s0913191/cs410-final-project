@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/ap655d/30672720",
+    "source_url_id": "30672720",
+    "source_url_model": "ap655d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:01.502274",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "AP655D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "6 - 20.20 ft (2 - 6 m)",
+            "Transport Height": "9.6 ft (3 m)",
+            "Transport Width": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "Cat C6.6 with ACERT",
+            "Gross Power": "174 hp (130 kw)",
+            "Make": "Caterpillar"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "8.6 lbs (4 kg)",
+            "Paving Speed": "255 ft/min",
+            "Paving Width - max": "26.3 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "76.9 gal (288 l)",
+            "Operating Weight w/ Screed": "42251.6 lbs (19,165 kg)",
+            "Paving Width Maximum": "26.3 ft (8 m)",
+            "Paving Width Minimum": "6 ft (2 m)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank Capacity": "77 gal (291 l)"
+        }
+    }
+}

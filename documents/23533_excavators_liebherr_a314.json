@@ -1,0 +1,87 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/a314/23533",
+    "source_url_id": "23533",
+    "source_url_model": "a314",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:51.882532",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "A314",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "31.9 ft (9 m)",
+            "Max Digging Depth": "16.9 ft (5 m)",
+            "Max Loading Height": "22.5 ft (7 m)",
+            "Max Reach Along Ground": "28.1 ft (9 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "26.8 ft (8 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "32.4 ft (10 m)",
+            "Max Digging Depth": "17.6 ft (5 m)",
+            "Max Loading Height": "23 ft (7 m)",
+            "Max Reach Along Ground": "28.8 ft (9 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "25.5 ft (8 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 3": {
+            "Max Cutting Height": "32.9 ft (10 m)",
+            "Max Digging Depth": "18.3 ft (5 m)",
+            "Max Loading Height": "23.5 ft (7 m)",
+            "Max Reach Along Ground": "29.4 ft (9 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "26.8 ft (8 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 4": {
+            "Max Cutting Height": "27.3 ft (8 m)",
+            "Max Digging Depth": "16.6 ft (5 m)",
+            "Max Loading Height": "18.1 ft (5 m)",
+            "Max Reach Along Ground": "26.6 ft (8 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "28.4 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.7 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Overall Width": "8.3 in (20 cm)",
+            "Overall Width - Outriggers Down": "12.5 ft (4 m)",
+            "Tail Swing Radius": "6.7 ft (2 m)",
+            "Upper Structure Clearance": "4 ft (1 m)",
+            "Wheelbase": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Direct Injection Turbo-charged",
+            "Displacement": "293 cu in (0 m)",
+            "Engine Model": "BF4M1013EC",
+            "Net Power": "109 hp (81 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "76.7 gal (288 l)",
+            "Hydraulic Pump Flow Capacity": "60.8 gal/min (227 l/min)",
+            "Hydraulic Pump Type": "Variable Displacement, Swashplate Pump",
+            "Hydraulic System Fluid Capacity": "92.5 gal (348 l)",
+            "Hydraulic System Relief Valve Pressure": "5076.4 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "33620.5 lbs (15,250 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm",
+            "Swing Torque": "28.1 lbs/ft"
+        },
+        "Transmission": {
+            "Max Travel Speed": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Oversized two speed power shift transmission and integrated protection with additional creeper speed"
+        }
+    }
+}

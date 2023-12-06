@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/michigan/l320-long-boom/30755390",
+    "source_url_id": "30755390",
+    "source_url_model": "l320-long-boom",
+    "source_url_make": "michigan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:08.545803",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Michigan",
+    "equipment_model": "L320 Long Boom",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "110200 lbs (49,986 kg)",
+            "Bucket Capacity - heaped": "7.5 cu yds (5 m)",
+            "Bucket Capacity - struck": "6.2 cu yds (5 m)",
+            "Bucket Width": "13 ft (4 m)",
+            "Dump Clearance at Max Raise": "13.8 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Height - Top of Cab": "13.8 ft (4 m)",
+            "Hinge Pin - Max Height": "17.9 ft (5 m)",
+            "Length with Bucket on Ground": "35.3 ft (11 m)",
+            "Reach at Max Lift and Dump": "5.7 ft (2 m)",
+            "Wheelbase": "13.4 ft (4 m)",
+            "Width Over Tires": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo + aftercooled",
+            "Displacement": "1150 cu in (0 m)",
+            "Engine Model": "KTA 19C",
+            "Gross Power": "452 hp (337 kw)",
+            "Net Power": "417 hp (311 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.1 sec",
+            "Lower Time": "5.4 sec",
+            "Pump Flow Capacity": "194 gal/min (734 l/min)",
+            "Pump Type": "three gear type",
+            "Raise Time": "9 sec",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Cooling System Fluid Capacity": "35.1 gal (132 l)",
+            "Engine Oil Fluid Capacity": "13.5 gal (49 l)",
+            "Front Axle/Diff Fluid Capacity": "18 gal (68 l)",
+            "Fuel Capacity": "212.2 gal (802 l)",
+            "Hydraulic System Fluid Capacity": "160.1 gal (606 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "100540 lbs (45,605 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "18 gal (68 l)",
+            "Static Tipping Weight": "67031 lbs (30,405 kg)",
+            "Tire Size": "35/65-33 (30PR) L-4",
+            "Transmission Fluid Capacity": "18 gal (68 l)",
+            "Turning Radius": "30.1 ft (9 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.1 mph (35 kph)",
+            "Max Speed - Reverse": "13 mph (21 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Clark 6421-11 countershaft type powershift"
+        }
+    }
+}

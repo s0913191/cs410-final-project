@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/drop-deck-lowboy-trailers/towmaster/tc-10d/30682766",
+    "source_url_id": "30682766",
+    "source_url_model": "tc-10d",
+    "source_url_make": "towmaster",
+    "source_url_category": "drop-deck-lowboy-trailers",
+    "source_date_scraped": "2023-09-13 17:53:55.505105",
+    "equipment_category": "Drop Deck / Lowboy Trailers",
+    "equipment_make": "Towmaster",
+    "equipment_model": "TC-10D",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x14 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Torflex"
+        },
+        "Weights": {
+            "Equipment Weight": "2600 lbs (1,179 kg)",
+            "Weight Capacity": "10000 lbs (4,536 kg)"
+        }
+    }
+}

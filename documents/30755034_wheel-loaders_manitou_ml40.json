@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/manitou/ml40/30755034",
+    "source_url_id": "30755034",
+    "source_url_model": "ml40",
+    "source_url_make": "manitou",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:37.505094",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Manitou",
+    "equipment_model": "ML40",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Width": "4.3 ft (1 m)",
+            "Dump Clearance at Max Raise": "6.4 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Hinge Pin - Max Height": "8.9 ft (2 m)",
+            "Length with Bucket on Ground": "14.6 ft (4 m)",
+            "Wheelbase": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Gross Power": "51 hp (38 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "13.3 gal/min (49 l/min)",
+            "Pump Type": "gear",
+            "Relief Valve Setting": "3335.9 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "6393.5 lbs (2,900 kg)",
+            "Tire Size": "10x16.5 10PR SKS",
+            "Turning Radius": "10.4 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "13.7 mph (21 kph)",
+            "Number of Forward Gears": "1",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

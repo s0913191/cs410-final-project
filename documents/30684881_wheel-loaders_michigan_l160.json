@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/michigan/l160/30684881",
+    "source_url_id": "30684881",
+    "source_url_model": "l160",
+    "source_url_make": "michigan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:01.500618",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Michigan",
+    "equipment_model": "L160",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "40182 lbs (18,226 kg)",
+            "Bucket Capacity - heaped": "5 cu yds (4 m)",
+            "Bucket Capacity - struck": "4.6 cu yds (3 m)"
+        },
+        "Dimensions": {
+            "Dump Clearance at Max Lift": "10.5 ft (3 m)",
+            "Fork Tine Length": "5 ft (2 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "12.1 ft (4 m)",
+            "Hinge Pin Max Height": "14.6 ft (4 m)",
+            "Length w/ Bucket on Ground": "26.8 ft (8 m)",
+            "Length with  out Forks on Ground": "26.9 ft (8 m)",
+            "Max Lift Height": "2.8 ft (1 m)",
+            "Reach at Max Height and Dump": "3.8 ft (1 m)",
+            "Wheelbase": "11.7 ft (3 m)",
+            "Width Over Tires": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "586 cu in (0 m)",
+            "Engine Model": "TD102GB",
+            "Gross Power": "264 hp (197 kw)",
+            "Max Torque": "709.6 lbs/ft",
+            "Net Power": "252 hp (188 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.9 sec",
+            "Lower Time": "2.8 sec",
+            "Pump Flow Capacity": "66.1 gal/min (250 l/min)",
+            "Pump Type": "triple vane type",
+            "Raise Time": "7 sec",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "18.5 gal (68 l)",
+            "Engine Oil Capacity": "7.2 gal (27 l)",
+            "Front Diff Fluid Capacity": "11.9 gal (42 l)",
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Hydraulic System Fluid Capacity": "84.6 gal (318 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "49195 lbs (22,315 kg)",
+            "Rear Axle Oscillation": "30  \t\u00b0",
+            "Rear Diff Fluid Capacity": "14.8 gal (53 l)",
+            "Static Tipping Load - Bucket": "37390 lbs (16,960 kg)",
+            "Static Tipping Load - Forks": "22487.2 lbs (10,200 kg)",
+            "Tire Size": "26.5-25",
+            "Transmission Fluid Capacity": "12.5 gal (45 l)",
+            "Turning Radius": "24.3 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed Forward": "24.8 mph (39 kph)",
+            "Max Speed Reverse": "24.8 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Volvo BM HT 200 automatic powershift"
+        }
+    }
+}

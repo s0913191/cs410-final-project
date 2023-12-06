@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kioti/dk45se-hst/339114",
+    "source_url_id": "339114",
+    "source_url_model": "dk45se-hst",
+    "source_url_make": "kioti",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:50.404114",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kioti",
+    "equipment_model": "DK45SE HST",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16 in (41 cm)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Overall Length": "11.2 in (28 cm)",
+            "Tire Size": "front 8-16/6 rear 13.6-24/6",
+            "Wheelbase": "6.2 ft (2 m)",
+            "Width Outside Frame": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134.1 cu in (0 m)",
+            "Engine Model": "4A220LWH",
+            "Gross Power": "45 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "36 hp (27 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "16.9 gal/min (61 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2493.5 lbs (1,131 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "11.9 gal (42 l)",
+            "Operating Weight": "3880.2 lbs (1,760 kg)",
+            "Turning Radius": "10.3 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "17.8 mph (27 kph)",
+            "Number of Forward Gears": "3 range HST",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

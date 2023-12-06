@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/msi-30-g/30757036",
+    "source_url_id": "30757036",
+    "source_url_model": "msi-30-g",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:16.199753",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "MSI 30 G",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.3 in (25 cm)",
+            "Height to Top of Overhead Guard": "7 ft (2 m)",
+            "Length to Fork Face": "7.6 ft (2 m)",
+            "Max Fork Height": "13.8 ft (4 m)",
+            "Overall Height - mast lowered": "7.6 ft (2 m)",
+            "Overall Width": "4.4 ft (1 m)",
+            "Wheelbase": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "404 C 22T",
+            "Power": "53 hp (40 kw)",
+            "Torque": "119.5 lbs/ft"
+        },
+        "MAST": {
+            "Load Capacity": "6613.9 lbs (3,000 kg)",
+            "Max Fork Spread": "49.7 in (124 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.5 mph (19 kph)",
+            "Operating Weight": "9755.5 lbs (4,425 kg)"
+        }
+    }
+}

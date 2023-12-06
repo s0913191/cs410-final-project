@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-600/30689211",
+    "source_url_id": "30689211",
+    "source_url_model": "rt-600",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:13.272507",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 600",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "76  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "111 ft (34 m)",
+            "Min Height @ Max Raise Angle": "36 ft (11 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "1.9 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "27.1 ft (8 m)",
+            "Ground Clearance": "2 ft (1 m)",
+            "Transport Height": "12.5 ft (4 m)",
+            "Transport Length": "46 ft (14 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Wheelbase": "13.2 in (33 cm)",
+            "Width w/ Outriggers Extended": "26 ft (8 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged & charge air cooled",
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "QSB215",
+            "Gross Power": "255 hp (190 kw)",
+            "Max Torque": "655 lbs/ft",
+            "Net Power": "215 hp (160 kw)",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "102  A",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "116 gal (439 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "85694 lbs (38,871 kg)",
+            "Tire Size": "29.50 x 25, 28 P.R."
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.4 mph (37 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Power-Shift Transmission"
+        }
+    }
+}

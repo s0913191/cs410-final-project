@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combination-rollers/sakai/tw354/30766644",
+    "source_url_id": "30766644",
+    "source_url_model": "tw354",
+    "source_url_make": "sakai",
+    "source_url_category": "combination-rollers",
+    "source_date_scraped": "2023-09-13 17:39:11.720338",
+    "equipment_category": "Combination Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "TW354",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "8.6 Inches"
+        },
+        "Drum": {
+            "Drum Width": "47 Inches",
+            "Vibration Frequency": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        },
+        "Operating Specifications": {
+            "Operating Width": "4.3 Inches"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/new-holland/e25sr/30749922",
+    "source_url_id": "30749922",
+    "source_url_model": "e25sr",
+    "source_url_make": "new-holland",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:17:08.079128",
+    "equipment_category": "Excavators",
+    "equipment_make": "New Holland",
+    "equipment_model": "E25SR",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "9.3 ft (3 m)",
+            "Max Loading Height": "10.2 ft (3 m)",
+            "Max Reach Along Ground": "14.2 ft (4 m)",
+            "Shipping Length of Unit": "13.6 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.5 ft (0 m)",
+            "Length of Track on Ground": "5 ft (2 m)",
+            "Tail Swing Radius": "2.5 ft (1 m)",
+            "Width to Outside of Tracks": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Net Power": "17.8 hp (13 kw)"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "12.7 gal/min (45 l/min)",
+            "Hydraulic System Relief Valve Pressure": "3277.9 psi",
+            "Operating Weight": "5842.3 lbs (2,650 kg)"
+        },
+        "Undercarriage": {
+            "Shoe Size": "9.9 in (23 cm)"
+        }
+    }
+}

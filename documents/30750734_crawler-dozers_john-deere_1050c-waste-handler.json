@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/1050c-waste-handler/30750734",
+    "source_url_id": "30750734",
+    "source_url_model": "1050c-waste-handler",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:32.459461",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "1050C Waste Handler",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height - Top of Cab": "12 ft (4 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Length w/o Blade": "16.1 ft (5 m)",
+            "Width Over Tracks": "10.4 ft in (25 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Intercooled and turbocharged",
+            "Displacement": "793 cu in (0 m)",
+            "Engine Model": "D 9406 TI-E A3",
+            "Max Torque": "1129 lbs/ft",
+            "Net Power": "324 hp (242 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "89 gal/min (337 l/min)",
+            "Pump type": "Variable-displacement piston pump with load-sensing proprotional pump flow control",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "18 gal (68 l)",
+            "Engine Oil Capacity": "6.3 gal (23 l)",
+            "Final Drives Fluid Capacity": "5.5 gal (19 l)",
+            "Fuel Capacity": "161 gal (609 l)",
+            "Hydraulic Fluid Capacity": "55 gal (208 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "77445 lbs (35,129 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "27.7 cu yds (21 m)",
+            "Height": "96.5 in (244 cm)",
+            "Width": "13.8 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "6.8 mph (10 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Dual-path, electronic-controlled, closed-loop hydrostatic drive"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "6000 cu in (0 m)",
+            "Ground Pressure": "12.9 psi",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "7",
+            "Track Pitch": "8.5 in (20 cm)"
+        }
+    }
+}

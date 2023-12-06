@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d53p-16/30750781",
+    "source_url_id": "30750781",
+    "source_url_model": "d53p-16",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:27.721094",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D53P-16",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Length of Track on Ground": "9.6 ft (3 m)",
+            "Length w/ Blade": "16.3 ft (5 m)",
+            "Length w/o Blade": "13 ft (4 m)",
+            "Width Over Tracks": "9.6 ft in (23 cm)"
+        },
+        "Engine": {
+            "Displacement": "518.4 cu in (0 m)",
+            "Engine Model": "SL4D130-1",
+            "Gross Power": "118 hp (88 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "30578.2 lbs (13,870 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "4.2 cu yds (3 m)",
+            "Height": "37.6 in (94 cm)",
+            "Width": "11.6 ft (3 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TF"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "3.5 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "47",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "33.9 in (84 cm)",
+            "Track Gauge": "6.8 ft (2 m)",
+            "Track Pitch": "6.9 in (15 cm)"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/valmet/9013-6wd/30755993",
+    "source_url_id": "30755993",
+    "source_url_model": "9013-6wd",
+    "source_url_make": "valmet",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:23.186485",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "Valmet",
+    "equipment_model": "901.3 6WD",
+    "equipment_spec": {
+        "Boom": {
+            "Max Reach w/ Head": "32.9 ft (10 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "12.6 ft (4 m)",
+            "Overall Width": "9.6 ft (3 m)",
+            "Shipping Length - non tilt": "23.3 ft (7 m)",
+            "Wheelbase": "11.5 ft (3 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Configuration": "6 wheeldrive",
+            "Number of Axels": "3",
+            "Tire Size - front": "600/65x34",
+            "Tire Size - rear": "700/55x34"
+        },
+        "Engine": {
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Model": "66 CTA Tier 3",
+            "Net Power": "190 hp (142 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "97.8 gal (367 l)",
+            "Max Speed": "15.6 mph (24 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "31945 lbs (14,490 kg)"
+        }
+    }
+}

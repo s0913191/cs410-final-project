@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa250-5l/39179",
+    "source_url_id": "39179",
+    "source_url_model": "wa250-5l",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:17.766106",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA250-5L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Hinge Pin - Max Height": "12.4 ft (4 m)",
+            "Length with Bucket on Ground": "22.7 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.3 ft (1 m)",
+            "Wheelbase": "9.5 ft (3 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "TURBOCHARGED",
+            "Displacement": "360 cu in (0 m)",
+            "Engine Model": "SAA6 D102E",
+            "Gross Power": "135 hp (101 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.7 sec",
+            "Lower Time": "3.3 sec",
+            "Pump Flow Capacity": "43.1 gal/min (163 l/min)",
+            "Pump Type": "GEAR PUMP",
+            "Raise Time": "6.3 sec",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "4.6 gal (15 l)",
+            "Engine Oil Fluid Capacity": "5.2 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "4.8 gal (15 l)",
+            "Fuel Capacity": "47.8 gal (178 l)",
+            "Hydraulic System Fluid Capacity": "17.7 gal (64 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "25507.5 lbs (11,570 kg)",
+            "Rear Axle Oscillation": "30  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "4.8 gal (15 l)",
+            "Static Tipping Weight": "22068.3 lbs (10,010 kg)",
+            "Tire Size": "20.5-25",
+            "Transmission Fluid Capacity": "1.8 gal (4 l)",
+            "Turning Radius": "17.2 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.6 mph (37 kph)",
+            "Max Speed - Reverse": "23.6 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "HYDROSTATIC"
+        }
+    }
+}

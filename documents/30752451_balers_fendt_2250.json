@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/fendt/2250/30752451",
+    "source_url_id": "30752451",
+    "source_url_model": "2250",
+    "source_url_make": "fendt",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:59:54.314198",
+    "equipment_category": "Balers",
+    "equipment_make": "Fendt",
+    "equipment_model": "2250",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Number of Belts": "6"
+        },
+        "Bale Size": {
+            "Bale Diameter - max": "4.2 ft (1 m)",
+            "Bale Diameter - min": "4.2 ft (1 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "4",
+            "Number of Tines": "112",
+            "Overall Width": "6.6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "6.8 ft (2 m)",
+            "Overall Length": "11.1 ft (3 m)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tractor PTO Power Required": "53.7 hp (40 kw)",
+            "Weight": "3968.4 lbs (1,800 kg)"
+        },
+        "Wrapping System": {
+            "Twine Type": "Standard"
+        }
+    }
+}

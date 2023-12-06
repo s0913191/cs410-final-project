@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-1120/30875",
+    "source_url_id": "30875",
+    "source_url_model": "rt-1120",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:08.622531",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 1120",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "155 ft (47 m)",
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "155 ft (47 m)",
+            "Max Lift Capacity": "120 t (108,862 kg)",
+            "Min Height @ Max Raise Angle": "41 ft (13 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.5 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "26666.7 ft (8,128 m)",
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Transport Height": "13.1 ft (4 m)",
+            "Transport Length": "49.2 ft (15 m)",
+            "Transport Width": "11.6 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "16 ft (5 m)",
+            "Wheelbase": "180 in (457 cm)"
+        },
+        "Engine": {
+            "Air filter type": "Dry type",
+            "Aspiration": "Turbocharged & Charge air cooled",
+            "Bore": "4.5 in (10 cm)",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSC-300",
+            "Gross Power": "300 hp (224 kw)",
+            "Max Torque": "262.6 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Fuel Capacity": "80 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "304 gal (1,151 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "141999.8 lbs (64,410 kg)",
+            "Tire Size": "32.25 x 29"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Full Power-Shift Transmission"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/xcmg/qay25/10349385",
+    "source_url_id": "10349385",
+    "source_url_model": "qay25",
+    "source_url_make": "xcmg",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:18.403222",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "XCMG",
+    "equipment_model": "QAY25",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "92.6 ft (28 m)",
+            "Max Lift Capacity": "50000 lbs (22,680 kg)",
+            "Min Height @ Max Raise Angle": "28.9 ft (9 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "246.8 hp (183 kw)",
+            "Max Torque": "706.6 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "26.8 ft (8 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Transport Height": "11.7 ft (3 m)",
+            "Transport Length": "35.2 ft (11 m)",
+            "Transport Width": "8.2 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10.9 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "55556.5 lbs (25,200 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "43.5 mph (69 kph)"
+        }
+    }
+}

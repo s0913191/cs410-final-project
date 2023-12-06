@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/liebherr/lr-1300/30758404",
+    "source_url_id": "30758404",
+    "source_url_model": "lr-1300",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:42.138153",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LR 1300",
+    "equipment_spec": {
+        "Boom": {
+            "Boom luffing - Boom winch": "127 sec from 15  to 86  \t\u00b0",
+            "Line pull -Boom winch": "48783.6 lbs (22,128 kg)",
+            "Rope diameter- Boom winch": "1 in (3 cm)"
+        },
+        "Capacities": {
+            "Fuel Tank": "208.7 gal (787 l)",
+            "Hydraulic oil tank": "237.8 gal (897 l)",
+            "Rope capacity - Main winches": "1870.1 ft (570 m)"
+        },
+        "Engine": {
+            "Emission Tier Level": "Tier 4f",
+            "Engine Type": "Liebherr D 946 A7-04",
+            "Gross Power": "523 hp (390 kw)",
+            "Power Measured @": "1700 rpm"
+        },
+        "Operating Specifications": {
+            "Diameter - Main winches": "28.8 in (71 cm)",
+            "Drive speed - Crawlers": "0.9 mph (0 kph)",
+            "Line pull - Main winches": "48334 lbs (21,924 kg)",
+            "Luffing jib": "69 sec from 15  to 78  \t\u00b0",
+            "Luffing Line pull": "23605 lbs (10,707 kg)",
+            "Luffing Rope diameter": "0.8 in (0 cm)",
+            "Rope diameter- Main winches": "1.2 in (3 cm)",
+            "Rope speed - Main wiches": "452.8 ft/min",
+            "Track pads - Crawlers": "47.3 in (119 cm)"
+        },
+        "Transmission": {
+            "Working speed": "350 bar"
+        }
+    }
+}

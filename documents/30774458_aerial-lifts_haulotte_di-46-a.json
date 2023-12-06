@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/di-46-a/30774458",
+    "source_url_id": "30774458",
+    "source_url_model": "di-46-a",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:52.178237",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "DI 46 A",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "474 lbs (215 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "51.9 ft (16 m)",
+            "Platform Size": "4.3x2.3 ft (1 m)",
+            "Stowed Height": "7.5 ft (2 m)",
+            "Stowed Width": "5.9 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "215R14"
+        }
+    }
+}

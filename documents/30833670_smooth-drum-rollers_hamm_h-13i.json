@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/h-13i/30833670",
+    "source_url_id": "30833670",
+    "source_url_model": "h-13i",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:49.171441",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "H 13i",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "143.7 in (363 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84.2 in (213 cm)",
+            "Vibration Frequency": "30/40 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "88.9 in (224 cm)"
+        }
+    }
+}

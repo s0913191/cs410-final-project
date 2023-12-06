@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb32b/4782440",
+    "source_url_id": "4782440",
+    "source_url_model": "cb32b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:39.111735",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB32B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "93 in (236 cm)"
+        },
+        "Drum": {
+            "Drum Width": "51 in (130 cm)",
+            "Vibration Frequency": "42/52/63 hz (2,520 vpm)"
+        },
+        "Engine": {
+            "Make": "Cat"
+        },
+        "Operating Specifications": {
+            "Operating Width": "56 in (142 cm)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank Capacity": "17 gal (64 l)",
+            "Water Spray Tank Capacity": "62 gal (235 l)"
+        },
+        "Transmission": {
+            "Max Speed": "7.5 mph (11 kph)"
+        },
+        "Vibratory System": {
+            "Centrifugal Force per Drum - Maximum": "7823 lbs (3,549 kg)",
+            "Centrifugal Force per Drum - Minimum": "3485 lbs (1,581 kg)",
+            "Frequency": "42 - 63 hz (2,520 - 3,780 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)"
+        },
+        "Weights": {
+            "Maximum Weight at Front Drum": "2950 lbs (1,338 kg)",
+            "Maximum Weight at Rear Drum": "3239 lbs (1,469 kg)",
+            "Operating Weight": "6190 lbs (2,808 kg)"
+        }
+    }
+}

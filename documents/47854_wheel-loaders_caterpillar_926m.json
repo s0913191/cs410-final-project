@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/926m/47854",
+    "source_url_id": "47854",
+    "source_url_model": "926m",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:21.325172",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "926M",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.0 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C7.1 ACERT",
+            "Net Power": "148 hp (110 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2.5 - 6.50 cu yds (2 - 5 m)"
+        },
+        "Weights": {
+            "Operational Weight": "29357 lbs (13,316 kg)"
+        }
+    }
+}

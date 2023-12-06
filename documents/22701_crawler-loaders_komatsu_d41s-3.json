@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/komatsu/d41s-3/22701",
+    "source_url_id": "22701",
+    "source_url_model": "d41s-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:45.857723",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D41S-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "8.6 ft (2 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Length with Bucket on Ground": "16.1 ft (5 m)",
+            "Reach at Dump Height": "3.4 ft (1 m)",
+            "Width to Outside of Tracks": "6.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "396 cu in (0 m)",
+            "Engine Model": "6D105",
+            "Net Power": "90 hp (67 kw)"
+        },
+        "Operating Specifications": {
+            "Breakout Force  Bucket": "18700 lbs (8,482 kg)",
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Cooling System Fluid Capacity": "8.8 gal (30 l)",
+            "Fuel Capacity": "64.8 gal (242 l)",
+            "Max Speed": "4.8 mph (6 kph)",
+            "Operating Weight": "24339.1 lbs (11,040 kg)",
+            "Static Tipping Load": "15500 lbs (7,031 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "9.6 psi",
+            "Length of Track on Ground": "6.8 ft (2 m)",
+            "Number of Track Rollers per Side": "5",
+            "Track Gauge": "60.7 in (152 cm)",
+            "Track Shoe Width": "15.8 in (38 cm)"
+        }
+    }
+}

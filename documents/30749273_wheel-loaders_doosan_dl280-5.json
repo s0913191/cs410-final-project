@@ -1,0 +1,71 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/doosan/dl280-5/30749273",
+    "source_url_id": "30749273",
+    "source_url_model": "dl280-5",
+    "source_url_make": "doosan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:53.677682",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "DL280-5",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "30349 lbs (13,766 kg)",
+            "Bucket Capacity - heaped": "3.7 cu yds (2 m)",
+            "Bucket Width": "9 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Hinge Pin - Max Height": "13 ft (4 m)",
+            "Tread width": "80.4 in (203 cm)",
+            "Wheelbase": "9.9 ft (3 m)",
+            "Width Over Tires": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Double Element",
+            "Alternator": "80 A",
+            "Battery": "100 AH",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Make": "Doosan",
+            "Engine Model": "DL06",
+            "Gross Power": "172 hp (128 kw)",
+            "Make": "Doosan",
+            "Max. torque ISO14396": "593 lbs/ft",
+            "Net Power": "172 hp (128 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Starter": "8 hp (6 kw)",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "55.5 gal/min (208 l/min)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.4 gal (30 l)",
+            "DEF tank capacity": "8.4 gal (30 l)",
+            "Engine Oil Fluid Capacity": "7.2 gal (27 l)",
+            "Front Axle/Diff Fluid Capacity": "9.3 gal (34 l)",
+            "Fuel Capacity": "58.7 gal (220 l)",
+            "Hydraulic System Fluid Capacity": "31.8 gal (117 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "34262 lbs (15,541 kg)",
+            "Rated Bucket Capacity": "3.7 cu yds (2 m)",
+            "Rear Axle/Diff Fluid Capacity": "6.1 gal (23 l)",
+            "Static Tipping Weight": "26486 lbs (12,014 kg)",
+            "Tire Size": "20.5-R25 (L3)",
+            "Transmission Fluid Capacity": "9.8 gal (34 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.1 mph (35 kph)",
+            "Max Speed - Reverse": "15.1 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3"
+        },
+        "Weights": {
+            "Operational Weight": "34262 lbs (15,541 kg)"
+        }
+    }
+}

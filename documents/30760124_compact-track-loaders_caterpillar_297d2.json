@@ -1,0 +1,92 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/caterpillar/297d2/30760124",
+    "source_url_id": "30760124",
+    "source_url_model": "297d2",
+    "source_url_make": "caterpillar",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:11.723625",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "297D2",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "106 hp (79 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "4800 lbs (2,177 kg)",
+            "Operating Width": "76 in (193 cm)"
+        },
+        "Air Conditioning System": {
+            "Air Conditioning": "The air conditioning system on this machine contains the fluorinated greenhouse gas refrigerant R134a (Global Warming Potential = 1430). The system contains 0.81 kg of refrigerant which has a CO2 equivalent of 1.158 metric tonnes."
+        },
+        "Cab": {
+            "FOPS": "ISO 3449:2005 Level I",
+            "FOPS Level II": "ISO 3449:2005 Level II",
+            "ROPS": "ISO 3471:2008"
+        },
+        "Dimensions": {
+            "Bucket Pin Height - Carry Position": "7.9 in (18 cm)",
+            "Bucket Pin Height - Maximum Lift": "10.7 ft (3 m)",
+            "Bucket Pin Reach - Maximum Lift": "15.2 in (38 cm)",
+            "Clearance at Maximum Lift and Dump": "96.3 in (244 cm)",
+            "Departure Angle": "30  \t\u00b0",
+            "Ground Clearance": "0.8 ft in (0 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length - Track on Ground": "71.1 in (180 cm)",
+            "Length - With Bucket on Ground": "155.2 in (394 cm)",
+            "Length - Without Bucket": "126 in (320 cm)",
+            "Maximum Dump Angle": "52  \t\u00b0",
+            "Maximum Overall Height": "160.5 in (406 cm)",
+            "Maximum Reach - With Arms Parallel to Ground": "49.6 in (124 cm)",
+            "Note": "#",
+            "Overall Length - Track": "90 in (229 cm)",
+            "Rack Back Angle - Maximum Height": "83  \t\u00b0",
+            "Reach - Maximum Lift/Dump": "30.5 in (76 cm)",
+            "Roll Back Angle": "27  \t\u00b0",
+            "Turning Radius from Center - Bucket (racked)": "91.8 in (231 cm)",
+            "Turning Radius from Center - Coupler": "59.2 in (150 cm)",
+            "Turning Radius from Center - Machine Rear": "73.4 in (185 cm)",
+            "Vehicle Width": "78.1 in (198 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic Flow - High Flow XPS - Hydraulic Power (Calculated)": "76 hp (57 kw)",
+            "Hydraulic Flow - High Flow XPS - Maximum Loader Hydraulic Flow": "32 gal/min (121 l/min)",
+            "Hydraulic Flow - High Flow XPS - Maximum Loader Hydraulic Pressure": "4061 psi",
+            "Hydraulic Flow - Standard - Hydraulic Power (Calculated)": "44 hp (33 kw)",
+            "Hydraulic Flow - Standard - Loader Hydraulic Flow": "23 gal/min (87 l/min)",
+            "Hydraulic Flow - Standard - Loader Hydraulic Pressure": "3335 psi"
+        },
+        "Noise Level": {
+            "Inside Cab*": "83 dB(A)",
+            "Note (1)": "Cab and Rollover Protective Structures (ROPS) are standard in North America and Europe.",
+            "Note (3)": "**The labeled sound power level for the CE marked configurations when measured according to the test procedure and conditions specified in 2000/14/EC.",
+            "Outside Cab**": "104 dB(A)"
+        },
+        "Operating Specifications": {
+            "Breakout Force - Lift Cylinder": "6072 lbs (2,754 kg)",
+            "Breakout Force - Tilt Cylinder": "7468 lbs (3,388 kg)",
+            "Ground Contact Area": "2561 cu in (0 m)",
+            "Ground Pressure": "4.2 psi",
+            "Note": "#",
+            "Rated Operating Capacities - 35% Tipping Load": "3290 lbs (1,492 kg)",
+            "Rated Operating Capacities - 50% Tipping Load": "4700 lbs (2,132 kg)",
+            "Rated Operating Capacity with Optional Counterweight": "4960 lbs (2,250 kg)",
+            "Tipping Load": "9400 lbs (4,264 kg)"
+        },
+        "Power Train": {
+            "Travel Speed - Forward or Reverse - One Speed": "5.9 mph (8 kph)",
+            "Travel Speed - Forward or Reverse - Two Speed": "9.4 mph (14 kph)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "4.1 gal (15 l)",
+            "Diesel Exhaust Fluid (DEF) Tank": "5 gal (19 l)",
+            "Engine Crankcase": "3.5 gal (11 l)",
+            "Fuel Tank": "32.2 gal (121 l)",
+            "Hydraulic System": "14.5 gal (53 l)",
+            "Hydraulic Tank": "10.3 gal (38 l)"
+        },
+        "Weights": {
+            "Note": "#"
+        }
+    }
+}

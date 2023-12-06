@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/85z7-t4f/30761315",
+    "source_url_id": "30761315",
+    "source_url_model": "85z7-t4f",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:39.337481",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "85Z7 T4F",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "14.0 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB6.7",
+            "Net Power": "243 hp (181 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.8 - 5.20 cu yds (3 - 4 m)"
+        },
+        "Weights": {
+            "Operational Weight": "46050 lbs (20,888 kg)"
+        }
+    }
+}

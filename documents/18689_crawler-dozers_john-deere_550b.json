@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/550b/18689",
+    "source_url_id": "18689",
+    "source_url_model": "550b",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:47.858898",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "550B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Width Over Tracks": "8 ft in (20 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "300 Series",
+            "Max Torque": "250 lbs/ft",
+            "Net Power": "78 hp (58 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.8 gal/min (64 l/min)",
+            "Pump type": "Open-Center",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5 gal (19 l)",
+            "Final Drives Fluid Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "36 gal (136 l)",
+            "Hydraulic Fluid Capacity": "9.5 gal (34 l)",
+            "Operating Weight": "15400 lbs (6,985 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/tigercat/1045/31290",
+    "source_url_id": "31290",
+    "source_url_model": "1045",
+    "source_url_make": "tigercat",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:55.161879",
+    "equipment_category": "Forwarders",
+    "equipment_make": "Tigercat",
+    "equipment_model": "1045",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Area": "43.1 CUBIC ft",
+            "Load Weight - 8wd": "24250 lbs (11,000 kg)"
+        },
+        "Crane": {
+            "Crane Type": "Cranab FC105 with telescopic stick",
+            "Gross Lift Torque": "77450 lbs/ft",
+            "Gross Slew Torque": "19100 lbs/ft",
+            "Max Reach": "24.7 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.3 ft (1 m)",
+            "Height to Top of crane": "11.75 ft (3 m)",
+            "Height to Top of Crane": "11.8 ft (3 m)",
+            "Length": "31.6 ft (9 m)",
+            "Length of Bunk Area": "8.6 ft (2 m)",
+            "Width Over Tires": "8.7 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "906 Tier III",
+            "Power": "201 hp (150 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Type": "variable displacement axial piston"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Front/Rear Tire Size - 6wd": "700/55x34 / 700/50x26.5",
+            "Front/Rear Tire Size - 8wd": "600/55 x 26.5",
+            "Fuel Capacity": "55 gal (208 l)",
+            "Hydraulic System Fluid Capacity": "33.9 gal (125 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight - 8wd": "35714.9 lbs (16,200 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "15 mph (24 kph)",
+            "Transmission Type": "Hydrostatic 2-speed gearbox"
+        }
+    }
+}

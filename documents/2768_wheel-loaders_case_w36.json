@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/w36/2768",
+    "source_url_id": "2768",
+    "source_url_model": "w36",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:59.990214",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "W36",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "27000 lbs (12,247 kg)"
+        },
+        "Dimensions": {
+            "Wheelbase": "10.6 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "504 cu in (0 m)",
+            "Engine Model": "W36",
+            "Net Power": "185 hp (138 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Rise": "24%"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "6742.2 lbs (3,058 kg)",
+            "Rear Axle/Diff Fluid Capacity": "24 gal (91 l)",
+            "Turning Radius": "20.7 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20 mph (32 kph)",
+            "Max Speed - Reverse": "20 mph (32 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Duallevers"
+        }
+    }
+}

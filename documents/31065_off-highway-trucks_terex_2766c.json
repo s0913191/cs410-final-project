@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/terex/2766c/31065",
+    "source_url_id": "31065",
+    "source_url_model": "2766c",
+    "source_url_make": "terex",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:47.670458",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Terex",
+    "equipment_model": "2766C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2.2 ft (1 m)",
+            "Dump Height": "19.3 ft (6 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Overall Height": "11.2 ft (3 m)",
+            "Overall Length": "31 ft (9 m)",
+            "Overall Width": "10.1 ft (3 m)",
+            "Wheelbase": "16.3 ft (5 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "19.7 cu yds (15 m)",
+            "Capacity - Struck": "16.4 cu yds (12 m)",
+            "Dump Angle": "65  \t\u00b0",
+            "Lower Time": "9 sec",
+            "Raise Time": "13 sec",
+            "Rated Payload": "55115.6 lbs (25,000 kg)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged and aftercooled",
+            "Displacement": "8.3 cu in (0 m)",
+            "Engine Model": "6CTA8.3-C",
+            "Gross Power": "255 hp (190 kw)",
+            "Max Torque": "750 lbs/ft",
+            "Net Power": "244 hp (182 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "14.1 gal (53 l)",
+            "Engine Oil Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "64.8 gal (242 l)",
+            "Hydraulic System Fluid Capacity": "52.9 gal (197 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "23.5 R 25",
+            "Transmission Fluid Capacity": "7.4 gal (27 l)"
+        },
+        "Transmission": {
+            "Max Speed": "28 mph (45 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "ZF 6WG 200 Powershift"
+        },
+        "Weights": {
+            "Center Axle - empty": "10868.8 lbs (4,930 kg)",
+            "Center Axle - loaded": "32452.1 lbs (14,720 kg)",
+            "Front Axle - empty": "21803.8 lbs (9,890 kg)",
+            "Front Axle - loaded": "33852 lbs (15,355 kg)",
+            "Rear Axle - empty": "10626.3 lbs (4,820 kg)",
+            "Rear Axle - loaded": "32110.4 lbs (14,565 kg)",
+            "Total Empty": "43298.8 lbs (19,640 kg)",
+            "Total Loaded": "98414.4 lbs (44,640 kg)"
+        }
+    }
+}

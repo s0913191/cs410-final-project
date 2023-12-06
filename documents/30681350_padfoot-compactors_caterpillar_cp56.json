@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/caterpillar/cp56/30681350",
+    "source_url_id": "30681350",
+    "source_url_model": "cp56",
+    "source_url_make": "caterpillar",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:26.462621",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CP56",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "7 ft (2 m)",
+            "Turning Radius - Inside": "12.1 ft (4 m)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Frequency": "1400 - 1,914 hz (84,000 - 114,840 vpm)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        }
+    }
+}

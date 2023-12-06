@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d8t-wh-lgp/30750663",
+    "source_url_id": "30750663",
+    "source_url_model": "d8t-wh-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:39.716514",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D8T WH LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Length w/ Blade": "20 ft (6 m)",
+            "Length w/o Blade": "15.3 ft (5 m)",
+            "Width Over Tracks": "8.7 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "928 cu in (0 m)",
+            "Engine Model": "C15 ACERT",
+            "Gross Power": "347 hp (259 kw)",
+            "Net Power": "310 hp (231 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Fuel Capacity": "170 gal (643 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "85150 lbs (38,624 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "27.6 cu yds (21 m)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "9610 cu in (0 m)",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "38 in (97 cm)"
+        }
+    }
+}

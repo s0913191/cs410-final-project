@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/claas/celtis-426/30751680",
+    "source_url_id": "30751680",
+    "source_url_model": "celtis-426",
+    "source_url_make": "claas",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:15.516030",
+    "equipment_category": "Tractors",
+    "equipment_make": "Claas",
+    "equipment_model": "Celtis 426",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15 in (38 cm)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Overall Length": "14.9 in (36 cm)",
+            "Tire Size": "Front 11.2R24, Rear 16.9 R 30",
+            "Wheelbase": "8.2 ft (2 m)",
+            "Width Outside Frame": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "276.2 cu in (0 m)",
+            "Engine Model": "ECE-R24",
+            "Gross Power": "73.1 hp (54 kw)",
+            "Net Power": "71.1 hp (53 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15.9 gal/min (57 l/min)",
+            "Relief Valve Pressure": "2610.7 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Fuel Capacity": "38.4 gal (144 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8884.7 lbs (4,030 kg)",
+            "Turning Radius": "14.2 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "20",
+            "Number of Reverse Gears": "20",
+            "Transmission Type": "CLAAS"
+        }
+    }
+}

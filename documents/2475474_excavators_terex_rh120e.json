@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/rh120e/2475474",
+    "source_url_id": "2475474",
+    "source_url_model": "rh120e",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:04.348058",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "RH120E",
+    "equipment_spec": {
+        "Backhoe Boom / Stick 1": {
+            "Max Cutting Height": "47.3 ft (14 m)",
+            "Max Dig Depth": "20.1 ft (6 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "22.3 cu yds (17 m)",
+            "Minimum Bucket Capacity": "17.7 cu yds (13 m)",
+            "Reference Bucket Capacity": "20.2 cu yds (15 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "25 ft (8 m)",
+            "Height of Tracks": "6.4 ft (2 m)",
+            "Length of Track on Ground": "19.7 ft (6 m)",
+            "Length of Tracks": "25.1 ft (8 m)",
+            "Upper Structure Ground Clearance": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and charge air cooled",
+            "Displacement": "1105 cu in (0 m)",
+            "Engine Model": "2x  C18",
+            "Gross Power": "1568 hp (1,169 kw)",
+            "Net Power": "1400 hp (1,044 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Loading Shovel": {
+            "Max Cutting Height": "45.7 ft (14 m)",
+            "Max Dig Depth": "8.3 ft (2 m)",
+            "Max Dig Reach": "45 ft (14 m)",
+            "Max Dump Height": "35.2 ft (11 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "300  A",
+            "Fuel Capacity": "1416 gal (5,360 l)",
+            "Hydraulic System Fluid Capacity": "660.5 gal (2,498 l)",
+            "Operating Voltage": "24 V V",
+            "Swing Speed": "4.7 rpm"
+        },
+        "Undercarriage": {
+            "Backhoe Ground Pressure - Shoe 1": "31.1 psi",
+            "Backhoe Operating Weight - Shoe 1": "632947.2 lbs (287,103 kg)",
+            "Backhoe Shoe Width 1": "39.4 in (99 cm)",
+            "Loading Shovel Ground Pressure": "30.9 psi",
+            "Loading Shovel Operating Weight": "626333.4 lbs (284,103 kg)",
+            "Loading Shovel Shoe Width": "39.4 in (99 cm)",
+            "Max Travel Speed": "1.7 mph (2 kph)",
+            "Number of Lower Rollers": "7",
+            "Number of Track Shoes per Side": "47",
+            "Number of Upper Rollers": "2",
+            "Tail Swing Radius": "20.8 ft (6 m)",
+            "Track Gauge": "15.8 ft (5 m)"
+        }
+    }
+}

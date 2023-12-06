@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/hd605-8/30761122",
+    "source_url_id": "30761122",
+    "source_url_model": "hd605-8",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:43.489222",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "HD605-8",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "RWD"
+        },
+        "Dump": {
+            "Rated Payload": "69.4 t (62,596 kg)"
+        },
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA6D170E-7"
+        },
+        "Weights": {
+            "Operating Weight": "252870 lbs (114,701 kg)"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca150ad/30754030",
+    "source_url_id": "30754030",
+    "source_url_model": "ca150ad",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:54.718058",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA150AD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "14.5 in (36 cm)",
+            "Gradeability": "55%",
+            "Ground Clearance": "13 in (33 cm)",
+            "Height": "6.8 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "9.3 ft (3 m)",
+            "Overall Length": "188.1 in (478 cm)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Wheelbase": "100.2 in (254 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "25853.1 lbs (11,727 kg)",
+            "Centrifugal Force - Low": "13039 lbs (5,915 kg)",
+            "Drum Diameter": "48 in (122 cm)",
+            "Drum thickness": "0.9 in (0 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "BT3.3",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "80.5 hp (60 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "225 gal (852 l)",
+            "Max Speed": "5 mph (8 kph)",
+            "Operating Weight": "8300 lbs (3,765 kg)",
+            "Operating weight ROPS": "7600 lbs (3,447 kg)",
+            "Tire Size": "13.00-24"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx240-3/14275",
+    "source_url_id": "14275",
+    "source_url_model": "zx240-3",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:01:26.961027",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX240-3",
+    "equipment_spec": {
+        "Bucket": {
+            "Reference Bucket Capacity": "1.4 cu yds (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged ,intercooled",
+            "Displacement": "316.9 cu in (0 m)",
+            "Engine Model": "AH-4HK1X",
+            "Max Torque": "496.4 lbs/ft",
+            "Net Power": "177 hp (132 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.9 gal (23 l)",
+            "Engine Oil Capacity": "6.1 gal (23 l)",
+            "Fuel Capacity": "132.1 gal (500 l)",
+            "Hydraulic Pump Flow Capacity": "118.4 gal/min (447 l/min)",
+            "Hydraulic System Fluid Capacity": "74 gal (280 l)",
+            "Hydraulic System Relief Valve Pressure": "4974.8 psi",
+            "Operating Weight": "23400 lbs (10,614 kg)",
+            "Swing Drive Fluid Capacity": "2.5 gal (8 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "13.5 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.4 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "47",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "23.7 in (58 cm)"
+        }
+    }
+}

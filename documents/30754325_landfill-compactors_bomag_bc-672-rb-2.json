@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/landfill-compactors/bomag/bc-672-rb-2/30754325",
+    "source_url_id": "30754325",
+    "source_url_model": "bc-672-rb-2",
+    "source_url_make": "bomag",
+    "source_url_category": "landfill-compactors",
+    "source_date_scraped": "2023-09-13 17:39:14.468236",
+    "equipment_category": "Landfill Compactors",
+    "equipment_make": "Bomag",
+    "equipment_model": "BC 672 RB-2",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "76.8 in (193 cm)",
+            "Blade Width": "14.3 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height - Top of Cab": "13.5 ft (4 m)",
+            "Length With Blade on Ground": "26.65 ft (8 m)",
+            "Length with Blade on Ground": "26.7 ft (8 m)",
+            "Wheelbase": "11.5 ft (3 m)",
+            "Width Over Wheels": "12.4 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "TCD 2015V06",
+            "Gross Power": "449 hp (335 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "6.9 gal (23 l)",
+            "Fuel Capacity": "132.1 gal (500 l)",
+            "Hydraulic System Fluid Capacity": "92.5 gal (348 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "71000 lbs (32,205 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "7.5 mph (11 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic"
+        },
+        "Wheels": {
+            "Front Wheels Drum Diameter": "63.8 in (160 cm)",
+            "Front Wheels Drum Width": "53.2 in (135 cm)",
+            "Rear Wheels Drum Diameter": "63.8 in (160 cm)",
+            "Rear Wheels Drum Width": "44.3 in (112 cm)"
+        }
+    }
+}

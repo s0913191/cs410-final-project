@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hitachi/lx230-7/30755303",
+    "source_url_id": "30755303",
+    "source_url_model": "lx230-7",
+    "source_url_make": "hitachi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:45.517490",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hitachi",
+    "equipment_model": "LX230-7",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "44512.2 lbs (20,191 kg)",
+            "Bucket Capacity - heaped": "5.3 cu yds (4 m)",
+            "Bucket Width": "10.4 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.3 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Hinge Pin - Max Height": "14.4 ft (4 m)",
+            "Length with Bucket on Ground": "28.4 ft (9 m)",
+            "Reach at Max Lift and Dump": "4.2 ft (1 m)",
+            "Wheelbase": "11.2 ft (3 m)",
+            "Width Over Tires": "9.8 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "729 cu in (0 m)",
+            "Engine Model": "6D24TL",
+            "Net Power": "266 hp (198 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.5 sec",
+            "Lower Time": "3.6 sec",
+            "Raise Time": "6.4 sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "97.8 gal (367 l)",
+            "Operating Weight": "47994.7 lbs (21,770 kg)",
+            "Tire Size": "26.5-25-20 PR L3",
+            "Turning Radius": "19.1 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Max Speed - Reverse": "22.7 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "4-speed full powershift"
+        }
+    }
+}

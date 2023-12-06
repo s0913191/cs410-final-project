@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/farmall-50b/31014634",
+    "source_url_id": "31014634",
+    "source_url_model": "farmall-50b",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:16.945555",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "FARMALL 50B",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "47 hp (35 kw)"
+        },
+        "Production": {
+            "Series": "Farmall B Series",
+            "Years Manufactured": "2012 - 2014"
+        }
+    }
+}

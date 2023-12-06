@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-151-ad-4-hf/30754199",
+    "source_url_id": "30754199",
+    "source_url_model": "bw-151-ad-4-hf",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:03.405901",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 151 AD-4 HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "14.9 in (36 cm)",
+            "Wheelbase": "10.9 in (25 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - MEd": "16860.7 lbs (7,648 kg)",
+            "Centrifugal Force - Med": "15736.7 lbs (7,138 kg)",
+            "Drum Diameter": "48.1 in (122 cm)",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "134.4 lbs/in",
+            "Vibration Frequency 1": "40 hz (2,400 vpm)",
+            "Vibration Frequency 2": "60 hz (3,600 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BF4M 2011",
+            "Gross Power": "80.5 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "42.3 gal (159 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "17798 lbs (8,073 kg)"
+        }
+    }
+}

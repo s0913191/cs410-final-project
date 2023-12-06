@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rippers-ag/case-ih/ecolo-tiger-530c/41821",
+    "source_url_id": "41821",
+    "source_url_model": "ecolo-tiger-530c",
+    "source_url_make": "case-ih",
+    "source_url_category": "rippers-ag",
+    "source_date_scraped": "2023-09-13 17:08:32.012736",
+    "equipment_category": "Rippers Ag",
+    "equipment_make": "Case Ih",
+    "equipment_model": "ECOLO-TIGER 530C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Max Weight": "10300 lbs (4,672 kg)",
+            "Transport Width": "14.7 ft (4 m)",
+            "Working Width Spacing #1 min": "12.5 ft (4 m)"
+        },
+        "Disc System": {
+            "Blade Diameter": "24 in (61 cm)",
+            "Blade Thickness": "0.3 in (0 cm)",
+            "Depth Control": "independent hydraulic",
+            "Max Operating Depth": "4 in (10 cm)",
+            "Spacing #1": "15 in (38 cm)"
+        },
+        "Shanks": {
+            "Number of Main Shanks": "5",
+            "Shank Spacing": "30 in (76 cm)",
+            "Shank Trip Force": "4800 lbs (2,177 kg)"
+        },
+        "Tires": {
+            "Tires": "16.6x16.1 FI"
+        }
+    }
+}

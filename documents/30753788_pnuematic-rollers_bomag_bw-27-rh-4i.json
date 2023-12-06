@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/bomag/bw-27-rh-4i/30753788",
+    "source_url_id": "30753788",
+    "source_url_model": "bw-27-rh-4i",
+    "source_url_make": "bomag",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:16.536152",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 27 RH-4I",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "27%",
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of ROPS/FOPS": "10.2 ft (3 m)",
+            "Overall Length": "194.5 in (493 cm)",
+            "Overall Width": "6.7 ft (2 m)",
+            "Turning Radius - Inside": "209.4 in (531 cm)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 4.1 L04",
+            "Gross Power": "95 hp (71 kw)",
+            "Make": "Deutz",
+            "Net Power": "125.6 hp (93 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66 gal (250 l)",
+            "Max Speed": "12.4 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Width": "80.4 in (203 cm)",
+            "Water Spray Tank Fluid Capacity": "105.7 gal (397 l)"
+        },
+        "Steering System": {
+            "Steering angle": "30  \t\u00b0",
+            "Steering Method": "Hydrostatic",
+            "System": "2 Punkt Schemell"
+        },
+        "Tires": {
+            "Oscillation Angle": "10  \t\u00b0",
+            "Standard Tire Size": "1100-20 18PR"
+        },
+        "Weights": {
+            "Average Weight per Wheel - Max Ballast": "7441 lbs (3,375 kg)",
+            "Operating Weight - max ballast": "59525 lbs (27,000 kg)",
+            "Operating Weight - standard": "19401 lbs (8,800 kg)"
+        }
+    }
+}

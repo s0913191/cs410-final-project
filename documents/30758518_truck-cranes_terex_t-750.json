@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex/t-750/30758518",
+    "source_url_id": "30758518",
+    "source_url_model": "t-750",
+    "source_url_make": "terex",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:15.243612",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "T 750",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "126 ft (38 m)",
+            "Max Lift Capacity": "150000.1 lbs (68,040 kg)",
+            "Min Height @ Max Raise Angle": "40 ft (12 m)",
+            "Number of Sections": "4"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "414.4 hp (309 kw)",
+            "Make": "Terex",
+            "Model": "Series 60"
+        },
+        "Operating Specifications": {
+            "Upper Structure Hydraulic System Fluid Capacity": "162.5 gal (613 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "54.7 mph (87 kph)",
+            "Number of Forward Gears": "13",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Roadranger"
+        }
+    }
+}

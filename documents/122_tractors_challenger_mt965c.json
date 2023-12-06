@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/challenger/mt965c/122",
+    "source_url_id": "122",
+    "source_url_model": "mt965c",
+    "source_url_make": "challenger",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:59.769233",
+    "equipment_category": "Tractors",
+    "equipment_make": "Challenger",
+    "equipment_model": "MT965C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "12.6 ft (4 m)",
+            "Overall Length": "297.7 in (754 cm)",
+            "Shipping weight": "39767 lbs (18,038 kg)",
+            "Wheelbase": "12.9 ft (4 m)",
+            "Width Outside Frame": "16.7 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.8 in (13 cm)",
+            "Displacement": "1104.6 cu in (0 m)",
+            "Engine Make": "Challenger",
+            "Engine Model": "C18 ACERT",
+            "Gross Power": "525 hp (391 kw)",
+            "Number of Cylinders": "6",
+            "PTO Power": "425 hp (317 kw)",
+            "Stroke": "7.3 in (18 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center pressure flow compensated",
+            "Number of Remote Control Valves": "4 to 6",
+            "Pump Flow Capacity": "43.5 gal/min (163 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "19500 lbs (8,845 kg)",
+            "3 Point Hitch Type": "III/IVN",
+            "Alternator Supplied Amperage": "185  A",
+            "Front Tire Size": "710/70R42",
+            "Fuel Capacity": "390 gal (1,476 l)",
+            "Hydraulic System Fluid Capacity": "36 gal (136 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "60001.1 lbs (27,216 kg)",
+            "Rear Tire Size": "710/70R42"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Caterpillar Powershift"
+        }
+    }
+}

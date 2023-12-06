@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/new-holland/sp333f/30322565",
+    "source_url_id": "30322565",
+    "source_url_model": "sp333f",
+    "source_url_make": "new-holland",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:57.895907",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "New Holland",
+    "equipment_model": "SP333F",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "118 in (300 cm)",
+            "Max Boom Width": "90 ft (27 m)",
+            "Min Adjustable Height": "22 in (56 cm)",
+            "Min Boom Width": "60 ft (18 m)"
+        },
+        "Dimensions": {
+            "Overall Length": "363.8 in (922 cm)",
+            "Tire Size": "320/90R50",
+            "Transport Height": "11 ft (3 m)",
+            "Transport Width": "10.7 ft (3 m)",
+            "Wheelbase": "14.8 ft (4 m)"
+        },
+        "Engine": {
+            "Alternator": "160 A",
+            "Displacement": "506.5 cu in (0 m)",
+            "Emission Tier Level": "Tier III",
+            "Engine Make": "Cummins QSL",
+            "Gross Power": "305 hp (227 kw)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - max": "33780 lbs (15,323 kg)",
+            "Fuel Capacity": "150 gal (568 l)",
+            "Rinse Tank Capacity": "150 gal (568 l)",
+            "Solution Tank Capacity": "1200 gal (4,542 l)"
+        },
+        "Transmission": {
+            "Max Speed": "26.8 mph (42 kph)",
+            "Number of Forward Gears": "3",
+            "Transmission Type": "Hydrostatic drive with Twin Sundstran heavy duty pumps"
+        }
+    }
+}

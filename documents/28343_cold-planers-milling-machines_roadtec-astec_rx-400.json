@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/roadtec-astec/rx-400/28343",
+    "source_url_id": "28343",
+    "source_url_model": "rx-400",
+    "source_url_make": "roadtec-astec",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:56.479594",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Roadtec / Astec",
+    "equipment_model": "RX-400",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Discharge Conveyor Swing (R/L)": "60  \t\u00b0",
+            "Discharge Conveyor Width": "24 in (61 cm)"
+        },
+        "Dimensions": {
+            "Max Operating Height": "14 ft (4 m)",
+            "Operating Length": "40.9 ft (12 m)",
+            "Shipping Height": "8.2 ft (2 m)",
+            "Shipping Length": "20 ft (6 m)",
+            "Shipping Width": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "C9",
+            "Gross Power": "325 hp (242 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "140 gal (530 l)",
+            "Hydraulic System Fluid Capacity": "65 gal (246 l)",
+            "Operating Speed": "172 ft/min",
+            "Operating Voltage": "24 V",
+            "Shipping Weight - Empty": "47225 lbs (21,421 kg)",
+            "Travel Speed": "4 mph (6 kph)",
+            "Water Spray System Fluid Capacity": "300 gal (1,136 l)"
+        },
+        "Rotary Cutter": {
+            "Cutting Depth": "12.5 in (30 cm)",
+            "Cutting Width": "2.2 ft (1 m)",
+            "Tool Spacing": "0.7 in (0 cm)"
+        },
+        "Track": {
+            "Front Track Width": "10 in (25 cm)",
+            "Number of Track Units": "4",
+            "Rear Track Width": "10 in (25 cm)"
+        }
+    }
+}

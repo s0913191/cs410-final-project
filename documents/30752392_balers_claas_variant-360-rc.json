@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/claas/variant-360-rc/30752392",
+    "source_url_id": "30752392",
+    "source_url_model": "variant-360-rc",
+    "source_url_make": "claas",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:59:43.655512",
+    "equipment_category": "Balers",
+    "equipment_make": "Claas",
+    "equipment_model": "Variant 360 RC",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Number of Belts": "4"
+        },
+        "Bale Size": {
+            "Bale Diameter - max": "5.1 ft (2 m)",
+            "Bale Diameter - min": "3 ft (1 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "Hydraulic",
+            "Overall Width": "6.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "9.3 ft (3 m)",
+            "Overall Length": "15.4 ft (5 m)",
+            "Overall Width": "8.2 ft (2 m)"
+        },
+        "Wrapping System": {
+            "Twine Type": "Twin twine tying"
+        }
+    }
+}

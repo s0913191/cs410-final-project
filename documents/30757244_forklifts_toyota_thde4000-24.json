@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/thde4000-24/30757244",
+    "source_url_id": "30757244",
+    "source_url_model": "thde4000-24",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:44:03.312410",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "THDE4000-24",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Mechanical",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Gradeability": "10.6%",
+            "Ground Clearance": "4.3 in (10 cm)",
+            "Height to Top of Overhead Guard": "8.6 ft (2 m)",
+            "Length to Fork Face": "13 ft (4 m)",
+            "Max Fork Height": "9.1 ft (3 m)",
+            "Overall Height - mast lowered": "10 ft (3 m)",
+            "Overall Width": "6.1 ft (2 m)",
+            "Right Angle Stack": "14.5 ft (4 m)",
+            "Turning Radius": "11.6 ft (3 m)",
+            "Wheelbase": "7.7 ft (2 m)"
+        },
+        "Electrical System": {
+            "Batteries": "2 V",
+            "Battery capacity": "1250 Ah",
+            "Battery Weight": "6400 lbs (2,903 kg)",
+            "Pump Motor": "32.2 hp (24 kw)",
+            "Traction Motor": "42.5 hp (31 kw)",
+            "Voltage": "36 V"
+        },
+        "Engine": {
+            "Engine Make": "TOYOTA"
+        },
+        "Hydraulic System": {
+            "Main pump flow standard": "20.7 gal/min (76 l/min)",
+            "Maximum operating pressure": "2250 psi"
+        },
+        "MAST": {
+            "Lift Speed": "16 ft/min",
+            "Load Capacity": "40000 lbs (18,144 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "25.1 ft/min",
+            "Mast Tip Forward": "8  \t\u00b0",
+            "Mast Tip Rear": "6  \t\u00b0",
+            "Max Fork Spread": "57.5 in (145 cm)"
+        },
+        "Operating Specifications": {
+            "Drawbar Pull": "4182 lbs (1,897 kg)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "86210 lbs (39,105 kg)",
+            "Tire Type": "Cushion / Cushion"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "4.8 mph (6 kph)",
+            "Max Speed - Reverse": "4 mph (6 kph)"
+        }
+    }
+}

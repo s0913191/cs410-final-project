@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ha41px/30758335",
+    "source_url_id": "30758335",
+    "source_url_model": "ha41px",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:16.825174",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HA41PX",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15 in (38 cm)",
+            "Overall Height - mast lowered": "10.1 ft (3 m)",
+            "Overall Length": "41.1 in (104 cm)",
+            "Overall Width": "8.4 ft (2 m)",
+            "Turning Radius": "16.8 ft (5 m)",
+            "Wheelbase": "11.5 ft (3 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Diesel",
+            "Gross Power": "85.9 hp (63 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "37 gal (140 l)",
+            "Hydraulic System Fluid Capacity": "63.5 gal (238 l)",
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operating Weight": "50926.8 lbs (23,100 kg)",
+            "Tire Fill/Type": "foam filled",
+            "Tire Size": "445/65 - 22.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "65 ft (20 m)",
+            "Max Platform Height": "128 ft (39 m)",
+            "Max Platform Weight Capacity": "507.1 lbs (230 kg)",
+            "Max Working Height": "134.6 ft (41 m)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "31.5 in (79 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

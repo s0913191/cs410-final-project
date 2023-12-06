@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d11n/3899",
+    "source_url_id": "3899",
+    "source_url_model": "d11n",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:54.720225",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D11N",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height - Top of Cab": "15 ft (5 m)",
+            "Length of Track on Ground": "14.6 ft (4 m)",
+            "Length w/ Blade": "27.6 ft (8 m)",
+            "Length w/o Blade": "20.3 ft (6 m)",
+            "Width Over Tracks": "12.5 ft in (30 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "2105.4 cu in (0 m)",
+            "Engine Model": "3508",
+            "Gross Power": "770 hp (574 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "161.2 gal/min (609 l/min)",
+            "Relief Valve Pressure": "3300 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "393.7 gal (1,488 l)",
+            "Hydraulic Fluid Capacity": "44.7 gal (167 l)",
+            "Operating Weight": "211304.3 lbs (95,847 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "33.5 cu yds (25 m)",
+            "Height": "91 in (231 cm)",
+            "Width": "18.4 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.3 mph (11 kph)",
+            "Max Speed - Reverse": "8.8 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "9796.1 cu in (0 m)",
+            "Ground Pressure": "21.7 psi",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "28 in (71 cm)",
+            "Track Gauge": "9.5 ft (3 m)"
+        }
+    }
+}

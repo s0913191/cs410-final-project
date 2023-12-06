@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd138hfa/28520549",
+    "source_url_id": "28520549",
+    "source_url_model": "dd138hfa",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:38.869849",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD138HFA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Overall Length": "19.5 in (48 cm)",
+            "Turning Radius - Inside": "179.6 in (455 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "41715 lbs (18,922 kg)",
+            "Centrifugal Force - Low": "36685 lbs (16,640 kg)",
+            "Drum Diameter": "4.5 in (10 cm)",
+            "Drum Width": "84 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency": "2700 - 4,000 hz (162,000 - 240,000 vpm)",
+            "Vibration Frequency 1": "45 hz (2,700 vpm)",
+            "Vibration Frequency 2": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged & charge air-cooled 6-cylinder",
+            "Engine Model": "B5.9-173",
+            "Make": "Cummins",
+            "Net Power": "173 hp (129 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "68.5 gal (257 l)",
+            "Hydraulic System Fluid Capacity": "36.5 gal (136 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "30325 lbs (13,755 kg)",
+            "Operating Width": "92 in (234 cm)"
+        }
+    }
+}

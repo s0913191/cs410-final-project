@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/case/t750/30760117",
+    "source_url_id": "30760117",
+    "source_url_model": "t750",
+    "source_url_make": "case",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:42.321250",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "T750",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "85 hp (63 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "3325 lbs (1,508 kg)",
+            "Operating Width": "81.3 in (206 cm)"
+        }
+    }
+}

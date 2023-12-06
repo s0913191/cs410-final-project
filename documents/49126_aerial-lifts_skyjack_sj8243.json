@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/skyjack/sj8243/49126",
+    "source_url_id": "49126",
+    "source_url_model": "sj8243",
+    "source_url_make": "skyjack",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:05.968967",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Skyjack",
+    "equipment_model": "SJ8243",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "8 in (20 cm)",
+            "Height w/ Rails": "10.2 ft (3 m)",
+            "Height w/o Rails": "7.6 ft (2 m)",
+            "Overall Length": "10.5 in (25 cm)",
+            "Overall Width": "6.9 ft (2 m)",
+            "Turning Radius": "20.1 ft (6 m)"
+        },
+        "Engine": {
+            "Fuel Type": "gas/propane",
+            "Gross Power": "65 hp (48 kw)"
+        },
+        "Performance": {
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "10871 lbs (4,931 kg)"
+        },
+        "Platform": {
+            "Deck Extension": "55.2 in (140 cm)",
+            "Height of Rails": "2.7 ft (1 m)",
+            "Lift Time": "45 sec",
+            "Max Platform Height": "43 ft (13 m)",
+            "Max Platform Weight Capacity": "1000.9 lbs (454 kg)",
+            "Max Working Height": "48.9 ft (15 m)",
+            "Platform Inner Length": "114.2 in (290 cm)",
+            "Platform Inner Width": "63 in (160 cm)"
+        }
+    }
+}

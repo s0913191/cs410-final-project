@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/steinbock/pe-20and-or300/30757592",
+    "source_url_id": "30757592",
+    "source_url_model": "pe-20and-or300",
+    "source_url_make": "steinbock",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:39:47.096525",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Steinbock",
+    "equipment_model": "PE 20/300",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4.8 in (10 cm)",
+            "Height to Top of Overhead Guard": "7.1 ft (2 m)",
+            "Length to Fork Face": "6.9 ft (2 m)",
+            "Max Fork Height": "9.9 ft (3 m)",
+            "Overall Height - mast lowered": "6.7 ft (2 m)",
+            "Overall Width": "3.7 ft (1 m)",
+            "Turning Radius": "6.2 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "Electric Motor",
+            "Power": "15.5 hp (11 kw)"
+        },
+        "MAST": {
+            "Lift Speed": "122.1 ft/min",
+            "Load Capacity": "4409.3 lbs (2,000 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Lower Speed": "100.4 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "8  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "3.9 mph (5 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "8377.6 lbs (3,800 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

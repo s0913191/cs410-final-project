@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/mower-conditioners-windrowers/macdon/m155/30753504",
+    "source_url_id": "30753504",
+    "source_url_model": "m155",
+    "source_url_make": "macdon",
+    "source_url_category": "mower-conditioners-windrowers",
+    "source_date_scraped": "2023-09-13 17:08:06.776981",
+    "equipment_category": "Mower Conditioners / Windrowers",
+    "equipment_make": "Macdon",
+    "equipment_model": "M155",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "QSB4.5",
+            "Power": "148 hp (110 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "97 gal (367 l)",
+            "Hydraulic System Fluid Capacity": "17.2 gal (64 l)"
+        },
+        "Transmission": {
+            "Final Drive Type": "Planetary Gearbox",
+            "Max Speed": "16.2 mph (26 kph)"
+        }
+    }
+}

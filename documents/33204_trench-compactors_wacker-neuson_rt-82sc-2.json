@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/trench-compactors/wacker-neuson/rt-82sc-2/33204",
+    "source_url_id": "33204",
+    "source_url_model": "rt-82sc-2",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "trench-compactors",
+    "source_date_scraped": "2023-09-13 17:46:08.088856",
+    "equipment_category": "Trench Compactors",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "RT 82SC-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "63 in (160 cm)"
+        },
+        "Drum": {
+            "Drum Width": "32 in (81 cm)",
+            "Vibration Frequency": "2500 hz (150,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Lombardini"
+        },
+        "Operating Specifications": {
+            "Operating Width": "32 in (81 cm)"
+        }
+    }
+}

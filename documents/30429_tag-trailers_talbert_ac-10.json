@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/talbert/ac-10/30429",
+    "source_url_id": "30429",
+    "source_url_model": "ac-10",
+    "source_url_make": "talbert",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:15.358401",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Talbert",
+    "equipment_model": "AC-10",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "24 ft (7 m)"
+        },
+        "Weights": {
+            "Equipment Weight": "6200 lbs (2,812 kg)",
+            "Weight Capacity": "20000 lbs (9,072 kg)"
+        }
+    }
+}

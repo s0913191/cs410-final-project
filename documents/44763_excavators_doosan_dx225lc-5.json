@@ -1,0 +1,100 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx225lc-5/44763",
+    "source_url_id": "44763",
+    "source_url_model": "dx225lc-5",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:38.344131",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX225LC-5",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "21.6 ft (6 m)",
+            "Max Digging Height": "31.4 ft (9 m)",
+            "Max Digging Reach": "32.5 ft (10 m)",
+            "Max Loading Height": "22.5 ft (7 m)",
+            "Max Reach Along Ground": "31.8 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "18.5 ft (5 m)",
+            "Min Digging Reach": "1.7 ft (0 m)",
+            "Minimum swing radius": "140.2 in (356 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Digging Depth": "23.6 ft (7 m)",
+            "Max Digging Reach": "34.1 ft (10 m)",
+            "Max Loading Height": "23 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "19.6 ft (6 m)",
+            "Max. digging height": "31.7 ft (9 m)",
+            "Min Digging Reach": "-0.7 ft (0 m)",
+            "Minimum swing radius": "142.4 in (361 cm)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.6 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Cab width": "3.4 ft (1 m)",
+            "Counterweight Clearance": "3.7 ft (1 m)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Length of Track on Ground": "15.2 ft (5 m)",
+            "Tail Swing Radius": "10 ft (3 m)",
+            "Track shoe width": "2.7 ft (1 m)",
+            "Undercarriage Width": "11.2 ft (3 m)"
+        },
+        "Electrical System": {
+            "Alternator": "24 v, 85 amp",
+            "Battery": "12V, 100AH",
+            "Starter": "24V"
+        },
+        "Engine": {
+            "Air cleaner": "Double Elements",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Make": "Doosan",
+            "Engine Model": "DL06P",
+            "Gross Power": "166 hp (124 kw)",
+            "Max Torque": "556.9 lbs/ft",
+            "Net Power": "162 hp (121 kw)",
+            "Power Measured @": "1800 rpm",
+            "Starter": "8.6 hp (6 kw)",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Main Pump Flow Standard": "109.2 gal/min gal/min (413 l/min)",
+            "Pilotpump-Gear Design": "7.1 gal/min",
+            "Relief Pressure - Boost": "4694 psi",
+            "Relief Pressure -Normal": "4978 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "10.1 gal (38 l)",
+            "DEF tank capacity": "9 gal (34 l)",
+            "Engine Oil Capacity": "7.1 gal (27 l)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "60.8 gal (227 l)",
+            "Hydraulic System Relief Valve Pressure": "5.3 psi",
+            "Hydraulic Tank": "51.5 gal (193 l)",
+            "Operating Weight": "52086 lbs (23,626 kg)",
+            "Swing Drive Fluid Capacity": "1.4 gal (4 l)"
+        },
+        "Performance": {
+            "Maximum Grade": "70%",
+            "Swing - Normal Mode": "4694 psi",
+            "Swing-Power Mode": "4978 psi",
+            "Traction Force -Draw bar Pull": "60715 lbs/ft",
+            "Travel-Normal Mode": "4694 psi",
+            "Travel-Power Mode": "4978 psi"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.9 rpm"
+        },
+        "Undercarriage": {
+            "Number of bottom rollers per side": "8",
+            "Number of Shoes per Side": "49",
+            "Number of top rollers per side": "2"
+        },
+        "Weights": {
+            "counterweight": "9480 lbs (4,300 kg)"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-219-dh-3/30104189",
+    "source_url_id": "30104189",
+    "source_url_model": "bw-219-dh-3",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:22.209354",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 219 DH-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "3.3 ft (1 m)",
+            "Turning Radius - Inside": "153 in (389 cm)"
+        },
+        "Drum": {
+            "Drum Width": "83.9 in (211 cm)",
+            "Frequency": "1680 - 2,100 hz (100,800 - 126,000 vpm)",
+            "Vibration Frequency": "1,680-2,100 hz (100,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "90.6 in (229 cm)"
+        }
+    }
+}

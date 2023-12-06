@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cd54/7505",
+    "source_url_id": "7505",
+    "source_url_model": "cd54",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:48.925380",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CD54",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "110 in (279 cm)"
+        },
+        "Drum": {
+            "Drum Width": "67/118 in (170 cm)",
+            "Vibration Frequency": "53/42 hz (3,180 vpm)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        },
+        "Operating Specifications": {
+            "Operating Width": "74 in (188 cm)"
+        }
+    }
+}

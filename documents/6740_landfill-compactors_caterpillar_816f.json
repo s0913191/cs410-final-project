@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/landfill-compactors/caterpillar/816f/6740",
+    "source_url_id": "6740",
+    "source_url_model": "816f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "landfill-compactors",
+    "source_date_scraped": "2023-09-13 17:39:16.821078",
+    "equipment_category": "Landfill Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "816F",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "75.4 in (191 cm)",
+            "Blade Width": "12 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "12.5 ft (4 m)",
+            "Length With Blade on Ground": "25.77 ft (8 m)",
+            "Length with Blade on Ground": "25.8 ft (8 m)",
+            "Wheelbase": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "628.5 cu in (0 m)",
+            "Engine Model": "3176C ATAAC",
+            "Gross Power": "254 hp (189 kw)",
+            "Net Power": "240 hp (179 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "14.5 gal (53 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Fuel Capacity": "117.8 gal (443 l)",
+            "Hydraulic System Fluid Capacity": "36.2 gal (136 l)",
+            "Operating Weight": "52364 lbs (23,752 kg)",
+            "Transmission Fluid Capacity": "13.2 gal (49 l)"
+        },
+        "Transmission": {
+            "Max Speed": "6.6 mph (10 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2"
+        },
+        "Wheels": {
+            "Front Wheels Drum Diameter": "51.2 in (130 cm)",
+            "Front Wheels Drum Width": "40 in (102 cm)",
+            "Rear Wheels Drum Diameter": "51.2 in (130 cm)",
+            "Rear Wheels Drum Width": "40 in (102 cm)"
+        }
+    }
+}

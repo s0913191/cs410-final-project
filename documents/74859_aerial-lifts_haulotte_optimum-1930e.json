@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/optimum-1930e/74859",
+    "source_url_id": "74859",
+    "source_url_model": "optimum-1930e",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:44.345814",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "OPTIMUM 1930E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Boom Type/Size": "24.1 ft (7 m)",
+            "Platform Size": "8.7x2.2 ft (2 m)",
+            "Stowed Height": "6.7 ft (2 m)",
+            "Stowed Width": "2.5 ft (1 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "225",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "5.3 gal (19 l)",
+            "Max Speed": "2.8 mph (3 kph)",
+            "Operating Weight": "3131 lbs (1,420 kg)",
+            "Tire Fill/Type": "Solid, non-marking",
+            "Tire Size": "12.5x4.25"
+        },
+        "Platform": {
+            "Deck Extension": "36 in (91 cm)",
+            "Lift Time": "23 sec",
+            "Lower Time": "32 sec",
+            "Max Platform Height": "19 ft (6 m)",
+            "Max Platform Weight Capacity": "507 lbs (230 kg)",
+            "Max Working Height": "25 ft (8 m)",
+            "Platform Inner Length": "5.7 in (13 cm)",
+            "Platform Inner Width": "2.3 in (5 cm)"
+        },
+        "Capacity": {
+            "Platform Capacity": "507 lbs (230 kg)"
+        },
+        "Tires": {
+            "Tire Size": "12.5x4.25"
+        }
+    }
+}

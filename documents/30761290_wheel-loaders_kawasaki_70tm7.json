@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/70tm7/30761290",
+    "source_url_id": "30761290",
+    "source_url_model": "70tm7",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:27.287960",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "70TM7",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "13.5 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB6.7",
+            "Net Power": "168 hp (125 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.4 - 3.70 cu yds (2 - 2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "35350 lbs (16,035 kg)"
+        }
+    }
+}

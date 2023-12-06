@@ -1,0 +1,95 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/caterpillar/239d/30474132",
+    "source_url_id": "30474132",
+    "source_url_model": "239d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:49.504651",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "239D",
+    "equipment_spec": {
+        "Engine": {
+            "Bore": "3.3 in (8 cm)",
+            "Displacement": "134.3 cu in (0 m)",
+            "Engine Model": "Cat C2.2 CRDI",
+            "Gross Power - SAE J1995": "67.1 hp (50 kw)",
+            "Net Power": "65.8 hp (48 kw)",
+            "Net Power - ISO 9249": "66.5 hp (49 kw)",
+            "Net Power - SAE 1349": "65.8 hp (48 kw)",
+            "Peak Torque - 1,500 rpm - SAE J1995": "153 ft lbs (69 kg)",
+            "Stroke": "3.9 in (8 cm)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2050 lbs (930 kg)",
+            "Operating Width": "66 in (168 cm)"
+        },
+        "Air Conditioning System": {
+            "Air Conditioning": "The air conditioning system on this machine contains the fluorinated greenhouse gas refrigerant R134a (Global Warming Potential = 1430). The system contains 0.81 kg of refrigerant which has a CO2 equivalent of 1.158 metric tonnes."
+        },
+        "Cab": {
+            "FOPS": "ISO 3449:2005 Level I",
+            "FOPS Level II": "ISO 3449:2005 Level II",
+            "ROPS": "ISO 3471:2008"
+        },
+        "Dimensions": {
+            "Bucket Pin Height - Carry Position": "8.6 in (20 cm)",
+            "Bucket Pin Height - Maximum Lift": "9.3 ft (3 m)",
+            "Clearance at Maximum Lift and Dump": "81 in (206 cm)",
+            "Departure Angle": "34.5  \t\u00b0",
+            "Ground Clearance": "0.7 ft in (0 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length - Track on Ground": "54.5 in (137 cm)",
+            "Length - With Bucket on Ground": "127.3 in (323 cm)",
+            "Length - Without Bucket": "99.3 in (251 cm)",
+            "Maximum Dump Angle": "50.3  \t\u00b0",
+            "Maximum Overall Height": "143.5 in (363 cm)",
+            "Maximum Reach - With Arms Parallel to Ground": "53.4 in (135 cm)",
+            "Note": "#",
+            "Overall Length - Track": "71.2 in (180 cm)",
+            "Rack Back Angle - Maximum Height": "85.5  \t\u00b0",
+            "Reach - Maximum Lift/Dump": "22.2 in (56 cm)",
+            "Turning Radius from Center - Bucket": "81.5 in (206 cm)",
+            "Turning Radius from Center - Coupler": "45.6 in (114 cm)",
+            "Turning Radius from Center - Machine Rear": "57.4 in (145 cm)",
+            "Vehicle Width (320 mm/12.6 in tracks)": "66 in (168 cm)",
+            "Vehicle Width (400 mm/15.7 in tracks)": "69.1 in (175 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic Flow - High Flow - Hydraulic Power (Calculated)": "50.9 hp (37 kw)",
+            "Hydraulic Flow - High Flow - Loader Hydraulic Flow": "26 gal/min (98 l/min)",
+            "Hydraulic Flow - High Flow - Loader Hydraulic Pressure": "3336 psi",
+            "Hydraulic Flow - Standard - Hydraulic Power (Calculated)": "35.5 hp (26 kw)",
+            "Hydraulic Flow - Standard - Loader Hydraulic Flow": "18 gal/min (68 l/min)",
+            "Hydraulic Flow - Standard - Loader Hydraulic Pressure": "3336 psi"
+        },
+        "Noise Level": {
+            "Inside Cab*": "83 dB(A)",
+            "Note (1)": "Cab and Rollover Protective Structures (ROPS) are standard in North America and Europe.",
+            "Note (3)": "***The labeled sound power level for the CE marked configurations when measured according to the test procedure and conditions specified in 2000/14/EC.",
+            "Outside Cab**": "103 dB(A)"
+        },
+        "Operating Specifications": {
+            "Breakout Force - Tilt Cylinder": "3969 lbs (1,800 kg)",
+            "Ground Contact Area - With 320 mm/12.6 in Track": "1373 cu in (0 m)",
+            "Ground Contact Area - With 400 mm/15.7 in Track": "1716 cu in (0 m)",
+            "Ground Pressure - With 320 mm/12.6 in Track": "5.3 psi",
+            "Ground Pressure - With 400 mm/15.7 in Track": "4.4 psi",
+            "Note": "#",
+            "Rated Operating Capacities - 35% Tipping Load": "1435 lbs (651 kg)",
+            "Rated Operating Capacities - 50% Tipping Load": "2050 lbs (930 kg)",
+            "Rated Operating Capacity with Optional Counterweight": "2250 lbs (1,021 kg)",
+            "Tipping Load": "4100 lbs (1,860 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "3.2 gal (11 l)",
+            "Engine Crankcase": "2.6 gal (8 l)",
+            "Fuel Tank": "15.1 gal (57 l)",
+            "Hydraulic System": "11.9 gal (42 l)",
+            "Hydraulic Tank": "9 gal (34 l)"
+        },
+        "Weights": {
+            "Note": "#"
+        }
+    }
+}

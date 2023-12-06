@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/1500ajp/30758237",
+    "source_url_id": "30758237",
+    "source_url_model": "1500ajp",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:18.379804",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "1500AJP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 in (3 cm)",
+            "Overall Height - mast lowered": "10.2 ft (3 m)",
+            "Overall Length": "39.8 in (99 cm)",
+            "Overall Width": "16.6 ft (5 m)",
+            "Platform Dimension A": "3 ft (1 m)",
+            "Platform Dimension B": "8 ft (2 m)",
+            "Tailswing Radius": "2.5 ft (1 m)",
+            "Turning Radius": "31.3 ft (9 m)",
+            "Up and Over Height": "60 ft (18 m)"
+        },
+        "Engine": {
+            "Diesel Engine Power": "99.8 hp (74 kw)",
+            "Diesel Engine Type": "Deutz TCD 3.6 T4F",
+            "Maximum Ground Bearing Pressure": "120 psi",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Axle Oscillation": "1 ft (0 m)",
+            "Drive Speed": "2.8 mph (3 kph)",
+            "Fuel Capacity": "45 gal (170 l)",
+            "Gradeability": "40%",
+            "Hydraulic System Fluid Capacity": "36 gal (136 l)",
+            "Operating Weight": "57400 lbs (26,037 kg)",
+            "Tire Size": "445/50D710 24 Ply FF"
+        },
+        "Platform": {
+            "Platform Capacity - Restricted": "1000 lbs (454 kg)",
+            "Platform Capacity - Unrestricted": "600 lbs (272 kg)",
+            "Platform Railing Height": "150 ft (46 m)"
+        },
+        "Swing System": {
+            "Swing": "360  \t\u00b0",
+            "Swing Type": "Continuous"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/mercedes-benz/2543ls-2004/30759321",
+    "source_url_id": "30759321",
+    "source_url_model": "2543ls-2004",
+    "source_url_make": "mercedes-benz",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:57:15.753340",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Mercedes-Benz",
+    "equipment_model": "2543LS (2004)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "8.8 in (20 cm)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Number of Rear Axles": "2",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tire Size": "295/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length From Back of Cab to End of Frame": "143.51 in (363 cm)",
+            "Length from Back of Cab to End of Frame": "143.6 in (363 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "30.32 in (76 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "30.4 in (76 cm)",
+            "Overall Length": "20.1 ft (6 m)",
+            "Total Chassis Weight": "16457.6 lbs (7,465 kg)",
+            "Total GVW": "51588.2 lbs (23,400 kg)",
+            "Turning Radius": "25.5 ft (8 m)",
+            "Wheelbase": "153.6 in (389 cm)"
+        }
+    }
+}

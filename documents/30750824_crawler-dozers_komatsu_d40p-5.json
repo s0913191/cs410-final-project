@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d40p-5/30750824",
+    "source_url_id": "30750824",
+    "source_url_model": "d40p-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:55.154582",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D40P-5",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Length of Track on Ground": "8.5 ft (2 m)",
+            "Length w/ Blade": "15.1 ft (5 m)",
+            "Length w/o Blade": "11.8 ft (3 m)",
+            "Width Over Tracks": "8.2 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "396.1 cu in (0 m)",
+            "Engine Model": "6D105-1",
+            "Gross Power": "95 hp (71 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2350 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "24427.3 lbs (11,080 kg)"
+        },
+        "Standard Blade": {
+            "Height": "35.1 in (89 cm)",
+            "Width": "10 ft (3 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "DD"
+        },
+        "Undercarriage": {
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "28.4 in (71 cm)",
+            "Track Gauge": "5.8 ft (2 m)",
+            "Track Pitch": "6.9 in (15 cm)"
+        }
+    }
+}

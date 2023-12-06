@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/e30xn/30173234",
+    "source_url_id": "30173234",
+    "source_url_model": "e30xn",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:27:54.069169",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "E30XN",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Tread Range": "31.1 in (79 cm)",
+            "Gradeability": "23.7%",
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Height to Top of Overhead Guard": "7.4 ft (2 m)",
+            "Length to Fork Face": "6.4 ft (2 m)",
+            "Overall Height - mast lowered": "6.9 ft (2 m)",
+            "Overall Width": "3.2 ft (1 m)",
+            "Rear Tread Range": "31.9 in (79 cm)",
+            "Right Angle Stack": "10.6 ft (3 m)",
+            "Turning Radius": "5.4 ft (2 m)",
+            "Wheelbase": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Make": "Hyster",
+            "Engine Model": "E30XN"
+        },
+        "MAST": {
+            "Lift Speed": "126 ft/min",
+            "Load Capacity": "3000.5 lbs (1,361 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "93 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "5  \t\u00b0",
+            "Max Fork Spread": "81.9 in (206 cm)"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "3460 lbs (1,569 kg)",
+            "Axle load - rear": "4163 lbs (1,888 kg)",
+            "Drawbar Pull": "2734 lbs (1,240 kg)",
+            "Front Tire Size": "18 x 6 x 12.1",
+            "Max Speed": "11.5 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "5130.2 lbs (2,327 kg)",
+            "Rear Tire Size": "14 x 4.5 x 8",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

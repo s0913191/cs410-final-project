@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/field-cultivators/case-ih/tiger-mate-ii-305-ft/30754356",
+    "source_url_id": "30754356",
+    "source_url_model": "tiger-mate-ii-305-ft",
+    "source_url_make": "case-ih",
+    "source_url_category": "field-cultivators",
+    "source_date_scraped": "2023-09-13 17:04:07.840697",
+    "equipment_category": "Field Cultivators",
+    "equipment_make": "Case Ih",
+    "equipment_model": "Tiger-mate II 30.5 ft",
+    "equipment_spec": {
+        "Dimensions": {
+            "PTO Power Required per Width Ft.": "5 hp (4 kw)",
+            "Transport Height": "14.4 ft (4 m)",
+            "Transport Width": "14.5 ft (4 m)"
+        },
+        "Frame": {
+            "Frame Type": "Single-fold",
+            "Main Frame Width": "10.5 ft (3 m)",
+            "Max Working Width": "30.5 ft (9 m)",
+            "Min Working Width": "30.5 ft (9 m)"
+        },
+        "Harrow": {
+            "Effective Spike/Tine Spacing": "1.5 in (3 cm)",
+            "Option 1 Type": "3-Bar Coil Tine",
+            "Option 2 Type": "4-Bar Tiger-Tine",
+            "Option 3 Type": "5-Bar Spike Tooth",
+            "Spike/Tine Length": "11 in (28 cm)",
+            "Spike/Tine Spacing": "7.5 in (18 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "8 mph (13 kph)",
+            "Row/Rank Spacing": "30 in (76 cm)",
+            "Shank Thickness": "0.7 in (0 cm)",
+            "Shank Trip Force": "150 lbs (68 kg)",
+            "Shank Width": "1.8 in (3 cm)"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d41p-6/39298",
+    "source_url_id": "39298",
+    "source_url_model": "d41p-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:02.951185",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D41P-6",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Length of Track on Ground": "9.1 ft (3 m)",
+            "Length w/ Blade": "16.1 ft (5 m)",
+            "Width Over Tracks": "8.2 ft in (20 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "S6D102E-1",
+            "Gross Power": "106 hp (79 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump type": "closed center load sensing",
+            "Relief Valve Pressure": "2987.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "7.4 gal (27 l)",
+            "Engine Oil Capacity": "6.1 gal (23 l)",
+            "Final Drives Fluid Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "59.5 gal (223 l)",
+            "Hydraulic Fluid Capacity": "9.8 gal (34 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "25573.7 lbs (11,600 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "3.5 cu yds (2 m)",
+            "Height": "41.8 in (104 cm)",
+            "Width": "10 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "4.8 mph (6 kph)",
+            "Max Speed - Reverse": "5.9 mph (8 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Hydroshift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5956.7 cu in (0 m)",
+            "Ground Pressure": "3.4 psi",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "5.9 ft (2 m)",
+            "Track Pitch": "6.8 in (15 cm)"
+        }
+    }
+}

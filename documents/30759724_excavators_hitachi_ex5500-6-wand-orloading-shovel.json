@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/ex5500-6-wand-orloading-shovel/30759724",
+    "source_url_id": "30759724",
+    "source_url_model": "ex5500-6-wand-orloading-shovel",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:00:38.421151",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EX5500-6 w/Loading Shovel",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "14.92 ft (4 m)",
+            "Max Reach Along Ground": "54.50 ft (16 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSK50-C"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "1510000 lbs (684,932 kg)"
+        }
+    }
+}

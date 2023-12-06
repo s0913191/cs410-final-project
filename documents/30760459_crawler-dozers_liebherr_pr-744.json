@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/liebherr/pr-744/30760459",
+    "source_url_id": "30760459",
+    "source_url_model": "pr-744",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:48.190847",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Liebherr",
+    "equipment_model": "PR 744",
+    "equipment_spec": {
+        "Engine": {
+            "Model": "936 L A6",
+            "Net Power": "248 hp (185 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "54245-69818 lbs (24,605 kg)"
+        }
+    }
+}

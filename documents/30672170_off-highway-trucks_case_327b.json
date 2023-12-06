@@ -1,0 +1,71 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/case/327b/30672170",
+    "source_url_id": "30672170",
+    "source_url_model": "327b",
+    "source_url_make": "case",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:07.274272",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Case",
+    "equipment_model": "327B",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "3.2 ft (1 m)",
+            "Dump Height": "20.5 ft (6 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Overall Height": "12 ft (4 m)",
+            "Overall Length": "33 ft (10 m)",
+            "Overall Width": "9.8 ft (3 m)",
+            "Wheelbase": "19.4 ft (6 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "18 cu yds (14 m)",
+            "Capacity - Struck": "13.9 cu yds (10 m)",
+            "Dump Angle": "68  \t\u00b0",
+            "Lower Time": "13 sec",
+            "Raise Time": "13 sec",
+            "Rated Payload": "51147 lbs (23,200 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with Aftercooler",
+            "Displacement": "629 cu in (0 m)",
+            "Engine Model": "Family IV 10 liter Tier III certified",
+            "Gross Power": "315 hp (235 kw)",
+            "Make": "Case",
+            "Max Torque": "1069.5 lbs/ft",
+            "Model": "Family IV",
+            "Net Power": "300 hp (224 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Engine Oil Capacity": "8 gal (30 l)",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "58.1 gal (220 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "Tubeless 23.5 R25",
+            "Transmission Fluid Capacity": "10 gal (38 l)"
+        },
+        "Transmission": {
+            "Max Speed": "28.8 mph (45 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Weights": {
+            "Front Axle - empty": "26455 lbs (12,000 kg)",
+            "Operating Weight": "100905 lbs (45,770 kg)",
+            "Rear Axle - empty": "23303 lbs (10,570 kg)",
+            "Total Empty": "49758 lbs (22,570 kg)",
+            "Total Loaded": "100905 lbs (45,770 kg)"
+        }
+    }
+}

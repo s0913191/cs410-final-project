@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/563/30834112",
+    "source_url_id": "30834112",
+    "source_url_model": "563",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:03.810513",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "563",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "7.8 ft (2 m)",
+            "Overall Length": "10.6 in (25 cm)",
+            "Overall Width": "5.6 ft (2 m)",
+            "Wheelbase": "6.4 in (15 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "202 cu in (0 m)",
+            "Engine Model": "1103C-33T",
+            "Gross Power": "64 hp (48 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "55 hp (41 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "18.9 gal/min (68 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2711 lbs (1,230 kg)",
+            "3 Point Hitch Type": "Cat I & II",
+            "Fuel Capacity": "12.7 gal (45 l)",
+            "Operating Weight": "4962 lbs (2,251 kg)"
+        },
+        "Production": {
+            "Series": "500 Series",
+            "Years Manufactured": "2006 - 2008"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2"
+        }
+    }
+}

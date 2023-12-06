@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/eh5000-ac-2/30754701",
+    "source_url_id": "30754701",
+    "source_url_model": "eh5000-ac-2",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:36.766466",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EH5000 AC-2",
+    "equipment_spec": {
+        "Approximate Weights - Flat Floor": {
+            "Body": "1700 lbs (771 kg)"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "7.2 ft (2 m)",
+            "Dump Height": "47.5 ft (14 m)",
+            "Ground Clearance": "3 ft (1 m)",
+            "Overall Height": "26.3 ft (8 m)",
+            "Overall Length": "50 ft (15 m)",
+            "Overall Width": "29.5 ft (9 m)",
+            "Wheelbase": "22.2 ft (7 m)"
+        },
+        "Dump": {
+            "Dump Angle": "40  \t\u00b0",
+            "Load Capacity - heaped": "269.5 cu yds (206 m)",
+            "Load Capacity - Struck": "204.1 cu yds (156 m)",
+            "Lower Time": "22 sec",
+            "Raise Time": "23 sec",
+            "Rated Payload": "639340 lbs (290,003 kg)"
+        },
+        "Engine": {
+            "Aspiration": "260  A",
+            "Displacement": "4656.2 cu in (0 m)",
+            "Engine Model": "16V-4000C23",
+            "Gross Power": "2700.9 hp (2,013 kw)",
+            "Max Torque": "8339.7 lbs/ft",
+            "Net Power": "2542.6 hp (1,896 kw)",
+            "Number of Cylinders": "16",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "Turbocharged and Aftercooled rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "260  A",
+            "Brake/Hoist System Fluid Capacity": "255 gal (965 l)",
+            "Cooling System Fluid Capacity": "194 gal (734 l)",
+            "Diff and Final Drive Fluid Capacity": "59 gal (223 l)",
+            "Engine Oil Capacity": "63.5 gal (238 l)",
+            "Fuel Capacity": "1250.1 gal (4,731 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Operating Voltage": "24 V V",
+            "Steering System Fluid Capacity": "76.9 gal (288 l)"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "639340 gal (2,419,902 l)"
+        },
+        "Transmission": {
+            "Max Speed": "37.3 mph (60 kph)"
+        },
+        "Weights": {
+            "Empty Weight": "462970.8 lbs (210,002 kg)",
+            "Loaded Weight": "1102310 lbs (500,005 kg)",
+            "Weight Distribution Front - empty": "49%",
+            "Weight Distribution Front - loaded": "33%",
+            "Weight Distribution Rear - empty": "51%",
+            "Weight Distribution Rear - loaded": "67%"
+        }
+    }
+}

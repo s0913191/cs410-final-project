@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/dd22/30800808",
+    "source_url_id": "30800808",
+    "source_url_model": "dd22",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:03.693583",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "DD22",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "110 in (279 cm)"
+        },
+        "Drum": {
+            "Drum Width": "39 in (99 cm)",
+            "Vibration Frequency": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins A1700"
+        },
+        "Operating Specifications": {
+            "Operating Width": "43 in (109 cm)"
+        }
+    }
+}

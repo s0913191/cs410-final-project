@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/toyota/sv3246e/30758102",
+    "source_url_id": "30758102",
+    "source_url_model": "sv3246e",
+    "source_url_make": "toyota",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:53.500200",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "SV3246E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "25%",
+            "Ground Clearance": "5.2 in (13 cm)",
+            "Ground Pressure": "87 psi",
+            "Overall Height": "7.8 ft (2 m)",
+            "Overall Length": "98.5 in (249 cm)",
+            "Overall Width": "46.1 ft (14 m)",
+            "Turning Radius - Outside": "8.5 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Drive Speed - Maximum": "0.5 mph (0 kph)",
+            "Drive Speed - Minimum": "2.5 mph (3 kph)",
+            "Drive System": "Brushless Dual AC Motors",
+            "Tire Fill/Type": "Solid"
+        },
+        "Platform": {
+            "Lift Time": "55 sec",
+            "Lower Time": "60 sec",
+            "Max Platform Height": "31.8 ft (9 m)",
+            "Max Platform Weight Capacity": "700 lbs (318 kg)",
+            "Max Working Height": "38 ft (12 m)",
+            "Overall length (stowed , guardrail folded)": "9 ft (3 m)",
+            "Platform Capacity - Extension": "250 lbs (113 kg)",
+            "Platform Extension Length": "50 in (127 cm)",
+            "Platform Height - Elevated": "32 ft (10 m)",
+            "Platform Height - Lowered": "47.8 ft (14 m)",
+            "Platform Inner Length": "94.7 in (239 cm)",
+            "Platform Inner Width": "40.7 in (102 cm)",
+            "Platform Railing Height": "43.7 ft (13 m)",
+            "Scissor Link Stages": "4"
+        }
+    }
+}

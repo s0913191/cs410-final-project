@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/trench-compactors/multiquip/p33and-or24fmr/30794073",
+    "source_url_id": "30794073",
+    "source_url_model": "p33and-or24fmr",
+    "source_url_make": "multiquip",
+    "source_url_category": "trench-compactors",
+    "source_date_scraped": "2023-09-13 17:46:04.006392",
+    "equipment_category": "Trench Compactors",
+    "equipment_make": "Multiquip",
+    "equipment_model": "P33/24FM(R)",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "33 in (84 cm)",
+            "Vibration Frequency": "1800 hz (108,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Farymann"
+        },
+        "Operating Specifications": {
+            "Operating Width": "33 in (84 cm)"
+        }
+    }
+}

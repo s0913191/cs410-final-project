@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/john-deere/760a/19658",
+    "source_url_id": "19658",
+    "source_url_model": "760a",
+    "source_url_make": "john-deere",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:49.638796",
+    "equipment_category": "Scrapers",
+    "equipment_make": "John Deere",
+    "equipment_model": "760A",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "9.5 cu yds (7 m)",
+            "Rated Payload": "23750.4 lbs (10,773 kg)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Overall Length": "33.7 ft (10 m)",
+            "Overall Width": "6.1 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "9.1 gal (34 l)",
+            "Engine Oil Fluid Capacity": "5 gal (19 l)",
+            "Fuel Capacity": "69.1 gal (261 l)",
+            "Operating Voltage": "12 V V",
+            "Transmission Fluid Capacity": "24 gal (91 l)"
+        },
+        "Tractor Engine": {
+            "Displacement": "531 cu in (0 m)",
+            "Gross Power": "159 hp (119 kw)",
+            "Make": "John Deere",
+            "Net Power": "152 hp (113 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

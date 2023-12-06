@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/gleaner/a65/30752493",
+    "source_url_id": "30752493",
+    "source_url_model": "a65",
+    "source_url_make": "gleaner",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:17.989363",
+    "equipment_category": "Combines",
+    "equipment_make": "Gleaner",
+    "equipment_model": "A65",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1350 rpm",
+            "Cleaning Fan Speed - Low": "590 rpm",
+            "Total Cleaning Area": "6758.1 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height to Top of Isomount Cab": "12 ft (4 m)",
+            "Overall Length": "29.9 ft (9 m)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "512.6 cu in (0 m)",
+            "Engine Model": "84 CTA",
+            "Number of Cylinders": "6",
+            "Power": "300 hp (224 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Feeding": {
+            "Conveyor Width": "44.2 in (112 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "300 bu",
+            "Unloading Auger Length": "23.8 ft (7 m)",
+            "Unloading Discharge Height": "14.4 ft (4 m)",
+            "Unloading Speed": "2.5 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "159.9 gal (602 l)",
+            "Operating Weight w/o Attachment": "28000 lbs (12,701 kg)",
+            "Transmission Type": "4 speed hydrostatic"
+        },
+        "Separating": {
+            "Separating Area": "2232.1 cu in (0 m)",
+            "Separator Type": "rotary"
+        },
+        "Threshing": {
+            "Concave Area": "2201.1 cu in (0 m)",
+            "Rotor Diameter": "27.6 in (69 cm)",
+            "Rotor Length": "140 in (356 cm)",
+            "Rotor Speed - High": "980 rpm",
+            "Rotor Speed - Low": "157 rpm"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/hdt80/27609",
+    "source_url_id": "27609",
+    "source_url_model": "hdt80",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:17.910186",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "HDT80",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "112.2 ft (34 m)",
+            "Max Lift Capacity": "7 t (6,350 kg)"
+        }
+    }
+}

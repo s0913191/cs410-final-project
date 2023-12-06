@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/mccormick/cx65-l/30751743",
+    "source_url_id": "30751743",
+    "source_url_model": "cx65-l",
+    "source_url_make": "mccormick",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:11.189682",
+    "equipment_category": "Tractors",
+    "equipment_make": "Mccormick",
+    "equipment_model": "CX65-L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Overall Length": "13.2 in (33 cm)",
+            "Tire Size": "12.4R36",
+            "Wheelbase": "7.1 ft (2 m)",
+            "Width Outside Frame": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "203.3 cu in (0 m)",
+            "Engine Model": "804C-33T",
+            "Gross Power": "69 hp (51 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "15.1 gal/min (57 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "7495.8 lbs (3,400 kg)",
+            "3 Point Hitch Type": "Cat 2",
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Operating Weight": "6724.1 lbs (3,050 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "30",
+            "Number of Reverse Gears": "30",
+            "Transmission Type": "mech. reverse shuttle"
+        }
+    }
+}

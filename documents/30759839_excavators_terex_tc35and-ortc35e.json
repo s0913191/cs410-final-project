@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/tc35and-ortc35e/30759839",
+    "source_url_id": "30759839",
+    "source_url_model": "tc35and-ortc35e",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:20.991452",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "TC35/TC35E",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "11.83 ft (3 m)",
+            "Max Reach Along Ground": "18.75 ft (5 m)"
+        },
+        "Engine": {
+            "Net Power": "30 hp (22 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "7720 lbs (3,502 kg)"
+        }
+    }
+}

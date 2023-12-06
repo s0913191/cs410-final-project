@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb113/6683",
+    "source_url_id": "6683",
+    "source_url_model": "cb113",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:34.697490",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB113",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.7 in (18 cm)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Overall Length": "6.9 in (15 cm)",
+            "Turning Radius - Inside": "117 in (297 cm)",
+            "Wheelbase": "4.7 in (10 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "2315.6 lbs (1,050 kg)",
+            "Drum Diameter": "22.7 in (56 cm)",
+            "Drum Width": "35 in (89 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "133.7 lbs/in",
+            "Vibration Frequency": "53.3 hz (3,180 vpm)",
+            "Vibration Frequency 1": "53.3 hz (3,180 vpm)"
+        },
+        "Engine": {
+            "Displacement": "60.9 cu in (0 m)",
+            "Engine Model": "2G 40H",
+            "Gross Power": "19.8 hp (14 kw)",
+            "Make": "Caterpillar"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Engine Oil Capacity": "0.7 gal (0 l)",
+            "Fuel Capacity": "5.9 gal (19 l)",
+            "Hydraulic System Fluid Capacity": "12.7 gal (45 l)",
+            "Max Speed": "5 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3307 lbs (1,500 kg)",
+            "Operating Width": "37 in (94 cm)"
+        }
+    }
+}

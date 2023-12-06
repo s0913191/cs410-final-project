@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d10/3894",
+    "source_url_id": "3894",
+    "source_url_model": "d10",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:52.408258",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D10",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.3 ft (1 m)",
+            "Height - Top of Cab": "14.9 ft (4 m)",
+            "Length of Track on Ground": "12.9 ft (4 m)",
+            "Length w/ Blade": "24.9 ft (7 m)",
+            "Length w/o Blade": "19.5 ft (6 m)",
+            "Width Over Tracks": "12 ft in (30 cm)"
+        },
+        "Engine": {
+            "Displacement": "1788 cu in (0 m)",
+            "Engine Model": "D348",
+            "Gross Power": "700 hp (522 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "382 gal (1,446 l)",
+            "Operating Weight": "171674 lbs (77,871 kg)"
+        },
+        "Standard Blade": {
+            "Width": "11.5 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.3 mph (11 kph)",
+            "Max Speed - Reverse": "8.6 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "8618.1 cu in (0 m)",
+            "Ground Pressure": "19.9 psi",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "28 in (71 cm)",
+            "Track Gauge": "9.6 ft (3 m)"
+        }
+    }
+}

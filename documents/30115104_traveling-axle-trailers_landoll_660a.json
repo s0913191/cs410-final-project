@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/traveling-axle-trailers/landoll/660a/30115104",
+    "source_url_id": "30115104",
+    "source_url_model": "660a",
+    "source_url_make": "landoll",
+    "source_url_category": "traveling-axle-trailers",
+    "source_date_scraped": "2023-09-13 17:56:07.706580",
+    "equipment_category": "Traveling Axle Trailers",
+    "equipment_make": "Landoll",
+    "equipment_model": "660A",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "37.7x8.6 ft (11 m)"
+        },
+        "Engine": {
+            "Speed Rating": "62 mph (100 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "air"
+        },
+        "Weights": {
+            "Equipment Weight": "16513 lbs (7,490 kg)",
+            "Weight Capacity": "59873 lbs (27,158 kg)"
+        }
+    }
+}

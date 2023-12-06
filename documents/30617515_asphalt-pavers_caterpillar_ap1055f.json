@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/ap1055f/30617515",
+    "source_url_id": "30617515",
+    "source_url_model": "ap1055f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:58.733787",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "AP1055F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "\u00c2\u00a0267 lbs (0 kg)",
+            "Paving Speed": "210 ft/min",
+            "Paving Width - max": "9.8 - 33 ft (3 - 10 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "373398 lbs (169,372 kg)"
+        }
+    }
+}

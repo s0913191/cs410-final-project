@@ -1,0 +1,86 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/214/30743632",
+    "source_url_id": "30743632",
+    "source_url_model": "214",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:33.195823",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "214",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "24.7 ft (7 m)",
+            "Max Digging Depth": "16.2 ft (5 m)",
+            "Max Loading Height": "18.1 ft (5 m)",
+            "Max Reach Along Ground": "26.3 ft (8 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "27.1 ft (8 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "25 ft (8 m)",
+            "Max Digging Depth": "17.7 ft (5 m)",
+            "Max Reach Along Ground": "28 ft (9 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "27.2 ft (8 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 3": {
+            "Max Digging Depth": "19.5 ft (6 m)",
+            "Max Reach Along Ground": "29 ft (9 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "27.3 ft (8 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 4": {
+            "Max Cutting Height": "28.9 ft (9 m)",
+            "Max Digging Depth": "14.8 ft (4 m)",
+            "Max Loading Height": "22 ft (7 m)",
+            "Max Reach Along Ground": "27.4 ft (8 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "27.1 ft (8 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.2 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.4 cu yds (0 m)",
+            "Reference Bucket Capacity": "1 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Overall Width": "8.2 in (20 cm)",
+            "Overall Width - Outriggers Down": "11.3 ft (3 m)",
+            "Tail Swing Radius": "7.6 ft (2 m)",
+            "Upper Structure Clearance": "4.1 ft (1 m)",
+            "Wheelbase": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Naturally",
+            "Displacement": "354 cu in (0 m)",
+            "Engine Model": "6.354.4P",
+            "Net Power": "102 hp (76 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2150 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "4.7 gal (15 l)",
+            "Front Diff Fluid Capacity": "2.7 gal (8 l)",
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Hydraulic Pump Flow Capacity": "45 gal/min (170 l/min)",
+            "Hydraulic Pump Type": "Two variable desplacement piston pumps",
+            "Hydraulic System Fluid Capacity": "84.6 gal (318 l)",
+            "Hydraulic System Relief Valve Pressure": "4351.2 psi",
+            "Max Steering Angle": "30  \t\u00b0",
+            "Operating Voltage": "24 V",
+            "Oscillating Axle Angle": "17  \t\u00b0",
+            "Rear Diff Fluid Capacity": "3.5 gal (11 l)",
+            "Tire Size": "dual 10.00-20"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.8 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "12.4 mph (19 kph)",
+            "Transmission Type": "Fully hydrostatic"
+        }
+    }
+}

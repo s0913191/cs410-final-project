@@ -1,0 +1,138 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/430d/4250",
+    "source_url_id": "4250",
+    "source_url_model": "430d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:43.270352",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "430D",
+    "equipment_spec": {
+        "Axle Ratings": {
+            "Dynamic (1)": "6983 lbs (3,168 kg)",
+            "Dynamic (2)": "20418 lbs (9,262 kg)"
+        },
+        "Backhoe": {
+            "Bucket Dig Force": "14732 lbs (6,682 kg)",
+            "Bucket Dig Force - Extended": "14602 lbs (6,623 kg)",
+            "Bucket Rotation": "205  \t\u00b0",
+            "Dig Depth": "15.3 ft (5 m)",
+            "Dig Depth - Extended": "20 ft (6 m)",
+            "E-Stick Extended (1)": "20 ft (6 m)",
+            "E-Stick Extended (2)": "24 ft (7 m)",
+            "E-Stick Extended (3)": "14602 lbs (6,623 kg)",
+            "E-Stick Extended (4)": "6430 lbs (2,917 kg)",
+            "E-Stick Extended (5)": "4064 lbs (1,843 kg)",
+            "E-Stick Retracted (1)": "16 ft (5 m)",
+            "E-Stick Retracted (2)": "20.3 ft (6 m)",
+            "E-Stick Retracted (3)": "14602 lbs (6,623 kg)",
+            "E-Stick Retracted (4)": "8865 lbs (4,021 kg)",
+            "E-Stick Retracted (5)": "7855 lbs (3,563 kg)",
+            "Load Height": "12.7 ft (4 m)",
+            "Load Height - Extended": "15.1 ft (5 m)",
+            "Loading Height": "12.6 ft (4 m)",
+            "Loading Reach": "6 ft (2 m)",
+            "Reach at Load Height - Extended": "10.1 ft (3 m)",
+            "Reach from Swing Pivot": "19.6 ft (6 m)",
+            "Reach From Swivel": "23.2 ft (7 m)",
+            "Reach From Swivel - Extended": "27.6 ft (8 m)",
+            "Stick Dig Force": "9448 lbs (4,286 kg)",
+            "Stick Lift at 2440 mm (8 ft)": "14821 lbs (6,723 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.1 ft (3 m)",
+            "Transport Length": "24.1 ft (7 m)",
+            "Transport Width": "7.8 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4 in (10 cm)",
+            "Displacement": "243 cu in (0 m)",
+            "Engine Model": "3054T",
+            "Gross Power": "98 hp (73 kw)",
+            "Gross Power - SAE J1995": "98 hp (73 kw)",
+            "Net Peak Torque - 1400 rpm - Standard - SAE J1349": "277 lbs/ft",
+            "Net Power": "94 hp (70 kw)",
+            "Net Power - SAE J1349": "94 hp (70 kw)",
+            "Net Torque Rise - 1,400 rpm - Standard": "23.1%",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "4WD Cylinder - Bore": "2.56 in (5 cm)",
+            "Brake System": "Inboard, oil-immersed",
+            "Circuit Type": "Load-sensing, closed-center",
+            "Power Steering": "Hydrostatic",
+            "Pump Capacity at 2,200 rpm": "43 gal/min (163 l/min)",
+            "Pump Flow Capacity": "43.1 gal/min (163 l/min)",
+            "Pump Type": "LSPC, closed center",
+            "Relief Valve Pressure": "3300.2 psi",
+            "Steering Type": "Front wheel"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "10273.8 lbs (4,660 kg)",
+            "Bucket Breakout Force - Single Tilt": "10269 lbs (4,658 kg)",
+            "Bucket Capacity": "1.4 cu yds (1 m)",
+            "Bucket Capacity - General Purpose": "1.4 cu yds (1 m)",
+            "Bucket Width": "94.8 in (239 cm)",
+            "Bucket Width - General Purpose": "95 ft (29 m)",
+            "Clearance at Max Dump Height": "8.5 ft (2 m)",
+            "Dig Depth": "5.4 in (13 cm)",
+            "Dig Depth - Single Tilt": "6.5 in (15 cm)",
+            "Dump Height at Maximum Angle - Single Tilt": "8.6 ft (2 m)",
+            "Dump Reach at Maximum Angle - Single Tilt": "2.7 ft (1 m)",
+            "Lift Capacity at Full Height - Single Tilt": "6391 lbs (2,899 kg)",
+            "Reach at Max Dump Height": "2.7 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "33.9 gal (125 l)",
+            "Operating Weight 4wd": "16215 lbs (7,355 kg)",
+            "Tire Size Front - 2wd / 4wd": "11Lx16,12PR / 12.5/80x18,10PR",
+            "Turning Circle - Outside - Front Wheels": "26.8 ft (8 m)",
+            "Turning Circle - Outside, Widest Loading Bucket": "35.5 ft (11 m)",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Power Train": {
+            "Power Shuttle Transmission - Forward 1st": "3.7 mph (5 kph)",
+            "Power Shuttle Transmission - Reverse 1st": "3.7 mph (5 kph)"
+        },
+        "Service Refill": {
+            "Cooling System - A/C": "4.2 gal (15 l)",
+            "Cooling System - High-Ambient": "4.4 gal (15 l)",
+            "Engine Oil - With Filter": "2 gal (8 l)",
+            "Front Axle (4WD)": "2 gal (8 l)",
+            "Front Axle - Planetaries": "0.2 gal (0 l)",
+            "Fuel Tank": "34 gal (129 l)",
+            "Hydraulic System": "21 gal (79 l)",
+            "Hydraulic Tank": "10 gal (38 l)",
+            "Rear Axle": "6.4 gal (23 l)",
+            "Transmission - Torque Converter - Power Shuttle - 2WD": "4 gal (15 l)"
+        },
+        "Standards": {
+            "Cab - ROPS": "SAE J397/SAE J1040 May 1994/ISO 3741 1994",
+            "Cab - Sound": "ANSI/SAE J1166 Oct 98 is 78.5 dB(A)",
+            "Exterior Sound": "SAE J88 April 95 is 73.0 dB(A)",
+            "Front Axle (2WD) - Static": "30319 lbs (13,753 kg)",
+            "Front Axle (4WD) - Static": "27029 lbs (12,260 kg)",
+            "Rear Axle - Static": "61233 lbs (27,775 kg)"
+        },
+        "Tires": {
+            "Rear Tires Size": "12.5/80x18,10PR / 19.5x24,10PR"
+        },
+        "Transmission": {
+            "Max Speed": "21 mph (34 kph)",
+            "Max Speed - Reverse": "21 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "power shuttle"
+        },
+        "Weights": {
+            "Counterweights - Option 1": "320 lbs (145 kg)",
+            "Operating Weight - Maximum": "21605 lbs (9,800 kg)",
+            "Operating Weight - Nominal": "16217 lbs (7,356 kg)"
+        }
+    }
+}

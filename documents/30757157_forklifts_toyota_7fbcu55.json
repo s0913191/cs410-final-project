@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/7fbcu55/30757157",
+    "source_url_id": "30757157",
+    "source_url_model": "7fbcu55",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:41:44.048702",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "7FBCU55",
+    "equipment_spec": {
+        "Dimensions": {
+            "Free lift": "5 in (13 cm)",
+            "Front Wheel Tread Width": "43 in (109 cm)",
+            "Gradeability": "14%",
+            "Height to Top of Overhead Guard": "14.6 ft (4 m)",
+            "Length to Fork Face": "9.5 ft (3 m)",
+            "Max Fork Height": "10.1 ft (3 m)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Rear Wheel tread Width - max": "43.6 in (109 cm)",
+            "Right Angle Stack": "9.8 ft (3 m)",
+            "Turning Radius": "8.1 ft (2 m)",
+            "Wheelbase": "5.9 ft (2 m)"
+        },
+        "Electrical System": {
+            "Battery capacity": "1700 Ah",
+            "Battery Voltage": "36 V",
+            "Control  Power Steering": "Transistor Chopper",
+            "Control Drive": "Transistor Invertor"
+        },
+        "Engine": {
+            "Engine Model": "electric engine"
+        },
+        "MAST": {
+            "Lift Speed": "53 ft/min",
+            "Load Capacity": "12000 lbs (5,443 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "98 ft/min"
+        },
+        "Operating Specifications": {
+            "Drawbar Pull": "4780 lbs (2,168 kg)",
+            "Hydraulic System Relief Valve Pressure": "2630 psi",
+            "Max Speed": "9 mph (14 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "15010 lbs (6,809 kg)",
+            "Tire Size": "Front - 28 x 10 x 22, Rear -18 x 8 x 12-1/8",
+            "Tire Type": "cushion"
+        }
+    }
+}

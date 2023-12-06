@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/caterpillar/623b/30719413",
+    "source_url_id": "30719413",
+    "source_url_model": "623b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:26.839423",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "623B",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "22 cu yds (17 m)",
+            "Max Depth of Cut": "13 in (33 cm)",
+            "Rated Payload": "50000.9 lbs (22,680 kg)",
+            "Width of Cut": "10.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "12.5 ft (4 m)",
+            "Overall Length": "41.1 ft (13 m)",
+            "Overall Width": "11.7 ft (3 m)",
+            "Wheelbase": "26.2 ft (8 m)"
+        },
+        "Elevator": {
+            "Number of Flights": "15"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "135 gal (511 l)",
+            "Tire Size": "29.5x29 28PR"
+        },
+        "Tractor Engine": {
+            "Displacement": "891 cu in (0 m)",
+            "Gross Power": "329.9 hp (245 kw)",
+            "Make": "Caterpillar",
+            "Model": "3406",
+            "Net Power": "330 hp (246 kw)",
+            "Power Measured @": "1900 rpm"
+        },
+        "Transmission": {
+            "Max Speed Forward": "29.9 mph (47 kph)",
+            "Number of Forward Gears": "8"
+        },
+        "Weights": {
+            "Front Axel - loaded": "66078.5 lbs (29,973 kg)",
+            "Front Axle - empty": "49209.4 lbs (22,321 kg)",
+            "Rear Axle - empty": "23157.4 lbs (10,504 kg)",
+            "Rear Axle - loaded": "56289.1 lbs (25,533 kg)",
+            "Total Operating - empty": "72366.8 lbs (32,825 kg)",
+            "Total Operating - Loaded": "122367.6 lbs (55,505 kg)"
+        }
+    }
+}

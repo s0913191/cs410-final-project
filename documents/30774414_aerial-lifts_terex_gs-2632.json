@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/gs-2632/30774414",
+    "source_url_id": "30774414",
+    "source_url_model": "gs-2632",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:07.059310",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "GS-2632",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "26 ft (8 m)",
+            "Gradeability": "25%",
+            "Ground Clearance": "3.5 in (8 cm)",
+            "Height w/ Rails": "7.5 ft (2 m)",
+            "Height w/o Rails": "6.3 ft (2 m)",
+            "Overall Length": "8.1 in (20 cm)",
+            "Overall Width": "2.7 ft (1 m)",
+            "Platform Size": "7.4x2.7 ft (2 m)",
+            "Stowed Height": "7.4 ft (2 m)",
+            "Stowed Width": "2.7 ft (1 m)",
+            "Turning Radius": "7 ft (2 m)",
+            "Wheelbase": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "225",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "4.5 gal (15 l)",
+            "Max Speed": "2.2 mph (3 kph)",
+            "Operating Weight": "4413.7 lbs (2,002 kg)",
+            "Tire Fill/Type": "Solid non-marking",
+            "Tire Size": "15 x 5"
+        },
+        "Platform": {
+            "Deck Extension": "35.9 in (89 cm)",
+            "Lift Time": "28 sec",
+            "Lower Time": "24 sec",
+            "Max Platform Height": "26 ft (8 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "32.6 ft (10 m)",
+            "Platform Inner Length": "89 in (226 cm)",
+            "Platform Inner Width": "31.9 in (79 cm)"
+        },
+        "Tires": {
+            "Tire Size": "15x5x11(38x13x28)"
+        }
+    }
+}

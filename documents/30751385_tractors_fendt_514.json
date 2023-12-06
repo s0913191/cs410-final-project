@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/fendt/514/30751385",
+    "source_url_id": "30751385",
+    "source_url_model": "514",
+    "source_url_make": "fendt",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:16:31.772329",
+    "equipment_category": "Tractors",
+    "equipment_make": "Fendt",
+    "equipment_model": "514",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "21.5 in (53 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length": "175.4 in (445 cm)",
+            "Overall width": "8.3 ft (2 m)",
+            "Turning Circle": "17355.7 ft (5,290 m)",
+            "Turning Radius": "18 ft (5 m)",
+            "Wheelbase": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "200 A",
+            "Bore": "4 in (10 cm)",
+            "Cooling method": "Water",
+            "Displacement": "1346 cu in (0 m)",
+            "Engine oil service interval hours": "500",
+            "Engine PTO front": "1000 rpm",
+            "Engine PTO rear": "540 rpm",
+            "Gross Power": "132.8 hp (98 kw)",
+            "Net Power": "143.5 hp (107 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "1900 rpm",
+            "PTO Power": "122.1 hp (91 kw)",
+            "Rated engine speed": "2100 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1500 rpm",
+            "Torque Rise": "38%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "29 gal/min (110 l/min)"
+        },
+        "Lift System": {
+            "Front linkage max lift capacity": "7687.6 lbs (3,487 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "78.8 gal (295 l)",
+            "Operating Voltage": "14.4 V V",
+            "Operating Weight": "23148.6 lbs (10,500 kg)"
+        },
+        "Transmission": {
+            "Drawbar Pull": "14998.1 lbs (6,803 kg)",
+            "Max Speed": "24.9 mph (39 kph)"
+        },
+        "Weights": {
+            "Implement weight": "5423.4 lbs (2,460 kg)",
+            "Max vertical hitch load": "4409.3 lbs (2,000 kg)"
+        }
+    }
+}

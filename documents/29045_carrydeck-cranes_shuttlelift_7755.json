@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/shuttlelift/7755/29045",
+    "source_url_id": "29045",
+    "source_url_model": "7755",
+    "source_url_make": "shuttlelift",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:28.991304",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Shuttlelift",
+    "equipment_model": "7755",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "67 ft (20 m)",
+            "Max Lift Capacity": "30000 lbs (13,608 kg)",
+            "Max Working Radius": "63.5 ft (19 m)",
+            "Min Height @ Max Raise Angle": "19.5 ft (6 m)",
+            "Min Working Radius": "6 ft (2 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "3 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "274.7 cu in (0 m)",
+            "Gross Power": "130.1 hp (97 kw)",
+            "Make": "Shuttlelift",
+            "Max Torque": "457.3 lbs/ft",
+            "Model": "QSB 4.5L",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "16.5 ft (5 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Transport Height": "9.9 ft (3 m)",
+            "Transport Length": "24.8 ft (7 m)",
+            "Transport Width": "8.1 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "7.9 ft (2 m)",
+            "Width w/ Outriggers Extended": "15.3 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "63  A",
+            "Carrier Cooling System Fluid Capacity": "5.8 gal (19 l)",
+            "Carrier Fuel Capacity": "50 gal (189 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "43000 lbs (19,505 kg)",
+            "Tire Size": "14.00-24",
+            "Upper Structure Hydraulic System Fluid Capacity": "60 gal (227 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "19.5 mph (31 kph)",
+            "Max Speed - Reverse": "19.5 mph (31 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "4-speed powershift"
+        }
+    }
+}

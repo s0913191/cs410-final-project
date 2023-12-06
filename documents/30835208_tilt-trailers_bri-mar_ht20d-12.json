@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/bri-mar/ht20d-12/30835208",
+    "source_url_id": "30835208",
+    "source_url_model": "ht20d-12",
+    "source_url_make": "bri-mar",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:39.593181",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "HT20D-12",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x20 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "3630 lbs (1,647 kg)",
+            "Weight Capacity": "8370 lbs (3,797 kg)"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/massey-ferguson/1842/30752307",
+    "source_url_id": "30752307",
+    "source_url_model": "1842",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:30.973846",
+    "equipment_category": "Balers",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "1842",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale cross section,Height X Width(in,mm)": "16 x 18 (406 x 457)",
+            "Bale Length - max": "4.4 ft (1 m)",
+            "Bale Length - min": "1.1 ft (0 m)",
+            "Baler weight": "4376.2 lbs (1,985 kg)"
+        },
+        "Baler Pickup": {
+            "Augers": "12.6 in (30 cm)",
+            "Inside Width": "77.5 in (196 cm)",
+            "Number of Bars": "4",
+            "Number of Tines": "112",
+            "Outer tine-to-tine width": "91.2 in (231 cm)",
+            "Pickup gauge wheel": "2",
+            "Pickup protection": "Slip and overrunning clutch",
+            "Tine to Tine Width": "5.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height w/shielding": "66 in (168 cm)",
+            "Length  w/o bale chute": "201.7 in (511 cm)",
+            "Length w/bale chute": "243.6 in (617 cm)",
+            "Overall Width": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "PTO Horsepower": "49.7 hp (37 kw)",
+            "PTO Speed": "540 rpm"
+        },
+        "Feeding Chamber": {
+            "Drive": "No. 80 chain",
+            "Protection": "Shearbolt",
+            "Stuffer Type": "Crank type cam controlled w/3 tines"
+        },
+        "Plunger": {
+            "Plunger speed (strokes/min)": "100",
+            "Stroke Length": "23 in (58 cm)"
+        },
+        "Tires": {
+            "Standard": "31 x 13.5-15 , 8 Ply"
+        },
+        "Wrapping System": {
+            "Protection": "Shearbolt",
+            "Twine Ball Capacity": "10 balls",
+            "Twine Type": "Knotters"
+        }
+    }
+}

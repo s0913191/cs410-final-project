@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/komatsu/g976/30760761",
+    "source_url_id": "30760761",
+    "source_url_model": "g976",
+    "source_url_make": "komatsu",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:13.017688",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "G976",
+    "equipment_spec": {
+        "Blades": {
+            "Maximum Shoulder Reach Outside of Tires - Left": "78 in (198 cm)",
+            "Maximum Shoulder Reach Outside of Tires - Right": "77 in (196 cm)",
+            "Moldboard Sideshift - Left": "30.5 in (76 cm)",
+            "Moldboard Sideshift - Right": "29.5 in (74 cm)"
+        },
+        "Circle": {
+            "Max Lift Above Ground": "18 in (46 cm)"
+        },
+        "Engine": {
+            "Base Power (1st Gear) - Net": "225 hp (168 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "29 (standard) in (74 cm)",
+            "Moldboard Length": "12 (standard) ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "43650 lbs (19,800 kg)"
+        },
+        "Steering System": {
+            "Articulation Angle": "21  \t\u00b0",
+            "Turning Radius": "25 ft (8 m)"
+        }
+    }
+}

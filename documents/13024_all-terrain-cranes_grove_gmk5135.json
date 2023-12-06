@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/gmk5135/13024",
+    "source_url_id": "13024",
+    "source_url_model": "gmk5135",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:30.188118",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "GMK5135",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "288.7 ft (88 m)",
+            "Max Elevating Angle": "83  \t\u00b0",
+            "Max Lift Capacity": "270000 lbs (122,471 kg)",
+            "Max Working Radius": "10.4 ft (3 m)",
+            "Min Working Radius": "7.7 ft (2 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "502.9 hp (374 kw)",
+            "Make": "Grove",
+            "Max Torque": "1770.2 lbs/ft",
+            "Model": "OM 502 LA",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "40.3 ft (12 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Transport Height": "9.9 ft (3 m)",
+            "Transport Length": "49.3 ft (15 m)",
+            "Transport Width": "8.2 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "14.4 ft (4 m)",
+            "Width w/ Outriggers Extended": "24.7 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Carrier Fuel Capacity": "52.9 gal (197 l)",
+            "Carrier Hydraulic System Fluid Capacity": "222 gal (840 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "132277.4 lbs (60,001 kg)",
+            "Tire Size": "445/95 R 25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "53 mph (85 kph)",
+            "Transmission Type": "Daimler Chrysler, 16-speed G240-16"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "173 hp (129 kw)",
+            "Make": "Grove",
+            "Max Torque": "497.9 lbs/ft",
+            "Model": "OM 924 LA",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1200 rpm"
+        }
+    }
+}

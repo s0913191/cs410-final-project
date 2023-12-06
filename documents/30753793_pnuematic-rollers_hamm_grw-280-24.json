@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/hamm/grw-280-24/30753793",
+    "source_url_id": "30753793",
+    "source_url_model": "grw-280-24",
+    "source_url_make": "hamm",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:29.479553",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "GRW 280-24",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "0.7 ft (0 m)",
+            "Height - Top of ROPS/FOPS": "10 ft (3 m)",
+            "Maximum width": "6837.3 ft (2,084 m)",
+            "Overall Length": "183.9 in (465 cm)",
+            "Overall Width": "7.1 ft (2 m)",
+            "Turning Radius - Inside": "18.6 ft (5 m)",
+            "Wheelbase": "11.9 ft (3 m)"
+        },
+        "Engine": {
+            "Emissions Certification": "EPA Tier 4",
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 2012 L04 2V",
+            "Gross Power": "134.2 hp (100 kw)",
+            "Net Power": "134.2 hp (100 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "62.1 gal (235 l)",
+            "Max Speed": "11.9 mph (18 kph)",
+            "Operating Weight": "58422.5 lbs (26,500 kg)",
+            "Operating weight Cabin": "51312.6 lbs (23,275 kg)",
+            "Operating weight ROPS": "51004 lbs (23,135 kg)",
+            "Water Spray Tank Fluid Capacity": "51.6 gal (193 l)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "4",
+            "Number of Tires - Rear": "4",
+            "Size of tyres, Front": "11.00-R20",
+            "Size of tyres, rear": "11.00-R20",
+            "Width over tyres, Front": "72.1 in (183 cm)",
+            "Width over tyres, rear": "72.1 in (183 cm)"
+        }
+    }
+}

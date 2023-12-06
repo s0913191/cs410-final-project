@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d6t-xl-iv-wh/30760608",
+    "source_url_id": "30760608",
+    "source_url_model": "d6t-xl-iv-wh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:13.803803",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D6T XL IV WH",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C9.3 ACERT",
+            "Net Power": "207 hp (154 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "51563 lbs (23,389 kg)"
+        }
+    }
+}

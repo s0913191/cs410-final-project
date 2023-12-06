@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l556-2plus2/26273503",
+    "source_url_id": "26273503",
+    "source_url_model": "l556-2plus2",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:57.317929",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L556 2PLUS2",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4.8 cu yds (3 m)",
+            "Bucket Width": "8.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Hinge Pin - Max Height": "12.9 ft (4 m)",
+            "Length with Bucket on Ground": "27.1 ft (8 m)",
+            "Wheelbase": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo-charged",
+            "Displacement": "427.8 cu in (0 m)",
+            "Engine Model": "D 934 L A6",
+            "Gross Power": "187.8 hp (139 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.3 sec",
+            "Lower Time": "2.7 sec",
+            "Pump Flow Capacity": "61.9 gal/min (231 l/min)",
+            "Pump Type": "Load-sensing swash plate type variable flow pump with output and flow control and pressure cut-off in the control block",
+            "Raise Time": "5.5 sec",
+            "Relief Valve Setting": "4786.3 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "11.9 gal (42 l)",
+            "Engine Oil Fluid Capacity": "8.2 gal (30 l)",
+            "Front Axle/Diff Fluid Capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "63.5 gal (238 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "38073.9 lbs (17,270 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "8 gal (30 l)",
+            "Tire Size": "23.5R25",
+            "Transmission Fluid Capacity": "3.1 gal (11 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

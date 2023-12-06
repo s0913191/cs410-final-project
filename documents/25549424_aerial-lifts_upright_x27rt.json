@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/x27rt/25549424",
+    "source_url_id": "25549424",
+    "source_url_model": "x27rt",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:34.904997",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "X27RT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.8 in (33 cm)",
+            "Height w/ Rails": "8.4 ft (2 m)",
+            "Height w/o Rails": "5.8 ft (2 m)",
+            "Overall Length": "11.1 in (28 cm)",
+            "Overall Width": "5.9 ft (2 m)",
+            "Turning Radius": "15.1 ft (5 m)"
+        },
+        "Engine": {
+            "Engine Model": "V-905",
+            "Fuel Type": "diesel",
+            "Gross Power": "22.5 hp (16 kw)"
+        },
+        "Performance": {
+            "Max Speed": "2.8 mph (3 kph)",
+            "Operating Weight": "6173 lbs (2,800 kg)",
+            "Tire Fill/Type": "poly filled / lug",
+            "Tire Size": "26x12"
+        },
+        "Platform": {
+            "Deck Extension": "47.3 in (119 cm)",
+            "Max Platform Height": "27.2 ft (8 m)",
+            "Max Platform Weight Capacity": "1278.7 lbs (580 kg)",
+            "Max Working Height": "33.8 ft (10 m)",
+            "Platform Inner Length": "107.9 in (272 cm)",
+            "Platform Inner Width": "65 in (165 cm)"
+        }
+    }
+}

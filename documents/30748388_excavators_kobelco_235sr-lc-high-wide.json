@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/235sr-lc-high-wide/30748388",
+    "source_url_id": "30748388",
+    "source_url_model": "235sr-lc-high-wide",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:07:51.991711",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "235SR LC High & Wide",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "38.4 ft (12 m)",
+            "Max Digging Depth": "20.4 ft (6 m)",
+            "Max Loading Height": "29 ft (9 m)",
+            "Max Reach Along Ground": "31.5 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "18.7 ft (5 m)",
+            "Shipping Height of Unit": "10.4 ft (3 m)",
+            "Shipping Length of Unit": "29.2 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.7 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.7 cu yds (0 m)",
+            "Reference Bucket Capacity": "1.1 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Length of Track on Ground": "12.7 ft (4 m)",
+            "Removal Counterweight Clearance": "3.5 ft (1 m)",
+            "Tail Swing Radius": "6 ft (2 m)",
+            "Width to Outside of Tracks": "11.4 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "6D34-TE1",
+            "Net Power": "143 hp (107 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "77 gal (291 l)",
+            "Hydraulic Pump Flow Capacity": "105.7 gal/min (397 l/min)",
+            "Hydraulic System Fluid Capacity": "61 gal (231 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Weight": "60640 lbs (27,506 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "52920 lbs (24,004 kg)",
+            "Ground Pressure": "6.3 psi",
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Shoe Size": "31.5 in (79 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        }
+    }
+}

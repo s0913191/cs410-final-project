@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6100d-cab/30751152",
+    "source_url_id": "30751152",
+    "source_url_model": "6100d-cab",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:21:49.892448",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6100D Cab",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18 in (46 cm)",
+            "Wheelbase": "7.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Make": "2240",
+            "Gross Power": "98.9 hp (73 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "82 hp (61 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "17.6 gal/min (64 l/min)",
+            "Relief Valve Setting": "2830 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "6930 lbs (3,143 kg)",
+            "Fuel Capacity": "41.8 gal (155 l)",
+            "Operating Weight": "7936.7 lbs (3,600 kg)",
+            "Tire Size Front - 2wd / 4wd": "10.00-16 6PR F2",
+            "Turning Radius": "14.8 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4-34 8PR R1"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "9",
+            "Transmission Type": "PowrReverser"
+        }
+    }
+}

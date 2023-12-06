@@ -1,0 +1,89 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/650m/30707832",
+    "source_url_id": "30707832",
+    "source_url_model": "650m",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:32.777613",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "650M",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Capacity": "2.2 cu yds (2 m)",
+            "Blade Height": "33.2 in (84 cm)",
+            "Blade Type": "PAT",
+            "Blade Width": "10 ft in (25 cm)"
+        },
+        "Capacities": {
+            "Engine oil with filter": "3.3 gal (11 l)"
+        },
+        "Dimensions": {
+            "Blade depth below ground": "21 in (53 cm)",
+            "Blade lift above ground": "35.2 in (89 cm)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Length of Track on Ground": "85 ft (26 m)"
+        },
+        "Drive System": {
+            "Final drive": "2 helical gear",
+            "Max drawbar pull": "39094.3 lbs (17,733 kg)",
+            "Parking brakes": "Heavy-duty, spring-applied,"
+        },
+        "Electrical System": {
+            "Alternator": "120 amp",
+            "Battery": "12-volt low-maintenance"
+        },
+        "Engine": {
+            "Cooling system": "23.9 Qt,(22.6 Lt rs)",
+            "Displacement": "207.5 cu in (0 m)",
+            "Emission Tier Level": "Tier 4",
+            "Engine Model": "FPT F5HFL463D G003",
+            "Fan": "20 in,(500m)Diameter,Ratio-1:1:1",
+            "Fuel tank": "40.8 gal (151 l)",
+            "Gross Power": "73.8 hp (54 kw)",
+            "Net Power": "68 hp (51 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Pump operating angles - Fore and aft": "45  \t\u00b0",
+            "Pump operating angles -Side-to-side": "35  \t\u00b0",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Hydraulic System": {
+            "Lift cylinder - Rod diameter": "1.8 in (3 cm)",
+            "Lift cylinder - Stroke": "15.6 in (38 cm)",
+            "Lift cylinder(s)": "2",
+            "Lift cylinder-Bore diameter": "3.5 in (8 cm)",
+            "Pump Flow Capacity": "20.9 gal/min (76 l/min)"
+        },
+        "Operating Specifications": {
+            "center rock guard": "156.6 lbs (71 kg)",
+            "Long track": "15802.8 lbs (7,168 kg)",
+            "Low ground pressure": "16839 lbs (7,638 kg)",
+            "Operating Weight": "16243.7 lbs (7,368 kg)",
+            "Sweeps": "110.3 lbs (50 kg)",
+            "Winch": "1860.8 lbs (844 kg)"
+        },
+        "Performance": {
+            "Pump Flow": "20.3 gal/min (76 l/min)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "27  \t\u00b0"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5 mph (8 kph)",
+            "Max Speed - Reverse": "5 mph (8 kph)"
+        },
+        "Undercarriage": {
+            "Number of bottom rollers per side": "6",
+            "Number of Shoes per Side": "40",
+            "Number of Upper Rollers": "1",
+            "Width of Shoes": "1 in (3 cm)"
+        },
+        "Weights": {
+            "Cab": "1874 lbs (850 kg)",
+            "counterweight": "837.8 lbs (380 kg)",
+            "Ripper weight": "1400 lbs (635 kg)"
+        }
+    }
+}

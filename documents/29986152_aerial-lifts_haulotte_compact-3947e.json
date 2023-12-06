@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/compact-3947e/29986152",
+    "source_url_id": "29986152",
+    "source_url_model": "compact-3947e",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:48.960173",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "COMPACT 3947E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6 in (15 cm)",
+            "Overall Height": "8.2 ft (2 m)",
+            "Overall Length": "98.4 in (249 cm)",
+            "Overall Width": "3.2 ft (1 m)",
+            "Turning Radius": "8.2 ft (2 m)",
+            "Wheelbase": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "340",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "7 gal (27 l)",
+            "Max Speed": "1.7 mph (2 kph)",
+            "Operating Weight": "7236 lbs (3,282 kg)",
+            "Tire Size": "15x5"
+        },
+        "Platform": {
+            "Extended platform length": "10.7 ft (3 m)",
+            "Lift Time": "61 sec",
+            "Lower Time": "50 sec",
+            "Max Platform Height": "38.2 ft (12 m)",
+            "Max Platform Weight Capacity": "770 lbs (349 kg)",
+            "Max Working Height": "44.2 ft (13 m)",
+            "Platform Extension length": "3 ft (1 m)",
+            "Platform length - outside": "7.7 ft (2 m)",
+            "Platform width - outside": "3.2 ft (1 m)"
+        }
+    }
+}

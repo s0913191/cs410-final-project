@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/5613/30327088",
+    "source_url_id": "30327088",
+    "source_url_model": "5613",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:03.568728",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "5613",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.3 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "9.3 ft (3 m)",
+            "Wheelbase": "8.4 ft (2 m)",
+            "Width Outside Frame": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "120 A",
+            "Aspiration": "Turbocharged",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Make": "AGCO Power",
+            "Engine Model": "44 AWI",
+            "Gross Power": "115 hp (86 kw)",
+            "Max Torque": "545.1 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "100 hp (75 kw)",
+            "Stroke": "4.8 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic remote valves": "Mechanical and electronic control",
+            "Maximum Operating Pressure": "2900.8 psi",
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "15.1 gal/min (57 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "11448.7 lbs (5,193 kg)",
+            "Fuel Capacity": "48.9 gal (182 l)",
+            "Operating Weight": "8928.8 lbs (4,050 kg)"
+        },
+        "Power Take-Off (PTO)": {
+            "Power Take-Off(PTO) Type": "Electro-hydraulic engagement and speed selection"
+        },
+        "Production": {
+            "Series": "5600 Series",
+            "Years Manufactured": "2013 -"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9R38"
+        },
+        "Transmission": {
+            "Max Speed": "31.1 mph (50 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "Dyna-4 transmission with speed matching"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/5130b-me/3972",
+    "source_url_id": "3972",
+    "source_url_model": "5130b-me",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:17.228409",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "5130B ME",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "27.6 ft (8 m)",
+            "Digging Reach": "27.6 ft (8 m)",
+            "Ground Clearance": "3.2 ft (1 m)",
+            "Height - Top of Cab": "21.5 ft (6 m)",
+            "Length of Track on Ground": "18.3 ft (5 m)",
+            "Removal Counterweight Clearance": "6.8 ft (2 m)",
+            "Tail Swing Radius": "16.9 ft (5 m)",
+            "Width to Outside of Tracks": "17.7 ft (5 m)"
+        },
+        "Engine": {
+            "Displacement": "2105.4 cu in (0 m)",
+            "Engine Model": "3508B EUI",
+            "Net Power": "800 hp (597 kw)"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "245.2 gal/min (927 l/min)",
+            "Hydraulic System Relief Valve Pressure": "5080 psi",
+            "Operating Weight": "401000 lbs (181,892 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "196000 lbs (88,905 kg)",
+            "Max Travel Speed": "2.1 mph (3 kph)",
+            "Shoe Size": "31.5 in (79 cm)",
+            "Track Gauge": "15.5 ft (5 m)"
+        }
+    }
+}

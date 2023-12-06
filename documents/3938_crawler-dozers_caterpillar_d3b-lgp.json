@@ -1,0 +1,82 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d3b-lgp/3938",
+    "source_url_id": "3938",
+    "source_url_model": "d3b-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:57.587695",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D3B LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Length of Track on Ground": "6.8 ft (2 m)",
+            "Length w/ Blade": "13.2 ft (4 m)",
+            "Length w/o Blade": "9.8 ft (3 m)",
+            "Width Over Tracks": "7.6 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "317.4 cu in (0 m)",
+            "Engine Model": "3204",
+            "Gross Power": "64.4 hp (48 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "30.2 gal (114 l)",
+            "Operating Weight": "16836.8 lbs (7,637 kg)"
+        },
+        "S-Series": {
+            "12": "12 V V",
+            "Cooling System Fluid Capacity": "5.3 gal (19 l)",
+            "Displacement": "317.4 cu in (0 m)",
+            "Engine Model": "3204",
+            "Engine Oil Capacity": "3.2 gal (11 l)",
+            "Final Drives Fluid Capacity": "3.2 gal (11 l)",
+            "Fuel Capacity": "30.2 gal (114 l)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Ground Contact Area": "7519.1 cu in (0 m)",
+            "Height": "21.7 in (53 cm)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Hydraulic Fluid Capacity": "22.2 gal (83 l)",
+            "Length of Track on Ground": "8.1 ft (2 m)",
+            "Length w/ Blade": "13.7 ft (4 m)",
+            "Length w/o Blade": "11.2 ft (3 m)",
+            "Max Speed - Forward": "6.3 mph (10 kph)",
+            "Max Speed - Reverse": "6.7 mph (10 kph)",
+            "Net Power": "65 hp (48 kw)",
+            "Number of Cylinders": "4",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "7",
+            "Operating Weight": "18642.3 lbs (8,456 kg)",
+            "Power Measured @": "2400 rpm",
+            "Pump Flow Capacity": "22 gal/min (83 l/min)",
+            "Pump type": "Constant  power",
+            "Relief Valve Pressure": "2500 psi",
+            "Standard Shoe Size": "39 in (99 cm)",
+            "Track Gauge": "6.6 ft (2 m)",
+            "Transmission Type": "Planetary powershift",
+            "Width": "11.5 ft (3 m)",
+            "Width Over Tracks": "9.9 ft in (23 cm)"
+        },
+        "Standard Blade": {
+            "Width": "9.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.6 mph (10 kph)",
+            "Max Speed - Reverse": "7.1 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4045.6 cu in (0 m)",
+            "Ground Pressure": "4.3 psi",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "25 in (64 cm)",
+            "Track Gauge": "5.5 ft (2 m)"
+        }
+    }
+}

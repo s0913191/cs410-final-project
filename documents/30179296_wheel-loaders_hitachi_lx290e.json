@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hitachi/lx290e/30179296",
+    "source_url_id": "30179296",
+    "source_url_model": "lx290e",
+    "source_url_make": "hitachi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:46.219670",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hitachi",
+    "equipment_model": "LX290E",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "46985.1 lbs (21,312 kg)",
+            "Bucket Capacity - heaped": "5.3 cu yds (4 m)",
+            "Bucket Width": "9.8 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Length with Bucket on Ground": "27.4 ft (8 m)",
+            "Reach at Max Lift and Dump": "4.2 ft (1 m)",
+            "Wheelbase": "11.5 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "291.1 hp (217 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "90.4 gal (341 l)",
+            "Operating Weight": "47619.9 lbs (21,600 kg)",
+            "Static Tipping Weight": "39242.3 lbs (17,800 kg)",
+            "Tire Size": "26.5R25"
+        },
+        "Transmission": {
+            "Transmission Type": "ZF full powershift automatic"
+        }
+    }
+}

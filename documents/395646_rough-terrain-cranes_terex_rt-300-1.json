@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-300-1/395646",
+    "source_url_id": "395646",
+    "source_url_model": "rt-300-1",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:10.839616",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 300-1",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "94 ft (29 m)",
+            "Min Height @ Max Raise Angle": "30 ft (9 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.8 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "23.9 ft (7 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Transport Height": "10.3 ft (3 m)",
+            "Transport Length": "38.8 ft (12 m)",
+            "Transport Width": "10.2 ft (3 m)",
+            "Width w/ Outriggers Extended": "23.5 ft (7 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "360 cu in (0 m)",
+            "Engine Model": "QSB5.9",
+            "Gross Power": "160 hp (119 kw)",
+            "Max Torque": "440 lbs/ft",
+            "Net Power": "155 hp (116 kw)",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "114 gal (431 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "63260 lbs (28,695 kg)",
+            "Tire Size": "23.5R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.5 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Powershift Transmission"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/new-holland/lw170b/26303",
+    "source_url_id": "26303",
+    "source_url_model": "lw170b",
+    "source_url_make": "new-holland",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:22.315738",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "LW170B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "31435 lbs (14,259 kg)",
+            "Bucket Capacity - heaped": "3.3 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.8 cu yds (2 m)",
+            "Bucket Width": "8.9 ft (2 m)",
+            "Digging depth": "0.3 ft (0 m)",
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Hinge Pin - Max Height": "13.1 ft (4 m)",
+            "Length with Bucket on Ground": "25.1 ft (8 m)",
+            "Wheelbase": "10.7 ft (3 m)",
+            "Width Over Tires": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type elements",
+            "Aspiration": "Turbocharged",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emissions Certification": "Tier 2",
+            "Engine Make": "New Holland",
+            "Engine Model": "668TA",
+            "Gross Power": "181 hp (135 kw)",
+            "Net Power": "170 hp (127 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "52.1 in (132 cm)",
+            "Torque Measured @": "1400 rpm",
+            "Torque Rise": "25%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.4 sec",
+            "Lower Time": "3.3 sec",
+            "Pump Flow Capacity": "22.7 gal/min (83 l/min)",
+            "Pump Type": "Piston pump",
+            "Raise Time": "5.6 sec",
+            "Relief Valve Setting": "Closed-center"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "9.8 gal (34 l)",
+            "Engine Oil Fluid Capacity": "3.6 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "8.1 gal (30 l)",
+            "Fuel Capacity": "66.9 gal (250 l)",
+            "Hydraulic System Fluid Capacity": "36.8 gal (136 l)",
+            "Operating Voltage": "24 V V",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "7.3 gal (27 l)",
+            "Transmission Fluid Capacity": "62.4 gal (235 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.5 mph (37 kph)",
+            "Max Speed - Reverse": "16 mph (26 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power shift"
+        }
+    }
+}

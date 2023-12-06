@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/leeboy/5300/30680128",
+    "source_url_id": "30680128",
+    "source_url_model": "5300",
+    "source_url_make": "leeboy",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:19.407512",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Leeboy",
+    "equipment_model": "5300",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "4 ft (1 m)"
+        },
+        "Engine": {
+            "Make": "Kubota",
+            "Model": "64hp"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "7 lbs (3 kg)",
+            "Paving Speed": "151 ft/min",
+            "Paving Width - max": "up to 9 ft (0 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "12700 lbs (5,761 kg)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/8010/30050801",
+    "source_url_id": "30050801",
+    "source_url_model": "8010",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:39.065283",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "8010",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "106  hp"
+        },
+        "Production": {
+            "Series": "10S Series",
+            "Year Manufactured": "1996 - 2000"
+        }
+    }
+}

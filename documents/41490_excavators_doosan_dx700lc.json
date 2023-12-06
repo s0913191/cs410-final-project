@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx700lc/41490",
+    "source_url_id": "41490",
+    "source_url_model": "dx700lc",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:06.249135",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX700LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "25.3 ft (8 m)",
+            "Max Reach Along Ground": "41.8 ft (13 m)"
+        },
+        "Engine": {
+            "Net Power": "469 hp (350 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "158953 lbs (72,101 kg)"
+        }
+    }
+}

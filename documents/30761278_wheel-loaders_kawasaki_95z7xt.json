@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/95z7xt/30761278",
+    "source_url_id": "30761278",
+    "source_url_model": "95z7xt",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:51.091929",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "95Z7XT",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "14.5 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Isuzu",
+            "Model": "6WG1",
+            "Net Power": "388 hp (289 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "9 - 9.80 cu yds (7 - 7 m)"
+        },
+        "Weights": {
+            "Operational Weight": "79080 lbs (35,871 kg)"
+        }
+    }
+}

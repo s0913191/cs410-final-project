@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/fiat-hitachi/w230/6836593",
+    "source_url_id": "6836593",
+    "source_url_model": "w230",
+    "source_url_make": "fiat-hitachi",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:22.168984",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Fiat-Hitachi",
+    "equipment_model": "W230",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "4114003.4 lbs (1,866,100 kg)",
+            "Bucket Capacity - heaped": "5.3 cu yds (4 m)",
+            "Bucket Capacity - struck": "4.5 cu yds (3 m)",
+            "Bucket Width": "10.1 ft (3 m)",
+            "Dump Clearance at Max Raise": "9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Hinge Pin - Max Height": "13.7 ft (4 m)",
+            "Length with Bucket on Ground": "28.1 ft (9 m)",
+            "Reach at Max Lift and Dump": "3.9 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)",
+            "Width Over Tires": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo + aftercooled",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "6C7 8.3",
+            "Gross Power": "235 hp (175 kw)",
+            "Net Power": "225 hp (168 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3.5 sec",
+            "Pump Flow Capacity": "91.2 gal/min (344 l/min)",
+            "Pump Type": "gear type",
+            "Raise Time": "6.2 sec",
+            "Relief Valve Setting": "441.7 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "15.9 gal (57 l)",
+            "Engine Oil Fluid Capacity": "6.4 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "42.3 gal (159 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "43894.1 lbs (19,910 kg)",
+            "Rear Axle Oscillation": "22  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "10.1 gal (38 l)",
+            "Static Tipping Weight": "35714.9 lbs (16,200 kg)",
+            "Tire Size": "23.5 - 25 GP-2B",
+            "Transmission Fluid Capacity": "10.6 gal (38 l)",
+            "Turning Radius": "2.2 ft (1 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.2 mph (37 kph)",
+            "Max Speed - Reverse": "24.3 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Power-Shift Countershaft"
+        }
+    }
+}

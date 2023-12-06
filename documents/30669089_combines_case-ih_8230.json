@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/case-ih/8230/30669089",
+    "source_url_id": "30669089",
+    "source_url_model": "8230",
+    "source_url_make": "case-ih",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:01:46.191885",
+    "equipment_category": "Combines",
+    "equipment_make": "Case Ih",
+    "equipment_model": "8230",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1150 rpm",
+            "Cleaning Fan Speed - Low": "300 rpm",
+            "Self Leveling?": "Standard",
+            "Total Cleaning Area": "10075 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "28.8 ft (9 m)",
+            "Overall Length": "23 ft (7 m)",
+            "Wheelbase": "147.9 ft (45 m)",
+            "Width Over Tires": "30 ft (9 m)"
+        },
+        "Engine": {
+            "Displacement": "12.9 cu in (0 m)",
+            "Engine Model": "FPT",
+            "Power": "450 hp (336 kw)",
+            "Power Boost Power": "510 hp (380 kw)",
+            "Power Measured @": "60 rpm"
+        },
+        "Feeding": {
+            "Conveyor Length": "11.9 in (28 cm)",
+            "Conveyor Speed": "2 rpm",
+            "Conveyor Width": "10.4 in (25 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "350 bu",
+            "Unloading Auger Length": "28 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "264 gal (999 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "37500 lbs (17,010 kg)",
+            "Transmission Type": "4-SPEED HYDROSTATIC DRIVE"
+        },
+        "Separating": {
+            "Discharge Grate Area": "2 cu in (0 m)",
+            "Separating Area": "2 cu in (0 m)",
+            "Separator Length": "2 in (5 cm)",
+            "Separator Type": "LONGITUDINALLY MOUNTED ROTOR"
+        },
+        "Threshing": {
+            "Beater Grate Area": "2 cu in (0 m)",
+            "Concave Area": "2 cu in (0 m)",
+            "Rotor Diameter": "30 in (76 cm)",
+            "Rotor Speed - High": "730 rpm",
+            "Rotor Speed - Low": "220 rpm"
+        }
+    }
+}

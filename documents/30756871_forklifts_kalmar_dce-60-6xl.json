@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/kalmar/dce-60-6xl/30756871",
+    "source_url_id": "30756871",
+    "source_url_model": "dce-60-6xl",
+    "source_url_make": "kalmar",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:32:43.146184",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Kalmar",
+    "equipment_model": "DCE 60-6XL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "7.3 ft (2 m)",
+            "Wheelbase": "8.1 ft (2 m)"
+        },
+        "MAST": {
+            "Load Capacity": "13227.8 lbs (6,000 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "18298.4 lbs (8,300 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/308-hylab-5/30836948",
+    "source_url_id": "30836948",
+    "source_url_model": "308-hylab-5",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:47.180301",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "308 HYLAB 5",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "160 ft (49 m)",
+            "Max Lift Capacity": "110 t (99,790 kg)"
+        }
+    }
+}

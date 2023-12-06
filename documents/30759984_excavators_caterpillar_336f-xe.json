@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/336f-xe/30759984",
+    "source_url_id": "30759984",
+    "source_url_model": "336f-xe",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:52.953101",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "336F XE",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "26.8 ft (8 m)",
+            "Max Reach Along Ground": "38.4 ft (12 m)"
+        },
+        "Engine": {
+            "Net Power": "306 hp (228 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "88800 lbs (40,279 kg)"
+        }
+    }
+}

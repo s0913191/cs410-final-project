@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/krupp/kmk6300/30862486",
+    "source_url_id": "30862486",
+    "source_url_model": "kmk6300",
+    "source_url_make": "krupp",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:44.187002",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Krupp",
+    "equipment_model": "KMK6300",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "84  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "174 ft (53 m)",
+            "Max Lift Capacity": "600000 lbs (272,158 kg)",
+            "Max Working Radius": "155 ft (47 m)",
+            "Min Height @ Max Raise Angle": "48 ft (15 m)",
+            "Min Working Radius": "9 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.6 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "544.5 hp (406 kw)",
+            "Make": "Krupp",
+            "Max Torque": "1770.2 lbs/ft",
+            "Model": "OM 444 A diesel",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "50.5 ft (15 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "54.7 ft (16 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "19.9 ft (6 m)",
+            "Width w/ Outriggers Extended": "28.2 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Carrier Fuel Capacity": "125 gal (473 l)",
+            "Number of Axels": "6",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "159000 lbs (72,122 kg)",
+            "Tire Size": "16R25/20.5R25",
+            "Upper Structure Fuel Capacity": "75 gal (284 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "42 mph (68 kph)",
+            "Max Speed - Reverse": "9 mph (14 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison 5 -gear automatic powershift"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "285.7 hp (213 kw)",
+            "Make": "Krupp",
+            "Max Torque": "936.8 lbs/ft",
+            "Model": "OM 447 A diesel",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1600 rpm"
+        }
+    }
+}

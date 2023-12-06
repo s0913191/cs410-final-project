@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/938g/30701758",
+    "source_url_id": "30701758",
+    "source_url_model": "938g",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:28.968654",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "938G",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "24770 lbs (11,236 kg)",
+            "Bucket Capacity - heaped": "3.2 cu yds (2 m)",
+            "Bucket Width": "8.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Length with Bucket on Ground": "24.1 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.5 ft (1 m)",
+            "Width Over Tires": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "439.4 cu in (0 m)",
+            "Engine Model": "3126DITA",
+            "Gross Power": "145 hp (108 kw)",
+            "Net Power": "158 hp (118 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "2.8 sec",
+            "Raise Time": "6 sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "67.1 gal (254 l)",
+            "Hydraulic System Fluid Capacity": "23.8 gal (87 l)",
+            "Operating Weight": "29059.2 lbs (13,181 kg)",
+            "Static Tipping Weight": "23186.1 lbs (10,517 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.4 mph (35 kph)",
+            "Max Speed - Reverse": "13.7 mph (21 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

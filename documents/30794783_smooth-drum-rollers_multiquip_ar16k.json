@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/multiquip/ar16k/30794783",
+    "source_url_id": "30794783",
+    "source_url_model": "ar16k",
+    "source_url_make": "multiquip",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:14.844486",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Multiquip",
+    "equipment_model": "AR16K",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "84 in (213 cm)"
+        },
+        "Drum": {
+            "Drum Width": "35.4 in (89 cm)",
+            "Vibration Frequency": "3,660-4,020 hz (219,600 vpm)"
+        },
+        "Engine": {
+            "Make": "Yanmar"
+        },
+        "Operating Specifications": {
+            "Operating Width": "34 in (86 cm)"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca362pd/30679646",
+    "source_url_id": "30679646",
+    "source_url_model": "ca362pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:35.244449",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA362PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.9 in (43 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length w/o Blade": "18.9 ft (5 m)",
+            "Overall Width": "7 ft (2 m)",
+            "Turning Radius - Inside": "0.8 ft (0 m)",
+            "Width Over Tires": "7 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "67442.7 lbs (30,592 kg)",
+            "Centrifugal Force - Low": "32822.2 lbs (14,888 kg)",
+            "Drum Diameter": "60 in (152 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Frequency": "30 hz (1,800 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "150",
+            "Pad Height": "4 in (10 cm)",
+            "Pad Surface Area": "22.7 cu in (0 m)",
+            "Vibration Frequency 1": "33 hz (1,980 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "water cooled turbo diesel with after cooler",
+            "Engine Model": "QSB 6.7 T3",
+            "Gross Power": "150 hp (112 kw)",
+            "Make": "Cummins",
+            "Model": "QSB6.7T3",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Max Speed": "5.6 mph (8 kph)",
+            "Operating Weight": "28880.6 lbs (13,100 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1x26"
+        }
+    }
+}

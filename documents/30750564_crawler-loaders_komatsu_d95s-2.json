@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/komatsu/d95s-2/30750564",
+    "source_url_id": "30750564",
+    "source_url_model": "d95s-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:54.326899",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D95S-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "10.7 ft (3 m)",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "12.1 ft (4 m)",
+            "Length with Bucket on Ground": "20.8 ft (6 m)",
+            "Reach at Dump Height": "4.3 ft (1 m)",
+            "Width to Outside of Tracks": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "854 cu in (0 m)",
+            "Engine Model": "NT855",
+            "Net Power": "245 hp (183 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "12 sec",
+            "Lower Time": "9.6 sec",
+            "Raise Time": "10.8 sec"
+        },
+        "Operating Specifications": {
+            "Breakout Force  Bucket": "47400 lbs (21,501 kg)",
+            "Bucket Capacity - heaped": "4.2 cu yds (3 m)",
+            "Cooling System Fluid Capacity": "23.8 gal (87 l)",
+            "Fuel Capacity": "126.9 gal (477 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Weight": "65700 lbs (29,801 kg)",
+            "Static Tipping Load": "44530 lbs (20,199 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "13.7 psi",
+            "Length of Track on Ground": "10.1 ft (3 m)",
+            "Number of Track Rollers per Side": "7",
+            "Track Gauge": "88.6 in (224 cm)",
+            "Track Shoe Width": "20.1 in (51 cm)"
+        }
+    }
+}

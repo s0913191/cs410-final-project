@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/sw320-i/30800758",
+    "source_url_id": "30800758",
+    "source_url_model": "sw320-i",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:08.931522",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "SW320-I",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "103 in (262 cm)"
+        },
+        "Drum": {
+            "Drum Width": "47 in (119 cm)",
+            "Vibration Frequency": "4000 hz (240,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota D1703-M-ET01 Int. Tier IV"
+        },
+        "Operating Specifications": {
+            "Operating Width": "52 in (132 cm)"
+        }
+    }
+}

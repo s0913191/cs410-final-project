@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/massey-ferguson/9695/53351",
+    "source_url_id": "53351",
+    "source_url_model": "9695",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:06.420916",
+    "equipment_category": "Combines",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "9695",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Chaffer area": "3627.1 cu in (0 m)",
+            "Cleaning Fan Speed - High": "1350 rpm",
+            "Cleaning Fan Speed - Low": "590 rpm",
+            "Total Cleaning Area": "6758.1 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Overall Length": "32.7 ft (10 m)",
+            "Transport Height": "12.3 ft (4 m)",
+            "Turning Radius": "21.1 ft (6 m)",
+            "Unloader clearance": "13.4 ft (4 m)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "512.6 cu in (0 m)",
+            "Engine Model": "AGCO SISU POWER 84CTA",
+            "Number of Cylinders": "6",
+            "Power": "299.1 hp (223 kw)"
+        },
+        "Feeding": {
+            "Chain size": "557",
+            "Feeder Reverser Control": "Electro-hydraulic",
+            "Housing width": "44.2 in (112 cm)",
+            "Stone or  Rock Protection": "Stone trap"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "300 bu",
+            "Unloading auger diameter": "15 in (38 cm)",
+            "Unloading Auger Length": "24.3 ft (7 m)",
+            "Unloading Discharge Height": "14.5 ft (4 m)",
+            "Unloading Speed": "4.6 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "229.9 gal (867 l)",
+            "Hydraulic System Fluid Capacity": "9.7 gal (34 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "28001 lbs (12,701 kg)"
+        },
+        "Separating": {
+            "Separating Area": "2247.6 cu in (0 m)"
+        },
+        "Threshing": {
+            "Concave Area": "2201.1 cu in (0 m)",
+            "Rotor Diameter": "27.6 in (69 cm)",
+            "Rotor Length": "140 in (356 cm)",
+            "Rotor Speed - High": "970 rpm",
+            "Rotor Speed - Low": "175 rpm"
+        }
+    }
+}

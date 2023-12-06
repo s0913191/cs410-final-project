@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/pro-66/30166877",
+    "source_url_id": "30166877",
+    "source_url_model": "pro-66",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:30.143898",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "PRO 66",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "T,AJ/66 ft (0 m)",
+            "Stowed Height": "8.9 ft (2 m)",
+            "Stowed Width": "8.2 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "15x19.5"
+        },
+        "Transmission": {
+            "4WD": "opt."
+        }
+    }
+}

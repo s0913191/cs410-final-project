@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ammann/asc250d/30753979",
+    "source_url_id": "30753979",
+    "source_url_model": "asc250d",
+    "source_url_make": "ammann",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:45.246097",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ammann",
+    "equipment_model": "ASC250D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "5.6 ft (2 m)",
+            "Ground Clearance": "19.7 in (48 cm)",
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Overall Length": "21.6 in (53 cm)",
+            "Overall Width": "8.3 ft (2 m)",
+            "Wheelbase": "10.8 in (25 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "76435.1 lbs (34,671 kg)",
+            "Centrifugal Force - Low": "103412.2 lbs (46,907 kg)",
+            "Drum Diameter": "67 in (170 cm)",
+            "Drum Width": "88.2 in (224 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "439.1 lbs/in",
+            "Vibration Frequency 1": "28 hz (1,680 vpm)",
+            "Vibration Frequency 2": "34 hz (2,040 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "QSB6.7-C220",
+            "Net Power": "208 hp (155 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "107 gal (405 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Weight": "55843.1 lbs (25,330 kg)"
+        },
+        "Tires": {
+            "Tires": "23.5-25"
+        }
+    }
+}

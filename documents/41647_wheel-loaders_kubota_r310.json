@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kubota/r310/41647",
+    "source_url_id": "41647",
+    "source_url_model": "r310",
+    "source_url_make": "kubota",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:09.252482",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kubota",
+    "equipment_model": "R310",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "37.1 lbs (17 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Hinge Pin - Max Height": "8.2 ft (2 m)",
+            "Overall height": "8.1 ft in (20 cm)",
+            "Overall length": "13.1 ft (4 m)",
+            "Reach at Max Lift and Dump": "2.5 ft (1 m)",
+            "Wheelbase": "4.8 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "81.5 cu in (0 m)",
+            "Engine Model": "Kubota",
+            "Engine Type": "V1305-E-RP",
+            "Gross Power": "24.2 hp (18 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.5 sec",
+            "Lower Time": "1 sec",
+            "Raise Time": "3.9 sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6.9 gal (23 l)",
+            "Hydraulic System Fluid Capacity": "5.3 gal (19 l)",
+            "Max Speed": "8.7 mph (13 kph)",
+            "Operating Weight": "4387.2 lbs (1,990 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "Load Sensing Transmission"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/case/dv207/42491",
+    "source_url_id": "42491",
+    "source_url_model": "dv207",
+    "source_url_make": "case",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:29.294302",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Case",
+    "equipment_model": "DV207",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "181 in (460 cm)"
+        },
+        "Drum": {
+            "Drum Width": "57.1 in (145 cm)",
+            "Vibration Frequency": "2580 - 3.12 hz (154,800 - 180 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins BTAA 3.3"
+        },
+        "Operating Specifications": {
+            "Operating Width": "60.6 in (152 cm)"
+        }
+    }
+}

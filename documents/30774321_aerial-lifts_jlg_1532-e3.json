@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/1532-e3/30774321",
+    "source_url_id": "30774321",
+    "source_url_model": "1532-e3",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:19.680571",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "1532 E3",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "600 lbs (272 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "15 ft (5 m)",
+            "Stowed Height": "6 ft (2 m)",
+            "Stowed Width": "2-6.5 ft (1 m)"
+        },
+        "Tires": {
+            "Tire Size": "14x4.5"
+        },
+        "Transmission": {
+            "4WD": "no"
+        }
+    }
+}

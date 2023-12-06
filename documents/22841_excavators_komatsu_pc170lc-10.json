@@ -1,0 +1,89 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc170lc-10/22841",
+    "source_url_id": "22841",
+    "source_url_model": "pc170lc-10",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:43.670599",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC170LC-10",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Crowd Force - SAE": "20503 lbs (9,300 kg)",
+            "Bucket Digging Force - SAE": "24471.4 lbs (11,100 kg)",
+            "Max Digging Depth": "18.5 ft (5 m)",
+            "Max Digging Height": "29.3 ft (9 m)",
+            "Max Digging Reach": "28.5 ft (9 m)",
+            "Max Digging Reach on Ground": "28 ft (9 m)",
+            "Max Reach Along Ground": "30.3 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "16 ft (5 m)",
+            "Max.Dumping Height": "20.7 ft (6 m)",
+            "Minimum swing radius": "119.7 in (302 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Arm Crowd Force-SAE": "18739.3 lbs (8,500 kg)",
+            "Bucket Digging Force - SAE": "24471.4 lbs (11,100 kg)",
+            "Max Digging Depth": "19.6 ft (6 m)",
+            "Max Digging Reach": "29.4 ft (9 m)",
+            "Max Digging Reach on Ground": "28.9 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "16.6 ft (5 m)",
+            "Max. digging height": "29.5 ft (9 m)",
+            "Max.Dumping Height": "20.9 ft (6 m)",
+            "Minimum swing radius": "117.8 in (297 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Arm Crowd Force-SAE": "17416.6 lbs (7,900 kg)",
+            "Bucket Digging Force - SAE": "24471.4 lbs (11,100 kg)",
+            "Max Digging Depth": "20.6 ft (6 m)",
+            "Max Reach Along Ground": "29.8 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.5 ft (5 m)",
+            "Max. digging height": "30 ft (9 m)",
+            "Max.Dumping Height": "21.5 ft (6 m)",
+            "Minimum swing radius": "118 in (300 cm)"
+        },
+        "Capacities": {
+            "Engine Oil": "4.8 gal (15 l)",
+            "Final Drive": "1.5 gal (4 l)",
+            "Fuel Tank": "79.3 gal (299 l)",
+            "Swing drive": "1.2 gal (4 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Length of Track on Ground": "14.3 ft (4 m)",
+            "Removal Counterweight Clearance": "3.5 ft (1 m)",
+            "Tail Swing Radius": "8.3 ft (2 m)",
+            "Track Gauge": "6.6 ft (2 m)",
+            "Track length": "156.2 in (396 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "272.2 cu in (0 m)",
+            "Engine Make": "Komatsu",
+            "Engine Model": "SAA4D107E-2A",
+            "Gross Power": "121 hp (90 kw)",
+            "Max Digging Reach": "30.3 ft (9 m)",
+            "Net Power": "115 hp (86 kw)",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "4.9 in (10 cm)"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "78.8 gal/min (295 l/min)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "38095.9 lbs (17,280 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "35163.8 lbs (15,950 kg)",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "19.7 in (48 cm)"
+        }
+    }
+}

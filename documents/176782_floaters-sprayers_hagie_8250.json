@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/hagie/8250/176782",
+    "source_url_id": "176782",
+    "source_url_model": "8250",
+    "source_url_make": "hagie",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:17.482322",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Hagie",
+    "equipment_model": "8250",
+    "equipment_spec": {
+        "Boom": {
+            "Number of Sections": "3"
+        },
+        "Engine": {
+            "Engine Make": "Onan diesel",
+            "Engine Model": "16347",
+            "Gross Power": "105 hp (78 kw)",
+            "Number of Cylinders": "6"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6 gal (23 l)",
+            "Fuel Capacity": "30 gal (114 l)",
+            "Hydraulic Fluid Capacity": "20 gal (76 l)",
+            "Solution Tank Capacity": "250 gal (946 l)"
+        }
+    }
+}

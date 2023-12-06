@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/yanmar/v12/30689656",
+    "source_url_id": "30689656",
+    "source_url_model": "v12",
+    "source_url_make": "yanmar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:54.147002",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Yanmar",
+    "equipment_model": "V12",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "13263.8 lbs (6,016 kg)",
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Bucket Width": "6.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Hinge Pin - Max Height": "11.6 ft (3 m)",
+            "Length with Bucket on Ground": "18 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.6 ft (1 m)",
+            "Wheelbase": "7.6 ft (2 m)",
+            "Width Over Tires": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "220 cu in (0 m)",
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 3.6 L4",
+            "Make": "Deutz",
+            "Model": "TCD3.6 L4",
+            "Net Power": "100 hp (75 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "20 gal/min (76 l/min)",
+            "Relief Valve Setting": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.9 gal (11 l)",
+            "Engine Oil Fluid Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "29 gal (110 l)",
+            "Hydraulic System Fluid Capacity": "25 gal (95 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15432.4 lbs (7,000 kg)",
+            "Rated Bucket Capacity": "1.57 cu yds (1 m)",
+            "Static Tipping Weight": "11023.2 lbs (5,000 kg)",
+            "Tire Size": "405/70 R 20 SPT 9 Dunlop",
+            "Turning Radius": "15.4 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.4 mph (35 kph)",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Weights": {
+            "Operational Weight": "15432 lbs (7,000 kg)"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/doosan/m200-v/30755276",
+    "source_url_id": "30755276",
+    "source_url_model": "m200-v",
+    "source_url_make": "doosan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:03.376233",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "M200-V",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "23132.9 lbs (10,493 kg)",
+            "Bucket Capacity - heaped": "2.4 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "12.3 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length with Bucket on Ground": "23.2 ft (7 m)",
+            "Reach at Max Lift and Dump": "9 ft (3 m)",
+            "Wheelbase": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "138.2 hp (103 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "68.7 gal (257 l)",
+            "Operating Weight": "24250.9 lbs (11,000 kg)",
+            "Static Tipping Weight": "18739.3 lbs (8,500 kg)",
+            "Tire Size": "17.5/25"
+        },
+        "Transmission": {
+            "Transmission Type": "ZF"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/374f/48236",
+    "source_url_id": "48236",
+    "source_url_model": "374f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:06.520984",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "374F",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "28.2 ft (9 m)",
+            "Max Reach Along Ground": "43.3 ft (13 m)"
+        },
+        "Engine": {
+            "Net Power": "472 hp (352 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "156881 lbs (71,161 kg)"
+        }
+    }
+}

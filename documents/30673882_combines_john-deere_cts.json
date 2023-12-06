@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/cts/30673882",
+    "source_url_id": "30673882",
+    "source_url_model": "cts",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:39.038756",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "CTS",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "6081 T",
+            "Number of Cylinders": "6",
+            "Power": "260 hp (194 kw)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "255.4 bu",
+            "Unloading Discharge Height": "13.9 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "140.1 gal (530 l)",
+            "Max Speed": "15.6 mph (24 kph)",
+            "Number of Gears": "3",
+            "Transmission Type": "Hydro"
+        },
+        "Threshing": {
+            "Rotor Diameter": "26 in (66 cm)"
+        },
+        "Tires": {
+            "Standard_Rear": "16,5/85-24"
+        }
+    }
+}

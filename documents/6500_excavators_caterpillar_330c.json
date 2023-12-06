@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/330c/6500",
+    "source_url_id": "6500",
+    "source_url_model": "330c",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:42.769533",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "330C",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.4 ft (10 m)",
+            "Max Digging Depth": "-20.4 ft (-6 m)",
+            "Max Loading Height": "20.9 ft (6 m)",
+            "Max Reach Along Ground": "32.8 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "-14.2 ft (-4 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "3.1 cu yds (2 m)",
+            "Minimum Bucket Capacity": "2.3 cu yds (2 m)",
+            "Reference Bucket Capacity": "3.1 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Length of Track on Ground": "17.7 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "537.1 cu in (0 m)",
+            "Engine Model": "C9 ATAAC",
+            "Net Power": "243 hp (181 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "7 A",
+            "Hydraulic Pump Flow Capacity": "9.8 gal/min (34 l/min)",
+            "Hydraulic System Relief Valve Pressure": "597.6 psi",
+            "Operating Voltage": "12 V",
+            "Operating Weight": "93586.3 lbs (42,450 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "74411.8 lbs (33,753 kg)",
+            "Max Travel Speed": "2.3 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "52",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "29.6 in (74 cm)",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

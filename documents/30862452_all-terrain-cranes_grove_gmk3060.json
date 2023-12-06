@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/gmk3060/30862452",
+    "source_url_id": "30862452",
+    "source_url_model": "gmk3060",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:25.920494",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "GMK3060",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "148 ft (45 m)",
+            "Max Lift Capacity": "138000 lbs (62,596 kg)",
+            "Min Height @ Max Raise Angle": "42 ft (13 m)",
+            "Number of Sections": "5"
+        },
+        "CARRIER ENGINE": {
+            "Aspiration": "Turbocharged",
+            "Emission Level": "EUROMOT/EPA/CARB Tier 4i",
+            "Gross Power": "355.4 hp (265 kw)",
+            "Make": "Grove",
+            "Max Torque": "1364.5 lbs/ft",
+            "Model": "OM501LA",
+            "Number of cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "28.5 ft (9 m)",
+            "Gradeability": "82%",
+            "Transport Height": "12.1 ft (4 m)",
+            "Transport Length": "37.5 ft (11 m)",
+            "Transport Width": "8.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10.9 ft (3 m)",
+            "Width w/ Outriggers Extended": "20.4 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Carrier Fuel Capacity": "79.3 gal (299 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "78206.8 lbs (35,474 kg)",
+            "Tire Size": "385/95 R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49.8 mph (79 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "ZF-AS TRONIC"
+        }
+    }
+}

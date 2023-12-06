@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/soil-compactors/hamm/h7i/30190499",
+    "source_url_id": "30190499",
+    "source_url_model": "h7i",
+    "source_url_make": "hamm",
+    "source_url_category": "soil-compactors",
+    "source_date_scraped": "2023-09-13 17:45:53.571741",
+    "equipment_category": "Soil Compactors",
+    "equipment_make": "Hamm",
+    "equipment_model": "H7I",
+    "equipment_spec": {
+        "Dimensions": {
+            "Angle of driving slope-Front": "38  \t\u00b0",
+            "Angle of driving slope-Rear": "42  \t\u00b0",
+            "Ground Clearance": "12.5 in (30 cm)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Loadover height": "9.6 ft (3 m)",
+            "Overall Length": "173.6 in (439 cm)",
+            "Turning Radius - Inside": "10.9 ft (3 m)",
+            "Wheelbase": "90.8 in (229 cm)",
+            "Width over cab": "72.6 in (183 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "28101.2 lbs (12,747 kg)",
+            "Centrifugal Force - Low": "21356.9 lbs (9,687 kg)",
+            "Drum Diameter": "47.9 in (119 cm)",
+            "Drum thickness": "1 in (3 cm)",
+            "Drum Type": "smooth",
+            "Drum Width": "66.2 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "132.8 lbs/in",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibration Frequency 2": "42 hz (2,520 vpm)"
+        },
+        "Engine": {
+            "Emissions Certification": "EU Stage IIIB / EPA Tier 4",
+            "Engine Make": "Kubota",
+            "Engine Model": "V3307-CR-T",
+            "Engine power@ISO 14396": "73.3 hp (54 kw)",
+            "Engine power@SAEJ1349": "73.3 hp (54 kw)",
+            "Exhaust Gas Recirculation (EGR)": "DOC-DPF",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "8774.4 lbs (3,980 kg)",
+            "Axle load - rear": "5643.9 lbs (2,560 kg)",
+            "Fuel Capacity": "32.5 gal (121 l)",
+            "Max Weight": "17725.2 lbs (8,040 kg)",
+            "Operating weight Cabin": "14418.3 lbs (6,540 kg)",
+            "Operating weight ROPS": "13933.3 lbs (6,320 kg)"
+        },
+        "Speeds": {
+            "Size of tyres, rear": "AW 14.9-24 8 TL",
+            "Speed -  transportation gear": "12 mph (19 kph)",
+            "Speed -  working gear": "6 mph (10 kph)"
+        },
+        "Steering System": {
+            "Oscillating angle": "10  \t\u00b0",
+            "Steering Method": "Articulated steering"
+        }
+    }
+}

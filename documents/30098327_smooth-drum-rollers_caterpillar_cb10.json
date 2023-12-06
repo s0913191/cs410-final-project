@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb10/30098327",
+    "source_url_id": "30098327",
+    "source_url_model": "cb10",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:34.470178",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB10",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter": "47 in (119 cm)",
+            "Height - Top of ROPS/FOPS": "117 in (297 cm)",
+            "Overall Length": "14.8 ft in (36 cm)",
+            "Overall Width": "6.1 ft (2 m)",
+            "Wheel Base": "10.9 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "67 in (170 cm)"
+        },
+        "Engine": {
+            "Engine Model": "Cat C4.4 with ACERT Technology",
+            "Gross Power": "131 hp (98 kw)"
+        },
+        "Operating Specifications": {
+            "Maximum Compaction Width": "73 in (185 cm)",
+            "Standard Compaction Width": "67 in (170 cm)",
+            "Static Linear Load": "160 lbs (73 kg)",
+            "Travel Speed - Maximum": "7.5 mph (11 kph)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank Capacity": "50 gal (189 l)",
+            "Water Spray Tank Capacity": "211 gal (799 l)"
+        },
+        "Vibratory System": {
+            "Centrifugal Force per Drum - Maximum": "28977 lbs (13,144 kg)",
+            "Centrifugal Force per Drum - Minimum": "6092 lbs (2,763 kg)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Selection": "Independent per drum, front only, rear only, both"
+        },
+        "Weights": {
+            "Maximum Operating Weight with Cab": "23171 lbs (10,510 kg)",
+            "Maximum Operating Weight with ROPS": "22564 lbs (10,235 kg)",
+            "Standard Operating Weight with Cab": "21407 lbs (9,710 kg)",
+            "Standard Operating Weight with ROPS": "20945 lbs (9,501 kg)"
+        }
+    }
+}

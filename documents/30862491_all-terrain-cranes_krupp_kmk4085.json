@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/krupp/kmk4085/30862491",
+    "source_url_id": "30862491",
+    "source_url_model": "kmk4085",
+    "source_url_make": "krupp",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:41.676937",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Krupp",
+    "equipment_model": "KMK4085",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "84  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "137 ft (42 m)",
+            "Max Lift Capacity": "170000 lbs (77,112 kg)",
+            "Max Working Radius": "110 ft (34 m)",
+            "Min Height @ Max Raise Angle": "47 ft (14 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.4 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "362.1 hp (270 kw)",
+            "Make": "Krupp",
+            "Max Torque": "1180.1 lbs/ft",
+            "Model": "OM 442 A diesel",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "34.7 ft (10 m)",
+            "Transport Height": "11.9 ft (3 m)",
+            "Transport Length": "44.4 ft (13 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13.4 ft (4 m)",
+            "Width w/ Outriggers Extended": "23.6 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Carrier Fuel Capacity": "100 gal (379 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "160000 lbs (72,576 kg)",
+            "Tire Size": "14.00R25",
+            "Upper Structure Fuel Capacity": "100 gal (379 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "43.1 mph (69 kph)",
+            "Max Speed - Reverse": "8.9 mph (13 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "ZF 5-special-automatic 5 HP 600"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Krupp"
+        }
+    }
+}

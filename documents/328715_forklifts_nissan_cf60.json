@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/nissan/cf60/328715",
+    "source_url_id": "328715",
+    "source_url_model": "cf60",
+    "source_url_make": "nissan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:37:15.379292",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Nissan",
+    "equipment_model": "CF60",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Hand",
+            "Service brake": "Drum and Shoe"
+        },
+        "Dimensions": {
+            "Angle of departure": "35  \t\u00b0",
+            "Approach Angle": "24  \t\u00b0",
+            "Counterweight Clearance": "3.9 ft (1 m)",
+            "Fork Length": "42.2 in (107 cm)",
+            "Fork Thickness": "2 in (5 cm)",
+            "Fork width": "5 in (13 cm)",
+            "Gradeability": "18%",
+            "Ground Clearance": "3.2 in (8 cm)",
+            "Height to Top of Overhead Guard": "6.9 ft (2 m)",
+            "Length to Fork Face": "8.1 ft (2 m)",
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "7 ft (2 m)",
+            "Overall Width": "3.7 ft (1 m)",
+            "Overhang Front": "1.5 ft (0 m)",
+            "Overhang Rear": "1.7 ft (0 m)",
+            "Right Angle Stack": "8.2 ft (2 m)",
+            "Turning Radius": "6.8 ft (2 m)",
+            "Wheelbase": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "151.8 cu in (0 m)",
+            "Engine Make": "Nissan",
+            "Engine Model": "K25",
+            "Model Name": "CF60",
+            "Power": "62.9 hp (46 kw)",
+            "Power Measured @": "2700 rpm",
+            "Torque": "138.7 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "104.3 ft/min",
+            "Load Capacity": "6000 lbs (2,722 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "98.4 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Drawbar Pull": "3009 lbs (1,365 kg)",
+            "Max Speed": "11.5 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "9610 lbs (4,359 kg)",
+            "Tire Type": "Cushion"
+        },
+        "Transmission": {
+            "Number of Forward / Reverse Speeds": "2-1",
+            "Steering": "Full Hydraulic",
+            "Transmission Type": "Automatic"
+        }
+    }
+}

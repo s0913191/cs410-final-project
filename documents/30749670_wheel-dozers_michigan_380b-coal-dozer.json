@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-dozers/michigan/380b-coal-dozer/30749670",
+    "source_url_id": "30749670",
+    "source_url_model": "380b-coal-dozer",
+    "source_url_make": "michigan",
+    "source_url_category": "wheel-dozers",
+    "source_date_scraped": "2023-09-13 16:41:25.618151",
+    "equipment_category": "Wheel Dozers",
+    "equipment_make": "Michigan",
+    "equipment_model": "380B Coal Dozer",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "VTA-28-C",
+            "Gross Power": "572 hp (427 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "131800 lbs (59,784 kg)",
+            "Tire Size": "33.25-35"
+        }
+    }
+}

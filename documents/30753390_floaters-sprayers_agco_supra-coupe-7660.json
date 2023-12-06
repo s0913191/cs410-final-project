@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/agco/supra-coupe-7660/30753390",
+    "source_url_id": "30753390",
+    "source_url_model": "supra-coupe-7660",
+    "source_url_make": "agco",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:05:44.799151",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Agco",
+    "equipment_model": "Supra-Coupe 7660",
+    "equipment_spec": {
+        "Boom": {
+            "Max Boom Width": "80 ft (24 m)",
+            "Min Boom Width": "60 ft (18 m)",
+            "Nozzle Spacing": "20 in (51 cm)",
+            "Number of Sections": "5"
+        },
+        "Dimensions": {
+            "Overall Length": "28.3 in (71 cm)",
+            "Transport Height": "12.1 ft (4 m)",
+            "Transport Width": "9.7 ft (3 m)",
+            "Wheelbase": "13.1 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Wastegated turbocharger",
+            "Displacement": "365 cu in (0 m)",
+            "Engine Model": "1106D",
+            "Gross Power": "174 hp (130 kw)",
+            "Gross Torque": "513 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "17800 lbs (8,074 kg)",
+            "Fuel Capacity": "65 gal (246 l)",
+            "Solution Tank Capacity": "725 gal (2,744 l)"
+        },
+        "Transmission": {
+            "Max Speed": "27.5 mph (43 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "CAT PG 115 fully electronic power shift with torque converter"
+        }
+    }
+}

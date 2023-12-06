@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/samsung/sl250-2/30708205",
+    "source_url_id": "30708205",
+    "source_url_model": "sl250-2",
+    "source_url_make": "samsung",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:05.928284",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Samsung",
+    "equipment_model": "SL250-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "41000 lbs (18,598 kg)",
+            "Bucket Capacity - heaped": "4.9 cu yds (3 m)",
+            "Bucket Capacity - struck": "4.2 cu yds (3 m)",
+            "Bucket Width": "10.2 ft (3 m)",
+            "Dump Clearance at Max Raise": "10 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Hinge Pin - Max Height": "13.6 ft (4 m)",
+            "Length with Bucket on Ground": "27.5 ft (8 m)",
+            "Reach at Max Lift and Dump": "4.1 ft (1 m)",
+            "Wheelbase": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "610.3 cu in (0 m)",
+            "Engine Model": "LTA10-C",
+            "Net Power": "256 hp (191 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3.6 sec",
+            "Pump Flow Capacity": "97.8 gal/min (367 l/min)",
+            "Pump Type": "vane type",
+            "Raise Time": "6.2 sec",
+            "Relief Valve Setting": "2840 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "17.4 gal (64 l)",
+            "Fuel Capacity": "96.2 gal (363 l)",
+            "Hydraulic System Fluid Capacity": "67.4 gal (254 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "45966.4 lbs (20,850 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Static Tipping Weight": "37456.6 lbs (16,990 kg)",
+            "Tire Size": "23.5x25",
+            "Transmission Fluid Capacity": "8.5 gal (30 l)",
+            "Turning Radius": "19.1 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.3 mph (35 kph)",
+            "Max Speed - Reverse": "15.4 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "countershaft"
+        }
+    }
+}

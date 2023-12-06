@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/goldoni/star-75-quadrifoglio-high/30751290",
+    "source_url_id": "30751290",
+    "source_url_model": "star-75-quadrifoglio-high",
+    "source_url_make": "goldoni",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:27.433944",
+    "equipment_category": "Tractors",
+    "equipment_make": "Goldoni",
+    "equipment_model": "Star 75 Quadrifoglio High",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.9 in (36 cm)",
+            "Height - Top of Cab": "7.3 ft (2 m)",
+            "Overall Length": "10.9 in (25 cm)",
+            "Tire Size": "Front 280/70x18\"",
+            "Wheelbase": "6.4 ft (2 m)",
+            "Width Outside Frame": "Front 280/70x18 ft (0 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "179.5 cu in (0 m)",
+            "Net Power": "71.1 hp (53 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm",
+            "Torque Rise": "13%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "9.3 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Operating Weight": "5511.6 lbs (2,500 kg)",
+            "Turning Radius": "9.6 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Transmission Type": "40 speeds, a lever can be used to select the 8+8 transmission with synchornized reverse shuttle or the 16+8 transmission with synchronized Dual power"
+        }
+    }
+}

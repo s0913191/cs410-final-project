@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/sm3884e/38921",
+    "source_url_id": "38921",
+    "source_url_model": "sm3884e",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:11.331604",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "SM3884E",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,750 lbs (794 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "SL/32 ft (0 m)",
+            "Stowed Height": "7 ft (2 m)",
+            "Stowed Width": "7 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "10x16.5"
+        },
+        "Transmission": {
+            "4WD": "yes"
+        }
+    }
+}

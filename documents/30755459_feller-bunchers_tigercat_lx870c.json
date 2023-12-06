@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/feller-bunchers/tigercat/lx870c/30755459",
+    "source_url_id": "30755459",
+    "source_url_model": "lx870c",
+    "source_url_make": "tigercat",
+    "source_url_category": "feller-bunchers",
+    "source_date_scraped": "2023-09-13 17:50:45.738968",
+    "equipment_category": "Feller Bunchers",
+    "equipment_make": "Tigercat",
+    "equipment_model": "LX870C",
+    "equipment_spec": {
+        "Boom": {
+            "Bare Pin Lift at Max Reach": "17306.3 lbs (7,850 kg)",
+            "Max Cut Radius": "27.8 ft (8 m)",
+            "Min Cut Radius": "15.8 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.4 in (5 cm)",
+            "Height - Top of Cab": "12.2 ft (4 m)",
+            "Overall Width": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSL9",
+            "Gross Power": "300 hp (224 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "110  A",
+            "Fuel Capacity": "256.3 gal (969 l)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/o Attachment": "77000 lbs (34,927 kg)"
+        },
+        "Undercarriage": {
+            "Shoe Size": "24.1 in (61 cm)",
+            "Track Pitch": "8.5 in (20 cm)"
+        },
+        "Upperstructure Leveling": {
+            "Front": "20  \t\u00b0",
+            "Rear": "7  \t\u00b0",
+            "Side": "15  \t\u00b0"
+        }
+    }
+}

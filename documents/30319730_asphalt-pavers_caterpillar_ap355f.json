@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/ap355f/30319730",
+    "source_url_id": "30319730",
+    "source_url_model": "ap355f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:59.983027",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "AP355F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "134 lbs (61 kg)",
+            "Paving Speed": "210 ft/min",
+            "Paving Width - max": "2.3 - 15.10 ft (1 - 5 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16094 lbs (7,300 kg)"
+        }
+    }
+}

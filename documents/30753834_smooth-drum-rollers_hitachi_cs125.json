@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hitachi/cs125/30753834",
+    "source_url_id": "30753834",
+    "source_url_model": "cs125",
+    "source_url_make": "hitachi",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:19.877466",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hitachi",
+    "equipment_model": "CS125",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "5.4 ft (2 m)",
+            "Drum Diameter - Rear": "5.4 ft (2 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height": "8.6 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "10.4 ft (3 m)",
+            "Overall Length": "16.6 in (41 cm)",
+            "Overall Width": "6.9 ft (2 m)",
+            "Wheelbase": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "186.7 cu in (0 m)",
+            "Engine Model": "AA-4JG1T",
+            "Net Power": "75 hp (56 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2150 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Max Speed": "10.3 mph (16 kph)",
+            "Spray Water Capacity": "177 gal (670 l)"
+        },
+        "Weights": {
+            "Max Static Linear Load - Drive Drum": "254.8 lbs/in",
+            "Max Static Linear Load - guide drum": "256 lbs/in",
+            "Operating Weight - max ballast": "31063.2 lbs (14,090 kg)",
+            "Operating Weight - standard": "22134.5 lbs (10,040 kg)"
+        }
+    }
+}

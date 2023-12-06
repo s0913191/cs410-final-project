@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/h255s/30748419",
+    "source_url_id": "30748419",
+    "source_url_model": "h255s",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:04.667341",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "H255S",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "48.3 ft (15 m)",
+            "Max Digging Depth": "28.6 ft (9 m)",
+            "Max Loading Height": "31.2 ft (9 m)",
+            "Max Reach Along Ground": "49.6 ft (15 m)",
+            "Max Vertical Wall Digging Depth": "6.6 ft (2 m)",
+            "Shipping Height of Unit": "29.9 ft (9 m)",
+            "Shipping Length of Unit": "54.2 ft (16 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "18.4 cu yds (14 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3 ft (1 m)",
+            "Height - Top of Cab": "25.9 ft (8 m)",
+            "Length of Track on Ground": "19.7 ft (6 m)",
+            "Length of Tracks": "25.8 ft (8 m)",
+            "Removal Counterweight Clearance": "9.2 ft (3 m)",
+            "Tail Swing Radius": "21.3 ft (6 m)",
+            "Upper Structure Ground Clearance": "8.9 ft (2 m)",
+            "Width to Outside of Tracks": "18.4 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "2288.4 cu in (0 m)",
+            "Engine Model": "K1500E",
+            "Gross Power": "1207 hp (900 kw)",
+            "Net Power": "1207 hp (900 kw)",
+            "Number of Cylinders": "12",
+            "Power Measured @": "1800 rpm"
+        },
+        "Loading Shovel": {
+            "Height to Top of Boom - shovel": "24.3 ft (7 m)",
+            "Max Cutting Height": "47.6 ft (14 m)",
+            "Max Dig Depth": "12.2 ft (4 m)",
+            "Max Dig Reach": "44 ft (13 m)",
+            "Max Dump Height": "30.9 ft (9 m)",
+            "Overall Length - shovel": "43.8 ft (13 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "977.5 gal (3,698 l)",
+            "Hydraulic Pump Flow Capacity": "713.3 gal/min (2,699 l/min)",
+            "Hydraulic System Fluid Capacity": "766.1 gal (2,899 l)",
+            "Hydraulic System Relief Valve Pressure": "4495 psi",
+            "Operating Weight": "529109.5 lbs (240,002 kg)",
+            "Swing Speed": "4.6 rpm"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "4.6 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "32 psi",
+            "Loading Shovel Ground Pressure": "32 psi",
+            "Loading Shovel Operating Weight": "529109.4 lbs (240,002 kg)",
+            "Loading Shovel Shoe Width": "31.5 in (79 cm)",
+            "Max Travel Speed": "1.5 mph (2 kph)",
+            "Shoe Size": "31.5 in (79 cm)",
+            "Track Gauge": "15.8 ft (5 m)"
+        }
+    }
+}

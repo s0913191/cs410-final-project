@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/asv/pt-100/30754632",
+    "source_url_id": "30754632",
+    "source_url_model": "pt-100",
+    "source_url_make": "asv",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:37:59.663611",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "ASV",
+    "equipment_model": "PT-100",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14 in (36 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length - with Bucket": "12.4 ft (4 m)",
+            "Length - without Bucket": "9.8 ft (3 m)",
+            "Width Over Tracks": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "268 cu in (0 m)",
+            "Engine Model": "1104C-44LT",
+            "Gross Power": "99.5 hp (74 kw)",
+            "Peak Torque": "304 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "38 gal/min (144 l/min)",
+            "Relief Valve Pressure": "3300 psi"
+        },
+        "Loader": {
+            "Operating Load": "3800 lbs (1,724 kg)",
+            "Tipping Angle": "7600  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.2 gal (11 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "26 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "20 gal (76 l)",
+            "Max Speed - high range": "11.5 mph (18 kph)",
+            "Max Speed - low range": "6 mph (10 kph)",
+            "Operating Weight": "10150 lbs (4,604 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2610 cu in (0 m)",
+            "Ground Pressure": "3.8 psi",
+            "Length of Track on Ground": "6.1 ft (2 m)",
+            "Number of Track Rollers per Side": "21",
+            "Width of Track": "18 in (46 cm)"
+        }
+    }
+}

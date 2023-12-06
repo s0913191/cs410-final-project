@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/mower-conditioners-windrowers/challenger/sp185b/165",
+    "source_url_id": "165",
+    "source_url_model": "sp185b",
+    "source_url_make": "challenger",
+    "source_url_category": "mower-conditioners-windrowers",
+    "source_date_scraped": "2023-09-13 17:07:54.942053",
+    "equipment_category": "Mower Conditioners / Windrowers",
+    "equipment_make": "Challenger",
+    "equipment_model": "SP185B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Wheel Tread Width": "131.9 in (333 cm)",
+            "Ground Clearance": "41.1 in (104 cm)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Length w/ Header": "21.4 ft (6 m)",
+            "Rear Wheel tread Width - max": "120 in (305 cm)",
+            "Rear Wheel Tread Width - min": "84.5 in (213 cm)",
+            "Wheelbase": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "359 cu in (0 m)",
+            "Number of Cylinders": "6",
+            "Power": "185 hp (138 kw)"
+        },
+        "Operating Specifications": {
+            "Front Tire Size": "23.1 x 26 turf tread",
+            "Fuel Capacity": "80 gal (303 l)",
+            "Operating Weight w/o Attachment": "9430 lbs (4,277 kg)",
+            "Rear Tire Size": "14L x 16.1"
+        },
+        "Transmission": {
+            "Final Drive Type": "Direct Drive Planetary",
+            "Max Speed": "16 mph (26 kph)",
+            "Transmission Type": "Hydrostatic - 2 speed"
+        }
+    }
+}

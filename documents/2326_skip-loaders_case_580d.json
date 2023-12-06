@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skip-loaders/case/580d/2326",
+    "source_url_id": "2326",
+    "source_url_model": "580d",
+    "source_url_make": "case",
+    "source_url_category": "skip-loaders",
+    "source_date_scraped": "2023-09-13 16:41:00.242984",
+    "equipment_category": "Skip Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "580D",
+    "equipment_spec": {
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "207.5 cu in (0 m)",
+            "Engine Make": "J.I. Case",
+            "Engine Model": "G207D",
+            "Gross Power": "60 hp (45 kw)",
+            "Net Max Torque": "160 lbs/ft",
+            "Net Power": "55 hp (41 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "4.2 in (10 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "42  A",
+            "Cooling System Fluid Capacity": "3.3 gal (11 l)",
+            "Fuel Capacity": "22 gal (83 l)",
+            "Hydraulic System Fluid Capacity": "12.5 gal (45 l)",
+            "Oil System Fluid Capacity": "1.8 gal (4 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size Front - 2wd / 4wd": "7.50x16"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9x24"
+        },
+        "Transmission": {
+            "Max Speed": "21.1 mph (34 kph)",
+            "Max Speed - Reverse": "18.9 mph (29 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

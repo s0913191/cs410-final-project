@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t8320/30437511",
+    "source_url_id": "30437511",
+    "source_url_model": "t8320",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:01.281622",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T8.320",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "250 hp (186 kw)"
+        },
+        "Production": {
+            "Series": "T8 Series",
+            "Years Manufactured": "2015 -"
+        }
+    }
+}

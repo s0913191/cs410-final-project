@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/mx4800hstrc/30751702",
+    "source_url_id": "30751702",
+    "source_url_model": "mx4800hstrc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:18.354396",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "MX4800HSTRC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Wheel Tread Width": "52.2 in (132 cm)",
+            "Ground Clearance": "15.2 in (38 cm)",
+            "Height - Top of Cab": "8 ft (2 m)",
+            "Overall Length": "125.2 in (318 cm)",
+            "Rear Wheel Tread Width - min": "58.7 in (147 cm)",
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "45 A",
+            "Displacement": "148.6 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V2403CR",
+            "Gross Power": "49.3 hp (37 kw)",
+            "Model Name": "MX4800HSTRC",
+            "Net Power": "46.9 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "PTO Power": "39 hp (29 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "Maximum 3",
+            "Pump Flow Capacity": "9.5 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2314.9 lbs (1,050 kg)",
+            "Fuel Capacity": "13.5 gal (49 l)",
+            "Hydraulic Pump Flow Capacity": "9.5 gal/min (34 l/min)",
+            "Operating Weight": "3730.3 lbs (1,692 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "540 rpm"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8"
+        }
+    }
+}

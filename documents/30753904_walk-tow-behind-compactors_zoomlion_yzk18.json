@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/walk-tow-behind-compactors/zoomlion/yzk18/30753904",
+    "source_url_id": "30753904",
+    "source_url_model": "yzk18",
+    "source_url_make": "zoomlion",
+    "source_url_category": "walk-tow-behind-compactors",
+    "source_date_scraped": "2023-09-13 17:46:19.645582",
+    "equipment_category": "Walk / Tow Behind Compactors",
+    "equipment_make": "Zoomlion",
+    "equipment_model": "YZK18",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Overall Length w/o Blade": "20.4 ft (6 m)",
+            "Width Over Tires": "7.9 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "60698.5 lbs (27,532 kg)",
+            "Centrifugal Force - Low": "83179.4 lbs (37,730 kg)",
+            "Drum Diameter": "63 in (160 cm)",
+            "Drum Width": "84.7 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibratory Frequency 2": "35 hz (2,100 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BF6M1013",
+            "Gross Power": "178.4 hp (133 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "41887.9 lbs (19,000 kg)"
+        },
+        "Tires": {
+            "Tires": "20.5-25"
+        }
+    }
+}

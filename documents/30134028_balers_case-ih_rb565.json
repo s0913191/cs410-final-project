@@ -1,0 +1,76 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/case-ih/rb565/30134028",
+    "source_url_id": "30134028",
+    "source_url_model": "rb565",
+    "source_url_make": "case-ih",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:59:01.878160",
+    "equipment_category": "Balers",
+    "equipment_make": "Case Ih",
+    "equipment_model": "RB565",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Bale chamber": "Variable chamber",
+            "Bale ejector": "Bale ramp spring-loaded; hydraulic opt.",
+            "Belt description": "Premium Laced std; Endless opt.",
+            "Forming mechanism_Belts": "8",
+            "Forming mechanism_Rolls": "6",
+            "Tensioning method": "Springs and two hydraulic cylinders"
+        },
+        "Bale Size": {
+            "Bale Diameter - max": "6.1 ft (2 m)",
+            "Bale Diameter - min": "3 ft (1 m)",
+            "Bale Weight - max": "2200.3 lbs (998 kg)",
+            "Bale Weight - min": "500.5 lbs (227 kg)",
+            "Bale Width": "5.2 ft (2 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "6",
+            "Number of Tine Rows": "6",
+            "Number of Tines": "72",
+            "Optional pickup working width": "90 in (229 cm)",
+            "Outer tine-to-tine width, optional": "81.5 in (206 cm)",
+            "Outer tine-to-tine width, standard": "59.9 in (150 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Pickup gauge wheel": "Two std; two castor type opt",
+            "Pickup lift": "Hydraulic std,manual optional.",
+            "Pickup working width": "68.2 in (173 cm)",
+            "Tine spacing": "2.7 in (5 cm)",
+            "Tine to Tine Width": "3.7 ft (1 m)",
+            "Windguard description": "Tine style std; Roller style opt."
+        },
+        "Dimensions": {
+            "Overall Height": "9.6 ft (3 m)",
+            "Overall Length": "15.8 ft (5 m)",
+            "Overall Width": "10.7 ft (3 m)"
+        },
+        "Engine": {
+            "Number of hydraulic remote circuits": "1 or 2",
+            "Tractor power": "80.5 hp (60 kw)"
+        },
+        "Power Take-Off (PTO)": {
+            "Drive": "Multiplate ship clutch",
+            "PTO speed": "1000 rpm"
+        },
+        "Sales Literature": {
+            "Document Date": "7/1/2013",
+            "Document Number": "HF-5150-13",
+            "Literature Date": "42430",
+            "Literature Number": "CIH03281601"
+        },
+        "Tires": {
+            "Option": "21.5Lx16.1, 10PR",
+            "Standard": "18L-16.1SL 10PR"
+        },
+        "Wrapping System": {
+            "Netwrap, meshwrap feature": "Netwrap available",
+            "Twine Ball Capacity": "6 or 8 active, plus up to 4 spare",
+            "Twine Type": "Automatic, electric"
+        },
+        "Years of Manufacture": {
+            "First Entry Date": "8/27/2013",
+            "Manufacturing Status": "Current",
+            "Revision Date": "9/29/2013- 4/30/2017"
+        }
+    }
+}

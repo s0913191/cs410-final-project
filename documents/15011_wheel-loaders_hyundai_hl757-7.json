@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl757-7/15011",
+    "source_url_id": "15011",
+    "source_url_model": "hl757-7",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:12.568919",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL757-7",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "28595.7 lbs (12,971 kg)",
+            "Bucket Capacity - heaped": "3.2 cu yds (2 m)",
+            "Bucket Width": "9 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Length with Bucket on Ground": "24.5 ft (7 m)",
+            "Reach at Max Lift and Dump": "5.3 ft (2 m)",
+            "Wheelbase": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB5-9",
+            "Gross Power": "173 hp (129 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "78 gal (295 l)",
+            "Operating Weight": "30423.8 lbs (13,800 kg)",
+            "Static Tipping Weight": "24295 lbs (11,020 kg)",
+            "Tire Size": "20.5-25 L3"
+        },
+        "Transmission": {
+            "Transmission Type": "full automatic powershift torque converter"
+        }
+    }
+}

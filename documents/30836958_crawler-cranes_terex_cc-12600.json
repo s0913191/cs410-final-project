@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/cc-12600/30836958",
+    "source_url_id": "30836958",
+    "source_url_model": "cc-12600",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:05.108919",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "CC 12600",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "453 ft (138 m)",
+            "Max Lift Capacity": "1750 t (1,587,574 kg)"
+        }
+    }
+}

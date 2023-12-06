@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/link-belt/hc-278h-ii/30836099",
+    "source_url_id": "30836099",
+    "source_url_model": "hc-278h-ii",
+    "source_url_make": "link-belt",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:56.921173",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HC-278H II",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "330 ft (101 m)",
+            "Max Lift Capacity": "300 t (272,156 kg)"
+        }
+    }
+}

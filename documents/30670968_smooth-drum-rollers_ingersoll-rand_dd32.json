@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd32/30670968",
+    "source_url_id": "30670968",
+    "source_url_model": "dd32",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:41.409058",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD32",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "117 in (297 cm)"
+        },
+        "Drum": {
+            "Drum Width": "52 in (132 cm)",
+            "Vibration Frequency": "4000 hz (240,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "57 in (145 cm)"
+        }
+    }
+}

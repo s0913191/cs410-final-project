@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/international/412b/30746173",
+    "source_url_id": "30746173",
+    "source_url_model": "412b",
+    "source_url_make": "international",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:47.434558",
+    "equipment_category": "Scrapers",
+    "equipment_make": "International",
+    "equipment_model": "412B",
+    "equipment_spec": {
+        "Bowl": {
+            "Rated Payload": "26199.8 lbs (11,884 kg)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Overall Length": "32.6 ft (10 m)",
+            "Overall Width": "8.1 ft (2 m)",
+            "Wheelbase": "19.8 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "11.8 gal (42 l)",
+            "Fuel Capacity": "70.1 gal (265 l)",
+            "Hydraulic System Fluid Capacity": "21.6 gal (79 l)",
+            "Operating Voltage": "24 V V",
+            "Transmission Fluid Capacity": "7.1 gal (27 l)"
+        },
+        "Tractor Engine": {
+            "Displacement": "466 cu in (0 m)",
+            "Gross Power": "180 hp (134 kw)",
+            "Make": "International",
+            "Model": "DT-466B",
+            "Net Power": "168 hp (125 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "1"
+        }
+    }
+}

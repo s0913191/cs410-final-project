@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx235lcr-5/9661307",
+    "source_url_id": "9661307",
+    "source_url_model": "dx235lcr-5",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:40.632877",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX235LCR-5",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "21.9 ft (6 m)",
+            "Max Digging Height": "35.5 ft (11 m)",
+            "Max Digging Reach": "32.3 ft (10 m)",
+            "Max Loading Height": "26.1 ft (8 m)",
+            "Max Reach Along Ground": "31.6 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.5 ft (5 m)",
+            "Minimum swing radius": "91 in (231 cm)",
+            "Shipping Height of Unit": "9.5 ft (3 m)",
+            "Shipping Length of Unit": "29.5 ft (9 m)"
+        },
+        "Dimensions": {
+            "Cab width": "3353.1 ft (1,022 m)",
+            "Removal Counterweight Clearance": "3.5 ft (1 m)",
+            "Tail Swing Radius": "5.6 ft (2 m)",
+            "Track length": "175 in (445 cm)",
+            "Track shoe width": "2.7 ft (1 m)",
+            "Track width": "7841.3 ft (2,390 m)",
+            "Undercarriage Width": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Alternator": "85 A",
+            "Displacement": "5.9 cu in (0 m)",
+            "Engine Make": "Doosan",
+            "Engine Model": "DL06P",
+            "Gross Power": "189 hp (141 kw)",
+            "Max Torque": "593 lbs/ft",
+            "Net Power": "181 hp (135 kw)",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Main Pump": "59 gal/min",
+            "Pilotpump-Gear Design": "6.9 gal/min",
+            "Relief Pressure - Boost": "5263 psi",
+            "Relief Pressure -Normal": "4978 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.2 gal (30 l)",
+            "DEF tank capacity": "9.3 gal (34 l)",
+            "Engine Oil Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "81.9 gal (307 l)",
+            "Hydraulic System Fluid Capacity": "60.8 gal (227 l)",
+            "Hydraulic Tank": "50.2 gal (189 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "56019 lbs (25,410 kg)",
+            "Swing Drive Fluid Capacity": "1.4 gal (4 l)",
+            "Travel speed, high range": "3.7 mph (5 kph)",
+            "Travel speed, low range": "2 mph (3 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "64375 lbs (29,200 kg)",
+            "Number of Lower Rollers": "2",
+            "Number of Shoes per Side": "49",
+            "Number of Upper Rollers": "2"
+        }
+    }
+}

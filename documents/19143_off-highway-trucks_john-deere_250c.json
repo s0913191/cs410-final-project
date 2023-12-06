@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/john-deere/250c/19143",
+    "source_url_id": "19143",
+    "source_url_model": "250c",
+    "source_url_make": "john-deere",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:54.798922",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "John Deere",
+    "equipment_model": "250C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "1.9 ft (0 m)",
+            "Dump Height": "19 ft (6 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Overall Height": "11.1 ft (3 m)",
+            "Overall Length": "30.1 ft (9 m)",
+            "Overall Width": "9 ft (3 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "18 cu yds (14 m)",
+            "Capacity - Struck": "15 cu yds (11 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "7 sec",
+            "Raise Time": "14 sec",
+            "Rated Payload": "50706 lbs (23,000 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and aftercooled",
+            "Displacement": "363 cu in (0 m)",
+            "Engine Model": "OM366LA",
+            "Gross Power": "247 hp (184 kw)",
+            "Max Torque": "592 lbs/ft",
+            "Net Power": "237 hp (177 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "12.4 gal (45 l)",
+            "Engine Oil Capacity": "5.3 gal (19 l)",
+            "Fuel Capacity": "57 gal (216 l)",
+            "Hydraulic System Fluid Capacity": "21 gal (79 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "23.5R25",
+            "Transmission Fluid Capacity": "4.8 gal (15 l)"
+        },
+        "Transmission": {
+            "Max Speed": "30 mph (48 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison MD3560P automatic planetary, hydraulically actuated multiple-disc clutches, electronic control, hydrodynamic torque converter with lock-up, built-in PTO drive"
+        },
+        "Weights": {
+            "Center Axle - empty": "9224 lbs (4,184 kg)",
+            "Center Axle - loaded": "29463 lbs (13,364 kg)",
+            "Front Axle - empty": "18232 lbs (8,270 kg)",
+            "Front Axle - loaded": "28462 lbs (12,910 kg)",
+            "Rear Axle - empty": "8893 lbs (4,034 kg)",
+            "Rear Axle - loaded": "29132 lbs (13,214 kg)",
+            "Total Empty": "36350 lbs (16,488 kg)",
+            "Total Loaded": "87056 lbs (39,488 kg)"
+        }
+    }
+}

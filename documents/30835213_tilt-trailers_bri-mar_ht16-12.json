@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/bri-mar/ht16-12/30835213",
+    "source_url_id": "30835213",
+    "source_url_model": "ht16-12",
+    "source_url_make": "bri-mar",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:38.281545",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "HT16-12",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x16 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "3210 lbs (1,456 kg)",
+            "Weight Capacity": "8790 lbs (3,987 kg)"
+        }
+    }
+}

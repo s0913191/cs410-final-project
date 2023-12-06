@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hd605-5/21391",
+    "source_url_id": "21391",
+    "source_url_model": "hd605-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:24.720153",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HD605-5",
+    "equipment_spec": {
+        "Dump": {
+            "Load Capacity - heaped": "52.4 cu yds (40 m)",
+            "Load Capacity - Struck": "38 cu yds (29 m)",
+            "Raise Time": "11.5 sec",
+            "Rated Payload": "126000 lbs (57,153 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "1412.7 cu in (0 m)",
+            "Engine Model": "SAA6D170E",
+            "Gross Power": "739 hp (551 kw)",
+            "Net Power": "715 hp (533 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Rated Engine Speed": "25.1 rpm",
+            "Torque Measured @": "Turbocharged rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "full-automatic",
+            "Cooling System Fluid Capacity": "45.2 gal (170 l)",
+            "Diff and Final Drive Fluid Capacity": "33.5 gal (125 l)",
+            "Engine Oil Capacity": "13.8 gal (49 l)",
+            "Fuel Capacity": "206.1 gal (780 l)",
+            "Hydraulic System Fluid Capacity": "25.1 gal (95 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Tire Size": "24.00R35"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "126000 gal (476,910 l)"
+        },
+        "Transmission": {
+            "Max Speed": "43.5 mph (69 kph)",
+            "Number of Gears - Forward": "7",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "full-automatic"
+        },
+        "Weights": {
+            "Empty Weight": "105436.1 lbs (47,826 kg)",
+            "Loaded Weight": "238264.7 lbs (108,076 kg)",
+            "Weight Distribution Front - empty": "45%",
+            "Weight Distribution Front - loaded": "32%",
+            "Weight Distribution Rear - empty": "55%",
+            "Weight Distribution Rear - loaded": "68%"
+        }
+    }
+}

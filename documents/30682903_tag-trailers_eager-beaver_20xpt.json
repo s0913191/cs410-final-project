@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/eager-beaver/20xpt/30682903",
+    "source_url_id": "30682903",
+    "source_url_model": "20xpt",
+    "source_url_make": "eager-beaver",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:04.555106",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Eager Beaver",
+    "equipment_model": "20XPT",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "25x8.5 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "8380 lbs (3,801 kg)",
+            "Weight Capacity": "40000 lbs (18,144 kg)"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/furukawa/fd40pl-1/30750716",
+    "source_url_id": "30750716",
+    "source_url_model": "fd40pl-1",
+    "source_url_make": "furukawa",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:16.967259",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Furukawa",
+    "equipment_model": "FD40PL-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Length of Track on Ground": "6.2 ft (2 m)",
+            "Length w/ Blade": "11.6 ft (3 m)",
+            "Length w/o Blade": "8.6 ft (2 m)",
+            "Width Over Tracks": "7.2 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "186.7 cu in (0 m)",
+            "Engine Model": "A-4JG2",
+            "Gross Power": "40 hp (30 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "9744.5 lbs (4,420 kg)"
+        },
+        "Standard Blade": {
+            "Height": "23.5 in (58 cm)",
+            "Width": "8.2 ft (2 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "DD"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "4.9 ft (1 m)",
+            "Track Pitch": "5.4 in (13 cm)"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/850m-wt/30760424",
+    "source_url_id": "30760424",
+    "source_url_model": "850m-wt",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:51.067670",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "850M WT",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Case",
+            "Model": "F4HFE413P Tier IV Interim",
+            "Net Power": "112 hp (84 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "22330 lbs (10,129 kg)"
+        }
+    }
+}

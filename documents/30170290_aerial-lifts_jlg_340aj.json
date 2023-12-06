@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/340aj/30170290",
+    "source_url_id": "30170290",
+    "source_url_model": "340aj",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:35.178004",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "340AJ",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10 in (25 cm)",
+            "Horizontal Outreach": "19.2 ft (6 m)",
+            "Overall Height - mast lowered": "6.7 ft (2 m)",
+            "Overall Length": "18.2 ft in (46 cm)",
+            "Overall length": "18.2 in (46 cm)",
+            "Overall Width": "6.4 ft (2 m)",
+            "Platform Dimension A": "2.6 ft (1 m)",
+            "Platform Dimension B": "5 ft (2 m)",
+            "Tailswing Radius": "0.2 ft (0 m)",
+            "Turning Radius": "5 ft (2 m)",
+            "Up and Over Height": "17 ft (5 m)"
+        },
+        "Engine": {
+            "Diesel Engine Power": "24.8 hp (18 kw)",
+            "Diesel Engine Type": "Kubota D1105 24.8",
+            "Dual Fuel Engine Power": "28.7 hp (21 kw)",
+            "Dual Fuel Engine Type": "PSI/GM",
+            "Maximum Ground Bearing Pressure": "151 psi",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Axle Oscillation": "0.5 ft (0 m)",
+            "Drive Speed": "3.2 mph (5 kph)",
+            "Fuel Capacity": "13 gal (49 l)",
+            "Gradeability": "45%",
+            "Hydraulic System Fluid Capacity": "20.6 gal (76 l)",
+            "Operating Weight": "9700 lbs (4,400 kg)",
+            "Tire Size": "265/50020 Lug Tread"
+        },
+        "Platform": {
+            "Platform Capacity - Unrestricted": "500 lbs (227 kg)",
+            "Platform Railing Height": "33.1 ft (10 m)"
+        },
+        "Swing System": {
+            "Swing": "355  \t\u00b0",
+            "Swing Type": "Non-Continuous"
+        }
+    }
+}

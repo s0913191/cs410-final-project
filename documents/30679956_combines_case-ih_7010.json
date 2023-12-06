@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/case-ih/7010/30679956",
+    "source_url_id": "30679956",
+    "source_url_model": "7010",
+    "source_url_make": "case-ih",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:01:44.075056",
+    "equipment_category": "Combines",
+    "equipment_make": "Case Ih",
+    "equipment_model": "7010",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1150 rpm",
+            "Cleaning Fan Speed - Low": "300 rpm",
+            "Self Leveling?": "Yes",
+            "Total Cleaning Area": "8370 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "12.5 ft (4 m)",
+            "Wheelbase": "12.2 ft (4 m)",
+            "Width Over Tires": "13.1 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "549.3 cu in (0 m)",
+            "Power": "350 hp (261 kw)",
+            "Power Boost Power": "390 hp (291 kw)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "315 bu",
+            "Unloading Auger Length": "21 ft (6 m)",
+            "Unloading Speed": "3.2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "264 gal (999 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "34500 lbs (15,649 kg)",
+            "Transmission Type": "Hydrostatic drive"
+        },
+        "Threshing": {
+            "Rotor Diameter": "30 in (76 cm)",
+            "Rotor Speed - High": "1180 rpm",
+            "Rotor Speed - Low": "220 rpm"
+        }
+    }
+}

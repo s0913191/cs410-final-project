@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/z-80and-or60-2ws/30758309",
+    "source_url_id": "30758309",
+    "source_url_model": "z-80and-or60-2ws",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:36.045724",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "Z-80/60 2WS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.9 in (28 cm)",
+            "Overall Height - mast lowered": "9.9 ft (3 m)",
+            "Overall Length": "37 in (94 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Turning Radius": "24.6 ft (7 m)",
+            "Wheelbase": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "TD 2011 L04i",
+            "Fuel Type": "Diesel",
+            "Gross Power": "78 hp (58 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "34.9 gal (129 l)",
+            "Hydraulic System Fluid Capacity": "45 gal (170 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "35900.1 lbs (16,284 kg)",
+            "Tire Size": "18-625 NHS"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "60.1 ft (18 m)",
+            "Max Platform Height": "78 ft (24 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "84.6 ft (26 m)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "35.9 in (89 cm)",
+            "Platform Rotation": "160  \t\u00b0"
+        }
+    }
+}

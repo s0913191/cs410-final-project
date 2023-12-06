@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/330lrt/30758127",
+    "source_url_id": "30758127",
+    "source_url_model": "330lrt",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:33.932958",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "330LRT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 in (3 cm)",
+            "Height w/ Rails": "6.1 ft (2 m)",
+            "Overall Height": "9.1 ft (3 m)",
+            "Overall Length": "154 in (391 cm)",
+            "Overall Width": "7.9 ft (2 m)",
+            "Turning Radius": "19.6 ft (6 m)",
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "76.9 cu in (0 m)",
+            "Engine Model": "Kubota",
+            "Fuel tank": "30 gal (114 l)",
+            "Fuel Type": "Dual Fuel, Diesel",
+            "Gross Power": "24.8 hp (18 kw)"
+        },
+        "Performance": {
+            "Drive Speed - Platform Elevated": "0.5 mph (0 kph)",
+            "Drive Speed - Platform Lowered": "3.5 mph (5 kph)",
+            "Fuel Capacity": "30 gal (114 l)",
+            "Gradeability": "45%",
+            "Hydraulic System Fluid Capacity": "32 gal (121 l)",
+            "Operating Weight": "11820 lbs (5,362 kg)",
+            "Platform Capacity": "2250 lbs (1,021 kg)",
+            "Tire Fill/Type": "Superwide",
+            "Tire Size": "33 X 15.5"
+        },
+        "Platform": {
+            "Lift Time": "35 sec",
+            "Lower Time": "37 sec",
+            "Platform Capacity - Extension": "500 lbs (227 kg)"
+        }
+    }
+}

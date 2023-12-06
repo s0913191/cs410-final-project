@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tms5000/30758451",
+    "source_url_id": "30758451",
+    "source_url_model": "tms5000",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:40.589179",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TMS5000",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "114.8 ft (35 m)",
+            "Max Working Radius": "98.5 ft (30 m)",
+            "Min Height @ Max Raise Angle": "37.1 ft (11 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.1 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "295.9 hp (220 kw)",
+            "Make": "Grove",
+            "Model": "RD8",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Overall height": "11.6 ft (3 m)",
+            "Overall length": "44.7 ft (13 m)"
+        },
+        "Hydraulic System": {
+            "Maximum operating pressure": "2845 psi"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "79.3 gal (299 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "Front - 12.00.20.PR",
+            "Upper Structure Hydraulic System Fluid Capacity": "166.5 gal (628 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46 mph (74 kph)",
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Synchromesh"
+        }
+    }
+}

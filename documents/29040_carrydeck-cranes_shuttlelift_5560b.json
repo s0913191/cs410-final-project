@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/shuttlelift/5560b/29040",
+    "source_url_id": "29040",
+    "source_url_model": "5560b",
+    "source_url_make": "shuttlelift",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:28.535056",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Shuttlelift",
+    "equipment_model": "5560B",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "56.2 ft (17 m)",
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "54.5 ft (16 m)",
+            "Max Lift Capacity": "36000 lbs (16,330 kg)",
+            "Max Working Radius": "51 ft (16 m)",
+            "Min Height @ Max Raise Angle": "18.6 ft (5 m)",
+            "Min Working Radius": "6 ft (2 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "274.7 cu in (0 m)",
+            "Gross Power": "99.3 hp (74 kw)",
+            "Make": "Shuttlelift",
+            "Model": "QSB4.5L"
+        },
+        "Dimensions": {
+            "Carrier Length": "14.2 ft (4 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Transport Height": "8 ft (2 m)",
+            "Transport Length": "22.7 ft (7 m)",
+            "Transport Width": "7.9 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "6.1 ft (2 m)",
+            "Width w/ Outriggers Extended": "13.9 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "63  A",
+            "Carrier Cooling System Fluid Capacity": "5.8 gal (19 l)",
+            "Carrier Fuel Capacity": "40 gal (151 l)",
+            "Carrier Hydraulic System Fluid Capacity": "40 gal (151 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "30700 lbs (13,925 kg)",
+            "Tire Size": "385/65R22.5"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.1 mph (34 kph)",
+            "Max Speed - Reverse": "21.1 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "powershift"
+        }
+    }
+}

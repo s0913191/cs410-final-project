@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combination-rollers/volvo/cr70/30800699",
+    "source_url_id": "30800699",
+    "source_url_model": "cr70",
+    "source_url_make": "volvo",
+    "source_url_category": "combination-rollers",
+    "source_date_scraped": "2023-09-13 17:39:12.498471",
+    "equipment_category": "Combination Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "CR70",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "141 in (358 cm)"
+        },
+        "Drum": {
+            "Drum Width": "57 in (145 cm)",
+            "Vibration Frequency": "3300 hz (198,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "64 in (163 cm)"
+        }
+    }
+}

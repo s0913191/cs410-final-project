@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/volvo/mc115c/30749157",
+    "source_url_id": "30749157",
+    "source_url_model": "mc115c",
+    "source_url_make": "volvo",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:33.817433",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "MC115C",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "84 hp (63 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2724 lbs (1,236 kg)",
+            "Operating Width": "72 in (183 cm)"
+        }
+    }
+}

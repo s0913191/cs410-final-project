@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/caterpillar/623h/30648550",
+    "source_url_id": "30648550",
+    "source_url_model": "623h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:29.243848",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "623H",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "23 cu yds (18 m)",
+            "Rated Payload": "55200 lbs (25,039 kg)",
+            "Struck Capacity": "18.8 cu yds (14 m)",
+            "Width of Cut": "10.3 ft (3 m)"
+        },
+        "Engine": {
+            "Flywheel Power - Tractor/Scraper": "304 kW (407)"
+        },
+        "Hydraulic System": {
+            "Bowl Cylinder Bore": "5.5 in (13 cm)",
+            "Bowl Cylinder Stroke": "33.3 in (84 cm)",
+            "Ejector Cylinder Bore": "4.3 in (10 cm)",
+            "Ejector Cylinder Stroke": "47.8 in (119 cm)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "17 gal (64 l)",
+            "Fuel Capacity": "201.6 gal (761 l)",
+            "Hydraulic System Fluid Capacity": "22 gal (83 l)"
+        },
+        "Scraper Bowl": {
+            "Rated Load": "55200 lbs (25,039 kg)",
+            "Scraper Capacity - Heaped": "23 cu yds (18 m)"
+        },
+        "Service Refill Capacities - Tractor": {
+            "Cooling System": "17 gal (64 l)",
+            "Differential": "45.8 gal (170 l)",
+            "Final Drive - Each": "5 gal (19 l)",
+            "Hydraulic Reservoir": "22 gal (83 l)",
+            "Transmission": "18.5 gal (68 l)"
+        },
+        "Steering System": {
+            "Steering Angle - Left": "82 \t\u00b0",
+            "Steering Angle - Right": "85 \t\u00b0"
+        },
+        "Tractor Engine": {
+            "Displacement": "763 cu in (0 m)",
+            "Make": "Caterpillar",
+            "Model": "C13 ACERT"
+        },
+        "Transmission": {
+            "1 Forward": "3.1 mph (5 kph)",
+            "2 Forward": "5.5 mph (8 kph)",
+            "3 Forward": "7.5 mph (11 kph)",
+            "4 Forward": "10.1 mph (16 kph)",
+            "5 Forward": "13.6 mph (21 kph)",
+            "6 Forward": "18.4 mph (29 kph)",
+            "7 Forward": "24.8 mph (39 kph)",
+            "8 Forward": "33.5 mph (53 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "1",
+            "Reverse": "5.7 mph (8 kph)",
+            "Top Speed - Loaded": "33.5 mph (53 kph)"
+        },
+        "Weights": {
+            "Total Operating - Loaded": "142701 lbs (64,729 kg)"
+        }
+    }
+}

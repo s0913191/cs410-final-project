@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa200pz-6/41626",
+    "source_url_id": "41626",
+    "source_url_model": "wa200pz-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:14.974173",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA200PZ-6",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Model": "SAA4D107E-1",
+            "Net Power": "126 hp (94 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2.5 - 2.75 cu yds (2 - 2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "25275 - 25,420 lbs (11,465 - 11,530 kg)"
+        }
+    }
+}

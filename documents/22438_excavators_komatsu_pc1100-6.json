@@ -1,0 +1,99 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc1100-6/22438",
+    "source_url_id": "22438",
+    "source_url_model": "pc1100-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:15.801251",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC1100-6",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "44 ft (13 m)",
+            "Max Digging Depth": "30.7 ft (9 m)",
+            "Max Loading Height": "28.5 ft (9 m)",
+            "Max Reach Along Ground": "49.3 ft (15 m)",
+            "Max Vertical Wall Digging Depth": "25 ft (8 m)",
+            "Shipping Height of Unit": "19.9 ft (6 m)",
+            "Shipping Length of Unit": "52.6 ft (16 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "44.3 ft (13 m)",
+            "Max Digging Depth": "34.3 ft (10 m)",
+            "Max Loading Height": "29.6 ft (9 m)",
+            "Max Reach Along Ground": "52.5 ft (16 m)",
+            "Max Vertical Wall Digging Depth": "27.9 ft (8 m)",
+            "Shipping Height of Unit": "21.2 ft (6 m)",
+            "Shipping Length of Unit": "52.7 ft (16 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "45.7 ft (14 m)",
+            "Max Digging Depth": "38.1 ft (12 m)",
+            "Max Loading Height": "31 ft (9 m)",
+            "Max Reach Along Ground": "56.3 ft (17 m)",
+            "Max Vertical Wall Digging Depth": "31.2 ft (9 m)",
+            "Shipping Height of Unit": "23 ft (7 m)",
+            "Shipping Length of Unit": "52 ft (16 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "6.6 cu yds (5 m)",
+            "Minimum Bucket Capacity": "4.5 cu yds (3 m)",
+            "Reference Bucket Capacity": "6.6 cu yds (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3.3 ft (1 m)",
+            "Height - Top of Cab": "12.7 ft (4 m)",
+            "Length of Track on Ground": "16.4 ft (5 m)",
+            "Length of Tracks": "21.1 ft (6 m)",
+            "Removal Counterweight Clearance": "5.9 ft (2 m)",
+            "Tail Swing Radius": "16 ft (5 m)",
+            "Upper Structure Ground Clearance": "5.9 ft (2 m)",
+            "Width to Outside of Tracks": "15.1 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "1413 cu in (0 m)",
+            "Engine Model": "SAA6D170E",
+            "Gross Power": "611 hp (456 kw)",
+            "Net Power": "611 hp (456 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Loading Shovel": {
+            "Height to Top of Boom - shovel": "19.4 ft (6 m)",
+            "Max Cutting Height": "40.7 ft (12 m)",
+            "Max Dig Depth": "12 ft (4 m)",
+            "Max Dig Reach": "37.5 ft (11 m)",
+            "Max Dump Height": "28.9 ft (9 m)",
+            "Overall Length - shovel": "36.6 ft (11 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "36.8 gal (136 l)",
+            "Engine Oil Capacity": "12.7 gal (45 l)",
+            "Fuel Capacity": "359.3 gal (1,359 l)",
+            "Hydraulic Pump Flow Capacity": "419.6 gal/min (1,586 l/min)",
+            "Hydraulic System Fluid Capacity": "177 gal (670 l)",
+            "Hydraulic System Relief Valve Pressure": "4978.2 psi",
+            "Operating Weight": "226600 lbs (102,785 kg)",
+            "Swing Drive Fluid Capacity": "5.7 gal (19 l)",
+            "Swing Speed": "5.8 rpm"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "5.8 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "154324 lbs (70,001 kg)",
+            "Ground Pressure": "19 psi",
+            "Loading Shovel Ground Pressure": "20.1 psi",
+            "Loading Shovel Operating Weight": "238100 lbs (108,002 kg)",
+            "Loading Shovel Shoe Width": "27.6 in (69 cm)",
+            "Max Travel Speed": "2 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "48",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "12.8 ft (4 m)"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-20r-extra-lt-landfill/30760670",
+    "source_url_id": "30760670",
+    "source_url_model": "td-20r-extra-lt-landfill",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:20.909890",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-20R Extra LT LANDFILL",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSL9 (Tier 4f)",
+            "Net Power": "240 hp (179 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "60318 lbs (27,360 kg)"
+        }
+    }
+}

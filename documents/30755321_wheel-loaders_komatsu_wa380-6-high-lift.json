@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa380-6-high-lift/30755321",
+    "source_url_id": "30755321",
+    "source_url_model": "wa380-6-high-lift",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:33.340356",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA380-6 High Lift",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "7.1 cu yds (5 m)",
+            "Bucket Width": "11.2 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.8 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Hinge Pin - Max Height": "15.3 ft (5 m)",
+            "Length with Bucket on Ground": "29.8 ft (9 m)",
+            "Reach at Max Lift and Dump": "5 ft (2 m)",
+            "Wheelbase": "10.9 ft (3 m)",
+            "Width Over Tires": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "SAA6D114E-3",
+            "Net Power": "231 hp (172 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "45787.9 lbs (20,769 kg)",
+            "Static Tipping Weight": "25024.7 lbs (11,351 kg)",
+            "Tire Size": "23.5-R25 L3",
+            "Turning Radius": "23.5 ft (7 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Automatic shift"
+        }
+    }
+}

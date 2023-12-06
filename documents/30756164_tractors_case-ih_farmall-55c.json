@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/farmall-55c/30756164",
+    "source_url_id": "30756164",
+    "source_url_model": "farmall-55c",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:19.635510",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "FARMALL 55C",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "54 hp (40 kw)"
+        },
+        "Production": {
+            "Series": "Farmall C Series",
+            "Years Manufactured": "2015 - 2018"
+        }
+    }
+}

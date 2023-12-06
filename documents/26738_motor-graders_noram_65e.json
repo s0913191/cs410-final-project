@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/noram/65e/26738",
+    "source_url_id": "26738",
+    "source_url_model": "65e",
+    "source_url_make": "noram",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:22:06.144770",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Noram",
+    "equipment_model": "65E",
+    "equipment_spec": {
+        "Blades": {
+            "Maximum Shoulder Reach Outside of Tires - Left": "1/42 in (3 cm)",
+            "Maximum Shoulder Reach Outside of Tires - Right": "39.1 in (99 cm)",
+            "Moldboard Sideshift - Left": "17 in (43 cm)",
+            "Moldboard Sideshift - Right": "20 in (51 cm)"
+        },
+        "Circle": {
+            "Max Lift Above Ground": "15.4 in (38 cm)"
+        },
+        "Engine": {
+            "Base Power (1st Gear) - Net": "110 hp (82 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "16.63 in (41 cm)",
+            "Moldboard Length": "10 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16800 lbs (7,620 kg)"
+        },
+        "Steering System": {
+            "Articulation Angle": "25  \t\u00b0",
+            "Turning Radius": "18.8 ft (5 m)"
+        }
+    }
+}

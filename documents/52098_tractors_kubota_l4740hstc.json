@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l4740hstc/52098",
+    "source_url_id": "52098",
+    "source_url_model": "l4740hstc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:30:37.695528",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L4740HSTC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Overall Length": "10.2 in (25 cm)",
+            "Tire Size": "front 8.3-16 rear 14.9-24",
+            "Wheelbase": "6.3 ft (2 m)",
+            "Width Outside Frame": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "148.5 cu in (0 m)",
+            "Engine Model": "E-TVCS",
+            "Gross Power": "49 hp (37 kw)",
+            "Net Power": "47 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm",
+            "PTO Power": "40 hp (30 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.7 gal/min (53 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2755.8 lbs (1,250 kg)",
+            "3 Point Hitch Type": "Cat. I",
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "14.3 gal (53 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "4001.4 lbs (1,815 kg)",
+            "Turning Radius": "8.9 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "16.1 mph (26 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "HST plus 3 range"
+        }
+    }
+}

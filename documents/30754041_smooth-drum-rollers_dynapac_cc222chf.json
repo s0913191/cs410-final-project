@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc222chf/30754041",
+    "source_url_id": "30754041",
+    "source_url_model": "cc222chf",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:16.439442",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC222CHF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "3.7 ft (1 m)",
+            "Ground Clearance": "10.7 in (25 cm)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Overall Length": "14.2 in (36 cm)",
+            "Overall Width": "4.6 ft (1 m)",
+            "Wheelbase": "10.5 in (25 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "17535.1 lbs (7,954 kg)",
+            "Centrifugal Force - Low": "9891.6 lbs (4,487 kg)",
+            "Drum Diameter": "44.1 in (112 cm)",
+            "Drum Width": "57.1 in (145 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "163 lbs/in",
+            "Vibration Frequency 1": "54 hz (3,240 vpm)",
+            "Vibration Frequency 2": "71 hz (4,260 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BF4L",
+            "Gross Power": "80.5 hp (60 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Weight": "15829.2 lbs (7,180 kg)"
+        }
+    }
+}

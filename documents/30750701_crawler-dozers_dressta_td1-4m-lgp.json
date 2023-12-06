@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td1-4m-lgp/30750701",
+    "source_url_id": "30750701",
+    "source_url_model": "td1-4m-lgp",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:42.691482",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD1-4M LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Length w/ Blade": "18.2 ft (5 m)",
+            "Length w/o Blade": "13.8 ft (4 m)",
+            "Width Over Tracks": "10.1 ft in (25 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "408 cu in (0 m)",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "173 hp (129 kw)",
+            "Max Torque": "659 lbs/ft",
+            "Net Power": "160 hp (119 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1350 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30.2 gal/min (114 l/min)",
+            "Relief Valve Pressure": "2540 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Engine Oil Capacity": "4.9 gal (15 l)",
+            "Final Drives Fluid Capacity": "7.4 gal (27 l)",
+            "Fuel Capacity": "100.4 gal (379 l)",
+            "Hydraulic Fluid Capacity": "15.6 gal (57 l)",
+            "Operating Weight": "40124.2 lbs (18,200 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "5 cu yds (4 m)",
+            "Height": "46.1 in (117 cm)",
+            "Width": "12.8 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "8.1 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "8990 cu in (0 m)",
+            "Ground Pressure": "4.6 psi",
+            "Number of Carrier Rollers per Side": "8",
+            "Number of Shoes per Side": "46",
+            "Number of Track Rollers per Side": "2",
+            "Standard Shoe Size": "36.1 in (91 cm)",
+            "Track Gauge": "7.1 ft (2 m)"
+        }
+    }
+}

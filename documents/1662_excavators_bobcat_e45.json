@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/bobcat/e45/1662",
+    "source_url_id": "1662",
+    "source_url_model": "e45",
+    "source_url_make": "bobcat",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:01.435422",
+    "equipment_category": "Excavators",
+    "equipment_make": "Bobcat",
+    "equipment_model": "E45",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Arm Digging Force": "5332 lbs (2,419 kg)",
+            "Boom Swing - Left": "75  \t\u00b0",
+            "Boom Swing - Right": "50  \t\u00b0",
+            "Bucket Digging Force": "7650 lbs (3,470 kg)",
+            "Max Digging Depth": "10.8 ft (3 m)",
+            "Max Reach Along Ground": "18.6 ft (5 m)",
+            "Max.Dumping Height": "11.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height": "99.7 in (251 cm)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Length": "210.8 in (533 cm)",
+            "Width": "77.2 in (196 cm)"
+        },
+        "Engine": {
+            "Emissions": "Tier 4",
+            "Fuel": "Diesel",
+            "Net Power": "42.7 hp (31 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Operating pressure": "3045 psi",
+            "Pump Flow Capacity": "20 gal/min (76 l/min)"
+        },
+        "Lift System": {
+            "Lift Radius": "118 in (300 cm)",
+            "Max Lift Capacity": "5131 lbs (2,327 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "21 gal (79 l)",
+            "Operating Weight": "10077 lbs (4,571 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.6 mph (3 kph)",
+            "Min Travel Speed": "1.5 mph (2 kph)"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6120/2616285",
+    "source_url_id": "2616285",
+    "source_url_model": "6120",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:22:00.053632",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6120",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Make": "2240",
+            "Gross Power": "80 hp (60 kw)",
+            "Max Torque": "231 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "PTO Power": "66.9 hp (49 kw)",
+            "Torque Measured @": "1101 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30 gal/min (114 l/min)",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4000 lbs (1,814 kg)",
+            "Operating Weight": "9590.2 lbs (4,350 kg)",
+            "Tire Size Front - 2wd / 4wd": "12.4-24 6PR R1"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9-30 6PR R1"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Synchronized"
+        }
+    }
+}

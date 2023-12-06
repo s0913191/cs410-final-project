@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/thdc5000-36/30757234",
+    "source_url_id": "30757234",
+    "source_url_model": "thdc5000-36",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:43:51.737893",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "THDC5000-36",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Mechanical",
+            "Service brake": "Hydraulic"
+        },
+        "Dimensions": {
+            "Free lift": "41 in (104 cm)",
+            "Gradeability": "33.3%",
+            "Ground Clearance": "8.6 in (20 cm)",
+            "Height to Top of Overhead Guard": "10 ft (3 m)",
+            "Length to Fork Face": "16.4 ft (5 m)",
+            "Max Fork Height": "8.4 ft (2 m)",
+            "Overall Height - mast lowered": "9.9 ft (3 m)",
+            "Overall Width": "6.4 ft (2 m)",
+            "Right Angle Stack": "18.2 ft (5 m)",
+            "Turning Radius": "14.5 ft (4 m)",
+            "Wheelbase": "8.8 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "PSI V8 5.7L",
+            "Fuel Type": "LP",
+            "Number of Cylinders": "8",
+            "Power": "147 hp (110 kw)",
+            "Power Measured @": "2500 rpm",
+            "Torque": "300 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Main pump flow standard": "54 gal/min (204 l/min)",
+            "Maximum operating pressure": "2500 psi"
+        },
+        "MAST": {
+            "Lift Speed": "20 ft/min",
+            "Load Capacity": "50000.9 lbs (22,680 kg)",
+            "Load Center": "36 in (91 cm)",
+            "Lower Speed": "21 ft/min",
+            "Mast Tip Forward": "8  \t\u00b0",
+            "Mast Tip Rear": "8  \t\u00b0",
+            "Max Fork Spread": "59.8 in (150 cm)"
+        },
+        "Operating Specifications": {
+            "Drawbar Pull": "227.1 lbs (103 kg)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "71899.4 lbs (32,613 kg)",
+            "Tire Type": "Cushion"
+        },
+        "Tires": {
+            "Standard_Option_Front": "36 x 10 x 30",
+            "Standard_Rear": "28 X 14 X 22"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "10.3 mph (16 kph)",
+            "Max Speed - Reverse": "10.3 mph (16 kph)",
+            "Transmission Type": "POWERSHIFT",
+            "Travelspeeds(BACKWRD)Speed range": "3",
+            "Travelspeeds(FRWD)Speed range": "3"
+        }
+    }
+}

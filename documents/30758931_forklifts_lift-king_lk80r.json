@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/lift-king/lk80r/30758931",
+    "source_url_id": "30758931",
+    "source_url_model": "lk80r",
+    "source_url_make": "lift-king",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:08.047298",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Lift King",
+    "equipment_model": "LK80R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16 in (41 cm)",
+            "Length to Fork Face": "18.3 ft (5 m)",
+            "Overall Height": "8 ft (2 m)",
+            "Turning Radius Outside Tires": "13.7 ft (4 m)",
+            "Wheelbase": "10 ft (3 m)",
+            "Width Over Tires": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo",
+            "Engine Model": "Cummins 43.9 turbo",
+            "Gross Power": "100 hp (75 kw)"
+        },
+        "Lift System": {
+            "Max Forward Reach": "26.3 ft (8 m)",
+            "Max Lift Capacity": "8000 lbs (3,629 kg)",
+            "Max Lift Height": "41.1 ft (13 m)",
+            "Max Load at Max Height": "6000 lbs (2,722 kg)",
+            "Max Load at Max Reach": "1500 lbs (680 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "23500 lbs (10,660 kg)",
+            "Tire Size": "14.00-24 TG 12ply"
+        },
+        "Transmission": {
+            "Max Speed - forward": "16.8 mph (26 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "3 speed powershift"
+        }
+    }
+}

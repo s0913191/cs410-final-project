@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/40h-2wd/30758341",
+    "source_url_id": "30758341",
+    "source_url_model": "40h-2wd",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:40.882580",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "40H 2WD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.1 in (28 cm)",
+            "Overall Height - mast lowered": "7.9 ft (2 m)",
+            "Overall Length": "302 in (767 cm)",
+            "Overall Width": "8 ft (2 m)",
+            "Wheelbase": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Gross Power": "42 hp (31 kw)",
+            "Power Measured @": "3000 rpm"
+        },
+        "Performance": {
+            "Fuel Capacity": "37.1 gal (140 l)",
+            "Hydraulic System Fluid Capacity": "37.1 gal (140 l)",
+            "Max Speed": "4.5 mph (6 kph)",
+            "Operating Weight": "11609.6 lbs (5,266 kg)",
+            "Tire Size": "12.5*15"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "3.4 ft (1 m)",
+            "Max Platform Height": "4.1 ft (1 m)",
+            "Max Platform Weight Capacity": "1000.9 lbs (454 kg)",
+            "Max Working Height": "4.6 ft (1 m)",
+            "Platform Inner Length": "36 in (91 cm)",
+            "Platform Inner Width": "60 in (152 cm)"
+        }
+    }
+}

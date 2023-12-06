@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/cc-2400-1/37742",
+    "source_url_id": "37742",
+    "source_url_model": "cc-2400-1",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:05.771719",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "CC 2400-1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "512 ft (156 m)",
+            "Max Lift Capacity": "440 t (399,161 kg)"
+        }
+    }
+}

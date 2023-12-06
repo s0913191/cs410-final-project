@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/7fdu25/30469318",
+    "source_url_id": "30469318",
+    "source_url_model": "7fdu25",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:42:02.399006",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "7FDU25",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length to Fork Face": "8.6 ft (2 m)",
+            "Overall Height - mast lowered": "7 ft (2 m)",
+            "Overall Width": "3.8 ft (1 m)",
+            "Right Angle Stack": "8.9 ft (2 m)",
+            "Turning Radius": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Power": "59 hp (44 kw)",
+            "Power Measured @": "2600 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "120 ft/min",
+            "Load Capacity": "5000 lbs (2,268 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "11.8 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

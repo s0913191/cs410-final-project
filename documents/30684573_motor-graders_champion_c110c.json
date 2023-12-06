@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/champion/c110c/30684573",
+    "source_url_id": "30684573",
+    "source_url_model": "c110c",
+    "source_url_make": "champion",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:36.786648",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Champion",
+    "equipment_model": "C110C",
+    "equipment_spec": {
+        "Blades": {
+            "Maximum Shoulder Reach Outside of Tires - Left": "6.5 in (15 cm)",
+            "Maximum Shoulder Reach Outside of Tires - Right": "6.3 in (15 cm)",
+            "Moldboard Sideshift - Left": "44 in (112 cm)",
+            "Moldboard Sideshift - Right": "44 in (112 cm)"
+        },
+        "Circle": {
+            "Max Lift Above Ground": "23 in (58 cm)"
+        },
+        "Engine": {
+            "Base Power (1st Gear) - Net": "120 hp (89 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "24 in (61 cm)",
+            "Moldboard Length": "12 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "23500 lbs (10,660 kg)"
+        },
+        "Steering System": {
+            "Articulation Angle": "20  \t\u00b0"
+        }
+    }
+}

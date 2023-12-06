@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/terex/cr452rx/30753733",
+    "source_url_id": "30753733",
+    "source_url_model": "cr452rx",
+    "source_url_make": "terex",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:38.757932",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Terex",
+    "equipment_model": "CR452RX",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "19.5 ft (6 m)",
+            "Tire Size": "front 16x22 in rear 16-ply 23.1x26 in",
+            "Transport Height": "8.7 ft (2 m)",
+            "Transport Width": "10.4 ft (3 m)",
+            "Wheelbase": "7.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "QSB5.9",
+            "Gross Power": "205 hp (153 kw)",
+            "Make": "Cummins",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "16 in (41 cm)",
+            "Hopper Capacity": "8.2 lbs (4 kg)",
+            "Paving Speed - max": "216.6 ft/min",
+            "Paving Thickness - max": "12.1 in (30 cm)",
+            "Paving Width - max": "27.9 ft (8 m)",
+            "Travel Speed - max": "7.6 mph (11 kph)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "105  A",
+            "Cooling System Fluid Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "72.2 gal (273 l)",
+            "Hydraulic System Fluid Capacity": "75.1 gal (284 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight w/ Screed": "40295 lbs (18,278 kg)",
+            "Operating Weight w/o Screed": "32395 lbs (14,694 kg)"
+        }
+    }
+}

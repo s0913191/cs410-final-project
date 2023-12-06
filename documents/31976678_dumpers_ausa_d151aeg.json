@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dumpers/ausa/d151aeg/31976678",
+    "source_url_id": "31976678",
+    "source_url_model": "d151aeg",
+    "source_url_make": "ausa",
+    "source_url_category": "dumpers",
+    "source_date_scraped": "2023-09-13 14:52:28.560833",
+    "equipment_category": "Dumpers",
+    "equipment_make": "Ausa",
+    "equipment_model": "D151AEG",
+    "equipment_spec": {
+        "Battery": {
+            "Battery Type": "Lithium-Ion Battery (NCM)",
+            "Gross Capacity": "9.3 kWh",
+            "One Intense Shift": "",
+            "Range": "May vary according to weather conditions and use. For temperatures below 0\u00baC, it is recommended to include the High Capacity accessory",
+            "System Voltage": "48 V"
+        },
+        "Brakes": {
+            "Parking": "Negative",
+            "Service": "Hydraulic"
+        },
+        "Charge": {
+            "Charger": "Integrated",
+            "Charging Cable Plug Type": "110V (yellow); 230V (blue); 415V (red)",
+            "Charging Time 20?80%": "May vary according to weather conditions and the type and power of the charging point"
+        },
+        "Driving": {
+            "External Turning Radius": "133 in",
+            "Max. Speed": "8.7 mph",
+            "Maximum Gradient": "34%",
+            "Traction": "4x4",
+            "Tyres": "10.0/75-15.3"
+        },
+        "Engine": {
+            "Emissions": "Zero emission",
+            "Noise Level (LwA)": "-",
+            "Nominal Power": "10.2 hp",
+            "Peak Power": "23.2 hp",
+            "Torque": "130"
+        },
+        "General Information": {
+            "Chassis": "Articulated",
+            "Empty Weight": "3373 lb",
+            "Heaped Skip Capacity": "1.18 cu yd",
+            "Level Skip Capacity": "0.82 cu yd",
+            "Load Capacity": "3300 lb",
+            "Reversibility": "Non-reversible",
+            "Transmission": "Electric",
+            "Unloading System": "Rotating",
+            "Water Skip Capacity": "0.68 cu yd"
+        },
+        "Hydraulic System": {
+            "Flow Rate": "7 gal/min",
+            "Hydraulic Circuit": "-",
+            "Working Pressure": "2610 psi"
+        },
+        "Tank Capacity": {
+            "Hydraulic System": "6.5 gal"
+        }
+    }
+}

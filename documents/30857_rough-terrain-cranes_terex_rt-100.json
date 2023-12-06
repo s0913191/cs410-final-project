@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-100/30857",
+    "source_url_id": "30857",
+    "source_url_model": "rt-100",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:07.898854",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 100",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "173.9 ft (53 m)",
+            "Min Height @ Max Raise Angle": "38.1 ft (12 m)",
+            "Number of Sections": "6"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "29442.3 ft (8,974 m)",
+            "Ground Clearance": "2.2 ft (1 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "45.5 ft (14 m)",
+            "Transport Width": "10.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "15.6 ft (5 m)",
+            "Wheelbase": "175.2 in (445 cm)",
+            "Width w/ Outriggers Extended": "26.3 ft (8 m)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "260.2 hp (194 kw)",
+            "Max Torque": "728 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "29.5 R25"
+        }
+    }
+}

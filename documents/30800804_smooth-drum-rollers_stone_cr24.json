@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/cr24/30800804",
+    "source_url_id": "30800804",
+    "source_url_model": "cr24",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:01.055529",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "CR24",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "101 in (257 cm)"
+        },
+        "Drum": {
+            "Drum Width": "47 in (119 cm)",
+            "Vibration Frequency": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota V2203 Tier 4 Interim"
+        },
+        "Operating Specifications": {
+            "Operating Width": "51.7 in (130 cm)"
+        }
+    }
+}

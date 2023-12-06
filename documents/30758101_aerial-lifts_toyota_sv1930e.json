@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/toyota/sv1930e/30758101",
+    "source_url_id": "30758101",
+    "source_url_model": "sv1930e",
+    "source_url_make": "toyota",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:50.769904",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "SV1930E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "25%",
+            "Ground Clearance": "5.2 in (13 cm)",
+            "Ground Pressure": "109 psi",
+            "Overall Height": "6.7 ft (2 m)",
+            "Overall Length": "73.7 in (185 cm)",
+            "Overall Width": "2.5 ft (1 m)",
+            "Turning Radius - Outside": "6.2 ft (2 m)",
+            "Wheelbase": "5 ft (2 m)"
+        },
+        "Engine": {
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Drive Speed - Maximum": "0.5 mph (0 kph)",
+            "Drive Speed - Minimum": "3 mph (5 kph)",
+            "Drive System": "Brushless Dual AC Motors",
+            "Tire Fill/Type": "Solid"
+        },
+        "Platform": {
+            "Lift Time": "26 sec",
+            "Lower Time": "30 sec",
+            "Max Platform Height": "18.8 ft (5 m)",
+            "Max Platform Weight Capacity": "500 lbs (227 kg)",
+            "Max Working Height": "25 ft (8 m)",
+            "Overall length (stowed , guardrail folded)": "7 ft (2 m)",
+            "Platform Capacity - Extension": "250 lbs (113 kg)",
+            "Platform Extension Length": "35.4 in (89 cm)",
+            "Platform Height - Elevated": "19 ft (6 m)",
+            "Platform Height - Lowered": "34.6 ft (10 m)",
+            "Platform Inner Length": "67 in (170 cm)",
+            "Platform Inner Width": "26.8 in (66 cm)",
+            "Platform Railing Height": "43.7 ft (13 m)",
+            "Scissor Link Stages": "3"
+        }
+    }
+}

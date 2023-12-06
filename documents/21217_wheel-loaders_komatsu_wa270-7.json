@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa270-7/21217",
+    "source_url_id": "21217",
+    "source_url_model": "wa270-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:21.993674",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA270-7",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "29450 lbs (13,358 kg)",
+            "Bucket Capacity - heaped": "3.1 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.8 cu yds (2 m)",
+            "Bucket Width": "8.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.8 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Hinge Pin - Max Height": "13.1 ft (4 m)",
+            "Length with Bucket on Ground": "24 ft (7 m)",
+            "Reach at Max Lift and Dump": "2.7 ft (1 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo-charged",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "408.3 cu in (0 m)",
+            "Engine Model": "SAA6D107E-2",
+            "Gross Power": "154.3 hp (115 kw)",
+            "Model": "SAA6D107E-2",
+            "Net Power": "148.9 hp (110 kw)",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "4.9 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2 sec",
+            "Lower Time": "3.2 sec",
+            "Pump Flow Capacity": "39.7 gal/min (148 l/min)",
+            "Pump Type": "Hydraulic",
+            "Raise Time": "5.7 sec",
+            "Relief Valve Setting": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "7.4 gal (27 l)",
+            "Engine Oil Fluid Capacity": "6.1 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "4.9 gal (15 l)",
+            "Fuel Capacity": "49.2 gal (185 l)",
+            "Hydraulic System Fluid Capacity": "20.7 gal (76 l)",
+            "Rated Bucket Capacity": "3 cu yds (2 m)",
+            "Rear Axle/Diff Fluid Capacity": "4.8 gal (15 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.6 mph (37 kph)",
+            "Max Speed - Reverse": "23.6 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Weights": {
+            "Operational Weight": "28351 - 29,299 lbs (12,860 - 13,290 kg)"
+        }
+    }
+}

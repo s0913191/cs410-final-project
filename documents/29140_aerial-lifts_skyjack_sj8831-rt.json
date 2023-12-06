@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/skyjack/sj8831-rt/29140",
+    "source_url_id": "29140",
+    "source_url_model": "sj8831-rt",
+    "source_url_make": "skyjack",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:07.525795",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Skyjack",
+    "equipment_model": "SJ8831 RT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "30%",
+            "Ground Clearance": "7.9 in (18 cm)",
+            "Height w/ Rails": "8.8 ft (2 m)",
+            "Height w/o Rails": "6.6 ft (2 m)",
+            "Overall Length": "139 in (353 cm)",
+            "Overall Width": "7.3 ft (2 m)",
+            "Turning Radius": "20.7 ft (6 m)",
+            "Wheelbase": "7.5 ft (2 m)"
+        },
+        "Performance": {
+            "Load capacity": "1999.6 lbs (907 kg)",
+            "Max Speed": "3.5 mph (5 kph)",
+            "Operating Weight": "9980.4 lbs (4,527 kg)",
+            "Tire Fill/Type": "Air Filled",
+            "Tire Size": "10 x 16.5"
+        },
+        "Platform": {
+            "Deck Extension": "48.1 in (122 cm)",
+            "Lift Time": "58 sec",
+            "Lower Time": "44 sec",
+            "Max Platform Height": "31.1 ft (9 m)",
+            "Max Working Height": "37 ft (11 m)",
+            "Platform Height - Lowered": "4921.3 ft (1,500 m)",
+            "Platform Inner Length": "133.9 in (338 cm)",
+            "Platform Inner Width": "67 in (170 cm)"
+        }
+    }
+}

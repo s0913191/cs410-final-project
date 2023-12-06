@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/tadano/gr-600xl-1/30758628",
+    "source_url_id": "30758628",
+    "source_url_model": "gr-600xl-1",
+    "source_url_make": "tadano",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:57.022951",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "GR-600XL-1",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80.5  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "146 ft (45 m)",
+            "Max Lift Capacity": "120000 lbs (54,432 kg)",
+            "Max Operating Radius": "125 ft (38 m)",
+            "Min Height @ Max Raise Angle": "44 ft (13 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2.5 rpm"
+        },
+        "Dimensions": {
+            "Transport Height": "12.7 ft (4 m)",
+            "Transport Length": "45.5 ft (14 m)",
+            "Transport Width": "10.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.6 ft (4 m)",
+            "Wheelbase": "13 in (33 cm)",
+            "Width w/ Outriggers Extended": "23.7 ft (7 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "460.5 cu in (0 m)",
+            "Engine Model": "6M60-TLA3B",
+            "Gross Power": "267 hp (199 kw)",
+            "Max Torque": "579 lbs/ft",
+            "Power Measured @": "2600 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.5 gal (11 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "195.5 gal (738 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "95877 lbs (43,490 kg)",
+            "Tire Size": "29.5-25 22PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "full automatic power shift"
+        }
+    }
+}

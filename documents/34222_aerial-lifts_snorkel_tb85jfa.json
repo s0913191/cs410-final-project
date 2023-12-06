@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/tb85jfa/34222",
+    "source_url_id": "34222",
+    "source_url_model": "tb85jfa",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:59.567534",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "TB85JFA",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "ST,J,FA ft (0 m)",
+            "Platform Size": "8x2.5 ft (2 m)",
+            "Stowed Height": "9.6 ft (3 m)",
+            "Stowed Width": "8.5 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "15x24"
+        },
+        "Transmission": {
+            "4WD": "Std"
+        }
+    }
+}

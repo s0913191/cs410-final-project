@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/boxer/320/30754654",
+    "source_url_id": "30754654",
+    "source_url_model": "320",
+    "source_url_make": "boxer",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:31.240152",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Boxer",
+    "equipment_model": "320",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump angle": "34  \t\u00b0",
+            "Dump Height": "54.1 in (137 cm)",
+            "Ground Clearance": "19.2 in (48 cm)",
+            "Hinge pin height - fully raised": "70 in (178 cm)",
+            "Length - with Bucket": "7.8 ft (2 m)",
+            "Length - without Bucket": "5.7 ft (2 m)",
+            "Overall height": "4.1 ft (1 m)",
+            "Width": "2.9 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Make": "Kohler Command",
+            "Gross Power": "20 hp (15 kw)"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "8 gal/min (30 l/min)",
+            "Hydraulic Reservoir": "16 gal (61 l)",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Operating Load": "436.6 lbs (198 kg)",
+            "Tip Capacity": "1250 lbs (567 kg)",
+            "Wheel (Track options)": "7.1 in (18 cm)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "4.5 gal (15 l)",
+            "Operating Weight": "1739.5 lbs (789 kg)",
+            "Travel Speed": "3.5 mph (5 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "3.2 psi"
+        }
+    }
+}

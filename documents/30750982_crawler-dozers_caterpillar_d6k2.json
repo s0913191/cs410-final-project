@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d6k2/30750982",
+    "source_url_id": "30750982",
+    "source_url_model": "d6k2",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:48.146845",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D6K2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/o Blade": "15.4 ft (5 m)",
+            "Width Over Tracks": "9.8 ft in (23 cm)"
+        },
+        "Engine": {
+            "Engine Model": "C6.6 ACERT",
+            "Gross Power": "130 hp (97 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "30574 lbs (13,868 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "4.4 cu yds (3 m)",
+            "Height": "50.9 in (127 cm)",
+            "Width": "12 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.2 mph (10 kph)",
+            "Max Speed - Reverse": "6.2 mph (10 kph)",
+            "Number of Forward Gears": "1",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "HS"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "14.2 cu in (0 m)",
+            "Ground Pressure": "4.5 psi",
+            "Standard Shoe Size": "30 in (76 cm)",
+            "Track Gauge": "30 ft (9 m)",
+            "Track Pitch": "30 in (76 cm)"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/307d/3252",
+    "source_url_id": "3252",
+    "source_url_model": "307d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:21.999734",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "307D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "23.8 ft (7 m)",
+            "Max Digging Depth": "13.3 ft (4 m)",
+            "Max Loading Height": "17.1 ft (5 m)",
+            "Max Reach Along Ground": "20.2 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "12 ft (4 m)",
+            "Shipping Height of Unit": "8.7 ft (2 m)",
+            "Shipping Length of Unit": "18.8 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "25.1 ft (8 m)",
+            "Max Digging Depth": "15.1 ft (5 m)",
+            "Max Loading Height": "18.5 ft (5 m)",
+            "Max Reach Along Ground": "21.9 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "13.7 ft (4 m)",
+            "Shipping Height of Unit": "8.7 ft (2 m)",
+            "Shipping Length of Unit": "18.8 ft (5 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.4 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Removal Counterweight Clearance": "2.5 ft (1 m)",
+            "Tail Swing Radius": "5.8 ft (2 m)",
+            "Width to Outside of Tracks": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "172.7 cu in (0 m)",
+            "Engine Model": "4M40 TL",
+            "Gross Power": "57.7 hp (43 kw)",
+            "Make": "Mitsubishi",
+            "Model": "4M40TL",
+            "Net Power": "55.7 hp (41 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "35  A",
+            "Cooling System Fluid Capacity": "4.2 gal (15 l)",
+            "Engine Oil Capacity": "3.4 gal (11 l)",
+            "Fuel Capacity": "35.7 gal (132 l)",
+            "Hydraulic Pump Flow Capacity": "71.9 gal/min (269 l/min)",
+            "Hydraulic System Fluid Capacity": "24.9 gal (91 l)",
+            "Hydraulic System Relief Valve Pressure": "4641 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "15597.8 lbs (7,075 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "1.2 mph (2 kph)",
+            "Shoe Size": "17.8 in (43 cm)",
+            "Track Gauge": "6.1 ft (2 m)"
+        }
+    }
+}

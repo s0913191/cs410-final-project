@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/4600b/28296785",
+    "source_url_id": "28296785",
+    "source_url_model": "4600b",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:09.595065",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "4600B",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "5.9 cu yds (4 m)"
+        },
+        "Engine": {
+            "Engine Model": "TD 101 G",
+            "Gross Power": "264 hp (197 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "46517.6 lbs (21,100 kg)",
+            "Static Tipping Weight": "33730.8 lbs (15,300 kg)",
+            "Tire Size": "26.5R25"
+        },
+        "Transmission": {
+            "Transmission Type": "Volvo HT200"
+        }
+    }
+}

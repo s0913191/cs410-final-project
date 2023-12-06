@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/liebherr/pr-724/30760457",
+    "source_url_id": "30760457",
+    "source_url_model": "pr-724",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:44.398343",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Liebherr",
+    "equipment_model": "PR 724",
+    "equipment_spec": {
+        "Engine": {
+            "Model": "934 L A6",
+            "Net Power": "161 hp (120 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "36729-39738 lbs (16,660 kg)"
+        }
+    }
+}

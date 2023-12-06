@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/mc-70-powershift/30757008",
+    "source_url_id": "30757008",
+    "source_url_model": "mc-70-powershift",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:00.756518",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "MC 70 Powershift",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.2 in (38 cm)",
+            "Height to Top of Overhead Guard": "8.1 ft (2 m)",
+            "Length to Fork Face": "13.7 ft (4 m)",
+            "Max Fork Height": "13.2 ft (4 m)",
+            "Overall Height - mast lowered": "11.2 ft (3 m)",
+            "Overall Width": "7.1 ft (2 m)",
+            "Turning Radius": "13.9 ft (4 m)",
+            "Wheelbase": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "1104C-44",
+            "Power": "82.5 hp (61 kw)",
+            "Torque": "222.8 lbs/ft"
+        },
+        "MAST": {
+            "Load Capacity": "15432.4 lbs (7,000 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Mast Tip Forward": "15  \t\u00b0",
+            "Mast Tip Rear": "15  \t\u00b0",
+            "Max Fork Spread": "68.9 in (173 cm)",
+            "Number of Mast Sections": "1"
+        },
+        "Operating Specifications": {
+            "Max Speed": "15 mph (24 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "21384.9 lbs (9,700 kg)",
+            "Tire Type": "front 18R19.5 XF rear 9.5 R 19.5"
+        }
+    }
+}

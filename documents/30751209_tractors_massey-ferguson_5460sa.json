@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/5460sa/30751209",
+    "source_url_id": "30751209",
+    "source_url_model": "5460sa",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:59.872231",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "5460SA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.6 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged / Air-to-Air",
+            "Displacement": "268.6 cu in (0 m)",
+            "Gross Power": "105 hp (78 kw)",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "90 hp (67 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "26 gal/min (98 l/min)",
+            "Relief Valve Pressure": "3050 psi",
+            "Relief Valve Setting": "3050 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "6600 lbs (2,994 kg)",
+            "3 Point Hitch Type": "Cat II",
+            "Alternator Supplied Amperage": "120  A",
+            "Fuel Capacity": "37 gal (140 l)",
+            "Operating Weight": "7838 lbs (3,555 kg)"
+        },
+        "Production": {
+            "Series": "5400 Series",
+            "Years Manufactured": "2004 - 2010"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "Standard"
+        }
+    }
+}

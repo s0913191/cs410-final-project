@@ -1,0 +1,16 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6125j/31075119",
+    "source_url_id": "31075119",
+    "source_url_model": "6125j",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:22:04.233953",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6125J",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "125 hp (93 kw)"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hydrema/912hm-water-tanker/30761088",
+    "source_url_id": "30761088",
+    "source_url_model": "912hm-water-tanker",
+    "source_url_make": "hydrema",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:50.754939",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hydrema",
+    "equipment_model": "912HM Water Tanker",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x4"
+        },
+        "Dump": {
+            "Rated Payload": "11 t (9,979 kg)"
+        },
+        "Engine": {
+            "Make": "Perkins",
+            "Model": "E1104D-44Ta Diesel"
+        },
+        "Weights": {
+            "Operating Weight": "39756 lbs (18,033 kg)"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/terex/ac-200-1/8945",
+    "source_url_id": "8945",
+    "source_url_model": "ac-200-1",
+    "source_url_make": "terex",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:08.617534",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "AC 200-1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "330 ft (101 m)",
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "233 ft (71 m)",
+            "Max Lift Capacity": "440924.5 lbs (200,002 kg)",
+            "Max Working Radius": "203.5 ft (62 m)",
+            "Min Height @ Max Raise Angle": "52.5 ft (16 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "6",
+            "Swing Speed": "1.3 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "530 hp (395 kw)",
+            "Make": "Terex",
+            "Max Torque": "1770.2 lbs/ft",
+            "Model": "OM 502 LA",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "41.4 ft (13 m)",
+            "Transport Height": "13.2 ft (4 m)",
+            "Transport Length": "48.3 ft (15 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "15.8 ft (5 m)",
+            "Width w/ Outriggers Extended": "27 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "132.1 gal (500 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "132277.4 lbs (60,001 kg)",
+            "Tire Size": "14.00R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "52.9 mph (84 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "ZF AS-Tronic automated transmission"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "231 hp (172 kw)",
+            "Make": "Terex",
+            "Max Torque": "597.5 lbs/ft",
+            "Model": "OM 906 LA",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        }
+    }
+}

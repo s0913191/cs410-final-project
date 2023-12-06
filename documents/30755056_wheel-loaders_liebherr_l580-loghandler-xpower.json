@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l580-loghandler-xpower/30755056",
+    "source_url_id": "30755056",
+    "source_url_model": "l580-loghandler-xpower",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:05.226619",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L580 LOGHANDLER XPOWER",
+    "equipment_spec": {
+        "Bucket": {
+            "Arm length": "10.4 ft (3 m)",
+            "Bucket Capacity - heaped": "7.8 cu yds (5 m)",
+            "Bucket Width": "11.3 ft (3 m)",
+            "Digging depth": "4 ft (1 m)",
+            "Dump Clearance at Max Raise": "10.8 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "11.9 ft (3 m)",
+            "Length with Bucket on Ground": "34.3 ft (10 m)",
+            "Reach at Max Lift and Dump": "9 ft (3 m)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "Electrical System": {
+            "Alternator": "28/140 (V/A)",
+            "Battery": "2 x 180 Ah",
+            "Starter": "24/10.5 (V/HP)",
+            "Voltage": "24 V"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type filter with main and safety element, pre-cleaner, service indicator on the Liebherr display",
+            "Aspiration": "Water-cooled in-line engine with charge-air cooling, exhaust after-treatment through Liebherr-SCR technology",
+            "Bore": "4.8 in (10 cm)",
+            "Displacement": "642 cu in (0 m)",
+            "Engine Model": "D936 A7",
+            "Fuel injection": "Electronic Common Rail high-pressure injection",
+            "Gross Power": "339 hp (253 kw)",
+            "Max Torque": "1450 lbs/ft",
+            "Net Power": "335 hp (250 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "6 in (15 cm)",
+            "Torque Measured @": "1000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "111 gal/min (420 l/min)",
+            "Pump Type": "Load-sensing variable axial piston pump with output and flow control, and pressure cut-off in the control block",
+            "Relief Valve Setting": "4351.2 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "19.3 gal (72 l)",
+            "Engine Oil Fluid Capacity": "10.6 gal (38 l)",
+            "Front Axle/Diff Fluid Capacity": "15.3 gal (57 l)",
+            "Fuel Capacity": "96 gal (363 l)",
+            "Hydraulic Fluid Capacity": "25.1 gal (95 l)",
+            "Hydraulic System Fluid Capacity": "60.8 gal (227 l)",
+            "Operating Weight": "80800 lbs (36,651 kg)",
+            "Rear Axle/Diff Fluid Capacity": "15.3 gal (57 l)",
+            "Static Tipping Weight": "47620 lbs (21,600 kg)",
+            "Tire Size": "800/65R29 Michelin XLD65"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)"
+        }
+    }
+}

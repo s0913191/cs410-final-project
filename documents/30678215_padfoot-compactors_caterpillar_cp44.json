@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/caterpillar/cp44/30678215",
+    "source_url_id": "30678215",
+    "source_url_model": "cp44",
+    "source_url_make": "caterpillar",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:25.295506",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CP44",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "121 in (307 cm)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Vibration Frequency": "31.9 hz (1,860 vpm)"
+        },
+        "Engine": {
+            "Make": "Cat"
+        },
+        "Operating Specifications": {
+            "Operating Width": "71 in (180 cm)"
+        }
+    }
+}

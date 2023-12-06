@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/favelle-favco/m440d/30760331",
+    "source_url_id": "30760331",
+    "source_url_model": "m440d",
+    "source_url_make": "favelle-favco",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:16.511489",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Favelle Favco",
+    "equipment_model": "M440D",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "225 ft (69 m)",
+            "Max Lift Capacity": "55 t (49,895 kg)"
+        }
+    }
+}

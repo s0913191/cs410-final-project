@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/mccormick/xtx185/52482",
+    "source_url_id": "52482",
+    "source_url_model": "xtx185",
+    "source_url_make": "mccormick",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:16.173671",
+    "equipment_category": "Tractors",
+    "equipment_make": "Mccormick",
+    "equipment_model": "XTX185",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Overall Length": "17.5 in (43 cm)",
+            "Tire Size": "front 480/70R30 rear 20.8R42",
+            "Wheelbase": "9.5 ft (3 m)",
+            "Width Outside Frame": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged intercooler",
+            "Displacement": "408.9 cu in (0 m)",
+            "Gross Power": "159.6 hp (119 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Rise": "35%"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "34.1 gal/min (129 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "24140.7 lbs (10,950 kg)",
+            "3 Point Hitch Type": "Cat III",
+            "Alternator Supplied Amperage": "120  A",
+            "Fuel Capacity": "91.7 gal (344 l)",
+            "Operating Weight": "17736.2 lbs (8,045 kg)",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "32",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "XtraSpeed"
+        }
+    }
+}

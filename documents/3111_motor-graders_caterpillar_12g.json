@@ -1,0 +1,82 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/caterpillar/12g/3111",
+    "source_url_id": "3111",
+    "source_url_model": "12g",
+    "source_url_make": "caterpillar",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:16.368373",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "12G",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "90  \t\u00b0",
+            "Blade Tip Angle - Rear": "90  \t\u00b0",
+            "Diameter": "60.3 in (152 cm)",
+            "Max Lift Above Ground": "17.3 in (43 cm)",
+            "Max Reach Outside Tires - Left": "72.1 in (183 cm)",
+            "Max Reach Outside Tires - Right": "73.7 in (185 cm)",
+            "Rotation": "360  \t\u00b0"
+        },
+        "Dimensions": {
+            "Blade Base": "8.5 ft (2 m)",
+            "Height to Top of Isomount Cab": "11 ft (3 m)",
+            "Overall Length": "27.3 ft (8 m)",
+            "Tandem Axle Wheelbase": "5 ft (2 m)",
+            "Wheelbase": "19.5 ft (6 m)",
+            "Width Over Tires": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "640.8 cu in (0 m)",
+            "Max Power": "135 hp (101 kw)",
+            "Net Power Gear 5-6": "135 hp (101 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Oscillation - Total": "32  \t\u00b0",
+            "Wheel Lean": "18  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "51 gal/min (193 l/min)",
+            "Pump Type": "closed-center, constant-pressure system w/ variable displacement piston",
+            "Relief Valve Pressure": "2150 psi"
+        },
+        "Moldboard": {
+            "Max Depth of Cut": "17.8 in (43 cm)",
+            "Moldboard Height": "24.1 in (61 cm)",
+            "Moldboard Thickness": "0.9 in (0 cm)",
+            "Moldboard Width": "12 ft (4 m)",
+            "Side Shift Left": "26.4 in (66 cm)",
+            "Side Shift Right": "20.5 in (51 cm)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "19  A",
+            "Cooling System Fluid Capacity": "12.5 gal (45 l)",
+            "Fuel Capacity": "74.8 gal (280 l)",
+            "Hydraulic System Fluid Capacity": "20.1 gal (76 l)",
+            "Max Operation Weight - Front Axle": "9987 lbs (4,530 kg)",
+            "Max Operation Weight - Rear Axle": "21605.4 lbs (9,800 kg)",
+            "Max Operation Weight - Total": "31592.3 lbs (14,330 kg)",
+            "Oil System Fluid Capacity": "7.7 gal (27 l)",
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Front Axle": "7870.6 lbs (3,570 kg)",
+            "Std Operation Weight - Rear Axle": "20128.3 lbs (9,130 kg)",
+            "Std Operation Weight - Total": "27998.8 lbs (12,700 kg)",
+            "Tandem Case Fluid Capacity (each)": "17 gal (64 l)",
+            "Transmission Fluid Capacity": "23 gal (87 l)"
+        },
+        "Steering System": {
+            "Articulation Angle": "50  \t\u00b0",
+            "Turning Radius": "24 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "25.5 mph (40 kph)",
+            "Max Speed - Reverse": "25.5 mph (40 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "6",
+            "Transmission Type": "Cat-built direct drive power shift"
+        }
+    }
+}

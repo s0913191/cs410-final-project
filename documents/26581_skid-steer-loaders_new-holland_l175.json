@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/new-holland/l175/26581",
+    "source_url_id": "26581",
+    "source_url_model": "l175",
+    "source_url_make": "new-holland",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:40.905996",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "L175",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "12.3 ft (4 m)",
+            "Ground Clearance": "8.3 in (20 cm)",
+            "Height - Top of Cab": "6.4 ft (2 m)",
+            "Length with Bucket": "10.8 ft (3 m)",
+            "Reach at Max Lift and Dump": "29.2 in (74 cm)",
+            "Turning Radius from Center - inc bucket": "70.1 in (178 cm)",
+            "Wheelbase": "3.6 ft (1 m)",
+            "Width Over Tires": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134.3 cu in (0 m)",
+            "Engine Model": "N844LT",
+            "Gross Power": "56.4 hp (42 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2900 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.2 gal/min (64 l/min)",
+            "Pump Type": "Gear type",
+            "Relief Valve Pressure": "2600 psi"
+        },
+        "Loader": {
+            "Breakout Force": "4312 psi",
+            "Bucket Capacity": "0.7 cu yds (0 m)",
+            "Operating Load Rating": "2000 lbs (907 kg)",
+            "Tipping Angle": "4000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Chain Box Fluid Capacity - each side": "1.6 gal (4 l)",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Fluid Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "14.4 gal (53 l)",
+            "Hydraulic System Fluid Capacity": "8.6 gal (30 l)",
+            "Max Speed": "10.1 mph (16 kph)",
+            "Operating Speed": "6 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "6230.3 lbs (2,826 kg)",
+            "Tire Size": "12.00X16.5"
+        }
+    }
+}

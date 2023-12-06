@@ -1,0 +1,92 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/3025e/30741873",
+    "source_url_id": "30741873",
+    "source_url_model": "3025e",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:19:51.361748",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "3025E",
+    "equipment_spec": {
+        "3-Point Hitch": {
+            "Category": "Category 1",
+            "Lift capacity (24-in. behind link arms)": "615.1 kg (1,356 lbs)"
+        },
+        "Dimensions": {
+            "Front Axle Clearance": "13 in (33 cm)",
+            "Shipping weight": "1007.9 kg (2,220 lbs)",
+            "Turning radius with brakes": "2.8 METERS",
+            "Wheelbase": "60 ft (18 m)"
+        },
+        "Electrical System": {
+            "Alternator (12-V)": "55 amp",
+            "Battery size": "500 CCA",
+            "Starter size": "1.9 hp (1 kw)"
+        },
+        "Engine": {
+            "Air cleaner": "Dual element",
+            "Aspiration": "Natural",
+            "Bore": "3.5 in (8 cm)",
+            "Compression ratio": "19.1:1",
+            "Cooling system": "Water pump",
+            "Cylinder liners": "Cast-In-Block",
+            "Displacement": "100.1 cu in (0 m)",
+            "Emissions compliance": "Final Tier 4",
+            "Engine Manufacturer": "Yanmar",
+            "Engine Model": "3TNV88F-EPJT1",
+            "Engine torque at rated speed": "69.6 Nm",
+            "Family": "EYDXL1.64NDA, FYDXL1.64NDA, GYDXL1.64NDA",
+            "Fuel tank capacity": "6.3 gal",
+            "Gross Power": "24.7 hp (18 kw)",
+            "Injection pump type": "Direct Injection",
+            "Lubrication": "Pressurized",
+            "Number of Cylinders": "3",
+            "Power take-off (PTO) power": "19.4 hp (14 kw)",
+            "Rated engine speed": "2400 rpm",
+            "Stroke": "3.6 in (8 cm)"
+        },
+        "Final Drive": {
+            "Final Drive Type": "Bull Gear"
+        },
+        "Fluid Capacities": {
+            "Crankcase with filter": "4.5 L"
+        },
+        "Fuel System": {
+            "Fuel System Type": "High pressure common rail direct injection"
+        },
+        "Hydraulic System": {
+            "Draft control sensing": "Position control",
+            "Hydraulic Type": "Open Center",
+            "Maximum operating pressure": "2500 psi",
+            "Pump rated output": "Steering - 15 L/min, Implement - 20.2 L/min",
+            "Pump Type": "Dual gear",
+            "Remote control valves available": "Up to two (optional)"
+        },
+        "Operator Station": {
+            "Gear shift location - console/floor": "Left Hand Side",
+            "Platform - flat/straddle": "Semi-flat",
+            "Rollover protective structure": "Foldable, ASABE S478"
+        },
+        "Power Take-Off (PTO)": {
+            "Brake (for mid and rear PTO)": "Wet disc",
+            "Clutch": "Independent",
+            "Control": "Independent",
+            "Standard": "540 rpm at 2500 rpm"
+        },
+        "Tires": {
+            "Front Tires Size": "Farm - 7-14, Turf - 27x8.5-15, R4 - 25x8.5-14",
+            "Rear Tires Size": "Farm - 11.2-24, Turf - 41x14-20, R4 - 15-19.5"
+        },
+        "Transmission": {
+            "Axle capacity": "Front - 798 kg, Rear - 1197 kg",
+            "Brakes": "Wet disc",
+            "Creeper": "No",
+            "Cruise control": "Optional",
+            "Differential lock": "Yes",
+            "Final Drive Type": "Bull Gear",
+            "Standard transmission; forward/reverse": "Hydrostatic transmission (HST)",
+            "Steering": "Power steering"
+        }
+    }
+}

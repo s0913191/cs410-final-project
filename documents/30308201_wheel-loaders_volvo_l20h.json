@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l20h/30308201",
+    "source_url_id": "30308201",
+    "source_url_model": "l20h",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:46.074734",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L20H",
+    "equipment_spec": {
+        "Axles": {
+            "Axle oil front": "1.1 gal (4 l)",
+            "Axle oil rear": "1.5 gal (4 l)"
+        },
+        "Bucket": {
+            "Breakout Force": "7868.4 lbs (3,569 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Hinge Pin - Max Height": "10.4 ft (3 m)",
+            "Length with Bucket on Ground": "16.6 ft (5 m)",
+            "Wheelbase": "6.8 ft (2 m)",
+            "Width Over Tires": "5.4 ft (2 m)"
+        },
+        "Drive System": {
+            "Transport speed, maximum": "18.7 mph (29 kph)"
+        },
+        "Electrical System": {
+            "Alternator rating": "70 (W/A)",
+            "Batteries": "V",
+            "Battery capacity": "100 Ah",
+            "Starter motor output": "3.4 hp (2 kw)",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "3.5 in (8 cm)",
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Model": "Volvo D2.6M",
+            "Gross Power": "64.4 hp (48 kw)",
+            "Net Power": "63.5 hp (47 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm",
+            "Stroke": "4.4 in (10 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic cycle times (unloaded)": {
+            "Dump time": "3.9 sec",
+            "Lift": "5.2 sec",
+            "Lower": "3 sec"
+        },
+        "Hydraulic System": {
+            "Engine speed": "2400 rpm",
+            "Pump Flow Capacity": "14.6 gal/min (53 l/min)",
+            "Working pressure": "20 MPa, 200 bar"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "2.5 gal (8 l)",
+            "Engine Oil Fluid Capacity": "2.7 gal (8 l)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "15.6 gal (57 l)"
+        },
+        "Steering System": {
+            "Articulation angle": "38  \t\u00b0",
+            "Maximum flow": "8 gal/min (30 l/min)",
+            "Steering cylinders": "1",
+            "Working pressure": "21 MPa, 3046 bar"
+        }
+    }
+}

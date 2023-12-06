@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/caterpillar/267/19228508",
+    "source_url_id": "19228508",
+    "source_url_model": "267",
+    "source_url_make": "caterpillar",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:56.449287",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "267",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.6 ft (2 m)",
+            "Ground Clearance": "13.9 in (33 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length - with Bucket": "12.2 ft (4 m)",
+            "Length - without Bucket": "9.6 ft (3 m)",
+            "Reach at Max Lift and Dump": "2.3 ft (1 m)",
+            "Turning Radius from Center - inc bucket": "99 in (251 cm)",
+            "Width Over Tracks": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Bore": "3.9 in (8 cm)",
+            "Displacement": "183 cu in (0 m)",
+            "Engine Model": "Cat 3034 naturally aspirated",
+            "Gross Power": "63 hp (47 kw)",
+            "Net Power": "59 hp (44 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "21.7 gal/min (79 l/min)"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Operating Load": "2900 lbs (1,315 kg)",
+            "Tipping Angle": "6583  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Breakout Force - Lift Cylinder": "4339 lbs (1,968 kg)",
+            "Breakout Force - Tilt Cylinder": "5259 lbs (2,386 kg)",
+            "Fuel Capacity": "21.7 gal (79 l)",
+            "Ground Contact Area": "2898 cu in (0 m)",
+            "Ground Pressure": "3.1 psi",
+            "Hydraulic System Fluid Capacity": "13.8 gal (49 l)",
+            "Max Speed - high range": "6.1 mph (10 kph)",
+            "Operating Weight": "9154 lbs (4,152 kg)",
+            "Rated Operating Capacities - 35% Tipping Load": "2030 lbs (921 kg)",
+            "Rated Operating Capacities - 50% Tipping Load": "2900 lbs (1,315 kg)",
+            "Tipping Load": "5800 lbs (2,631 kg)"
+        },
+        "Power Train": {
+            "Travel Speed Forward": "6 mph (10 kph)",
+            "Travel Speed Reverse": "6 mph (10 kph)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "2.6 gal (8 l)",
+            "Engine Crankcase": "1.8 gal (4 l)",
+            "Fuel Tank": "22.7 gal (83 l)",
+            "Hydraulic System": "13.7 gal (49 l)",
+            "Hydraulic Tank": "9.2 gal (34 l)"
+        },
+        "Undercarriage": {
+            "Length of Track on Ground": "6.8 ft (2 m)",
+            "Width of Track": "17.8 in (43 cm)"
+        },
+        "Weights": {
+            "Operating Weight": "9088 lbs (4,122 kg)"
+        }
+    }
+}

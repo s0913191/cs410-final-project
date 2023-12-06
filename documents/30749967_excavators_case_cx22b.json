@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx22b/30749967",
+    "source_url_id": "30749967",
+    "source_url_model": "cx22b",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:39.262584",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX22B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "7.6 ft (2 m)",
+            "Max Reach Along Ground": "13.4 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "5.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Length of Track on Ground": "4.9 ft (1 m)",
+            "Tail Swing Radius": "2.5 ft (1 m)",
+            "Width to Outside of Tracks": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "1330 cu in (0 m)",
+            "Engine Model": "3TNV82A-SYB",
+            "Max Torque": "59.1 lbs/ft",
+            "Net Power": "23 hp (17 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "1.1 gal (4 l)",
+            "Engine Oil Capacity": "1.5 gal (4 l)",
+            "Fuel Capacity": "7.4 gal (27 l)",
+            "Hydraulic Pump Flow Capacity": "6.9 gal/min (23 l/min)",
+            "Hydraulic System Fluid Capacity": "6.7 gal (23 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.7 rpm"
+        },
+        "Undercarriage": {
+            "Track Gauge": "3.8 ft (1 m)"
+        }
+    }
+}

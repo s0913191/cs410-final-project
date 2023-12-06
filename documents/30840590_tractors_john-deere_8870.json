@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/8870/30840590",
+    "source_url_id": "30840590",
+    "source_url_model": "8870",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:24:51.416086",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "8870",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Axle Clearance": "128 in (325 cm)",
+            "Overall Length": "268.9 in (681 cm)",
+            "Rear axle clearance": "10.7 ft (3 m)",
+            "Shipping weight": "31438 lbs (14,260 kg)",
+            "Wheelbase": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.2 in (13 cm)",
+            "Displacement": "616.4 cu in (0 m)",
+            "Engine Make": "John Deere",
+            "Gross Power": "350 hp (261 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "300 hp (224 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed-center pressure compensated",
+            "Number of Remote Control Valves": "3 to 5",
+            "Pump Flow Capacity": "38 gal/min (144 l/min)",
+            "Relief Valve Pressure": "2530 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "14980 lbs (6,795 kg)",
+            "3 Point Hitch Type": "3",
+            "Cooling System Fluid Capacity": "14.6 gal (53 l)",
+            "Engine Oil Capacity": "8.5 gal (30 l)",
+            "Front Tire Size": "24.5R-32",
+            "Fuel Capacity": "220 gal (833 l)",
+            "Hydraulic System Fluid Capacity": "38 gal (144 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "35130 lbs (15,935 kg)",
+            "Rear Tire Size": "24.5R-32"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Partially synchronized"
+        }
+    }
+}

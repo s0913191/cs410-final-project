@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex/120/30836979",
+    "source_url_id": "30836979",
+    "source_url_model": "120",
+    "source_url_make": "terex",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:09.591443",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "120",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "48.9 ft (15 m)",
+            "Max Lift Capacity": "5.6 t (4,536 kg)"
+        }
+    }
+}

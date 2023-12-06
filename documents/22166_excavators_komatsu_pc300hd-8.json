@@ -1,0 +1,85 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc300hd-8/22166",
+    "source_url_id": "22166",
+    "source_url_model": "pc300hd-8",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:11:15.348650",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC300HD-8",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.1 ft (10 m)",
+            "Max Digging Depth": "21.8 ft (6 m)",
+            "Max Loading Height": "23 ft (7 m)",
+            "Max Reach Along Ground": "33.9 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "19 ft (6 m)",
+            "Shipping Height of Unit": "10.7 ft (3 m)",
+            "Shipping Length of Unit": "36.6 ft (11 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "33.7 ft (10 m)",
+            "Max Digging Depth": "23.9 ft (7 m)",
+            "Max Loading Height": "23.5 ft (7 m)",
+            "Max Reach Along Ground": "35.7 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "20.5 ft (6 m)",
+            "Shipping Height of Unit": "11.3 ft (3 m)",
+            "Shipping Length of Unit": "36.7 ft (11 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "35 ft (11 m)",
+            "Max Digging Depth": "26.6 ft (8 m)",
+            "Max Loading Height": "25 ft (8 m)",
+            "Max Reach Along Ground": "38.5 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "23.5 ft (7 m)",
+            "Shipping Height of Unit": "12.2 ft (4 m)",
+            "Shipping Length of Unit": "36.9 ft (11 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2.6 cu yds (2 m)",
+            "Minimum Bucket Capacity": "0.9 cu yds (0 m)",
+            "Reference Bucket Capacity": "2.6 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Length of Track on Ground": "14.3 ft (4 m)",
+            "Removal Counterweight Clearance": "4.4 ft (1 m)",
+            "Tail Swing Radius": "11.4 ft (3 m)",
+            "Width to Outside of Tracks": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and aftercooled",
+            "Displacement": "505 cu in (0 m)",
+            "Engine Model": "SAA6D114E-3",
+            "Gross Power": "260 hp (194 kw)",
+            "Net Power": "246 hp (183 kw)",
+            "Power Measured @": "1950 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60 A",
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "9.2 gal (34 l)",
+            "Fuel Capacity": "160 gal (606 l)",
+            "Hydraulic Pump Flow Capacity": "141 gal/min (534 l/min)",
+            "Hydraulic System Fluid Capacity": "49.7 gal (185 l)",
+            "Hydraulic System Relief Valve Pressure": "5400 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "87958 lbs (39,898 kg)",
+            "Swing Drive Fluid Capacity": "3.5 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.5 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "73880 lbs (33,512 kg)",
+            "Max Travel Speed": "3.4 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "49",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "35.5 in (89 cm)",
+            "Track Gauge": "9 ft (3 m)"
+        }
+    }
+}

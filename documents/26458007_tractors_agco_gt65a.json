@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/agco/gt65a/26458007",
+    "source_url_id": "26458007",
+    "source_url_model": "gt65a",
+    "source_url_make": "agco",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:08:41.951432",
+    "equipment_category": "Tractors",
+    "equipment_make": "Agco",
+    "equipment_model": "GT65A",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "internal planetary"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.4 ft (2 m)",
+            "Overall Length": "12.7 in (30 cm)",
+            "Overall Width": "6.4 ft (2 m)",
+            "Wheelbase": "7.2 ft (2 m)",
+            "Width Outside Frame": "6.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "244.1 cu in (0 m)",
+            "Gross Power": "71 hp (53 kw)",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "62 hp (46 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "22.8 gal/min (83 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3520 lbs (1,597 kg)",
+            "3 Point Hitch Type": "Cat II",
+            "Fuel Capacity": "23.7 gal (87 l)",
+            "Operating Weight": "5864.3 lbs (2,660 kg)",
+            "Turning Radius": "12.5 ft (4 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "20",
+            "Number of Reverse Gears": "10",
+            "Transmission Type": "synchro-shuttle"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/xcmg/qy65k/30758419",
+    "source_url_id": "30758419",
+    "source_url_model": "qy65k",
+    "source_url_make": "xcmg",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:22.488467",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "XCMG",
+    "equipment_model": "QY65K",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "137.8 ft (42 m)",
+            "Max Lift Capacity": "130000 lbs (58,968 kg)",
+            "Min Height @ Max Raise Angle": "36.8 ft (11 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "315.2 hp (235 kw)",
+            "Make": "XCMG",
+            "Max Torque": "922 lbs/ft",
+            "Model": "WD615.44",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Dimensions": {
+            "Angle of departure": "11.3  \t\u00b0",
+            "Approach Angle": "16.5  \t\u00b0",
+            "Gradeability": "35%",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "11.4 ft (3 m)",
+            "Transport Length": "44.3 ft (13 m)",
+            "Transport Width": "9.2 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "11.7 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Number of Axels": "4",
+            "Operating Weight": "89507.7 lbs (40,600 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)"
+        }
+    }
+}

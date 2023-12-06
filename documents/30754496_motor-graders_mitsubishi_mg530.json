@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/mitsubishi/mg530/30754496",
+    "source_url_id": "30754496",
+    "source_url_model": "mg530",
+    "source_url_make": "mitsubishi",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:52.703755",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Mitsubishi",
+    "equipment_model": "MG530",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "10.2 ft (3 m)",
+            "Overall Length": "27.9 ft (8 m)",
+            "Wheelbase": "20.6 ft (6 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "680.4 cu in (0 m)",
+            "Engine Model": "C 6D22-T",
+            "Max Power": "185 hp (138 kw)",
+            "Net Power Gear 5-6": "185 hp (138 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Moldboard": {
+            "Moldboard Height": "28.4 in (71 cm)",
+            "Moldboard Thickness": "0.8 in (0 cm)",
+            "Moldboard Width": "13.2 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Total": "31382.9 lbs (14,235 kg)",
+            "Tire Size": "14.00-24-12PR"
+        },
+        "Steering System": {
+            "Turning Radius": "22.7 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "29 mph (47 kph)",
+            "Max Speed - Reverse": "29.6 mph (47 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "6",
+            "Transmission Type": "power shift, planetary gear, hydraulically actuated"
+        }
+    }
+}

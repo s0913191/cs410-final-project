@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/125/30749489",
+    "source_url_id": "30749489",
+    "source_url_model": "125",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:37.785800",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "125",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "6.5 ft (2 m)",
+            "Ground Clearance": "7 in (18 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length w/o Bucket": "7.6 ft (2 m)",
+            "Length with Bucket": "9.9 ft (3 m)",
+            "Reach at Max Lift and Dump": "19.5 in (48 cm)",
+            "Turning Radius from Center - inc bucket": "51.3 in (130 cm)",
+            "Turning Radius from Center - machine rear": "51.3 in (130 cm)",
+            "Wheelbase": "3 ft (1 m)",
+            "Width Over Tires": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "119 cu in (0 m)",
+            "Engine Model": "C190",
+            "Gross Power": "40 hp (30 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic": {
+            "Pump Flow Capacity": "15 gal/min (57 l/min)",
+            "Pump Type": "Open-center",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load Rating": "1410 lbs (640 kg)",
+            "Tipping Angle": "2820  \t\u00b0"
+        },
+        "Operational": {
+            "Cooling System Fluid Capacity": "3.1 gal (11 l)",
+            "Fuel Capacity": "15 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "18 gal (68 l)",
+            "Max Speed": "6.1 mph (10 kph)",
+            "Operating Speed": "6.1 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "5470 lbs (2,481 kg)",
+            "Tire Size": "10-16.5,6PR flotation"
+        }
+    }
+}

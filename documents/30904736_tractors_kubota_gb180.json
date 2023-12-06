@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/gb180/30904736",
+    "source_url_id": "30904736",
+    "source_url_model": "gb180",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:10.351853",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "GB180",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "17 hp (13 kw)"
+        },
+        "Production": {
+            "Series": "GB Series",
+            "Years Manufactured": "2002 - 2003"
+        }
+    }
+}

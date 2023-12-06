@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex/t-230/30758534",
+    "source_url_id": "30758534",
+    "source_url_model": "t-230",
+    "source_url_make": "terex",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:12.539371",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "T 230",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "76  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "93.5 ft (28 m)",
+            "Min Height @ Max Raise Angle": "30.3 ft (9 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "3 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Aspiration": "Turbocharged",
+            "bore": "4.5 in (10 cm)",
+            "Displacement": "504.7 cu in (0 m)",
+            "Gross Power": "249.5 hp (186 kw)",
+            "Make": "Terex",
+            "Max Torque": "800 lbs/ft",
+            "Model": "6CTAA",
+            "Net Power": "221.3 hp (165 kw)",
+            "Number of cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "32.5 ft (10 m)",
+            "Transport Height": "10.8 ft (3 m)",
+            "Transport Length": "35.4 ft (11 m)",
+            "Transport Width": "8.1 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "8.2 ft (2 m)",
+            "Width w/ Outriggers Extended": "22.1 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Carrier Fuel Capacity": "60 gal (227 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "46513.2 lbs (21,098 kg)",
+            "Tire Size": "Front - 425/65R22.5-18 PR, Rear - 10.00x20-14 PR",
+            "Upper Structure Hydraulic System Fluid Capacity": "91 gal (344 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "59.7 mph (95 kph)",
+            "Number of Forward Gears": "10",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Fuller RT 8908LL"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Terex"
+        }
+    }
+}

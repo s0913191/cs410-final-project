@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/j35xnt/30756731",
+    "source_url_id": "30756731",
+    "source_url_model": "j35xnt",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:29:42.639798",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "J35XNT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Tread Range": "35 in (89 cm)",
+            "Gradeability": "4%",
+            "Ground Clearance": "4 in (10 cm)",
+            "Height to Top of Overhead Guard": "6.8 ft (2 m)",
+            "Length to Fork Face": "6.3 ft (2 m)",
+            "Overall Height - mast lowered": "6.5 ft (2 m)",
+            "Overall Width": "3.5 ft (1 m)",
+            "Rear Tread Range": "7.7 in (18 cm)",
+            "Right Angle Stack": "10.5 ft (3 m)",
+            "Turning Radius": "5.2 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Make": "Hyster",
+            "Engine Model": "J35XNT"
+        },
+        "MAST": {
+            "Lift Speed": "128 ft/min",
+            "Load Capacity": "3500 lbs (1,588 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "93 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "5  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "3705 lbs (1,681 kg)",
+            "Axle load - rear": "3937 lbs (1,786 kg)",
+            "Drawbar Pull": "2719 lbs (1,233 kg)",
+            "Front Tire Size": "18 x 7-8",
+            "Max Speed": "10 mph (16 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "5250 lbs (2,381 kg)",
+            "Rear Tire Size": "15 x 4.5-8",
+            "Tire Type": "Pneumatic Shaped Solid"
+        }
+    }
+}

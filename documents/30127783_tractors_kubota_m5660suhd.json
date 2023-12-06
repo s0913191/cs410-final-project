@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m5660suhd/30127783",
+    "source_url_id": "30127783",
+    "source_url_model": "m5660suhd",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:00.976736",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M5660SUHD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Tread Range": "55.2 in (140 cm)",
+            "Ground Clearance": "16.4 in (41 cm)",
+            "Height - Top of ROPS/FOPS": "95.3 in (241 cm)",
+            "Overall Length": "136.1 in (345 cm)",
+            "Overall width": "6.2 ft (2 m)",
+            "Rear Tread Range": "67.8 in (170 cm)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "45 A",
+            "Aspiration": "Turbocharged",
+            "Displacement": "148.5 cu in (0 m)",
+            "Engine Make": "KUBOTA",
+            "Engine Type": "4 cylinder in-line, Common Rail Sytem, direct injection",
+            "Gross Power": "57.9 hp (43 kw)",
+            "Net Power": "56 hp (42 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "50 hp (37 kw)"
+        },
+        "Hydraulic System": {
+            "Controls": "Position",
+            "Number of Remote Control Valves": "1 (2nd, 3rd & flow control valve optional)",
+            "Pump Flow Capacity": "10.6 gal/min (38 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3307 lbs (1,500 kg)",
+            "3 Point Hitch Type": "Category I & II",
+            "Fuel Capacity": "17.7 gal (64 l)",
+            "Operating Weight": "4387.2 lbs (1,990 kg)",
+            "Turning Radius": "12.8 ft (4 m)"
+        },
+        "Power Take-Off (PTO)": {
+            "PTO speed": "540 rpm",
+            "PTO type": "Live-independent, hydraulic PTO"
+        },
+        "Tires": {
+            "Standard_Option_Front": "8.3-24",
+            "Standard_Option_Rear": "14.9-28"
+        },
+        "Transmission": {
+            "Brake type": "Mechanical wet disc",
+            "Clutch; Wet/Dry": "Multiple wet disk",
+            "Differential lock": "Rear standard (mechanical)",
+            "Max Speed": "18.6 mph (29 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "shuttle type": "Hydraulic shuttle"
+        }
+    }
+}

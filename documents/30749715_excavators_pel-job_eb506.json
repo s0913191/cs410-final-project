@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/pel-job/eb506/30749715",
+    "source_url_id": "30749715",
+    "source_url_model": "eb506",
+    "source_url_make": "pel-job",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:18:07.930514",
+    "equipment_category": "Excavators",
+    "equipment_make": "Pel-Job",
+    "equipment_model": "EB506",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "16.6 ft (5 m)",
+            "Max Digging Depth": "11.6 ft (3 m)",
+            "Max Loading Height": "11.8 ft (3 m)",
+            "Max Reach Along Ground": "18.4 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "9.6 ft (3 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "17.9 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "17.3 ft (5 m)",
+            "Max Digging Depth": "12.9 ft (4 m)",
+            "Max Loading Height": "12.5 ft (4 m)",
+            "Max Reach Along Ground": "19.6 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "10.9 ft (3 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "17.3 ft (5 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.4 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Removal Counterweight Clearance": "2.3 ft (1 m)",
+            "Tail Swing Radius": "4.9 ft (1 m)",
+            "Width to Outside of Tracks": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "135.3 cu in (0 m)",
+            "Engine Model": "104.22",
+            "Gross Power": "36.8 hp (27 kw)",
+            "Max Torque": "102.6 lbs/ft",
+            "Net Power": "33.7 hp (25 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "2050 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "21.2 gal (79 l)",
+            "Hydraulic Pump Flow Capacity": "27.1 gal/min (102 l/min)",
+            "Hydraulic System Relief Valve Pressure": "3626 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "11144.4 lbs (5,055 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.7 psi",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Shoe Size": "15.8 in (38 cm)"
+        }
+    }
+}

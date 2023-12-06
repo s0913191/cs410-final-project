@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/mustang/2700v-nxt2/30691318",
+    "source_url_id": "30691318",
+    "source_url_model": "2700v-nxt2",
+    "source_url_make": "mustang",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:34.138971",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Mustang",
+    "equipment_model": "2700V NXT2",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "72 hp (54 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2700 lbs (1,225 kg)",
+            "Operating Width": "69.5 in (175 cm)"
+        }
+    }
+}

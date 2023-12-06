@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/new-holland/w170b-tc/30761192",
+    "source_url_id": "30761192",
+    "source_url_model": "w170b-tc",
+    "source_url_make": "new-holland",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:41.919950",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "W170B TC",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "FPT",
+            "Model": "667TA/EB3",
+            "Net Power": "183 hp (136 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.0 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "31100 lbs (14,107 kg)"
+        }
+    }
+}

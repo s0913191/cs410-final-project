@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/terex/tg190ta-3/30754498",
+    "source_url_id": "30754498",
+    "source_url_model": "tg190ta-3",
+    "source_url_make": "terex",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:22:13.041209",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Terex",
+    "equipment_model": "TG190TA-3",
+    "equipment_spec": {
+        "Circle": {
+            "Diameter": "5 in (13 cm)",
+            "Max Lift Above Ground": "4.3 in (10 cm)"
+        },
+        "Dimensions": {
+            "Front Ground Clearance": "18.6 ft (5 m)",
+            "Height to Top of Isomount Cab": "10.9 ft (3 m)",
+            "Overall Length": "33.7 ft (10 m)",
+            "Rear Ground Clearance": "18.6 ft (5 m)",
+            "Tandem Axle Wheelbase": "5.1 ft (2 m)",
+            "Wheelbase": "20.1 ft (6 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo Charged, Water cooled",
+            "Displacement": "366 cu in (0 m)",
+            "Max Power": "176 hp (131 kw)",
+            "Net Power Gear 5-6": "176 hp (131 kw)"
+        },
+        "Front Axle": {
+            "Ground Clearance": "23.3 ft (7 m)",
+            "Oscillation - Total": "15  \t\u00b0",
+            "Wheel Lean": "17  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "26.1 gal/min (98 l/min)",
+            "Pump Type": "Axial Piston Pump",
+            "Relief Valve Pressure": "2669 psi"
+        },
+        "Moldboard": {
+            "Blade Pull at Max Weight": "31264 lbs (14,181 kg)",
+            "Moldboard Height": "24.8 in (61 cm)",
+            "Moldboard Thickness": "0.8 in (0 cm)",
+            "Moldboard Width": "12 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Circle Gearbox Fluid Capacity": "1.6 gal (4 l)",
+            "Cooling System Fluid Capacity": "11.9 gal (42 l)",
+            "Fuel Capacity": "126.8 gal (477 l)",
+            "Hydraulic System Fluid Capacity": "44.9 gal (167 l)",
+            "Operating Voltage": "24 V V",
+            "Rear Diff/Final Drive Fluid Capacity": "4 gal (15 l)",
+            "Std Operation Weight - Front Axle": "11023 lbs (5,000 kg)",
+            "Std Operation Weight - Rear Axle": "30203 lbs (13,700 kg)",
+            "Std Operation Weight - Total": "41266 lbs (18,718 kg)",
+            "Tandem Case Fluid Capacity (each)": "5.5 gal (19 l)",
+            "Tire Size": "14.00 -24TG",
+            "Transmission Fluid Capacity": "9 gal (34 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "12 mph (19 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "3",
+            "Transmission Type": "Auto Power Shift Tansmission With torque Converter"
+        }
+    }
+}

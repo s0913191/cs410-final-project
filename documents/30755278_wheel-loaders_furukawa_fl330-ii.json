@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/furukawa/fl330-ii/30755278",
+    "source_url_id": "30755278",
+    "source_url_model": "fl330-ii",
+    "source_url_make": "furukawa",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:45:25.086535",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Furukawa",
+    "equipment_model": "FL330-II",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "40780.4 lbs (18,498 kg)",
+            "Bucket Capacity - heaped": "4.9 cu yds (3 m)",
+            "Bucket Width": "10 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Length with Bucket on Ground": "26.9 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.8 ft (1 m)",
+            "Wheelbase": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "C 6D24T",
+            "Net Power": "218 hp (163 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Operating Weight": "42659.5 lbs (19,350 kg)",
+            "Static Tipping Weight": "29321.5 lbs (13,300 kg)",
+            "Tire Size": "23.5x2516 PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.2 mph (34 kph)",
+            "Transmission Type": "powershift planetary automatic"
+        }
+    }
+}

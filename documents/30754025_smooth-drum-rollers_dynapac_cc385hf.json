@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc385hf/30754025",
+    "source_url_id": "30754025",
+    "source_url_model": "cc385hf",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:23.017376",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC385HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "28.2 in (71 cm)",
+            "Gradeability": "37%",
+            "Ground Clearance": "10.7 in (25 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "176.8 in (447 cm)",
+            "Turning Radius - Outside": "17.5 ft (5 m)",
+            "Wheelbase": "131.5 in (333 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "20232.9 lbs (9,177 kg)",
+            "Centrifugal Force - Low": "16860.7 lbs (7,648 kg)",
+            "Drum Diameter": "45.3 in (114 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "68.2 in (173 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "152.4 lbs/in",
+            "Vibration Frequency 1": "48 hz (2,880 vpm)",
+            "Vibration Frequency 2": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Kirloskar",
+            "Engine Model": "4R1040TA3",
+            "Engine Type": "Water cooled, Turbo charged, Intercooler",
+            "Gross Power": "105 hp (78 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "54.2 gal (204 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "23589.5 lbs (10,700 kg)",
+            "Operating weight ROPS": "20723.5 lbs (9,400 kg)",
+            "Oscillating angle": "7  \t\u00b0",
+            "Steering Angle": "32  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "198.2 gal (749 l)"
+        }
+    }
+}

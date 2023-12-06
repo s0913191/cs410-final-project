@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl740xtd-9/15006",
+    "source_url_id": "15006",
+    "source_url_model": "hl740xtd-9",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:11.891649",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL740XTD-9",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "3.1 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.7 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "10.6 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Hinge Pin - Max Height": "14 ft (4 m)",
+            "Length with Bucket on Ground": "25.7 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "145 hp (108 kw)",
+            "Net Power": "143 hp (107 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "41 gal/min (155 l/min)",
+            "Pump Type": "Variable Axial Piston",
+            "Raise Time": "5.5 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "9 gal (34 l)",
+            "Engine Oil Fluid Capacity": "4.8 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "5.8 gal (19 l)",
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Hydraulic System Fluid Capacity": "48.7 gal (182 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "27116.9 lbs (12,300 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.8 gal (19 l)",
+            "Static Tipping Weight": "18915.7 lbs (8,580 kg)",
+            "Tire Size": "20.5-25",
+            "Transmission Fluid Capacity": "6.7 gal (23 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.3 mph (39 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

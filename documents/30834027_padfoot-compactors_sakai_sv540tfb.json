@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/sakai/sv540tfb/30834027",
+    "source_url_id": "30834027",
+    "source_url_model": "sv540tfb",
+    "source_url_make": "sakai",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:40:05.298590",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV540TFB",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "11.4 Inches"
+        },
+        "Drum": {
+            "Drum Width": "84 Inches",
+            "Vibration Frequency": "26 - 33 hz (1,560 - 1,980 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "110 Inches"
+        }
+    }
+}

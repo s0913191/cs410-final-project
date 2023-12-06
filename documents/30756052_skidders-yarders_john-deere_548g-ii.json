@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/john-deere/548g-ii/30756052",
+    "source_url_id": "30756052",
+    "source_url_model": "548g-ii",
+    "source_url_make": "john-deere",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:30.237235",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "John Deere",
+    "equipment_model": "548G II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Width": "47.4 ft (14 m)",
+            "Cable Width": "254 in (645 cm)",
+            "Drum Capacity at Cable Width": "40465.7 ft (12,334 m)",
+            "Drum Diameter": "0.7 in (0 cm)",
+            "Grapple Capacity - tongs tip to tip": "8 CUBIC ft",
+            "Ground Clearance": "9.9 ft (3 m)",
+            "Height": "2.9 ft (1 m)",
+            "Height - Top of Cab": "1.7 ft (0 m)",
+            "Height of Grapple from Ground": "7.1 ft ft (2 m)",
+            "Max Blade Height": "8.1 in (20 cm)",
+            "Max Height of Boom": "6.5 ft (2 m)",
+            "Max Line Pull - bare drum": "131.3 lbs (59 kg)",
+            "Overall Length": "9.9 ft (3 m)",
+            "Overall Width": "9.9 ft (3 m)",
+            "Tong Opening at Tips": "398 in (1,011 cm)",
+            "Wheelbase": "2.83 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "21740",
+            "Displacement": "turbocharged cu in (0 m)",
+            "Engine Model": "127",
+            "Gross Power": "119 hp (89 kw)",
+            "Net Power": "2200 hp (1,641 kw)",
+            "Peak Torque": "1400 lbs/ft",
+            "Power Measured @": "414 rpm",
+            "Torque Measured @": "50 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "3000 gal/min (11,355 l/min)",
+            "Pump Type": "27",
+            "Relief Valve Pressure": "9.6 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "direct-drive power shift",
+            "Cooling System Fluid Capacity": "5 gal (19 l)",
+            "Engine Oil Capacity": "4.5 gal (15 l)",
+            "Front Diff Fluid Capacity": "4.5 gal (15 l)",
+            "Fuel Capacity": "6.5 gal (23 l)",
+            "Hydraulic System Fluid Capacity": "90  \t\u00b0",
+            "Operating Voltage": "65  A",
+            "Operating Weight": "12 V lbs (5 kg)",
+            "Rear Diff Fluid Capacity": "7.8 gal (27 l)",
+            "Steering Angle": "26 - 28 V  -",
+            "Transmission Fluid Capacity": "8.1 gal (30 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "9.1 mph (14 kph)",
+            "Number of Forward Gears": "7",
+            "Number of Reverse Gears": "12.1",
+            "Transmission Type": "8"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "variable-displacement axial piston cu in (0 m)",
+            "Length of Track on Ground": "6068T ft (1,850 m)"
+        },
+        "Winch - Grapple Skidder": {
+            "Drum Capacity - 25.4mm (1 in)": "30  \t\u00b0"
+        }
+    }
+}

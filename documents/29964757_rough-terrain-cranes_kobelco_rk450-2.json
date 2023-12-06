@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/kobelco/rk450-2/29964757",
+    "source_url_id": "29964757",
+    "source_url_model": "rk450-2",
+    "source_url_make": "kobelco",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:44.199398",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Kobelco",
+    "equipment_model": "RK450-2",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82.5  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "128 ft (39 m)",
+            "Min Height @ Max Raise Angle": "33.5 ft (10 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2.4 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "29527.6 ft (9,000 m)",
+            "Transport Height": "12 ft (4 m)",
+            "Transport Length": "40.1 ft (12 m)",
+            "Transport Width": "9.6 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "11.7 ft (3 m)",
+            "Wheelbase": "189.8 in (480 cm)",
+            "Width w/ Outriggers Extended": "23.7 ft (7 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Engine Make": "Mitsubishi",
+            "Engine Model": "6D22TC",
+            "Gross Power": "315.7 hp (235 kw)",
+            "Max Torque": "853.5 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "151.9 gal (572 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "82585.2 lbs (37,460 kg)",
+            "Tire Size": "18.00R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "30.5 mph (48 kph)"
+        }
+    }
+}

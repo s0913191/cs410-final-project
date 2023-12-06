@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/420e-it/33928",
+    "source_url_id": "33928",
+    "source_url_model": "420e-it",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:35.768151",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "420E IT",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "13875 lbs (6,294 kg)",
+            "Bucket Dig Force - Extended": "13863 lbs (6,288 kg)",
+            "Dig Depth": "14.4 ft (4 m)",
+            "Dig Depth - Extended": "18 ft (5 m)",
+            "Load Height": "5.9 ft (2 m)",
+            "Load Height - Extended": "13.6 ft (4 m)",
+            "Reach at Load Height - Extended": "9.1 ft (3 m)",
+            "Reach From Swivel": "18.5 ft (5 m)",
+            "Reach From Swivel - Extended": "21.9 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.3 ft (3 m)",
+            "Transport Length": "23.8 ft (7 m)",
+            "Transport Width": "7.7 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268 cu in (0 m)",
+            "Engine Model": "C4.4 DIT",
+            "Gross Power": "101 hp (75 kw)",
+            "Net Max Torque": "301 lbs/ft",
+            "Net Power": "93 hp (69 kw)",
+            "Net Torque Rise": "0.36",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "43 gal/min (163 l/min)",
+            "Pump Type": "variable-flow, axial piston",
+            "Relief Valve Pressure": "3611 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "10242 lbs (4,646 kg)",
+            "Bucket Capacity": "1.3 cu yds (1 m)",
+            "Bucket Width": "7.5 in (18 cm)",
+            "Clearance at Max Dump Height": "8.5 ft (2 m)",
+            "Dig Depth": "4 in (10 cm)",
+            "Lift Capacity": "2288 lbs (1,038 kg)",
+            "Reach at Max Dump Height": "2.9 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.4 gal (15 l)",
+            "Front Axle Fluid Capacity": "2.9 gal (8 l)",
+            "Fuel Capacity": "38 gal (144 l)",
+            "Hydraulic System Fluid Capacity": "20.9 gal (76 l)",
+            "Max Weight": "24250.9 lbs (11,000 kg)",
+            "Oil System Fluid Capacity": "2 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15474 lbs (7,019 kg)",
+            "Operating Weight 4wd": "16920.5 lbs (7,675 kg)",
+            "Rear Axle Fluid Capacity": "4.4 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "11L-16 F-3/12.5/80-18 (10ply) 1-3 Super Traction",
+            "Transmission Fluid Capacity": "5 gal (19 l)",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5L-24 (12 ply) R4 ATU/ 19.5L-24 (12 ply) IT 525"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

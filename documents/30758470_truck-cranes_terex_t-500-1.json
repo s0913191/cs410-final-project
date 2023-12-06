@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex/t-500-1/30758470",
+    "source_url_id": "30758470",
+    "source_url_model": "t-500-1",
+    "source_url_make": "terex",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:14.548791",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "T 500-1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "50-60 ft (15 m)",
+            "Max Lift Capacity": "170 t (154,221 kg)"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "775.1 cu in (0 m)",
+            "Gross Power": "430 hp (321 kw)",
+            "Make": "Terex",
+            "Max Torque": "1450.1 lbs/ft",
+            "Model": "Series 60",
+            "Net Power": "392 hp (292 kw)",
+            "Power Measured @": "1600 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "38.6 ft (12 m)",
+            "Transport Height": "11.9 ft (3 m)",
+            "Transport Length": "43.9 ft (13 m)",
+            "Transport Width": "8.5 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "12 ft (4 m)",
+            "Width w/ Outriggers Extended": "23 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Carrier Fuel Capacity": "100.2 gal (379 l)",
+            "Carrier Hydraulic System Fluid Capacity": "117.1 gal (443 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "71824 lbs (32,579 kg)",
+            "Tire Size": "Front - 425/65R22.5-18 PR / Rear - 11 R22.5-14PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "65 mph (105 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1"
+        }
+    }
+}

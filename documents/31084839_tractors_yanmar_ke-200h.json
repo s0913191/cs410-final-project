@@ -1,0 +1,19 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ke-200h/31084839",
+    "source_url_id": "31084839",
+    "source_url_model": "ke-200h",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:49.076417",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "Ke-200H",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "20 hp (15 kw)"
+        },
+        "Production": {
+            "Series": "KE Series"
+        }
+    }
+}

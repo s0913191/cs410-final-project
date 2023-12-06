@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t3010/31084800",
+    "source_url_id": "31084800",
+    "source_url_model": "t3010",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:39.628290",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T3.010",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "34 hp (25 kw)"
+        },
+        "Production": {
+            "Series": "T3000 Series",
+            "Years Manufactured": "2007 - 2017"
+        }
+    }
+}

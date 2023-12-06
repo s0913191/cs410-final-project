@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca141pd/9796",
+    "source_url_id": "9796",
+    "source_url_model": "ca141pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:31.240180",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA141PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Overall Length w/o Blade": "12.5 ft (4 m)",
+            "Width Over Tires": "5.4 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "18659.2 lbs (8,464 kg)",
+            "Drum Diameter": "42.1 in (107 cm)",
+            "Drum Width": "60 in (152 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Number of Pads": "90",
+            "Pad Surface Area": "8.3 cu in (0 m)",
+            "Vibration Frequency 1": "34 hz (2,040 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "e 3029 TF",
+            "Gross Power": "71.1 hp (53 kw)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "4.4 mph (6 kph)",
+            "Operating Weight": "11111.3 lbs (5,040 kg)"
+        }
+    }
+}

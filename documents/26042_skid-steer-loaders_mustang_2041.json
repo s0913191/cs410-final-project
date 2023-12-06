@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/mustang/2041/26042",
+    "source_url_id": "26042",
+    "source_url_model": "2041",
+    "source_url_make": "mustang",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:26.672351",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Mustang",
+    "equipment_model": "2041",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.3 ft (2 m)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Length w/o Bucket": "7.6 ft (2 m)",
+            "Length with Bucket": "9.7 ft (3 m)",
+            "Reach at Max Lift and Dump": "8.3 in (20 cm)",
+            "Turning Radius from Center - inc bucket": "69.2 in (175 cm)",
+            "Turning Radius from Center - machine rear": "58.4 in (147 cm)",
+            "Wheelbase": "3.1 ft (1 m)",
+            "Width Over Tires": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "134 cu in (0 m)",
+            "Engine Model": "4TNV88",
+            "Gross Power": "46 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "16.5 gal/min (61 l/min)",
+            "Relief Valve Pressure": "2750 psi"
+        },
+        "Loader": {
+            "Breakout Force": "2800 psi",
+            "Bucket Capacity": "0.4 cu yds (0 m)",
+            "Operating Load Rating": "1475 lbs (669 kg)",
+            "Operating Width": "55 in (140 cm)",
+            "Tipping Angle": "2700  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "650  A",
+            "Fuel Capacity": "12.4 gal (45 l)",
+            "Hydraulic System Fluid Capacity": "10 gal (38 l)",
+            "Max Speed": "6.4 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "4600 lbs (2,087 kg)"
+        }
+    }
+}

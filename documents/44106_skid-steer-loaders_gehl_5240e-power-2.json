@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/gehl/5240e-power-2/44106",
+    "source_url_id": "44106",
+    "source_url_model": "5240e-power-2",
+    "source_url_make": "gehl",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:53.182391",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Gehl",
+    "equipment_model": "5240E Power 2",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "68 hp (51 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "1900 lbs (862 kg)",
+            "Operating Width": "62.0 in (157 cm)"
+        }
+    }
+}

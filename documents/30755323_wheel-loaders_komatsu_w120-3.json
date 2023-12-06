@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/w120-3/30755323",
+    "source_url_id": "30755323",
+    "source_url_model": "w120-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:55.998552",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "W120-3",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "31530 lbs (14,302 kg)",
+            "Bucket Capacity - heaped": "4.4 cu yds (3 m)",
+            "Bucket Width": "9.6 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Hinge Pin - Max Height": "13.3 ft (4 m)",
+            "Length with Bucket on Ground": "25.1 ft (8 m)",
+            "Reach at Max Lift and Dump": "4.1 ft (1 m)",
+            "Wheelbase": "10.3 ft (3 m)",
+            "Width Over Tires": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "435 cu in (0 m)",
+            "Engine Model": "SA6D110",
+            "Gross Power": "200 hp (149 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.3 sec",
+            "Lower Time": "3.2 sec",
+            "Raise Time": "6.3 sec"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "13 gal (49 l)",
+            "Fuel Capacity": "80.1 gal (303 l)",
+            "Operating Weight": "37787.3 lbs (17,140 kg)",
+            "Static Tipping Weight": "28990.8 lbs (13,150 kg)",
+            "Tire Size": "23.5-25-12PR (L-2)",
+            "Turning Radius": "22.8 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "18.7 mph (29 kph)",
+            "Max Speed - Reverse": "20.1 mph (32 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TORQFLOW full power shift countershaft full soft-shift"
+        }
+    }
+}

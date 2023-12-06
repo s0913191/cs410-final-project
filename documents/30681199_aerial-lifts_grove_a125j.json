@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/a125j/30681199",
+    "source_url_id": "30681199",
+    "source_url_model": "a125j",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:37.910191",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "A125J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height - mast lowered": "9.9 ft (3 m)",
+            "Overall Length": "39.4 in (99 cm)",
+            "Overall Width": "8.6 ft (2 m)",
+            "Turning Radius": "15.3 ft (5 m)"
+        },
+        "Engine": {
+            "Engine Model": "Diesel",
+            "Fuel Type": "Dual Fuel"
+        },
+        "Performance": {
+            "Max Speed": "2.5 mph (3 kph)",
+            "Operating Weight": "47899.9 lbs (21,727 kg)"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "69.6 ft (21 m)",
+            "Max Platform Height": "125 ft (38 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "131 ft (40 m)",
+            "Platform Inner Length": "94.5 in (239 cm)",
+            "Platform Inner Width": "35.9 in (89 cm)"
+        }
+    }
+}

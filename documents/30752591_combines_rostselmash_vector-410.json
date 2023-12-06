@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/rostselmash/vector-410/30752591",
+    "source_url_id": "30752591",
+    "source_url_model": "vector-410",
+    "source_url_make": "rostselmash",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:34.266415",
+    "equipment_category": "Combines",
+    "equipment_make": "Rostselmash",
+    "equipment_model": "Vector 410",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1000 rpm",
+            "Cleaning Fan Speed - Low": "380 rpm",
+            "Total Cleaning Area": "5564.6 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "13.2 ft (4 m)",
+            "Overall Length": "53.9 ft (16 m)",
+            "Wheelbase": "12.4 ft (4 m)",
+            "Width Over Tires": "11.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "YAMZ-236ND",
+            "Power": "206.6 hp (154 kw)"
+        },
+        "Feeding": {
+            "Conveyor Speed": "49 rpm",
+            "Conveyor Width": "252 in (640 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "170.3 bu",
+            "Unloading Discharge Height": "10.9 ft (3 m)",
+            "Unloading Speed": "1.2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "142.7 gal (537 l)",
+            "Operating Weight w/o Attachment": "24361.1 lbs (11,050 kg)"
+        },
+        "Separating": {
+            "Separating Area": "7750.1 cu in (0 m)",
+            "Separator Length": "161.5 in (409 cm)",
+            "Separator Type": "4 key straw walker"
+        },
+        "Threshing": {
+            "Concave Area": "1698.9 cu in (0 m)",
+            "Rotor Diameter": "31.5 in (79 cm)",
+            "Rotor Length": "46.7 in (117 cm)",
+            "Rotor Speed - High": "945 rpm",
+            "Rotor Speed - Low": "420 rpm"
+        }
+    }
+}

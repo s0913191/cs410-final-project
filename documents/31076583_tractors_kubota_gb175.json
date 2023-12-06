@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/gb175/31076583",
+    "source_url_id": "31076583",
+    "source_url_model": "gb175",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:09.104548",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "GB175",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "16 hp (12 kw)"
+        },
+        "Production": {
+            "Series": "GB Series",
+            "Years Manufactured": "2004 - 2006"
+        }
+    }
+}

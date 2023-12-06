@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/at9120/30862449",
+    "source_url_id": "30862449",
+    "source_url_model": "at9120",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:23.986367",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "AT9120",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "160 ft (49 m)",
+            "Max Lift Capacity": "240000 lbs (108,863 kg)",
+            "Max Working Radius": "140 ft (43 m)",
+            "Min Height @ Max Raise Angle": "42.5 ft (13 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.4 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "891 cu in (0 m)",
+            "Gross Power": "429.2 hp (320 kw)",
+            "Make": "Grove",
+            "Max Torque": "1327.7 lbs/ft",
+            "Model": "OM442LA",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "40.9 ft (12 m)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Transport Height": "13.1 ft (4 m)",
+            "Transport Length": "50.9 ft (15 m)",
+            "Transport Width": "9.6 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "14.6 ft (4 m)",
+            "Width w/ Outriggers Extended": "25.1 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "114.2 gal (431 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "157000 lbs (71,215 kg)",
+            "Tire Size": "20.5R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "43.5 mph (69 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "fully automatic"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "366.2 cu in (0 m)",
+            "Gross Power": "207.9 hp (154 kw)",
+            "Make": "Grove",
+            "Max Torque": "472.1 lbs/ft",
+            "Model": "OM366LA",
+            "Power Measured @": "2600 rpm",
+            "Torque Measured @": "1500 rpm"
+        }
+    }
+}

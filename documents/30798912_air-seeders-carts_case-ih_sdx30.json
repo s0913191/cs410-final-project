@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/air-seeders-carts/case-ih/sdx30/30798912",
+    "source_url_id": "30798912",
+    "source_url_model": "sdx30",
+    "source_url_make": "case-ih",
+    "source_url_category": "air-seeders-carts",
+    "source_date_scraped": "2023-09-13 16:58:41.045926",
+    "equipment_category": "Air Seeders / Carts",
+    "equipment_make": "Case Ih",
+    "equipment_model": "SDX30",
+    "equipment_spec": {
+        "Dimensions": {
+            "Max Weight": "24500 lbs (11,113 kg)",
+            "Min Weight": "22200 lbs (10,070 kg)",
+            "Overall Length": "27.9 in (69 cm)",
+            "Transport Height": "12 ft (4 m)",
+            "Transport Width": "14.5 ft (4 m)",
+            "Wing Tires": "31x13.5x15 (10 ply)",
+            "Working Width Spacing #1 Max": "30 ft (9 m)",
+            "Working Width Spacing #2 Max": "30 ft (9 m)"
+        },
+        "Disc System": {
+            "Spacing #1": "7.5 in (18 cm)",
+            "Spacing #2": "10 in (25 cm)"
+        },
+        "Tires": {
+            "Tires": "31x13.5x15 (14 ply)"
+        }
+    }
+}

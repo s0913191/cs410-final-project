@@ -1,0 +1,140 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/caterpillar/627f/30672782",
+    "source_url_id": "30672782",
+    "source_url_model": "627f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:30.994290",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "627F",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "26.2 cu yds (20 m)",
+            "Struck Capacity": "18.4 cu yds (14 m)",
+            "Width of Cut": "10 ft (3 m)"
+        },
+        "Dimensions": {
+            "Axle to Vertical Hitch Pin": "17 in (43 cm)",
+            "Bail Length - Maximum (Push-Pull)": "60 in (152 cm)",
+            "Extended Push Block (Push-Pull)": "110 in (279 cm)",
+            "Front of Tractor to Front Axle": "10.5 in (25 cm)",
+            "Ground Clearance - Tractor": "1.9 in (3 cm)",
+            "Height - Overall Shipping": "146 in (371 cm)",
+            "Height - Scraper Blade Maximum": "21 in (53 cm)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Length - Overall Machine": "507 in (1,288 cm)",
+            "Overall Height": "12.2 ft (4 m)",
+            "Overall Length": "42.3 ft (13 m)",
+            "Overall Width": "11.4 ft (3 m)",
+            "Rear Axle - Rear of Machine": "85 in (216 cm)",
+            "Wheel Base": "25.4 ft (8 m)",
+            "Width - Inside of Bowl": "116 in (295 cm)",
+            "Width - Outside Rear Tires": "120 in (305 cm)",
+            "Width - Overall Machine": "136 in (345 cm)",
+            "Width - Rear Tire Center Lines": "87 in (221 cm)",
+            "Width - Tractor": "117 in (297 cm)"
+        },
+        "Engine": {
+            "Scraper Engine": "3306",
+            "Tractor Engine": "3306 / 3406C"
+        },
+        "Hydraulic System": {
+            "Apron Cylinder Bore": "7.3 in (18 cm)",
+            "Apron Cylinder Stroke": "24 in (61 cm)",
+            "Bowl Cylinder Bore": "6 in (15 cm)",
+            "Bowl Cylinder Stroke": "32 in (81 cm)",
+            "Cushion Hitch Circuit": "9.2 gal/min (34 l/min)",
+            "Ejector Cylinder Bore": "6.5 in (15 cm)",
+            "Ejector Cylinder Stroke": "61 in (155 cm)",
+            "Relief Valve - Implement Circuit": "2150 psi",
+            "Relief Valve - Steering Circuit": "2250 psi",
+            "Scraper Circuit": "65.5 gal/min (246 l/min)",
+            "Secondary Steering Circuit": "37 gal/min (140 l/min)",
+            "Steering Circuit": "52 gal/min (197 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "262 gal (992 l)",
+            "Hydraulic System Fluid Capacity": "37 gal (140 l)",
+            "Tire Size": "33.25-R29 MX XRB 2"
+        },
+        "Scraper Bowl": {
+            "Apron Closure Force": "24075 lbs (10,920 kg)",
+            "Apron Opening": "70 in (178 cm)",
+            "Capacity - Struck": "14 cu yds (11 m)",
+            "Cutting Edge Thickness": "1.2 in (3 cm)",
+            "Depth of Cut - Maximum": "13.1 in (33 cm)",
+            "Depth of Spread - Maximum": "20.6 in (51 cm)",
+            "Ground Clearance - Maximum": "20.6 in (51 cm)",
+            "Hyd. Penetration Force - 621G": "48375 lbs (21,943 kg)",
+            "Rated Load": "48000 lbs (21,773 kg)",
+            "Scraper Capacity - Heaped": "20 cu yds (15 m)",
+            "Width - Cut - To Router Bits": "119 in (302 cm)"
+        },
+        "Scraper Engine": {
+            "Bore": "4.8 in (10 cm)",
+            "Displacement": "638 cu in (0 m)",
+            "Gross Power": "246 hp (183 kw)",
+            "Gross Power - Gear 1": "246 hp (183 kw)",
+            "Make": "Caterpillar",
+            "Model": "3306",
+            "Net Power - Gear 1": "225 hp (168 kw)",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "6 in (15 cm)"
+        },
+        "Service Refill Capacities - Tractor": {
+            "Cooling System": "22 gal (83 l)",
+            "Crankcase": "9.5 gal (34 l)",
+            "Differential": "43 gal (163 l)",
+            "Final Drive - Each": "5 gal (19 l)",
+            "Hydraulic Reservoir": "37 gal (140 l)",
+            "Transmission": "19 gal (72 l)",
+            "Wheel Coolant - Each": "12 gal (45 l)"
+        },
+        "Steering System": {
+            "Steering Angle - Left": "85  \t\u00b0",
+            "Steering Angle - Right": "90  \t\u00b0",
+            "Width - 180 degrees Turn": "35.8 ft (11 m)"
+        },
+        "Tractor Engine": {
+            "Bore": "5.4 in (13 cm)",
+            "Caterpillar Net Power": "330 hp (246 kw)",
+            "Displacement": "893 cu in (0 m)",
+            "EEC 80/1269": "330 hp (246 kw)",
+            "Gross Power": "347 hp (259 kw)",
+            "ISO 9249": "330 hp (246 kw)",
+            "Net Power": "327 hp (244 kw)",
+            "Net Power - Gears 1-2": "330 hp (246 kw)",
+            "SAE J1349": "327 hp (244 kw)",
+            "Stroke": "6.5 in (15 cm)"
+        },
+        "Transmission": {
+            "1 Forward": "3.1 mph (5 kph)",
+            "2 Forward": "5.6 mph (8 kph)",
+            "3 Forward": "7.1 mph (11 kph)",
+            "4 Forward": "9.6 mph (14 kph)",
+            "5 Forward": "12.9 mph (19 kph)",
+            "6 Forward": "17.5 mph (27 kph)",
+            "7 Forward": "23.6 mph (37 kph)",
+            "8 Forward": "31.9 mph (50 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "1",
+            "Reverse": "5.7 mph (8 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "84050 lbs (38,125 kg)",
+            "Total Operating - Loaded": "80599 lbs (36,560 kg)"
+        },
+        "Weights - Standard, Tandem": {
+            "Front Axle": "49590 lbs (22,494 kg)",
+            "Front Axle Weight - Loaded": "64708 lbs (29,351 kg)",
+            "Rear Axle": "34460 lbs (15,631 kg)",
+            "Rear Axle - Weight - Loaded": "67350 lbs (30,550 kg)",
+            "Scraper Shipping": "32669 lbs (14,819 kg)",
+            "Total Operating - Empty": "84050 lbs (38,125 kg)",
+            "Total Operating - Loaded": "132057 lbs (59,901 kg)",
+            "Total Shipping": "83768 lbs (37,997 kg)",
+            "Tractor Shipping": "51098 lbs (23,178 kg)"
+        }
+    }
+}

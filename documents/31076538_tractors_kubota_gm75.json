@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/gm75/31076538",
+    "source_url_id": "31076538",
+    "source_url_model": "gm75",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:42.729722",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "GM75",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "74 hp (55 kw)"
+        },
+        "Production": {
+            "Series": "GM Series",
+            "Years Manufactured": "1998 - 2007"
+        }
+    }
+}

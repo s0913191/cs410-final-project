@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/link-belt/hsp-22/23800",
+    "source_url_id": "23800",
+    "source_url_model": "hsp-22",
+    "source_url_make": "link-belt",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:45.595946",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HSP-22",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "70.1 ft (21 m)",
+            "Min Height @ Max Raise Angle": "28.6 ft (9 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "3 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "21.8 ft (6 m)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "11 ft (3 m)",
+            "Transport Length": "38 ft (12 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10.7 ft (3 m)",
+            "Wheelbase": "120.9 in (305 cm)",
+            "Width w/ Outriggers Extended": "18.6 ft (5 m)"
+        },
+        "Engine": {
+            "Bore": "3.9 in (8 cm)",
+            "Crankcase capacity": "13.25 L",
+            "Displacement": "212 cu in (0 m)",
+            "Engine Make": "General Motors",
+            "Engine Model": "19450",
+            "Gross Power": "136 hp (101 kw)",
+            "Max Torque": "282 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm",
+            "Stroke": "4.5 in (10 cm)",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "42  A",
+            "Fuel Capacity": "68 gal (257 l)",
+            "Hydraulic System Fluid Capacity": "101 gal (382 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "17.5 x 25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22 mph (35 kph)",
+            "Max Speed - Reverse": "8.1 mph (13 kph)",
+            "Transmission Type": "Allison TT-2221-1 Powershift"
+        }
+    }
+}

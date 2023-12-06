@@ -1,0 +1,117 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/js240lc/816164",
+    "source_url_id": "816164",
+    "source_url_model": "js240lc",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:26.052582",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "JS240LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Bucket rotation": "180 \t\u00b0",
+            "Max Cutting Height": "29.1 ft (9 m)",
+            "Max Digging Depth": "18.8 ft (5 m)",
+            "Max Digging Height": "29.1 ft (9 m)",
+            "Max Digging Reach": "30.2 ft (9 m)",
+            "Max Loading Height": "20.2 ft (6 m)",
+            "Max Reach Along Ground": "29.5 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "14.8 ft (4 m)",
+            "Max.Dumping Height": "20.2 ft (6 m)",
+            "Maximum vertical wallcut depth": "14.8 ft (4 m)",
+            "Minimum swing radius": "158.3 in (401 cm)",
+            "Shipping Height of Unit": "10.5 ft (3 m)",
+            "Shipping Length of Unit": "33.1 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Bucket rotation": "180 \t\u00b0",
+            "Max Cutting Height": "30.3 ft (9 m)",
+            "Max Digging Depth": "20.2 ft (6 m)",
+            "Max Digging Reach": "31.7 ft (9 m)",
+            "Max Loading Height": "21.3 ft (6 m)",
+            "Max Reach Along Ground": "31.1 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.6 ft (5 m)",
+            "Max.Dumping Height": "21.3 ft (6 m)",
+            "Minimum swing radius": "157.1 in (399 cm)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "33.1 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Bucket rotation": "180 \t\u00b0",
+            "Max Cutting Height": "31.6 ft (9 m)",
+            "Max Digging Depth": "22.3 ft (7 m)",
+            "Max Loading Height": "22.5 ft (7 m)",
+            "Max Reach Along Ground": "32.9 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "20.4 ft (6 m)",
+            "Max.Dumping Height": "22.5 ft (7 m)",
+            "Minimum swing radius": "152.4 in (386 cm)",
+            "Shipping Height of Unit": "10.1 ft (3 m)",
+            "Shipping Length of Unit": "32.7 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Bucket rotation": "180",
+            "Max Cutting Height": "32.4 ft (10 m)",
+            "Max Digging Depth": "23.8 ft (7 m)",
+            "Max Digging Reach": "35.1 ft (11 m)",
+            "Max Loading Height": "23.2 ft (7 m)",
+            "Max Reach Along Ground": "34.6 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "21.9 ft (6 m)",
+            "Max.Dumping Height": "23.2 ft (7 m)",
+            "Minimum swing radius": "152.8 in (386 cm)",
+            "Shipping Length of Unit": "32.9 ft (10 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1.1 cu yds (1 m)",
+            "Reference Bucket Capacity": "1.5 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Length of Track on Ground": "12.6 ft (4 m)",
+            "Removal Counterweight Clearance": "3.7 ft (1 m)",
+            "Tail Swing Radius": "9.9 ft (3 m)",
+            "Track Gauge": "8.5 ft (2 m)",
+            "Undercarriage Overall Length": "15.3 ft (5 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Battery": "2 x 12 Volt Heavy duty",
+            "Cooling system": "Water cooled via large capacity radiator",
+            "Displacement": "316.9 cu in (0 m)",
+            "Engine Make": "Isuzu",
+            "Engine Model": "Isuzu 4HK1X European Tier 4i emissions compliant",
+            "Engine Type": "Water cooled, 4-stroke, 4-cylinder in-line, direct injection, turbocharged diesel.",
+            "Max Digging Reach": "33.7 ft (10 m)",
+            "Net Power": "187.8 hp (139 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "Main pump type": "2 variable displacement axial piston type"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "7.1 gal (27 l)",
+            "Engine Oil Capacity": "6.9 gal (23 l)",
+            "Fuel Capacity": "90.7 gal (341 l)",
+            "Hydraulic Pump Flow Capacity": "114.2 gal/min (431 l/min)",
+            "Hydraulic System Fluid Capacity": "63.7 gal (238 l)",
+            "Hydraulic System Relief Valve Pressure": "4975 psi",
+            "Operating Weight": "55556.5 lbs (25,200 kg)",
+            "Swing Drive Fluid Capacity": "1.6 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.6 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Lower Rollers": "9",
+            "Number of Track Rollers per Side": "9",
+            "Number of Upper Rollers": "2",
+            "Shoe Size": "27.6 in (69 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        }
+    }
+}

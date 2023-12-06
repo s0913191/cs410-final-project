@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/dd90hf/30670839",
+    "source_url_id": "30670839",
+    "source_url_model": "dd90hf",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:29.229435",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "DD90HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "6.6 ft (2 m)",
+            "Turning Radius - Inside": "17.2 ft (5 m)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Frequency": "2500 - 3,800 hz (150,000 - 228,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        }
+    }
+}

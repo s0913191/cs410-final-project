@@ -1,0 +1,99 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d7r-xr/30750693",
+    "source_url_id": "30750693",
+    "source_url_model": "d7r-xr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:28.050026",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D7R XR",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.8 ft (3 m)",
+            "Length of Track on Ground": "10.1 ft (3 m)",
+            "Length w/ Blade": "19.9 ft (6 m)",
+            "Length w/o Blade": "15.6 ft (5 m)",
+            "Width Over Tracks": "9.5 ft in (23 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "640.8 cu in (0 m)",
+            "Engine Model": "3306 T",
+            "Flywheel Power": "230 hp (172 kw)",
+            "Gross Power": "247 hp (184 kw)",
+            "Maximum Flywheel Power": "247 hp (184 kw)",
+            "Net Power": "230 hp (172 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "46.8 gal/min (174 l/min)",
+            "Pump type": "Piston",
+            "Relief Valve Pressure": "3306 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "19.9 gal (72 l)",
+            "Engine Oil Capacity": "7.3 gal (27 l)",
+            "Final Drives Fluid Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "126.6 gal (477 l)",
+            "Hydraulic Fluid Capacity": "14.3 gal (53 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "54100 lbs (24,540 kg)"
+        },
+        "Ripper": {
+            "Maximum Clearance Raised - Under Tip, Pinned in Bottom Hole": "25.2 in (64 cm)",
+            "Maximum Penetration": "29.5 in (74 cm)",
+            "Number of Pockets": "3",
+            "Overall Beam Width": "87.1 in (221 cm)",
+            "Ripper Type": "Parallelogram"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "19.9 gal (72 l)",
+            "Engine Crankcase": "7.2 gal (27 l)",
+            "Final Drive - Each": "3.5 gal (11 l)",
+            "Fuel Tank": "126.6 gal (477 l)",
+            "Hydraulic Tank": "14.3 gal (53 l)",
+            "Power Train": "48.1 gal (182 l)"
+        },
+        "Standard Blade": {
+            "Capacity": "9 cu yds (7 m)",
+            "Height": "60 in (152 cm)",
+            "Width": "12.2 ft (4 m)"
+        },
+        "Transmission": {
+            "1 Forward": "2.2 mph (3 kph)",
+            "1 Reverse": "3 mph (5 kph)",
+            "2 Forward": "4 mph (6 kph)",
+            "2 Reverse": "5.1 mph (8 kph)",
+            "3 Forward": "6.8 mph (10 kph)",
+            "3 Reverse": "8.6 mph (13 kph)",
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "8.6 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Power Shift"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "0.2 ft (0 m)",
+            "Ground Contact Area": "5768 cu in (0 m)",
+            "Ground Pressure": "10.5 psi",
+            "Number of Shoes per Side": "41",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "6.5 ft (2 m)"
+        },
+        "Winch": {
+            "Drum Diameter": "12.1 in (30 cm)",
+            "Drum Width": "12.2 in (30 cm)",
+            "Flange Diameter": "21.7 in (53 cm)",
+            "Increased Tractor Length - STD": "3.1 in (8 cm)",
+            "Oil Capacity": "21.4 gal (79 l)",
+            "Weight": "4120.5 lbs (1,869 kg)",
+            "Winch and Bracket Length": "48.5 in (122 cm)",
+            "Winch Case - Width": "48.1 in (122 cm)"
+        }
+    }
+}

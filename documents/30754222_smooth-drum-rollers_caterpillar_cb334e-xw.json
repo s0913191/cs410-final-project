@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb334e-xw/30754222",
+    "source_url_id": "30754222",
+    "source_url_model": "cb334e-xw",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:39.574600",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB334E XW",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.2 in (28 cm)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Overall Length": "10.3 in (25 cm)",
+            "Wheelbase": "7.7 in (18 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "6631.9 lbs (3,008 kg)",
+            "Drum Diameter": "31.5 in (79 cm)",
+            "Drum Width": "55.2 in (140 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "213.4 lbs/in",
+            "Vibration Frequency 1": "53 hz (3,180 vpm)",
+            "Vibration Frequency 2": "48 hz (2,880 vpm)"
+        },
+        "Engine": {
+            "Displacement": "135.3 cu in (0 m)",
+            "Engine Model": "3024C",
+            "Gross Power": "45.8 hp (34 kw)",
+            "Net Power": "44.3 hp (33 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Engine Oil Capacity": "2.9 gal (8 l)",
+            "Fuel Capacity": "15.1 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "12.7 gal (45 l)",
+            "Max Speed": "7.8 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9259.5 lbs (4,200 kg)"
+        }
+    }
+}

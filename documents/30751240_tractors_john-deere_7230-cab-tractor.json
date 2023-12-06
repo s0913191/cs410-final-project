@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/7230-cab-tractor/30751240",
+    "source_url_id": "30751240",
+    "source_url_model": "7230-cab-tractor",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:23:10.493240",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "7230 Cab Tractor",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "8.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "415 cu in (0 m)",
+            "Engine Make": "2240",
+            "Engine Model": "6.8L PowerTech E",
+            "Gross Power": "131 hp (98 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2300 rpm",
+            "PTO Power": "110 hp (82 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1,2,3 or 4",
+            "Pump Flow Capacity": "17.5 gal/min (64 l/min)",
+            "Relief Valve Setting": "2500 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5915.1 lbs (2,683 kg)",
+            "Fuel Capacity": "54.7 gal (204 l)",
+            "Tire Size Front - 2wd / 4wd": "10.00-16",
+            "Turning Radius": "15.3 ft (5 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4R38"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Synchronized 12/4"
+        }
+    }
+}

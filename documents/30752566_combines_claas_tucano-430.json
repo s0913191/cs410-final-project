@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/claas/tucano-430/30752566",
+    "source_url_id": "30752566",
+    "source_url_model": "tucano-430",
+    "source_url_make": "claas",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:06.862108",
+    "equipment_category": "Combines",
+    "equipment_make": "Claas",
+    "equipment_model": "Tucano 430",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "390.6 cu in (0 m)",
+            "Engine Model": "OM 906 LA",
+            "Number of Cylinders": "6",
+            "Power": "254.8 hp (189 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "212.9 bu",
+            "Unloading Speed": "2.2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "132.1 gal (500 l)",
+            "Operating Weight w/o Attachment": "26455.5 lbs (12,000 kg)"
+        },
+        "Threshing": {
+            "Rotor Diameter": "17.8 in (43 cm)",
+            "Rotor Length": "52 in (132 cm)",
+            "Rotor Speed - High": "1500 rpm",
+            "Rotor Speed - Low": "650 rpm"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ym3110/1016285",
+    "source_url_id": "1016285",
+    "source_url_model": "ym3110",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:56.205330",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "YM3110",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "30 hp (22 kw)"
+        },
+        "Production": {
+            "Series": "YM10 Series",
+            "Years Manufactured": "1979 - 1981"
+        }
+    }
+}

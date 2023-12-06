@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d575a-2sd/41406",
+    "source_url_id": "41406",
+    "source_url_model": "d575a-2sd",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:29.236168",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D575A-2SD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "12.5 ft (4 m)",
+            "Length of Track on Ground": "18 ft (5 m)",
+            "Length w/ Blade": "25.3 ft (8 m)",
+            "Width Over Tracks": "13.8 ft in (33 cm)"
+        },
+        "Engine": {
+            "Displacement": "2825 cu in (0 m)",
+            "Engine Model": "SA12V170"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "554.8 gal (2,097 l)",
+            "Operating Weight": "247358.7 lbs (112,201 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.5 mph (11 kph)",
+            "Max Speed - Reverse": "8.6 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "33.9 in (84 cm)",
+            "Track Gauge": "10.6 ft (3 m)"
+        }
+    }
+}

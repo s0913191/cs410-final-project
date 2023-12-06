@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/john-deere/770d/30755961",
+    "source_url_id": "30755961",
+    "source_url_model": "770d",
+    "source_url_make": "john-deere",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:15.897523",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "John Deere",
+    "equipment_model": "770D",
+    "equipment_spec": {
+        "Boom": {
+            "Max Reach w/ Head": "26 ft (8 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.9 ft (3 m)",
+            "Overall Width": "7.9 ft (2 m)",
+            "Wheelbase": "11.5 ft (3 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Tire Size - front": "650 x 26.5, 12 PR TRS NK",
+            "Tire Size - rear": "650 x 26.5 , 12 PR TRS NK"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "275 cu in (0 m)",
+            "Engine Model": "4045HTJ",
+            "Gross Power": "115.4 hp (86 kw)",
+            "Max Torque": "367 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Cooling System Fluid Capacity": "8.2 gal (30 l)",
+            "Fuel Capacity": "66 gal (250 l)",
+            "Hydraulic System Fluid Capacity": "44.9 gal (167 l)",
+            "Max Speed": "15.5 mph (24 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "25460 lbs (11,549 kg)"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Ground Pressure": "8.1 psi"
+        }
+    }
+}

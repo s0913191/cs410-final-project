@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/belle/761xs/30749454",
+    "source_url_id": "30749454",
+    "source_url_model": "761xs",
+    "source_url_make": "belle",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:08.793385",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Belle",
+    "equipment_model": "761XS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.5 ft (2 m)",
+            "Ground Clearance": "10 in (25 cm)",
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Length w/o Bucket": "7.9 ft (2 m)",
+            "Length with Bucket": "10 ft (3 m)",
+            "Reach at Max Lift and Dump": "21.3 in (53 cm)",
+            "Turning Radius from Center - inc bucket": "69.8 in (175 cm)",
+            "Turning Radius from Center - machine rear": "43.7 in (109 cm)",
+            "Wheelbase": "3 ft (1 m)",
+            "Width Over Tires": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "135.3 cu in (0 m)",
+            "Engine Model": "104-22",
+            "Gross Power": "48 hp (36 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "15.9 gal/min (57 l/min)",
+            "Relief Valve Pressure": "2842 psi"
+        },
+        "Loader": {
+            "Breakout Force": "3616 psi",
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load Rating": "1378 lbs (625 kg)",
+            "Tipping Angle": "2756  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.8 gal (49 l)",
+            "Hydraulic System Fluid Capacity": "14.6 gal (53 l)",
+            "Operational Weight": "5381 lbs (2,441 kg)",
+            "Tire Size": "10 x 16.5"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/h50ft-diesel/30756699",
+    "source_url_id": "30756699",
+    "source_url_model": "h50ft-diesel",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:29:16.124280",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "H50FT Diesel",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6.3 in (15 cm)",
+            "Height to Top of Overhead Guard": "7.1 ft (2 m)",
+            "Length to Fork Face": "8.4 ft (2 m)",
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "7.2 ft (2 m)",
+            "Overall Width": "3.8 ft (1 m)",
+            "Turning Radius": "7.1 ft (2 m)",
+            "Wheelbase": "5.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "162.3 cu in (0 m)",
+            "Engine Model": "Yanmar 2.6L",
+            "Fuel Type": "Diesel",
+            "Number of Cylinders": "4",
+            "Power": "48 hp (36 kw)",
+            "Torque": "108 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "134 ft/min",
+            "Load Capacity": "5000.1 lbs (2,268 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "83 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0",
+            "Max Fork Spread": "43.3 in (109 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "7.4 mph (11 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "8750.2 lbs (3,969 kg)",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

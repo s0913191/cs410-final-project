@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/komatsu/8303/30755953",
+    "source_url_id": "30755953",
+    "source_url_model": "8303",
+    "source_url_make": "komatsu",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:50.259898",
+    "equipment_category": "Forwarders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "830.3",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Area": "44.2 CUBIC ft",
+            "Load Weight - 6wd": "43761.8 lbs (19,850 kg)"
+        },
+        "Crane": {
+            "Crane Type": "CRF 5",
+            "Gross Lift Torque": "54600 lbs/ft",
+            "Gross Slew Torque": "16150 lbs/ft",
+            "Max Reach": "22.5 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height to Top of Crane": "11.6 ft (3 m)",
+            "Height to Top of crane": "11.57 ft (3 m)",
+            "Length": "26.7 ft (8 m)",
+            "Length of Bunk Area": "7.6 ft (2 m)",
+            "Wheelbase": "13.7 ft (4 m)",
+            "Width Over Tires": "8.7 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "44 CWA Tier 3",
+            "Number of Cylinders": "4",
+            "Power": "134 hp (100 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque": "440 lbs/ft",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Flow Capacity": "45 gal/min (170 l/min)",
+            "Pump Type": "single circuit load sensing with variable piston pump",
+            "Relief Valve Pressure": "3410 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "110  A",
+            "Front/Rear Tire Size - 6wd": "600/50x22.5",
+            "Front/Rear Tire Size - 8wd": "600/50x22.5",
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight - 6wd": "23148.6 lbs (10,500 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "15.6 mph (24 kph)",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/tz-50/30671778",
+    "source_url_id": "30671778",
+    "source_url_model": "tz-50",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:07.799859",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "TZ-50",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "49.6 ft (15 m)",
+            "Stowed Height": "6.11 ft (2 m)",
+            "Stowed Width": "5.6 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "ST 225x75 R15"
+        }
+    }
+}

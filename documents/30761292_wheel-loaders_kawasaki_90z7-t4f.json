@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/90z7-t4f/30761292",
+    "source_url_id": "30761292",
+    "source_url_model": "90z7-t4f",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:44.159425",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "90Z7 T4F",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "14.5 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSL9",
+            "Net Power": "275 hp (205 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.9 - 6.10 cu yds (3 - 5 m)"
+        },
+        "Weights": {
+            "Operational Weight": "53310 lbs (24,181 kg)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/farmall-45/30242543",
+    "source_url_id": "30242543",
+    "source_url_model": "farmall-45",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:14.106996",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "FARMALL 45",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "8 ft (2 m)",
+            "Overall Length": "10.5 in (25 cm)",
+            "Overall Width": "5.6 ft (2 m)",
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134.3 cu in (0 m)",
+            "Gross Power": "45 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "37.8 hp (28 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.9 gal/min (53 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2330 lbs (1,057 kg)",
+            "Fuel Capacity": "13 gal (49 l)",
+            "Operating Weight": "4491 lbs (2,037 kg)"
+        },
+        "Production": {
+            "Series": "Farmall Compact Series",
+            "Years Manufactured": "2008 - 2011"
+        },
+        "Transmission": {
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

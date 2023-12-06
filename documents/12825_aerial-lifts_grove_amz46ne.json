@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/amz46ne/12825",
+    "source_url_id": "12825",
+    "source_url_model": "amz46ne",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:47.069811",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "AMZ46NE",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6 in (15 cm)",
+            "Overall Height - mast lowered": "6.6 ft (2 m)",
+            "Overall Length": "18.7 in (46 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Wheelbase": "6.4 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "370",
+            "Charger Amps": "21",
+            "Number of Batteries": "2",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "5 gal (19 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "13099.9 lbs (5,942 kg)",
+            "Tire Fill/Type": "Air",
+            "Tire Size": "7x15 NHS 12PR"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "22 ft (7 m)",
+            "Max Platform Height": "40.3 ft (12 m)",
+            "Max Platform Weight Capacity": "227 lbs (103 kg)",
+            "Max Working Height": "46.3 ft (14 m)",
+            "Platform Inner Length": "48.1 in (122 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        }
+    }
+}

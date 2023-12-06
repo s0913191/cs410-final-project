@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/h60xt/30756701",
+    "source_url_id": "30756701",
+    "source_url_model": "h60xt",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:29:19.469014",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "H60XT",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Hand/Mechanical",
+            "Service brake": "Foot/Hydraulic"
+        },
+        "Dimensions": {
+            "Gradeability": "23.5%",
+            "Ground Clearance": "8.3 in (20 cm)",
+            "Height to Top of Overhead Guard": "7.4 ft (2 m)",
+            "Length to Fork Face": "8.9 ft (2 m)",
+            "Max Fork Height": "10.6 ft (3 m)",
+            "Overall Height - mast lowered": "7.4 ft (2 m)",
+            "Overall Width": "4 ft (1 m)",
+            "Right Angle Stack": "9.2 ft (3 m)",
+            "Turning Radius": "7.7 ft (2 m)",
+            "Wheelbase": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "143 cu in (0 m)",
+            "Engine Model": "PSI 2.4L",
+            "Fuel Type": "LPG",
+            "Number of Cylinders": "4",
+            "Power": "62 hp (46 kw)",
+            "Power Measured @": "2700 rpm",
+            "Torque": "124 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "112 ft/min",
+            "Load Capacity": "6000 lbs (2,722 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "114 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "4207 lbs (1,908 kg)",
+            "Axle load - rear": "6089 lbs (2,762 kg)",
+            "Drawbar Pull": "4438 lbs (2,013 kg)",
+            "Front Tire Size": "28 x 9 - 15",
+            "Fuel Capacity": "18.2 gal (68 l)",
+            "Hydraulic System Relief Valve Pressure": "2550 psi",
+            "Hydraulic Tank": "11.1 gal (42 l)",
+            "Max Speed": "12.4 mph (19 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "10300 lbs (4,672 kg)",
+            "Rear Tire Size": "6.50 x 10",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

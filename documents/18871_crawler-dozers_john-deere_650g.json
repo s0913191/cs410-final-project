@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/650g/18871",
+    "source_url_id": "18871",
+    "source_url_model": "650g",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:54.180169",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "650G",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Length w/ Blade": "13.4 ft (4 m)",
+            "Width Over Tracks": "7.8 ft in (18 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Altitude-compensating turbocharger",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Model": "4045T",
+            "Gross Power": "99 hp (74 kw)",
+            "Max Torque": "293 lbs/ft",
+            "Net Power": "90 hp (67 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17 gal/min (64 l/min)",
+            "Pump type": "Gear",
+            "Relief Valve Pressure": "2750 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Capacity": "3.3 gal (11 l)",
+            "Final Drives Fluid Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "41 gal (155 l)",
+            "Hydraulic Fluid Capacity": "15 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "18510 lbs (8,396 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "2.5 cu yds (2 m)",
+            "Height": "35.4 in (89 cm)",
+            "Width": "8.8 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.9 mph (8 kph)",
+            "Max Speed - Reverse": "5.8 mph (8 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full power shift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3082 cu in (0 m)",
+            "Ground Pressure": "6.1 psi",
+            "Number of Shoes per Side": "38",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "18 in (46 cm)",
+            "Track Pitch": "6.8 in (15 cm)"
+        }
+    }
+}

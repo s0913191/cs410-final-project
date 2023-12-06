@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-110-vhv/30760190",
+    "source_url_id": "30760190",
+    "source_url_model": "hd-110-vhv",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:55.857398",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 110 VHV",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "6.5 ft (2 m)",
+            "Turning Radius - Inside": "1.1 ft (0 m)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Frequency": "2100 - 3,780 hz (126,000 - 226,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        }
+    }
+}

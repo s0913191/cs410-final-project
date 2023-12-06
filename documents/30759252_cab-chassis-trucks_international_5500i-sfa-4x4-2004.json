@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/international/5500i-sfa-4x4-2004/30759252",
+    "source_url_id": "30759252",
+    "source_url_model": "5500i-sfa-4x4-2004",
+    "source_url_make": "international",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:56:21.099817",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "International",
+    "equipment_model": "5500i SFA 4x4 (2004)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Number of Rear Axles": "2",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length From Back of Cab to End of Frame": "120 in (305 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "36 in (91 cm)",
+            "Overall Length": "19.5 ft (6 m)",
+            "Total Chassis Weight": "12971 lbs (5,884 kg)",
+            "Total GVW": "35350 lbs (16,035 kg)",
+            "Turning Radius": "31.6 ft (9 m)",
+            "Wheelbase": "170 in (432 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length From Back of Cab to End of Frame": "138 in (351 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "36 in (91 cm)",
+            "Overall Length": "21 ft (6 m)",
+            "Total Chassis Weight": "13041 lbs (5,915 kg)",
+            "Total GVW": "35350 lbs (16,035 kg)",
+            "Turning Radius": "34.5 ft (10 m)",
+            "Wheelbase": "188 in (478 cm)"
+        },
+        "Wheelbase Cab Chassis Option 3": {
+            "Length From Back of Cab to End of Frame": "156 in (396 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "36 in (91 cm)",
+            "Overall Length": "22.5 ft (7 m)",
+            "Total Chassis Weight": "13110 lbs (5,947 kg)",
+            "Total GVW": "35350 lbs (16,035 kg)",
+            "Turning Radius": "37.4 ft (11 m)",
+            "Wheelbase": "206 in (523 cm)"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/caterpillar/cp573e/5856308",
+    "source_url_id": "5856308",
+    "source_url_model": "cp573e",
+    "source_url_make": "caterpillar",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:27.701342",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CP573E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "145 in (368 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "23 - 31 hz (1,380 - 1,860 vpm)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        },
+        "Operating Specifications": {
+            "Operating Width": "93 in (236 cm)"
+        }
+    }
+}

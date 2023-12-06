@@ -1,0 +1,89 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/volvo/g970/32540",
+    "source_url_id": "32540",
+    "source_url_model": "g970",
+    "source_url_make": "volvo",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:22:40.502970",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Volvo",
+    "equipment_model": "G970",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "45  \t\u00b0",
+            "Blade Tip Angle - Rear": "6  \t\u00b0",
+            "Diameter": "64 in (163 cm)",
+            "Max Reach Outside Tires - Left": "78 in (198 cm)",
+            "Max Reach Outside Tires - Right": "77 in (196 cm)",
+            "Rotation": "360  \t\u00b0",
+            "Shift Left": "30.5 in (76 cm)",
+            "Shift Right": "29.5 in (74 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "9.1 ft (3 m)",
+            "Height to Top of Isomount Cab": "10.5 ft (3 m)",
+            "Overall Length": "31.1 ft (9 m)",
+            "Wheelbase": "21.4 ft (6 m)",
+            "Width Over Tires": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, Aftercooled",
+            "Displacement": "573 cu in (0 m)",
+            "Engine Model": "D9B",
+            "Max Power": "262 hp (195 kw)",
+            "Net Power Gears 7-8": "262 hp (195 kw)",
+            "Net Torque Gears 7-8": "876 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1700 rpm",
+            "Torque Measured @": "1550 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Oscillation - Total": "16  \t\u00b0",
+            "Wheel Lean": "18  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "55 gal/min (208 l/min)",
+            "Pump Type": "Axial piston pump",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Moldboard": {
+            "Blade Down Pressure": "20420 lbs (9,263 kg)",
+            "Blade Pull at Max Weight": "30690 lbs (13,921 kg)",
+            "Max Depth of Cut": "30.5 in (76 cm)",
+            "Moldboard Height": "29.1 in (74 cm)",
+            "Moldboard Thickness": "1 in (3 cm)",
+            "Moldboard Width": "12 ft (4 m)",
+            "Side Shift Left": "26.5 in (66 cm)",
+            "Side Shift Right": "26.5 in (66 cm)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "12.4 gal (45 l)",
+            "Fuel Capacity": "132 gal (500 l)",
+            "Hydraulic System Fluid Capacity": "24 gal (91 l)",
+            "Max Operation Weight - Front Axle": "18500 lbs (8,392 kg)",
+            "Max Operation Weight - Rear Axle": "34100 lbs (15,468 kg)",
+            "Max Operation Weight - Total": "50000 lbs (22,680 kg)",
+            "Oil System Fluid Capacity": "10.4 gal (38 l)",
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Front Axle": "11680 lbs (5,298 kg)",
+            "Std Operation Weight - Rear Axle": "29980 lbs (13,599 kg)",
+            "Std Operation Weight - Total": "41660 lbs (18,897 kg)",
+            "Tandem Case Fluid Capacity (each)": "26.4 gal (98 l)",
+            "Tire Size": "14:00 x 24, G-2",
+            "Transmission Fluid Capacity": "16 gal (61 l)"
+        },
+        "Steering System": {
+            "Articulation Angle": "21  \t\u00b0",
+            "Turning Radius": "25.3 ft (8 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "27.4 mph (43 kph)",
+            "Max Speed - Reverse": "19.3 mph (31 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "4",
+            "Transmission Type": "HTE 840, Fully sequential, direct drive, Volvo powershift transmission"
+        }
+    }
+}

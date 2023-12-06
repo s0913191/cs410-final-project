@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tilt-trailers/felling-trailers-inc/ft-18-2t/30761547",
+    "source_url_id": "30761547",
+    "source_url_model": "ft-18-2t",
+    "source_url_make": "felling-trailers-inc",
+    "source_url_category": "tilt-trailers",
+    "source_date_scraped": "2023-09-13 17:55:47.599465",
+    "equipment_category": "Tilt Trailers",
+    "equipment_make": "Felling Trailers, Inc.",
+    "equipment_model": "FT-18-2T",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "24 ft (7 m)"
+        },
+        "Weights": {
+            "Equipment Weight": "5700 lbs (2,586 kg)",
+            "Weight Capacity": "18000 lbs (8,165 kg)"
+        }
+    }
+}

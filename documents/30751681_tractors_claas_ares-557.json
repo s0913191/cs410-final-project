@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/claas/ares-557/30751681",
+    "source_url_id": "30751681",
+    "source_url_model": "ares-557",
+    "source_url_make": "claas",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:02.709301",
+    "equipment_category": "Tractors",
+    "equipment_make": "Claas",
+    "equipment_model": "Ares 557",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Overall Length": "15.5 in (38 cm)",
+            "Tire Size": "Front 14.9 R 28, Rear 18.4R38",
+            "Wheelbase": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "276.2 cu in (0 m)",
+            "Engine Model": "ECE-R24",
+            "Gross Power": "102.6 hp (76 kw)",
+            "Net Power": "98.7 hp (73 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "15.9 gal/min (57 l/min)",
+            "Relief Valve Pressure": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Operating Weight": "11825.6 lbs (5,364 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "REVERSHIFT Powershuttle"
+        }
+    }
+}

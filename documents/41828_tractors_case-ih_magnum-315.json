@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/magnum-315/41828",
+    "source_url_id": "41828",
+    "source_url_model": "magnum-315",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:00.668406",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MAGNUM 315",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Overall Length": "21.1 in (53 cm)",
+            "Wheelbase": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "531 cu in (0 m)",
+            "Gross Power": "312 hp (233 kw)",
+            "Net Power": "347 hp (259 kw)",
+            "Number of Cylinders": "6",
+            "PTO Power": "265 hp (198 kw)"
+        },
+        "Operating Specifications": {
+            "Drawbar Static Vertical Load Rating": "24551 lbs (11,136 kg)",
+            "Operating Weight": "27800 lbs (12,610 kg)"
+        },
+        "Production": {
+            "Series": "Magnum Series",
+            "Years Manufactured": "2011 - 2013"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "full power shift"
+        }
+    }
+}

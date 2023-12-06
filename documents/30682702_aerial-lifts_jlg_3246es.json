@@ -1,0 +1,71 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/3246es/30682702",
+    "source_url_id": "30682702",
+    "source_url_model": "3246es",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:33.156101",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "3246ES",
+    "equipment_spec": {
+        "Brakes": {
+            "Brakes Type": "Electric, Friction"
+        },
+        "Capacity": {
+            "Platform Capacity": "45x84"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "32 ft (10 m)",
+            "Ground Clearance": "5 in (13 cm)",
+            "Height w/o Rails": "6.5 ft (2 m)",
+            "Overall Length": "8.3 in (20 cm)",
+            "Overall Width": "3.9 ft (1 m)",
+            "Platform Dimension A": "8.3 ft (2 m)",
+            "Platform Dimension B": "3.8 ft (1 m)",
+            "Stowed Height": "6 ft (2 m)",
+            "Stowed Width": "3-10 ft (1 m)",
+            "Turning Radius": "8 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "4 x 6V, 220 amp-hours",
+            "Charger Amps": "20",
+            "Maximum Ground Bearing Pressure": "87 psi",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Drive Speed - Platform Elevated": "0.5 mph (0 kph)",
+            "Drive Speed - Platform Lowered": "2.5 mph (3 kph)",
+            "Gradeability": "25%",
+            "Hydraulic Pump Type": "Fixed Displacement Gear",
+            "Hydraulic System Fluid Capacity": "1.7 gal (4 l)",
+            "Max Speed": "2.5 mph (3 kph)",
+            "Maximum Drive Height": "31.8 ft (9 m)",
+            "Maximum Lift Height": "31.8 ft (9 m)",
+            "Operating Weight": "4779.7 lbs (2,168 kg)",
+            "Tire Fill/Type": "Solid, Non-marking",
+            "Tire Size": "16x5 in"
+        },
+        "Platform": {
+            "Deck Extension": "35.5 in (89 cm)",
+            "Height of Rails": "3.7 ft (1 m)",
+            "Lift Time": "50 sec",
+            "Lower Time": "50 sec",
+            "Max Platform Height": "31.8 ft (9 m)",
+            "Max Platform Weight Capacity": "1000.9 lbs (454 kg)",
+            "Platform Capacity - Extension": "250 lbs (113 kg)",
+            "Platform Capacity - Unrestricted": "700 lbs (318 kg)",
+            "Platform Inner Length": "98.5 in (249 cm)",
+            "Platform Inner Width": "44.1 in (112 cm)",
+            "Platform Railing Height": "31.8 ft (9 m)"
+        },
+        "Tires": {
+            "Tire Size": "16x5"
+        },
+        "Transmission": {
+            "4WD": "no"
+        }
+    }
+}

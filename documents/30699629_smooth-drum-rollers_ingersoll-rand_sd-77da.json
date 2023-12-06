@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/sd-77da/30699629",
+    "source_url_id": "30699629",
+    "source_url_model": "sd-77da",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:56.458908",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "SD-77DA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.6 in (38 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length": "17.1 in (43 cm)",
+            "Overall Width": "6.1 ft (2 m)",
+            "Wheelbase": "9.1 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "26077.9 lbs (11,828 kg)",
+            "Centrifugal Force - Low": "5845.1 lbs (2,651 kg)",
+            "Drum Diameter": "48.1 in (122 cm)",
+            "Drum Width": "66 in (168 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "31 hz (1,860 vpm)",
+            "Vibration Frequency 2": "42 hz (2,520 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "B4.5T",
+            "Gross Power": "99 hp (74 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Hydraulic System Fluid Capacity": "130 gal (492 l)",
+            "Max Speed": "8.2 mph (13 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "17346 lbs (7,868 kg)"
+        }
+    }
+}

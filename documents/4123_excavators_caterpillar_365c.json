@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/365c/4123",
+    "source_url_id": "4123",
+    "source_url_model": "365c",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:02.507314",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "365C",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "C15 ACERT",
+            "Net Power": "411 hp (306 kw)"
+        }
+    }
+}

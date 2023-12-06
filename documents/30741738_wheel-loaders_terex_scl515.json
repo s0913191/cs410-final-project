@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/scl515/30741738",
+    "source_url_id": "30741738",
+    "source_url_model": "scl515",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:31.487298",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "SCL515",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length with Bucket on Ground": "14.2 ft (4 m)",
+            "Wheelbase": "5.6 ft (2 m)",
+            "Width Over Tires": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "166.8 cu in (0 m)",
+            "Engine Make": "Deutz",
+            "Gross Power": "50 hp (37 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "9.8 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "16.4 gal (61 l)",
+            "Hydraulic System Fluid Capacity": "15.4 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "12-16.5 EM 14"
+        }
+    }
+}

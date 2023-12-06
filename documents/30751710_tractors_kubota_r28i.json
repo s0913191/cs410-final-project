@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/r28i/30751710",
+    "source_url_id": "30751710",
+    "source_url_model": "r28i",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:33:31.224673",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "R28i",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Overall Length": "9.8 in (23 cm)",
+            "Tire Size": "7-14, 4PR(6-14)",
+            "Wheelbase": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "91.6 cu in (0 m)",
+            "Engine Model": "S4L",
+            "Gross Power": "28 hp (21 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "23 hp (17 kw)"
+        },
+        "Hydraulic System": {
+            "Relief Valve Pressure": "2465.7 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2522.1 lbs (1,144 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Alternator Supplied Amperage": "50  A",
+            "Fuel Capacity": "8.5 gal (30 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Max Speed": "16.3 mph (26 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "12FX12R"
+        }
+    }
+}

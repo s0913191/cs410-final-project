@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/797f/5458",
+    "source_url_id": "5458",
+    "source_url_model": "797f",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:51.124659",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "797F",
+    "equipment_spec": {
+        "Description:": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "2WD"
+        },
+        "Dump": {
+            "Rated Payload": "401 t (363,781 kg)"
+        },
+        "Engine": {
+            "Bore": "6.9 in (15 cm)",
+            "Displacement": "6469 cu in (0 m)",
+            "Gross Power": "4000 hp (2,983 kw)",
+            "Make": "Cat",
+            "Model": "C175-20",
+            "Net Power - SAE J1349": "3795 hp (2,830 kw)",
+            "Rated Engine Speed": "1750",
+            "Stroke": "8.7 in (20 cm)"
+        },
+        "Tires": {
+            "Standard Tires": "59/80 R63"
+        },
+        "Transmission": {
+            "Forward - 1": "6.6 mph (10 kph)",
+            "Forward - 2": "8.9 mph (13 kph)",
+            "Forward - 3": "12 mph (19 kph)",
+            "Forward - 4": "16.2 mph (26 kph)",
+            "Forward - 5": "21.8 mph (34 kph)",
+            "Forward - 6": "29.4 mph (47 kph)",
+            "Forward - 7": "39.5 mph (63 kph)",
+            "Max Speed": "39.5 mph (63 kph)",
+            "Reverse": "7.4 mph (11 kph)"
+        },
+        "Weights": {
+            "Body Weight": "94799 lbs (43,001 kg)",
+            "Chassis Weight": "474472 lbs (215,219 kg)",
+            "Front Axle - empty": "47.2%",
+            "Front Axle - loaded": "33.3%",
+            "Nominal Rated Payload": "401 t (363,781 kg)",
+            "Operating Weight": "1375000 lbs (623,696 kg)",
+            "Rear Axle - empty": "52.8%",
+            "Rear Axle - loaded": "66.7%"
+        }
+    }
+}

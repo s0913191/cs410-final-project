@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/8910/30259378",
+    "source_url_id": "30259378",
+    "source_url_model": "8910",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:14.748681",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "8910",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "150 hp (112 kw)"
+        },
+        "Production": {
+            "Series": "Magnum 8900 Series",
+            "Years Manufactured": "1997 - 1998"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/volvo/a30d/30672502",
+    "source_url_id": "30672502",
+    "source_url_model": "a30d",
+    "source_url_make": "volvo",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:43.420205",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "A30D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2.3 ft (1 m)",
+            "Dump Height": "21.7 ft (6 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Overall Height": "11.3 ft (3 m)",
+            "Overall Length": "33.8 ft (10 m)",
+            "Overall Width": "9.4 ft (3 m)",
+            "Wheelbase": "13.7 ft (4 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "22.9 cu yds (17 m)",
+            "Capacity - Struck": "17.8 cu yds (13 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "9 sec",
+            "Rated Payload": "61728 lbs (28,000 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "585.9 cu in (0 m)",
+            "Engine Model": "D10BAAE2*",
+            "Gross Power": "329 hp (245 kw)",
+            "Max Torque": "1047.4 lbs/ft",
+            "Net Power": "328 hp (245 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1350 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "18.8 gal (68 l)",
+            "Engine Oil Capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "46.3 gal (174 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "750/65 R 25",
+            "Transmission Fluid Capacity": "10.9 gal (38 l)"
+        },
+        "Transmission": {
+            "Max Speed": "33 mph (53 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Fully Automatic"
+        },
+        "Weights": {
+            "Front Axle - empty": "27557.8 lbs (12,500 kg)",
+            "Front Axle - loaded": "33047.3 lbs (14,990 kg)",
+            "Rear Axle - empty": "23280.9 lbs (10,560 kg)",
+            "Rear Axle - loaded": "79520.8 lbs (36,070 kg)",
+            "Total Empty": "61729.5 lbs (28,000 kg)",
+            "Total Loaded": "112568.1 lbs (51,061 kg)"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-475/30751244",
+    "source_url_id": "30751244",
+    "source_url_model": "mf-475",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:56.659008",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 475",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.7 ft (2 m)",
+            "Overall Length": "15 in (38 cm)",
+            "Tire Size": "front 14.9-24 rear 18.4-34",
+            "Wheelbase": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "366.2 cu in (0 m)",
+            "Engine Model": "1006.6T",
+            "Gross Power": "130 hp (97 kw)",
+            "Max Torque": "376.2 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "110.4 hp (82 kw)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "4.5 gal/min (15 l/min)",
+            "Relief Valve Pressure": "3045.8 psi",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "7054.8 lbs (3,200 kg)",
+            "Fuel Capacity": "55.5 gal (208 l)",
+            "Operating Weight": "9083.1 lbs (4,120 kg)",
+            "Tire Size Front - 2wd / 4wd": "9.00-16"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4-34"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "synchromesh"
+        }
+    }
+}

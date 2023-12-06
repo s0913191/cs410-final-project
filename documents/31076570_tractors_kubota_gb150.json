@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/gb150/31076570",
+    "source_url_id": "31076570",
+    "source_url_model": "gb150",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:05.340448",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "GB150",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "14 hp (10 kw)"
+        },
+        "Production": {
+            "Series": "GB Series",
+            "Years Manufactured": "2002 - 2003"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/big-tow/b-25tsl/30835168",
+    "source_url_id": "30835168",
+    "source_url_model": "b-25tsl",
+    "source_url_make": "big-tow",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:54:49.916421",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Big Tow",
+    "equipment_model": "B-2.5TSL",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.4x12 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "1",
+            "Suspension Type": "TORFLEX"
+        },
+        "Weights": {
+            "Equipment Weight": "2150 lbs (975 kg)",
+            "Weight Capacity": "5000 lbs (2,268 kg)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/7721/30670027",
+    "source_url_id": "30670027",
+    "source_url_model": "7721",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:28.780004",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "7721",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1090 rpm",
+            "Cleaning Fan Speed - Low": "308 rpm",
+            "Cleaning system width": "55.2 in (140 cm)"
+        },
+        "Dimensions": {
+            "Transport height": "149.3 in (378 cm)",
+            "Transport length": "509.5 in (1,293 cm)",
+            "Transport width": "14.7 ft (4 m)",
+            "Unloader clearance": "12532.9 ft (3,820 m)",
+            "Unloader reach": "13353.1 ft (4,070 m)"
+        },
+        "HEADER": {
+            "Auger diameter": "23.9 in (58 cm)",
+            "Conveyor speed": "7956 mph (12,801 kph)",
+            "HEADER Type": "Centre feed",
+            "Width - Table": "12401.6 ft (3,780 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight w/o Attachment": "16336.3 lbs (7,410 kg)"
+        },
+        "Threshing": {
+            "Concave Area": "1161 cu in (0 m)",
+            "Rotor Diameter": "22.1 in (56 cm)",
+            "Rotor Speed - High": "1200 rpm",
+            "Rotor Speed - Low": "430 rpm",
+            "width": "55.2 in (140 cm)"
+        }
+    }
+}

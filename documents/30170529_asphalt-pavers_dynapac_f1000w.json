@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/dynapac/f1000w/30170529",
+    "source_url_id": "30170529",
+    "source_url_model": "f1000w",
+    "source_url_make": "dynapac",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:06.054667",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "F1000W",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB 6.7 (t4f)"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "15 lbs (7 kg)",
+            "Paving Speed": "285 ft/min",
+            "Paving Width - max": "8-30 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "41900 lbs (19,006 kg)"
+        }
+    }
+}

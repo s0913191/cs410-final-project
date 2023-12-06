@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kubota/r630c/30755133",
+    "source_url_id": "30755133",
+    "source_url_model": "r630c",
+    "source_url_make": "kubota",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:15.011663",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kubota",
+    "equipment_model": "R630C",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "10408.7 lbs (4,721 kg)",
+            "Bucket Capacity - heaped": "1.4 cu yds (1 m)"
+        },
+        "Capacities": {
+            "Fuel Tank": "18.5 gal (68 l)",
+            "Hydraulic oil tank": "10.4 gal (38 l)",
+            "Hydraulic system": "15.1 gal (57 l)"
+        },
+        "Dimensions": {
+            "Articulation Angle": "40  \t\u00b0",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Hinge Pin - Max Height": "10.7 ft (3 m)",
+            "Length with Bucket on Ground": "17.1 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.8 ft (1 m)",
+            "Tread": "55.2 in (140 cm)",
+            "Wheelbase": "6.6 ft (2 m)",
+            "Width Over Tires": "6 ft (2 m)"
+        },
+        "Electrical System": {
+            "Battery": "12 / 95 (V / Ah)",
+            "Starter": "12 / 2 (V / kW)"
+        },
+        "Engine": {
+            "Aspiration": "Water-cooled",
+            "Displacement": "160 cu in (0 m)",
+            "Emissions Certification": "Tier4 Final",
+            "Engine Make": "KUBOTA",
+            "Engine Model": "V2607-CR-TE4",
+            "Gross Power": "51 hp (38 kw)",
+            "Net Power": "47.9 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "3000": "3000 psi psi",
+            "Lower Time": "4.2 sec",
+            "Pump Flow Capacity": "17.8 gal/min (64 l/min)",
+            "Raise Time": "5.9 sec"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "10725.5 lbs (4,865 kg)",
+            "Rear Axle Oscillation": "8  \t\u00b0",
+            "Static Tipping Weight": "8212.3 lbs (3,725 kg)",
+            "Tire Size": "405 / 70 R18",
+            "Traction force": "8587.8 lbs (3,895 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Transmission Type": "Hydrostatic transmission"
+        }
+    }
+}

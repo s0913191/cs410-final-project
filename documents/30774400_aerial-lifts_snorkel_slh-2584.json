@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/slh-2584/30774400",
+    "source_url_id": "30774400",
+    "source_url_model": "slh-2584",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:36.496687",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "SLH 2584",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,750 lbs (794 kg)"
+        },
+        "Dimensions": {
+            "Stowed Height": "7.9 ft (2 m)",
+            "Stowed Width": "7 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "26x12"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m6-141dtscc-f/30753364",
+    "source_url_id": "30753364",
+    "source_url_model": "m6-141dtscc-f",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:16.703266",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M6-141DTSCC-F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "22.3 in (56 cm)",
+            "Height - Top of ROPS/FOPS": "9.5 ft (3 m)",
+            "Overall Length": "171.7 in (434 cm)",
+            "Overall Width": "7.2 ft (2 m)",
+            "Turning radius without brakes 1": "13.8 ft (4 m)",
+            "Wheelbase": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Air cleaner": "10\"\" Dry, dual-element",
+            "Alternator": "130 A",
+            "Aspiration": "Turbocharger with intercooler",
+            "Battery": "12 V, 160Ah at 20 hours, 1090 CCA",
+            "Bore": "4.7 in (10 cm)",
+            "Displacement": "374 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V-3800-CR-TIER4",
+            "Engine Type": "Common Rail System, direct injection, liquid-cooled",
+            "Gross Power": "141.4 hp (105 kw)",
+            "Model Name": "M6-141DTSCC-F",
+            "Net Power": "133 hp (99 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "114 hp (85 kw)",
+            "Stroke": "5.6 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2 standard"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "6834.4 lbs (3,100 kg)",
+            "3 Point Hitch Type": "Telescopic lower link ends, telescopic stabilizers",
+            "DEF tank capacity": "4.2 gal (15 l)",
+            "Operating Weight": "10946 lbs (4,965 kg)"
+        },
+        "Power Take-Off (PTO)": {
+            "Power Take-Off(PTO) Type": "Live-independent PTO, hydraulically operated wet clutch"
+        },
+        "Tires": {
+            "Tires": "Front - 14.9 R24, Rear - 18.4 R38"
+        },
+        "Transmission": {
+            "Max Speed": "24.3 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24"
+        }
+    }
+}

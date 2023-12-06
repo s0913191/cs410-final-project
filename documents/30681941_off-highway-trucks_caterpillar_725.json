@@ -1,0 +1,132 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/725/30681941",
+    "source_url_id": "30681941",
+    "source_url_model": "725",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:13.122703",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "725",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Body Capacities": {
+            "Heaped (SAE 2:1)": "18.8 cu yds (14 m)",
+            "Struck": "14.5 cu yds (11 m)",
+            "Tailgate Heaped SAE 2:1": "20 cu yds (15 m)",
+            "Tailgate Struck": "15 cu yds (11 m)"
+        },
+        "Body Hoist": {
+            "Lower Time": "8 sec",
+            "Raise Time": "10 sec"
+        },
+        "Body Plate Thickness": {
+            "Base": "0.6 in (0 cm)",
+            "Front": "0.4 in (0 cm)",
+            "Scow": "0.6 in (0 cm)",
+            "Side": "0.5 in (0 cm)"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "1.9 ft (0 m)",
+            "Dump Height": "21.1 ft (6 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Overall Height": "11.3 ft (3 m)",
+            "Overall Length": "32.6 ft (10 m)",
+            "Overall Width": "9.5 ft (3 m)",
+            "Wheelbase": "15.4 ft (5 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "18.8 cu yds (14 m)",
+            "Capacity - Struck": "14.6 cu yds (11 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "11 sec",
+            "Raise Time": "10 sec",
+            "Rated Payload": "52029.1 lbs (23,600 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.1 in (13 cm)",
+            "Displacement": "680 cu in (0 m)",
+            "Engine Model": "Cat C11 ACERT",
+            "Flywheel Power": "301 hp (224 kw)",
+            "Gross Power": "313 hp (233 kw)",
+            "Gross Power - SAE J1995": "309 hp (230 kw)",
+            "Make": "Cat",
+            "Model": "3176C ATAAC",
+            "Net Power": "309 hp (230 kw)",
+            "Net Power - EEC 80/1269": "304 hp (227 kw)",
+            "Net Power - ISO 9249": "304 hp (227 kw)",
+            "Net Power - SAE J1349": "301 hp (224 kw)",
+            "Number of Cylinders": "6",
+            "Stroke": "5.5 in (13 cm)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "22.5 gal (83 l)",
+            "Engine Oil Capacity": "9.8 gal (34 l)",
+            "Fuel Capacity": "95.2 gal (360 l)",
+            "Hydraulic System Fluid Capacity": "27 gal (102 l)",
+            "Tire Size": "23.5R25",
+            "Transmission Fluid Capacity": "9.6 gal (34 l)"
+        },
+        "Operating Weights": {
+            "Center Axle - Empty": "10648 lbs (4,830 kg)",
+            "Center Axle - Loaded": "34336 lbs (15,575 kg)",
+            "Center Axle - Rated Load": "23788 lbs (10,790 kg)",
+            "Front Axle - Empty": "28704 lbs (13,020 kg)",
+            "Front Axle - Loaded": "33135 lbs (15,030 kg)",
+            "Front Axle - Rated Load": "4431 lbs (2,010 kg)",
+            "Rear Axle - Empty": "9722 lbs (4,410 kg)",
+            "Rear Axle - Loaded": "33510 lbs (15,200 kg)",
+            "Rear Axle - Rated Load": "23788 lbs (10,790 kg)",
+            "Total - Empty": "49075 lbs (22,260 kg)",
+            "Total - Loaded": "101082 lbs (45,851 kg)",
+            "Total - Rated Load": "52007 lbs (23,590 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "22.7 gal (83 l)",
+            "Engine Crankcase": "9.8 gal (34 l)",
+            "Final Drives/Differential": "34.9 gal (129 l)",
+            "Fuel Tank": "95 gal (360 l)",
+            "Hydraulic System": "26.4 gal (98 l)",
+            "Output Transfer Gear Box": "4.8 gal (15 l)",
+            "Transmission": "9.5 gal (34 l)"
+        },
+        "Sound Levels": {
+            "Interior Cab": "76 dB(A)"
+        },
+        "Standards": {
+            "Brakes": "ISO 3450 - 1996",
+            "Cab - FOPS": "ISO 3449 level ll - 2005",
+            "Cab - ROPS": "ISO 3471-1994",
+            "Steering": "ISO 5010 - 2007"
+        },
+        "Transmission": {
+            "Forward - 1": "4.9 mph (6 kph)",
+            "Forward - 2": "9.3 mph (14 kph)",
+            "Forward - 3": "14 mph (23 kph)",
+            "Forward - 4": "21.5 mph (34 kph)",
+            "Forward - 5": "29.9 mph (47 kph)",
+            "Forward - 6": "35.3 mph (56 kph)",
+            "Max Speed": "35.3 mph (56 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "1",
+            "Reverse - 1": "5.5 mph (8 kph)"
+        },
+        "Weights": {
+            "Center Axle - empty": "10648.4 lbs (4,830 kg)",
+            "Center Axle - loaded": "34436.3 lbs (15,620 kg)",
+            "Front Axle - empty": "28704.2 lbs (13,020 kg)",
+            "Front Axle - loaded": "33135.5 lbs (15,030 kg)",
+            "Operating Weight": "97880 lbs (44,398 kg)",
+            "Rear Axle - empty": "49075 lbs (22,260 kg)",
+            "Rear Axle - loaded": "33510.3 lbs (15,200 kg)",
+            "Total Empty": "49075 lbs (22,260 kg)",
+            "Total Loaded": "101082 lbs (45,851 kg)"
+        }
+    }
+}

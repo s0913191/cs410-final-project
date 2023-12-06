@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/7465/30716394",
+    "source_url_id": "30716394",
+    "source_url_model": "7465",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:25.750463",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "7465",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Overall Length": "17 in (43 cm)",
+            "Wheelbase": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged - Air-to-Air Watercooled",
+            "Displacement": "402 cu in (0 m)",
+            "Engine Model": "1106D",
+            "Gross Power": "118 hp (88 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2220 rpm",
+            "PTO Power": "100 hp (75 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "29 gal/min (110 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "8818.5 lbs (4,000 kg)",
+            "3 Point Hitch Type": "Cat 3/3N",
+            "Alternator Supplied Amperage": "120  A",
+            "Fuel Capacity": "70.1 gal (265 l)",
+            "Operating Weight": "15100 lbs (6,849 kg)"
+        },
+        "Production": {
+            "Series": "7400 Series",
+            "Years Manufactured": "2004 - 2012"
+        },
+        "Transmission": {
+            "Max Speed": "25 mph (40 kph)",
+            "Transmission Type": "Dyna-VT"
+        }
+    }
+}

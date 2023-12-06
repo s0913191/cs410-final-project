@@ -1,0 +1,16 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6105e/31075113",
+    "source_url_id": "31075113",
+    "source_url_model": "6105e",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:21:51.200975",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6105E",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "105 hp (78 kw)"
+        }
+    }
+}

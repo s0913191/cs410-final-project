@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/new-holland/lb85/30750409",
+    "source_url_id": "30750409",
+    "source_url_model": "lb85",
+    "source_url_make": "new-holland",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:24.949651",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "LB85",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "12652.4 lbs (5,739 kg)",
+            "Dig Depth": "14.7 ft (4 m)",
+            "Load Height": "12.4 ft (4 m)",
+            "Reach From Swivel": "18.2 ft (5 m)"
+        },
+        "Dimensions": {
+            "Transport Length": "18.7 ft (5 m)",
+            "Transport Width": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "NG Genises 450/NB",
+            "Gross Power": "84.5 hp (63 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "39.9 gal/min (148 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "3045.8 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "1.4 cu yds (1 m)",
+            "Bucket Width": "89.6 in (226 cm)",
+            "Clearance at Max Dump Height": "11.6 ft (3 m)",
+            "Lift Capacity": "4629.8 lbs (2,100 kg)"
+        },
+        "Operating Specifications": {
+            "Hydraulic System Fluid Capacity": "33.9 gal (125 l)",
+            "Operating Weight 4wd": "16016.6 lbs (7,265 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.2 mph (39 kph)",
+            "Max Speed - Reverse": "24.2 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "power shuttle 2"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d65wx-16/22649",
+    "source_url_id": "22649",
+    "source_url_model": "d65wx-16",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:11.856176",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D65WX-16",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Length w/ Blade": "18.1 ft (5 m)",
+            "Width Over Tracks": "6.8 ft in (15 cm)"
+        },
+        "Engine": {
+            "Displacement": "504.7 cu in (0 m)",
+            "Engine Model": "SAA6D114E-3",
+            "Gross Power": "207 hp (154 kw)",
+            "Net Power": "219 hp (163 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1950 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "9.6 gal (34 l)",
+            "Engine Oil Capacity": "7.4 gal (27 l)",
+            "Final Drives Fluid Capacity": "7.2 gal (27 l)",
+            "Fuel Capacity": "109.7 gal (413 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7 mph (11 kph)",
+            "Max Speed - Reverse": "8.3 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "7021 cu in (0 m)",
+            "Ground Pressure": "5.7 psi",
+            "Number of Shoes per Side": "42",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "30 in (76 cm)",
+            "Track Gauge": "6.8 ft (2 m)"
+        }
+    }
+}

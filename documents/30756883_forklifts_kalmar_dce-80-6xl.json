@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/kalmar/dce-80-6xl/30756883",
+    "source_url_id": "30756883",
+    "source_url_model": "dce-80-6xl",
+    "source_url_make": "kalmar",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:32:50.383565",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Kalmar",
+    "equipment_model": "DCE 80-6XL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "7.3 ft (2 m)",
+            "Wheelbase": "8.6 ft (2 m)"
+        },
+        "MAST": {
+            "Load Capacity": "17637 lbs (8,000 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "21274.7 lbs (9,650 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

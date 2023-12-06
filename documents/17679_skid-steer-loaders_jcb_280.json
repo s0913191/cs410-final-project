@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/jcb/280/17679",
+    "source_url_id": "17679",
+    "source_url_model": "280",
+    "source_url_make": "jcb",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:32.507721",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "280",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.1 ft (2 m)",
+            "Ground Clearance": "9.4 in (23 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length with Bucket": "12.4 ft (4 m)",
+            "Reach at Max Lift and Dump": "34.3 in (86 cm)",
+            "Turning Radius from Center - inc bucket": "86.7 in (218 cm)",
+            "Turning Radius from Center - machine rear": "69.3 in (175 cm)",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "268 cu in (0 m)",
+            "Engine Model": "TC-63",
+            "Gross Power": "84 hp (63 kw)",
+            "Max Torque": "267 lbs/ft",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "23 gal/min (87 l/min)",
+            "Relief Valve Pressure": "3335 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.7 cu yds (0 m)",
+            "Operating Load Rating": "2800 lbs (1,270 kg)",
+            "Operating Width": "72 in (183 cm)",
+            "Tipping Angle": "5608  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Chain Box Fluid Capacity - each side": "6.1 gal (23 l)",
+            "Cooling System Fluid Capacity": "4.1 gal (15 l)",
+            "Engine Oil Fluid Capacity": "3.7 gal (11 l)",
+            "Fuel Capacity": "27.3 gal (102 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed": "12.4 mph (19 kph)",
+            "Operating Speed": "6.8 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "8060 lbs (3,656 kg)",
+            "Tire Size": "12 x 16.5"
+        }
+    }
+}

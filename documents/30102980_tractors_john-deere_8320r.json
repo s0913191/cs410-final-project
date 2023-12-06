@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/8320r/30102980",
+    "source_url_id": "30102980",
+    "source_url_model": "8320r",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:24:08.761417",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "8320R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "27 in (69 cm)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Overall Length": "20.2 in (51 cm)",
+            "Tire Size": "480/80R50",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "9.0L",
+            "Gross Power": "320 hp (239 kw)",
+            "Net Power": "307 hp (229 kw)",
+            "Number of Cylinders": "6",
+            "PTO Power": "263 hp (196 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "35 gal/min (132 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "29300 lbs (13,290 kg)",
+            "3 Point Hitch Type": "IVN/III",
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Drawbar Static Vertical Load Rating": "23682 lbs (10,742 kg)",
+            "Engine Oil Capacity": "7.4 gal (27 l)",
+            "Fuel Capacity": "180 gal (681 l)",
+            "Hydraulic System Fluid Capacity": "40 gal (151 l)"
+        },
+        "Transmission": {
+            "Max Speed": "50 mph (80 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "full power shift"
+        },
+        "Years of Manufacture": {
+            "Approximate First Year of Manufacture": "2009",
+            "Approximate Last Year of Manufacture": "2010"
+        }
+    }
+}

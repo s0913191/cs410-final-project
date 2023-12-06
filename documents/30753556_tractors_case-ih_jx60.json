@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/jx60/30753556",
+    "source_url_id": "30753556",
+    "source_url_model": "jx60",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:11:43.554586",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "JX60",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "8.1 ft (2 m)",
+            "Wheelbase": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Naturally Aspirated",
+            "Displacement": "177 cu in (0 m)",
+            "Gross Power": "55 hp (41 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm",
+            "PTO Power": "45 hp (34 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.7 gal/min (79 l/min)",
+            "Relief Valve Setting": "2755 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4010 lbs (1,819 kg)",
+            "Alternator Supplied Amperage": "85  A",
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Operating Weight": "5813 lbs (2,637 kg)"
+        },
+        "Production": {
+            "Series": "JX Series",
+            "Years Manufactured": "2007 - 2008"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9 x 28"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "12x12 w / mechanical shuttle"
+        }
+    }
+}

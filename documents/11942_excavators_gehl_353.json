@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/gehl/353/11942",
+    "source_url_id": "11942",
+    "source_url_model": "353",
+    "source_url_make": "gehl",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:24.384513",
+    "equipment_category": "Excavators",
+    "equipment_make": "Gehl",
+    "equipment_model": "353",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "16.2 ft (5 m)",
+            "Max Digging Depth": "10.6 ft (3 m)",
+            "Max Loading Height": "11.9 ft (3 m)",
+            "Max Reach Along Ground": "17.3 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "7.3 ft (2 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "16.8 ft (5 m)",
+            "Max Digging Depth": "11.6 ft (3 m)",
+            "Max Loading Height": "12.5 ft (4 m)",
+            "Max Reach Along Ground": "18.2 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8.3 ft (2 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Length of Track on Ground": "5.3 ft (2 m)",
+            "Tail Swing Radius": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "134.3 cu in (0 m)",
+            "Engine Model": "Yanmar 4TNV88-WNS, A TIER II",
+            "Net Power": "32 hp (24 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "88  A",
+            "Fuel Capacity": "13.8 gal (49 l)",
+            "Hydraulic Pump Flow Capacity": "28.2 gal/min (106 l/min)",
+            "Hydraulic System Fluid Capacity": "13.3 gal (49 l)",
+            "Hydraulic System Relief Valve Pressure": "3481 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "7715 lbs (3,500 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.7 psi",
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Number of Track Rollers per Side": "4",
+            "Shoe Size": "12.1 in (30 cm)"
+        }
+    }
+}

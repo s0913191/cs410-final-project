@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/caterpillar/246d/5578",
+    "source_url_id": "5578",
+    "source_url_model": "246d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:24.312277",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "246D",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "73 hp (54 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2150 lbs (975 kg)",
+            "Operating Width": "66 in (168 cm)"
+        }
+    }
+}

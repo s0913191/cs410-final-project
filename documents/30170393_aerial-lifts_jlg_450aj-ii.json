@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/450aj-ii/30170393",
+    "source_url_id": "30170393",
+    "source_url_model": "450aj-ii",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:50.108944",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "450AJ II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "30%",
+            "Overall Height - mast lowered": "7.6 ft (2 m)",
+            "Overall Length": "22 in (56 cm)",
+            "Overall Width": "7.9 ft (2 m)",
+            "Turning Radius - Inside": "6.7 ft (2 m)",
+            "Turning Radius - Outside": "16.5 ft (5 m)",
+            "Wheelbase": "7.8 ft (2 m)"
+        },
+        "Engine": {
+            "Gross Power": "82 hp (61 kw)",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Fuel Capacity": "17 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "27 gal (102 l)",
+            "Tire Size": "33/1550 x 16.5 Superwide"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "24.6 ft (7 m)",
+            "Max Platform Height": "45 ft (14 m)",
+            "Max Platform Weight Capacity": "500 lbs (227 kg)",
+            "Max Working Height": "24.1 ft (7 m)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

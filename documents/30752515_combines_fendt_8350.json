@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/fendt/8350/30752515",
+    "source_url_id": "30752515",
+    "source_url_model": "8350",
+    "source_url_make": "fendt",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:15.375771",
+    "equipment_category": "Combines",
+    "equipment_make": "Fendt",
+    "equipment_model": "8350",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "13 ft (4 m)",
+            "Overall Length": "28.3 ft (9 m)"
+        },
+        "Engine": {
+            "Power": "346 hp (258 kw)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "298 bu",
+            "Unloading Discharge Height": "13812.4 ft (4,210 m)",
+            "Unloading Speed": "2.6 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "198.2 gal (749 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "32187.5 lbs (14,600 kg)"
+        },
+        "Threshing": {
+            "Concave Area": "1131.6 cu in (0 m)",
+            "Rotor Diameter": "19.7 in (48 cm)"
+        }
+    }
+}

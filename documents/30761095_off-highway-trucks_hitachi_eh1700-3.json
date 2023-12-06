@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/hitachi/eh1700-3/30761095",
+    "source_url_id": "30761095",
+    "source_url_model": "eh1700-3",
+    "source_url_make": "hitachi",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:31.183733",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Hitachi",
+    "equipment_model": "EH1700-3",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "RWD"
+        },
+        "Dump": {
+            "Rated Payload": "104.9 t (94,347 kg)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QST30"
+        },
+        "Weights": {
+            "Operating Weight": "360008 lbs (163,299 kg)"
+        }
+    }
+}

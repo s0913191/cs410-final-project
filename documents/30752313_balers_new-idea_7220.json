@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/new-idea/7220/30752313",
+    "source_url_id": "30752313",
+    "source_url_model": "7220",
+    "source_url_make": "new-idea",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:01:10.742533",
+    "equipment_category": "Balers",
+    "equipment_make": "New Idea",
+    "equipment_model": "7220",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "1.5 ft (0 m)",
+            "Bale Length - max": "4.4 ft (1 m)",
+            "Bale Length - min": "1.1 ft (0 m)",
+            "Bale Width": "1.4 ft (0 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "4",
+            "Number of Tines": "56, Double Tines",
+            "Overall Width": "7.6 ft (2 m)",
+            "Tine to Tine Width": "5.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "5.5 ft (2 m)",
+            "Overall Length": "20.3 ft (6 m)",
+            "Overall Width": "8.8 ft (2 m)",
+            "Weight": "4376.2 lbs (1,985 kg)"
+        },
+        "Feeding Chamber": {
+            "Stuffer Type": "Crank Type Cam Controlled w/ 3 Tines"
+        },
+        "Plunger": {
+            "Bearing Type": "Sealed Ball Bearing Rollers",
+            "Density Control": "Hydraulic Density Control Rails",
+            "SPM": "100",
+            "Stroke Length": "23 in (58 cm)"
+        }
+    }
+}

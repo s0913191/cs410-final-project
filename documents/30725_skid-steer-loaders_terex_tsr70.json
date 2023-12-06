@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/terex/tsr70/30725",
+    "source_url_id": "30725",
+    "source_url_model": "tsr70",
+    "source_url_make": "terex",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:11.696386",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TSR70",
+    "equipment_spec": {
+        "Axles": {
+            "Tractive Effort": "28541.5 lbs/ft"
+        },
+        "Dimensions": {
+            "Dump angle": "46  \t\u00b0",
+            "Ground Clearance": "10.6 in (25 cm)",
+            "Height - Top of ROPS/FOPS": "82.8 in (208 cm)",
+            "Height to Hinge Pin": "125 in (318 cm)",
+            "Length w/o Bucket": "9 ft (3 m)",
+            "Length with Bucket": "12 ft (4 m)",
+            "Rear Departure Angle": "26",
+            "Wheelbase": "4.1 ft (1 m)",
+            "Width Over Tires": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dual Stage",
+            "Displacement": "201.4 cu in (0 m)",
+            "Emissions Certification": "Tier 3",
+            "Engine Model": "Perkins 804D-33T",
+            "Gross Power": "74 hp (55 kw)",
+            "Max Torque": "180.8 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.4 gal/min (79 l/min)",
+            "Relief Valve Pressure": "3335 psi"
+        },
+        "Loader": {
+            "Tipping load (ISO 14397)": "3986 lbs (1,808 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Engine Oil Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "8 gal (30 l)",
+            "Hydraulic System Fluid Capacity": "2.7 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "7449.5 lbs (3,379 kg)",
+            "Shipping Weight - Empty": "6598.5 lbs (2,993 kg)",
+            "Tire Size": "12x16.5"
+        }
+    }
+}

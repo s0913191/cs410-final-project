@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/mercedes-benz/2633k-mixer-2004/30759336",
+    "source_url_id": "30759336",
+    "source_url_model": "2633k-mixer-2004",
+    "source_url_make": "mercedes-benz",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:57:19.872223",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Mercedes-Benz",
+    "equipment_model": "2633K Mixer (2004)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.6 in (28 cm)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Number of Rear Axles": "2",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tire Size": "315/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length from Back of Cab to End of Frame": "232.7 in (589 cm)",
+            "Length From Back of Cab to End of Frame": "232.68 in (589 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "53.15 in (135 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "53.2 in (135 cm)",
+            "Overall Length": "25.7 ft (8 m)",
+            "Total Chassis Weight": "16204 lbs (7,350 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "27.1 ft (8 m)",
+            "Wheelbase": "141.8 in (358 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length From Back of Cab to End of Frame": "232.68 in (589 cm)",
+            "Length from Back of Cab to End of Frame": "232.7 in (589 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "53.15 in (135 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "53.2 in (135 cm)",
+            "Overall Length": "26.6 ft (8 m)",
+            "Total Chassis Weight": "16270.2 lbs (7,380 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "27.1 ft (8 m)",
+            "Wheelbase": "153.6 in (389 cm)"
+        }
+    }
+}

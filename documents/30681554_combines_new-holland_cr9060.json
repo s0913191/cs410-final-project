@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/new-holland/cr9060/30681554",
+    "source_url_id": "30681554",
+    "source_url_model": "cr9060",
+    "source_url_make": "new-holland",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:18.393263",
+    "equipment_category": "Combines",
+    "equipment_make": "New Holland",
+    "equipment_model": "CR9060",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "Cursor 9",
+            "Number of Cylinders": "6",
+            "Power": "290 hp (216 kw)"
+        },
+        "Feeding": {
+            "Conveyor Length": "43 in (109 cm)",
+            "Conveyor Width": "264 in (671 cm)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "750 gal (2,839 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "31658.4 lbs (14,360 kg)",
+            "Transmission Type": "hydraulic transmission"
+        },
+        "Threshing": {
+            "Rotor Diameter": "17 in (43 cm)"
+        }
+    }
+}

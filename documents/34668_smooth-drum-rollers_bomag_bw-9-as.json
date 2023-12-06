@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-9-as/34668",
+    "source_url_id": "34668",
+    "source_url_model": "bw-9-as",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:25.158712",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 9 AS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "3.4 ft (1 m)",
+            "Drum Diameter - Rear": "4.5 ft (1 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height": "6.2 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "9 ft (3 m)",
+            "Overall Length": "15.3 in (38 cm)",
+            "Overall Width": "5.3 ft (2 m)",
+            "Turning Radius - Inside": "142 in (361 cm)",
+            "Wheelbase": "11.1 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "50 in (127 cm)"
+        },
+        "Engine": {
+            "Engine Model": "4B3.3TAA",
+            "Gross Power": "84 hp (63 kw)",
+            "Make": "Cummins",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "30.2 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "15.1 gal (57 l)",
+            "Max Speed": "10.2 mph (16 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Width": "62.5 in (157 cm)",
+            "Spray Water Capacity": "170.4 gal (643 l)"
+        },
+        "Weights": {
+            "Max Static Linear Load - Drive Drum": "216 lbs/in",
+            "Max Static Linear Load - guide drum": "162 lbs/in",
+            "Operating Weight - max ballast": "18876 lbs (8,562 kg)",
+            "Operating Weight - standard": "13986 lbs (6,344 kg)"
+        }
+    }
+}

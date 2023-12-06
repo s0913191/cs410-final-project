@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/caterpillar/bg655d/30761007",
+    "source_url_id": "30761007",
+    "source_url_model": "bg655d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:05.313157",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "BG655D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "6 - 20.20 ft (2 - 6 m)"
+        },
+        "Engine": {
+            "Make": "Caterpillar"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "15.5 lbs (7 kg)",
+            "Paving Speed": "255 ft/min",
+            "Paving Width - max": "6 - 20.20 ft (2 - 6 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "33775 lbs (15,320 kg)"
+        }
+    }
+}

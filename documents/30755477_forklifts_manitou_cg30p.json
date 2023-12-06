@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/cg30p/30755477",
+    "source_url_id": "30755477",
+    "source_url_model": "cg30p",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:42.645263",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "CG30P",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6.3 in (15 cm)",
+            "Height to Top of Overhead Guard": "7.1 ft (2 m)",
+            "Length to Fork Face": "8.7 ft (2 m)",
+            "Max Fork Height": "11.1 ft (3 m)",
+            "Overall Height - mast lowered": "7.3 ft (2 m)",
+            "Overall Width": "4.2 ft (1 m)",
+            "Turning Radius": "7.7 ft (2 m)",
+            "Wheelbase": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "150.9 cu in (0 m)",
+            "Engine Model": "H25",
+            "Fuel Type": "LPG",
+            "Power": "48.3 hp (36 kw)"
+        },
+        "MAST": {
+            "Load Capacity": "6000 lbs (2,722 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0",
+            "Max Fork Spread": "49.7 in (124 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "13.7 mph (21 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "9579.1 lbs (4,345 kg)",
+            "Tire Type": "front 28-9-15PR rear 6.5-10-10 PR"
+        }
+    }
+}

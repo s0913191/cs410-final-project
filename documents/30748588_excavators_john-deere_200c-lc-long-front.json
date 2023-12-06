@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/200c-lc-long-front/30748588",
+    "source_url_id": "30748588",
+    "source_url_model": "200c-lc-long-front",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:06:07.707804",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "200C LC Long Front",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "38.3 ft (12 m)",
+            "Max Loading Height": "37.7 ft (11 m)",
+            "Max Reach Along Ground": "50.6 ft (15 m)",
+            "Shipping Height of Unit": "9.6 ft (3 m)",
+            "Shipping Length of Unit": "39.3 ft (12 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.1 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.8 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Length of Track on Ground": "12.1 ft (4 m)",
+            "Tail Swing Radius": "9 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6068T",
+            "Max Torque": "427.1 lbs/ft",
+            "Net Power": "141 hp (105 kw)",
+            "Power Measured @": "2150 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Hydraulic Pump Flow Capacity": "115.8 gal/min (435 l/min)",
+            "Hydraulic System Fluid Capacity": "34 gal (129 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Weight": "44800 lbs (20,321 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.6 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "31.9 in (79 cm)",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

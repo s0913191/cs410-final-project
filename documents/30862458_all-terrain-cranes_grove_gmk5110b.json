@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/gmk5110b/30862458",
+    "source_url_id": "30862458",
+    "source_url_model": "gmk5110b",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:29.123523",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "GMK5110B",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "84  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "151 ft (46 m)",
+            "Max Lift Capacity": "220000 lbs (99,791 kg)",
+            "Max Working Radius": "135 ft (41 m)",
+            "Min Height @ Max Raise Angle": "46 ft (14 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "1.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "502.9 hp (374 kw)",
+            "Make": "Grove",
+            "Max Torque": "1488 lbs/ft",
+            "Model": "OM 442 LA",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "44 ft (13 m)",
+            "Transport Height": "12.5 ft (4 m)",
+            "Transport Length": "53.8 ft (16 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "12.5 ft (4 m)",
+            "Width w/ Outriggers Extended": "26.9 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Carrier Fuel Capacity": "99.9 gal (375 l)",
+            "Number of Axels": "5",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "115500 lbs (52,391 kg)",
+            "Tire Size": "20.5x25",
+            "Upper Structure Fuel Capacity": "50 gal (189 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "28 mph (45 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "Allison automatic CLBT 755"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "140.9 hp (104 kw)",
+            "Make": "Grove",
+            "Max Torque": "427 lbs/ft",
+            "Model": "OM 366 A",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1600 rpm"
+        }
+    }
+}

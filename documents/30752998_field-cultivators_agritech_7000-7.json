@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/field-cultivators/agritech/7000-7/30752998",
+    "source_url_id": "30752998",
+    "source_url_model": "7000-7",
+    "source_url_make": "agritech",
+    "source_url_category": "field-cultivators",
+    "source_date_scraped": "2023-09-13 17:04:04.795281",
+    "equipment_category": "Field Cultivators",
+    "equipment_make": "Agritech",
+    "equipment_model": "7000 7",
+    "equipment_spec": {
+        "Dimensions": {
+            "Transport Height": "15.5 ft (5 m)",
+            "Transport Width": "21.5 ft (6 m)"
+        },
+        "Frame": {
+            "Min Working Width": "37.5 ft (11 m)"
+        },
+        "Operating Specifications": {
+            "Operational Weight": "10800 lbs (4,899 kg)"
+        }
+    }
+}

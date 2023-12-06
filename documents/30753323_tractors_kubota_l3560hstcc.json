@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l3560hstcc/30753323",
+    "source_url_id": "30753323",
+    "source_url_model": "l3560hstcc",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:29:59.253683",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L3560HSTCC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Tread Range": "45.5 in (114 cm)",
+            "Ground Clearance": "13.5 in (33 cm)",
+            "Height - Top of ROPS/FOPS": "7.6 ft (2 m)",
+            "Overall Length": "115 in (292 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Rear Tread Range": "47.2-58.3, 1200-1480 mm in (119 cm)",
+            "Wheelbase": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural with EGR",
+            "Bore": "3.5 in (8 cm)",
+            "Displacement": "148.5 cu in (0 m)",
+            "Engine Make": "KUBOTA",
+            "Engine Model": "L3560HSTCC",
+            "Engine Type": "E-TVCS, indirect injection, vertical, liquid-cooled 4-cycle diesel",
+            "Gross Power": "37 hp (28 kw)",
+            "Net Power": "35 hp (26 kw)",
+            "Number of Cylinders": "3",
+            "PTO Power": "28 hp (21 kw)",
+            "Rated Speed": "2700 rpm",
+            "Stroke": "4.1 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Implement Pump Flow PS": "8.1 gal/min (30 l/min)",
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "4.7 gal/min (15 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2645.6 lbs (1,200 kg)",
+            "3 Point Hitch Type": "Category 1",
+            "Alternator Supplied Amperage": "60  A",
+            "Fuel Capacity": "13.5 gal (49 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3847.1 lbs (1,745 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.2 - 16",
+            "Turning Radius": "8.9 ft (2 m)"
+        },
+        "Power Take-Off (PTO)": {
+            "Mid- PTO": "1 speed: 2000 rpm",
+            "Power Take-Off(PTO) Type": "Independent",
+            "Rear PTO": "1 speed: 540 rpm"
+        },
+        "Tires": {
+            "Rear Tires Size": "12.4 - 24"
+        },
+        "Transmission": {
+            "Brakes": "Wet disc type",
+            "Clutch, wet/dry": "Dry type single stage",
+            "Max Speed": "16.5 mph (26 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Steering": "Hydrostatic power steering",
+            "Transmission Type": "HST Plus"
+        }
+    }
+}

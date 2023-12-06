@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/d350e-ii/4416",
+    "source_url_id": "4416",
+    "source_url_model": "d350e-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:03.752467",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D350E II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Height": "22.5 ft (7 m)",
+            "Overall Height": "11.6 ft (3 m)",
+            "Overall Length": "35 ft (11 m)",
+            "Overall Width": "10.7 ft (3 m)"
+        },
+        "Dump": {
+            "Dump Angle": "55  \t\u00b0",
+            "Rated Payload": "70107 lbs (31,800 kg)"
+        },
+        "Engine": {
+            "Gross Power": "355 hp (265 kw)"
+        },
+        "Weights": {
+            "Total Empty": "66560 lbs (30,191 kg)"
+        }
+    }
+}

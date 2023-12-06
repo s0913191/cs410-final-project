@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/broderson/ic-40-a/30758545",
+    "source_url_id": "30758545",
+    "source_url_model": "ic-40-a",
+    "source_url_make": "broderson",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:21.688979",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Broderson",
+    "equipment_model": "IC-40-A",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "70  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "26.3 ft (8 m)",
+            "Max Lift Capacity": "7000 lbs (3,175 kg)",
+            "Max Operating Radius": "27 ft (8 m)",
+            "Min Height @ Max Raise Angle": "15 ft (5 m)",
+            "Min Operating Radius": "4 ft (1 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "1.4 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "10.7 ft (3 m)",
+            "Ground Clearance": "0.7 ft (0 m)",
+            "Transport Height": "6.8 ft (2 m)",
+            "Transport Length": "12.1 ft (4 m)",
+            "Transport Width": "5.4 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "3.6 ft (1 m)",
+            "Wheelbase": "6.6 in (15 cm)"
+        },
+        "Engine": {
+            "Displacement": "121 cu in (0 m)",
+            "Engine Model": "H20",
+            "Gross Power": "51 hp (38 kw)",
+            "Max Torque": "105 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "35  A",
+            "Fuel Capacity": "13.5 gal (49 l)",
+            "Hydraulic System Fluid Capacity": "14 gal (53 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8840 lbs (4,010 kg)",
+            "Tire Size": "28x9-15 14PR"
+        }
+    }
+}

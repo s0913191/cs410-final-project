@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/flatbed-trailers/eager-beaver/10hdb-pt/40826",
+    "source_url_id": "40826",
+    "source_url_model": "10hdb-pt",
+    "source_url_make": "eager-beaver",
+    "source_url_category": "flatbed-trailers",
+    "source_date_scraped": "2023-09-13 17:54:16.673336",
+    "equipment_category": "Flatbed Trailers",
+    "equipment_make": "Eager Beaver",
+    "equipment_model": "10HDB-PT",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "24x8 ft (7 m)"
+        },
+        "Engine": {
+            "Speed Rating": "65 mph (105 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Slipper Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "5800 lbs (2,631 kg)",
+            "Weight Capacity": "20000 lbs (9,072 kg)"
+        }
+    }
+}

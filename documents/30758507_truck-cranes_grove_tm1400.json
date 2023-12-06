@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tm1400/30758507",
+    "source_url_id": "30758507",
+    "source_url_model": "tm1400",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:31.863857",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TM1400",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "140.8 ft (43 m)",
+            "Max Lift Capacity": "286601 lbs (130,001 kg)",
+            "Max Working Radius": "124.7 ft (38 m)",
+            "Min Height @ Max Raise Angle": "45 ft (14 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "1.9 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "736 cu in (0 m)",
+            "Make": "Grove",
+            "Max Torque": "1144 lbs/ft",
+            "Model": "8V-92T",
+            "Net Power": "387 hp (289 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "48.2 ft (15 m)",
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Transport Height": "13.2 ft (4 m)",
+            "Transport Length": "57.7 ft (17 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "16.3 ft (5 m)",
+            "Width w/ Outriggers Extended": "31.6 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Carrier Fuel Capacity": "100 gal (379 l)",
+            "Number of Axels": "6",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "189934 lbs (86,154 kg)",
+            "Tire Size": "14.00x20-22ply",
+            "Upper Structure Fuel Capacity": "60 gal (227 l)",
+            "Upper Structure Hydraulic System Fluid Capacity": "420 gal (1,590 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "41.8 mph (66 kph)",
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Fuller Roadranger RTO 12509"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "555 cu in (0 m)",
+            "Make": "Grove",
+            "Max Torque": "394 lbs/ft",
+            "Model": "6V-53N",
+            "Net Power": "199 hp (148 kw)",
+            "Power Measured @": "3000 rpm",
+            "Torque Measured @": "1800 rpm"
+        }
+    }
+}

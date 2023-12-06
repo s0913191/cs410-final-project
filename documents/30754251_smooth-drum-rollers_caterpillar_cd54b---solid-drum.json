@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cd54b---solid-drum/30754251",
+    "source_url_id": "30754251",
+    "source_url_model": "cd54b---solid-drum",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:49.394408",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CD54B - Solid Drum",
+    "equipment_spec": {
+        "Dimensions": {
+            "Compaction Width": "67 in (170 cm)",
+            "Drum Diameter": "47 in (119 cm)",
+            "Height - Top of ROPS/FOPS": "116 in (295 cm)",
+            "Overall Length": "13.9 ft in (33 cm)",
+            "Overall Width": "5.5 ft (2 m)",
+            "Wheel Base": "10.3 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "67 in (170 cm)"
+        },
+        "Engine": {
+            "Bore": "3.9 in (8 cm)",
+            "Engine Model": "Cat C3.4B with ACERT Technology",
+            "Gross Power": "102 hp (76 kw)",
+            "Stroke": "4.4 in (10 cm)"
+        },
+        "Operating Specifications": {
+            "Curb Clearance": "31 in (79 cm)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Maximum Compaction Width": "118 in (300 cm)",
+            "Standard Compaction Width": "67 in (170 cm)",
+            "Static Linear Load": "149 lbs (68 kg)",
+            "Travel Speed - Maximum": "7.5 mph (11 kph)",
+            "Turning Radius - Inside Drum Edge": "111.6 in (282 cm)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank Capacity": "50 gal (189 l)",
+            "Water Spray Tank Capacity": "198 gal (749 l)"
+        },
+        "Vibratory System": {
+            "Centrifugal Force per Drum - Maximum": "19491 lbs (8,841 kg)",
+            "Centrifugal Force per Drum - Minimum": "16973 lbs (7,699 kg)",
+            "Drum Diameter": "47 in (119 cm)",
+            "Eccentric Weight Drive": "Hydraulic direct, auto reversing",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Selection": "Independent per drum, front only, rear only, both"
+        },
+        "Weights": {
+            "Maximum Weight at Front Drum": "9987 lbs (4,530 kg)",
+            "Maximum Weight at Rear Drum": "9921 lbs (4,500 kg)",
+            "Operating Weight - At Front Drum with ROPS/FOPS": "9656 lbs (4,380 kg)",
+            "Operating Weight - At Rear Drum with ROPS/FOPS": "9678 lbs (4,390 kg)",
+            "Operating Weight - With Cab": "19908 lbs (9,030 kg)",
+            "Operating Weight - With ROPS/FOPS": "15873 lbs (7,200 kg)"
+        }
+    }
+}

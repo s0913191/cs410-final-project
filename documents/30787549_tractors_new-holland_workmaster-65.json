@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/workmaster-65/30787549",
+    "source_url_id": "30787549",
+    "source_url_model": "workmaster-65",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:50.981571",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "WORKMASTER 65",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "65 hp (48 kw)"
+        },
+        "Production": {
+            "Series": "Workmaster Series",
+            "Years Manufactured": "2009 - 2014"
+        }
+    }
+}

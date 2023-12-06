@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/gs-3390rt/30758129",
+    "source_url_id": "30758129",
+    "source_url_model": "gs-3390rt",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:14.250718",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "GS-3390RT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "50%",
+            "Ground Clearance": "14.2 in (36 cm)",
+            "Height w/ Rails": "8.9 ft (2 m)",
+            "Height w/o Rails": "6.7 ft (2 m)",
+            "Overall Length": "13 in (33 cm)",
+            "Overall Width": "7.8 ft (2 m)",
+            "Turning Radius - Inside": "7.1 ft (2 m)",
+            "Turning Radius - Outside": "17.5 ft (5 m)",
+            "Wheelbase": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "DSG-423",
+            "Fuel Type": "Gas/LPG",
+            "Gross Power": "75 hp (56 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "30.1 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "30.1 gal (114 l)",
+            "Max Speed": "4 mph (6 kph)",
+            "Operating Weight": "11977.8 lbs (5,433 kg)",
+            "Tire Fill/Type": "Foam-filled rough terrain",
+            "Tire Size": "12 x 33"
+        },
+        "Platform": {
+            "Deck Extension": "59.9 in (150 cm)",
+            "Lift Time": "45 sec",
+            "Lower Time": "29 sec",
+            "Max Platform Height": "33.1 ft (10 m)",
+            "Max Platform Weight Capacity": "2500.1 lbs (1,134 kg)",
+            "Max Working Height": "39.6 ft (12 m)",
+            "Platform Inner Length": "156.7 in (396 cm)",
+            "Platform Inner Width": "72.1 in (183 cm)"
+        }
+    }
+}

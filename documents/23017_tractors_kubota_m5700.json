@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m5700/23017",
+    "source_url_id": "23017",
+    "source_url_model": "m5700",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:02.303380",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M5700",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "inboard planetary"
+        },
+        "Dimensions": {
+            "Ground Clearance": "18.2 in (46 cm)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.3 ft (2 m)",
+            "Overall Length": "11.5 in (28 cm)",
+            "Overall Width": "6.1 ft (2 m)",
+            "Tire Size": "front 9.5-22R1 rear 16.9-28R1",
+            "Wheelbase": "6.9 ft (2 m)",
+            "Width Outside Frame": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "E0TVCS liquid cooled",
+            "Displacement": "167.5 cu in (0 m)",
+            "Engine Model": "F2803EA",
+            "Gross Power": "61.6 hp (45 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm",
+            "PTO Power": "52 hp (39 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "17.1 gal/min (64 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3307 lbs (1,500 kg)",
+            "3 Point Hitch Type": "Cat I & II",
+            "Cooling System Fluid Capacity": "2.2 gal (8 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "25.1 gal (95 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "4651.8 lbs (2,110 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.50-16F2",
+            "Turning Radius": "9.6 ft (3 m)"
+        },
+        "Production": {
+            "Series": "M Series",
+            "Years Manufactured": "2001 - 2005"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9-28 R1"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "fully synchronized"
+        }
+    }
+}

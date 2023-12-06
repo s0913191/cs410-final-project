@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d7e-wh/30750979",
+    "source_url_id": "30750979",
+    "source_url_model": "d7e-wh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:19.815330",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D7E WH",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C9.3 ACERT",
+            "Net Power": "235 hp (175 kw)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "22.5 gal (83 l)",
+            "DEF Tank": "4.8 gal (15 l)",
+            "Engine Crankcase": "8 gal (30 l)",
+            "Final Drive - Each": "7 gal (27 l)",
+            "Fuel Tank": "113.5 gal (428 l)",
+            "Hydraulic Tank": "20 gal (76 l)",
+            "Pivot Shaft Compartment": "1.8 gal (4 l)",
+            "Power Train": "16 gal (61 l)",
+            "Roller Frames - Each": "11 gal (42 l)"
+        },
+        "Standards": {
+            "Brakes": "Crawler Machine Brake Requirements meets the following criteria: ISO 10265:2008",
+            "FOPS": "Falling Object Protective Structure (FOPS) meets the following criteria: ISO 3449:2005 Level II",
+            "ROPS": "Rollover Protective Structure (ROPS) meets the following criteria: ISO 3471:2008"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Ground Pressure": "6.4 psi",
+            "Track Gauge": "7.5 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "63537 lbs (28,820 kg)"
+        }
+    }
+}

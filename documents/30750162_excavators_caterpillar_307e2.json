@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/307e2/30750162",
+    "source_url_id": "30750162",
+    "source_url_model": "307e2",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:22.517051",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "307E2",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "17.5 in (43 cm)",
+            "Blade Lift Height": "13.8 in (33 cm)",
+            "Blade Width": "90.6 ft (27 m)",
+            "Dig Depth": "15.3 in (38 cm)"
+        },
+        "Dimensions - Standard Stick": {
+            "Boom In Reach": "5.5 in (13 cm)",
+            "Dig Depth": "13.4 in (33 cm)",
+            "Maximum Blade Depth": "1.1 in (3 cm)",
+            "Maximum Blade Height": "1.3 in (3 cm)",
+            "Maximum Dig Height": "23.8 in (58 cm)",
+            "Maximum Dump Clearance": "17 in (43 cm)",
+            "Maximum Reach": "20.7 in (51 cm)",
+            "Maximum Reach - Ground Level": "20.2 in (51 cm)",
+            "O/A Shipping Length": "19.9 in (48 cm)",
+            "O/A Track Width": "7.2 in (18 cm)",
+            "O/A Undercarriage Length": "9 in (23 cm)",
+            "Swing Bearing - Height": "2.5 in (5 cm)",
+            "Track Belt/Shoe Width": "1.5 in (3 cm)",
+            "Vertical Wall": "11.9 in (28 cm)"
+        },
+        "Engine": {
+            "Bore": "3.4 in (8 cm)",
+            "Displacement": "146.5 cu in (0 m)",
+            "Engine Model": "Cat C2.4 Turbo",
+            "Net Power": "50.6 hp (37 kw)",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Digging Force - Bucket": "11375 lbs (5,160 kg)",
+            "Digging Force - Stick - Standard": "8340 lbs (3,783 kg)",
+            "Operating Pressure - Equipment": "4061 psi",
+            "Operating Pressure - Swing": "4061 psi",
+            "Operating Pressure - Travel": "4061 psi",
+            "Pump Flow at 2,400 rpm": "40.9 gal/min (151 l/min)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "3.7 gal (11 l)",
+            "Engine Oil": "2.9 gal (8 l)",
+            "Fuel Tank": "35.7 gal (132 l)",
+            "Hydraulic System": "20.6 gal (76 l)",
+            "Hydraulic Tank": "13.5 gal (49 l)"
+        },
+        "Swing System": {
+            "Machine Swing Speed": "10.2 rpm"
+        },
+        "Travel System": {
+            "Gradeability - Maximum": "20  \t\u00b0",
+            "Maximum Traction Force - High Speed": "7599 lbs (3,447 kg)",
+            "Maximum Traction Force - Low Speed": "13331 lbs (6,047 kg)",
+            "Travel Speed - High": "3.2 mph (5 kph)",
+            "Travel Speed - Low": "2 mph (3 kph)"
+        },
+        "Weights": {
+            "Operating Weight - With Cab": "16028 lbs (7,270 kg)"
+        }
+    }
+}

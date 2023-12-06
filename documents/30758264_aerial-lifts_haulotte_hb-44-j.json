@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/hb-44-j/30758264",
+    "source_url_id": "30758264",
+    "source_url_model": "hb-44-j",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:29.320000",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HB 44 J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "50%",
+            "Ground Clearance": "14 in (36 cm)",
+            "Overall Height - mast lowered": "7.6 ft (2 m)",
+            "Overall Length": "265.2 in (673 cm)",
+            "Overall Width": "7.6 ft (2 m)",
+            "Tailswing Radius": "2.9 ft (1 m)",
+            "Turning Radius": "14.3 ft (4 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Make": "Deutz",
+            "Gross Power": "42.4 hp (31 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "40 gal (151 l)",
+            "Max Speed": "3.4 mph (5 kph)",
+            "Operating Weight": "14994 lbs (6,801 kg)",
+            "Tire Size": "14-17.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "40.5 ft (12 m)",
+            "Max Platform Height": "44 ft (13 m)",
+            "Max Platform Weight Capacity": "500.2 lbs (227 kg)",
+            "Max Working Height": "50 ft (15 m)",
+            "Platform Rotation": "178  \t\u00b0"
+        }
+    }
+}

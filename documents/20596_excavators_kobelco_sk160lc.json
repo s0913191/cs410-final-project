@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk160lc/20596",
+    "source_url_id": "20596",
+    "source_url_model": "sk160lc",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:14.237243",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK160LC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "21.6 ft (6 m)",
+            "Digging Reach": "21.6 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "36800 lbs (16,692 kg)"
+        }
+    }
+}

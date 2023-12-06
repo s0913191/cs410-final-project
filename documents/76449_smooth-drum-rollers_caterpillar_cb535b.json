@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb535b/76449",
+    "source_url_id": "76449",
+    "source_url_model": "cb535b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:43.626521",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB535B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "4.3 ft (1 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "17.4 in (43 cm)",
+            "Overall Width": "6.3 ft (2 m)",
+            "Wheelbase": "11.6 in (28 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "26550 lbs (12,043 kg)",
+            "Drum Diameter": "51.2 in (130 cm)",
+            "Drum Width": "67 in (170 cm)",
+            "Vibration Frequency 1": "42 hz (2,520 vpm)"
+        },
+        "Engine": {
+            "Displacement": "244.1 cu in (0 m)",
+            "Engine Model": "3054 DIT",
+            "Gross Power": "107 hp (80 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "55 gal (208 l)",
+            "Hydraulic System Fluid Capacity": "14.6 gal (53 l)",
+            "Max Speed": "7.9 mph (11 kph)",
+            "Operating Weight": "29547 lbs (13,402 kg)"
+        },
+        "Tires": {
+            "Tires": "15.00R"
+        }
+    }
+}

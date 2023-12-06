@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/5110b-me/3967",
+    "source_url_id": "3967",
+    "source_url_model": "5110b-me",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:14.914270",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "5110B ME",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "28 ft (9 m)",
+            "Digging Reach": "28 ft (9 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "275000 lbs (124,739 kg)"
+        }
+    }
+}

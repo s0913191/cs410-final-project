@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/doosan/gc30e/722745",
+    "source_url_id": "722745",
+    "source_url_model": "gc30e",
+    "source_url_make": "doosan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:26:38.906449",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Doosan",
+    "equipment_model": "GC30E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Overhead Guard": "6.9 ft (2 m)",
+            "Length to Fork Face": "7.7 ft (2 m)",
+            "Overall Width": "3.7 ft (1 m)",
+            "Turning Radius": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "146.5 cu in (0 m)",
+            "Fuel Type": "LP",
+            "Power": "51.3 hp (38 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "MAST": {
+            "Load Capacity": "6000 lbs (2,722 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "11.2 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "cushion"
+        }
+    }
+}

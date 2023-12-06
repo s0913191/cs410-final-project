@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/leeboy/685c/542515",
+    "source_url_id": "542515",
+    "source_url_model": "685c",
+    "source_url_make": "leeboy",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:40.260866",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Leeboy",
+    "equipment_model": "685C",
+    "equipment_spec": {
+        "Blades": {
+            "Maximum Shoulder Reach Outside of Tires - Left": "38 in (97 cm)",
+            "Maximum Shoulder Reach Outside of Tires - Right": "38 in (97 cm)",
+            "Moldboard Sideshift - Left": "18 in (46 cm)",
+            "Moldboard Sideshift - Right": "18 in (46 cm)"
+        },
+        "Circle": {
+            "Max Lift Above Ground": "13 in (33 cm)"
+        },
+        "Engine": {
+            "Base Power (1st Gear) - Net": "130 hp (97 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "21 in (53 cm)",
+            "Moldboard Length": "11 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16000 lbs (7,258 kg)"
+        },
+        "Steering System": {
+            "Articulation Angle": "24  \t\u00b0",
+            "Turning Radius": "22 ft (7 m)"
+        }
+    }
+}

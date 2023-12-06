@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/8fgc55u/30757184",
+    "source_url_id": "30757184",
+    "source_url_model": "8fgc55u",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:43:05.200719",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "8FGC55U",
+    "equipment_spec": {
+        "Dimensions": {
+            "Fork Spread Max": "3.9 ft (1 m)",
+            "Fork Spread Min-outer edge to edge": "11.9 in (28 cm)",
+            "Forward Tilt": "5  \t\u00b0",
+            "Free lift": "4.8 in (10 cm)",
+            "Gradeability": "34%",
+            "Height to Top of Overhead Guard": "7 ft (2 m)",
+            "Length to Fork Face": "9.4 ft (3 m)",
+            "Max Fork Height": "10.1 ft (3 m)",
+            "Overall Width": "4.7 ft (1 m)",
+            "Turning Radius": "8.4 ft (2 m)",
+            "Wheelbase": "5.9 ft (2 m)"
+        },
+        "Electrical System": {
+            "Battery": "12 V /48 Ah"
+        },
+        "Engine": {
+            "Displacement": "224 cu in (0 m)",
+            "Engine Make": "TOYOTA",
+            "Engine Model": "1FS",
+            "Number of Cylinders": "4",
+            "Power": "84 hp (63 kw)",
+            "Power Measured @": "2350 rpm",
+            "Torque": "213.9 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "MAST": {
+            "Lift height- largest mast": "120.5 in (305 cm)",
+            "Lift height-smallest mast": "86.7 in (218 cm)",
+            "Load Capacity": "12125.5 lbs (5,500 kg)",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "6  \t\u00b0",
+            "Max Fork Spread": "46.1 in (117 cm)"
+        },
+        "Operating Specifications": {
+            "Auxiliary hydraulic flow": "16 gal/min (61 l/min)",
+            "Hydraulic System Relief Valve Pressure": "2275 psi",
+            "Max Speed": "11.8 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "16248.1 lbs (7,370 kg)",
+            "Tire Type": "Cushion"
+        },
+        "Performance": {
+            "Drawbar Pull Max -Full Load": "9920.9 lbs (4,500 kg)",
+            "Drawbar Pull Max -No Load": "2447.2 lbs (1,110 kg)"
+        },
+        "Transmission": {
+            "Speed ranges (forwards/backward)": "1-1",
+            "Transmission Type": "Power shift"
+        }
+    }
+}

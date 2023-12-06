@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/goldoni/maxter-70-rs/30751317",
+    "source_url_id": "30751317",
+    "source_url_model": "maxter-70-rs",
+    "source_url_make": "goldoni",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:15.309386",
+    "equipment_category": "Tractors",
+    "equipment_make": "Goldoni",
+    "equipment_model": "Maxter 70 RS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Overall Length": "10.7 in (25 cm)",
+            "Tire Size": "280/70x18\"\",\"NULL",
+            "Wheelbase": "4.5 ft (1 m)",
+            "Width Outside Frame": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "127.1 cu in (0 m)",
+            "Net Power": "65.8 hp (48 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "10.1 gal/min (38 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Class I and IN",
+            "Fuel Capacity": "8 gal (30 l)",
+            "Operating Weight": "3637.7 lbs (1,650 kg)",
+            "Turning Radius": "4.8 ft (1 m)"
+        },
+        "Transmission": {
+            "Max Speed": "18.7 mph (29 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "Synchronized"
+        }
+    }
+}

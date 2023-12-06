@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/jcb/3cx-4s/30750440",
+    "source_url_id": "30750440",
+    "source_url_model": "3cx-4s",
+    "source_url_make": "jcb",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:35:35.198776",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "3CX-4S",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "14001.6 lbs (6,351 kg)",
+            "Dig Depth": "18 ft (5 m)",
+            "Reach From Swivel": "21.4 ft (6 m)"
+        },
+        "Dimensions": {
+            "Transport Length": "18.5 ft (5 m)",
+            "Transport Width": "7.8 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "444",
+            "Gross Power": "90.2 hp (67 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "36 gal/min (136 l/min)",
+            "Pump Type": "twin gear",
+            "Relief Valve Pressure": "3640.5 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "1.4 cu yds (1 m)",
+            "Bucket Width": "92.6 in (234 cm)",
+            "Clearance at Max Dump Height": "9 ft (3 m)",
+            "Lift Capacity": "3199 lbs (1,451 kg)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "42.3 gal (159 l)",
+            "Operating Weight 4wd": "17791.4 lbs (8,070 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "22.5 mph (35 kph)",
+            "Max Speed - Reverse": "22.5 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "JCB 4WD"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hd785-5/21494",
+    "source_url_id": "21494",
+    "source_url_model": "hd785-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:27.624140",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HD785-5",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2.6 ft (1 m)",
+            "Dump Height": "33.5 ft (10 m)",
+            "Ground Clearance": "2.6 ft (1 m)",
+            "Overall Height": "17.3 ft (5 m)",
+            "Overall Length": "34.9 ft (10 m)",
+            "Overall Width": "18.6 ft (5 m)"
+        },
+        "Dump": {
+            "Load Capacity - heaped": "78.7 cu yds (60 m)",
+            "Load Capacity - Struck": "50.5 cu yds (38 m)",
+            "Lower Time": "13 sec",
+            "Raise Time": "12 sec",
+            "Rated Payload": "171960.6 lbs (78,001 kg)"
+        },
+        "Engine": {
+            "Displacement": "1861 cu in (0 m)",
+            "Engine Model": "SAA12V140ZE-2",
+            "Gross Power": "1042 hp (777 kw)",
+            "Number of Cylinders": "12"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Komatsu 7-speed, electronically-controlled, automatic powershift transmission",
+            "Cooling System Fluid Capacity": "60 gal (227 l)",
+            "Engine Oil Capacity": "37 gal (140 l)",
+            "Fuel Capacity": "330 gal (1,249 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "171960.6 gal (650,869 l)"
+        },
+        "Transmission": {
+            "Max Speed": "40.2 mph (64 kph)",
+            "Number of Gears - Forward": "7",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "Komatsu 7-speed, electronically-controlled, automatic powershift transmission"
+        },
+        "Weights": {
+            "Empty Weight": "155403 lbs (70,490 kg)",
+            "Loaded Weight": "367000 lbs (166,470 kg)",
+            "Weight Distribution Front - empty": "48%",
+            "Weight Distribution Front - loaded": "33%",
+            "Weight Distribution Rear - empty": "52%",
+            "Weight Distribution Rear - loaded": "67%"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/challenger/mt297b/254",
+    "source_url_id": "254",
+    "source_url_model": "mt297b",
+    "source_url_make": "challenger",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:32.104126",
+    "equipment_category": "Tractors",
+    "equipment_make": "Challenger",
+    "equipment_model": "MT297B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.8 in (38 cm)",
+            "Height - Top of Cab": "7.7 ft (2 m)",
+            "Overall Length": "11.3 in (28 cm)",
+            "Tire Size": "(F)9.5-16 6ply;(R)16.9-26 6ply",
+            "Wheelbase": "6.6 ft (2 m)",
+            "Width Outside Frame": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "180 cu in (0 m)",
+            "Gross Power": "59.1 hp (44 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "46.4 hp (34 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.5 gal/min (64 l/min)",
+            "Relief Valve Pressure": "2276 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3307 lbs (1,500 kg)",
+            "3 Point Hitch Type": "Cat.I/II",
+            "Fuel Capacity": "13.2 gal (49 l)",
+            "Operating Weight": "4078 lbs (1,850 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "17.7 mph (27 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "Synchroshuttle"
+        }
+    }
+}

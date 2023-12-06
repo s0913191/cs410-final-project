@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-124-pdb/1881",
+    "source_url_id": "1881",
+    "source_url_model": "bw-124-pdb",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:56.779126",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 124 PDB",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "120.1 in (305 cm)"
+        },
+        "Drum": {
+            "Drum Width": "47.2 in (119 cm)",
+            "Vibration Frequency": "2480 hz (148,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "56 in (142 cm)"
+        }
+    }
+}

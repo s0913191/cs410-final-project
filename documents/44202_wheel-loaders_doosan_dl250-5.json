@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/doosan/dl250-5/44202",
+    "source_url_id": "44202",
+    "source_url_model": "dl250-5",
+    "source_url_make": "doosan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:49.190928",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "DL250-5",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "2429959.7 lbs (1,102,222 kg)",
+            "Bucket Capacity - heaped": "3.3 cu yds (2 m)",
+            "Bucket Width": "9 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Hinge Pin - Max Height": "12.7 ft (4 m)",
+            "Tread width": "80.4 in (203 cm)",
+            "Wheelbase": "10 ft (3 m)",
+            "Width Over Tires": "8.7 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "80 A",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Make": "Doosan",
+            "Engine Model": "DL06",
+            "Gross Power": "172 hp (128 kw)",
+            "Make": "Doosan",
+            "Max. torque ISO14396": "593 lbs/ft",
+            "Net Power": "172 hp (128 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "DEF tank capacity": "8.4 gal (30 l)",
+            "Engine Oil Fluid Capacity": "7.2 gal (27 l)",
+            "Front Axle/Diff Fluid Capacity": "9.3 gal (34 l)",
+            "Fuel Capacity": "58.7 gal (220 l)",
+            "Hydraulic System Fluid Capacity": "31.8 gal (117 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "30115.2 lbs (13,660 kg)",
+            "Rated Bucket Capacity": "3.2 cu yds (2 m)",
+            "Rear Axle/Diff Fluid Capacity": "6.1 gal (23 l)",
+            "Static Tipping Weight": "21230.6 lbs (9,630 kg)",
+            "Tire Size": "20.5-R25 (L3)",
+            "Transmission Fluid Capacity": "8 gal (30 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.5 mph (37 kph)",
+            "Max Speed - Reverse": "15.1 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3"
+        },
+        "Weights": {
+            "Operational Weight": "30115 lbs (13,660 kg)"
+        }
+    }
+}

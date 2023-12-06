@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/liebherr/hs-841-hd/30758410",
+    "source_url_id": "30758410",
+    "source_url_model": "hs-841-hd",
+    "source_url_make": "liebherr",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:39.923743",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "HS 841 HD",
+    "equipment_spec": {
+        "Boom": {
+            "Swing Speed": "3.8 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Tail Swing Radius": "12.5 ft (4 m)",
+            "Transport Height": "11 ft (3 m)",
+            "Transport Width": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Make": "Mercedes Benz",
+            "Engine Model": "OM 442 A",
+            "Gross Power": "358.1 hp (267 kw)",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "116.3 gal (439 l)",
+            "Hydraulic System Fluid Capacity": "174.4 gal (659 l)",
+            "Operating Voltage": "28 V V",
+            "Operating Weight": "88800 lbs (40,279 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "10 psi",
+            "Width of Shoes": "27.6 in (69 cm)"
+        }
+    }
+}

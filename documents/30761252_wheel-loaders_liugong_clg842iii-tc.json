@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/clg842iii-tc/30761252",
+    "source_url_id": "30761252",
+    "source_url_model": "clg842iii-tc",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:25.522142",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "CLG842III TC",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB6.7",
+            "Net Power": "193 hp (144 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "34923 lbs (15,841 kg)"
+        }
+    }
+}

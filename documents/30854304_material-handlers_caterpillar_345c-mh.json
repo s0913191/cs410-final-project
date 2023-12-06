@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/material-handlers/caterpillar/345c-mh/30854304",
+    "source_url_id": "30854304",
+    "source_url_model": "345c-mh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "material-handlers",
+    "source_date_scraped": "2023-09-13 15:44:23.990170",
+    "equipment_category": "Material Handlers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "345C MH",
+    "equipment_spec": {
+        "Dimensions": {
+            "Counterweight Clearance": "4.8 ft (1 m)",
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Height - Top of Exhaust": "11.8 ft (3 m)",
+            "Operating Height - To Top of Cab (Fixed)": "17.8 ft (5 m)",
+            "Operating Width": "14.7 ft (4 m)",
+            "Rear - Carrier to End of Boom": "45.5 ft (14 m)",
+            "Shipping Height - Cab Tipped": "11.9 ft (3 m)",
+            "Shipping Length": "45.5 ft (14 m)",
+            "Shipping Width": "13.1 ft (4 m)",
+            "Tail Swing Radius": "12.3 ft (4 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Drawbar Pull": "74380 lbs (33,739 kg)",
+            "Maximum Travel Speed": "2.7 mph (3 kph)"
+        },
+        "Engine": {
+            "Bore": "5.1 in (13 cm)",
+            "Displacement": "763 cu in (0 m)",
+            "Engine Model": "Cat C13 ACERT",
+            "Net Flywheel Power": "345 hp (257 kw)",
+            "Net Power - EEC 80/1269": "345 hp (257 kw)",
+            "Net Power - ISO 9249": "345 hp (257 kw)",
+            "Net Power - SAE J1349": "345 hp (257 kw)",
+            "Stroke": "6.2 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Generator Auxiliary Pump Maximum Flow": "43 gal/min (163 l/min)",
+            "Generator Auxiliary Pump Maximum Pressure": "4000 psi",
+            "Maximum Flow - Each of Two Pumps": "95 gal/min (360 l/min)",
+            "Maximum Pressure - Implements": "4982 psi",
+            "Maximum Pressure - Swing": "4554 psi",
+            "Maximum Pressure - Travel": "4982 psi",
+            "Pilot System - Maximum Flow": "11.36 gal/min (42 l/min)",
+            "Pilot System - Maximum Pressure": "596 psi",
+            "Rotate Circuit for Grapple Maximum Flow": "11 gal/min (42 l/min)",
+            "Rotate Circuit for Grapple Operating Pressure": "4000 psi"
+        },
+        "Operating Specifications": {
+            "Cab Riser - Fixed": "6.5 ft (2 m)",
+            "Generator Set": "33.5 hp (25 kw)"
+        },
+        "Performance": {
+            "Maximum Drawbar Pull": "74411.8 lbs (33,753 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "16 gal (61 l)",
+            "Engine Oil": "11.6 gal (42 l)",
+            "Final Drive - Each": "4 gal (15 l)",
+            "Fuel Tank": "186 gal (704 l)",
+            "Hydraulic System - Including Tank": "150 gal (568 l)",
+            "Hydraulic Tank": "64 gal (242 l)",
+            "Swing Drive": "2.6 gal (8 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.6 rpm",
+            "Swing Torque": "109900 lbs/ft"
+        },
+        "Track": {
+            "Overall Track Length": "17.6 in (43 cm)",
+            "Rollers - Each Side": "9",
+            "Shoes Per Side": "52"
+        },
+        "Weights": {
+            "Counterweight": "26455 lbs (12,000 kg)",
+            "Operating Weight": "126615 lbs (57,432 kg)",
+            "Two-Piece Front - With Cylinders": "19080 lbs (8,655 kg)",
+            "Undercarriage - Including Carbody": "46690 lbs (21,178 kg)",
+            "Upper": "34390 lbs (15,599 kg)"
+        }
+    }
+}

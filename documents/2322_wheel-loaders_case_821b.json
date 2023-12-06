@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/821b/2322",
+    "source_url_id": "2322",
+    "source_url_model": "821b",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:46.999301",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "821B",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "37109.3 lbs (16,833 kg)",
+            "Bucket Capacity - heaped": "3.6 cu yds (2 m)",
+            "Bucket Capacity - struck": "3.1 cu yds (2 m)",
+            "Bucket Width": "9.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Hinge Pin - Max Height": "13 ft (4 m)",
+            "Length with Bucket on Ground": "24.6 ft (7 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.5 in (10 cm)",
+            "Engine Model": "6T-830",
+            "Engine Type": "4 stroke Direct injection",
+            "Gross Power": "198.5 hp (148 kw)",
+            "Max torque ISO TR14396": "591.6 lbs/ft",
+            "Net Power": "185.1 hp (138 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Lower Time": "3.8 sec",
+            "Pump Flow Capacity": "79.3 gal/min (299 l/min)",
+            "Pump Type": "Hydraulic tandem pump",
+            "Raise Time": "6.2 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "8.5 gal (30 l)",
+            "Engine Oil Fluid Capacity": "5.5 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "5.6 gal (19 l)",
+            "Fuel Capacity": "70.8 gal (265 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "37039.9 lbs (16,801 kg)",
+            "Rear Axle/Diff Fluid Capacity": "4 gal (15 l)",
+            "Transmission Fluid Capacity": "7.1 gal (27 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.8 mph (37 kph)",
+            "Max Speed - Reverse": "15.5 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Mechanical"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/bil-jax/2622t/30774413",
+    "source_url_id": "30774413",
+    "source_url_model": "2622t",
+    "source_url_make": "bil-jax",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:25:28.836991",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Bil-Jax",
+    "equipment_model": "2622T",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "440 lbs (200 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "26 ft (8 m)",
+            "Platform Size": "2.5x4 ft (1 m)",
+            "Stowed Height": "6.5 ft (2 m)",
+            "Stowed Width": "5.5 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "ST 205/75 R14C"
+        }
+    }
+}

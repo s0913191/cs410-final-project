@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/mercedes-benz/2546l-2003/30759342",
+    "source_url_id": "30759342",
+    "source_url_model": "2546l-2003",
+    "source_url_make": "mercedes-benz",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:57:16.475163",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Mercedes-Benz",
+    "equipment_model": "2546L (2003)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.9 in (18 cm)",
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Number of Rear Axles": "2",
+            "Tire Size": "315/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length from Back of Cab to End of Frame": "306.9 in (777 cm)",
+            "Length From Back of Cab to End of Frame": "306.89 in (777 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "88.59 in (224 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "88.6 in (224 cm)",
+            "Overall Length": "33.2 ft (10 m)",
+            "Total Chassis Weight": "17085.9 lbs (7,750 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "33.2 ft (10 m)",
+            "Wheelbase": "189 in (480 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length from Back of Cab to End of Frame": "318.8 in (808 cm)",
+            "Length From Back of Cab to End of Frame": "318.71 in (808 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "88.6 in (224 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "88.59 in (224 cm)",
+            "Overall Length": "34.2 ft (10 m)",
+            "Total Chassis Weight": "17174.1 lbs (7,790 kg)",
+            "Total GVW": "55777 lbs (25,300 kg)",
+            "Turning Radius": "34.7 ft (10 m)",
+            "Wheelbase": "200.8 in (508 cm)"
+        },
+        "Wheelbase Cab Chassis Option 3": {
+            "Length From Back of Cab to End of Frame": "389.57 in (988 cm)",
+            "Length from Back of Cab to End of Frame": "389.6 in (988 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "134.5 in (340 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "134.45 in (340 cm)",
+            "Overall Length": "40.1 ft (12 m)",
+            "Total Chassis Weight": "17438.6 lbs (7,910 kg)",
+            "Total GVW": "55777 lbs (25,300 kg)",
+            "Turning Radius": "39.6 ft (12 m)",
+            "Wheelbase": "236.3 in (599 cm)"
+        }
+    }
+}

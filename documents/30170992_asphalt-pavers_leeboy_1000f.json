@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/leeboy/1000f/30170992",
+    "source_url_id": "30170992",
+    "source_url_model": "1000f",
+    "source_url_make": "leeboy",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:18.701201",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Leeboy",
+    "equipment_model": "1000F",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "8.3 ft (2 m)",
+            "Transport Height": "6.3 ft (2 m)",
+            "Transport Width": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Gross Power": "37 hp (28 kw)"
+        },
+        "Hopper/Paver": {
+            "Paving Speed - max": "219.9 ft/min",
+            "Paving Width - max": "13.2 ft (4 m)",
+            "Travel Speed - max": "2.5 mph (3 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13 gal (49 l)",
+            "Hydraulic System Fluid Capacity": "45 gal (170 l)",
+            "Operating Weight w/o Screed": "10000 lbs (4,536 kg)"
+        }
+    }
+}

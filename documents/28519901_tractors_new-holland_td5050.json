@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/td5050/28519901",
+    "source_url_id": "28519901",
+    "source_url_model": "td5050",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:18.654290",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TD5050",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16.6 in (41 cm)",
+            "Height - Top of ROPS/FOPS": "9.2 ft (3 m)",
+            "Overall Length": "166.6 in (422 cm)",
+            "Wheelbase": "7.7 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "274.7 cu in (0 m)",
+            "Engine Make": "Turk Tractor",
+            "Gross Power": "95 hp (71 kw)",
+            "Max Torque": "287.7 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "PTO Power": "80.7 hp (60 kw)",
+            "Stroke": "5.2 in (13 cm)",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1 to 4",
+            "Pump Flow Capacity": "11.9 gal/min (42 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "7802.2 lbs (3,539 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.50-20"
+        },
+        "Production": {
+            "Series": "TD5000 Series",
+            "Years Manufactured": "2009 - 2019"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "Partially synchronized power shuttle"
+        }
+    }
+}

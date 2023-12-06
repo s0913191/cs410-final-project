@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk55srx-6e/43842",
+    "source_url_id": "43842",
+    "source_url_model": "sk55srx-6e",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:58.277705",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK55SRX-6E",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "19.5 ft (6 m)",
+            "Max Digging Depth": "12.1 ft (4 m)",
+            "Max Loading Height": "14.3 ft (4 m)",
+            "Max Reach Along Ground": "20 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "10.4 ft (3 m)",
+            "Shipping Height of Unit": "8.4 ft (2 m)",
+            "Shipping Length of Unit": "18.1 ft (5 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Length of Track on Ground": "18.1 ft (5 m)",
+            "Tail Swing Radius": "4.2 ft (1 m)",
+            "Traction force": "12342 lbs (5,598 kg)",
+            "Width to Outside of Tracks": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "133.6 cu in (0 m)",
+            "Engine Model": "YANMAR 4TNV88C-PYB",
+            "Engine Type": "Water cooled, 4-cycle, 4-cylinder, direct injection, diesel engine",
+            "Max Torque": "97.3 lbs/ft",
+            "Net Power": "37.4 hp (28 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1560 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Two variable displacement pumps+  two gear pumps"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.9 gal (72 l)",
+            "Operating Weight": "11600 lbs (5,262 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.5 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "3.9 psi",
+            "Max Travel Speed": "2.5 mph (3 kph)",
+            "Number of Track Rollers per Side": "5",
+            "Shoe Size": "15.7 in (38 cm)"
+        }
+    }
+}

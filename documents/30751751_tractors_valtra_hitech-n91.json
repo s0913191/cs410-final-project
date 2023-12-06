@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/valtra/hitech-n91/30751751",
+    "source_url_id": "30751751",
+    "source_url_model": "hitech-n91",
+    "source_url_make": "valtra",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:14.418284",
+    "equipment_category": "Tractors",
+    "equipment_make": "Valtra",
+    "equipment_model": "HiTech N91",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Overall Length": "14.5 in (36 cm)",
+            "Tire Size": "14.9R24/18.4R34",
+            "Wheelbase": "8.5 ft (2 m)",
+            "Width Outside Frame": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "44DT",
+            "Gross Power": "100.6 hp (75 kw)",
+            "Net Power": "100.6 hp (75 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "19.3 gal/min (72 l/min)",
+            "Relief Valve Pressure": "2842.8 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "58.2 gal (220 l)",
+            "Operating Weight": "10692.5 lbs (4,850 kg)",
+            "Turning Radius": "14.6 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "Power shuttle"
+        }
+    }
+}

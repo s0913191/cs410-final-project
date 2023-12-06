@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/air-seeders-carts/morris/maxim-iii/52633",
+    "source_url_id": "52633",
+    "source_url_model": "maxim-iii",
+    "source_url_make": "morris",
+    "source_url_category": "air-seeders-carts",
+    "source_date_scraped": "2023-09-13 16:58:46.250517",
+    "equipment_category": "Air Seeders / Carts",
+    "equipment_make": "Morris",
+    "equipment_model": "MAXIM III",
+    "equipment_spec": {
+        "Base Size": {
+            "Base Width": "50 ft (15 m)",
+            "Frame Depth": "78.4 in (198 cm)",
+            "Number of Ranks": "4",
+            "Rank to Rank Spacing": "23.5 in (58 cm)"
+        },
+        "Frame Widths": {
+            "Inner Wing": "9.6 ft (3 m)",
+            "Main Frame": "15.5 ft (5 m)",
+            "Outer Wing": "6.5 ft (2 m)",
+            "Transport Height": "16.2 ft (5 m)",
+            "Transport Length": "31.5 ft (9 m)",
+            "Transport Width": "19.9 ft (6 m)"
+        },
+        "Number of Shanks": {
+            "10 in Spacing": "60",
+            "12 in Spacing": "52",
+            "7.5 in Spacing": "80"
+        },
+        "Tires": {
+            "Inner Wing Casters": "(4) 12.5SLx15",
+            "Main Frame Casters": "(4) 12.5Lx15 FI load range f",
+            "Outer Wing Casters": "(4) 12.5SLx15",
+            "Rear Transport Wheels": "(4) 12.5Lx15 FI load range f 8 bolt hub"
+        },
+        "Weights": {
+            "10 in Spacing": "30589.2 lbs (13,875 kg)",
+            "12 in Spacing": "29107.7 lbs (13,203 kg)",
+            "7.5 in Spacing": "32893 lbs (14,920 kg)"
+        },
+        "Working Width": {
+            "10 in Spacing": "50 ft (15 m)",
+            "12 in Spacing": "52.1 ft (16 m)",
+            "7.5 in Spacing": "50 ft (15 m)"
+        }
+    }
+}

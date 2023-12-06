@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kioti/ck27/30176637",
+    "source_url_id": "30176637",
+    "source_url_model": "ck27",
+    "source_url_make": "kioti",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:42.115224",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kioti",
+    "equipment_model": "CK27",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.9 in (33 cm)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Overall Length": "10.2 in (25 cm)",
+            "Tire Size": "front 7-14 rear 11.2-24",
+            "Wheelbase": "5.6 ft (2 m)",
+            "Width Outside Frame": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "85 cu in (0 m)",
+            "Engine Model": "3A139LWM",
+            "Gross Power": "28 hp (21 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "21.7 hp (16 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "12.8 gal/min (45 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1763.7 lbs (800 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "8 gal (30 l)",
+            "Operating Weight": "3161.5 lbs (1,434 kg)",
+            "Turning Radius": "9.6 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "14.3 mph (23 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "synchro shuttle"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/john-deere/323d/30472401",
+    "source_url_id": "30472401",
+    "source_url_model": "323d",
+    "source_url_make": "john-deere",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:39.606847",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "323D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of Cab": "6.6 ft (2 m)",
+            "Length - with Bucket": "11.1 ft (3 m)",
+            "Length - without Bucket": "9 ft (3 m)",
+            "Turning Radius from Center - machine rear": "79.2 in (201 cm)",
+            "Width Over Tracks": "6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and intercooled",
+            "Displacement": "146.5 cu in (0 m)",
+            "Engine Model": "PowerTech E 4024HT",
+            "Net Power": "69 hp (51 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Axial-piston hydrostatic"
+        },
+        "Loader": {
+            "Breakout Force": "5604.2 lbs (2,542 kg)",
+            "Tipping Angle": "7180.5  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "18.5 gal (68 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "2297.3 lbs (1,042 kg)"
+        },
+        "Undercarriage": {
+            "Length of Track on Ground": "1.1 ft (0 m)",
+            "Number of Track Rollers per Side": "4"
+        }
+    }
+}

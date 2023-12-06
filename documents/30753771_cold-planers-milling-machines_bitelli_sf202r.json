@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/bitelli/sf202r/30753771",
+    "source_url_id": "30753771",
+    "source_url_model": "sf202r",
+    "source_url_make": "bitelli",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:45.467820",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Bitelli",
+    "equipment_model": "SF202R",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Collecting Conveyor Width": "39.4 in (99 cm)",
+            "Discharge Conveyor Swing (R/L)": "40  \t\u00b0",
+            "Discharge Conveyor Width": "35.5 in (89 cm)"
+        },
+        "Dimensions": {
+            "Max Operating Height": "17.9 ft (5 m)",
+            "Operating Length": "49.6 ft (15 m)",
+            "Shipping Height": "10.5 ft (3 m)",
+            "Shipping Length": "39.1 ft (12 m)",
+            "Shipping Width": "8.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "OM 444 LA",
+            "Gross Power": "670.6 hp (500 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "319.7 gal (1,207 l)",
+            "Operating Speed": "82.1 ft/min",
+            "Operating Weight - Full Load": "92594.2 lbs (42,000 kg)",
+            "Shipping Weight - Empty": "87082.6 lbs (39,500 kg)",
+            "Travel Speed": "2.5 mph (3 kph)",
+            "Water Spray System Fluid Capacity": "1109.6 gal (4,198 l)"
+        },
+        "Rotary Cutter": {
+            "Cutting Depth": "13 in (33 cm)",
+            "Cutting Width": "6.6 ft (2 m)",
+            "Number of Tools": "178"
+        }
+    }
+}

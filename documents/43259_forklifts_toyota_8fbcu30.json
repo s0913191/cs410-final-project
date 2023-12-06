@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/8fbcu30/43259",
+    "source_url_id": "43259",
+    "source_url_model": "8fbcu30",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:42:39.265259",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "8FBCU30",
+    "equipment_spec": {
+        "Dimensions": {
+            "Free lift": "6.2 in (15 cm)",
+            "Front Wheel Tread Width": "35.9 in (89 cm)",
+            "Gradeability": "20%",
+            "Height to Top of Overhead Guard": "7.4 ft (2 m)",
+            "Length to Fork Face": "7.5 ft (2 m)",
+            "Max Fork Height": "11 ft (3 m)",
+            "Overall Height - mast lowered": "7 ft (2 m)",
+            "Overall Width": "3.7 ft (1 m)",
+            "Rear Wheel tread Width - max": "36.1 in (91 cm)",
+            "Right Angle Stack": "8 ft (2 m)",
+            "Turning Radius": "6.5 ft (2 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Electrical System": {
+            "Battery capacity": "1190 Ah",
+            "Battery Voltage": "36 V",
+            "Control  Power Steering": "Transistor Invertor",
+            "Control Drive": "Transistor Invertor"
+        },
+        "Engine": {
+            "Fuel Type": "Electric",
+            "Power": "48 hp (36 kw)"
+        },
+        "MAST": {
+            "Lift Speed": "69 ft/min",
+            "Load Capacity": "6000 lbs (2,722 kg)",
+            "Lower Speed": "98 ft/min"
+        },
+        "Operating Specifications": {
+            "Drawbar Pull": "3160 lbs (1,433 kg)",
+            "Hydraulic System Relief Valve Pressure": "2580 psi",
+            "Max Speed": "11.2 mph (18 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "7700 lbs (3,493 kg)",
+            "Tire Size": "Front - 21 x 8 x 15, Rear - 16 x 6 x 10.5",
+            "Tire Type": "cushion"
+        }
+    }
+}

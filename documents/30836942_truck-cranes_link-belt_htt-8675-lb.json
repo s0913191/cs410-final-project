@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/link-belt/htt-8675-lb/30836942",
+    "source_url_id": "30836942",
+    "source_url_model": "htt-8675-lb",
+    "source_url_make": "link-belt",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:05.075587",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HTT-8675 LB",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "191.5 ft (58 m)",
+            "Max Lift Capacity": "75 t (68,039 kg)"
+        }
+    }
+}

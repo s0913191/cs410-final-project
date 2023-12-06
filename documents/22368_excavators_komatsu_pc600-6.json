@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc600-6/22368",
+    "source_url_id": "22368",
+    "source_url_model": "pc600-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:13.127335",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC600-6",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "39 ft (12 m)",
+            "Max Digging Depth": "27.9 ft (8 m)",
+            "Max Loading Height": "26.2 ft (8 m)",
+            "Max Reach Along Ground": "42 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "24.7 ft (7 m)",
+            "Shipping Height of Unit": "14.1 ft (4 m)",
+            "Shipping Length of Unit": "40.9 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "36.3 ft (11 m)",
+            "Max Digging Depth": "23 ft (7 m)",
+            "Max Loading Height": "23.7 ft (7 m)",
+            "Max Reach Along Ground": "37 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "18.2 ft (5 m)",
+            "Shipping Height of Unit": "14.8 ft (4 m)",
+            "Shipping Length of Unit": "37.4 ft (11 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "38.8 ft (12 m)",
+            "Max Digging Depth": "27.9 ft (8 m)",
+            "Max Loading Height": "26.2 ft (8 m)",
+            "Max Reach Along Ground": "42 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "24.7 ft (7 m)",
+            "Shipping Height of Unit": "14.2 ft (4 m)",
+            "Shipping Length of Unit": "42.1 ft (13 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "4.6 cu yds (3 m)",
+            "Minimum Bucket Capacity": "3.2 cu yds (2 m)",
+            "Reference Bucket Capacity": "3.6 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.6 ft (1 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Length of Track on Ground": "14 ft (4 m)",
+            "Removal Counterweight Clearance": "4.5 ft (1 m)",
+            "Tail Swing Radius": "12.5 ft (4 m)",
+            "Width to Outside of Tracks": "12.8 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with aftercooler",
+            "Displacement": "930.1 cu in (0 m)",
+            "Engine Model": "N14",
+            "Net Power": "385 hp (287 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70 A",
+            "Cooling System Fluid Capacity": "15.1 gal (57 l)",
+            "Engine Oil Capacity": "11.1 gal (42 l)",
+            "Fuel Capacity": "232.5 gal (878 l)",
+            "Hydraulic Pump Flow Capacity": "216.7 gal/min (818 l/min)",
+            "Hydraulic System Fluid Capacity": "97.8 gal (367 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "275974.7 lbs (125,181 kg)",
+            "Swing Drive Fluid Capacity": "3.5 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "93255.5 lbs (42,300 kg)",
+            "Max Travel Speed": "3.4 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "49",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "10.9 ft (3 m)"
+        }
+    }
+}

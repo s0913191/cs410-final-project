@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/komatsu/hd780/30754722",
+    "source_url_id": "30754722",
+    "source_url_model": "hd780",
+    "source_url_make": "komatsu",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:26.524113",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Komatsu",
+    "equipment_model": "HD780",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "3 ft (1 m)",
+            "Dump Height": "29.6 ft (9 m)",
+            "Ground Clearance": "2.6 ft (1 m)",
+            "Overall Height": "16 ft (5 m)",
+            "Overall Length": "32.8 ft (10 m)",
+            "Overall Width": "18.8 ft (5 m)",
+            "Wheelbase": "15.6 ft (5 m)"
+        },
+        "Dump": {
+            "Dump Angle": "64  \t\u00b0",
+            "Rated Payload": "64  \t\u00b0"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "1709 cu in (0 m)",
+            "Engine Model": "VTA-1710",
+            "Gross Power": "800 hp (597 kw)",
+            "Net Power": "782 hp (583 kw)",
+            "Torque Measured @": "turbocharged rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "TORQFLOW planetary gear",
+            "Cooling System Fluid Capacity": "60.8 gal (227 l)",
+            "Engine Oil Capacity": "23.8 gal (87 l)",
+            "Fuel Capacity": "264.2 gal (999 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Tire Size": "24.00-49-42PR"
+        },
+        "Transmission": {
+            "Max Speed": "40.4 mph (64 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "TORQFLOW planetary gear"
+        }
+    }
+}

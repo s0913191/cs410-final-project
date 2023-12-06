@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/750b/30480518",
+    "source_url_id": "30480518",
+    "source_url_model": "750b",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:05.231054",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "750B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length of Track on Ground": "7.6 ft (2 m)",
+            "Width Over Tracks": "11.3 ft in (28 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6068T",
+            "Gross Power": "128 hp (95 kw)",
+            "Max Torque": "375 lbs/ft",
+            "Net Power": "120 hp (89 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "38 gal/min (144 l/min)",
+            "Pump type": "Vane",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "7 gal (27 l)",
+            "Final Drives Fluid Capacity": "8.5 gal (30 l)",
+            "Fuel Capacity": "73 gal (276 l)",
+            "Hydraulic Fluid Capacity": "33 gal (125 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "32060 lbs (14,542 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "3 cu yds (2 m)",
+            "Height": "38 in (97 cm)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.5 mph (10 kph)",
+            "Max Speed - Reverse": "6.5 mph (10 kph)",
+            "Transmission Type": "Automatic, dual-path, hydrostatic drive"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3960 cu in (0 m)",
+            "Ground Pressure": "8.1 psi",
+            "Number of Shoes per Side": "40",
+            "Number of Track Rollers per Side": "2",
+            "Standard Shoe Size": "22 in (56 cm)"
+        }
+    }
+}

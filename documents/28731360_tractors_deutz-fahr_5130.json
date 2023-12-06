@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/deutz-fahr/5130/28731360",
+    "source_url_id": "28731360",
+    "source_url_model": "5130",
+    "source_url_make": "deutz-fahr",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:15:02.923618",
+    "equipment_category": "Tractors",
+    "equipment_make": "Deutz-Fahr",
+    "equipment_model": "5130",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "188  hp"
+        },
+        "Production": {
+            "Series": "5 Series",
+            "Years Manufactured": "2013 - 2017"
+        }
+    }
+}

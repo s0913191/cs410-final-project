@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/mx120/30753355",
+    "source_url_id": "30753355",
+    "source_url_model": "mx120",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:13.220737",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MX120",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "23.7 in (58 cm)",
+            "Height - Top of ROPS/FOPS": "9.6 ft (3 m)",
+            "Overall Length": "197.7 in (500 cm)",
+            "Wheelbase": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Engine Make": "CaseIH",
+            "Gross Power": "120 hp (89 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "105 hp (78 kw)",
+            "Stroke": "4.8 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Maximum system pressure": "2950 psi",
+            "Number of Remote Control Valves": "4",
+            "Pump Flow Capacity": "25 gal/min (95 l/min)",
+            "Pump Type": "Closed center pressure flow"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "8393 lbs (3,807 kg)",
+            "Fuel Capacity": "72 gal (273 l)",
+            "Hydraulic System Fluid Capacity": "17.5 gal (64 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "12458.4 lbs (5,651 kg)",
+            "Tire Size Front - 2wd / 4wd": "11.00-16"
+        },
+        "Production": {
+            "Series": "Maxxum Series",
+            "Years Manufactured": "1997 - 2002"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4R-38"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "Synchromesh"
+        }
+    }
+}

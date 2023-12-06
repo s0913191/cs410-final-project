@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/new-holland/ls140/26445",
+    "source_url_id": "26445",
+    "source_url_model": "ls140",
+    "source_url_make": "new-holland",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:53.029290",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "LS140",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.3 ft (2 m)",
+            "Ground Clearance": "8.3 in (20 cm)",
+            "Height - Top of Cab": "6.2 ft (2 m)",
+            "Length with Bucket": "10 ft (3 m)",
+            "Reach at Max Lift and Dump": "25.2 in (64 cm)",
+            "Turning Radius from Center - inc bucket": "70.5 in (178 cm)",
+            "Turning Radius from Center - machine rear": "56.3 in (142 cm)",
+            "Wheelbase": "3.2 ft (1 m)",
+            "Width Over Tires": "4.2 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "91.6 cu in (0 m)",
+            "Engine Model": "N843",
+            "Gross Power": "30 hp (22 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2900 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "10.8 gal/min (38 l/min)",
+            "Pump Type": "New Holland double acting",
+            "Relief Valve Pressure": "2600 psi"
+        },
+        "Loader": {
+            "Breakout Force": "3404 psi",
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load Rating": "1250.1 lbs (567 kg)",
+            "Tipping Angle": "2500.1  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Chain Box Fluid Capacity - each side": "1.6 gal (4 l)",
+            "Cooling System Fluid Capacity": "2.5 gal (8 l)",
+            "Engine Oil Fluid Capacity": "1.5 gal (4 l)",
+            "Fuel Capacity": "8.8 gal (30 l)",
+            "Hydraulic System Fluid Capacity": "5 gal (19 l)",
+            "Max Speed": "6.8 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "4396.1 lbs (1,994 kg)",
+            "Tire Size": "10x16.5"
+        }
+    }
+}

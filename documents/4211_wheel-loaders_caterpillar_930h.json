@@ -1,0 +1,85 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/930h/4211",
+    "source_url_id": "4211",
+    "source_url_model": "930h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:25.233707",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "930H",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "28334 lbs (12,852 kg)",
+            "Bucket Capacity - heaped": "3 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.5 cu yds (2 m)",
+            "Bucket Width": "8.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.6 ft (3 m)"
+        },
+        "Dimensions": {
+            "Dump Clearance at Max Lift": "9.3 ft (3 m)",
+            "Fork Tine Length": "4 ft (1 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Hinge Pin - Max Height": "13.4 ft (4 m)",
+            "Hinge Pin Max Height": "13.3 ft (4 m)",
+            "Length w/ Bucket on Ground": "25 ft (8 m)",
+            "Length with  out Forks on Ground": "25.8 ft (8 m)",
+            "Length with Bucket on Ground": "24.8 ft (7 m)",
+            "Max Lift Height": "12.8 ft (4 m)",
+            "Reach at Max Height and Dump": "3.1 ft (1 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "9.6 ft (3 m)",
+            "Width Over Tires": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "403 cu in (0 m)",
+            "Engine Model": "C6.6",
+            "Make": "Cat",
+            "Max Torque": "547 lbs/ft",
+            "Model": "C6.6",
+            "Net Power": "150 hp (112 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2300 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.7 sec",
+            "Lower Time": "2.8 sec",
+            "Pump Flow Capacity": "58 gal/min (220 l/min)",
+            "Pump Type": "Impement Pump",
+            "Raise Time": "5 sec",
+            "Relief Valve Setting": "3755 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Engine Oil Fluid Capacity": "4 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "6.9 gal (23 l)",
+            "Front Diff Fluid Capacity": "6.9 gal (23 l)",
+            "Fuel Capacity": "59.4 gal (223 l)",
+            "Hydraulic System Fluid Capacity": "39 gal (148 l)",
+            "Operating Weight": "28725 lbs (13,030 kg)",
+            "Rated Bucket Capacity": "3.2 cu yds (2 m)",
+            "Rear Axle/Diff Fluid Capacity": "6.6 gal (23 l)",
+            "Rear Diff Fluid Capacity": "6.7 gal (23 l)",
+            "Static Tipping Load - Bucket": "19933 lbs (9,042 kg)",
+            "Static Tipping Load - Forks": "15977 lbs (7,247 kg)",
+            "Static Tipping Weight": "18321 lbs (8,310 kg)",
+            "Tire Size": "20.5R25 L3 XHA",
+            "Transmission Fluid Capacity": "9.1 gal (34 l)",
+            "Turning Radius": "19.5 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.8 mph (37 kph)",
+            "Max Speed - Reverse": "15 mph (24 kph)",
+            "Max Speed Forward": "23.8 mph (37 kph)",
+            "Max Speed Reverse": "15 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Standard Transmission max travel speed"
+        },
+        "Weights": {
+            "Operational Weight": "28684 lbs (13,011 kg)"
+        }
+    }
+}

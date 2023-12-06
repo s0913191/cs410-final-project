@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/385b-l/30856141",
+    "source_url_id": "30856141",
+    "source_url_model": "385b-l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:09.056438",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "385B L",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "38 ft (12 m)",
+            "Digging Reach": "38 ft (12 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "26.7 gal (98 l)",
+            "Engine Oil Capacity": "21.1 gal (79 l)",
+            "Fuel Capacity": "328 gal (1,241 l)",
+            "Maximum Digging Depth": "35.1 ft (11 m)",
+            "Swing Drive Fluid Capacity": "5 gal (19 l)"
+        },
+        "Engine": {
+            "Bore": "5.6 in (13 cm)",
+            "Displacement": "964 cu in (0 m)",
+            "Engine Model": "Caterpillar 3456 ATAAC",
+            "Net Power": "513 hp (383 kw)",
+            "Net Power - EEC 80/1269": "513 hp (383 kw)",
+            "Net Power - ISO 9249": "513 hp (383 kw)",
+            "Net Power - SAE J1349": "513 hp (383 kw)",
+            "Stroke": "6.8 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "23.8": "23.8 gal/min gal/min (87 l/min)",
+            "258": "258 gal/min gal/min (977 l/min)",
+            "Boom Cylinder - Bore": "8.3 in (20 cm)",
+            "Boom Cylinder - Stroke": "77.4 in (196 cm)",
+            "Maximum Pressure - Equipment - Normal": "4640 psi",
+            "Maximum Pressure - Swing": "3770 psi",
+            "Maximum Pressure - Travel": "5075 psi",
+            "Stick Cylinder - Bore": "8.7 in (20 cm)",
+            "Stick Cylinder - Stroke": "89.1 in (226 cm)",
+            "Swing System - Maximum Flow": "119 gal/min"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "26.7 gal (98 l)",
+            "Engine Oil": "21.1 gal (79 l)",
+            "Final Drive - Each": "5.5 gal (19 l)",
+            "Fuel Tank Capacity": "328 gal (1,241 l)",
+            "Hydraulic System - Including Tank": "263 gal (995 l)",
+            "Hydraulic Tank": "214 gal (810 l)",
+            "Swing Drive - Each": "5 gal (19 l)"
+        },
+        "Standards": {
+            "Brakes": "SAE J1026 APR 90",
+            "Cab/FOGS": "SAE J1356 FEB 88  ISO 10262"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "6.2 rpm"
+        },
+        "Track": {
+            "Number of Shoes - Each Side - Long Undercarriage": "51",
+            "Number of Track Rollers - Each Side - Long Undercarriage": "9",
+            "Standard with Long Undercarriage": "36 in (91 cm)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "133030 lbs (60,342 kg)",
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "47",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "30 in (76 cm)"
+        },
+        "Weights": {
+            "Operating Weight - Long Undercarriage": "189770 lbs (86,079 kg)",
+            "Operating Weight - Standard Undercarriage": "183940 lbs (83,435 kg)"
+        }
+    }
+}

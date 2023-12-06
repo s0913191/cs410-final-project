@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kubota/r420s/22958",
+    "source_url_id": "22958",
+    "source_url_model": "r420s",
+    "source_url_make": "kubota",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:11.028573",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kubota",
+    "equipment_model": "R420S",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "9.1 ft (3 m)",
+            "Load Height": "6.7 ft (2 m)",
+            "Reach From Swivel": "12.2 ft (4 m)"
+        },
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.6 cu yds (0 m)",
+            "Bucket Width": "5 ft (2 m)",
+            "Dump Clearance at Max Raise": "7.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Length with Bucket on Ground": "13.7 ft (4 m)",
+            "Reach at Max Lift and Dump": "2.6 ft (1 m)",
+            "Transport Length": "15.6 ft (5 m)",
+            "Transport Width": "5.4 ft (2 m)",
+            "Wheelbase": "5.9 ft (2 m)",
+            "Width Over Tires": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "91.6 cu in (0 m)",
+            "Engine Model": "D1503-TRP-1",
+            "Gross Power": "39.5 hp (29 kw)",
+            "Make": "Kubota",
+            "Model": "D1503 T",
+            "Net Power": "39.5 hp (29 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "11.1 gal/min (42 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "2958 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Bucket Width": "59.9 in (150 cm)",
+            "Clearance at Max Dump Height": "7.3 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "6724.1 lbs (3,050 kg)",
+            "Operating Weight 4wd": "7517.8 lbs (3,410 kg)",
+            "Rated Bucket Capacity": "0.5 - 0.75 cu yds (0 - 0 m)",
+            "Static Tipping Weight": "3536.3 lbs (1,604 kg)",
+            "Tire Size": "12.5/70x16-8PR",
+            "Turning Radius": "10.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "12.5 mph (19 kph)",
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "LST"
+        },
+        "Weights": {
+            "Operational Weight": "7450 lbs (3,379 kg)"
+        }
+    }
+}

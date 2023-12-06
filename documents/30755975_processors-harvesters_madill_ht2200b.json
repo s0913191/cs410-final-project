@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/madill/ht2200b/30755975",
+    "source_url_id": "30755975",
+    "source_url_model": "ht2200b",
+    "source_url_make": "madill",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:18.062852",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "Madill",
+    "equipment_model": "HT2200B",
+    "equipment_spec": {
+        "Boom": {
+            "Max Reach w/ Head": "28.3 ft (9 m)"
+        },
+        "Dimensions": {
+            "Forward Tilt": "27  \t\u00b0",
+            "Height - Top of Cab": "12.5 ft (4 m)",
+            "Overall Width": "10.7 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSL 9 Litre",
+            "Gross Power": "305 hp (227 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "250 gal (946 l)",
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "73600 lbs (33,385 kg)"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "2.3 ft (1 m)",
+            "Ground Pressure": "11.2 psi",
+            "Number of Track Rollers per Side": "8",
+            "Shoe Size": "24 in (61 cm)",
+            "Track Length": "14.8 ft (4 m)"
+        }
+    }
+}

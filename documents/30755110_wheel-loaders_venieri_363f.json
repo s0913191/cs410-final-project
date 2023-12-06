@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/venieri/363f/30755110",
+    "source_url_id": "30755110",
+    "source_url_model": "363f",
+    "source_url_make": "venieri",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:02.823917",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Venieri",
+    "equipment_model": "363F",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "1.1 cu yds (1 m)",
+            "Bucket Width": "6.3 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Length with Bucket on Ground": "16.6 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.3 ft (1 m)",
+            "Wheelbase": "7.1 ft (2 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Model": "804C-33",
+            "Net Power": "60.4 hp (45 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "11353.9 lbs (5,150 kg)",
+            "Static Tipping Weight": "6393.5 lbs (2,900 kg)",
+            "Tire Size": "12.5x20",
+            "Turning Radius": "7.4 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15.6 mph (24 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

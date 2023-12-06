@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/zettelmeyer/zl2002/30755298",
+    "source_url_id": "30755298",
+    "source_url_model": "zl2002",
+    "source_url_make": "zettelmeyer",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:58:05.966851",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Zettelmeyer",
+    "equipment_model": "ZL2002",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "31136.1 lbs (14,123 kg)",
+            "Bucket Capacity - heaped": "3.3 cu yds (2 m)",
+            "Bucket Capacity - struck": "2.9 cu yds (2 m)",
+            "Bucket Width": "8.6 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Hinge Pin - Max Height": "12.7 ft (4 m)",
+            "Length with Bucket on Ground": "23.5 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo + aftercooled",
+            "Displacement": "358.9 cu in (0 m)",
+            "Engine Model": "6 BTA 5.9",
+            "Gross Power": "178 hp (133 kw)",
+            "Net Power": "166 hp (124 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Lower Time": "4.5 sec",
+            "Pump Flow Capacity": "60.8 gal/min (227 l/min)",
+            "Pump Type": "tandem axial piston",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "3335.9 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Engine Oil Fluid Capacity": "4.3 gal (15 l)",
+            "Front Axle/Diff Fluid Capacity": "6.9 gal (23 l)",
+            "Fuel Capacity": "60.8 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "45 gal (170 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "28660.1 lbs (13,000 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "6.9 gal (23 l)",
+            "Static Tipping Weight": "23765.9 lbs (10,780 kg)",
+            "Tire Size": "20.5-25 16PR",
+            "Transmission Fluid Capacity": "7.4 gal (27 l)",
+            "Turning Radius": "19.2 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.7 mph (37 kph)",
+            "Max Speed - Reverse": "15.6 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

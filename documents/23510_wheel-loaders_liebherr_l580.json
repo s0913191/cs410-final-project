@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l580/23510",
+    "source_url_id": "23510",
+    "source_url_model": "l580",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:03.627302",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L580",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "42715 lbs (19,375 kg)",
+            "Bucket Capacity - heaped": "6.5 cu yds (5 m)",
+            "Bucket Width": "10.1 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Height - Top of Cab": "11.9 ft (3 m)",
+            "Hinge Pin - Max Height": "15 ft (5 m)",
+            "Length with Bucket on Ground": "31.8 ft (9 m)",
+            "Reach at Max Lift and Dump": "3.9 ft (1 m)",
+            "Wheelbase": "12.1 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "642 cu in (0 m)",
+            "Engine Model": "D936 A7",
+            "Gross Power": "288 hp (215 kw)",
+            "Max Torque": "1033 lbs/ft",
+            "Number of Cylinders": "6",
+            "Torque Measured @": "1100 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2 sec",
+            "Lower Time": "3.5 sec",
+            "Pump Flow Capacity": "77 gal/min (291 l/min)",
+            "Raise Time": "5.5 sec"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "13.7 gal (49 l)",
+            "Engine Oil Fluid Capacity": "11.6 gal (42 l)",
+            "Front Axle/Diff Fluid Capacity": "11.1 gal (42 l)",
+            "Fuel Capacity": "106 gal (401 l)",
+            "Hydraulic System Fluid Capacity": "70 gal (265 l)",
+            "Operating Weight": "55510 lbs (25,179 kg)",
+            "Rear Axle/Diff Fluid Capacity": "11.1 gal (42 l)",
+            "Static Tipping Weight": "40785 lbs (18,500 kg)",
+            "Tire Size": "26.5 R 25",
+            "Transmission Fluid Capacity": "3 gal (11 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

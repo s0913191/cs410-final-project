@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-15m-extra-lt/30760492",
+    "source_url_id": "30760492",
+    "source_url_model": "td-15m-extra-lt",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:06.059662",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-15M Extra LT",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSC8.3",
+            "Net Power": "190 hp (142 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "44665 lbs (20,260 kg)"
+        }
+    }
+}

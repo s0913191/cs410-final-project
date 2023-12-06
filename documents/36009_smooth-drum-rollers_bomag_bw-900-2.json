@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-900-2/36009",
+    "source_url_id": "36009",
+    "source_url_model": "bw-900-2",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:26.348209",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 900-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.3 in (36 cm)",
+            "Height - Top of Cab": "7.7 ft (2 m)",
+            "Overall Length": "6.9 in (15 cm)",
+            "Overall Width": "3 ft (1 m)",
+            "Turning Radius - Inside": "236.2 in (599 cm)",
+            "Wheelbase": "3.8 in (8 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "3147.4 lbs (1,428 kg)",
+            "Drum Diameter": "22.1 in (56 cm)",
+            "Drum Width": "35.5 in (89 cm)",
+            "Frequency": "65 hz (3,900 vpm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "41.1 lbs/in",
+            "Vibration Frequency 1": "65 hz (3,900 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "GX620",
+            "Gross Power": "20 hp (15 kw)",
+            "Make": "Cummins",
+            "Number of Cylinders": "2",
+            "Power Measured @": "3600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "9 gal (34 l)",
+            "Max Speed": "4.4 mph (6 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "2924 lbs (1,326 kg)",
+            "Operating Width": "89 in (226 cm)"
+        }
+    }
+}

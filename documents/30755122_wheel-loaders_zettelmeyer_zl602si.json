@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/zettelmeyer/zl602si/30755122",
+    "source_url_id": "30755122",
+    "source_url_model": "zl602si",
+    "source_url_make": "zettelmeyer",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:58:24.036255",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Zettelmeyer",
+    "equipment_model": "ZL602Si",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "9329.6 lbs (4,232 kg)",
+            "Bucket Capacity - heaped": "2 cu yds (2 m)",
+            "Bucket Capacity - struck": "1.1 cu yds (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "BF4L 1011T",
+            "Gross Power": "61 hp (45 kw)",
+            "Net Power": "58 hp (43 kw)",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1550 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "11023.2 lbs (5,000 kg)",
+            "Static Tipping Weight": "7716.2 lbs (3,500 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "18.7 mph (29 kph)"
+        }
+    }
+}

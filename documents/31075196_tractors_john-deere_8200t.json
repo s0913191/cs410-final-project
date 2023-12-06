@@ -1,0 +1,16 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/8200t/31075196",
+    "source_url_id": "31075196",
+    "source_url_model": "8200t",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:23:53.807389",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "8200T",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "200 hp (149 kw)"
+        }
+    }
+}

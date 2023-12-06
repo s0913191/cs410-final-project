@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/case/780b/30712967",
+    "source_url_id": "30712967",
+    "source_url_model": "780b",
+    "source_url_make": "case",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:27.135226",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "780B",
+    "equipment_spec": {
+        "Engine": {
+            "Bore": "4.7 in (10 cm)",
+            "Displacement": "335.7 cu in (0 m)",
+            "Engine Make": "J.I. Case",
+            "Net Power": "111 hp (83 kw)",
+            "Number of Cylinders": "4",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Power shift"
+        }
+    }
+}

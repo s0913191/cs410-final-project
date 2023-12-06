@@ -1,0 +1,19 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td15m-lgp-6-way/30760439",
+    "source_url_id": "30760439",
+    "source_url_model": "td15m-lgp-6-way",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:52.285741",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD15M LGP 6-WAY",
+    "equipment_spec": {
+        "Engine": {
+            "Net Power": "190 hp (142 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "48874 lbs (22,169 kg)"
+        }
+    }
+}

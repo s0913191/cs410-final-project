@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk210d-9-car-demo/30748722",
+    "source_url_id": "30748722",
+    "source_url_model": "sk210d-9-car-demo",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:22.694876",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK210D-9 CAR DEMO",
+    "equipment_spec": {
+        "Dimensions": {
+            "Tail Swing Radius": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "SK210D-9",
+            "Net Power": "157 hp (117 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "97.8 gal (367 l)",
+            "Hydraulic Pump Flow Capacity": "34.4 gal/min (129 l/min)",
+            "Hydraulic System Fluid Capacity": "60.8 gal (227 l)",
+            "Operating Weight": "65918.3 lbs (29,900 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.5 rpm"
+        }
+    }
+}

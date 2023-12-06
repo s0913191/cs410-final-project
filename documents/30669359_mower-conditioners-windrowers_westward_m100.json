@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/mower-conditioners-windrowers/westward/m100/30669359",
+    "source_url_id": "30669359",
+    "source_url_model": "m100",
+    "source_url_make": "westward",
+    "source_url_category": "mower-conditioners-windrowers",
+    "source_date_scraped": "2023-09-13 17:08:19.250094",
+    "equipment_category": "Mower Conditioners / Windrowers",
+    "equipment_make": "Westward",
+    "equipment_model": "M100",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Wheel Tread Width": "134.3 in (340 cm)",
+            "Ground Clearance": "45.7 in (114 cm)",
+            "Rear Wheel tread Width - max": "130.8 in (330 cm)",
+            "Rear Wheel Tread Width - min": "130.8 in (330 cm)",
+            "Wheelbase": "13 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharge",
+            "Displacement": "201.4 cu in (0 m)",
+            "Number of Cylinders": "4",
+            "Power": "99 hp (74 kw)",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Front Tire Size": "18.4 x 26 Bar or turf",
+            "Fuel Capacity": "97 gal (367 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight w/o Attachment": "8800 lbs (3,992 kg)",
+            "Rear Tire Size": "10 x 16"
+        },
+        "Transmission": {
+            "Final Drive Type": "Planetary Gear Reduction",
+            "Max Speed": "16 mph (26 kph)",
+            "Transmission Type": "Hydrostatic, 2 speed"
+        }
+    }
+}

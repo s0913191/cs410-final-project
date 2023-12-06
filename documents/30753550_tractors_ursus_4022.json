@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ursus/4022/30753550",
+    "source_url_id": "30753550",
+    "source_url_model": "4022",
+    "source_url_make": "ursus",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:02.075253",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ursus",
+    "equipment_model": "4022",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "8.7 ft (2 m)",
+            "Overall Length": "13.4 in (33 cm)",
+            "Overall Width": "5.8 ft (2 m)",
+            "Wheelbase": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "201.4 cu in (0 m)",
+            "Engine Model": "1103C-33",
+            "Gross Power": "54 hp (40 kw)",
+            "Max Torque": "163.8 lbs/ft",
+            "Number of Cylinders": "3",
+            "PTO Power": "47 hp (35 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "6.9 gal/min (23 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2932.2 lbs (1,330 kg)",
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Operating Weight": "6294.2 lbs (2,855 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.5-16"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9R28"
+        },
+        "Transmission": {
+            "Max Speed": "15.7 mph (24 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "mechanical with sliding gears"
+        }
+    }
+}

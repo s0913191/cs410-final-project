@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/material-handlers/fuchs/mhl390/30855920",
+    "source_url_id": "30855920",
+    "source_url_model": "mhl390",
+    "source_url_make": "fuchs",
+    "source_url_category": "material-handlers",
+    "source_date_scraped": "2023-09-13 15:44:48.741403",
+    "equipment_category": "Material Handlers",
+    "equipment_make": "Fuchs",
+    "equipment_model": "MHL390",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.2 ft (1 m)",
+            "Overall Height": "12.7 ft (4 m)",
+            "Overall length": "24.2 ft (7 m)",
+            "Overall width": "12.10 ft (4 m)",
+            "Turning Radius": "32.6 ft (10 m)",
+            "Wheelbase": "11.1 ft (3 m)"
+        },
+        "Electrical System": {
+            "Alternator": "28 V / 100 A",
+            "Operation voltage": "24 V"
+        },
+        "Engine": {
+            "Cooling method": "Water and charge air cooling with temperature controlled fan speed",
+            "Displacement": "732 cu in (0 m)",
+            "Engine Model": "Deutz TCD 12.0 V6 4V",
+            "Engine Type": "6-cylinder-V-engine",
+            "Gross Power": "402 hp (300 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum operating pressure": "5221 psi"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "22.5 gal (83 l)",
+            "Fuel Capacity": "217 gal (821 l)",
+            "Gradeability-laden": "11%",
+            "Hydraulic System Fluid Capacity": "182 gal (689 l)",
+            "Operating Weight w/o Attachment": "191800 lbs (87,000 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "6 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "5 mph (8 kph)",
+            "Turning radius": "32.6 ft (10 m)"
+        }
+    }
+}

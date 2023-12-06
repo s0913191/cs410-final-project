@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/trailblazer/125/30776755",
+    "source_url_id": "30776755",
+    "source_url_model": "125",
+    "source_url_make": "trailblazer",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:42.346920",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Trailblazer",
+    "equipment_model": "125",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "6.8 ft (2 m)",
+            "Max Digging Depth": "9 ft (3 m)"
+        },
+        "Loader": {
+            "Breakout Force": "4633 lbs (2,102 kg)",
+            "Lift Capacity": "2840 lbs (1,288 kg)",
+            "SAE - Net": "25 hp (19 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "4000 lbs (1,814 kg)"
+        },
+        "Travel Speed": {
+            "4Th Gear Fwd": "hydrostatic mph (0 kph)"
+        }
+    }
+}

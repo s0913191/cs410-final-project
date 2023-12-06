@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tc35d/26592",
+    "source_url_id": "26592",
+    "source_url_model": "tc35d",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:15.620096",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TC35D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.1 in (36 cm)",
+            "Height - Top of Cab": "8 ft (2 m)",
+            "Overall Length": "10.5 in (25 cm)",
+            "Tire Size": "Front 7x16, Rear 13.6x24",
+            "Wheelbase": "6.2 ft (2 m)",
+            "Width Outside Frame": "5.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "101.1 cu in (0 m)",
+            "Gross Power": "35 hp (26 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "29.1 hp (22 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.9 gal/min (53 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2025 lbs (919 kg)",
+            "Fuel Capacity": "13 gal (49 l)",
+            "Operating Weight": "3252 lbs (1,475 kg)",
+            "Turning Radius": "9.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "14.3 mph (23 kph)",
+            "Transmission Type": "Dualpower"
+        }
+    }
+}

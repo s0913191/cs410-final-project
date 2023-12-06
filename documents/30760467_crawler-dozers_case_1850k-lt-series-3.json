@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/1850k-lt-series-3/30760467",
+    "source_url_id": "30760467",
+    "source_url_model": "1850k-lt-series-3",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:17.194296",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "1850K LT Series 3",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Case",
+            "Model": "667TA/EED",
+            "Net Power": "184 hp (137 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "44269 lbs (20,080 kg)"
+        }
+    }
+}

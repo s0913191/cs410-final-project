@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc1250lc-7/22442",
+    "source_url_id": "22442",
+    "source_url_model": "pc1250lc-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:20.106593",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC1250LC-7",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "38 ft (12 m)",
+            "Digging Reach": "38 ft (12 m)"
+        },
+        "Engine": {
+            "Net Power": "651 hp (485 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "251200 lbs (113,944 kg)"
+        }
+    }
+}

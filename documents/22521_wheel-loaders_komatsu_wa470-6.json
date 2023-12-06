@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa470-6/22521",
+    "source_url_id": "22521",
+    "source_url_model": "wa470-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:44.829940",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA470-6",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "43160 lbs (19,577 kg)",
+            "Bucket Capacity - heaped": "5.5 cu yds (4 m)",
+            "Bucket Capacity - struck": "4.6 cu yds (3 m)",
+            "Bucket Width": "10.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Hinge Pin - Max Height": "14.4 ft (4 m)",
+            "Length with Bucket on Ground": "29 ft (9 m)",
+            "Reach at Max Lift and Dump": "4.1 ft (1 m)",
+            "Wheelbase": "11.4 ft (3 m)",
+            "Width Over Tires": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "5 in (13 cm)",
+            "Displacement": "673.8 cu in (0 m)",
+            "Engine Make": "Komatsu",
+            "Engine Model": "SAA6D125E-5",
+            "Gross Power": "273 hp (204 kw)",
+            "Net Power": "272 hp (203 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "6 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Lower Time": "3.7 sec",
+            "Pump Flow Capacity": "51.6 gal/min (193 l/min)",
+            "Pump Type": "Piston pump",
+            "Raise Time": "5.4 sec",
+            "Relief Valve Setting": "3555 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "16.2 gal (61 l)",
+            "Engine Oil Fluid Capacity": "10.1 gal (38 l)",
+            "Front Axle/Diff Fluid Capacity": "15.9 gal (57 l)",
+            "Fuel Capacity": "109.2 gal (413 l)",
+            "Hydraulic System Fluid Capacity": "45.8 gal (170 l)",
+            "Operating Weight": "50618.2 lbs (22,960 kg)",
+            "Rear Axle/Diff Fluid Capacity": "14.8 gal (53 l)",
+            "Tire Size": "26.5-25",
+            "Transmission Fluid Capacity": "17.2 gal (64 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.5 mph (35 kph)",
+            "Max Speed - Reverse": "23.2 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full-powershift,"
+        }
+    }
+}

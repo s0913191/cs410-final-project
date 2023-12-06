@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/caterpillar/953c-wh/30750604",
+    "source_url_id": "30750604",
+    "source_url_model": "953c-wh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:10.296241",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "953C WH",
+    "equipment_spec": {
+        "Dimensions": {
+            "Width to Outside of Tracks": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "3126B ATAAC",
+            "Net Power": "128 hp (95 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Piston"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Bucket Capacity - heaped": "3 cu yds (2 m)",
+            "Cooling System Fluid Capacity": "6.9 gal (23 l)",
+            "Engine Oil Capacity": "4.8 gal (15 l)",
+            "Final Drive Fluid Capacity - each": "4.1 gal (15 l)",
+            "Fuel Capacity": "62 gal (235 l)",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Max Speed": "5.7 mph (8 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "36720 lbs (16,656 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3565 cu in (0 m)",
+            "Ground Pressure": "10.3 psi",
+            "Length of Track on Ground": "7.7 ft (2 m)",
+            "Track Gauge": "82 in (208 cm)",
+            "Track Shoe Width": "19.7 in (48 cm)"
+        }
+    }
+}

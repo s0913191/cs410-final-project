@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/wacker-neuson/wl36/39195",
+    "source_url_id": "39195",
+    "source_url_model": "wl36",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:43.648369",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "WL36",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.8 cu yds (0 m)"
+        },
+        "Capacities": {
+            "Engine Oil": "2.2 gal (8 l)",
+            "Fuel Tank": "14.6 gal (53 l)",
+            "Hydraulic oil tank": "17.2 gal (64 l)",
+            "Hydraulic system": "19.9 gal (72 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "7.6 ft (2 m)",
+            "Length with Bucket on Ground": "13.6 ft (4 m)",
+            "Overall length": "16.3 ft (5 m)",
+            "Track Width": "47.3 in (119 cm)",
+            "Wheelbase": "6.7 ft (2 m)",
+            "Width Over Tires": "5.2 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "65 A",
+            "Displacement": "2216 cu in (0 m)",
+            "Engine Make": "Perkins",
+            "Engine Model": "404 D-22",
+            "Gross Power": "47.9 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "16.5 gal/min (61 l/min)",
+            "Relief Valve Pressure": "3045 psi"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.4 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "31x15.5-15EM ET-37"
+        },
+        "Weights": {
+            "Breakout force maximum": "8780 lbs/ft",
+            "Lifting force maximum": "18364.6 lbs (8,330 kg)",
+            "Operating weight": "8002.8 lbs (3,630 kg)"
+        }
+    }
+}

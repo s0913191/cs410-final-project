@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt630c/30758578",
+    "source_url_id": "30758578",
+    "source_url_model": "rt630c",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:31.830914",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT630C",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "95 ft (29 m)",
+            "Min Height @ Max Raise Angle": "32 ft (10 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.5 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Transport Height": "12.1 ft (4 m)",
+            "Transport Length": "37.2 ft (11 m)",
+            "Transport Width": "9.8 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "12 ft (4 m)",
+            "Wheelbase": "12.5 in (30 cm)",
+            "Width w/ Outriggers Extended": "24 ft (7 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "6BT 5.9",
+            "Gross Power": "155.6 hp (116 kw)",
+            "Max Torque": "400 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "103.1 gal (390 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "59630 lbs (27,048 kg)",
+            "Tire Size": "23.5R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.3 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

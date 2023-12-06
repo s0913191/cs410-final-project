@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/mx285/30753353",
+    "source_url_id": "30753353",
+    "source_url_model": "mx285",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:23.493921",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MX285",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "10.4 ft (3 m)",
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.5 in (10 cm)",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Make": "CaseIH",
+            "Gross Power": "287 hp (214 kw)",
+            "Max Torque": "1853.3 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "PTO Power": "240 hp (179 kw)",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum system pressure": "2950 psi",
+            "Number of Remote Control Valves": "3 to 5",
+            "Pump Flow Capacity": "38.6 gal/min (144 l/min)",
+            "Pump Type": "Closed center pressure flow compensated"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "14969.4 lbs (6,790 kg)",
+            "Fuel Capacity": "160 gal (606 l)",
+            "Hydraulic System Fluid Capacity": "45.5 gal (170 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "21629.6 lbs (9,811 kg)"
+        },
+        "Production": {
+            "Series": "Magnum Series",
+            "Years Manufactured": "2003 - 2006"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

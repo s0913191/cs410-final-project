@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/c60/31076001",
+    "source_url_id": "31076001",
+    "source_url_model": "c60",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:34.767940",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "C60",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "64 hp (48 kw)"
+        },
+        "Production": {
+            "Series": "CX Utility Series",
+            "Years Manufactured": "1998 - 2002"
+        }
+    }
+}

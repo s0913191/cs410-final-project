@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/sm3160e/12976",
+    "source_url_id": "12976",
+    "source_url_model": "sm3160e",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:06.275516",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "SM3160E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4 in (10 cm)",
+            "Height w/ Rails": "8.2 ft (2 m)",
+            "Height w/o Rails": "6.5 ft (2 m)",
+            "Overall Length": "8.3 in (20 cm)",
+            "Overall Width": "3.9 ft (1 m)",
+            "Turning Radius": "12.8 ft (4 m)",
+            "Wheelbase": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "250",
+            "Charger Amps": "25",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Max Speed": "2 mph (3 kph)",
+            "Operating Weight": "4321.1 lbs (1,960 kg)",
+            "Tire Fill/Type": "Solid",
+            "Tire Size": "16x5"
+        },
+        "Platform": {
+            "Deck Extension": "35.9 in (89 cm)",
+            "Height of Rails": "3.6 ft (1 m)",
+            "Lift Time": "32 sec",
+            "Lower Time": "34 sec",
+            "Max Platform Height": "25 ft (8 m)",
+            "Max Platform Weight Capacity": "1245.7 lbs (565 kg)",
+            "Max Working Height": "31.2 ft (9 m)",
+            "Platform Inner Length": "92.2 in (234 cm)",
+            "Platform Inner Width": "42.2 in (107 cm)"
+        }
+    }
+}

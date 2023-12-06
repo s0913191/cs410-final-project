@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/venieri/vf923/30750428",
+    "source_url_id": "30750428",
+    "source_url_model": "vf923",
+    "source_url_make": "venieri",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:49.418370",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Venieri",
+    "equipment_model": "VF9.23",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "17.8 ft (5 m)",
+            "Load Height": "17.1 ft (5 m)",
+            "Reach From Swivel": "18.3 ft (5 m)"
+        },
+        "Dimensions": {
+            "Transport Length": "19.1 ft (6 m)",
+            "Transport Width": "7.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "244.1 cu in (0 m)",
+            "Engine Model": "1004-40T",
+            "Gross Power": "112.7 hp (84 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "38.4 gal/min (144 l/min)",
+            "Pump Type": "Piston",
+            "Relief Valve Pressure": "3335.9 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "1.6 cu yds (1 m)",
+            "Bucket Width": "88.6 in (224 cm)",
+            "Clearance at Max Dump Height": "11.2 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight 4wd": "18739.3 lbs (8,500 kg)",
+            "Turning Radius": "14.8 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed": "20.6 mph (32 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

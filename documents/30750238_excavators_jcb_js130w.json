@@ -1,0 +1,87 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/js130w/30750238",
+    "source_url_id": "30750238",
+    "source_url_model": "js130w",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:07.038589",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "JS130W",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "30.2 ft (9 m)",
+            "Max Digging Depth": "15.7 ft (5 m)",
+            "Max Loading Height": "22.3 ft (7 m)",
+            "Max Reach Along Ground": "25.5 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "13.8 ft (4 m)",
+            "Shipping Height of Unit": "10 ft (3 m)",
+            "Shipping Length of Unit": "24.9 ft (7 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "31.1 ft (9 m)",
+            "Max Digging Depth": "17 ft (5 m)",
+            "Max Loading Height": "23.2 ft (7 m)",
+            "Max Reach Along Ground": "26.7 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "15.1 ft (5 m)",
+            "Shipping Height of Unit": "10 ft (3 m)",
+            "Shipping Length of Unit": "25 ft (8 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 3": {
+            "Max Cutting Height": "32.1 ft (10 m)",
+            "Max Digging Depth": "18.7 ft (5 m)",
+            "Max Loading Height": "24.3 ft (7 m)",
+            "Max Reach Along Ground": "28.2 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "16.6 ft (5 m)",
+            "Shipping Height of Unit": "10 ft (3 m)",
+            "Shipping Length of Unit": "25.1 ft (8 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 4": {
+            "Max Cutting Height": "31.8 ft (9 m)",
+            "Max Digging Depth": "16.5 ft (5 m)",
+            "Max Loading Height": "23.9 ft (7 m)",
+            "Max Reach Along Ground": "26.8 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "14 ft (4 m)",
+            "Shipping Height of Unit": "10 ft (3 m)",
+            "Shipping Length of Unit": "24 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Overall Width": "8.2 in (20 cm)",
+            "Upper Structure Clearance": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "264 cu in (0 m)",
+            "Engine Model": "A4BGIT",
+            "Net Power": "94 hp (70 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "4.4 gal (15 l)",
+            "Engine Oil Capacity": "3.9 gal (11 l)",
+            "Front Diff Fluid Capacity": "3.7 gal (11 l)",
+            "Fuel Capacity": "63.5 gal (238 l)",
+            "Hydraulic Pump Flow Capacity": "65.6 gal/min (246 l/min)",
+            "Hydraulic Pump Type": "load sensed hydraulic system with variable flow piston pumps providing flow on demand for maximum efficiency",
+            "Hydraulic System Fluid Capacity": "32.8 gal (121 l)",
+            "Hydraulic System Relief Valve Pressure": "4974 psi",
+            "Operating Voltage": "24 V",
+            "Oscillating Axle Angle": "17  \t\u00b0",
+            "Rear Diff Fluid Capacity": "3.2 gal (11 l)",
+            "Tire Size": "twins: 10x20 16PR, singles: 18Rx19.5(radials)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "13.4 rpm"
+        },
+        "Transmission": {
+            "Max Travel Speed": "4.8 mph (6 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic powershift"
+        }
+    }
+}

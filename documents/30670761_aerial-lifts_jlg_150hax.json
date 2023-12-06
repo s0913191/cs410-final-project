@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/150hax/30670761",
+    "source_url_id": "30670761",
+    "source_url_model": "150hax",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:18.903204",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "150HAX",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.1 in (28 cm)",
+            "Overall Height - mast lowered": "14.1 ft (4 m)",
+            "Overall Length": "39.5 in (99 cm)",
+            "Overall Width": "11.6 ft (3 m)",
+            "Turning Radius": "27.1 ft (8 m)",
+            "Wheelbase": "18.1 ft (5 m)"
+        },
+        "Engine": {
+            "Engine Model": "4B3.9C",
+            "Fuel Type": "Diesel",
+            "Gross Power": "76.5 hp (57 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "68.1 gal (257 l)",
+            "Hydraulic System Fluid Capacity": "124 gal (469 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "58100.7 lbs (26,354 kg)",
+            "Tire Fill/Type": "foam",
+            "Tire Size": "445/65R22.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "79.3 ft (24 m)",
+            "Max Platform Height": "150 ft (46 m)",
+            "Max Platform Weight Capacity": "1000.9 lbs (454 kg)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "35.9 in (89 cm)",
+            "Platform Rotation": "132  \t\u00b0"
+        }
+    }
+}

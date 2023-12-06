@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/mustang/1750rt-nxt3/30760136",
+    "source_url_id": "30760136",
+    "source_url_model": "1750rt-nxt3",
+    "source_url_make": "mustang",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:56.304345",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Mustang",
+    "equipment_model": "1750RT NXT3",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "70 hp (52 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "1750 lbs (794 kg)",
+            "Operating Width": "64.4 in (163 cm)"
+        }
+    }
+}

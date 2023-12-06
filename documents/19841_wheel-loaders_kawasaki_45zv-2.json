@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/45zv-2/19841",
+    "source_url_id": "19841",
+    "source_url_model": "45zv-2",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:09.290238",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "45ZV-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.3 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Kubota",
+            "Model": "V3307-DI-TI",
+            "Net Power": "61 hp (45 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "1 - 1.18 cu yds (1 - 1 m)"
+        },
+        "Weights": {
+            "Operational Weight": "12220 lbs (5,543 kg)"
+        }
+    }
+}

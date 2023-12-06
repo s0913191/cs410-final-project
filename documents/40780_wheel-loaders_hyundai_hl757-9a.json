@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/hyundai/hl757-9a/40780",
+    "source_url_id": "40780",
+    "source_url_model": "hl757-9a",
+    "source_url_make": "hyundai",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:46:14.390160",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HL757-9A",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Spring-applied",
+            "Service brake": "Hydraulically actuated"
+        },
+        "Bucket": {
+            "Bucket Width": "9 ft (3 m)",
+            "Digging depth": "0.3 ft (0 m)",
+            "Dump Clearance at Max Raise": "9.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Length with Bucket on Ground": "24.9 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry, Two stages dual elements",
+            "Aspiration": "Turbocharged",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "408.9 cu in (0 m)",
+            "Emissions Certification": "Stage III-A",
+            "Engine Make": "CUMMINS",
+            "Engine Model": "QSB6.7",
+            "Engine Type": "Watercooled",
+            "Gross Power": "200 hp (149 kw)",
+            "Make": "Cummins",
+            "Max torque ISO TR14396": "685 lbs/ft",
+            "Model": "QSB6.7",
+            "Net Power": "197 hp (147 kw)",
+            "Number of Cylinders": "6",
+            "Stroke": "4.9 in (10 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.8 sec",
+            "Lower Time": "3.7 sec",
+            "Pump Flow Capacity": "48.9 gal/min (182 l/min)",
+            "Pump Type": "Variable axial piston",
+            "Raise Time": "5.9 sec",
+            "Relief Valve Pressure": "3555 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "12.2 gal (45 l)",
+            "Front Axle/Diff Fluid Capacity": "8.5 gal (30 l)",
+            "Fuel Capacity": "77.7 gal (291 l)",
+            "Hydraulic System Fluid Capacity": "53.4 gal (201 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "32408 lbs (14,700 kg)",
+            "Rated Bucket Capacity": "3.7 cu yds (2 m)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "6.4 gal (23 l)",
+            "Tire Size": "20.5-25, L3",
+            "Transmission Fluid Capacity": "7.4 gal (27 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23.9 mph (37 kph)",
+            "Max Speed - Reverse": "15.1 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Full automatic power shift"
+        },
+        "Weights": {
+            "Operational Weight": "32400 lbs (14,697 kg)"
+        }
+    }
+}

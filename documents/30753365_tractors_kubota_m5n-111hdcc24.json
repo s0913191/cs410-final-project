@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m5n-111hdcc24/30753365",
+    "source_url_id": "30753365",
+    "source_url_model": "m5n-111hdcc24",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:08.853181",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M5N-111HDCC24",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.3 in (30 cm)",
+            "Height - Top of ROPS/FOPS": "7.6 ft (2 m)",
+            "Overall Width": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Alternator": "130 A",
+            "Aspiration": "Turbocharged",
+            "Engine Make": "Kubota",
+            "Engine Model": "V-3800-CR-TIER4",
+            "Engine Type": "Direct Injection, water-cooled 4-cycle diesel",
+            "Gross Power": "108.2 hp (81 kw)",
+            "Model Name": "M5N-111HDCC24",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "55.9 hp (41 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2 with flow control",
+            "Pump Flow Capacity": "18.1 gal/min (68 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3307 lbs (1,500 kg)",
+            "3 Point Hitch Type": "Rigid lower link, easy adjust stabilizers /II",
+            "Fuel Capacity": "20.1 gal (76 l)",
+            "Operating Weight": "5621.8 lbs (2,550 kg)"
+        },
+        "Power Take-Off (PTO)": {
+            "Power Take-Off(PTO) Type": "Electro-hydraulic"
+        },
+        "Tires": {
+            "Tires": "Front - 8 - 16, Rear - 12.4 - 24"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24"
+        }
+    }
+}

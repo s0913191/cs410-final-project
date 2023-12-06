@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/644k-hybrid/30754900",
+    "source_url_id": "30754900",
+    "source_url_model": "644k-hybrid",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:16.551211",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "644K HYBRID",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "33903 lbs (15,378 kg)",
+            "Bucket Capacity - Smallest": "4.1 cu yds (3 m)",
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)",
+            "Largest bucket capacity": "4.2 cu yds (3 m)"
+        },
+        "Capacities": {
+            "Heaped Capacity": "4.2 cu yds (3 m)",
+            "Hydraulic Tank": "28.1 gal (106 l)",
+            "Transmission": "10.1 gal (38 l)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Hinge Pin - Max Height": "13.6 ft (4 m)",
+            "Length with Bucket on Ground": "27.3 ft (8 m)",
+            "Reach at Max Lift and Dump": "5.3 ft (2 m)",
+            "Turning Circle": "43.6 ft (13 m)",
+            "Wheelbase": "10.7 ft (3 m)",
+            "Width Over Tires": "9.5 ft (3 m)"
+        },
+        "Driveline": {
+            "Differential lock": "Front- Locking, Rear- Open",
+            "Parking Brake Type": "Wet Multi Disc - Transmission",
+            "Ride control system": "Optional",
+            "Service Brake - Location": "Axle Inboard",
+            "Service Brake Actuation": "Hydraulic",
+            "Service Brake Type": "Wet Disc",
+            "Tire size - Standard": "23.5 R25"
+        },
+        "Engine": {
+            "Alternator": "100 A",
+            "Displacement": "415 cu in (0 m)",
+            "Emission level": "Tier 4",
+            "Engine Make": "John Deere",
+            "Engine Model": "PowerTech PSX 6068",
+            "Engine Output-Net": "229.4 hp (171 kw)",
+            "Make": "Deere",
+            "Model": "PowerTech PSX 6068",
+            "Net Power": "229 hp (171 kw)",
+            "Pump": "Piston",
+            "Rated Speed": "1700 rpm",
+            "System Voltage": "24 V",
+            "Torque": "731 lbs/ft",
+            "Torque Rise": "19%",
+            "Transmission Type": "Powershift w/Hybrid-Electric Drive"
+        },
+        "Operating Specifications": {
+            "Front Axle/Diff Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "104.9 gal (394 l)",
+            "Operating Weight": "40435 lbs (18,341 kg)",
+            "Rated Bucket Capacity": "4.25 cu yds (3 m)",
+            "Rear Axle/Diff Fluid Capacity": "5.9 gal (19 l)"
+        },
+        "Transmission": {
+            "Pump Flow": "78.5 gal/min (295 l/min)",
+            "System Pressure": "251.7 psi"
+        },
+        "Weights": {
+            "Operational Weight": "40436 - 42,206 lbs (18,342 - 19,145 kg)"
+        }
+    }
+}

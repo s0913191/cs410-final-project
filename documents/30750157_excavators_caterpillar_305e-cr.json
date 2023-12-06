@@ -1,0 +1,98 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/305e-cr/30750157",
+    "source_url_id": "30750157",
+    "source_url_model": "305e-cr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:14.227072",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "305E CR",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "14.8 in (36 cm)",
+            "Blade Lift Height": "16.5 in (41 cm)",
+            "Blade Width": "6.5 ft (2 m)",
+            "Dig Depth": "21.3 in (53 cm)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "12 ft (4 m)",
+            "Max Reach Along Ground": "19.6 ft (6 m)"
+        },
+        "Dimensions": {
+            "Height - Over Cab": "8.3 ft (2 m)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Length of Track on Ground": "8.5 ft (2 m)",
+            "Maximum Cutting Height - Long Stick": "17.8 ft (5 m)",
+            "Maximum Cutting Height - Standard Stick": "17.3 ft (5 m)",
+            "Maximum Digging Depth - Standard Stick": "10.8 ft (3 m)",
+            "Maximum Dump Height - Long Stick": "12.8 ft (4 m)",
+            "Maximum Dump Height - Standard Stick": "12.2 ft (4 m)",
+            "Maximum Horizontal Reach - Long Stick": "19.6 ft (6 m)",
+            "Maximum Horizontal Reach - Standard Stick": "18.4 ft (5 m)",
+            "Maximum Reach - Ground Level - Standard Stick": "17.8 ft (5 m)",
+            "Maximum Vertical Dig Depth - Long Stick": "8.8 ft (2 m)",
+            "Maximum Vertical Dig Depth - Standard Stick": "7.6 ft (2 m)",
+            "Shipping Height": "8.3 ft (2 m)",
+            "Shipping Length": "17 ft (5 m)",
+            "Track Shoe Width": "1.3 ft (0 m)",
+            "Transport Width": "6.5 ft (2 m)",
+            "Width to Outside of Tracks": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "3.4 in (8 cm)",
+            "Displacement": "146.5 cu in (0 m)",
+            "Engine Model": "Cat C2.4",
+            "Gross Power": "41.9 hp (31 kw)",
+            "Net Power": "40.3 hp (30 kw)",
+            "Power Measured @": "2400 rpm",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Auxiliary Circuit - Primary": "18.5 gal/min (68 l/min)",
+            "Auxiliary Circuit - Secondary": "10 gal/min (38 l/min)",
+            "Digging Force - Bucket": "10050 lbs (4,559 kg)",
+            "Digging Force - Stick - Long": "4788 lbs (2,172 kg)",
+            "Digging Force - Stick - Standard": "5550 lbs (2,518 kg)",
+            "Operating Pressure - Equipment": "3553 psi",
+            "Operating Pressure - Swing": "2690 psi",
+            "Operating Pressure - Travel": "3553 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "2.8 gal (8 l)",
+            "Engine Oil Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "16.7 gal (61 l)",
+            "Hydraulic System Fluid Capacity": "20.7 gal (76 l)",
+            "Operating Weight": "11217 lbs (5,088 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "2.8 gal (8 l)",
+            "Engine Oil": "2.5 gal (8 l)",
+            "Fuel Tank": "16.6 gal (61 l)",
+            "Hydraulic System": "20.6 gal (76 l)",
+            "Hydraulic Tank": "18 gal (68 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Swing System": {
+            "Boom Swing - Left - With Stop": "60  \t\u00b0",
+            "Boom Swing - Left - Without Stop": "80  \t\u00b0",
+            "Boom Swing - Right": "50  \t\u00b0",
+            "Machine Swing Speed": "9 rpm"
+        },
+        "Travel System": {
+            "Maximum Traction Force - High Speed": "5418 lbs (2,458 kg)",
+            "Maximum Traction Force - Low Speed": "10161 lbs (4,609 kg)",
+            "Travel Speed - High": "2.8 mph (3 kph)",
+            "Travel Speed - Low": "1.6 mph (2 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.1 psi",
+            "Max Travel Speed": "2.8 mph (3 kph)"
+        },
+        "Weights": {
+            "Operating Weight - With Cab": "11217 lbs (5,088 kg)"
+        }
+    }
+}

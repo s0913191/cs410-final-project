@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/3525/31077161",
+    "source_url_id": "31077161",
+    "source_url_model": "3525",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:31.781202",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "3525",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "130 hp (97 kw)"
+        },
+        "Production": {
+            "Series": "3500 Series",
+            "Years Manufactured": "1983 - 1987"
+        }
+    }
+}

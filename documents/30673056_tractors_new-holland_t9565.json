@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t9565/30673056",
+    "source_url_id": "30673056",
+    "source_url_model": "t9565",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:06.624125",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T9.565",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "500 hp (373 kw)"
+        },
+        "Production": {
+            "Series": "T9 Series",
+            "Years Manufactured": "2014 -"
+        }
+    }
+}

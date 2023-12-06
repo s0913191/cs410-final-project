@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/magnum-335/30670320",
+    "source_url_id": "30670320",
+    "source_url_model": "magnum-335",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:01.236378",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MAGNUM 335",
+    "equipment_spec": {
+        "Axles": {
+            "Axle Diameter": "4.6 in (10 cm)",
+            "Axle Length": "120.1 in (305 cm)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Tire Size": "front 420/90R30, rear 520/85R42",
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Wastegate Turbocharged / Air-to-Air",
+            "Displacement": "543 cu in (0 m)",
+            "Gross Power": "330 hp (246 kw)",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "275 hp (205 kw)",
+            "Torque Rise": "47%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "46 gal/min (174 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "18898.1 lbs (8,572 kg)",
+            "3 Point Hitch Type": "Cat. IVN/III",
+            "Alternator Supplied Amperage": "150  A",
+            "Cooling System Fluid Capacity": "6.5 gal (23 l)",
+            "Engine Oil Capacity": "5.6 gal (19 l)",
+            "Fuel Capacity": "180.2 gal (681 l)",
+            "Hydraulic System Fluid Capacity": "45.5 gal (170 l)",
+            "Operating Weight": "37125 lbs (16,840 kg)"
+        },
+        "Production": {
+            "Series": "Magnum Series",
+            "Years Manufactured": "2008 - 2011"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "18-speed full powershift"
+        }
+    }
+}

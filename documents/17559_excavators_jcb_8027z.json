@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/8027z/17559",
+    "source_url_id": "17559",
+    "source_url_model": "8027z",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:04:35.369014",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "8027Z",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "9 ft (3 m)",
+            "Digging Reach": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "26.6 hp (19 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "6533 lbs (2,963 kg)"
+        }
+    }
+}

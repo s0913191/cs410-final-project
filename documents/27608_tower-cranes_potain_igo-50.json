@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/potain/igo-50/27608",
+    "source_url_id": "27608",
+    "source_url_model": "igo-50",
+    "source_url_make": "potain",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:18.840638",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Potain",
+    "equipment_model": "IGO 50",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "76.1 ft (23 m)",
+            "Max Lift Capacity": "4 t (3,629 kg)"
+        }
+    }
+}

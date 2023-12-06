@@ -1,0 +1,100 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/it62g/3020",
+    "source_url_id": "3020",
+    "source_url_model": "it62g",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:15.507647",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "IT62G",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed front",
+            "Maximum Single-Wheel Rise and Fall": "19 in (48 cm)"
+        },
+        "Brakes": {
+            "Brakes": "Full-hydraulic actuated, oil-disc"
+        },
+        "Bucket": {
+            "Breakout Force": "28210 lbs (12,796 kg)",
+            "Bucket Capacities": "4 - 4.25 cu yds (3 - 3 m)",
+            "Bucket Capacity - heaped": "4.4 cu yds (3 m)",
+            "Bucket Capacity - struck": "3.5 cu yds (2 m)",
+            "Maximum Bucket Capacity": "4.3 cu yds (3 m)"
+        },
+        "Dimensions": {
+            "Dump Clearance at Max Lift": "9.4 ft (3 m)",
+            "Fork Tine Length": "4.1 ft (1 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Hinge Pin Max Height": "12.3 ft (4 m)",
+            "Hook Height at Max Lift - extended": "23.58 ft (7 m)",
+            "Hook Height at Max Lift - standard": "18.31 ft (5 m)",
+            "Hook Reach at Max Lift - extended": "9.16 ft (3 m)",
+            "Hook Reach at Max Lift - standard": "5.28 ft (2 m)",
+            "Length w/ Bucket on Ground": "27.2 ft (8 m)",
+            "Length with  out Forks on Ground": "28.8 ft (9 m)",
+            "Max Lift Height": "12.5 ft (4 m)",
+            "Reach at Max Height and Dump": "4.1 ft (1 m)",
+            "Wheelbase": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "439.4 cu in (0 m)",
+            "Engine Model": "Cat 3126 DITA",
+            "Flywheel Power": "200 hp (149 kw)",
+            "Gross Power": "207 hp (154 kw)",
+            "Net Power": "200 hp (149 kw)",
+            "Net Power - 80/1269/EEC": "200 hp (149 kw)",
+            "Net Power - ISO 9249": "200 hp (149 kw)",
+            "Net Power - SAE J1349": "200 hp (149 kw)",
+            "Stroke": "5 in (13 cm)",
+            "Total Torque Rise": "0.412"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.1 sec",
+            "Hydraulic Cycle Time - Dump": "2.1 sec",
+            "Hydraulic Cycle Time - Lower, Empty, Float Down": "2.8 sec",
+            "Hydraulic Cycle Time - Raise": "6.1 sec",
+            "Hydraulic Cycle Time - Total": "11 sec",
+            "Lower Time": "2.8 sec",
+            "Raise Time": "6.1 sec",
+            "Steering System - Pump Type": "Full hyrdaulic power steering"
+        },
+        "Operating Specifications": {
+            "Breakout Force": "28210 lbs (12,796 kg)",
+            "Dump Clearance": "9.3 ft (3 m)",
+            "Fuel Capacity": "78 gal (295 l)",
+            "Hydraulic System Fluid Capacity": "40.5 gal (151 l)",
+            "Static Tipping Load - Full Turn": "24890 lbs (11,290 kg)",
+            "Tire Size": "23.5r25 XHA(L-3)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "12.9 gal (45 l)",
+            "Crankcase": "7.9 gal (27 l)",
+            "Differential - Final Drives - Front": "9.5 gal (34 l)",
+            "Differential - Final Drives - Rear": "9.5 gal (34 l)",
+            "Fuel Tank - Standard": "78 gal (295 l)",
+            "Hydraulic System - Including Tank": "40.4 gal (151 l)",
+            "Hydraulic Tank": "23.2 gal (87 l)",
+            "Transmission": "9 gal (34 l)"
+        },
+        "Transmission": {
+            "Forward - 1": "4.3 mph (6 kph)",
+            "Forward - 2": "7.9 mph (11 kph)",
+            "Forward - 3": "13.9 mph (21 kph)",
+            "Forward - 4": "23 mph (37 kph)",
+            "Max Speed Forward": "23 mph (37 kph)",
+            "Max Speed Reverse": "25.2 mph (40 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Reverse - 1": "4.7 mph (6 kph)",
+            "Reverse - 2": "8.7 mph (13 kph)",
+            "Reverse - 3": "15.3 mph (24 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "40380 lbs (18,316 kg)"
+        }
+    }
+}

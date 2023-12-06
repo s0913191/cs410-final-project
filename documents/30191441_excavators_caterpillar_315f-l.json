@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/315f-l/30191441",
+    "source_url_id": "30191441",
+    "source_url_model": "315f-l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:48.190704",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "315F L",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "19.5 ft (6 m)",
+            "Max Reach Along Ground": "28.5 ft (9 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Drawbar Pull": "25400 lbs (11,521 kg)",
+            "Maximum Travel Speed": "3.4 mph (5 kph)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "270 cu in (0 m)",
+            "Engine Model": "Cat C4.4 ACERT",
+            "Flywheel Power": "97 hp (72 kw)",
+            "Net Power": "97 hp (72 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Main System - Maximum Flow - Total": "67 gal/min (254 l/min)",
+            "Maximum Pressure - Equipment": "4420 psi",
+            "Maximum Pressure - Swing": "3340 psi",
+            "Maximum Pressure - Travel": "5080 psi",
+            "Pilot System - Maximum Flow": "4.8 gal/min (15 l/min)",
+            "Pilot System - Maximum Pressure": "600 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "36340 lbs (16,484 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "7.4 gal (27 l)",
+            "Final Drive - Each": "0.8 gal (0 l)",
+            "Fuel Tank Capacity": "47 gal (178 l)",
+            "Hydraulic System - Including Tank": "42.3 gal (159 l)",
+            "Hydraulic Tank": "22.2 gal (83 l)"
+        },
+        "Swing": {
+            "Swing Speed": "11.5 rpm",
+            "Swing Torque": "22790 lbs/ft"
+        }
+    }
+}

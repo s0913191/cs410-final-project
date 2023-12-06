@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/eg782hmt/30751660",
+    "source_url_id": "30751660",
+    "source_url_model": "eg782hmt",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:39.379102",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "EG782HMT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.6 in (43 cm)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Overall Length": "12.7 in (30 cm)",
+            "Tire Size": "Front 9.5 - 24, Rear 16.9-30",
+            "Wheelbase": "7.3 ft (2 m)",
+            "Width Outside Frame": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "202.5 cu in (0 m)",
+            "Engine Model": "4TNV98T",
+            "Net Power": "80.9 hp (60 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "13.6 gal/min (49 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Drawbar",
+            "Fuel Capacity": "25.1 gal (95 l)",
+            "Operating Weight": "6228.1 lbs (2,825 kg)",
+            "Turning Radius": "10.9 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "21.2 mph (34 kph)",
+            "Transmission Type": "HMT"
+        }
+    }
+}

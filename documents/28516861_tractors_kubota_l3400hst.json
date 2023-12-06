@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l3400hst/28516861",
+    "source_url_id": "28516861",
+    "source_url_model": "l3400hst",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:29:46.505490",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L3400HST",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.4 in (33 cm)",
+            "Height - Top of Cab": "7.1 ft (2 m)",
+            "Overall Length": "8.9 in (20 cm)",
+            "Tire Size": "front 7-16 rear 11.2-24",
+            "Wheelbase": "5.3 ft (2 m)",
+            "Width Outside Frame": "4.3 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "E-TVCS indirect injection",
+            "Displacement": "100.5 cu in (0 m)",
+            "Engine Model": "L3400HST",
+            "Gross Power": "34.7 hp (25 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2700 rpm",
+            "PTO Power": "27.5 hp (20 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "6.4 gal/min (23 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1435.3 lbs (651 kg)",
+            "3 Point Hitch Type": "Cat. I",
+            "Fuel Capacity": "9 gal (34 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "2601.5 lbs (1,180 kg)",
+            "Turning Radius": "8.3 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "13.2 mph (21 kph)",
+            "Transmission Type": "hydrostatic 3 range"
+        }
+    }
+}

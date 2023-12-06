@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-124-pdh-40/30679350",
+    "source_url_id": "30679350",
+    "source_url_model": "bw-124-pdh-40",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:57.451520",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 124 PDH-40",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Width": "5 ft (2 m)"
+        },
+        "Brakes": {
+            "Parking brake": "Hydromec",
+            "Service brake": "Hydrostatic"
+        },
+        "Dimensions": {
+            "Ground Clearance": "12.6 in (30 cm)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Operating Width": "4 ft (1 m)",
+            "Overall Length": "131.9 in (333 cm)",
+            "Overall Length w/ Blade": "12.8 ft (4 m)",
+            "Overall Length w/o Blade": "11 ft (3 m)",
+            "Overall Width": "4.3 ft (1 m)",
+            "Turning Radius - Inside": "88.2 in (224 cm)",
+            "Wheelbase": "71.1 in (180 cm)",
+            "Width Over Tires": "4.3 ft (1 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "18546.8 lbs (8,412 kg)",
+            "Drum Diameter": "35 in (89 cm)",
+            "Drum Width": "47.2 in (119 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Number of Pads": "70",
+            "Pad Height": "2.2 in (5 cm)",
+            "Pad Surface Area": "12.6 cu in (0 m)",
+            "Static Linear Load": "74.5 lbs/in",
+            "Vibration Frequency": "2460 hz (147,600 vpm)",
+            "Vibration Frequency 1": "41 hz (2,460 vpm)",
+            "Vibration Frequency 2": "40 hz (2,400 vpm)"
+        },
+        "Engine": {
+            "Cooling method": "Air - oil",
+            "Emissions level": "3a/4i",
+            "Engine Make": "Deutz",
+            "Engine Model": "D2011 L03i",
+            "Fuel": "Diesel",
+            "Gross Power": "44.3 hp (33 kw)",
+            "Make": "Deutz",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Max Speed": "5.6 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "7386 lbs (3,350 kg)",
+            "Operating Width": "51.6 in (130 cm)"
+        },
+        "Steering System": {
+            "Steering Method": "Hydrostatic",
+            "System": "Oscillatory Articulation"
+        },
+        "Tires": {
+            "Tires": "9.5-24"
+        },
+        "Weights": {
+            "Grossweight": "8598 lbs (3,900 kg)",
+            "Loaded Weight": "3638 lbs (1,650 kg)"
+        }
+    }
+}

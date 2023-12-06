@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/skyjack/sj8841/29819789",
+    "source_url_id": "29819789",
+    "source_url_model": "sj8841",
+    "source_url_make": "skyjack",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:07.706034",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Skyjack",
+    "equipment_model": "SJ8841",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "8 in (20 cm)",
+            "Height w/ Rails": "9.6 ft (3 m)",
+            "Height w/o Rails": "7.3 ft (2 m)",
+            "Overall Length": "11.5 in (28 cm)",
+            "Overall Width": "7.3 ft (2 m)",
+            "Turning Radius": "20.7 ft (6 m)"
+        },
+        "Engine": {
+            "Fuel Type": "gas/propane",
+            "Gross Power": "65 hp (48 kw)"
+        },
+        "Performance": {
+            "Max Speed": "3.5 mph (5 kph)",
+            "Operating Weight": "10840.2 lbs (4,917 kg)"
+        },
+        "Platform": {
+            "Height of Rails": "2.3 ft (1 m)",
+            "Lift Time": "56 sec",
+            "Max Platform Height": "41.1 ft (13 m)",
+            "Max Platform Weight Capacity": "1699.8 lbs (771 kg)",
+            "Max Working Height": "47 ft (14 m)",
+            "Platform Inner Length": "133.9 in (338 cm)",
+            "Platform Inner Width": "67 in (170 cm)"
+        }
+    }
+}

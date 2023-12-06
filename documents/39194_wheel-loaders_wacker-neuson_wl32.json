@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/wacker-neuson/wl32/39194",
+    "source_url_id": "39194",
+    "source_url_model": "wl32",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:42.955791",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "WL32",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "0.6 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Length with Bucket on Ground": "13.2 ft (4 m)",
+            "Overall length": "15.7 ft (5 m)",
+            "Track Width": "37.1 in (94 cm)",
+            "Wheelbase": "6.5 ft (2 m)",
+            "Width Over Tires": "4.7 ft (1 m)"
+        },
+        "Engine": {
+            "Alternator": "85 A",
+            "Displacement": "135 cu in (0 m)",
+            "Engine Make": "Perkins",
+            "Engine Model": "404 F-22",
+            "Gross Power": "49 hp (37 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.8 gal/min (53 l/min)",
+            "Relief Valve Pressure": "6527 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "16.9 gal (61 l)",
+            "Max Speed": "12.4 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Tire Size": "31x15.5-15EM ET-37"
+        },
+        "Weights": {
+            "Breakout force maximum": "9597 lbs/ft",
+            "Lifting force maximum": "4292 lbs (1,947 kg)",
+            "Operating weight": "7496 lbs (3,400 kg)"
+        }
+    }
+}

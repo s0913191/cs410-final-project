@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/daedong/dk551c/30751661",
+    "source_url_id": "30751661",
+    "source_url_model": "dk551c",
+    "source_url_make": "daedong",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:34.782957",
+    "equipment_category": "Tractors",
+    "equipment_make": "Daedong",
+    "equipment_model": "DK551(C)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.6 in (46 cm)",
+            "Height - Top of Cab": "8.2 ft (2 m)",
+            "Overall Length": "12.1 in (30 cm)",
+            "Tire Size": "front 9.5-20 rear 14.9-28",
+            "Wheelbase": "6.3 ft (2 m)",
+            "Width Outside Frame": "5.7 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "134.1 cu in (0 m)",
+            "Engine Model": "4A220TLXB",
+            "Gross Power": "54 hp (40 kw)",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "9.9 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2654.4 lbs (1,204 kg)",
+            "3 Point Hitch Type": "Cat I & I",
+            "Fuel Capacity": "18 gal (68 l)",
+            "Operating Weight": "5203 lbs (2,360 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "18.7 mph (29 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "synchronized shuttle"
+        }
+    }
+}

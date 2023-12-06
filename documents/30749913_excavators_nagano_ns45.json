@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/nagano/ns45/30749913",
+    "source_url_id": "30749913",
+    "source_url_model": "ns45",
+    "source_url_make": "nagano",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:16:42.798336",
+    "equipment_category": "Excavators",
+    "equipment_make": "Nagano",
+    "equipment_model": "NS45",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "11.8 ft (3 m)",
+            "Max Loading Height": "12.7 ft (4 m)",
+            "Max Reach Along Ground": "18.9 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "9.4 ft (3 m)",
+            "Shipping Height of Unit": "8.4 ft (2 m)",
+            "Shipping Length of Unit": "18.6 ft (5 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.3 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Length of Track on Ground": "6.3 ft (2 m)",
+            "Tail Swing Radius": "5.1 ft (2 m)",
+            "Width to Outside of Tracks": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "148.6 cu in (0 m)",
+            "Net Power": "43.2 hp (32 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Hydraulic Pump Flow Capacity": "15.9 gal/min (57 l/min)",
+            "Operating Weight": "9832.7 lbs (4,460 kg)"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.9 mph (3 kph)",
+            "Shoe Size": "15.8 in (38 cm)"
+        }
+    }
+}

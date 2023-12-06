@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/massey-ferguson/9895/30681799",
+    "source_url_id": "30681799",
+    "source_url_model": "9895",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:08.277444",
+    "equipment_category": "Combines",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "9895",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1350 rpm",
+            "Cleaning Fan Speed - Low": "500 rpm",
+            "Total Cleaning Area": "8292.6 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Overall Length": "32.7 ft (10 m)",
+            "Transport Height": "12.3 ft (4 m)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "763 cu in (0 m)",
+            "Engine Model": "CI3 ACERT",
+            "Number of Cylinders": "6",
+            "Power": "425 hp (317 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "350 bu",
+            "Unloading Discharge Height": "14.3 ft (4 m)",
+            "Unloading Speed": "4.5 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "230 gal (871 l)",
+            "Operating Weight w/o Attachment": "37700 lbs (17,101 kg)",
+            "Transmission Type": "Hydrostatic - 4 speed"
+        },
+        "Separating": {
+            "Separating Area": "2387.1 cu in (0 m)"
+        },
+        "Threshing": {
+            "Concave Area": "2712.6 cu in (0 m)",
+            "Rotor Diameter": "31.5 in (79 cm)",
+            "Rotor Length": "140 in (356 cm)"
+        }
+    }
+}

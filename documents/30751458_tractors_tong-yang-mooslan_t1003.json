@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/tong-yang-mooslan/t1003/30751458",
+    "source_url_id": "30751458",
+    "source_url_model": "t1003",
+    "source_url_make": "tong-yang-mooslan",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:56.031443",
+    "equipment_category": "Tractors",
+    "equipment_make": "Tong Yang Mooslan",
+    "equipment_model": "T1003",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Overall Length": "13.5 in (33 cm)",
+            "Tire Size": "front 13.6-24-8PR rear 16.9-34-8PR",
+            "Wheelbase": "7.6 ft (2 m)",
+            "Width Outside Frame": "7.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.4 cu in (0 m)",
+            "Engine Model": "3054C-DIT",
+            "Gross Power": "99.2 hp (74 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "88.2 hp (66 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "22.1 gal/min (83 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5489.6 lbs (2,490 kg)",
+            "3 Point Hitch Type": "Cat II",
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "3 gal (11 l)",
+            "Engine Oil Capacity": "1.8 gal (4 l)",
+            "Fuel Capacity": "33.1 gal (125 l)",
+            "Hydraulic System Fluid Capacity": "19.9 gal (72 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8124.1 lbs (3,685 kg)",
+            "Turning Radius": "12.2 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "32",
+            "Number of Reverse Gears": "32",
+            "Transmission Type": "sync/power shuttle"
+        }
+    }
+}

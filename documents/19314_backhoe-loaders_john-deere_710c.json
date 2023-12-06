@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/john-deere/710c/19314",
+    "source_url_id": "19314",
+    "source_url_model": "710c",
+    "source_url_make": "john-deere",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:36.015079",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "710C",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "9600 lbs (4,355 kg)",
+            "Bucket Dig Force - Extended": "6700 lbs (3,039 kg)",
+            "Dig Depth": "18 ft (5 m)",
+            "Dig Depth - Extended": "22.8 ft (7 m)",
+            "Load Height": "13.2 ft (4 m)",
+            "Load Height - Extended": "15 ft (5 m)",
+            "Reach at Load Height - Extended": "31.2 ft (9 m)",
+            "Reach From Swivel": "22.7 ft (7 m)",
+            "Reach From Swivel - Extended": "15 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height to Top of Suspended Cab": "8.9 ft (2 m)",
+            "Transport Length": "26.7 ft (8 m)",
+            "Transport Width": "8.1 ft (2 m)",
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "6059T",
+            "Gross Power": "120 hp (89 kw)",
+            "Net Max Torque": "343 lbs/ft",
+            "Net Power": "115 hp (86 kw)",
+            "Net Torque Rise": "0.25",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "53 gal/min (201 l/min)",
+            "Pump Type": "Radial pistons",
+            "Relief Valve Pressure": "2550 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "13560 lbs (6,151 kg)",
+            "Bucket Capacity": "1.8 cu yds (1 m)",
+            "Bucket Width": "96 in (244 cm)",
+            "Clearance at Max Dump Height": "9.6 ft (3 m)",
+            "Dig Depth": "4 in (10 cm)",
+            "Lift Capacity": "3300 lbs (1,497 kg)",
+            "Reach at Max Dump Height": "2.5 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "78  A",
+            "Cooling System Fluid Capacity": "6.9 gal (23 l)",
+            "Fuel Capacity": "37 gal (140 l)",
+            "Hydraulic System Fluid Capacity": "40 gal (151 l)",
+            "Max Weight": "22500 lbs (10,206 kg)",
+            "Oil System Fluid Capacity": "5.1 gal (19 l)",
+            "Operating Voltage": "12 V V",
+            "Rear Axle Fluid Capacity": "4.5 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "14.5/75-16.1,10PR F3",
+            "Transmission Fluid Capacity": "6 gal (23 l)",
+            "Turning Radius": "14.4 ft (4 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "21L-24,16PR R4/20.5-25,12PR R4"
+        },
+        "Transmission": {
+            "Max Speed": "21 mph (34 kph)",
+            "Max Speed - Reverse": "6.6 mph (10 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Powershift with modulated full power shifting between forward and reverse"
+        }
+    }
+}

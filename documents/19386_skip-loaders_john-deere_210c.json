@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skip-loaders/john-deere/210c/19386",
+    "source_url_id": "19386",
+    "source_url_model": "210c",
+    "source_url_make": "john-deere",
+    "source_url_category": "skip-loaders",
+    "source_date_scraped": "2023-09-13 16:41:02.515113",
+    "equipment_category": "Skip Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "210C",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "9600 lbs (4,355 kg)",
+            "Bucket Dig Force - Extended": "9600 lbs (4,355 kg)",
+            "Dig Depth": "13.8 ft (4 m)",
+            "Dig Depth - Extended": "17.7 ft (5 m)",
+            "Load Height": "10.5 ft (3 m)",
+            "Load Height - Extended": "12.4 ft (4 m)",
+            "Reach From Swivel": "17.3 ft (5 m)",
+            "Reach From Swivel - Extended": "20.9 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height to Top of Suspended Cab": "8.5 ft (2 m)",
+            "Transport Length": "23 ft (7 m)",
+            "Transport Width": "7.6 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Naturally aspirated",
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "4-239D",
+            "Gross Power": "58 hp (43 kw)",
+            "Net Max Torque": "158 lbs/ft",
+            "Net Power": "55 hp (41 kw)",
+            "Net Torque Rise": "0.2",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "24 gal/min (91 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "6800 lbs (3,085 kg)",
+            "Bucket Capacity": "1 cu yds (1 m)",
+            "Bucket Width": "89 in (226 cm)",
+            "Dig Depth": "1 in (3 cm)",
+            "Lift Capacity": "2400 lbs (1,089 kg)",
+            "Reach at Max Dump Height": "2.5 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "51  A",
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "23 gal (87 l)",
+            "Hydraulic System Fluid Capacity": "16 gal (61 l)",
+            "Max Weight": "10500 lbs (4,763 kg)",
+            "Oil System Fluid Capacity": "2.3 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 2wd": "10500 lbs (4,763 kg)",
+            "Operating Weight 4wd": "10500 lbs (4,763 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.50-16,10PR,F3;11L-15,8PR,I-1A/12.00-16.5,8PR,R4",
+            "Transmission Fluid Capacity": "1.9 gal (4 l)",
+            "Turning Radius": "9.4 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9-24,6PR,R4;16.9-24,6PR,R3;17.5L-24,8PR,R4/16.9-24,8PR,R4"
+        },
+        "Transmission": {
+            "Max Speed": "22.4 mph (35 kph)",
+            "Max Speed - Reverse": "22.3 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Manual shift"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yto/dfh-1004/30751855",
+    "source_url_id": "30751855",
+    "source_url_model": "dfh-1004",
+    "source_url_make": "yto",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:59.660094",
+    "equipment_category": "Tractors",
+    "equipment_make": "YTO",
+    "equipment_model": "DFH-1004",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.6 in (46 cm)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Overall Length": "15.4 in (38 cm)",
+            "Width Outside Frame": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "DFH LR6105T10",
+            "Net Power": "98.6 hp (73 kw)",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "10097.2 lbs (4,580 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "18.3 mph (29 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

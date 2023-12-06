@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/field-cultivators/sunflower/5054-53/30752950",
+    "source_url_id": "30752950",
+    "source_url_model": "5054-53",
+    "source_url_make": "sunflower",
+    "source_url_category": "field-cultivators",
+    "source_date_scraped": "2023-09-13 17:05:14.635021",
+    "equipment_category": "Field Cultivators",
+    "equipment_make": "Sunflower",
+    "equipment_model": "5054-53",
+    "equipment_spec": {
+        "Dimensions": {
+            "Transport Height": "15 ft (5 m)",
+            "Transport Width": "20.4 ft (6 m)",
+            "Under Frame Clearance": "24 in (61 cm)",
+            "Wing Tires": "11L x 15 tubeless tires"
+        },
+        "Frame": {
+            "Inner Wing Width": "11 ft (3 m)",
+            "Main Frame Width": "14 ft (4 m)",
+            "Max Working Width": "53.3 ft (16 m)",
+            "Min Working Width": "53.3 ft (16 m)",
+            "Outer Wing Width": "9 ft (3 m)",
+            "Spacing Option 1": "9 in (23 cm)"
+        },
+        "Operating Specifications": {
+            "Operational Weight": "16642 lbs (7,549 kg)"
+        },
+        "Tires": {
+            "Tires": "12.5L x 15 tubeless tires"
+        }
+    }
+}

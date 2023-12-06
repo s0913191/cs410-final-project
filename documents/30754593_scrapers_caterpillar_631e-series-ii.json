@@ -1,0 +1,127 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/caterpillar/631e-series-ii/30754593",
+    "source_url_id": "30754593",
+    "source_url_model": "631e-series-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:34.620950",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "631E Series II",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "31 cu yds (24 m)",
+            "Max Depth of Cut": "17.3 in (43 cm)",
+            "Rated Payload": "75001.3 lbs (34,020 kg)",
+            "Struck Capacity": "21.1 cu yds (16 m)",
+            "Width of Cut": "11.6 ft (3 m)"
+        },
+        "Dimensions": {
+            "Front of Tractor to Front Axle": "132.3 in (335 cm)",
+            "Height - Overall Shipping": "168.8 in (427 cm)",
+            "Height - Scraper Blade Maximum": "21.5 in (53 cm)",
+            "Height - Top of Cab": "12.2 ft (4 m)",
+            "Length - Overall Machine": "573.3 in (1,455 cm)",
+            "Overall Height": "14.1 ft (4 m)",
+            "Overall Length": "47.8 ft (14 m)",
+            "Overall Width": "13 ft (4 m)",
+            "Rear Axle - Rear of Machine": "95.8 in (241 cm)",
+            "Wheel Base": "28.8 ft (9 m)",
+            "Wheelbase": "28.8 ft (9 m)",
+            "Width - Inside of Bowl": "134 in (340 cm)",
+            "Width - Outside Rear Tires": "143.1 in (363 cm)",
+            "Width - Overall Machine": "155 in (394 cm)",
+            "Width - Rear Tire Center Lines": "97 in (246 cm)",
+            "Width - Tractor": "137 in (348 cm)"
+        },
+        "Engine": {
+            "Tractor Engine": "3408E"
+        },
+        "Hydraulic System": {
+            "Apron Cylinder Bore": "8.3 in (20 cm)",
+            "Apron Cylinder Stroke": "28.6 in (71 cm)",
+            "Bowl Cylinder Bore": "7.3 in (18 cm)",
+            "Bowl Cylinder Stroke": "34.4 in (86 cm)",
+            "Compensator Settings - Cushion Hitch Circuit": "2300.01 psi",
+            "Cushion Hitch Circuit": "10 gal/min (38 l/min)",
+            "Ejector Cylinder Bore": "8.3 in (20 cm)",
+            "Ejector Cylinder Stroke": "74 in (188 cm)",
+            "Relief Valve - Implement Circuit": "2000 psi",
+            "Relief Valve - Steering Circuit": "1960 psi",
+            "Scraper Circuit": "95 gal/min (360 l/min)",
+            "Secondary Steering Circuit": "77 gal/min (291 l/min)",
+            "Steering Circuit": "105 gal/min (397 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "215.1 gal (814 l)"
+        },
+        "Scraper Bowl": {
+            "Apron Closure Force": "38250 lbs (17,350 kg)",
+            "Apron Opening": "79 in (201 cm)",
+            "Capacity - Struck": "21 cu yds (16 m)",
+            "Cutting Edge Thickness": "1.4 in (3 cm)",
+            "Depth of Cut - Maximum": "17 in (43 cm)",
+            "Depth of Spread - Maximum": "18.8 in (46 cm)",
+            "Ground Clearance - Maximum": "21.5 in (53 cm)",
+            "Hyd. Penetration Force - 621G": "57375 lbs (26,025 kg)",
+            "Rated Load": "75000 lbs (34,020 kg)",
+            "Scraper Capacity - Heaped": "31 cu yds (24 m)",
+            "Width - Cut - To Router Bits": "138.3 in (351 cm)"
+        },
+        "Service Refill Capacities - Tractor": {
+            "Cooling System": "33 gal (125 l)",
+            "Crankcase": "11.7 gal (42 l)",
+            "Differential": "36 gal (136 l)",
+            "Final Drive - Each": "7 gal (27 l)",
+            "Hydraulic Reservoir": "50 gal (189 l)",
+            "Transmission": "33 gal (125 l)",
+            "Wheel Coolant - Each": "19.5 gal (72 l)"
+        },
+        "Steering System": {
+            "Ground-Driven Secondary Steering System": "52 gal/min (197 l/min)",
+            "Hydraulic Output": "96.2 gal/min (363 l/min)",
+            "Steering Angle - Left": "85  \t\u00b0",
+            "Steering Angle - Right": "90  \t\u00b0",
+            "Width - 180 degrees Turn": "40.1 ft (12 m)"
+        },
+        "Tractor Engine": {
+            "Bore": "5.4 in (13 cm)",
+            "Caterpillar Net Power": "490 hp (365 kw)",
+            "Displacement": "1099 cu in (0 m)",
+            "EEC 80/1269": "490 hp (365 kw)",
+            "Gross Power": "490 hp (365 kw)",
+            "ISO 9249": "490 hp (365 kw)",
+            "Model": "3408TA",
+            "Net Power": "450 hp (336 kw)",
+            "SAE J1349": "485 hp (362 kw)",
+            "Stroke": "6 in (15 cm)"
+        },
+        "Transmission": {
+            "1 Forward": "2.9 mph (3 kph)",
+            "2 Forward": "5.2 mph (8 kph)",
+            "3 Forward": "7.4 mph (11 kph)",
+            "4 Forward": "10 mph (16 kph)",
+            "5 Forward": "13.4 mph (21 kph)",
+            "6 Forward": "18.2 mph (29 kph)",
+            "7 Forward": "24.5 mph (39 kph)",
+            "8 Forward": "33.2 mph (53 kph)",
+            "Max Speed Forward": "33 mph (53 kph)",
+            "Reverse": "6.2 mph (10 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "97459 lbs (44,207 kg)",
+            "Total Operating - empty": "97466.4 lbs (44,210 kg)"
+        },
+        "Weights - Standard, Tandem": {
+            "Front Axle": "65201 lbs (29,575 kg)",
+            "Front Axle Weight - Loaded": "91576 lbs (41,539 kg)",
+            "Rear Axle": "32259 lbs (14,633 kg)",
+            "Rear Axle - Weight - Loaded": "80884 lbs (36,689 kg)",
+            "Scraper Shipping": "51939 lbs (23,559 kg)",
+            "Total Operating - Empty": "97459 lbs (44,207 kg)",
+            "Total Operating - Loaded": "172459 lbs (78,227 kg)",
+            "Total Shipping": "96182 lbs (43,628 kg)",
+            "Tractor Shipping": "44243 lbs (20,069 kg)"
+        }
+    }
+}

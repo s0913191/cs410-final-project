@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tm9120/12923",
+    "source_url_id": "12923",
+    "source_url_model": "tm9120",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:37.221383",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TM9120",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "130 ft (40 m)",
+            "Max Lift Capacity": "240000 lbs (108,863 kg)",
+            "Max Working Radius": "120 ft (37 m)",
+            "Min Height @ Max Raise Angle": "42 ft (13 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "854.4 cu in (0 m)",
+            "Gross Power": "460 hp (343 kw)",
+            "Make": "Grove",
+            "Max Torque": "1550 lbs/ft",
+            "Model": "N14-460E",
+            "Number of cylinders": "6",
+            "Power Measured @": "1600 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "40.8 ft (12 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "50.5 ft (15 m)",
+            "Transport Width": "11 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "14.6 ft (4 m)",
+            "Wheelbase": "20 ft (6 m)",
+            "Width w/ Outriggers Extended": "27.6 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "100 gal (379 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "109500 lbs (49,669 kg)",
+            "Tire Size": "14.00R24",
+            "Upper Structure Hydraulic System Fluid Capacity": "280 gal (1,060 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "50 mph (80 kph)",
+            "Number of Forward Gears": "10",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Roadranger"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Gross Power": "250 hp (186 kw)",
+            "Make": "Grove",
+            "Max Torque": "716 lbs/ft",
+            "Model": "6CTA8.3",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        }
+    }
+}

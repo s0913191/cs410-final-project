@@ -1,0 +1,91 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ecr88d/39256",
+    "source_url_id": "39256",
+    "source_url_model": "ecr88d",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:14.498853",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "ECR88D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "22.3 ft (7 m)",
+            "Max Digging Depth": "13.6 ft (4 m)",
+            "Max Digging Reach": "22.9 ft in (56 cm)",
+            "Max Digging Reach on Ground": "22.4 ft (7 m)",
+            "Max Reach Along Ground": "24.1 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "9.3 ft (3 m)",
+            "Max.Dumping Height": "16.3 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "23.2 ft (7 m)",
+            "Max Digging Depth": "14.9 ft (4 m)",
+            "Max Digging Reach": "24.2 ft (7 m)",
+            "Max Digging Reach on Ground": "23.6 ft (7 m)",
+            "Max Vertical Wall Digging Depth": "10.5 ft (3 m)",
+            "Max.Dumping Height": "17.2 ft (5 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.5 cu yds (0 m)"
+        },
+        "Capacities": {
+            "Engine Oil": "2.7 gal (8 l)",
+            "Hydraulic system": "9.8 gal (34 l)",
+            "Hydraulic Tank": "5.9 gal (19 l)",
+            "Travel reduction": "0.9 gal (0 l)"
+        },
+        "Dimensions": {
+            "Counterweight Clearance": "2.5 ft (1 m)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Overall length": "20.9 ft (6 m)",
+            "Overall Width": "7.6 ft in (18 cm)",
+            "Shoe width": "1.5 ft (0 m)",
+            "Tail Swing Radius": "4.3 ft (1 m)",
+            "Track Gauge": "6.1 ft (2 m)",
+            "Track length": "111.5 in (282 cm)"
+        },
+        "Electrical System": {
+            "Battery": "100(Ah)",
+            "Voltage": "12V"
+        },
+        "Engine": {
+            "Bore": "0.2 in (0 cm)",
+            "Displacement": "159.9 cu in (0 m)",
+            "Engine Model": "D2.6H",
+            "Fuel tank": "7.7 gal (27 l)",
+            "Gross Power": "58 hp (43 kw)",
+            "Max Power": "2000 rpm",
+            "Max Torque": "162.3 lbs/ft",
+            "Net Power": "55 hp (41 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Rated engine speed": "1300 rpm",
+            "Stroke": "0.2 in (0 cm)"
+        },
+        "Hydraulic System": {
+            "Main pump - Maximum flow": "44.7 gal/min (167 l/min)"
+        },
+        "Loader": {
+            "Breakout Force": "12860 (IBF)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13 gal (49 l)",
+            "Operating Weight": "6012 lbs (2,727 kg)"
+        },
+        "Performance": {
+            "Gradeability": "35%"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.3 rpm",
+            "Swing Torque": "16890 lbs/ft"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "14612.6 lbs (6,628 kg)",
+            "Number of bottom rollers per side": "2X5",
+            "Number of top rollers per side": "2X1",
+            "Shoe width - rubber": "17.8 in (43 cm)",
+            "Shoe Width - Steel": "450/600 in, (177/236 mm)"
+        }
+    }
+}

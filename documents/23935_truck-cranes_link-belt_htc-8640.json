@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/link-belt/htc-8640/23935",
+    "source_url_id": "23935",
+    "source_url_model": "htc-8640",
+    "source_url_make": "link-belt",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:00.354592",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HTC-8640",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "105 ft (32 m)",
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "117.5 ft (36 m)",
+            "Max Lift Capacity": "40 t (36,287 kg)",
+            "Max Working Radius": "90 ft (27 m)",
+            "Min Height @ Max Raise Angle": "42 ft (13 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "762.8 cu in (0 m)",
+            "Gross Power": "365 hp (272 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "1350 lbs/ft",
+            "Model": "C13",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "37 ft (11 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Transport Height": "11.6 ft (3 m)",
+            "Transport Length": "43.6 ft (13 m)",
+            "Transport Width": "8.5 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "12.8 ft (4 m)",
+            "Width w/ Outriggers Extended": "20.6 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "135  A",
+            "Carrier Fuel Capacity": "75 gal (284 l)",
+            "Carrier Hydraulic System Fluid Capacity": "144.1 gal (545 l)",
+            "Carrier Oil Capacity": "10.6 gal (38 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "65605 lbs (29,758 kg)",
+            "Tire Size": "front 425/65R22.5, rear 11R22.5"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "60.7 mph (97 kph)",
+            "Max Speed - Reverse": "5.4 mph (8 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "manual transmission"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Link-Belt"
+        }
+    }
+}

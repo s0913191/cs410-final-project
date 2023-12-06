@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc240-6/22093",
+    "source_url_id": "22093",
+    "source_url_model": "pc240-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:10:41.009110",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC240-6",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "29.8 ft (9 m)",
+            "Max Digging Depth": "19.3 ft (6 m)",
+            "Max Loading Height": "20.1 ft (6 m)",
+            "Max Reach Along Ground": "29.9 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "15.8 ft (5 m)",
+            "Shipping Height of Unit": "9.9 ft (3 m)",
+            "Shipping Length of Unit": "32 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "30.1 ft (9 m)",
+            "Max Digging Depth": "20.9 ft (6 m)",
+            "Max Loading Height": "20.4 ft (6 m)",
+            "Max Reach Along Ground": "31.1 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "16.9 ft (5 m)",
+            "Shipping Height of Unit": "10.7 ft (3 m)",
+            "Shipping Length of Unit": "32.3 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "30.8 ft (9 m)",
+            "Max Digging Depth": "22.8 ft (7 m)",
+            "Max Loading Height": "21.4 ft (6 m)",
+            "Max Reach Along Ground": "32.9 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "19.8 ft (6 m)",
+            "Shipping Height of Unit": "10.4 ft (3 m)",
+            "Shipping Length of Unit": "32.1 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "31.7 ft (9 m)",
+            "Max Digging Depth": "24.2 ft (7 m)",
+            "Max Loading Height": "22.2 ft (7 m)",
+            "Max Reach Along Ground": "34.2 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "21.4 ft (6 m)",
+            "Shipping Length of Unit": "32.2 ft (10 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.8 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.7 cu yds (0 m)",
+            "Reference Bucket Capacity": "1.5 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Length of Track on Ground": "11.4 ft (3 m)",
+            "Removal Counterweight Clearance": "3.6 ft (1 m)",
+            "Tail Swing Radius": "9.4 ft (3 m)",
+            "Width to Outside of Tracks": "9.8 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "358.9 cu in (0 m)",
+            "Engine Model": "SA6D102",
+            "Net Power": "158.3 hp (118 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "81.9 gal (307 l)",
+            "Hydraulic Pump Flow Capacity": "113.6 gal/min (428 l/min)",
+            "Hydraulic System Fluid Capacity": "43.9 gal (163 l)",
+            "Hydraulic System Relief Valve Pressure": "5050 psi",
+            "Operating Weight": "51808.7 lbs (23,500 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.5 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.3 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

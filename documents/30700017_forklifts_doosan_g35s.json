@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/doosan/g35s/30700017",
+    "source_url_id": "30700017",
+    "source_url_model": "g35s",
+    "source_url_make": "doosan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:26:26.294252",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Doosan",
+    "equipment_model": "G35S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Overhead Guard": "7.4 ft (2 m)",
+            "Length to Fork Face": "10.1 ft (3 m)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Turning Radius": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "262.5 cu in (0 m)",
+            "Engine Model": "Vortec",
+            "Fuel Type": "LP",
+            "Power": "88.7 hp (66 kw)"
+        },
+        "MAST": {
+            "Load Capacity": "8000 lbs (3,629 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "13.7 mph (21 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

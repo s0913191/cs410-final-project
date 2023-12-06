@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/3625ht/30672866",
+    "source_url_id": "30672866",
+    "source_url_model": "3625ht",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:47.281753",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "3625HT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "20.9 in (51 cm)",
+            "Overall Width": "7.7 ft (2 m)"
+        },
+        "Drum": {
+            "Drum Width": "87.5 in (221 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Med High": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "BF6M1013EC",
+            "Gross Power": "233.4 hp (174 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Operating Weight": "55027.4 lbs (24,960 kg)"
+        }
+    }
+}

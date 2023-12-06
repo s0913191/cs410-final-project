@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/sumitomo/sh800lhd-3/30748509",
+    "source_url_id": "30748509",
+    "source_url_model": "sh800lhd-3",
+    "source_url_make": "sumitomo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:18:53.994124",
+    "equipment_category": "Excavators",
+    "equipment_make": "Sumitomo",
+    "equipment_model": "SH800LHD-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "42.4 ft (13 m)",
+            "Max Digging Depth": "28.6 ft (9 m)",
+            "Max Loading Height": "29.3 ft (9 m)",
+            "Max Reach Along Ground": "46.4 ft (14 m)",
+            "Max Vertical Wall Digging Depth": "21.2 ft (6 m)",
+            "Shipping Height of Unit": "15.8 ft (5 m)",
+            "Shipping Length of Unit": "46.4 ft (14 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "44.7 ft (13 m)",
+            "Max Digging Depth": "29.6 ft (9 m)",
+            "Max Loading Height": "28.9 ft (9 m)",
+            "Max Reach Along Ground": "46.6 ft (14 m)",
+            "Shipping Height of Unit": "16.6 ft (5 m)",
+            "Shipping Length of Unit": "42.7 ft (13 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "4.4 cu yds (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3 ft (1 m)",
+            "Height - Top of Cab": "15.8 ft (5 m)",
+            "Length of Track on Ground": "16.7 ft (5 m)",
+            "Tail Swing Radius": "13.5 ft (4 m)",
+            "Width to Outside of Tracks": "14.4 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "957 cu in (0 m)",
+            "Engine Model": "BB-6WG1X",
+            "Net Power": "443.9 hp (330 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "237.8 gal (897 l)",
+            "Hydraulic System Fluid Capacity": "190.3 gal (719 l)",
+            "Hydraulic System Relief Valve Pressure": "4554.2 psi",
+            "Operating Weight": "172842.5 lbs (78,401 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "7.6 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "15.6 psi",
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Shoe Size": "25.6 in (64 cm)",
+            "Track Gauge": "12.2 ft (4 m)"
+        }
+    }
+}

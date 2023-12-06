@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/317b-ln/3334",
+    "source_url_id": "3334",
+    "source_url_model": "317b-ln",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:51.111751",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "317B LN",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "28.1 ft (9 m)",
+            "Max Digging Depth": "17.3 ft (5 m)",
+            "Max Loading Height": "19.6 ft (6 m)",
+            "Max Reach Along Ground": "26.3 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "13.2 ft (4 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "28.1 ft (9 m)",
+            "Max Digging Depth": "18.6 ft (5 m)",
+            "Max Loading Height": "19.7 ft (6 m)",
+            "Max Reach Along Ground": "27.2 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "13.7 ft (4 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "29.4 ft (9 m)",
+            "Max Digging Depth": "19.8 ft (6 m)",
+            "Max Loading Height": "20.9 ft (6 m)",
+            "Max Reach Along Ground": "28.6 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "16.4 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "295.3 ft (90 m)",
+            "Max Digging Depth": "21.4 ft (6 m)",
+            "Max Loading Height": "21.2 ft (6 m)",
+            "Max Reach Along Ground": "29.9 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "17 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Length of Track on Ground": "10.8 ft (3 m)",
+            "Removal Counterweight Clearance": "3.4 ft (1 m)",
+            "Tail Swing Radius": "8.1 ft (2 m)",
+            "Width to Outside of Tracks": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "305.2 cu in (0 m)",
+            "Engine Model": "3046T",
+            "Net Power": "109 hp (81 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "74 gal (280 l)",
+            "Hydraulic Pump Flow Capacity": "69.8 gal/min (261 l/min)",
+            "Hydraulic System Fluid Capacity": "49.7 gal (185 l)",
+            "Hydraulic System Relief Valve Pressure": "4970 psi",
+            "Operating Weight": "38140 lbs (17,300 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "34650 lbs (15,717 kg)",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Shoe Size": "19.7 in (48 cm)",
+            "Track Gauge": "6.6 ft (2 m)"
+        }
+    }
+}

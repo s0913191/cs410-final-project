@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt9130e/12994",
+    "source_url_id": "12994",
+    "source_url_model": "rt9130e",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:41.134042",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT9130E",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "279 ft (85 m)",
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "160 ft (49 m)",
+            "Max Lift Capacity": "260000 lbs (117,935 kg)",
+            "Max Operating Radius": "140 ft (43 m)",
+            "Min Height @ Max Raise Angle": "42 ft (13 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2.5 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "32 ft (10 m)",
+            "Transport Height": "13.7 ft (4 m)",
+            "Transport Length": "51.4 ft (16 m)",
+            "Upper Structure Tail Swing Radius": "14.4 ft (4 m)",
+            "Wheelbase": "16.3 in (41 cm)",
+            "Width w/ Outriggers Extended": "27.9 ft (8 m)"
+        },
+        "Engine": {
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Model": "QSC8.3L diesel",
+            "Gross Power": "300.4 hp (224 kw)",
+            "Max Torque": "1000.2 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum operating pressure": "4800.8 psi",
+            "Pump Flow Capacity": "776 gal/min (2,937 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "100.2 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "325 gal (1,230 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "174034 lbs (78,941 kg)",
+            "Tire Size": "33.25x29-38bias"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "15 mph (24 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full powershift"
+        },
+        "Weights": {
+            "counterweight": "40000.7 lbs (18,144 kg)"
+        }
+    }
+}

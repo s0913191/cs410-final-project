@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/fendt/207-v/30751187",
+    "source_url_id": "30751187",
+    "source_url_model": "207-v",
+    "source_url_make": "fendt",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:16:16.107585",
+    "equipment_category": "Tractors",
+    "equipment_make": "Fendt",
+    "equipment_model": "207 V",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "7.2 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "7.7 ft (2 m)",
+            "Overall Length": "11.3 in (28 cm)",
+            "Overall Width": "3.6 ft (1 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "197.5 cu in (0 m)",
+            "Gross Power": "72.5 hp (54 kw)",
+            "Max Torque": "194.8 lbs/ft",
+            "Net Power": "68.4 hp (51 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "19.6 gal/min (72 l/min)",
+            "Relief Valve Setting": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "18.5 gal (68 l)",
+            "Operating Weight": "4850.2 lbs (2,200 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "21.8 mph (34 kph)",
+            "Number of Forward Gears": "20",
+            "Number of Reverse Gears": "6"
+        }
+    }
+}

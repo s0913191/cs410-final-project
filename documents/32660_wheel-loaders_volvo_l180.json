@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l180/32660",
+    "source_url_id": "32660",
+    "source_url_model": "l180",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:40.135012",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L180",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "18.4 cu yds (14 m)"
+        },
+        "Engine": {
+            "Engine Model": "TD 122 KHE",
+            "Gross Power": "289 hp (216 kw)",
+            "Net Power": "275 hp (205 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1100 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "62831.8 lbs (28,500 kg)",
+            "Static Tipping Weight": "40102.1 lbs (18,190 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.9 mph (34 kph)"
+        }
+    }
+}

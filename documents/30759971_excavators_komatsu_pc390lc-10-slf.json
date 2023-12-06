@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc390lc-10-slf/30759971",
+    "source_url_id": "30759971",
+    "source_url_model": "pc390lc-10-slf",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:11:43.962262",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC390LC-10 SLF",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "40.3 ft (12 m)",
+            "Max Reach Along Ground": "59.5 ft (18 m)"
+        },
+        "Engine": {
+            "Net Power": "257 hp (192 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "91540 lbs (41,522 kg)"
+        }
+    }
+}

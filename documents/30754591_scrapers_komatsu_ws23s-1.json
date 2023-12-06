@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/scrapers/komatsu/ws23s-1/30754591",
+    "source_url_id": "30754591",
+    "source_url_model": "ws23s-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "scrapers",
+    "source_date_scraped": "2023-09-13 16:35:59.783755",
+    "equipment_category": "Scrapers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WS23S-1",
+    "equipment_spec": {
+        "Bowl": {
+            "Heaped Capacity": "31.4 cu yds (24 m)",
+            "Max Depth of Cut": "35.5 in (89 cm)",
+            "Rated Payload": "74957.2 lbs (34,000 kg)",
+            "Struck Capacity": "21 cu yds (16 m)",
+            "Width of Cut": "11.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.6 ft (3 m)",
+            "Overall Height": "15.6 ft (5 m)",
+            "Overall Length": "44.2 ft (13 m)",
+            "Overall Width": "12.2 ft (4 m)",
+            "Tractor Ground Clearance": "1.7 ft (0 m)",
+            "Wheelbase": "27.6 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "37 gal (140 l)",
+            "Differential Fluid Capacity": "13.3 gal (49 l)",
+            "Engine Oil Fluid Capacity": "19.1 gal (72 l)",
+            "Fuel Capacity": "224.6 gal (848 l)",
+            "Tire Size": "33.5-33-32PR",
+            "Transmission Fluid Capacity": "18.5 gal (68 l)"
+        },
+        "Tractor Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "1150 cu in (0 m)",
+            "Gross Power": "438 hp (327 kw)",
+            "Make": "Komatsu",
+            "Model": "KT1150"
+        },
+        "Transmission": {
+            "Max Speed Forward": "32.4 mph (51 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "1",
+            "Transmission Type": "planetary gear"
+        },
+        "Weights": {
+            "Front Axel - loaded": "84514.3 lbs (38,335 kg)",
+            "Front Axle - empty": "51945.4 lbs (23,562 kg)",
+            "Rear Axle - empty": "26759.8 lbs (12,138 kg)",
+            "Rear Axle - loaded": "69148 lbs (31,365 kg)",
+            "Total Operating - empty": "78705.1 lbs (35,700 kg)",
+            "Total Operating - Loaded": "153662.3 lbs (69,701 kg)"
+        }
+    }
+}

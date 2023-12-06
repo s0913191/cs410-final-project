@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/yto/dfh-1002/30750971",
+    "source_url_id": "30750971",
+    "source_url_model": "dfh-1002",
+    "source_url_make": "yto",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:50:58.208928",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "YTO",
+    "equipment_model": "DFH-1002",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)"
+        },
+        "Engine": {
+            "Engine Model": "LR6105T8",
+            "Gross Power": "99.3 hp (74 kw)",
+            "Net Power": "83.9 hp (62 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16093.8 lbs (7,300 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.6 mph (10 kph)",
+            "Max Speed - Reverse": "3.4 mph (5 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "7.5 psi"
+        }
+    }
+}

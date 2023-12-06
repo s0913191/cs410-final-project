@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hyundai/robex-55-3/15038",
+    "source_url_id": "15038",
+    "source_url_model": "robex-55-3",
+    "source_url_make": "hyundai",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:03:44.052386",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hyundai",
+    "equipment_model": "ROBEX 55-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "12 ft (4 m)",
+            "Digging Reach": "12 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "11910 lbs (5,402 kg)"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/volvo/fh16-6x4-t-ride-2005/30759350",
+    "source_url_id": "30759350",
+    "source_url_model": "fh16-6x4-t-ride-2005",
+    "source_url_make": "volvo",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:57:29.223769",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "FH16 6x4 T-ride (2005)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "11 ft (3 m)",
+            "Number of Rear Axles": "2",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tire Size": "front: 315/80R22.5, rear: 315/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length From Center of Rear Axle(s) to End of Frame": "31.7 in (79 cm)",
+            "Overall Length": "22.1 ft (7 m)",
+            "Total Chassis Weight": "20789.6 lbs (9,430 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "25.1 ft (8 m)",
+            "Wheelbase": "126 in (320 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length From Center of Rear Axle(s) to End of Frame": "31.7 in (79 cm)",
+            "Overall Length": "22.8 ft (7 m)",
+            "Total Chassis Weight": "20833.7 lbs (9,450 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "25.6 ft (8 m)",
+            "Wheelbase": "133.9 in (338 cm)"
+        },
+        "Wheelbase Cab Chassis Option 3": {
+            "Length From Center of Rear Axle(s) to End of Frame": "31.7 in (79 cm)",
+            "Overall Length": "23.5 ft (7 m)",
+            "Total Chassis Weight": "20899.9 lbs (9,480 kg)",
+            "Total GVW": "57320.2 lbs (26,000 kg)",
+            "Turning Radius": "28.9 ft (9 m)",
+            "Wheelbase": "141.8 in (358 cm)"
+        }
+    }
+}

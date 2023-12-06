@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/case-ih/8120/30669912",
+    "source_url_id": "30669912",
+    "source_url_model": "8120",
+    "source_url_make": "case-ih",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:01:45.664113",
+    "equipment_category": "Combines",
+    "equipment_make": "Case Ih",
+    "equipment_model": "8120",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Self Leveling?": "Self Leveling"
+        },
+        "Dimensions": {
+            "Wheelbase": "148 ft (45 m)",
+            "Width Over Tires": "152 ft (46 m)"
+        },
+        "Engine": {
+            "Displacement": "30 cu in (0 m)",
+            "Engine Model": "Class VII",
+            "Power": "360 hp (268 kw)",
+            "Power Boost Power": "30 hp (22 kw)",
+            "Power Measured @": "415 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "750 bu"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "277 gal (1,048 l)",
+            "Number of Gears": "3",
+            "Operating Weight w/o Attachment": "35080 lbs (15,912 kg)"
+        },
+        "Threshing": {
+            "Rotor Diameter": "3 in (8 cm)",
+            "Rotor Length": "3 in (8 cm)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/new-holland/l230/26334",
+    "source_url_id": "26334",
+    "source_url_model": "l230",
+    "source_url_make": "new-holland",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:50.479368",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "L230",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "90 hp (67 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "3000 lbs (1,361 kg)",
+            "Operating Width": "76 in (193 cm)"
+        }
+    }
+}

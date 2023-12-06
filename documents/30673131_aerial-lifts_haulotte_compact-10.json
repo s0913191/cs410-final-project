@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/compact-10/30673131",
+    "source_url_id": "30673131",
+    "source_url_model": "compact-10",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:35.524173",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "COMPACT 10",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "5.2 in (13 cm)",
+            "Height w/ Rails": "7.5 ft (2 m)",
+            "Height w/o Rails": "3.8 ft (1 m)",
+            "Overall Length": "7.6 in (18 cm)",
+            "Overall Width": "4 ft (1 m)",
+            "Turning Radius": "8.3 ft (2 m)",
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "250",
+            "Charger Amps": "30",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Max Speed": "2.2 mph (3 kph)",
+            "Operating Weight": "5136.8 lbs (2,330 kg)",
+            "Tire Fill/Type": "solid/non marking",
+            "Tire Size": "15 x 5 x 2"
+        },
+        "Platform": {
+            "Deck Extension": "36.3 in (91 cm)",
+            "Lift Time": "51 sec",
+            "Lower Time": "42 sec",
+            "Max Platform Height": "26.8 ft (8 m)",
+            "Max Platform Weight Capacity": "992.1 lbs (450 kg)",
+            "Max Working Height": "33.3 ft (10 m)",
+            "Platform Inner Length": "90.6 in (229 cm)",
+            "Platform Inner Width": "47.3 in (119 cm)"
+        }
+    }
+}

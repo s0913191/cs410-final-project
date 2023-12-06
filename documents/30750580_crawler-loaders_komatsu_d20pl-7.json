@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/komatsu/d20pl-7/30750580",
+    "source_url_id": "30750580",
+    "source_url_model": "d20pl-7",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:34.162796",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D20PL-7",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "5.9 ft (2 m)",
+            "Length with Bucket on Ground": "8.3 ft (2 m)",
+            "Width to Outside of Tracks": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "169 cu in (0 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Max Speed": "4.7 mph (6 kph)",
+            "Operating Weight": "7826.5 lbs (3,550 kg)"
+        },
+        "Undercarriage": {
+            "Length of Track on Ground": "6 ft (2 m)",
+            "Track Gauge": "58.7 in (147 cm)"
+        }
+    }
+}

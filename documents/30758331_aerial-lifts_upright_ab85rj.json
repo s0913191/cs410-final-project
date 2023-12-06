@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/ab85rj/30758331",
+    "source_url_id": "30758331",
+    "source_url_model": "ab85rj",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:03.661796",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "AB85RJ",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Overall Height - mast lowered": "9.9 ft (3 m)",
+            "Overall Length": "42.7 in (107 cm)",
+            "Overall Width": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "F4L-2011",
+            "Gross Power": "64 hp (48 kw)"
+        },
+        "Performance": {
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "39099 lbs (17,735 kg)",
+            "Tire Fill/Type": "poly filled/lug",
+            "Tire Size": "15 x 625"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "62.1 ft (19 m)",
+            "Max Platform Height": "85.4 ft (26 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "91.9 ft (28 m)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "35.9 in (89 cm)",
+            "Platform Rotation": "150  \t\u00b0"
+        }
+    }
+}

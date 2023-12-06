@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/agrale/4230-industrial/30753541",
+    "source_url_id": "30753541",
+    "source_url_model": "4230-industrial",
+    "source_url_make": "agrale",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:00.010158",
+    "equipment_category": "Tractors",
+    "equipment_make": "Agrale",
+    "equipment_model": "4230 Industrial",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "4.2 ft (1 m)",
+            "Overall Length": "8.9 in (20 cm)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Wheelbase": "4.4 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "77.6 cu in (0 m)",
+            "Engine Model": "M 790",
+            "Gross Power": "26 hp (19 kw)",
+            "Max Torque": "47.3 lbs/ft",
+            "Number of Cylinders": "2",
+            "Power Measured @": "2600 rpm",
+            "Torque Measured @": "2250 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Operating Voltage": "14 V V",
+            "Operating Weight": "2866.1 lbs (1,300 kg)",
+            "Tire Size Front - 2wd / 4wd": "5.60x15",
+            "Turning Radius": "8.6 ft (2 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "9.00x20"
+        },
+        "Transmission": {
+            "Max Speed": "14.5 mph (23 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2"
+        }
+    }
+}

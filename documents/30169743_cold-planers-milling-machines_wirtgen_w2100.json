@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/wirtgen/w2100/30169743",
+    "source_url_id": "30169743",
+    "source_url_model": "w2100",
+    "source_url_make": "wirtgen",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:53:00.750674",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Wirtgen",
+    "equipment_model": "W2100",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Collecting Conveyor Width": "39.4 in (99 cm)",
+            "Discharge Conveyor Width": "39.4 in (99 cm)"
+        },
+        "Dimensions": {
+            "Max Operating Height": "16.2 ft (5 m)",
+            "Operating Length": "49.9 ft (15 m)",
+            "Shipping Height": "9.9 ft (3 m)",
+            "Shipping Length": "28.9 ft (9 m)",
+            "Shipping Width": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "1106.4 cu in (0 m)",
+            "Engine Model": "C18 ATAAC",
+            "Gross Power": "700 hp (522 kw)",
+            "Number of Cylinders": "8",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "343.5 gal (1,298 l)",
+            "Hydraulic System Fluid Capacity": "79.3 gal (299 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight - Full Load": "86200.8 lbs (39,100 kg)",
+            "Shipping Weight - Empty": "73854.9 lbs (33,500 kg)",
+            "Travel Speed": "3.2 mph (5 kph)",
+            "Water Spray System Fluid Capacity": "1188.8 gal (4,497 l)"
+        },
+        "Rotary Cutter": {
+            "Cutter Diameter": "42.6 in (107 cm)",
+            "Cutting Depth": "12.6 in (30 cm)",
+            "Cutting Width": "7.3 ft (2 m)",
+            "Number of Tools": "186",
+            "Tool Spacing": "0.6 in (0 cm)"
+        },
+        "Track": {
+            "Front Track Length": "6.6 ft (2 m)",
+            "Front Track Width": "13.8 in (33 cm)",
+            "Number of Track Units": "4",
+            "Rear Track Length": "6.6 ft (2 m)",
+            "Rear Track Width": "13.8 in (33 cm)"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/grove/rt522b/12845",
+    "source_url_id": "12845",
+    "source_url_model": "rt522b",
+    "source_url_make": "grove",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:25.782946",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "RT522B",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "78 ft (24 m)",
+            "Max Lift Capacity": "44000 lbs (19,958 kg)",
+            "Max Operating Radius": "95 ft (29 m)",
+            "Min Height @ Max Raise Angle": "30 ft (9 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "3 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "21.4 ft (6 m)",
+            "Transport Height": "10.4 ft (3 m)",
+            "Transport Length": "36 ft (11 m)",
+            "Transport Width": "8.5 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.2 ft (3 m)",
+            "Wheelbase": "10.1 in (25 cm)",
+            "Width w/ Outriggers Extended": "18.6 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "4BTA3.9",
+            "Gross Power": "129.7 hp (96 kw)",
+            "Max Torque": "360 lbs/ft",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "39.9 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "81.9 gal (307 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "44648 lbs (20,252 kg)",
+            "Tire Size": "17.5X25-20PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.8 mph (34 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

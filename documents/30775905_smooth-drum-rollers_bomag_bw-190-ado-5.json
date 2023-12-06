@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-190-ado-5/30775905",
+    "source_url_id": "30775905",
+    "source_url_model": "bw-190-ado-5",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:11.431219",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 190 ADO-5",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Multi Disc",
+            "Service brake": "Hydrostatic"
+        },
+        "Dimensions": {
+            "Drum Diameter - Front": "4 ft (1 m)",
+            "Drum Diameter - Rear": "4 ft (1 m)",
+            "Ground Clearance": "9.8 in (23 cm)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Overall Length": "190.6 in (483 cm)",
+            "Overall Width": "7.1 ft (2 m)",
+            "Track radius inner": "186.8 in (472 cm)",
+            "Turning Radius - Inside": "186.8 Inches",
+            "Wheelbase": "142.5 in (361 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "28326 lbs (12,849 kg)",
+            "Centrifugal Force - Low": "19783 lbs (8,974 kg)",
+            "Drum Width": "78.3 Inches",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency": "50 - 70 hz (3,000 - 4,200 vpm)",
+            "Vibration Frequency 1": "40 hz (2,400 vpm)",
+            "Vibration Frequency 2": "55 hz (3,300 vpm)"
+        },
+        "Engine": {
+            "Cooling method": "Water",
+            "Engine Make": "Kubota",
+            "Engine Model": "V3800 CR-TI",
+            "Gross Power": "114 hp (85 kw)",
+            "Make": "Kubota",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "38.3 gal (144 l)",
+            "Max Speed": "9.3 mph (14 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "25353 lbs (11,500 kg)",
+            "Operating Width": "84.5 in (213 cm)",
+            "Water Spray Tank Fluid Capacity": "198.1 gal (749 l)"
+        },
+        "Steering System": {
+            "System": "Oscilatory Articulating"
+        },
+        "Weights": {
+            "Front axle weight": "13669 lbs (6,200 kg)",
+            "Grossweight": "27999 lbs (12,700 kg)",
+            "Rear axle weight": "11685 lbs (5,300 kg)",
+            "Static linear load, front": "173.6 lbs/in",
+            "Static linear load, rear": "142.8 lbs/in"
+        }
+    }
+}

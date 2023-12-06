@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/624k/19660",
+    "source_url_id": "19660",
+    "source_url_model": "624k",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:48:56.868600",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "624K",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Deere PowerTech",
+            "Model": "Plus 6068H",
+            "Net Power": "198 hp (148 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4.0 cu yds (3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "38404 lbs (17,420 kg)"
+        }
+    }
+}

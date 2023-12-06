@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/hitachi/dx75-c-landy/30750726",
+    "source_url_id": "30750726",
+    "source_url_model": "dx75-c-landy",
+    "source_url_make": "hitachi",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:28.068774",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Hitachi",
+    "equipment_model": "DX75-C Landy",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Length w/ Blade": "12.9 ft (4 m)"
+        },
+        "Engine": {
+            "Displacement": "276.5 cu in (0 m)",
+            "Engine Model": "JD 4045DT052",
+            "Gross Power": "71 hp (53 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "15408.2 lbs (6,989 kg)"
+        },
+        "Standard Blade": {
+            "Height": "32.6 in (81 cm)",
+            "Width": "8.1 ft (2 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "DPS"
+        },
+        "Undercarriage": {
+            "Track Gauge": "4.8 ft (1 m)"
+        }
+    }
+}

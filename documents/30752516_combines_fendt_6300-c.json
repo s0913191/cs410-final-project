@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/fendt/6300-c/30752516",
+    "source_url_id": "30752516",
+    "source_url_model": "6300-c",
+    "source_url_make": "fendt",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:14.079598",
+    "equipment_category": "Combines",
+    "equipment_make": "Fendt",
+    "equipment_model": "6300 C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "12.9 ft (4 m)",
+            "Overall Length": "30.4 ft (9 m)"
+        },
+        "Engine": {
+            "Number of Cylinders": "6",
+            "Power": "276.3 hp (206 kw)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "255.4 bu"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Number of Gears": "4",
+            "Operating Weight w/o Attachment": "27557.8 lbs (12,500 kg)"
+        },
+        "Threshing": {
+            "Concave Area": "1751.6 cu in (0 m)"
+        }
+    }
+}

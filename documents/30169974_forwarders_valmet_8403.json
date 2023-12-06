@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/valmet/8403/30169974",
+    "source_url_id": "30169974",
+    "source_url_model": "8403",
+    "source_url_make": "valmet",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:56.766327",
+    "equipment_category": "Forwarders",
+    "equipment_make": "Valmet",
+    "equipment_model": "840.3",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Area": "-7.4 CUBIC ft",
+            "Load Weight - 6wd": "26460 lbs (12,002 kg)",
+            "Load Weight - 8wd": "26460 lbs (12,002 kg)"
+        },
+        "Crane": {
+            "Crane Type": "CRF 8.1",
+            "Gross Lift Torque": "78300 lbs/ft",
+            "Gross Slew Torque": "6460 lbs/ft",
+            "Max Reach": "25.6 ft (8 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.3 ft (1 m)",
+            "Height to Top of crane": "12.5 ft (4 m)",
+            "Length": "30.5 ft (9 m)",
+            "Length of Bunk Area": "16.3 ft (5 m)",
+            "Wheelbase": "5.5 ft (2 m)",
+            "Width Over Tires": "2 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "66 CTA , Commonrail.Tier 3",
+            "Power": "168 hp (125 kw)",
+            "Torque": "520 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Flow Capacity": "76 gal/min (288 l/min)",
+            "Pump Type": "Variable piston Pump",
+            "Relief Valve Pressure": "3400 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Front/Rear Tire Size - 6wd": "600/ 65x34 , 700/ 55x34 , 710/ 55x34 / rear :600/55x26.5 , 700/50x26.5 , 710/45x26.5",
+            "Front/Rear Tire Size - 8wd": "front & rear :600/ 55x26.5 ,700/50x26.5 , 710/45x26.5",
+            "Fuel Capacity": "42 gal (159 l)",
+            "Hydraulic System Fluid Capacity": "26.5 gal (98 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight - 6wd": "30650 lbs (13,903 kg)",
+            "Operating Weight - 8wd": "33950 lbs (15,400 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "15 mph (24 kph)",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/7716/30751830",
+    "source_url_id": "30751830",
+    "source_url_model": "7716",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:30.125821",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "7716",
+    "equipment_spec": {
+        "Engine": {
+            "Aspiration": "Turbocharged and air to air intercooler",
+            "Displacement": "402.8 cu in (0 m)",
+            "Engine Type": "AGCO Power",
+            "Gross Power": "159.6 hp (119 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "124.8 hp (92 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center load sensing (CCLS)",
+            "Number of Remote Control Valves": "3 mechanical",
+            "Pump Flow Capacity": "29.1 gal/min (110 l/min)",
+            "system pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "12753.8 lbs (5,785 kg)",
+            "DEF tank capacity": "8 gal (30 l)",
+            "Fuel Capacity": "80.6 gal (303 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)"
+        },
+        "Production": {
+            "Series": "7700 Series",
+            "Years Manufactured": "2015 -"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Transmission Type": "Dyna-4, Dyna-6"
+        }
+    }
+}

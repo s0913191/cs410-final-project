@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/bil-jax/36xt/30707557",
+    "source_url_id": "30707557",
+    "source_url_model": "36xt",
+    "source_url_make": "bil-jax",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:25:29.995235",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Bil-Jax",
+    "equipment_model": "36XT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "3.5x5 lbs (1 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "43.5 ft (13 m)",
+            "Stowed Height": "6.5 ft (2 m)",
+            "Stowed Width": "5.5 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "26 x 12 Bar Lug Tires"
+        }
+    }
+}

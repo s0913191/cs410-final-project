@@ -1,0 +1,94 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec240c/32672",
+    "source_url_id": "32672",
+    "source_url_model": "ec240c",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:22.765211",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC240C",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "31.6 ft (9 m)",
+            "Max Digging Depth": "21.4 ft (6 m)",
+            "Max Loading Height": "22 ft (7 m)",
+            "Max Reach Along Ground": "31.8 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "18.8 ft (5 m)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "33.6 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "31.8 ft (9 m)",
+            "Max Digging Depth": "23 ft (7 m)",
+            "Max Loading Height": "22.4 ft (7 m)",
+            "Max Reach Along Ground": "33.1 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "19.6 ft (6 m)",
+            "Shipping Height of Unit": "10 ft (3 m)",
+            "Shipping Length of Unit": "33.3 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "31.7 ft (9 m)",
+            "Max Digging Depth": "25 ft (8 m)",
+            "Max Loading Height": "22.4 ft (7 m)",
+            "Max Reach Along Ground": "34.7 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "22.1 ft (7 m)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "33.5 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "48.9 ft (15 m)",
+            "Max Digging Depth": "47.1 ft (14 m)",
+            "Max Loading Height": "41.3 ft (13 m)",
+            "Max Reach Along Ground": "59.8 ft (18 m)",
+            "Max Vertical Wall Dig Depth": "42 ft (13 m)",
+            "Shipping Length of Unit": "47.3 ft (14 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "1.9 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Length of Track on Ground": "12.7 ft (4 m)",
+            "Removal Counterweight Clearance": "3.6 ft (1 m)",
+            "Tail Swing Radius": "9.8 ft (3 m)",
+            "Width to Outside of Tracks": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with Intercooler",
+            "Displacement": "436 cu in (0 m)",
+            "Engine Model": "D7E EBE3",
+            "Gross Power": "185 hp (138 kw)",
+            "Max Torque": "642 lbs/ft",
+            "Net Power": "168 hp (125 kw)",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80 A",
+            "Cooling System Fluid Capacity": "2.7 gal (8 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "32.8 gal (121 l)",
+            "Hydraulic Pump Flow Capacity": "122 gal/min (462 l/min)",
+            "Hydraulic System Fluid Capacity": "22.5 gal (83 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "57110 lbs (25,905 kg)",
+            "Swing Drive Fluid Capacity": "0.9 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.4 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "46960 lbs (21,301 kg)",
+            "Ground Pressure": "5.6 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "32 in (81 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        }
+    }
+}

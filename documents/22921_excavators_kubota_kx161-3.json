@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/kx161-3/22921",
+    "source_url_id": "22921",
+    "source_url_model": "kx161-3",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:22.912466",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "KX161-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "18.8 ft (5 m)",
+            "Max Digging Depth": "12.6 ft (4 m)",
+            "Max Loading Height": "13.7 ft (4 m)",
+            "Max Reach Along Ground": "20.1 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "8.5 ft (2 m)",
+            "Shipping Height of Unit": "8.4 ft (2 m)",
+            "Shipping Length of Unit": "18.2 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Width to Outside of Tracks": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "148.5 cu in (0 m)",
+            "Engine Model": "V2403-M",
+            "Net Power": "47 hp (35 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "18.5 gal (68 l)",
+            "Hydraulic Pump Flow Capacity": "31.4 gal/min (117 l/min)",
+            "Hydraulic System Fluid Capacity": "17.7 gal (64 l)",
+            "Operating Weight": "11532 lbs (5,231 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.3 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.3 psi",
+            "Max Travel Speed": "2.9 mph (3 kph)"
+        }
+    }
+}

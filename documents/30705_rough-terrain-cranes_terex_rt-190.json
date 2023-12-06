@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-190/30705",
+    "source_url_id": "30705",
+    "source_url_model": "rt-190",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:09.596880",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 190",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "124 ft (38 m)",
+            "Max Lift Capacity": "180000 lbs (81,648 kg)",
+            "Min Height @ Max Raise Angle": "39 ft (12 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "1.5 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "28.9 ft (9 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "48.2 ft (15 m)",
+            "Transport Width": "12 ft (4 m)",
+            "Upper Structure Tail Swing Radius": "14.1 ft (4 m)",
+            "Wheelbase": "13 in (33 cm)",
+            "Width w/ Outriggers Extended": "25 ft (8 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged + aftercooled",
+            "Engine Model": "6CTA8.3",
+            "Net Power": "260.2 hp (194 kw)"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "330.3 gal (1,249 l)",
+            "Tire Size": "29.5X25-28PR"
+        }
+    }
+}

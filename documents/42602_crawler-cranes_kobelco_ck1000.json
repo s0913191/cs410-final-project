@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/kobelco/ck1000/42602",
+    "source_url_id": "42602",
+    "source_url_model": "ck1000",
+    "source_url_make": "kobelco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:36.033676",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Kobelco",
+    "equipment_model": "CK1000",
+    "equipment_spec": {
+        "Boom": {
+            "Max Lift Capacity": "199959.3 lbs (90,701 kg)"
+        },
+        "Dimensions": {
+            "Gradeability": "40%",
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Transport Height": "3.7 ft (1 m)",
+            "Transport Width": "11.9 ft (3 m)"
+        },
+        "Engine": {
+            "Alternator": "150 A",
+            "Battery": "2",
+            "Engine Make": "Mitsubishi",
+            "Engine Model": "6D24-TEG",
+            "Gross Power": "265 hp (198 kw)",
+            "Max Torque": "784 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "118.9 gal (447 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "173000 lbs (78,472 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "10.8 psi",
+            "Number of Shoes per Side": "66",
+            "Width of Shoes": "36 in (91 cm)"
+        }
+    }
+}

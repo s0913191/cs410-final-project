@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-10m-dd/30760480",
+    "source_url_id": "30760480",
+    "source_url_model": "td-10m-dd",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:53.407637",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-10M DD",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB4.5",
+            "Net Power": "101 hp (75 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "19395 lbs (8,798 kg)"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/8295r/30679173",
+    "source_url_id": "30679173",
+    "source_url_model": "8295r",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:24:03.575214",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "8295R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "23.2 in (58 cm)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Overall Length": "20.2 in (51 cm)",
+            "Tire Size": "420/85R34/480/80R50",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "548 cu in (0 m)",
+            "Engine Model": "full power shift",
+            "Gross Power": "295 hp (220 kw)",
+            "Net Power": "284 hp (212 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1749 rpm",
+            "PTO Power": "281.5 hp (210 kw)",
+            "Torque Rise": "50.4%"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3 to 5",
+            "Pump Flow Capacity": "35 gal/min (132 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "26200 lbs (11,884 kg)",
+            "3 Point Hitch Type": "III/IIIN",
+            "Cooling System Fluid Capacity": "10.6 gal (38 l)",
+            "Engine Oil Capacity": "6.6 gal (23 l)",
+            "Fuel Capacity": "180 gal (681 l)",
+            "Hydraulic System Fluid Capacity": "40 gal (151 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "full power shift"
+        },
+        "Years of Manufacture": {
+            "Approximate First Year of Manufacture": "2009",
+            "Approximate Last Year of Manufacture": "2010"
+        }
+    }
+}

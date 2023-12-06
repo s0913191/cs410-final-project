@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/wf550t-3/30750757",
+    "source_url_id": "30750757",
+    "source_url_model": "wf550t-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:49:42.689194",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WF550T-3",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "13.9 ft (4 m)",
+            "Length w/ Blade": "26.8 ft (8 m)",
+            "Width Over Tracks": "4 ft in (10 cm)"
+        },
+        "Engine": {
+            "Displacement": "927.6 cu in (0 m)",
+            "Engine Model": "SA6D140E",
+            "Gross Power": "315.2 hp (235 kw)",
+            "Max Torque": "1014.2 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Pump type": "2 pump system w/main ,switch pump"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "18 gal (68 l)",
+            "Engine Oil Capacity": "10 gal (38 l)",
+            "Fuel Capacity": "89 gal (337 l)",
+            "Hydraulic Fluid Capacity": "42 gal (159 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "77382.3 lbs (35,100 kg)"
+        },
+        "Standard Blade": {
+            "Height": "79 in (201 cm)",
+            "Width": "15 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.1 mph (8 kph)",
+            "Max Speed - Reverse": "7.9 mph (11 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full powershift trannsmission"
+        }
+    }
+}

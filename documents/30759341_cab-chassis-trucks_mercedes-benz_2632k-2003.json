@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/mercedes-benz/2632k-2003/30759341",
+    "source_url_id": "30759341",
+    "source_url_model": "2632k-2003",
+    "source_url_make": "mercedes-benz",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:57:19.109183",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Mercedes-Benz",
+    "equipment_model": "2632K (2003)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.2 in (25 cm)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Number of Rear Axles": "2",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tire Size": "315/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length From Back of Cab to End of Frame": "232.29 in (589 cm)",
+            "Length from Back of Cab to End of Frame": "232.3 in (589 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "53.15 in (135 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "53.2 in (135 cm)",
+            "Overall Length": "26.4 ft (8 m)",
+            "Total Chassis Weight": "18078 lbs (8,200 kg)",
+            "Total GVW": "55115.6 lbs (25,000 kg)",
+            "Turning Radius": "28.8 ft (9 m)",
+            "Wheelbase": "153.6 in (389 cm)"
+        }
+    }
+}

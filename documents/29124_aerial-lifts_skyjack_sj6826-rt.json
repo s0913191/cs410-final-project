@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/skyjack/sj6826-rt/29124",
+    "source_url_id": "29124",
+    "source_url_model": "sj6826-rt",
+    "source_url_make": "skyjack",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:00.019031",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Skyjack",
+    "equipment_model": "SJ6826 RT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "50%",
+            "Ground Clearance": "7.9 in (18 cm)",
+            "Height w/ Rails": "7.9 ft (2 m)",
+            "Height w/o Rails": "5.3 ft (2 m)",
+            "Overall Length": "107.1 in (272 cm)",
+            "Overall Width": "5.8 ft (2 m)",
+            "Turning Radius": "13 ft (4 m)",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Gas/propane",
+            "Gross Power": "4.7 hp (3 kw)",
+            "System Voltage": "110 V"
+        },
+        "Performance": {
+            "Max Speed": "3.8 mph (5 kph)",
+            "Operating Weight": "6400.1 lbs (2,903 kg)",
+            "Tire Fill/Type": "Foam Filled",
+            "Tire Size": "26 x 12"
+        },
+        "Platform": {
+            "Deck Extension": "59.9 in (150 cm)",
+            "Height of Rails": "2.7 ft (1 m)",
+            "Lift Time": "36 sec",
+            "Lower Time": "36 sec",
+            "Max Platform Height": "26 ft (8 m)",
+            "Max Platform Weight Capacity": "1250.1 lbs (567 kg)",
+            "Max Working Height": "32 ft (10 m)",
+            "Platform Height - Lowered": "4035.5 ft (1,230 m)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "56 in (142 cm)"
+        }
+    }
+}

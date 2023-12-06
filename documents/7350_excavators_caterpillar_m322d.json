@@ -1,0 +1,163 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/m322d/7350",
+    "source_url_id": "7350",
+    "source_url_model": "m322d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:40.078838",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "M322D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "21.3 ft (6 m)",
+            "Max Reach Along Ground": "33.8 ft (10 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "34.7 ft (10 m)",
+            "Max Digging Depth": "19.7 ft (6 m)",
+            "Max Loading Height": "22.8 ft (7 m)",
+            "Max Reach Along Ground": "31.5 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "14.6 ft (4 m)",
+            "Shipping Height of Unit": "10.7 ft (3 m)",
+            "Shipping Length of Unit": "31 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "34.9 ft (10 m)",
+            "Max Digging Depth": "20.7 ft (6 m)",
+            "Max Loading Height": "23.6 ft (7 m)",
+            "Max Reach Along Ground": "32.3 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "14.6 ft (4 m)",
+            "Shipping Height of Unit": "10.6 ft (3 m)",
+            "Shipping Length of Unit": "31 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 3": {
+            "Max Cutting Height": "35.9 ft (11 m)",
+            "Max Digging Depth": "22 ft (7 m)",
+            "Max Loading Height": "24.7 ft (7 m)",
+            "Max Reach Along Ground": "33.6 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "15.9 ft (5 m)",
+            "Shipping Height of Unit": "10.7 ft (3 m)",
+            "Shipping Length of Unit": "31 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 4": {
+            "Max Cutting Height": "31.8 ft (9 m)",
+            "Max Digging Depth": "19 ft (6 m)",
+            "Max Loading Height": "20.7 ft (6 m)",
+            "Max Reach Along Ground": "31.9 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "14.7 ft (4 m)",
+            "Shipping Height of Unit": "10.9 ft (3 m)",
+            "Shipping Length of Unit": "31.7 ft (9 m)"
+        },
+        "Bucket": {
+            "Bucket Capacities": "2.05 cu yds (2 m)",
+            "Maximum Bucket Capacity": "2.1 cu yds (2 m)",
+            "Minimum Bucket Capacity": "0.8 cu yds (0 m)",
+            "Reference Bucket Capacity": "1.6 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Overall Width": "9.1 in (23 cm)",
+            "Overall Width - Outriggers Down": "13 ft (4 m)",
+            "Tail Swing Radius": "9.1 ft (3 m)",
+            "Upper Structure Clearance": "4.3 ft (1 m)",
+            "Wheelbase": "9.1 ft (3 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Travel Speed": "15.6 mph (24 kph)"
+        },
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "403 cu in (0 m)",
+            "Engine Model": "Cat C6.6 with ACERT Technology",
+            "Gross Power": "173 hp (129 kw)",
+            "Make": "Caterpillar",
+            "Maximum Torque - 1,400 rpm": "553 lbs/ft",
+            "Model": "CatC6.6ACERT",
+            "Net Power": "165 hp (123 kw)",
+            "Net Torque": "553.2 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Ratings": "2000 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Maximum Flow - Auxiliary Circuit - High Pressure": "55 gal/min (208 l/min)",
+            "Maximum Flow - Auxiliary Circuit - Medium Pressure": "13 gal/min (49 l/min)",
+            "Maximum Flow - Implement/Travel Circuit": "92 gal/min (348 l/min)",
+            "Maximum Flow - Swing Mechanism": "30 gal/min (114 l/min)",
+            "Maximum Pressure - Auxiliary Circuit - High Pressure": "5076 psi",
+            "Maximum Pressure - Auxiliary Circuit - Medium Pressure": "2683 psi",
+            "Maximum Pressure - Implement Circuit - Heavy Lift": "5439 psi",
+            "Maximum Pressure - Implement Circuit - Normal": "5076 psi",
+            "Maximum Pressure - Swing Mechanism": "4931 psi",
+            "Maximum Pressure - Travel Circuit": "5076 psi",
+            "System": "92 gal (348 l)",
+            "Tank Capacity": "58 gal (220 l)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "8.8 gal (30 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Front Diff Fluid Capacity": "3 gal (11 l)",
+            "Fuel Capacity": "101.8 gal (382 l)",
+            "Hydraulic Pump Flow Capacity": "92.5 gal/min (348 l/min)",
+            "Hydraulic Pump Type": "Piston",
+            "Hydraulic System Fluid Capacity": "88.5 gal (333 l)",
+            "Hydraulic System Relief Valve Pressure": "5076 psi",
+            "Max Steering Angle": "35  \t\u00b0",
+            "Operating Weight": "49604.1 lbs (22,500 kg)",
+            "Oscillating Axle Angle": "9  \t\u00b0",
+            "Rear Diff Fluid Capacity": "3.9 gal (11 l)",
+            "Tire Size": "11.00-20 16PR dual"
+        },
+        "Service Refill Capacities": {
+            "Cooling": "9.8 gal (34 l)",
+            "Engine Crankcase": "4 gal (15 l)",
+            "Final Drive": "0.7 gal (0 l)",
+            "Front Steering Axle - Differential": "2.9 gal (8 l)",
+            "Fuel Tank": "102 gal (386 l)",
+            "Powershift Transmission": "0.7 gal (0 l)",
+            "Rear Axle - Housing (Differential)": "3.7 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm",
+            "Swing Torque": "41303 lbs/ft"
+        },
+        "Tires": {
+            "Optional": "1) 10.00-20 (dual solid rubber)",
+            "Standard": "1) 11.00-20 (dual pneumatic)"
+        },
+        "Transmission": {
+            "Creeper Speed - 1st Gear": "2 mph (3 kph)",
+            "Creeper Speed - 2nd Gear": "7.5 mph (11 kph)",
+            "Drawbar Pull": "25179 lbs (11,421 kg)",
+            "Forward/Reverse - 1st Gear": "4 mph (6 kph)",
+            "Forward/Reverse - 2nd Gear": "16 mph (26 kph)",
+            "Max Travel Speed": "16 mph (26 kph)",
+            "Maximum Gradeability": "60%",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Gear"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Oscillation Axle Angle": "9  \t\u00b0"
+        },
+        "Weights": {
+            "Dozer Blade": "2028 lbs (920 kg)",
+            "One-Piece Boom - Front and Rear Outriggers": "45085 lbs (20,450 kg)",
+            "One-Piece Boom - Rear Dozer, Front Outriggers": "44533 lbs (20,200 kg)",
+            "Outriggers": "2778 lbs (1,260 kg)",
+            "VA Boom - Front and Rear Outriggers": "46518 lbs (21,100 kg)",
+            "VA Boom - Rear Dozer Only": "43321 lbs (19,650 kg)",
+            "VA Boom - Rear Dozer, Front Outriggers": "45966 lbs (20,850 kg)"
+        },
+        "Working Ranges": {
+            "Maximum Digging Depth": "22 ft (7 m)",
+            "Maximum Reach - Ground Level": "33.9 ft (10 m)"
+        }
+    }
+}

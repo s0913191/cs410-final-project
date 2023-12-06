@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/new-holland/dc80/26534",
+    "source_url_id": "26534",
+    "source_url_model": "dc80",
+    "source_url_make": "new-holland",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:50:56.523042",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "New Holland",
+    "equipment_model": "DC80",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Length of Track on Ground": "6.9 ft (2 m)",
+            "Length w/ Blade": "13.5 ft (4 m)",
+            "Length w/o Blade": "9.5 ft (3 m)",
+            "Width Over Tracks": "8 ft in (20 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "Cummins 43.9 Elite",
+            "Gross Power": "84 hp (63 kw)",
+            "Max Torque": "283 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.3 gal/min (53 l/min)",
+            "Pump type": "open-center",
+            "Relief Valve Pressure": "2611 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "63  A",
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "2.6 gal (8 l)",
+            "Final Drives Fluid Capacity": "1.2 gal (4 l)",
+            "Fuel Capacity": "50.2 gal (189 l)",
+            "Hydraulic Fluid Capacity": "21.2 gal (79 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "16402.4 lbs (7,440 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "62  \t\u00b0",
+            "Capacity": "2.1 cu yds (2 m)",
+            "Height": "34.5 in (86 cm)",
+            "Width": "9.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.3 mph (10 kph)",
+            "Max Speed - Reverse": "6.3 mph (10 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "single-lever joystick"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3268 cu in (0 m)",
+            "Ground Pressure": "5.1 psi",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "6",
+            "Standard Shoe Size": "20 in (51 cm)",
+            "Track Gauge": "5.6 ft (2 m)"
+        }
+    }
+}

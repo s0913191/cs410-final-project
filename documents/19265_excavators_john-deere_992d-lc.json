@@ -1,0 +1,82 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/john-deere/992d-lc/19265",
+    "source_url_id": "19265",
+    "source_url_model": "992d-lc",
+    "source_url_make": "john-deere",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:07:06.256687",
+    "equipment_category": "Excavators",
+    "equipment_make": "John Deere",
+    "equipment_model": "992D LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33 ft (10 m)",
+            "Max Digging Depth": "23.9 ft (7 m)",
+            "Max Loading Height": "22.7 ft (7 m)",
+            "Max Reach Along Ground": "36.6 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "14.3 ft (4 m)",
+            "Shipping Height of Unit": "11.7 ft (3 m)",
+            "Shipping Length of Unit": "39 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "36.3 ft (11 m)",
+            "Max Digging Depth": "26.9 ft (8 m)",
+            "Max Loading Height": "25.5 ft (8 m)",
+            "Max Reach Along Ground": "40.1 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "23 ft (7 m)",
+            "Shipping Height of Unit": "11.3 ft (3 m)",
+            "Shipping Length of Unit": "38.6 ft (12 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "38.5 ft (12 m)",
+            "Max Digging Depth": "29.9 ft (9 m)",
+            "Max Loading Height": "28.3 ft (9 m)",
+            "Max Reach Along Ground": "43.2 ft (13 m)",
+            "Max Vertical Wall Digging Depth": "27.5 ft (8 m)",
+            "Shipping Height of Unit": "14.9 ft (4 m)",
+            "Shipping Length of Unit": "38.6 ft (12 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "2.4 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length of Track on Ground": "14.7 ft (4 m)",
+            "Removal Counterweight Clearance": "4.4 ft (1 m)",
+            "Tail Swing Radius": "11.4 ft (3 m)",
+            "Width to Outside of Tracks": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged , aftercooled diesel",
+            "Displacement": "619 cu in (0 m)",
+            "Engine Model": "6619A",
+            "Gross Power": "275 hp (205 kw)",
+            "Max Torque": "862 lbs/ft",
+            "Net Power": "265 hp (198 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45 A",
+            "Cooling System Fluid Capacity": "36 gal (136 l)",
+            "Engine Oil Capacity": "36 gal (136 l)",
+            "Fuel Capacity": "145 gal (549 l)",
+            "Hydraulic Pump Flow Capacity": "21 gal/min (79 l/min)",
+            "Hydraulic System Fluid Capacity": "132 gal (500 l)",
+            "Hydraulic System Relief Valve Pressure": "4050 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "97530 lbs (44,239 kg)",
+            "Swing Drive Fluid Capacity": "5.6 gal (19 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.2 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "8.7 psi",
+            "Number of Shoes per Side": "53",
+            "Shoe Size": "30 in (76 cm)",
+            "Track Gauge": "9.5 ft (3 m)"
+        }
+    }
+}

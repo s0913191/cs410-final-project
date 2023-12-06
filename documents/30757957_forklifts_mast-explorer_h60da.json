@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/mast-explorer/h60da/30757957",
+    "source_url_id": "30757957",
+    "source_url_model": "h60da",
+    "source_url_make": "mast-explorer",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:35:27.148814",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Mast Explorer",
+    "equipment_model": "H60DA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.4 in (36 cm)",
+            "Height to Top of Overhead Guard": "8 ft (2 m)",
+            "Length to Fork Face": "11.8 ft (3 m)",
+            "Max Fork Height": "13.2 ft (4 m)",
+            "Overall Width": "6.5 ft (2 m)",
+            "Turning Radius": "12.2 ft (4 m)",
+            "Wheelbase": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "1104C.44T",
+            "Fuel Type": "diesel",
+            "Power": "100 hp (75 kw)"
+        },
+        "MAST": {
+            "Load Capacity": "13227.8 lbs (6,000 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Number of Mast Sections": "2"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "17008.7 lbs (7,715 kg)"
+        }
+    }
+}

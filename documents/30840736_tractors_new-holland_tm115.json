@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tm115/30840736",
+    "source_url_id": "30840736",
+    "source_url_model": "tm115",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:33.664960",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TM115",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "115 hp (86 kw)"
+        },
+        "Production": {
+            "Series": "TM Series",
+            "Years Manufactured": "2000 - 2002"
+        }
+    }
+}

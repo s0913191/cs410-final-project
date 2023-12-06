@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hd-14-vo/30754087",
+    "source_url_id": "30754087",
+    "source_url_model": "hd-14-vo",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:00.460545",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD 14 VO",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "28.4 in (71 cm)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "8.5 ft (2 m)",
+            "Overall Length": "114.1 in (290 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Turning Radius - Inside": "8.7 ft (2 m)",
+            "Wheelbase": "76.8 in (193 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "14387.8 lbs (6,526 kg)",
+            "Centrifugal Force - Low": "8767.6 lbs (3,977 kg)",
+            "Drum Diameter": "35.4 in (89 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "54.4 in (137 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Oscillation force , rear -1": "16186.3 lbs (7,342 kg)",
+            "Oscillation force , rear -2": "9666.8 lbs (4,385 kg)",
+            "Oscillation frequency , rear - 1": "39 hz (2,340 vpm)",
+            "Oscillation frequency , rear - 2": "30 hz (1,800 vpm)",
+            "Static Linear Load": "88.5 lbs/in",
+            "Tangential amplitude , rear - 1": "0.1 in (0 cm)",
+            "Tangential amplitude , rear - 2": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "60 hz (3,600 vpm)",
+            "Vibration Frequency 2": "51 hz (3,060 vpm)"
+        },
+        "Engine": {
+            "Emission Tier Level": "EU Stage IIIA",
+            "Engine Make": "KUBOTA",
+            "Engine Model": "V2203",
+            "Gross Power": "46.4 hp (34 kw)",
+            "Net Power": "46.4 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.3 gal (72 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Weight": "12434.1 lbs (5,640 kg)",
+            "Operating weight ROPS": "9777.6 lbs (4,435 kg)",
+            "Oscillating angle": "8  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "75.3 gal (284 l)"
+        }
+    }
+}

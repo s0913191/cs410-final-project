@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t9505/30669831",
+    "source_url_id": "30669831",
+    "source_url_model": "t9505",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:05.745176",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T9.505",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Axle Clearance": "120 in (305 cm)",
+            "Overall Length": "294.9 in (747 cm)",
+            "Wheelbase": "12.3 ft (4 m)",
+            "Width Outside Frame": "3.1 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "787.3 cu in (0 m)",
+            "Engine Make": "New Holland",
+            "Gross Power": "457 hp (341 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "451.3 hp (336 kw)",
+            "Stroke": "6 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center load sensing",
+            "Number of Remote Control Valves": "4 to 8",
+            "Pump Flow Capacity": "45 gal/min (170 l/min)",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "20000 lbs (9,072 kg)",
+            "3 Point Hitch Type": "4N/3",
+            "Alternator Supplied Amperage": "200  A",
+            "Cooling System Fluid Capacity": "21.2 gal (79 l)",
+            "DEF tank capacity": "46 gal (174 l)",
+            "Engine Oil Capacity": "8.2 gal (30 l)",
+            "Fuel Capacity": "230 gal (871 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "49500.4 lbs (22,453 kg)"
+        },
+        "Production": {
+            "Series": "T9 Series",
+            "Years Manufactured": "2011 - 2014"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

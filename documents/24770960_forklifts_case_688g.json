@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/case/688g/24770960",
+    "source_url_id": "24770960",
+    "source_url_model": "688g",
+    "source_url_make": "case",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:24:19.184137",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Case",
+    "equipment_model": "688G",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16 in (41 cm)",
+            "Length to Fork Face": "21 ft (6 m)",
+            "Overall Height": "7.9 ft (2 m)",
+            "Turning Radius Outside Tires": "12.2 ft (4 m)",
+            "Wheelbase": "10.5 ft (3 m)",
+            "Width Over Tires": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "4T-390",
+            "Gross Power": "110 hp (82 kw)",
+            "Max Torque": "293 lbs/ft",
+            "Net Power": "99 hp (74 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "34 gal/min (129 l/min)",
+            "Pump Type": "axial piston"
+        },
+        "Lift System": {
+            "Max Forward Reach": "27.9 ft (8 m)",
+            "Max Lift Capacity": "8000 lbs (3,629 kg)",
+            "Max Lift Height": "43 ft (13 m)",
+            "Max Load at Max Height": "7000 lbs (3,175 kg)",
+            "Max Load at Max Reach": "1900 lbs (862 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "62  A",
+            "Fuel Capacity": "35 gal (132 l)",
+            "Hydraulic System Fluid Capacity": "40 gal (151 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "22813 lbs (10,348 kg)",
+            "Tire Size": "13.00x24 12PR L2/G2"
+        },
+        "Transmission": {
+            "Max Speed - forward": "21 mph (34 kph)",
+            "Max Speed - reverse": "21 mph (34 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

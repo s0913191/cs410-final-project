@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-435/30751129",
+    "source_url_id": "30751129",
+    "source_url_model": "mf-435",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:54.062354",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 435",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "8.1 ft (2 m)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.5 ft (2 m)",
+            "Overall Length": "13.1 in (33 cm)",
+            "Tire Size": "front 12.4-24 rear 18.4-30",
+            "Wheelbase": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "250.2 cu in (0 m)",
+            "Engine Model": "P4000",
+            "Gross Power": "72 hp (54 kw)",
+            "Max Torque": "197 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "62.5 hp (46 kw)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "4.5 gal/min (15 l/min)",
+            "Relief Valve Pressure": "3045.8 psi",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5511.6 lbs (2,500 kg)",
+            "Fuel Capacity": "19.9 gal (72 l)",
+            "Operating Weight": "5710 lbs (2,590 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.50-16"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4-30"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "8 speed sliding spur"
+        }
+    }
+}

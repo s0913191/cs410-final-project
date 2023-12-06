@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa470-5h/30755416",
+    "source_url_id": "30755416",
+    "source_url_model": "wa470-5h",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:44.191068",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA470-5H",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "5.4 cu yds (4 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Length with Bucket on Ground": "78.2 ft (24 m)",
+            "Wheelbase": "11.4 ft (3 m)",
+            "Width Over Tires": "9.6 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger",
+            "Displacement": "673.8 cu in (0 m)",
+            "Engine Model": "SAA6 D125E-3",
+            "Gross Power": "270.9 hp (201 kw)",
+            "Max torque ISO TR14396": "1245 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1700 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "108.4 gal/min (409 l/min)",
+            "Pump Type": "gear pump",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "103.1 gal (390 l)",
+            "Hydraulic System Fluid Capacity": "49.2 gal (185 l)",
+            "Operating Weight": "52514.2 lbs (23,820 kg)",
+            "Static Tipping Weight": "45514.5 lbs (20,645 kg)",
+            "Tire Size": "26,5 R25"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "speed powershift"
+        }
+    }
+}

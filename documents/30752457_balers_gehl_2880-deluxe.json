@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/gehl/2880-deluxe/30752457",
+    "source_url_id": "30752457",
+    "source_url_model": "2880-deluxe",
+    "source_url_make": "gehl",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:02.474998",
+    "equipment_category": "Balers",
+    "equipment_make": "Gehl",
+    "equipment_model": "2880 Deluxe",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Belt Width": "6.5 in (15 cm)",
+            "Number of Belts": "9"
+        },
+        "Bale Size": {
+            "Bale Diameter - max": "6.1 ft (2 m)",
+            "Bale Weight - min": "1999.6 lbs (907 kg)",
+            "Bale Width": "5.1 ft (2 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "chain",
+            "Number of Bars": "4",
+            "Overall Width": "6.1 ft (2 m)"
+        },
+        "Wrapping System": {
+            "Twine Type": "dual twine"
+        }
+    }
+}

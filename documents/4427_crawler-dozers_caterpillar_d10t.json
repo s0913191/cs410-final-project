@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d10t/4427",
+    "source_url_id": "4427",
+    "source_url_model": "d10t",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:53.479645",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D10T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.2 ft (1 m)",
+            "Height - Top of Cab": "13.4 ft (4 m)",
+            "Length of Track on Ground": "12.7 ft (4 m)",
+            "Length w/ Blade": "30.4 ft (9 m)",
+            "Length w/o Blade": "17.5 ft (5 m)",
+            "Width Over Tracks": "10.4 ft in (25 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "1647.5 cu in (0 m)",
+            "Engine Model": "C27 ACERT",
+            "Gross Power": "646 hp (482 kw)",
+            "Make": "Cat",
+            "Model": "C27 ACERT",
+            "Net Power": "580 hp (433 kw)",
+            "Number of Cylinders": "12",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "107 gal/min (405 l/min)",
+            "Pump type": "gear driven",
+            "Relief Valve Pressure": "2725 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "34.9 gal (129 l)",
+            "Engine Oil Capacity": "18 gal (68 l)",
+            "Final Drives Fluid Capacity": "6 gal (23 l)",
+            "Fuel Capacity": "318 gal (1,204 l)",
+            "Hydraulic Fluid Capacity": "38 gal (144 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "146500 lbs (66,452 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "24.2 cu yds (18 m)",
+            "Height": "81 in (206 cm)",
+            "Width": "15.9 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.9 mph (11 kph)",
+            "Max Speed - Reverse": "9.8 mph (14 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "7326 cu in (0 m)",
+            "Number of Shoes per Side": "44",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24 in (61 cm)",
+            "Track Gauge": "8.4 ft (2 m)",
+            "Track Pitch": "10.2 in (25 cm)"
+        }
+    }
+}

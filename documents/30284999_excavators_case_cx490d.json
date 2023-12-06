@@ -1,0 +1,120 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx490d/30284999",
+    "source_url_id": "30284999",
+    "source_url_model": "cx490d",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:09.212779",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX490D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Bucket rotation": "176 \t\u00b0",
+            "Dig radius at ground line": "462.6 in (1,173 cm)",
+            "Dump height": "302.8 in (767 cm)",
+            "Max Digging Depth": "25.4 ft (8 m)",
+            "Max Reach Along Ground": "39.25 ft (12 m)",
+            "Max Vertical Wall Digging Depth": "21.8 ft (6 m)",
+            "Minimum swing radius": "195.7 in (495 cm)",
+            "Mximum dig radius": "471.3 in (1,196 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Bucket rotation": "176 \t\u00b0",
+            "Dig radius at ground line": "432.3 in (1,097 cm)",
+            "Dump height": "291.8 in (739 cm)",
+            "Max Vertical Wall Digging Depth": "19.7 ft (6 m)",
+            "Maximum dig radius": "441.8 in (1,120 cm)",
+            "Maximum reach height": "427.2 in (1,085 cm)",
+            "Minimum swing radius": "194.1 in (493 cm)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Bucket rotation": "176 \t\u00b0",
+            "Dig radius at ground line": "484.3 in (1,229 cm)",
+            "Dump height": "328.4 in (833 cm)",
+            "Max Digging Depth": "27.4 ft (8 m)",
+            "Maximum dig radius": "493 in (1,252 cm)",
+            "Maximum reach height": "443.4 in (1,125 cm)",
+            "Minimum swing radius": "193.4 in (490 cm)",
+            "Overall height": "14.2 ft (4 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Bucket rotation": "176",
+            "Dig radius at ground line": "514.2 in (1,306 cm)",
+            "Dump height": "317.8 in (805 cm)",
+            "Max Digging Depth": "30.2 ft (9 m)",
+            "Maximum dig radius": "43536.8 ft (13,270 m)",
+            "Maximum reach height": "451.2 in (1,146 cm)",
+            "Minimum swing radius": "198.5 in (503 cm)"
+        },
+        "Brakes": {
+            "Brakes Type": "Mechanical disc",
+            "Service brake": "SAHR disc - each motor",
+            "Travel control": "Dual stage relief or  counter balance design"
+        },
+        "Capacities": {
+            "Cooling system": "12.5 gal (45 l)",
+            "DEF Tank": "40.2 gal (151 l)",
+            "Engine oil w/ filter change": "9.6 gal (34 l)",
+            "Final Drive": "4 gal (15 l)",
+            "Fuel Tank": "171.8 gal (647 l)",
+            "Hydraulic system": "121.6 gal (458 l)",
+            "Hydraulic Tank": "60.8 gal (227 l)",
+            "Swing drive": "2.8 gal (8 l)"
+        },
+        "Dimensions": {
+            "Boom length": "25.4 ft (8 m)",
+            "Cab height": "138.2 in (351 cm)",
+            "Center to center - idler to sprocket": "15.5 ft (5 m)",
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Ground pressure": "8.3 psi",
+            "Minimum ground clearance": "32.5 in (81 cm)",
+            "Overall height": "14.2 ft (4 m)",
+            "Tail Swing Radius": "12.3 ft (4 m)",
+            "Track shoe width": "3 ft (1 m)"
+        },
+        "Engine": {
+            "Air filter type": "Dry type element  with warning restriction indicator",
+            "Bore": "4.8 in (10 cm)",
+            "Displacement": "598.1 cu in (0 m)",
+            "Emission Tier Level": "Tier 4",
+            "Engine Make": "Isuzu",
+            "Engine Model": "Isuzu 6 UZ1X",
+            "Fuel Filter": "Replaceable,  full flow spin-on cartridge",
+            "Fuel injection": "Direct injection - electronic",
+            "Fuel Type": "Requires ultra-low sulfur fuel  B5 biodiesel tolerant",
+            "Max Torque": "1005.3 lbs/ft",
+            "Net Power": "362 hp (270 kw)",
+            "Oil Filter": "Replaceable,  full flow spin-on cartridge",
+            "Power Measured @": "2000 rpm",
+            "Stroke": "5.8 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Main pump - Maximum flow": "192.4 gal (727 l)",
+            "System relief pressure": "4550 psi"
+        },
+        "Operating Specifications": {
+            "Arm Breakout Force": "49458 lbs (22,434 kg)",
+            "Arm size": "11089.3 ft in ft (3,380 m)",
+            "Operating Weight": "109349.3 lbs (49,600 kg)"
+        },
+        "Performance": {
+            "Lift over end 10' radius": "20326.7 lbs (9,220 kg)",
+            "Lift over end Max. reach": "20040.1 lbs (9,090 kg)",
+            "Lift over side 10'  radius": "20326.7 lbs (9,220 kg)",
+            "Lift over side Max. reach": "11706.6 lbs (5,310 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.1 rpm"
+        },
+        "Transmission": {
+            "Max Speed": "2.7 mph (3 kph)"
+        },
+        "Undercarriage": {
+            "Track Shoe Width": "35.5 in (89 cm)"
+        },
+        "Weights": {
+            "counterweight": "22928.1 lbs (10,400 kg)"
+        }
+    }
+}

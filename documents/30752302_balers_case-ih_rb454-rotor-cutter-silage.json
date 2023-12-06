@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/case-ih/rb454-rotor-cutter-silage/30752302",
+    "source_url_id": "30752302",
+    "source_url_model": "rb454-rotor-cutter-silage",
+    "source_url_make": "case-ih",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 16:58:57.020318",
+    "equipment_category": "Balers",
+    "equipment_make": "Case Ih",
+    "equipment_model": "RB454 Rotor Cutter Silage",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Belt Width": "7 in (18 cm)",
+            "Number of Belts": "6",
+            "Number of Extension Springs": "1",
+            "Number of Hydraulic Cylinders": "1"
+        },
+        "Bale Size": {
+            "Bale Diameter - max": "5 ft (2 m)",
+            "Bale Diameter - min": "3 ft (1 m)",
+            "Bale Weight - max": "1800 lbs (817 kg)",
+            "Bale Weight - min": "550 lbs (250 kg)",
+            "Bale Width": "3.8 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Number of Bars": "4",
+            "Number of Tines": "128",
+            "Overall Width": "7.7 ft (2 m)",
+            "Tine to Tine Width": "6.7 ft (2 m)"
+        },
+        "Dimensions": {
+            "Tractor PTO Power Required": "100 hp (75 kw)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "6"
+        }
+    }
+}

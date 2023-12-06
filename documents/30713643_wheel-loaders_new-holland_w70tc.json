@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/new-holland/w70tc/30713643",
+    "source_url_id": "30713643",
+    "source_url_model": "w70tc",
+    "source_url_make": "new-holland",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:53.143418",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "W70TC",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "1.2 cu yds (1 m)",
+            "Bucket Width": "6.8 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Hinge Pin - Max Height": "11.2 ft (3 m)",
+            "Length with Bucket on Ground": "18.4 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.8 ft (1 m)",
+            "Wheelbase": "7.8 ft (2 m)",
+            "Width Over Tires": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "190 cu in (0 m)",
+            "Engine Model": "BF4M2011",
+            "Net Power": "61 hp (45 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.7 gal/min (64 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Setting": "3916.1 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "17.7 gal (64 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "11122.4 lbs (5,045 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Static Tipping Weight": "7716.2 lbs (3,500 kg)",
+            "Tire Size": "365/80 R20",
+            "Turning Radius": "15.1 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

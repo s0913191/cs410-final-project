@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t6120/30841770",
+    "source_url_id": "30841770",
+    "source_url_model": "t6120",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:52.070830",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T6.120",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "110 hp (82 kw)"
+        },
+        "Production": {
+            "Series": "T6 Series",
+            "Years Manufactured": "2012 - 2014"
+        }
+    }
+}

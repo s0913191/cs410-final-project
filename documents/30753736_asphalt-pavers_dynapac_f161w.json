@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/dynapac/f161w/30753736",
+    "source_url_id": "30753736",
+    "source_url_model": "f161w",
+    "source_url_make": "dynapac",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:08.695121",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "F161W",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/o Screed": "22.4 ft (7 m)",
+            "Tire Size": "Front 560/300-390, Rear 13.00R-22.5",
+            "Transport Height": "10.2 ft (3 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Width w/ Hopper Open": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Model": "QSB6.7C-190",
+            "Gross Power": "197 hp (147 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "15 in (38 cm)",
+            "Hopper Capacity": "7.5 lbs (3 kg)",
+            "Paving Speed - max": "87 ft/min",
+            "Paving Thickness - max": "11.9 in (28 cm)",
+            "Paving Width - max": "23 ft (7 m)",
+            "Travel Speed - max": "10.3 mph (16 kph)"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/ Screed": "39683.3 lbs (18,000 kg)"
+        }
+    }
+}

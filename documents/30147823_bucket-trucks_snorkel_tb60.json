@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/bucket-trucks/snorkel/tb60/30147823",
+    "source_url_id": "30147823",
+    "source_url_model": "tb60",
+    "source_url_make": "snorkel",
+    "source_url_category": "bucket-trucks",
+    "source_date_scraped": "2023-09-13 17:56:16.069848",
+    "equipment_category": "Bucket Trucks",
+    "equipment_make": "Snorkel",
+    "equipment_model": "TB60",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Overall Height - mast lowered": "8.9 ft (2 m)",
+            "Overall Length": "30.9 in (76 cm)",
+            "Overall Width": "8.3 ft (2 m)",
+            "Wheelbase": "10.2 ft (3 m)"
+        },
+        "Engine": {
+            "Fuel Type": "gas/diesel"
+        },
+        "Performance": {
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "35.1 gal (132 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "20699.3 lbs (9,389 kg)",
+            "Tire Fill/Type": "Foam",
+            "Tire Size": "15x19.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "49.9 ft (15 m)",
+            "Max Platform Height": "60.1 ft (18 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Platform Inner Length": "59.9 in (150 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        }
+    }
+}

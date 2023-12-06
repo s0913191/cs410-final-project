@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/john-deere/437c/28522046",
+    "source_url_id": "28522046",
+    "source_url_model": "437c",
+    "source_url_make": "john-deere",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:05.712254",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "437C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "13.5 ft (4 m)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tail Swing Radius": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6068T",
+            "Net Power": "170.4 hp (127 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "117.1 gal/min (443 l/min)",
+            "Pump Type": "Variable",
+            "Relief Valve Pressure": "3623.1 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Fuel Capacity": "90.1 gal (341 l)",
+            "Hydraulic System Fluid Capacity": "99.9 gal (375 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "29500.1 lbs (13,381 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.5 rpm",
+            "Swing Torque": "35999.7 lbs/ft"
+        },
+        "Undercarriage": {
+            "(KB Only) Width w/Stabilizers Down": "17.9 ft (5 m)"
+        }
+    }
+}

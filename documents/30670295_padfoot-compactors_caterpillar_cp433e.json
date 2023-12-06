@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/caterpillar/cp433e/30670295",
+    "source_url_id": "30670295",
+    "source_url_model": "cp433e",
+    "source_url_make": "caterpillar",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:25.028013",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CP433E",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "22.1 in (56 cm)",
+            "Blade Width": "6.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "15.9 in (38 cm)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Overall Length w/ Blade": "17.6 ft (5 m)",
+            "Overall Length w/o Blade": "16.3 ft (5 m)",
+            "Overall Width": "7 ft (2 m)",
+            "Turning Radius - Inside": "10 ft (3 m)",
+            "Wheelbase": "8.6 in (20 cm)",
+            "Width Over Tires": "5.5 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "30124.4 lbs (13,664 kg)",
+            "Centrifugal Force - Low": "15062.2 lbs (6,832 kg)",
+            "Drum Diameter": "48.3 in (122 cm)",
+            "Drum Width": "66 in (168 cm)",
+            "Frequency": "1400 - 1,914 hz (84,000 - 114,840 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "108",
+            "Pad Height": "3.6 in (8 cm)",
+            "Pad Surface Area": "9.9 cu in (0 m)",
+            "Vibration Frequency": "23 - 31 hz (1,380 - 1,860 vpm)",
+            "Vibration Frequency 1": "31.9 hz (1,860 vpm)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "3054C",
+            "Gross Power": "100.6 hp (75 kw)",
+            "Make": "Caterpillar",
+            "Net Power": "96.6 hp (72 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "4.8 gal (15 l)",
+            "Engine Oil Capacity": "1.8 gal (4 l)",
+            "Fuel Capacity": "42.3 gal (159 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed": "7.2 mph (11 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "16292.2 lbs (7,390 kg)",
+            "Operating Width": "71 in (180 cm)"
+        },
+        "Tires": {
+            "Tires": "14.9x24"
+        }
+    }
+}

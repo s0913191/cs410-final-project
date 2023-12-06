@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d375a-1/41400",
+    "source_url_id": "41400",
+    "source_url_model": "d375a-1",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:25.054187",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D375A-1",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height - Top of Cab": "14.3 ft (4 m)",
+            "Length of Track on Ground": "12.3 ft (4 m)",
+            "Length w/ Blade": "32.3 ft (10 m)",
+            "Length w/o Blade": "20.3 ft (6 m)",
+            "Width Over Tracks": "10.8 ft in (25 cm)"
+        },
+        "Engine": {
+            "Displacement": "1412.7 cu in (0 m)",
+            "Engine Model": "SA6D170B",
+            "Gross Power": "515 hp (384 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "124098.2 lbs (56,291 kg)"
+        },
+        "Standard Blade": {
+            "Height": "82.5 in (208 cm)",
+            "Width": "15.1 ft (5 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "TF"
+        },
+        "Undercarriage": {
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "42",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "8.3 ft (2 m)",
+            "Track Pitch": "10.3 in (25 cm)"
+        }
+    }
+}

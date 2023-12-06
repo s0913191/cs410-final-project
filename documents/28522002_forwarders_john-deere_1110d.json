@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/john-deere/1110d/28522002",
+    "source_url_id": "28522002",
+    "source_url_model": "1110d",
+    "source_url_make": "john-deere",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:49.081015",
+    "equipment_category": "Forwarders",
+    "equipment_make": "John Deere",
+    "equipment_model": "1110D",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Area": "43.1 CUBIC ft",
+            "Load Weight - 6wd": "26455 lbs (12,000 kg)",
+            "Load Weight - 8wd": "26455 lbs (12,000 kg)"
+        },
+        "Crane": {
+            "Crane Type": "Timberjack CF 5 72",
+            "Gross Lift Torque": "75231.4 lbs/ft",
+            "Gross Slew Torque": "18000 lbs/ft",
+            "Max Reach": "23.7 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height to Top of crane": "12.17 ft (4 m)",
+            "Height to Top of Crane": "12.2 ft (4 m)",
+            "Length": "31.9 ft (9 m)",
+            "Length of Bunk Area": "16 ft (5 m)",
+            "Wheelbase": "16.5 ft (5 m)",
+            "Width of Bunk Area": "8.4 ft (2 m)",
+            "Width Over Tires": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "415 cu in (0 m)",
+            "Engine Model": "JD6068 HTJ75",
+            "Number of Cylinders": "6",
+            "Power": "161 hp (120 kw)",
+            "Power Measured @": "2000 rpm",
+            "Torque": "530 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Flow Capacity": "49.6 gal/min (185 l/min)",
+            "Pump Type": "variable displacement",
+            "Relief Valve Pressure": "3480 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Front/Rear Tire Size - 6wd": "600x34/14 / 600x26.5/20",
+            "Front/Rear Tire Size - 8wd": "600x26.5/20 / 600x26.5/20",
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "39.6 gal (148 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight - 6wd": "30137 lbs (13,670 kg)",
+            "Operating Weight - 8wd": "38140 lbs (17,300 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "13.7 mph (21 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic/mechanical"
+        }
+    }
+}

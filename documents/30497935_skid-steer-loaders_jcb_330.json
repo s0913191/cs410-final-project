@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/jcb/330/30497935",
+    "source_url_id": "30497935",
+    "source_url_model": "330",
+    "source_url_make": "jcb",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:34.025445",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "330",
+    "equipment_spec": {
+        "Dimensions": {
+            "Angle of departure": "29  \t\u00b0",
+            "Clearance at Max Lift and Dump": "8.2 ft (2 m)",
+            "Dump angle": "42  \t\u00b0",
+            "Ground Clearance": "9.1 in (23 cm)",
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length with Bucket": "12.5 ft (4 m)",
+            "Reach at Max Lift and Dump": "35.5 in (89 cm)",
+            "Rollback - Ground Level": "30  \t\u00b0",
+            "Turning Radius from Center - inc bucket": "86.7 in (218 cm)",
+            "Turning Radius from Center - machine rear": "69.3 in (175 cm)",
+            "Wheelbase": "7 ft (2 m)",
+            "Width Over Tires": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "268 cu in (0 m)",
+            "Engine Model": "TC-68",
+            "Engine oil service interval": "500 hours",
+            "Gross Power": "92 hp (69 kw)",
+            "Max Torque": "301 lbs/ft",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "23.8 gal/min (87 l/min)",
+            "Relief Valve Pressure": "3335 psi"
+        },
+        "Loader": {
+            "Breakout Force": "6543.4 lbs (2,968 kg)",
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Bucket Width": "74.9 in (188 cm)",
+            "Loader lift capacity with bucket": "6056.1 lbs (2,747 kg)",
+            "Operating Load Rating": "3295 lbs (1,495 kg)",
+            "Operating Width": "74 in (188 cm)",
+            "Tipping Angle": "6589.7  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Chain Box Fluid Capacity - each side": "6.1 gal (23 l)",
+            "Cooling System Fluid Capacity": "4.1 gal (15 l)",
+            "Engine Oil Fluid Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "27.3 gal (102 l)",
+            "Hydraulic System Fluid Capacity": "14.6 gal (53 l)",
+            "Max Speed": "13.5 mph (21 kph)",
+            "Operating Speed": "7.3 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "9735.7 lbs (4,416 kg)",
+            "Tire Size": "12 x 16.5"
+        },
+        "Tires": {
+            "Standard": "14 x 17.5 - 12 PR Xtra Wall Off Road"
+        },
+        "Transmission": {
+            "Model": "Two Speed",
+            "Travel Speed": "12.5 mph (19 kph)"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/kato/kr500/30704430",
+    "source_url_id": "30704430",
+    "source_url_model": "kr500",
+    "source_url_make": "kato",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:43.250431",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Kato",
+    "equipment_model": "KR500",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "124.7 ft (38 m)",
+            "Max Lift Capacity": "110231.2 lbs (50,001 kg)",
+            "Max Operating Radius": "101.8 ft (31 m)",
+            "Min Height @ Max Raise Angle": "44.3 ft (13 m)",
+            "Min Operating Radius": "9.9 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2.9 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "27.9 ft (8 m)",
+            "Transport Height": "12.4 ft (4 m)",
+            "Transport Length": "39.1 ft (12 m)",
+            "Transport Width": "9.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "10.9 ft (3 m)",
+            "Wheelbase": "14 in (36 cm)",
+            "Width w/ Outriggers Extended": "24 ft (7 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "680.4 cu in (0 m)",
+            "Engine Model": "6D22T",
+            "Gross Power": "266.9 hp (198 kw)",
+            "Max Torque": "759 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "148 gal (560 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "81571.1 lbs (37,000 kg)",
+            "Tire Size": "18.00-25-28PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "33 mph (53 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "remote mounted full powershift"
+        }
+    }
+}

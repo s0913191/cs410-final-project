@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/8bncu20and-or185/30757165",
+    "source_url_id": "30757165",
+    "source_url_model": "8bncu20and-or185",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:42:35.350767",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "8BNCU20/18.5",
+    "equipment_spec": {
+        "Brakes": {
+            "pedals": "Plugging / Electric Disc Brake"
+        },
+        "Dimensions": {
+            "Gradeability": "15%",
+            "Ground Clearance": "4.1 in (10 cm)",
+            "Height to Top of Overhead Guard": "7.4 ft (2 m)",
+            "Length to Fork Face": "5.9 ft (2 m)",
+            "Max Fork Height": "15.7 ft (5 m)",
+            "Overall Height - mast lowered": "7 ft (2 m)",
+            "Right Angle Stack": "5.9 ft (2 m)",
+            "Turning Radius": "4.9 ft (1 m)",
+            "Wheelbase": "4.2 ft (1 m)"
+        },
+        "Electrical System": {
+            "Battery  Length": "38.5 in (97 cm)",
+            "Battery  Width": "18.5 in (46 cm)",
+            "Battery capacity": "1085 AH",
+            "Battery Height": "32.3 in (81 cm)",
+            "Battery Weight": "2299.5 lbs (1,043 kg)",
+            "Control  Load Handling": "Transistor \u00c3\u00a2\u00e2?\u00ac\u00e2?? MOSFET",
+            "Control  Power Steering": "Contactor",
+            "Control Drive": "Transistor \u00c3\u00a2\u00e2?\u00ac\u00e2?? MOSFET",
+            "Motor Drive": "7 hp (5 kw)",
+            "Motor Drive Type": "4 Pole Induction AC 3-Phase",
+            "Motor Hydrostatic Power Steering": "Permanent Magnet DC",
+            "Motor Load Handling (hydraulic)": "14.1 hp (10 kw)",
+            "Voltage": "36 V"
+        },
+        "Engine": {
+            "Engine Make": "TOYOTA"
+        },
+        "Hydraulic System": {
+            "Auxiliary Flow Rate": "10 gpm",
+            "Maximum operating pressure": "2000 psi"
+        },
+        "MAST": {
+            "Lift Speed": "60.1 ft/min",
+            "Load Capacity": "4000 lbs (1,814 kg)",
+            "Load Center": "24 in (61 cm)",
+            "Lower Speed": "100.1 ft/min",
+            "Mast Tip Forward": "3  \t\u00b0",
+            "Mast Tip Rear": "5  \t\u00b0",
+            "Max Fork Spread": "188 in (478 cm)"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "6865.2 lbs (3,114 kg)",
+            "Tire Type": "Solid Rubber"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.5 mph (11 kph)",
+            "Max Speed - Reverse": "7.5 mph (11 kph)"
+        }
+    }
+}

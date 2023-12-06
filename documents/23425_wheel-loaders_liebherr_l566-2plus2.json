@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l566-2plus2/23425",
+    "source_url_id": "23425",
+    "source_url_model": "l566-2plus2",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:52:59.396126",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L566 2PLUS2",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "5.3 cu yds (4 m)",
+            "Bucket Width": "9.9 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.7 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Hinge Pin - Max Height": "14.4 ft (4 m)",
+            "Length with Bucket on Ground": "29.3 ft (9 m)",
+            "Wheelbase": "11.8 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo-charged",
+            "Displacement": "642 cu in (0 m)",
+            "Engine Model": "D 936 L A6",
+            "Gross Power": "254.8 hp (189 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2 sec",
+            "Lower Time": "3.5 sec",
+            "Pump Flow Capacity": "76.7 gal/min (288 l/min)",
+            "Pump Type": "Load-sensing swash plate type variable flow pump with output and flow control and pressure cut-off in the control block",
+            "Raise Time": "5.5 sec",
+            "Relief Valve Setting": "5076.4 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "13.8 gal (49 l)",
+            "Engine Oil Fluid Capacity": "11.4 gal (42 l)",
+            "Front Axle/Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "68.7 gal (257 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "49604.1 lbs (22,500 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Static Tipping Weight": "34300 lbs (15,558 kg)",
+            "Tire Size": "26.5R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

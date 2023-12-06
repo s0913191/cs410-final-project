@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/new-holland/575e/26605",
+    "source_url_id": "26605",
+    "source_url_model": "575e",
+    "source_url_make": "new-holland",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:10.012124",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "575E",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "10150 lbs (4,604 kg)",
+            "Bucket Dig Force - Extended": "11610 lbs (5,266 kg)",
+            "Dig Depth": "14.5 ft (4 m)",
+            "Dig Depth - Extended": "18.5 ft (5 m)",
+            "Load Height": "13.4 ft (4 m)",
+            "Load Height - Extended": "14.5 ft (4 m)",
+            "Reach From Swivel": "18.5 ft (5 m)",
+            "Reach From Swivel - Extended": "22.2 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.4 ft (3 m)",
+            "Transport Length": "23.4 ft (7 m)",
+            "Transport Width": "7.5 ft (2 m)",
+            "Wheelbase": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.5 in (10 cm)",
+            "Engine Make": "New Holland",
+            "Engine Model": "BSD 450T",
+            "Gross Power": "90 hp (67 kw)",
+            "Net Max Torque": "268 lbs/ft",
+            "Net Power": "85 hp (63 kw)",
+            "Number of Cylinders": "4",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "38 gal/min (144 l/min)",
+            "Pump Type": "Open center",
+            "Relief Valve Pressure": "2850 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "13250 lbs (6,010 kg)",
+            "Bucket Width": "87.8 in (221 cm)",
+            "Clearance at Max Dump Height": "8.9 ft (2 m)",
+            "Reach at Max Dump Height": "2.6 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "6.3 gal (23 l)",
+            "Fuel Capacity": "28 gal (106 l)",
+            "Hydraulic System Fluid Capacity": "36.2 gal (136 l)",
+            "Oil System Fluid Capacity": "4.5 gal (15 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 2wd": "14239.7 lbs (6,459 kg)",
+            "Operating Weight 4wd": "16003.4 lbs (7,259 kg)",
+            "Tire Size Front - 2wd / 4wd": "11L-16 / 12-16.5"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5Lx24"
+        },
+        "Transmission": {
+            "Max Speed": "20.1 mph (32 kph)",
+            "Max Speed - Reverse": "25 mph (40 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Power shuttle"
+        }
+    }
+}

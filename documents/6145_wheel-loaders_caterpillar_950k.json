@@ -1,0 +1,77 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/950k/6145",
+    "source_url_id": "6145",
+    "source_url_model": "950k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:36.927045",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "950K",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Fixed",
+            "Maximum Single-Wheel Rise and Fall": "18.9 in (46 cm)",
+            "Rear": "Oscillating ?13  \t\u00b0"
+        },
+        "Brakes": {
+            "Brakes": "Meet OSHA, SAE J1473 OCT90 and ISO 3450-1985 required standards"
+        },
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.83 ft (3 m)"
+        },
+        "Cab": {
+            "ROPS/FOPS": "Meets SAE and ISO standards"
+        },
+        "Engine": {
+            "Model": "C7.1 ACERT",
+            "Net Power": "211 hp (157 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.8 sec",
+            "Hydraulic Cycle Time - Dump, at Maximum Raise": "1.8 sec",
+            "Hydraulic Cycle Time - Lower, Empty, Float Down": "2.5 sec",
+            "Hydraulic Cycle Time - Raise from Carry Position": "5.9 sec",
+            "Hydraulic Cycle Time - Total": "10 sec",
+            "Implement System - Maximum Operating Pressure": "3800 psi",
+            "Lower Time": "2.5 sec",
+            "Raise Time": "5.9 sec",
+            "Steering System - Pump Type": "Piston"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.25 - 12 cu yds (2 - 9 m)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "15.9 gal (57 l)",
+            "Crankcase": "4.8 gal (15 l)",
+            "Differential - Final Drives - Front": "11.4 gal (42 l)",
+            "Differential - Final Drives - Rear": "11.4 gal (42 l)",
+            "Fuel Tank - Standard": "83 gal (314 l)",
+            "Hydraulic Tank": "49.9 gal (185 l)",
+            "Transmission": "11.4 gal (42 l)"
+        },
+        "Sound": {
+            "Standards": "Standards"
+        },
+        "Tires": {
+            "Tires": "Choices"
+        },
+        "Transmission": {
+            "Forward - 1": "4.3 mph (6 kph)",
+            "Forward - 2": "8 mph (13 kph)",
+            "Forward - 3": "14.1 mph (23 kph)",
+            "Forward - 4": "23.6 mph (37 kph)",
+            "Max Speed - Forward": "23.6 mph (37 kph)",
+            "Max Speed - Reverse": "24.8 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Reverse - 1": "4.7 mph (6 kph)",
+            "Reverse - 2": "8.8 mph (13 kph)",
+            "Reverse - 3": "15.4 mph (24 kph)",
+            "Reverse - 4": "24.7 mph (39 kph)"
+        },
+        "Weights": {
+            "Operational Weight": "44137 lbs (20,020 kg)"
+        }
+    }
+}

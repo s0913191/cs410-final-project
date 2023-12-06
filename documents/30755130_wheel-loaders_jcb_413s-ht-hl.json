@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/jcb/413s-ht-hl/30755130",
+    "source_url_id": "30755130",
+    "source_url_model": "413s-ht-hl",
+    "source_url_make": "jcb",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:47:03.928423",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "413S HT HL",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "16456.1 lbs (7,464 kg)",
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Bucket Capacity - struck": "1.4 cu yds (1 m)",
+            "Bucket Width": "7.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "10.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Hinge Pin - Max Height": "12.6 ft (4 m)",
+            "Length with Bucket on Ground": "22.1 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.2 ft (1 m)",
+            "Wheelbase": "9.1 ft (3 m)",
+            "Width Over Tires": "7.8 ft (2 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Cyclonic pre filter with engine fan scavenge system",
+            "Aspiration": "Turbo charged",
+            "Displacement": "293 cu in (0 m)",
+            "Emission Tier Level": "Tier 4 Final",
+            "Engine Model": "JCB EcoMAX T4F",
+            "Gross Power": "145.2 hp (108 kw)",
+            "No. of Valves": "4",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "3480.9": "240 bar psi",
+            "Dump Time": "1.7 sec",
+            "Lower Time": "2.8 sec",
+            "Pump Flow Capacity": "41.3 gal/min (155 l/min)",
+            "Pump Type": "Variable placement piston pump",
+            "Raise Time": "4.4 sec",
+            "Relief Valve Setting": "3190 psi",
+            "Total cycle": "8.9 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "100  A",
+            "Articulation Angle": "40  \t\u00b0",
+            "Auxiliary fuel tank": "29.4 gal (110 l)",
+            "DEF tank capacity": "5.3 gal (19 l)",
+            "Fuel Capacity": "30.7 gal (114 l)",
+            "Full turn tipping load": "11349.4 lbs (5,148 kg)",
+            "Hydraulic System Fluid Capacity": "41 gal (155 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "20143.7 lbs (9,137 kg)",
+            "Payload": "5674.7 lbs (2,574 kg)",
+            "Rear Axle Oscillation": "11  \t\u00b0",
+            "Turning Radius": "18.2 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "31.1 mph (50 kph)",
+            "Max Speed - Reverse": "24.4 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "6 speed non-lock up converter ZF 6WG115"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/workmaster-55/30753327",
+    "source_url_id": "30753327",
+    "source_url_model": "workmaster-55",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:50.501438",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "WORKMASTER 55",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "8.4 ft (2 m)",
+            "Overall Length": "154.2 in (391 cm)",
+            "Wheelbase": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "177 cu in (0 m)",
+            "Emissions Certification": "CEGR + DOC",
+            "Gross Power": "54 hp (40 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm",
+            "PTO Power": "40 hp (30 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "12.7 gal/min (45 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "7716.2 lbs (3,500 kg)"
+        },
+        "Production": {
+            "Series": "Workmaster Series",
+            "Years Manufactured": "2009 - 2014"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "Power Shuttle"
+        }
+    }
+}

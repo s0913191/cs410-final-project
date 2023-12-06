@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/iseki/th4290-mech/30751587",
+    "source_url_id": "30751587",
+    "source_url_model": "th4290-mech",
+    "source_url_make": "iseki",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:48.090322",
+    "equipment_category": "Tractors",
+    "equipment_make": "Iseki",
+    "equipment_model": "TH4290 Mech",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.7 in (18 cm)",
+            "Overall Length": "9.6 in (23 cm)",
+            "Tire Size": "Front 7-14, Rear 9.5-24",
+            "Wheelbase": "5.5 ft (2 m)",
+            "Width Outside Frame": "4.4 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "89.3 cu in (0 m)",
+            "Net Power": "28 hp (21 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "7.4 gal/min (27 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "8 gal (30 l)",
+            "Operating Weight": "2127.5 lbs (965 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "13.8 mph (21 kph)",
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

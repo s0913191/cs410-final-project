@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/2750e/30903805",
+    "source_url_id": "30903805",
+    "source_url_model": "2750e",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:26.282599",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2750E",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "48 hp (36 kw)"
+        },
+        "Production": {
+            "Series": "2700E Series",
+            "Years Manufactured": "2020 -"
+        }
+    }
+}

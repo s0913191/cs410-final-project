@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/jcb/vmt280/17561",
+    "source_url_id": "17561",
+    "source_url_model": "vmt280",
+    "source_url_make": "jcb",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:04.416011",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "JCB",
+    "equipment_model": "VMT280",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "2.3 ft (1 m)",
+            "Drum Diameter - Rear": "2.3 ft (1 m)",
+            "Ground Clearance": "11.1 in (28 cm)",
+            "Height - Top of Cab": "5.7 ft (2 m)",
+            "Overall Length": "7.9 in (18 cm)",
+            "Overall Width": "4.3 ft (1 m)",
+            "Wheelbase": "5.6 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "8090 lbs (3,670 kg)",
+            "Drum Diameter": "27.6 in (69 cm)",
+            "Drum Width": "47.3 in (119 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "64.2 lbs/in",
+            "Vibration Frequency 1": "58 hz (3,480 vpm)"
+        },
+        "Engine": {
+            "Displacement": "85.5 cu in (0 m)",
+            "Engine Model": "D 1403",
+            "Gross Power": "29.2 hp (22 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Engine Oil Capacity": "1.5 gal (4 l)",
+            "Fuel Capacity": "16.7 gal (61 l)",
+            "Hydraulic System Fluid Capacity": "15.9 gal (57 l)",
+            "Max Speed": "6.8 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "6063 lbs (2,750 kg)"
+        }
+    }
+}

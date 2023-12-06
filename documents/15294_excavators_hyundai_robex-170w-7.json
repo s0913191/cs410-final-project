@@ -1,0 +1,99 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hyundai/robex-170w-7/15294",
+    "source_url_id": "15294",
+    "source_url_model": "robex-170w-7",
+    "source_url_make": "hyundai",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:02:54.959832",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hyundai",
+    "equipment_model": "ROBEX 170W-7",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "29.5 ft (9 m)",
+            "Max Digging Depth": "17.8 ft (5 m)",
+            "Max Loading Height": "20.9 ft (6 m)",
+            "Max Reach Along Ground": "27.9 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "16.1 ft (5 m)",
+            "Shipping Height of Unit": "10 ft (3 m)",
+            "Shipping Length of Unit": "28.3 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "29.9 ft (9 m)",
+            "Max Digging Depth": "19.1 ft (6 m)",
+            "Max Loading Height": "21.3 ft (6 m)",
+            "Max Reach Along Ground": "29 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "17.2 ft (5 m)",
+            "Shipping Height of Unit": "9.8 ft (3 m)",
+            "Shipping Length of Unit": "28.7 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 3": {
+            "Max Cutting Height": "30.3 ft (9 m)",
+            "Max Digging Depth": "20.8 ft (6 m)",
+            "Max Loading Height": "21.8 ft (6 m)",
+            "Max Reach Along Ground": "30.4 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "18.2 ft (5 m)",
+            "Shipping Height of Unit": "10.4 ft (3 m)",
+            "Shipping Length of Unit": "28.8 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 4": {
+            "Max Cutting Height": "31.7 ft (9 m)",
+            "Max Digging Depth": "17.2 ft (5 m)",
+            "Max Loading Height": "22.8 ft (7 m)",
+            "Max Reach Along Ground": "27.5 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "14.6 ft (4 m)",
+            "Shipping Height of Unit": "10.4 ft (3 m)",
+            "Shipping Length of Unit": "28.3 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.4 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.6 cu yds (0 m)",
+            "Reference Bucket Capacity": "1 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Overall Width": "8.3 in (20 cm)",
+            "Overall Width - Outriggers Down": "12.1 ft (4 m)",
+            "Tail Swing Radius": "8.2 ft (2 m)",
+            "Upper Structure Clearance": "4.2 ft (1 m)",
+            "Wheelbase": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "305 cu in (0 m)",
+            "Engine Model": "S6S-DT",
+            "Gross Power": "126 hp (94 kw)",
+            "Net Power": "116 hp (87 kw)",
+            "Net Torque": "307 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "4.4 gal (15 l)",
+            "Front Diff Fluid Capacity": "3.7 gal (11 l)",
+            "Fuel Capacity": "68.7 gal (257 l)",
+            "Hydraulic Pump Flow Capacity": "88.8 gal/min (333 l/min)",
+            "Hydraulic Pump Type": "two variable displacement piston pumps",
+            "Hydraulic System Fluid Capacity": "63.5 gal (238 l)",
+            "Hydraulic System Relief Valve Pressure": "4690 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "35714.9 lbs (16,200 kg)",
+            "Rear Diff Fluid Capacity": "3.7 gal (11 l)",
+            "Tire Size": "10-20-14PR"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.5 rpm"
+        },
+        "Transmission": {
+            "Drawbar Pull": "24300 lbs (11,022 kg)",
+            "Max Travel Speed": "18.7 mph (29 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

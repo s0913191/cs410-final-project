@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/800aj/30682910",
+    "source_url_id": "30682910",
+    "source_url_model": "800aj",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:07.934837",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "800AJ",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "3x8"
+        },
+        "Dimensions": {
+            "Ground Clearance": "11.9 in (28 cm)",
+            "Overall Height - mast lowered": "9.9 ft (3 m)",
+            "Overall Length": "36.6 in (91 cm)",
+            "Overall Width": "8.1 ft (2 m)",
+            "Platform Dimension A": "3 ft (1 m)",
+            "Platform Dimension B": "8 ft (2 m)",
+            "Turning Radius": "19.8 ft (6 m)",
+            "Up and Over Height": "32.1 ft (10 m)",
+            "Wheelbase": "10.1 ft (3 m)"
+        },
+        "Tires": {
+            "Tire Size": "385/65x19.5 [445/55x19.5-4wd]"
+        },
+        "Transmission": {
+            "4WD": "avail"
+        },
+        "Engine": {
+            "Diesel Engine Power": "67 hp (50 kw)",
+            "Diesel Engine Type": "DEUTZ TD 2.9L Tier 4 Final",
+            "Dual Fuel Engine Power": "84 hp (63 kw)",
+            "Dual Fuel Engine Type": "Ford MSG425",
+            "Engine Model": "F4M2011",
+            "Fuel Type": "Diesel",
+            "Gross Power": "64.4 hp (48 kw)",
+            "Maximum Ground Bearing Pressure": "76 psi",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Drive Speed": "3 mph (5 kph)",
+            "Fuel Capacity": "39 gal (148 l)",
+            "Gradeability": "30%",
+            "Hydraulic System Fluid Capacity": "40 gal (151 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "34301.8 lbs (15,559 kg)",
+            "Swing": "360  \t\u00b0",
+            "Swing Type": "Continuous",
+            "Tire Fill/Type": "Pneumatic",
+            "Tire Size": "445/55D x 19.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "51.9 ft (16 m)",
+            "Max Platform Height": "80 ft (24 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Platform Capacity - Unrestricted": "500 lbs (227 kg)",
+            "Platform Inner Length": "96.1 in (244 cm)",
+            "Platform Inner Width": "35.9 in (89 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

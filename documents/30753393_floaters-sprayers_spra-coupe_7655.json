@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/spra-coupe/7655/30753393",
+    "source_url_id": "30753393",
+    "source_url_model": "7655",
+    "source_url_make": "spra-coupe",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:22.975770",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Spra-Coupe",
+    "equipment_model": "7655",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "96 in (244 cm)",
+            "Max Boom Width": "90 ft (27 m)",
+            "Min Adjustable Height": "23 in (58 cm)",
+            "Min Boom Width": "60 ft (18 m)",
+            "Nozzle Spacing": "20 in (51 cm)",
+            "Number of Sections": "5"
+        },
+        "Dimensions": {
+            "Overall Length": "28.3 in (71 cm)",
+            "Tire Size": "Front 320/85R38, Rear 320/90R46",
+            "Transport Height": "12.1 ft (4 m)",
+            "Transport Width": "9.7 ft (3 m)",
+            "Wheelbase": "13.1 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Wastegated Turbocharger",
+            "Displacement": "365 cu in (0 m)",
+            "Engine Model": "1106C",
+            "Gross Power": "174 hp (130 kw)",
+            "Gross Torque": "476 lbs/ft"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "17800 lbs (8,074 kg)",
+            "Fuel Capacity": "65 gal (246 l)",
+            "Hydraulic Fluid Capacity": "45 gal (170 l)",
+            "Rinse Tank Capacity": "110 gal (416 l)",
+            "Solution Tank Capacity": "725 gal (2,744 l)"
+        },
+        "Transmission": {
+            "Max Speed": "27.5 mph (43 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "CAT PG 115 powershift"
+        }
+    }
+}

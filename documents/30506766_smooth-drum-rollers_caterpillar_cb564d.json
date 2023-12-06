@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb564d/30506766",
+    "source_url_id": "30506766",
+    "source_url_model": "cb564d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:45.199241",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB564D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Compaction Width": "84 in (213 cm)",
+            "Height - Steering Wheel": "104 in (264 cm)",
+            "Height - Top of ROPS/FOPS": "123 in (312 cm)",
+            "Overall Length": "16.2 ft in (41 cm)",
+            "Overall Width": "8 ft (2 m)",
+            "Turning Radius - Inside": "155 in (394 cm)",
+            "Wheel Base": "12 ft (4 m)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Vibration Frequency": "2,520-3,800 hz (151,200 vpm)"
+        },
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Engine Model": "Cat 3054C",
+            "Gross Power": "130 hp (97 kw)",
+            "Make": "Caterpillar",
+            "Net Power - ISO 9249": "125 hp (93 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Operating Specifications": {
+            "Curb Clearance": "34.5 in (86 cm)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Operating Width": "91 in (231 cm)",
+            "Travel Speed - Maximum": "8 mph (13 kph)",
+            "Turning Radius - Inside Drum Edge": "1860 in (4,724 cm)",
+            "Turning Radius - Outside Drum Edge": "239 in (607 cm)"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank Capacity": "58 gal (220 l)",
+            "Water Spray Tank Capacity": "290 gal (1,098 l)"
+        },
+        "Vibratory System": {
+            "Centrifugal Force per Drum - Maximum": "25305 lbs (11,478 kg)",
+            "Centrifugal Force per Drum - Minimum": "18570 lbs (8,423 kg)",
+            "Drum Diameter": "51 in (130 cm)",
+            "Eccentric Weight Drive": "hydraulic direct, auto reversing",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Selection": "independent per drum"
+        },
+        "Weights": {
+            "Operating Weight - At Front Drum with ROPS/FOPS": "13980 lbs (6,341 kg)",
+            "Operating Weight - At Rear Drum with ROPS/FOPS": "13803 lbs (6,261 kg)",
+            "Operating Weight - With ROPS/FOPS": "27783 lbs (12,602 kg)"
+        }
+    }
+}

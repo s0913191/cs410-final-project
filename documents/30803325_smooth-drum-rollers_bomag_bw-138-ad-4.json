@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-138-ad-4/30803325",
+    "source_url_id": "30803325",
+    "source_url_model": "bw-138-ad-4",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:58.886593",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 138 AD-4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "103 in (262 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54.3 in (137 cm)",
+            "Vibration Frequency": "3480 - 2,820 hz (208,800 - 169,200 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/new-holland/br7060-fork/30752402",
+    "source_url_id": "30752402",
+    "source_url_model": "br7060-fork",
+    "source_url_make": "new-holland",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:01:00.016087",
+    "equipment_category": "Balers",
+    "equipment_make": "New Holland",
+    "equipment_model": "BR7060 Fork",
+    "equipment_spec": {
+        "Bale Chamber": {
+            "Number of Belts": "6"
+        },
+        "Bale Size": {
+            "Bale Diameter - max": "5 ft (2 m)",
+            "Bale Diameter - min": "3 ft (1 m)",
+            "Bale Width": "4 ft (1 m)"
+        },
+        "Baler Pickup": {
+            "Lift Type": "Hydraulic pick-up lift",
+            "Number of Bars": "4",
+            "Number of Tines": "112",
+            "Overall Width": "6.6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Overall Height": "8.8 ft (2 m)",
+            "Overall Length": "14.7 ft (4 m)",
+            "Tractor PTO Power Required": "65 hp (48 kw)",
+            "Weight": "5621.8 lbs (2,550 kg)"
+        },
+        "Wrapping System": {
+            "Twine Ball Capacity": "6",
+            "Twine Type": "Mechanical"
+        }
+    }
+}

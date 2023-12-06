@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/favelle-favco/60t/30760329",
+    "source_url_id": "30760329",
+    "source_url_model": "60t",
+    "source_url_make": "favelle-favco",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:30.739679",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Favelle Favco",
+    "equipment_model": "60T",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "115 ft (35 m)",
+            "Max Lift Capacity": "60 t (54,431 kg)"
+        }
+    }
+}

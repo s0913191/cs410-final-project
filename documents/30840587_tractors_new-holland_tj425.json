@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tj425/30840587",
+    "source_url_id": "30840587",
+    "source_url_model": "tj425",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:23.899546",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TJ425",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "317.4 in (805 cm)",
+            "Wheelbase": "12.8 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "915.4 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Gross Power": "425 hp (317 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "PTO Power": "370 hp (276 kw)",
+            "Stroke": "6.7 in (15 cm)",
+            "Torque": "1594 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center load sensing",
+            "Number of Remote Control Valves": "4 to 9",
+            "Pump Flow Capacity": "40 gal/min (151 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "19500 lbs (8,845 kg)",
+            "3 Point Hitch Type": "III, IVN",
+            "Alternator Supplied Amperage": "135  A",
+            "Cooling System Fluid Capacity": "5.3 gal (19 l)",
+            "Engine Oil Capacity": "13 gal (49 l)",
+            "Fuel Capacity": "300 gal (1,136 l)"
+        },
+        "Production": {
+            "Series": "TJ I Series",
+            "Years Manufactured": "2002 - 2005"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Full power shift"
+        }
+    }
+}

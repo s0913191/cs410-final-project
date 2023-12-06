@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/salford/cs6080/30752485",
+    "source_url_id": "30752485",
+    "source_url_model": "cs6080",
+    "source_url_make": "salford",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:39.776810",
+    "equipment_category": "Combines",
+    "equipment_make": "Salford",
+    "equipment_model": "CS6080",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Self Leveling?": "0.25",
+            "Total Cleaning Area": "8075.6 cu in (0 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "13 ft (4 m)",
+            "Overall Length": "26.8 ft (8 m)",
+            "Width Over Tires": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "6.7 I (*)",
+            "Power": "258 hp (192 kw)",
+            "Power Boost Power": "272 hp (203 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "227.1 bu",
+            "Unloading Speed": "2.1 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "153.3 gal (579 l)",
+            "Number of Gears": "3",
+            "Operating Weight w/o Attachment": "26742.1 lbs (12,130 kg)",
+            "Transmission Type": "hydrostatic"
+        },
+        "Separating": {
+            "Discharge Grate Area": "11191.1 cu in (0 m)",
+            "Separating Area": "9997.6 cu in (0 m)",
+            "Separator Length": "23.3 in (58 cm)",
+            "Separator Type": "Rotary"
+        },
+        "Threshing": {
+            "Rotor Diameter": "23.9 in (58 cm)",
+            "Rotor Length": "51.2 in (130 cm)",
+            "Rotor Speed - High": "1140 rpm",
+            "Rotor Speed - Low": "440 rpm"
+        }
+    }
+}

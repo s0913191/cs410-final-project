@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/444e/30191674",
+    "source_url_id": "30191674",
+    "source_url_model": "444e",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:55.198175",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "444E",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "17.7 ft (5 m)",
+            "Dig Depth - Extended": "21.6 ft (6 m)",
+            "Load Height": "13.2 ft (4 m)",
+            "Load Height - Extended": "15.1 ft (5 m)",
+            "Reach From Swivel": "19.9 ft (6 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Suspended Cab": "9.4 ft (3 m)",
+            "Transport Length": "20 ft (6 m)",
+            "Transport Width": "7.7 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "3054C",
+            "Gross Power": "102 hp (76 kw)",
+            "Net Power": "99 hp (74 kw)",
+            "Net Torque Rise": "0.31",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "41.3 gal/min (155 l/min)",
+            "Pump Type": "Variable-Flow, Axial-Piston",
+            "Relief Valve Pressure": "249 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "14387.8 lbs (6,526 kg)",
+            "Bucket Capacity": "1.8 cu yds (1 m)",
+            "Bucket Width": "95.9 in (241 cm)",
+            "Clearance at Max Dump Height": "8.9 ft (2 m)",
+            "Dig Depth": "6.9 in (15 cm)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Front Axle Fluid Capacity": "3.7 gal (11 l)",
+            "Fuel Capacity": "49.5 gal (185 l)",
+            "Hydraulic System Fluid Capacity": "10.1 gal (38 l)",
+            "Operating Weight 4wd": "19422.8 lbs (8,810 kg)",
+            "Rear Axle Fluid Capacity": "4.3 gal (15 l)",
+            "Transmission Fluid Capacity": "5.3 gal (19 l)",
+            "Turning Radius": "19.7 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed": "25.5 mph (40 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "5",
+            "Number of Reverse Gears": "5",
+            "Transmission Type": "Power-Shuttle"
+        }
+    }
+}

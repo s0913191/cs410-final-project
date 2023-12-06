@@ -1,0 +1,84 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/case/330b/2296",
+    "source_url_id": "2296",
+    "source_url_model": "330b",
+    "source_url_make": "case",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:08.820895",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Case",
+    "equipment_model": "330B",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "3.3 ft (1 m)",
+            "Dump Height": "20.7 ft (6 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Overall Height": "12 ft (4 m)",
+            "Overall Length": "33 ft (10 m)",
+            "Overall Width": "9.8 ft (3 m)",
+            "Wheelbase": "19.4 ft (6 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "23 cu yds (18 m)",
+            "Capacity - Struck": "17.8 cu yds (13 m)",
+            "Dump Angle": "68  \t\u00b0",
+            "Lower Time": "13 sec",
+            "Raise Time": "13 sec",
+            "Rated Payload": "62082 lbs (28,160 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with Aftercooler",
+            "Bore": "4.8 in (10 cm)",
+            "Displacement": "64.1 cu in (0 m)",
+            "Engine Model": "Cat 3306TA",
+            "Gross Power": "349 hp (260 kw)",
+            "Make": "Case",
+            "Max Torque": "1217 lbs/ft",
+            "Model": "Family IV",
+            "Net Power": "334 hp (249 kw)",
+            "Net Power - EEC 80/1269": "221 hp (165 kw)",
+            "Net Power - ISO 9249": "221 hp (165 kw)",
+            "Net Power - SAE J1349": "219 hp (163 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "6 in (15 cm)",
+            "Torque Measured @": "1140 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Engine Oil Capacity": "8 gal (30 l)",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "58.1 gal (220 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "Tubeless 23.5 R25",
+            "Transmission Fluid Capacity": "10 gal (38 l)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "11.9 gal (42 l)",
+            "Final Drive - Each": "4 gal (15 l)",
+            "Swing Drive": "4 gal (15 l)"
+        },
+        "Standards": {
+            "Brakes": "SAE J1026 APR90"
+        },
+        "Transmission": {
+            "Max Speed": "28.8 mph (45 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Weights": {
+            "Front Axle - empty": "26455 lbs (12,000 kg)",
+            "Operating Weight": "111840 lbs (50,730 kg)",
+            "Rear Axle - empty": "23303 lbs (10,570 kg)",
+            "Total Empty": "49758 lbs (22,570 kg)",
+            "Total Loaded": "111840 lbs (50,730 kg)"
+        }
+    }
+}

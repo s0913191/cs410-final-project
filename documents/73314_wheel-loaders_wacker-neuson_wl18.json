@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/wacker-neuson/wl18/73314",
+    "source_url_id": "73314",
+    "source_url_model": "wl18",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:40.525354",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "WL18",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "2792 lbs (1,266 kg)",
+            "Bucket Capacity - heaped": "0.3 cu yds (0 m)",
+            "Dump Clearance at Max Raise": "6.8 ft (2 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "6.1 ft (2 m)",
+            "Hinge Pin - Max Height": "9 ft (3 m)",
+            "Length with Bucket on Ground": "11.4 ft (3 m)",
+            "Wheelbase": "4.5 ft (1 m)",
+            "Width Over Tires": "3.5 ft (1 m)"
+        },
+        "Engine": {
+            "Engine Model": "403C-11",
+            "Gross Power": "24.8 hp (18 kw)",
+            "Number of Cylinders": "3"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8.7 gal/min (30 l/min)",
+            "Pump Type": "gear pump",
+            "Relief Valve Setting": "2828 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "5.6 gal (19 l)",
+            "Hydraulic System Fluid Capacity": "4.8 gal (15 l)",
+            "Operating Weight": "4056.6 lbs (1,840 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Static Tipping Weight": "2017.3 lbs (915 kg)",
+            "Tire Size": "27x10.5-15 EM (earthmoving)",
+            "Turning Radius": "8.4 ft (2 m)"
+        },
+        "Transmission": {
+            "Transmission Type": "hydrostatic all-wheel drive with automotive style control"
+        }
+    }
+}

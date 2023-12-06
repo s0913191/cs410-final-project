@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/blaw-knox/pf-6170/29606231",
+    "source_url_id": "29606231",
+    "source_url_model": "pf-6170",
+    "source_url_make": "blaw-knox",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:50.787980",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Blaw Knox",
+    "equipment_model": "PF-6170",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "10.00 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "14.38 lbs (6 kg)",
+            "Paving Speed": "297 ft/min",
+            "Paving Width - max": "26.00 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "43370 lbs (19,673 kg)"
+        }
+    }
+}

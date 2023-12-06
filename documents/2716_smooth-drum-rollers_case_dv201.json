@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/case/dv201/2716",
+    "source_url_id": "2716",
+    "source_url_model": "dv201",
+    "source_url_make": "case",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:28.458538",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Case",
+    "equipment_model": "DV201",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "2.5 ft (1 m)",
+            "Drum Diameter - Rear": "2.5 ft (1 m)",
+            "Ground Clearance": "12 in (30 cm)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Overall Length": "8.7 in (20 cm)",
+            "Overall Width": "3.6 ft (1 m)",
+            "Turning Radius - Inside": "8.1 ft (2 m)",
+            "Wheelbase": "5.7 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "6277 lbs (2,847 kg)",
+            "Centrifugal Force - Low": "4580 lbs (2,078 kg)",
+            "Drum Diameter": "29 in (74 cm)",
+            "Drum Width": "39.4 in (99 cm)",
+            "Frequency": "3180 - 3,720 hz (190,800 - 223,200 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "70 lbs/in",
+            "Vibration Frequency 1": "53 hz (3,180 vpm)",
+            "Vibration Frequency 2": "62 hz (3,720 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "D2011 L2 Tier III certified",
+            "Make": "Deutz",
+            "Net Power": "31 hp (23 kw)"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "1.7 gal (4 l)",
+            "Fuel Capacity": "15.9 gal (57 l)",
+            "Hydraulic System Fluid Capacity": "10 gal (38 l)",
+            "Max Speed": "8.5 mph (13 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5510 lbs (2,499 kg)"
+        }
+    }
+}

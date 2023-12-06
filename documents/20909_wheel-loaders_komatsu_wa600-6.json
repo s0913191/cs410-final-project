@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa600-6/20909",
+    "source_url_id": "20909",
+    "source_url_model": "wa600-6",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:53.785874",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA600-6",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "13.8 ft (4 m)"
+        },
+        "Engine": {
+            "Model": "SAA6D170E-5",
+            "Net Power": "527 hp (393 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "8.4 - 9.20 cu yds (6 - 7 m)"
+        },
+        "Weights": {
+            "Operational Weight": "118385 - 118,825 lbs (53,699 - 53,899 kg)"
+        }
+    }
+}

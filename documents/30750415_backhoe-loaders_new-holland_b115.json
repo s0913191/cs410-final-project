@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/new-holland/b115/30750415",
+    "source_url_id": "30750415",
+    "source_url_model": "b115",
+    "source_url_make": "new-holland",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:14.564376",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "B115",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "12808 lbs (5,810 kg)",
+            "Bucket Dig Force - Extended": "12808.9 lbs (5,810 kg)",
+            "Dig Depth": "15.3 ft (5 m)",
+            "Dig Depth - Extended": "19 ft (6 m)",
+            "Load Height": "6.7 ft (2 m)",
+            "Load Height - Extended": "14.7 ft (4 m)",
+            "Reach at Load Height - Extended": "10 ft (3 m)",
+            "Reach From Swivel": "19.2 ft (6 m)",
+            "Reach From Swivel - Extended": "22.8 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.6 ft (3 m)",
+            "Transport Length": "23.4 ft (7 m)",
+            "Transport Width": "7.9 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "274.7 cu in (0 m)",
+            "Engine Model": "445T/M2",
+            "Gross Power": "110 hp (82 kw)",
+            "Net Max Torque": "293.6 lbs/ft",
+            "Net Power": "107.3 hp (80 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "42.1 gal/min (159 l/min)",
+            "Pump Type": "Dual Gear",
+            "Relief Valve Pressure": "3045 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "12165 lbs (5,518 kg)",
+            "Bucket Capacity": "1.5 cu yds (1 m)",
+            "Bucket Width": "94.5 in (239 cm)",
+            "Clearance at Max Dump Height": "8.8 ft (2 m)",
+            "Dig Depth": "6.1 in (15 cm)",
+            "Lift Capacity": "1205 lbs (547 kg)",
+            "Reach at Max Dump Height": "2.7 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "35.7 gal (132 l)",
+            "Hydraulic System Fluid Capacity": "31.2 gal (117 l)",
+            "Max Weight": "18088 lbs (8,205 kg)",
+            "Oil System Fluid Capacity": "3.6 gal (11 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 2wd": "16755 lbs (7,600 kg)",
+            "Operating Weight 4wd": "17491 lbs (7,934 kg)",
+            "Tire Size Front - 2wd / 4wd": "16.9-24"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9-24"
+        },
+        "Transmission": {
+            "Max Speed": "24.4 mph (39 kph)",
+            "Max Speed - Reverse": "8.3 mph (13 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

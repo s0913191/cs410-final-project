@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/mack/gu713/30759401",
+    "source_url_id": "30759401",
+    "source_url_model": "gu713",
+    "source_url_make": "mack",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:25:43.072493",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Mack",
+    "equipment_model": "GU713",
+    "equipment_spec": {
+        "Dimensions": {
+            "Width": "100.5 in (254 cm)"
+        },
+        "Engine": {
+            "Gross horsepower": "300 hp (224 kw)",
+            "Model Name": "MP-7 11 Liter",
+            "Net Torque": "1200 lbs/ft",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1350 rpm"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "11.8 gal (42 l)",
+            "Front Diff Fluid Capacity": "4755.1 gal (17,998 l)",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Max Speed": "209105 mph (336,450 kph)",
+            "Number of Rear Wheels": "3",
+            "Rear Axle Fluid Capacity": "11623.6 gal (43,993 l)",
+            "Tire Size": "315/80R22.5",
+            "Tire Type": "New Virgin 11R24.5"
+        }
+    }
+}

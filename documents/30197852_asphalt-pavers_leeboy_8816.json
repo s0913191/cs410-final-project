@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/leeboy/8816/30197852",
+    "source_url_id": "30197852",
+    "source_url_model": "8816",
+    "source_url_make": "leeboy",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:25.295601",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Leeboy",
+    "equipment_model": "8816",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "17 ft (5 m)",
+            "Transport Height": "9 ft (3 m)",
+            "Transport Width": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbo",
+            "Gross Power": "130 hp (97 kw)"
+        },
+        "Hopper/Paver": {
+            "Paving Speed - max": "141.1 ft/min",
+            "Paving Width - max": "16.1 ft (5 m)",
+            "Travel Speed - max": "4.2 mph (6 kph)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "29.4 gal (110 l)",
+            "Hydraulic System Fluid Capacity": "50.2 gal (189 l)",
+            "Operating Weight w/ Screed": "25000 lbs (11,340 kg)"
+        }
+    }
+}

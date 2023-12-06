@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/caterpillar/535c/30665274",
+    "source_url_id": "30665274",
+    "source_url_model": "535c",
+    "source_url_make": "caterpillar",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:27.664358",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "535C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Blade Width": "54.4 ft (16 m)",
+            "Cable Width": "154 in (391 cm)",
+            "Drum Capacity at Cable Width": "39342 ft (11,992 m)",
+            "Drum Diameter": "0.8 in (0 cm)",
+            "Grapple Capacity - tongs tip to tip": "0.8 CUBIC ft",
+            "Ground Clearance": "13.5 ft (4 m)",
+            "Height - Top of Cab": "1.8 ft (0 m)",
+            "Height of Grapple from Ground": "10.3 ft (3 m)",
+            "Max Blade Height": "14.5 in (36 cm)",
+            "Max Line Pull - bare drum": "132 lbs (60 kg)",
+            "Overall Length": "11.2 ft (3 m)",
+            "Overall Width": "10.5 ft (3 m)",
+            "Tong Opening at Tips": "705.2 in (1,791 cm)"
+        },
+        "Engine": {
+            "Aspiration": "39780",
+            "Engine Model": "218",
+            "Gross Power": "204 hp (152 kw)",
+            "Net Power": "1800 hp (1,342 kw)",
+            "Peak Torque": "1400 lbs/ft",
+            "Power Measured @": "439 rpm",
+            "Torque Measured @": "83.2 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "3045 gal/min (11,525 l/min)",
+            "Pump Type": "46",
+            "Relief Valve Pressure": "11.6 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Countershaft powershift",
+            "Cooling System Fluid Capacity": "7.1 gal (27 l)",
+            "Engine Oil Capacity": "13.7 gal (49 l)",
+            "Front Diff Fluid Capacity": "13.7 gal (49 l)",
+            "Fuel Capacity": "15 gal (57 l)",
+            "Operating Voltage": "80  A",
+            "Operating Weight": "24 V lbs (11 kg)",
+            "Rear Diff Fluid Capacity": "14.2 gal (53 l)",
+            "Steering Angle": "30.5 - 32 V  -",
+            "Tire Size": "10.3",
+            "Transmission Fluid Capacity": "29.6 gal (110 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "11.6 mph (18 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "17.1",
+            "Transmission Type": "5"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "Piston pump, variable displacement cu in (0 m)",
+            "Length of Track on Ground": "C7 Acert ft (0 m)"
+        }
+    }
+}

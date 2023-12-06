@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc650lc-8/22646",
+    "source_url_id": "22646",
+    "source_url_model": "pc650lc-8",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:21.409487",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC650LC-8",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "27.8 ft (8 m)",
+            "Max Reach Along Ground": "42.0 ft (13 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.6 ft (1 m)",
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Length of Track on Ground": "18.7 ft (5 m)",
+            "Tail Swing Radius": "13 ft (4 m)",
+            "Width to Outside of Tracks": "11.5 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "SAA6D140E-5",
+            "Net Power": "429 hp (320 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "15.3 gal (57 l)",
+            "Engine Oil Capacity": "10.6 gal (38 l)",
+            "Fuel Capacity": "232.5 gal (878 l)",
+            "Hydraulic System Fluid Capacity": "95 gal (360 l)",
+            "Operating Weight": "146390 lbs (66,402 kg)",
+            "Swing Drive Fluid Capacity": "6.8 gal (23 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "93250 lbs (42,298 kg)",
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "3",
+            "Number of Shoes per Side": "52",
+            "Number of Track Rollers per Side": "9"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/drop-deck-lowboy-trailers/eager-beaver/35gsland-ors/30835311",
+    "source_url_id": "30835311",
+    "source_url_model": "35gsland-ors",
+    "source_url_make": "eager-beaver",
+    "source_url_category": "drop-deck-lowboy-trailers",
+    "source_date_scraped": "2023-09-13 17:53:18.535512",
+    "equipment_category": "Drop Deck / Lowboy Trailers",
+    "equipment_make": "Eager Beaver",
+    "equipment_model": "35GSL/S",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "22x8.5 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "15900 lbs (7,212 kg)",
+            "Weight Capacity": "70000 lbs (31,752 kg)"
+        }
+    }
+}

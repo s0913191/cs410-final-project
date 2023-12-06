@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/terex/pt-110-forestry/30760109",
+    "source_url_id": "30760109",
+    "source_url_model": "pt-110-forestry",
+    "source_url_make": "terex",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:26.664816",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "PT-110 Forestry",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "111 hp (83 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "8600 lbs (3,901 kg)",
+            "Operating Width": "72.5 in (183 cm)"
+        }
+    }
+}

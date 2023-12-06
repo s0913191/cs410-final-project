@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk170-lc/20544",
+    "source_url_id": "20544",
+    "source_url_model": "sk170-lc",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:14.472360",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK170 LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "31.6 ft (9 m)",
+            "Max Digging Depth": "21.4 ft (6 m)",
+            "Max Loading Height": "22.9 ft (7 m)",
+            "Max Reach Along Ground": "30.6 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "18.1 ft (5 m)",
+            "Shipping Height of Unit": "9.9 ft (3 m)",
+            "Shipping Length of Unit": "28.5 ft (9 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "30.4 ft (9 m)",
+            "Max Digging Depth": "19.8 ft (6 m)",
+            "Max Loading Height": "21.8 ft (6 m)",
+            "Max Reach Along Ground": "28.9 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "16.3 ft (5 m)",
+            "Shipping Height of Unit": "9.9 ft (3 m)",
+            "Shipping Length of Unit": "28.5 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1.4 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.8 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Length of Track on Ground": "10.8 ft (3 m)",
+            "Removal Counterweight Clearance": "3.3 ft (1 m)",
+            "Tail Swing Radius": "8.3 ft (2 m)",
+            "Width to Outside of Tracks": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "275 cu in (0 m)",
+            "Engine Model": "F4GE9484D*J6",
+            "Net Power": "121 hp (90 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4.3 gal (15 l)",
+            "Engine Oil Capacity": "3.9 gal (11 l)",
+            "Fuel Capacity": "68.7 gal (257 l)",
+            "Hydraulic Pump Flow Capacity": "81.2 gal/min (307 l/min)",
+            "Hydraulic System Fluid Capacity": "64.8 gal (242 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Weight": "37800 lbs (17,146 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "38555 lbs (17,488 kg)",
+            "Ground Pressure": "5.7 psi",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "6.6 ft (2 m)"
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/material-handlers/caterpillar/330c-mh/30854301",
+    "source_url_id": "30854301",
+    "source_url_model": "330c-mh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "material-handlers",
+    "source_date_scraped": "2023-09-13 15:44:23.097051",
+    "equipment_category": "Material Handlers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "330C MH",
+    "equipment_spec": {
+        "Boom/Stick Mat. Handler Option 1": {
+            "Boom/Stick Option (MAT) 1": "boom 9100mm w/ stick 6000mm",
+            "Max Depth": "47.4 ft (14 m)",
+            "Max Height": "25 ft (8 m)",
+            "Max Reach Along Ground": "46.3 ft (14 m)"
+        },
+        "Dimensions": {
+            "Counterweight Clearance": "4 ft (1 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Exhaust": "9.5 ft (3 m)",
+            "Height to Top of Cab - fixed riser": "16.87 ft (5 m)",
+            "Height to Top of Cab - Fixed Riser": "16.9 ft (5 m)",
+            "Operating Height - To Top of Cab (Fixed)": "16.7 ft (5 m)",
+            "Operating Width": "14.3 ft (4 m)",
+            "Shipping Height": "11.7 ft (3 m)",
+            "Shipping Height - Cab Tipped": "10.4 ft (3 m)",
+            "Shipping Length": "41.8 ft (13 m)",
+            "Shipping Width": "14 ft (4 m)",
+            "Tail Swing Radius": "11.5 ft (3 m)",
+            "Undercarriage Width": "14.3 ft (4 m)",
+            "Upperstructure Clearance": "4.9 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.5 in (10 cm)",
+            "Displacement": "537 cu in (0 m)",
+            "Engine Manufacturer": "Caterpillar",
+            "Engine Model": "Cat C-9",
+            "Gross Power": "264 hp (197 kw)",
+            "Net Flywheel Power": "247 hp (184 kw)",
+            "Net Power": "243 hp (181 kw)",
+            "Net Power - EEC 80/1269": "247 hp (184 kw)",
+            "Net Power - ISO 9249": "247 hp (184 kw)",
+            "Net Power - SAE J1349": "244 hp (182 kw)",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5.9 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Generator Auxiliary Pump Maximum Flow": "42 gal/min (159 l/min)",
+            "Generator Auxiliary Pump Maximum Pressure": "2500 psi",
+            "Maximum Flow - Each of Two Pumps": "74 gal/min (280 l/min)",
+            "Maximum Pressure - Implements": "4900 psi",
+            "Maximum Pressure - Swing": "4046 psi",
+            "Maximum Pressure - Travel": "4900 psi",
+            "Pilot System - Maximum Flow": "10 gal/min (38 l/min)",
+            "Pilot System - Maximum Pressure": "597 psi",
+            "Pump Capacity": "148 gal/min (560 l/min)",
+            "Relief Pressure": "4974.8 psi",
+            "Rotate Circuit for Grapple Maximum Flow": "13 gal/min (49 l/min)",
+            "Rotate Circuit for Grapple Operating Pressure": "2000 psi"
+        },
+        "Operating Specifications": {
+            "Cab Riser - Fixed": "6.4 ft (2 m)",
+            "Cooling System Fluid Capacity": "9.3 gal (34 l)",
+            "Engine Oil Capacity": "9.4 gal (34 l)",
+            "Fuel Capacity": "163.3 gal (617 l)",
+            "Generator Set": "26.8 hp (19 kw)",
+            "Hydraulic System Fluid Capacity": "108.4 gal (409 l)",
+            "Max Drawbar Pull": "66138.7 lbs (30,000 kg)",
+            "Maximum Reach": "52.2 ft (16 m)",
+            "Operating Weight w/o Attachment": "97003.5 lbs (44,000 kg)"
+        },
+        "Performance": {
+            "High Range Maximum Travel Speed": "3.1 mph (5 kph)",
+            "Maximum Drawbar Pull": "66094 lbs (29,980 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "10 gal (38 l)",
+            "Engine Oil": "9.4 gal (34 l)",
+            "Final Drive - Each": "4 gal (15 l)",
+            "Fuel Tank": "163 gal (617 l)",
+            "Hydraulic System - Including Tank": "108 gal (409 l)",
+            "Hydraulic Tank": "46 gal (174 l)",
+            "Swing Drive": "5 gal (19 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm",
+            "Swing Torque": "79657 lbs/ft"
+        },
+        "Track": {
+            "Overall Track Length": "16.5 in (41 cm)",
+            "Rollers - Each Side": "9",
+            "Shoes Per Side": "49"
+        },
+        "Track Undercarriage": {
+            "Length of Track on Ground": "13.3 ft (4 m)",
+            "Shoe Size": "29.6 in (74 cm)",
+            "Track Gauge": "11.9 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed": "3.2 mph (5 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Weights": {
+            "Counterweight": "18300 lbs (8,301 kg)",
+            "Operating Weight": "96595 lbs (43,815 kg)"
+        }
+    }
+}

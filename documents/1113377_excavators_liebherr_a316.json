@@ -1,0 +1,93 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/a316/1113377",
+    "source_url_id": "1113377",
+    "source_url_model": "a316",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:52.622691",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "A316",
+    "equipment_spec": {
+        "Boom/Stick Mat. Handler Option 1": {
+            "Boom/Stick Option (MAT) 1": "Hydr.Adjustable Boom w/backhoe w/stick 2250mm",
+            "Max Depth": "17.5 ft (5 m)",
+            "Max Height": "34 ft (10 m)",
+            "Max Reach Along Ground": "30 ft (9 m)"
+        },
+        "Boom/Stick Mat. Handler Option 2": {
+            "Boom/Stick Option (MAT) 2": "Hydr Adjustable w/stick 2650mm",
+            "Max Depth": "15.8 ft (5 m)",
+            "Max Height": "35 ft (11 m)",
+            "Max Reach Along Ground": "31 ft (9 m)"
+        },
+        "Boom/Stick Mat. Handler Option 3": {
+            "Boom/Stick Option (MAT) 3": "Gooseneck Boom 5500mm w/stick 40000mm",
+            "Max Depth": "8.2 ft (2 m)",
+            "Max Height": "33 ft (10 m)",
+            "Max Reach Along Ground": "29 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Shipping Height of Unit": "10.4 ft (3 m)",
+            "Shipping Length of Unit": "27.3 ft (8 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Height to Top of Cab - Fixed Riser": "13.3 ft (4 m)",
+            "Height to Top of Cab - fixed riser": "13.21 ft (4 m)",
+            "Height to Top of Cab - hydraulic riser raised": "17.26 ft (5 m)",
+            "Height to Top of Cab - Hydraulic Riser Raised": "17.3 ft (5 m)",
+            "Overall Width": "8.3 in (20 cm)",
+            "Overall Width - Outriggers Down": "12.5 ft (4 m)",
+            "Shipping Height": "10.4 ft (3 m)",
+            "Shipping Length": "27.3 ft (8 m)",
+            "Tail Swing Radius": "7.6 ft (2 m)",
+            "Undercarriage Width": "8.4 ft (2 m)",
+            "Upperstructure Clearance": "4 ft (1 m)",
+            "Wheelbase": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "293 cu in (0 m)",
+            "Engine Model": "BF4M1013EC",
+            "Net Power": "117 hp (87 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "71.4 gal/min (269 l/min)",
+            "Pump Type": "Variable displacement, swash-plate",
+            "Relief Pressure": "5076.4 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "13.8 gal (49 l)",
+            "Engine Oil Capacity": "4.8 gal (15 l)",
+            "Fuel Capacity": "76.7 gal (288 l)",
+            "Hydraulic Pump Flow Capacity": "71.4 gal/min (269 l/min)",
+            "Hydraulic Pump Type": "variable displacement swash plate",
+            "Hydraulic System Fluid Capacity": "45 gal (170 l)",
+            "Hydraulic System Relief Valve Pressure": "5076.4 psi",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "41645.4 lbs (18,890 kg)",
+            "Operating Weight w/o Attachment": "41865.8 lbs (18,990 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm",
+            "Swing Torque": "30977.7 lbs/ft"
+        },
+        "Transmission": {
+            "Max Speed": "12.5 mph (19 kph)",
+            "Max Travel Speed": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "powershift"
+        },
+        "Wheel Undercarriage": {
+            "Tire Size": "10.00-20",
+            "Wheelbase": "8.4 ft (2 m)",
+            "Width w/ Stabilizers on Ground": "12.5 ft (4 m)"
+        }
+    }
+}

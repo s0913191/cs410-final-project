@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bobcat/bca12s/30754192",
+    "source_url_id": "30754192",
+    "source_url_model": "bca12s",
+    "source_url_make": "bobcat",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:40:51.120902",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bobcat",
+    "equipment_model": "BCA12S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.4 ft (2 m)",
+            "Overall Length": "6.7 in (15 cm)",
+            "Overall Width": "3.3 ft (1 m)",
+            "Wheelbase": "4.6 in (10 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "3304.7 lbs (1,499 kg)",
+            "Drum Diameter": "21.9 in (53 cm)",
+            "Drum Width": "35.5 in (89 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "66.7 hz (3,960 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "Vanguard",
+            "Gross Power": "16.1 hp (12 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "7.1 gal (27 l)",
+            "Hydraulic System Fluid Capacity": "9 gal (34 l)",
+            "Operating Weight": "2905 lbs (1,318 kg)"
+        }
+    }
+}

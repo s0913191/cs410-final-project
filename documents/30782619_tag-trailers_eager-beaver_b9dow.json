@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/eager-beaver/b9dow/30782619",
+    "source_url_id": "30782619",
+    "source_url_model": "b9dow",
+    "source_url_make": "eager-beaver",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:05.717898",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Eager Beaver",
+    "equipment_model": "B9DOW",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "20x8 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Slipper Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "4600 lbs (2,087 kg)",
+            "Weight Capacity": "18000 lbs (8,165 kg)"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/jcb/vm75pd/17560",
+    "source_url_id": "17560",
+    "source_url_model": "vm75pd",
+    "source_url_make": "jcb",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:03.974846",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "JCB",
+    "equipment_model": "VM75PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15.4 in (38 cm)",
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Overall Length w/o Blade": "16.1 ft (5 m)",
+            "Wheelbase": "8.3 in (20 cm)",
+            "Width Over Tires": "6.2 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "21581.7 lbs (9,789 kg)",
+            "Drum Diameter": "48.1 in (122 cm)",
+            "Drum Width": "68.9 in (173 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Number of Pads": "100",
+            "Pad Height": "3.2 in (8 cm)",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibratory Frequency 2": "36 hz (2,160 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "199 cu in (0 m)",
+            "Engine Model": "B 3.3",
+            "Gross Power": "80 hp (60 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "3.7 gal (11 l)",
+            "Engine Oil Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "60.8 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "16755.2 lbs (7,600 kg)"
+        },
+        "Tires": {
+            "Tires": "14.9-24 Dyna Torque II"
+        }
+    }
+}

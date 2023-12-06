@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/terex/tr100/30763296",
+    "source_url_id": "30763296",
+    "source_url_model": "tr100",
+    "source_url_make": "terex",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:33.223982",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Terex",
+    "equipment_model": "TR100",
+    "equipment_spec": {
+        "Approximate Weights - Flat Floor": {
+            "Body": "1350 lbs (612 kg)"
+        },
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Rigid"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2.3 ft (1 m)",
+            "Dump Height": "29.6 ft (9 m)",
+            "Ground Clearance": "2.7 ft (1 m)",
+            "Overall Height": "16.1 ft (5 m)",
+            "Overall Length": "35.5 ft (11 m)",
+            "Overall Width": "19.4 ft (6 m)",
+            "Wheelbase": "15.1 ft (5 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "4x2"
+        },
+        "Dump": {
+            "Dump Angle": "58  \t\u00b0",
+            "Load Capacity - heaped": "74.6 cu yds (57 m)",
+            "Load Capacity - Struck": "54.5 cu yds (41 m)",
+            "Lower Time": "18 sec",
+            "Raise Time": "16.3 sec",
+            "Rated Payload": "200000 lbs (90,719 kg)"
+        },
+        "Engine": {
+            "Aspiration": "70  A",
+            "Displacement": "1945 cu in (0 m)",
+            "Engine Model": "MTU 16V-2000TA DDEC",
+            "Gross Power": "1050 hp (783 kw)",
+            "Make": "Detroit Diesel",
+            "Max Torque": "3415 lbs/ft",
+            "Model": "MTU 16V-2000TA DDEC",
+            "Net Power": "943 hp (703 kw)",
+            "Number of Cylinders": "16",
+            "Power Measured @": "2100 rpm",
+            "Rated Engine Speed": "147.2 rpm",
+            "Torque Measured @": "turbocharged rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Allison M8610",
+            "Cooling System Fluid Capacity": "73 gal (276 l)",
+            "Diff and Final Drive Fluid Capacity": "16.2 gal (61 l)",
+            "Engine Oil Capacity": "28.6 gal (106 l)",
+            "Fuel Capacity": "336.9 gal (1,272 l)",
+            "Hydraulic System Fluid Capacity": "147.2 gal (556 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Operating Voltage": "24 V V",
+            "Steering System Fluid Capacity": "19.1 gal (72 l)",
+            "Tire Size": "27.00-49 (48 Pr) e-4"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "200000 gal (757,000 l)"
+        },
+        "Transmission": {
+            "Max Speed": "30.2 mph (48 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "1",
+            "Transmission Type": "Allison M8610"
+        },
+        "Weights": {
+            "Empty Weight": "147710 lbs (67,001 kg)",
+            "Loaded Weight": "347715 lbs (157,723 kg)",
+            "Operating Weight": "347715 lbs (157,723 kg)",
+            "Weight Distribution Front - empty": "49%",
+            "Weight Distribution Front - loaded": "34%",
+            "Weight Distribution Rear - empty": "51%",
+            "Weight Distribution Rear - loaded": "66%"
+        }
+    }
+}

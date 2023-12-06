@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pipelayers/caterpillar/594/30769722",
+    "source_url_id": "30769722",
+    "source_url_model": "594",
+    "source_url_make": "caterpillar",
+    "source_url_category": "pipelayers",
+    "source_date_scraped": "2023-09-13 16:35:14.311161",
+    "equipment_category": "Pipelayers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "594",
+    "equipment_spec": {
+        "Boom": {
+            "Max Lift Capacity": "200000 lbs (90,719 kg)"
+        },
+        "Dimensions": {
+            "Height to Top of Suspended Cab": "10.2 ft (3 m)",
+            "Length of Track on Ground": "11 ft (3 m)",
+            "Overall Length": "18 ft (5 m)",
+            "Width Over Tracks": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Net Power": "410 hp (306 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "75.6 gal/min (284 l/min)",
+            "Relief Valve Pressure": "4640 psi"
+        },
+        "Operating Specifications": {
+            "Hydraulic System Fluid Capacity": "31.8 gal (117 l)",
+            "Operating Weight": "121474.7 lbs (55,100 kg)"
+        }
+    }
+}

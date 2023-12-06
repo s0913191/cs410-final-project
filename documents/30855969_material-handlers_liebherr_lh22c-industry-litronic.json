@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/material-handlers/liebherr/lh22c-industry-litronic/30855969",
+    "source_url_id": "30855969",
+    "source_url_model": "lh22c-industry-litronic",
+    "source_url_make": "liebherr",
+    "source_url_category": "material-handlers",
+    "source_date_scraped": "2023-09-13 15:45:04.690901",
+    "equipment_category": "Material Handlers",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LH22C INDUSTRY LITRONIC",
+    "equipment_spec": {
+        "Brakes": {
+            "Axles": "83776 lbs (38,001 kg)",
+            "Service brake": "wet and backlash-free disc brake"
+        },
+        "Dimensions": {
+            "Ground Clearance": "19.4 ft (6 m)",
+            "Height - Top of Cab": "8.3 in (20 cm)",
+            "Undercarriage Width": "9.1 ft (3 m)",
+            "Upperstructure Clearance": "3.1 ft (1 m)",
+            "Wheelbase": "12.7 ft (4 m)"
+        },
+        "Engine": {
+            "Air cleaner": "dry-type air cleaner with pre-cleaner, primary and safety elements",
+            "Alternator": "140 A",
+            "Battery": "2",
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "16781.6 cu in (0 m)",
+            "Emission Tier Level": "Tier 4f",
+            "Engine Model": "D924",
+            "Gross Power": "141 hp (105 kw)",
+            "Net Power": "143 hp (107 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5.2 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "79 gal/min (299 l/min)",
+            "Pump Type": "Liebherr axial piston variable displacement pump",
+            "Relief Pressure": "5076 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "97 gal (367 l)",
+            "Hydraulic Fluid Capacity": "41 gal (155 l)",
+            "Hydraulic System Fluid Capacity": "92 gal (348 l)",
+            "Urea tank": "12 gal (45 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Torque": "39091 lbs/ft"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/liebherr/r936/30258039",
+    "source_url_id": "30258039",
+    "source_url_model": "r936",
+    "source_url_make": "liebherr",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:14:33.209638",
+    "equipment_category": "Excavators",
+    "equipment_make": "Liebherr",
+    "equipment_model": "R936",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "23.6 ft (7 m)",
+            "Max Reach Along Ground": "35.8 ft (11 m)"
+        },
+        "Engine": {
+            "Net Power": "255 hp (190 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "75650 lbs (34,315 kg)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Breakout force-ISO": "46535.5 lbs (21,108 kg)",
+            "Breakout force-SAE": "40690.5 lbs (18,457 kg)",
+            "Bucket Digging Force - ISO": "32147.7 lbs (14,582 kg)",
+            "Bucket Digging Force - SAE": "30798.9 lbs (13,970 kg)",
+            "Max Digging Depth": "23.7 ft (7 m)",
+            "Max Reach Along Ground": "35.9 ft (11 m)",
+            "Max. teeth height": "36.3 ft (11 m)",
+            "Max.Dumping Height": "25.1 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Breakout force-ISO": "46535.5 lbs (21,108 kg)",
+            "Breakout force-SAE": "40690.5 lbs (18,457 kg)",
+            "Bucket Digging Force - ISO": "29000.4 lbs (13,154 kg)",
+            "Bucket Digging Force - SAE": "27876.4 lbs (12,645 kg)",
+            "Max Digging Depth": "25.3 ft (8 m)",
+            "Max Reach Along Ground": "37.3 ft (11 m)",
+            "Max. teeth height": "443 ft (135 m)",
+            "Max.Dumping Height": "25.2 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Digging Depth": "25.9 ft (8 m)",
+            "Max Reach Along Ground": "37.7 ft (11 m)",
+            "Max.Dumping Height": "24.5 ft (7 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2.9 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1.4 cu yds (1 m)"
+        },
+        "Capacities": {
+            "Fuel Tank": "112.3 gal (424 l)",
+            "Hydraulic system": "137.4 gal (519 l)",
+            "Urea tank": "12.2 gal (45 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Undercarriage Width": "15.9 ft (5 m)"
+        },
+        "Electrical System": {
+            "Alternator": "24 V  / 140 A",
+            "Batteries": "2 x 180 Ah  /  12 V V",
+            "Engine idling": "Sensor controlled",
+            "Voltage": "24V"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "73063 lbs (33,141 kg)",
+            "Max Travel Speed": "2.6 mph (3 kph)",
+            "Number of Carrier Rollers per Side": "43710",
+            "Tail Swing Radius": "0.1 ft (0 m)"
+        }
+    }
+}

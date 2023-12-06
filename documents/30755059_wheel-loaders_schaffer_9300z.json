@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/schaffer/9300z/30755059",
+    "source_url_id": "30755059",
+    "source_url_model": "9300z",
+    "source_url_make": "schaffer",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:15.117476",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Schaffer",
+    "equipment_model": "9300Z",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "1.5 cu yds (1 m)",
+            "Bucket Width": "7.3 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Length with Bucket on Ground": "17.6 ft (5 m)",
+            "Reach at Max Lift and Dump": "1.6 ft (0 m)",
+            "Wheelbase": "7.2 ft (2 m)",
+            "Width Over Tires": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "244.1 cu in (0 m)",
+            "Engine Model": "BF4M2012",
+            "Net Power": "100.5 hp (75 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "13778.9 lbs (6,250 kg)",
+            "Static Tipping Weight": "7936.7 lbs (3,600 kg)",
+            "Tire Size": "405x70-20",
+            "Turning Radius": "5.7 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

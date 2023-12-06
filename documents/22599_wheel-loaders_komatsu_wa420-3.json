@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa420-3/22599",
+    "source_url_id": "22599",
+    "source_url_model": "wa420-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:35.565196",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA420-3",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "40800 lbs (18,507 kg)",
+            "Bucket Capacity - heaped": "4.9 cu yds (3 m)",
+            "Bucket Capacity - struck": "4.2 cu yds (3 m)",
+            "Bucket Width": "10.1 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.3 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Hinge Pin - Max Height": "14 ft (4 m)",
+            "Length with Bucket on Ground": "26.8 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.7 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)",
+            "Width Over Tires": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "436.4 cu in (0 m)",
+            "Engine Model": "S6D108",
+            "Net Power": "217.3 hp (162 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Operating Weight": "40168.3 lbs (18,220 kg)",
+            "Static Tipping Weight": "29575.1 lbs (13,415 kg)",
+            "Tire Size": "23.5-25-16PR",
+            "Turning Radius": "21.8 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.4 mph (32 kph)",
+            "Max Speed - Reverse": "21.1 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        }
+    }
+}

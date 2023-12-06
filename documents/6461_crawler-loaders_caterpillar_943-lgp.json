@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/caterpillar/943-lgp/6461",
+    "source_url_id": "6461",
+    "source_url_model": "943-lgp",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:08.143651",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "943 LGP",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "8.8 ft (2 m)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Length with Bucket on Ground": "17.9 ft (5 m)",
+            "Reach at Dump Height": "2.9 ft (1 m)",
+            "Width to Outside of Tracks": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "317.4 cu in (0 m)",
+            "Engine Model": "3204",
+            "Net Power": "80 hp (60 kw)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Lower Time": "2.2 sec",
+            "Raise Time": "7.2 sec"
+        },
+        "Operating Specifications": {
+            "Breakout Force  Bucket": "21139 lbs (9,589 kg)",
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Bucket Capacity - struck": "1.3 cu yds (1 m)",
+            "Fuel Capacity": "42.1 gal (159 l)",
+            "Hydraulic System Fluid Capacity": "15.4 gal (57 l)",
+            "Max Speed": "6 mph (10 kph)",
+            "Operating Weight": "26208.6 lbs (11,888 kg)",
+            "Static Tipping Load": "17707.6 lbs (8,032 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "3069.1 cu in (0 m)",
+            "Ground Pressure": "8.5 psi",
+            "Length of Track on Ground": "7.1 ft (2 m)",
+            "Number of Track Rollers per Side": "6",
+            "Track Gauge": "67 in (170 cm)",
+            "Track Shoe Width": "18.2 in (46 cm)"
+        }
+    }
+}

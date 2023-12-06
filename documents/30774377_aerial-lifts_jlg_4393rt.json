@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/4393rt/30774377",
+    "source_url_id": "30774377",
+    "source_url_model": "4393rt",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:43.322709",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "4393RT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,500 lbs (680 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "SL/43 ft (0 m)",
+            "Stowed Height": "7.3 ft (2 m)",
+            "Stowed Width": "7.10 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "31x15.5"
+        },
+        "Transmission": {
+            "4WD": "yes"
+        }
+    }
+}

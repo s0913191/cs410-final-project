@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pipelayers/caterpillar/587t/30769721",
+    "source_url_id": "30769721",
+    "source_url_model": "587t",
+    "source_url_make": "caterpillar",
+    "source_url_category": "pipelayers",
+    "source_date_scraped": "2023-09-13 16:35:13.517800",
+    "equipment_category": "Pipelayers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "587T",
+    "equipment_spec": {
+        "Boom": {
+            "Max Lift Capacity": "202000 lbs (91,627 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Length": "18 ft (5 m)",
+            "Length of Track on Ground": "11.8 ft (3 m)",
+            "Overall Height": "0.4 ft (0 m)",
+            "Overall Length": "18 ft (5 m)",
+            "Overall Width": "13.3 ft (4 m)",
+            "Shipping Height": "12.6 ft (4 m)",
+            "Shipping Width": "13.3 ft (4 m)",
+            "Width Over Tracks": "11.2 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "5.4 in (13 cm)",
+            "Displacement": "927.6 cu in (0 m)",
+            "Engine Model": "C15",
+            "Flywheel Power": "366 hp (273 kw)",
+            "Gross Power": "394.3 hp (294 kw)",
+            "Net Power": "366.1 hp (273 kw)",
+            "Net Power - ISO 9249": "366 hp (273 kw)",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "6.8 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "25.9 gal/min (95 l/min)",
+            "Pump type": "Piston-type, Variable, two section",
+            "Relief Valve Pressure": "2498.3 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "20.4 gal (76 l)",
+            "Final Drives Fluid Capacity": "3.4 gal (11 l)",
+            "Fuel Capacity": "150.1 gal (568 l)",
+            "Hydraulic System Fluid Capacity": "30.2 gal (114 l)"
+        },
+        "Pipelaying Equipment": {
+            "Lift Capacity": "202000 lbs (91,627 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.8 mph (8 kph)",
+            "Max Speed - Reverse": "7.7 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Number of Shoes per Side": "47",
+            "Number of Track Rollers per Side": "1",
+            "Shoe Size": "34.1 in (86 cm)",
+            "Track Gauge": "8.4 ft (2 m)"
+        },
+        "Weights": {
+            "Operating Weight": "117000 lbs (53,071 kg)"
+        }
+    }
+}

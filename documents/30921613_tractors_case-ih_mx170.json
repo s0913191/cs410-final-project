@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/mx170/30921613",
+    "source_url_id": "30921613",
+    "source_url_model": "mx170",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:14.619889",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MX170",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "161 hp (120 kw)"
+        },
+        "Production": {
+            "Series": "Maxxum Series",
+            "Years Manufactured": "1998 - 2002"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec330c-l/30759814",
+    "source_url_id": "30759814",
+    "source_url_model": "ec330c-l",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:37.254249",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC330C L",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "24.58 ft (7 m)",
+            "Max Reach Along Ground": "36.08 ft (11 m)"
+        },
+        "Engine": {
+            "Make": "Volvo",
+            "Model": "D12D EBE3",
+            "Net Power": "247 hp (184 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "81590 lbs (37,009 kg)"
+        }
+    }
+}

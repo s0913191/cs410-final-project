@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/d30d/4988",
+    "source_url_id": "4988",
+    "source_url_model": "d30d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:01.489536",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D30D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Height": "18 ft (5 m)",
+            "Overall Height": "11.2 ft (3 m)",
+            "Overall Length": "29.2 ft (9 m)",
+            "Overall Width": "10.9 ft (3 m)",
+            "Wheelbase": "16.3 ft (5 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "22.5 cu yds (17 m)",
+            "Capacity - Struck": "16.5 cu yds (12 m)",
+            "Rated Payload": "59979 lbs (27,206 kg)"
+        },
+        "Engine": {
+            "Displacement": "640.8 cu in (0 m)",
+            "Engine Model": "3306",
+            "Gross Power": "285 hp (213 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Tire Size": "29.5x25 Radials"
+        },
+        "Transmission": {
+            "Max Speed": "32.4 mph (51 kph)",
+            "Number of Forward Gears": "5"
+        },
+        "Weights": {
+            "Front Axle - empty": "31865.7 lbs (14,454 kg)",
+            "Front Axle - loaded": "47635.3 lbs (21,607 kg)",
+            "Rear Axle - empty": "16415.7 lbs (7,446 kg)",
+            "Rear Axle - loaded": "60625 lbs (27,499 kg)",
+            "Total Empty": "48281.3 lbs (21,900 kg)",
+            "Total Loaded": "108260.3 lbs (49,106 kg)"
+        }
+    }
+}

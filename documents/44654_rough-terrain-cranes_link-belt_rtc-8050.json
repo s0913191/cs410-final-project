@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/link-belt/rtc-8050/44654",
+    "source_url_id": "44654",
+    "source_url_model": "rtc-8050",
+    "source_url_make": "link-belt",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:50.442531",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "RTC-8050",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "110.1 ft (34 m)",
+            "Min Height @ Max Raise Angle": "35.5 ft (11 m)",
+            "Swing Speed": "2.6 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "27067 ft (8,250 m)",
+            "Transport Height": "12.9 ft (4 m)",
+            "Transport Length": "46.6 ft (14 m)",
+            "Transport Width": "10.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "11.6 ft (3 m)",
+            "Wheelbase": "151.2 in (384 cm)",
+            "Width w/ Outriggers Extended": "24.1 ft (7 m)"
+        },
+        "Engine": {
+            "Bore": "4.5 in (10 cm)",
+            "Crankcase capacity": "22.4 L",
+            "Displacement": "504 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "6CT8.3",
+            "Gross Power": "210 hp (157 kw)",
+            "Max Torque": "567 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Fuel Capacity": "100 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "170 gal (643 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "13000 lbs (5,897 kg)",
+            "Tire Size": "29.5 X 25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.3 mph (32 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Power shift"
+        }
+    }
+}

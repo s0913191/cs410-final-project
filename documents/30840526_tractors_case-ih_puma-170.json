@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/puma-170/30840526",
+    "source_url_id": "30840526",
+    "source_url_model": "puma-170",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:44.484036",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "PUMA 170",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "9.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Cross-Flow Aspiration / Turbocharged",
+            "Displacement": "408.9 cu in (0 m)",
+            "Gross Power": "167 hp (125 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "140 hp (104 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "3",
+            "Pump Flow Capacity": "30 gal/min (114 l/min)",
+            "Pump Type": "Closed Center, Pressure Flow Compensating"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "10273.6 lbs (4,660 kg)",
+            "Alternator Supplied Amperage": "150  A",
+            "Engine Oil Capacity": "16 gal (61 l)",
+            "Fuel Capacity": "104 gal (394 l)",
+            "Hydraulic System Fluid Capacity": "22 gal (83 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15919.6 lbs (7,221 kg)"
+        },
+        "Production": {
+            "Series": "Puma Series",
+            "Years Manufactured": "2011 - 2013"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "6"
+        }
+    }
+}

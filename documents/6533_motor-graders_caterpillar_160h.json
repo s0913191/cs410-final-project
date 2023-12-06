@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/caterpillar/160h/6533",
+    "source_url_id": "6533",
+    "source_url_model": "160h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:20:25.659276",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "160H",
+    "equipment_spec": {
+        "Circle": {
+            "Max Lift Above Ground": "17.8 in (43 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "8.3 ft (2 m)",
+            "Height to Top of Isomount Cab": "10.3 ft (3 m)",
+            "Overall Length": "28.3 ft (9 m)",
+            "Wheelbase": "20 ft (6 m)",
+            "Width Over Tires": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "637.7 cu in (0 m)",
+            "Engine Model": "3306 DITA",
+            "Max Power": "200 hp (149 kw)",
+            "Net Power Gear 4-6": "180 hp (134 kw)",
+            "Net Power Gears 7-8": "200 hp (149 kw)"
+        },
+        "Front Axle": {
+            "Oscillation - Total": "32  \t\u00b0",
+            "Wheel Lean": "18  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "54.5 gal/min (204 l/min)",
+            "Pump Type": "Axial Piston",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Moldboard": {
+            "Moldboard Height": "27.1 in (69 cm)",
+            "Moldboard Thickness": "1 in (3 cm)",
+            "Moldboard Width": "23.9 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Fuel Capacity": "90.1 gal (341 l)",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Total": "34361.3 lbs (15,586 kg)",
+            "Tire Size": "14-24 12PR (G-2)"
+        },
+        "Steering System": {
+            "Articulation Angle": "20  \t\u00b0",
+            "Turning Radius": "24.3 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "25.3 mph (40 kph)",
+            "Max Speed - Reverse": "20 mph (32 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "6"
+        }
+    }
+}

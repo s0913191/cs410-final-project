@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/jcb/212s/17515",
+    "source_url_id": "17515",
+    "source_url_model": "212s",
+    "source_url_make": "jcb",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:35:20.487129",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "212S",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "10.4 ft (3 m)",
+            "Max Digging Depth": "12 ft (4 m)"
+        },
+        "Loader": {
+            "Breakout Force": "9520 lbs (4,318 kg)",
+            "Lift Capacity": "5300 lbs (2,404 kg)",
+            "SAE - Net": "67 hp (50 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "10965 lbs (4,974 kg)"
+        },
+        "Travel Speed": {
+            "4Th Gear Fwd": "19.5 mph (31 kph)"
+        }
+    }
+}

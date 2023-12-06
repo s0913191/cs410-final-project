@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx300c/2765",
+    "source_url_id": "2765",
+    "source_url_model": "cx300c",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:54.860120",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX300C",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.1 ft (10 m)",
+            "Max Digging Depth": "23.3 ft (7 m)",
+            "Max Loading Height": "23.3 ft (7 m)",
+            "Max Reach Along Ground": "34.5 ft (10 m)",
+            "Shipping Height of Unit": "10.7 ft (3 m)",
+            "Shipping Length of Unit": "34.3 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "32.6 ft (10 m)",
+            "Max Digging Depth": "21.6 ft (6 m)",
+            "Max Loading Height": "22.8 ft (7 m)",
+            "Max Reach Along Ground": "33 ft (10 m)",
+            "Shipping Height of Unit": "11 ft (3 m)",
+            "Shipping Length of Unit": "34.4 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "34.1 ft (10 m)",
+            "Max Digging Depth": "24.9 ft (7 m)",
+            "Max Loading Height": "24.3 ft (7 m)",
+            "Max Reach Along Ground": "36.1 ft (11 m)",
+            "Shipping Height of Unit": "11.4 ft (3 m)",
+            "Shipping Length of Unit": "34.4 ft (10 m)"
+        },
+        "Dimensions": {
+            "Cab height": "126.4 in (320 cm)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Length of Track on Ground": "34.3 ft (10 m)",
+            "Tail Swing Radius": "10.4 ft (3 m)",
+            "Wheelbase": "13.1 ft (4 m)",
+            "Width to Outside of Tracks": "9.5 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.6 in (10 cm)",
+            "Displacement": "475.4 cu in (0 m)",
+            "Engine Make": "Isuzu",
+            "Engine Model": "AL-6HK1X",
+            "Max Torque": "663.9 lbs/ft",
+            "Net Power": "206.6 hp (154 kw)",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5 in (13 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8.2 gal (30 l)",
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Hydraulic Pump Flow Capacity": "128.4 gal/min (484 l/min)",
+            "Hydraulic System Fluid Capacity": "79.3 gal (299 l)",
+            "Operating Weight": "65036.4 lbs (29,500 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "52380.5 lbs (23,759 kg)",
+            "Ground Pressure": "8.3 psi",
+            "Max Travel Speed": "3.4 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "50",
+            "Number of Track Rollers per Side": "9"
+        }
+    }
+}

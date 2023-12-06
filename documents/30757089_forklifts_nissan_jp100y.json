@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/nissan/jp100y/30757089",
+    "source_url_id": "30757089",
+    "source_url_model": "jp100y",
+    "source_url_make": "nissan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:37:28.790069",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Nissan",
+    "equipment_model": "JP100Y",
+    "equipment_spec": {
+        "Dimensions": {
+            "Right Angle Stack": "11.1 ft (3 m)",
+            "Turning Radius": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Gas-LPG",
+            "Power": "96.5 hp (72 kw)",
+            "Power Measured @": "2450 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "87 ft/min",
+            "Load Capacity": "10000 lbs (4,536 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12 mph (19 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

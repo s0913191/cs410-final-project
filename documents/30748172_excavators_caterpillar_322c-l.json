@@ -1,0 +1,106 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/322c-l/30748172",
+    "source_url_id": "30748172",
+    "source_url_model": "322c-l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:16.055904",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "322C L",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "36.9 ft (11 m)",
+            "Max Digging Depth": "14 ft (4 m)",
+            "Max Loading Height": "26 ft (8 m)",
+            "Max Reach Along Ground": "31.8 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "10.7 ft (3 m)",
+            "Shipping Height of Unit": "10.1 ft (3 m)",
+            "Shipping Length of Unit": "34.1 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "37.9 ft (11 m)",
+            "Max Digging Depth": "15.3 ft (5 m)",
+            "Max Loading Height": "27.7 ft (8 m)",
+            "Max Reach Along Ground": "33 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "12 ft (4 m)",
+            "Shipping Height of Unit": "10.1 ft (3 m)",
+            "Shipping Length of Unit": "33.4 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "39.2 ft (12 m)",
+            "Max Digging Depth": "16.7 ft (5 m)",
+            "Max Loading Height": "29 ft (9 m)",
+            "Max Reach Along Ground": "34.5 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "13.3 ft (4 m)",
+            "Shipping Height of Unit": "12.8 ft (4 m)",
+            "Shipping Length of Unit": "33.3 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "41.2 ft (13 m)",
+            "Max Digging Depth": "19.4 ft (6 m)",
+            "Max Loading Height": "32.3 ft (10 m)",
+            "Max Reach Along Ground": "37 ft (11 m)",
+            "Max Vertical Wall Dig Depth": "16.4 ft (5 m)",
+            "Shipping Length of Unit": "32.6 ft (10 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2.5 cu yds (2 m)",
+            "Minimum Bucket Capacity": "0.7 cu yds (0 m)",
+            "Reference Bucket Capacity": "1.6 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "23 ft (7 m)",
+            "Digging Reach": "23 ft (7 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Length of Track on Ground": "12.6 ft (4 m)",
+            "Tail Swing Radius": "9.9 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Maximum Drawbar Pull": "50132 lbs (22,740 kg)"
+        },
+        "Engine": {
+            "Bore": "4.4 in (10 cm)",
+            "Engine Model": "Cat 3126B ATAAC HEUI Fuel System",
+            "Net Power": "173 hp (129 kw)",
+            "Net Power - EEC 80/1269": "168 hp (125 kw)",
+            "Net Power - ISO 9249": "168 hp (125 kw)",
+            "Net Power - SAE J1349": "166 hp (124 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Boom Cylinder - Bore": "5.2 in (13 cm)",
+            "Boom Cylinder - Stroke": "51.4 in (130 cm)",
+            "Main Implement System - Maximum Flow (2x)": "58.1 gal/min",
+            "Maximum Pressure - Equipment": "4980 psi",
+            "Maximum Pressure - Swing": "3553 psi",
+            "Maximum Pressure - Travel": "4980 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "53400 lbs (24,222 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "10 gal (38 l)",
+            "Engine Oil": "9 gal (34 l)",
+            "Final Drive - Each": "1.3 gal (4 l)",
+            "Fuel Tank Capacity": "132 gal (500 l)",
+            "Hydraulic System - Including Tank": "64.7 gal (242 l)",
+            "Swing Drive": "2.1 gal (8 l)"
+        },
+        "Standards": {
+            "Brakes": "SAE J1026 APR90",
+            "Cab/FOGS": "SAE J1356 FEB88 ISO 10262"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "50132.4 lbs (22,740 kg)",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "31.5 in (79 cm)",
+            "Track Gauge": "8.5 ft (2 m)"
+        },
+        "Weights": {
+            "Operating Weight - Standard Undercarriage": "53351.8 lbs (24,200 kg)"
+        }
+    }
+}

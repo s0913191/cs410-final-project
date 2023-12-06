@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hypac/c340cw/36225",
+    "source_url_id": "36225",
+    "source_url_model": "c340cw",
+    "source_url_make": "hypac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:21.414263",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hypac",
+    "equipment_model": "C340CW",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "3.4 ft (1 m)",
+            "Drum Diameter - Rear": "4.5 ft (1 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height": "6.2 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "9 ft (3 m)",
+            "Overall Length": "15.3 in (38 cm)",
+            "Overall Width": "5.3 ft (2 m)",
+            "Wheelbase": "11.1 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "4B3.3TAA",
+            "Gross Power": "84 hp (63 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "30.2 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "15 gal (57 l)",
+            "Max Speed": "10.2 mph (16 kph)",
+            "Operating Voltage": "12 V V",
+            "Spray Water Capacity": "170.4 gal (643 l)"
+        },
+        "Weights": {
+            "Max Static Linear Load - Drive Drum": "193 lbs/in",
+            "Max Static Linear Load - guide drum": "153 lbs/in",
+            "Operating Weight - max ballast": "19320 lbs (8,764 kg)",
+            "Operating Weight - standard": "14080 lbs (6,387 kg)"
+        }
+    }
+}

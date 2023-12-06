@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/sakai/sv201t/30146946",
+    "source_url_id": "30146946",
+    "source_url_model": "sv201t",
+    "source_url_make": "sakai",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:55.316010",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV201T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.9 in (28 cm)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Overall Length w/o Blade": "13.9 ft (4 m)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Turning Radius - Inside": "8.6 ft (2 m)",
+            "Wheelbase": "7.7 in (18 cm)",
+            "Width Over Tires": "4.5 ft (1 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - Low": "16186.3 lbs (7,342 kg)",
+            "Drum Diameter": "41.4 in (104 cm)",
+            "Drum Width": "54 in (137 cm)",
+            "Frequency": "30 hz (1,800 vpm)",
+            "Number of Pads": "80",
+            "Pad Height": "2.8 in (5 cm)",
+            "Vibration Frequency": "1800 hz (108,000 vpm)",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Displacement": "199 cu in (0 m)",
+            "Engine Model": "B3.3-C",
+            "Gross Power": "60.4 hp (45 kw)",
+            "Make": "Cummins",
+            "Model": "B3.3-C",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "10.1 gal (38 l)",
+            "Max Speed": "4.7 mph (6 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9810.6 lbs (4,450 kg)",
+            "Operating Width": "54 in (137 cm)"
+        },
+        "Tires": {
+            "Tires": "11.2-20-6PR"
+        }
+    }
+}

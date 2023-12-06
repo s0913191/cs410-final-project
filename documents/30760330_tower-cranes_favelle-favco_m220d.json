@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/favelle-favco/m220d/30760330",
+    "source_url_id": "30760330",
+    "source_url_model": "m220d",
+    "source_url_make": "favelle-favco",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:15.998222",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Favelle Favco",
+    "equipment_model": "M220D",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "180 ft (55 m)",
+            "Max Lift Capacity": "33 t (29,937 kg)"
+        }
+    }
+}

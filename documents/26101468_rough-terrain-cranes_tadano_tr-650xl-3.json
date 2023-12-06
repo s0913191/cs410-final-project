@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/tadano/tr-650xl-3/26101468",
+    "source_url_id": "26101468",
+    "source_url_model": "tr-650xl-3",
+    "source_url_make": "tadano",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:04.248568",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "TR-650XL-3",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "202 ft (62 m)",
+            "Max Elevating Angle": "80.7  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "144.4 ft (44 m)",
+            "Max Lift Capacity": "65 t (58,967 kg)",
+            "Max Operating Radius": "120 ft (37 m)",
+            "Min Height @ Max Raise Angle": "37.7 ft (11 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "2.3 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "27.5 ft (8 m)",
+            "Transport Height": "12.5 ft (4 m)",
+            "Transport Length": "46.7 ft (14 m)",
+            "Transport Width": "10.9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "13.6 ft (4 m)",
+            "Wheelbase": "13 in (33 cm)",
+            "Width w/ Outriggers Extended": "23.7 ft (7 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged + aftercooled",
+            "Displacement": "460 cu in (0 m)",
+            "Engine Model": "6D16-TLEE",
+            "Gross Power": "223 hp (166 kw)",
+            "Max Torque": "521 lbs/ft",
+            "Power Measured @": "2700 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.5 gal (11 l)",
+            "Engine Oil Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "195.5 gal (738 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "105934 lbs (48,051 kg)",
+            "Tire Size": "29.5-25 22PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Electronically controlled full automatic transmission"
+        }
+    }
+}

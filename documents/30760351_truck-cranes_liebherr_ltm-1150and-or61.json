@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/liebherr/ltm-1150and-or61/30760351",
+    "source_url_id": "30760351",
+    "source_url_model": "ltm-1150and-or61",
+    "source_url_make": "liebherr",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:54.018934",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1150/6.1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "305 ft (93 m)",
+            "Max Lift Capacity": "155 t (140,614 kg)"
+        }
+    }
+}

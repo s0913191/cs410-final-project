@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/gb110/31076567",
+    "source_url_id": "31076567",
+    "source_url_model": "gb110",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:27:00.281584",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "GB110",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "10 hp (7 kw)"
+        },
+        "Production": {
+            "Series": "GB Series",
+            "Years Manufactured": "2002 - 2003"
+        }
+    }
+}

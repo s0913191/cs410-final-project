@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/3009d/30750139",
+    "source_url_id": "30750139",
+    "source_url_model": "3009d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:48.012124",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "300.9D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "5.5 ft (2 m)",
+            "Max Reach Along Ground": "9.8 ft (3 m)"
+        },
+        "Dimensions": {
+            "Tail Swing Radius": "2.5 ft (1 m)",
+            "Width": "28.8 in (71 cm)"
+        },
+        "Engine": {
+            "Displacement": "52 cu in (0 m)",
+            "Engine Model": "Yanmar 31NV70",
+            "Engine Type": "Water cooled model 3-cylinder diesel engine",
+            "Net Power": "13 hp (10 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "2060 lbs (934 kg)",
+            "Operating Weight (VPS & HPU300)": "2399 lbs (1,088 kg)"
+        }
+    }
+}

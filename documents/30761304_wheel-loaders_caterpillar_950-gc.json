@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/950-gc/30761304",
+    "source_url_id": "30761304",
+    "source_url_model": "950-gc",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:32.346842",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "950 GC",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacities": "5.75 YARDS"
+        },
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "428 cu in (0 m)",
+            "Engine Model": "Cat C7.1 ACERT",
+            "Net Power - ISO 9249": "225 hp (168 kw)",
+            "Stroke": "5.4 in (13 cm)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "41554 lbs (18,849 kg)"
+        },
+        "Weights": {
+            "Operating Weight": "41554 lbs (18,849 kg)"
+        },
+        "Dimensions": {
+            "Centerline of Rear Axle to Hitch": "65.1 in (165 cm)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Exhaust": "134.1 in (340 cm)",
+            "Height - Top of Hood": "105 in (267 cm)",
+            "Height - Top of ROPS/FOPS": "11.4 ft (3 m)",
+            "Wheel Base": "10.9 ft (3 m)"
+        },
+        "Hydraulic System": {
+            "Steering System - Pump Type": "Piston"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "13.2 gal (49 l)",
+            "Crankcase": "4.8 gal (15 l)",
+            "Differential - Final Drives - Front": "10.6 gal (38 l)",
+            "Differential - Final Drives - Rear": "10 gal (38 l)",
+            "Hydraulic Tank": "29.6 gal (110 l)",
+            "Transmission": "11.9 gal (42 l)"
+        },
+        "Transmission": {
+            "Forward - 1": "4.5 mph (6 kph)",
+            "Forward - 2": "8 mph (13 kph)",
+            "Forward - 3": "14.2 mph (23 kph)",
+            "Forward - 4": "22.4 mph (35 kph)",
+            "Reverse - 1": "4.5 mph (6 kph)",
+            "Reverse - 2": "8 mph (13 kph)",
+            "Reverse - 3": "14.2 mph (23 kph)"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l30b-1000-pro/30755396",
+    "source_url_id": "30755396",
+    "source_url_model": "l30b-1000-pro",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:54.178234",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L30B 1000 Pro",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "2 cu yds (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "D3DCDE2",
+            "Gross Power": "71 hp (53 kw)",
+            "Net Power": "68 hp (51 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "11464 lbs (5,200 kg)",
+            "Static Tipping Weight": "9590.2 lbs (4,350 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "19 mph (31 kph)"
+        }
+    }
+}

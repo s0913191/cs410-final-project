@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/9570-sts/30752578",
+    "source_url_id": "30752578",
+    "source_url_model": "9570-sts",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:32.354620",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "9570 STS",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1200 rpm",
+            "Cleaning Fan Speed - Low": "620 rpm",
+            "Total Cleaning Area": "5502.6 cu in (0 m)"
+        },
+        "Engine": {
+            "Displacement": "415 cu in (0 m)",
+            "Number of Cylinders": "6",
+            "Power": "265 hp (198 kw)",
+            "Power Boost Power": "298 hp (222 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "Feeding": {
+            "Conveyor Length": "68 in (173 cm)",
+            "Conveyor Width": "55 in (140 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "221.4 bu",
+            "Unloading Auger Length": "18.5 ft (5 m)",
+            "Unloading Discharge Height": "13.4 ft (4 m)",
+            "Unloading Speed": "2.2 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "200 gal (757 l)",
+            "Operating Weight w/o Attachment": "29945 lbs (13,583 kg)"
+        },
+        "Separating": {
+            "Discharge Grate Area": "465.1 cu in (0 m)",
+            "Separating Area": "2015.1 cu in (0 m)",
+            "Separator Type": "rotary"
+        },
+        "Threshing": {
+            "Concave Area": "1395.1 cu in (0 m)",
+            "Rotor Diameter": "23.7 in (58 cm)",
+            "Rotor Length": "123.3 in (312 cm)",
+            "Rotor Speed - High": "1300 rpm",
+            "Rotor Speed - Low": "230 rpm"
+        }
+    }
+}

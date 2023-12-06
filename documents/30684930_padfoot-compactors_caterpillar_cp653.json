@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/caterpillar/cp653/30684930",
+    "source_url_id": "30684930",
+    "source_url_model": "cp653",
+    "source_url_make": "caterpillar",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:28.380509",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CP653",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "12.2 ft (4 m)",
+            "Overall Length w/o Blade": "20.2 ft (6 m)",
+            "Width Over Tires": "8.1 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "48995 lbs (22,224 kg)",
+            "Drum Diameter": "67 in (170 cm)",
+            "Drum Width": "86.7 in (218 cm)",
+            "Vibration Frequency 1": "32.5 hz (1,920 vpm)"
+        },
+        "Engine": {
+            "Displacement": "427.2 cu in (0 m)",
+            "Engine Model": "3304",
+            "Gross Power": "134.2 hp (100 kw)"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "60.8 gal (227 l)",
+            "Hydraulic System Fluid Capacity": "34.4 gal (129 l)",
+            "Max Speed": "9.7 mph (14 kph)",
+            "Operating Weight": "40785.6 lbs (18,500 kg)"
+        },
+        "Tires": {
+            "Tires": "20.5x25 XRA"
+        }
+    }
+}

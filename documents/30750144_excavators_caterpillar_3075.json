@@ -1,0 +1,94 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/3075/30750144",
+    "source_url_id": "30750144",
+    "source_url_model": "3075",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:17.494568",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "307.5",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "17 in (43 cm)",
+            "Blade Width": "7.5 ft (2 m)"
+        },
+        "Dimensions - Long Stick": {
+            "Boom In Reach": "88.6 in (224 cm)",
+            "Dig Depth": "183 in (465 cm)",
+            "Maximum Blade Depth": "16.3 in (41 cm)",
+            "Maximum Blade Height": "14.3 in (36 cm)",
+            "Maximum Dig Height": "305.4 in (775 cm)",
+            "Maximum Dump Clearance": "224.8 in (569 cm)",
+            "Maximum Reach": "267.9 in (678 cm)",
+            "Maximum Reach - Ground Level": "262.7 in (665 cm)",
+            "O/A Shipping Length": "246.3 in (625 cm)",
+            "O/A Track Width": "86.6 in (218 cm)",
+            "O/A Undercarriage Length": "113.4 in (287 cm)",
+            "Stick Length": "86.9 in (218 cm)",
+            "Swing Bearing - Height": "28.7 in (71 cm)",
+            "Track Belt/Shoe Width": "17.7 in (43 cm)",
+            "Vertical Wall": "162.2 in (411 cm)"
+        },
+        "Dimensions - Standard Stick": {
+            "Boom In Reach": "66.2 in (168 cm)",
+            "Dig Depth": "161.7 in (409 cm)",
+            "Maximum Blade Depth": "16.3 in (41 cm)",
+            "Maximum Blade Height": "14.3 in (36 cm)",
+            "Maximum Dig Height": "289 in (734 cm)",
+            "Maximum Dump Clearance": "208.4 in (528 cm)",
+            "Maximum Reach": "247.9 in (627 cm)",
+            "Maximum Reach - Ground Level": "242.2 in (615 cm)",
+            "O/A Shipping Length": "241.9 in (612 cm)",
+            "O/A Track Width": "86.6 in (218 cm)",
+            "O/A Undercarriage Length": "113.4 in (287 cm)",
+            "Stick Length": "65.6 in (165 cm)",
+            "Swing Bearing - Height": "28.7 in (71 cm)",
+            "Track Belt/Shoe Width": "17.7 in (43 cm)",
+            "Vertical Wall": "141.9 in (358 cm)"
+        },
+        "Engine": {
+            "Bore": "3.4 in (8 cm)",
+            "Displacement": "148 cu in (0 m)",
+            "Engine Model": "Cat C2.4 Turbo",
+            "Net Power": "55.9 hp (41 kw)",
+            "Stroke": "4 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Auxiliary Circuit - Primary - Flow": "35 gal/min (132 l/min)",
+            "Auxiliary Circuit - Primary - Pressure": "4134 psi",
+            "Auxiliary Circuit - Secondary - Flow": "9 gal/min (34 l/min)",
+            "Auxiliary Circuit - Secondary - Pressure": "4134 psi",
+            "Digging Force - Bucket": "12272 lbs (5,567 kg)",
+            "Digging Force - Stick - Long": "7579 lbs (3,438 kg)",
+            "Digging Force - Stick - Standard": "8504 lbs (3,857 kg)",
+            "Hydraulic System Type": "Load Sensing Hydraulics with Variable Displacement Piston Pump",
+            "Operating Pressure - Equipment": "4134 psi",
+            "Operating Pressure - Swing": "3626 psi",
+            "Operating Pressure - Travel": "4134 psi",
+            "Pump Flow at 2,400 rpm": "44 gal/min (167 l/min)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "2.6 gal (8 l)",
+            "Engine Oil": "2.5 gal (8 l)",
+            "Fuel Tank": "38 gal (144 l)",
+            "Hydraulic System": "27 gal (102 l)",
+            "Hydraulic Tank": "14 gal (53 l)"
+        },
+        "Swing System": {
+            "Machine Swing Speed": "10 rpm"
+        },
+        "Travel System": {
+            "Gradeability - Maximum": "30  \t\u00b0",
+            "Ground Pressure - Maximum Weight": "5 psi",
+            "Ground Pressure - Minimum Weight": "5 psi",
+            "Maximum Traction Force - High Speed": "5856 lbs (2,656 kg)",
+            "Maximum Traction Force - Low Speed": "14035 lbs (6,366 kg)",
+            "Travel Speed - High": "3.1 mph (5 kph)",
+            "Travel Speed - Low": "1.9 mph (2 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "18152 lbs (8,234 kg)"
+        }
+    }
+}

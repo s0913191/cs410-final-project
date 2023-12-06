@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/xcmg/xct70e/19822365",
+    "source_url_id": "19822365",
+    "source_url_model": "xct70e",
+    "source_url_make": "xcmg",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:23.203479",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "XCMG",
+    "equipment_model": "XCT70E",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "147.7 ft (45 m)",
+            "Max Lift Capacity": "140000 lbs (63,504 kg)",
+            "Min Height @ Max Raise Angle": "38.8 ft (12 m)"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "370.2 hp (276 kw)",
+            "Model": "WD615.338",
+            "Power Measured @": "2200 rpm"
+        },
+        "Dimensions": {
+            "Angle of departure": "14  \t\u00b0",
+            "Approach Angle": "21  \t\u00b0",
+            "Gradeability": "40%",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Transport Height": "12.1 ft (4 m)",
+            "Transport Length": "46.5 ft (14 m)",
+            "Transport Width": "9.2 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "12.7 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "98083.7 lbs (44,490 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49.8 mph (79 kph)"
+        }
+    }
+}

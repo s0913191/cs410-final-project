@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/795/31075982",
+    "source_url_id": "31075982",
+    "source_url_model": "795",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:10:12.105367",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "795",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "77 hp (57 kw)"
+        },
+        "Production": {
+            "Series": "95 Utility Series",
+            "Years Manufactured": "1991 - 1994"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m6132/31076749",
+    "source_url_id": "31076749",
+    "source_url_model": "m6132",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:20.853633",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M6132",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "132 hp (98 kw)"
+        },
+        "Production": {
+            "Series": "M6002 Series",
+            "Years Manufactured": "2020 -"
+        }
+    }
+}

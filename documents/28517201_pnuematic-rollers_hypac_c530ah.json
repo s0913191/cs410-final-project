@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/hypac/c530ah/28517201",
+    "source_url_id": "28517201",
+    "source_url_model": "c530ah",
+    "source_url_make": "hypac",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:33.715493",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Hypac",
+    "equipment_model": "C530AH",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 ft (4 m)",
+            "Height - Top of ROPS/FOPS": "9.5 ft (3 m)",
+            "Overall Length": "14.6 in (36 cm)",
+            "Overall Width": "5.7 ft (2 m)",
+            "Turning Radius - Inside": "108 in (274 cm)",
+            "Wheelbase": "7.4 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "4B3.3TA",
+            "Gross Power": "85 hp (63 kw)",
+            "Make": "Cummins",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "30.2 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "28.6 gal (106 l)",
+            "Max Speed": "15.6 mph (24 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Width": "68 in (173 cm)",
+            "Water Spray Tank Fluid Capacity": "150.1 gal (568 l)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "4",
+            "Number of Tires - Rear": "5",
+            "Oscillation Angle": "10  \t\u00b0",
+            "Standard Tire Size": "7.50x15, 12ply",
+            "Wheel Track/Tire Overlap": "0.5 in (0 cm)"
+        },
+        "Weights": {
+            "Average Weight per Wheel - Max Ballast": "3000 lbs (1,361 kg)",
+            "Operating Weight - max ballast": "27000 lbs (12,247 kg)",
+            "Operating Weight - standard": "9975 lbs (4,525 kg)"
+        }
+    }
+}

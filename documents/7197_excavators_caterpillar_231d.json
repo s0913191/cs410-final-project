@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/231d/7197",
+    "source_url_id": "7197",
+    "source_url_model": "231d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:54:41.067513",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "231D",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.1 ft (10 m)",
+            "Max Digging Depth": "22.8 ft (7 m)",
+            "Max Loading Height": "23.5 ft (7 m)",
+            "Max Reach Along Ground": "35 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "17.4 ft (5 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "34 ft (10 m)",
+            "Max Digging Depth": "24.8 ft (7 m)",
+            "Max Loading Height": "24.3 ft (7 m)",
+            "Max Reach Along Ground": "36.8 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "20.2 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height - Top of Cab": "11.1 ft (3 m)",
+            "Removal Counterweight Clearance": "4.1 ft (1 m)",
+            "Tail Swing Radius": "10.2 ft (3 m)",
+            "Width to Outside of Tracks": "11.4 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "634.7 cu in (0 m)",
+            "Engine Model": "3208",
+            "Net Power": "200 hp (149 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic Pump Flow Capacity": "121 gal/min (458 l/min)",
+            "Hydraulic System Relief Valve Pressure": "4800 psi",
+            "Operating Weight": "77602.8 lbs (35,200 kg)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "67442.7 lbs (30,592 kg)",
+            "Ground Pressure": "8.7 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "32.1 in (81 cm)",
+            "Track Gauge": "8.7 ft (2 m)"
+        }
+    }
+}

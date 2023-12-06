@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/john-deere/455d/30685348",
+    "source_url_id": "30685348",
+    "source_url_model": "455d",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:21.797545",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "455D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "10.8 ft (3 m)",
+            "Ground Clearance": "6.5 ft (2 m)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Length to Front of Track": "2.8 ft (1 m)",
+            "Length with Bucket on Ground": "0.3 ft (0 m)",
+            "Reach at Dump Height": "8.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "219 cu in (0 m)",
+            "Max Torque": "190 lbs/ft",
+            "Net Power": "67 hp (50 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "28 gal/min (106 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "2250 psi"
+        },
+        "Operating Specifications": {
+            "Breakout Force  Bucket": "15174 lbs (6,883 kg)",
+            "Bucket Capacity - struck": "1.3 cu yds (1 m)",
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Engine Oil Capacity": "2.3 gal (8 l)",
+            "Final Drive Fluid Capacity - each": "1.6 gal (4 l)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Hydraulic System Fluid Capacity": "13 gal (49 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "17150 lbs (7,779 kg)",
+            "Static Tipping Load": "11000 lbs (4,990 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2128 cu in (0 m)",
+            "Ground Pressure": "8.1 psi",
+            "Length of Track on Ground": "6.4 ft (2 m)",
+            "Number of Shoes per Side": "37",
+            "Number of Track Rollers per Side": "1",
+            "Track Gauge": "52 in (132 cm)",
+            "Track Shoe Width": "14 in (36 cm)"
+        }
+    }
+}

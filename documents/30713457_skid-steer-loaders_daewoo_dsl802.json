@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/daewoo/dsl802/30713457",
+    "source_url_id": "30713457",
+    "source_url_model": "dsl802",
+    "source_url_make": "daewoo",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:37.735965",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Daewoo",
+    "equipment_model": "DSL802",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.7 ft (2 m)",
+            "Ground Clearance": "8.6 in (20 cm)",
+            "Height - Top of Cab": "6.7 ft (2 m)",
+            "Length w/o Bucket": "8.3 ft (2 m)",
+            "Length with Bucket": "10.5 ft (3 m)",
+            "Reach at Max Lift and Dump": "22.6 in (56 cm)",
+            "Turning Radius from Center - inc bucket": "74.2 in (188 cm)",
+            "Turning Radius from Center - machine rear": "62.8 in (157 cm)",
+            "Wheelbase": "3.5 ft (1 m)",
+            "Width Over Tires": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "181.7 cu in (0 m)",
+            "Engine Model": "D430",
+            "Gross Power": "64 hp (48 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "20.6 gal/min (76 l/min)"
+        },
+        "Loader": {
+            "Breakout Force": "5467.5 psi",
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load Rating": "1699.8 lbs (771 kg)",
+            "Tipping Angle": "3593.6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "21.2 gal (79 l)",
+            "Max Speed": "6.8 mph (10 kph)",
+            "Operational Weight": "6594.1 lbs (2,991 kg)",
+            "Tire Size": "12 x 16.5"
+        }
+    }
+}

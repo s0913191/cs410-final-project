@@ -1,0 +1,96 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/988k/5173",
+    "source_url_id": "5173",
+    "source_url_model": "988k",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:00.855310",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "988K",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "13.3 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Cat",
+            "Model": "C18 ACERT",
+            "Net Power": "541 hp (403 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "8.3 - 10 cu yds (6 - 8 m)"
+        },
+        "Weights": {
+            "Operational Weight": "114359 lbs (51,873 kg)"
+        },
+        "Axles": {
+            "Front": "Fixed",
+            "Oscillation Angle": "6  \t\u00b0",
+            "Rear": "Trunnion"
+        },
+        "Brakes": {
+            "Brakes": "SAE J1473 OCT90, ISO 3450:1992"
+        },
+        "Hydraulic Cycle Times": {
+            "Dump": "2.2 sec",
+            "Lower Float Down": "3.5 sec",
+            "Rack Back": "4.5 sec",
+            "Raise": "8 sec",
+            "Total Hydraulic Cycle Time - Empty Bucket": "18.2 sec"
+        },
+        "Hydraulic System - Lift/Tilt": {
+            "Cylinders, Double Acting - Lift, Bore and Stroke": "210 mm  1050 mm (8.3 in  41.3 in)",
+            "Cylinders, Double Acting - Tilt, Bore and Stroke": "267 mm  685 mm (10.5 in  27.0 in)",
+            "Lift/Tilt System": "Variable displacement piston",
+            "Lift/Tilt System - Circuit": "EH- Positive Flow Control, Flow Sharing",
+            "Maximum Flow at 1,400-1,860 rpm": "153 gal/min (579 l/min)",
+            "Pilot System": "Variable displacement piston",
+            "Relief Valve Setting": "551 psi",
+            "Relief Valve Setting - Lift/Tilt": "4757 psi"
+        },
+        "Hydraulic System - Steering": {
+            "Maximum Flow": "71.3 gal/min (269 l/min)",
+            "Relief Valve Setting - Steering": "4351 psi",
+            "Steering Cycle Times - High Idle": "3.4 sec",
+            "Steering Cycle Times - Low Idle": "5.6 sec",
+            "Steering System - Circuit": "Pilot, load sensing",
+            "Steering System - Pump": "Piston, variable displacement",
+            "Total Steering Angle": "80  \t\u00b0"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "31.7 gal (117 l)",
+            "Crankcase": "15.9 gal (57 l)",
+            "Differential - Final Drives - Front": "49.1 gal (185 l)",
+            "Differential - Final Drives - Rear": "49.1 gal (185 l)",
+            "Fuel Tank": "181 gal (685 l)",
+            "Hydraulic System - Tank Only": "63.4 gal (238 l)",
+            "Hydraulic System Factory Fill": "125.5 gal (473 l)",
+            "Transmission": "31.7 gal (117 l)"
+        },
+        "Transmission": {
+            "Direct Drive - Forward 1": "Lock-up disabled",
+            "Direct Drive - Forward 2": "7.8 mph (11 kph)",
+            "Direct Drive - Forward 3": "13.9 mph (21 kph)",
+            "Direct Drive - Forward 4": "24.4 mph (39 kph)",
+            "Direct Drive - Reverse 1": "5 mph (8 kph)",
+            "Direct Drive - Reverse 2": "8.9 mph (13 kph)",
+            "Direct Drive - Reverse 3": "15.8 mph (24 kph)",
+            "Forward - 1": "4 mph (6 kph)",
+            "Forward - 2": "7.2 mph (11 kph)",
+            "Forward - 3": "12.7 mph (19 kph)",
+            "Forward - 4": "21.6 mph (34 kph)",
+            "Reverse - 1": "4.7 mph (6 kph)",
+            "Reverse - 2": "8.3 mph (13 kph)",
+            "Reverse - 3": "14.4 mph (23 kph)",
+            "Transmission Type": "Cat planetary power shift"
+        },
+        "Sound Performance - Standard": {
+            "Machine Sound Level (ISO 6395)": "111 dB(A)",
+            "Operator Sound Level (ISO 6396)": "71 dB(A)"
+        },
+        "Sound Performance - Suppression": {
+            "Machine Sound Level (ISO 6395)": "109 dB(A)",
+            "Operator Sound Level (ISO 6396)": "70 dB(A)"
+        }
+    }
+}

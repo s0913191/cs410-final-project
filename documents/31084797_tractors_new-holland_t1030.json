@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/t1030/31084797",
+    "source_url_id": "31084797",
+    "source_url_model": "t1030",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:37.502795",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "T1030",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "26 hp (19 kw)"
+        },
+        "Production": {
+            "Series": "T1000 Series",
+            "Years Manufactured": "2008"
+        }
+    }
+}

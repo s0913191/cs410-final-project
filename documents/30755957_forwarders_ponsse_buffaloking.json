@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/ponsse/buffaloking/30755957",
+    "source_url_id": "30755957",
+    "source_url_model": "buffaloking",
+    "source_url_make": "ponsse",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:51.819184",
+    "equipment_category": "Forwarders",
+    "equipment_make": "Ponsse",
+    "equipment_model": "BuffaloKing",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Area": "59.3 CUBIC ft",
+            "Load Weight - 6wd": "39683.3 lbs (18,000 kg)"
+        },
+        "Crane": {
+            "Crane Type": "Ponsse K100",
+            "Gross Lift Torque": "106946.6 lbs/ft",
+            "Max Reach": "31.2 ft (9 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.4 ft (1 m)",
+            "Height to Top of crane": "12.8 ft (4 m)",
+            "Length": "36.9 ft (11 m)",
+            "Length of Bunk Area": "17.8 ft (5 m)",
+            "Width Over Tires": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "OM906LA",
+            "Power": "275 hp (205 kw)",
+            "Torque": "811.4 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Type": "Load-sensing system",
+            "Relief Valve Pressure": "3408.4 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Hydraulic System Fluid Capacity": "52.9 gal (197 l)",
+            "Operating Weight - 6wd": "40785.6 lbs (18,500 kg)"
+        }
+    }
+}

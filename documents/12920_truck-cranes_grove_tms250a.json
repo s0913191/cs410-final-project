@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tms250a/12920",
+    "source_url_id": "12920",
+    "source_url_model": "tms250a",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:38.187365",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TMS250A",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "75  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "106 ft (32 m)",
+            "Max Lift Capacity": "50000 lbs (22,680 kg)",
+            "Min Height @ Max Raise Angle": "32 ft (10 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.7 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "504 cu in (0 m)",
+            "Make": "Grove",
+            "Max Torque": "343 lbs/ft",
+            "Model": "V8-210",
+            "Net Power": "160 hp (119 kw)",
+            "Power Measured @": "2800 rpm",
+            "Torque Measured @": "1900 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "32 ft (10 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Transport Height": "11 ft (3 m)",
+            "Transport Length": "39.8 ft (12 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.5 ft (3 m)",
+            "Width w/ Outriggers Extended": "20 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Carrier Fuel Capacity": "60 gal (227 l)",
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "48728 lbs (22,103 kg)",
+            "Tire Size": "front 15x22.5 rear 9.00x20",
+            "Upper Structure Hydraulic System Fluid Capacity": "86 gal (326 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "65.2 mph (105 kph)",
+            "Number of Forward Gears": "13",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Fuller Roadranger RTO 613"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Grove"
+        }
+    }
+}

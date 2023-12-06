@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/lx41/32024",
+    "source_url_id": "32024",
+    "source_url_model": "lx41",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:04.923209",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "LX41",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "1,500 lbs (680 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "SP/40.5 ft (0 m)",
+            "Stowed Height": "6.1 ft (2 m)",
+            "Stowed Width": "7.5 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "10x16.5NHS-8 PLY"
+        },
+        "Transmission": {
+            "4WD": "opt."
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/tb42j/30436919",
+    "source_url_id": "30436919",
+    "source_url_model": "tb42j",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:53.669329",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "TB42J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Boom Type/Size": "ST, J ft (0 m)",
+            "Platform Size": "5x2.5 ft (2 m)",
+            "Stowed Height": "7.5 ft (2 m)",
+            "Stowed Width": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "gas/diesel"
+        },
+        "Performance": {
+            "Fuel Capacity": "20 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "20 gal (76 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "11600.8 lbs (5,262 kg)",
+            "Tire Fill/Type": "pneumatic",
+            "Tire Size": "12x16.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "34.8 ft (10 m)",
+            "Max Platform Height": "41.4 ft (13 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Platform Inner Length": "59.9 in (150 cm)",
+            "Platform Inner Width": "30 in (76 cm)"
+        },
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Tires": {
+            "Tire Size": "12x16.5"
+        },
+        "Transmission": {
+            "4WD": "Std"
+        }
+    }
+}

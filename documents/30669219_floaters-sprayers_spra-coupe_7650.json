@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/spra-coupe/7650/30669219",
+    "source_url_id": "30669219",
+    "source_url_model": "7650",
+    "source_url_make": "spra-coupe",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:07:22.219736",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Spra-Coupe",
+    "equipment_model": "7650",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "96 in (244 cm)",
+            "Max Boom Width": "80 ft (24 m)",
+            "Min Adjustable Height": "23 in (58 cm)",
+            "Min Boom Width": "60 ft (18 m)",
+            "Nozzle Spacing": "20 in (51 cm)",
+            "Number of Sections": "5"
+        },
+        "Dimensions": {
+            "Ground Clearance": "4 ft (1 m)",
+            "Tire Size": "Front 320/85R38, R1-W, Rear 320/90R46"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "365 cu in (0 m)",
+            "Engine Model": "1106C",
+            "Gross Power": "174 hp (130 kw)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "18000 lbs (8,165 kg)",
+            "Fuel Capacity": "65 gal (246 l)",
+            "Rinse Tank Capacity": "65 gal (246 l)",
+            "Solution Tank Capacity": "725 gal (2,744 l)"
+        },
+        "Transmission": {
+            "Max Speed": "27.5 mph (43 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Powershift - 6 speed"
+        }
+    }
+}

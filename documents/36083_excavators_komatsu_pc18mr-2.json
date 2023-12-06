@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/komatsu/pc18mr-2/36083",
+    "source_url_id": "36083",
+    "source_url_model": "pc18mr-2",
+    "source_url_make": "komatsu",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:09:47.939565",
+    "equipment_category": "Excavators",
+    "equipment_make": "Komatsu",
+    "equipment_model": "PC18MR-2",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "11.9 ft (3 m)",
+            "Max Digging Depth": "7.1 ft (2 m)",
+            "Max Loading Height": "8.6 ft (2 m)",
+            "Max Reach Along Ground": "13.2 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "5.9 ft (2 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "12.5 ft (4 m)",
+            "Max Digging Depth": "7.9 ft (2 m)",
+            "Max Loading Height": "9.3 ft (3 m)",
+            "Max Reach Along Ground": "14 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "13.8 ft (4 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "12 ft (4 m)",
+            "Height - Top of Cab": "8 ft (2 m)",
+            "Length of Track on Ground": "5.1 ft (2 m)",
+            "Tail Swing Radius": "2.4 ft (1 m)",
+            "Width to Outside of Tracks": "3.3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "47.4 cu in (0 m)",
+            "Engine Model": "3D67E-5",
+            "Net Power": "15 hp (11 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "47.4 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Engine Oil Capacity": "0.9 gal (0 l)",
+            "Fuel Capacity": "5 gal (19 l)",
+            "Hydraulic System Fluid Capacity": "4 gal (15 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "1855 lbs (841 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.9 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Number of Track Rollers per Side": "3"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/mf-415/30751498",
+    "source_url_id": "30751498",
+    "source_url_model": "mf-415",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:53.091061",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "MF 415",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "6.9 ft (2 m)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.1 ft (2 m)",
+            "Overall Length": "12.6 in (30 cm)",
+            "Tire Size": "front 12.5/80-18 rear 14.9-24",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "152.6 cu in (0 m)",
+            "Engine Model": "AD3.152",
+            "Gross Power": "46 hp (34 kw)",
+            "Max Torque": "133.5 lbs/ft",
+            "Power Measured @": "2250 rpm",
+            "PTO Power": "39.7 hp (29 kw)",
+            "Torque Measured @": "1350 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "4.5 gal/min (15 l/min)",
+            "Relief Valve Pressure": "3045.8 psi",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4629.8 lbs (2,100 kg)",
+            "Fuel Capacity": "15.1 gal (57 l)",
+            "Operating Weight": "4872.3 lbs (2,210 kg)",
+            "Tire Size Front - 2wd / 4wd": "6.00-16"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9-24"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "sliding spur"
+        }
+    }
+}

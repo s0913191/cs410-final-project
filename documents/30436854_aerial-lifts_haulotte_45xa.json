@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/45xa/30436854",
+    "source_url_id": "30436854",
+    "source_url_model": "45xa",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:33.284975",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "45XA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "45%",
+            "Ground Clearance": "6 in (15 cm)",
+            "Lift capacity to full height": "500 lbs (227 kg)",
+            "Outrigger Footprint Length": "11.4 ft (3 m)",
+            "Overall Height - mast lowered": "6.7 ft (2 m)",
+            "Overall Length": "218.4 in (554 cm)",
+            "Overall Width": "5.6 ft (2 m)",
+            "Turning Radius": "5.4 ft (2 m)",
+            "Up and Over Height": "20.9 ft (6 m)",
+            "Wheelbase": "8.9 ft (2 m)"
+        },
+        "Engine": {
+            "Charger Amps": "260",
+            "Engine Make": "Kubota",
+            "Gross Power": "31 hp (23 kw)",
+            "Number of Batteries": "4",
+            "System Voltage": "6 V"
+        },
+        "Performance": {
+            "Leveling capability": "12.5  \t\u00b0",
+            "Operating Weight": "5200 lbs (2,359 kg)",
+            "Tire Size": "26 x 12 Bar lug",
+            "Turntable rotation": "350  \t\u00b0"
+        },
+        "Platform": {
+            "Jib Length": "4.3 ft (1 m)",
+            "Jib Range of Motion - Vertical": "150  \t\u00b0",
+            "Max Horizontal Reach": "27 ft (8 m)",
+            "Max Platform Height": "45 ft (14 m)",
+            "Max Working Height": "51 ft (16 m)",
+            "Platform size": "2.6 ft (1 m)"
+        }
+    }
+}

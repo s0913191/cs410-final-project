@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/k008-3/22919",
+    "source_url_id": "22919",
+    "source_url_model": "k008-3",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:12:49.613272",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "K008-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "9.5 ft (3 m)",
+            "Max Digging Depth": "5.7 ft (2 m)",
+            "Max Digging Height": "9.5 ft (3 m)",
+            "Max Loading Height": "6.7 ft (2 m)",
+            "Max Reach Along Ground": "10 ft (3 m)",
+            "Max Vertical Wall Digging Depth": "4.6 ft (1 m)",
+            "Max. breakout force Bucket": "2200 lbs (998 kg)",
+            "Max. breakoutArm": "1010 lbs (458 kg)",
+            "Max.Dumping Height": "6.7 ft (2 m)",
+            "Mximum dig radius": "121.1 in (307 cm)",
+            "Shipping Height of Unit": "7.4 ft (2 m)",
+            "Shipping Length of Unit": "9 ft (3 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.5 ft (0 m)",
+            "Height - Top of Cab": "2.9 ft (1 m)",
+            "Shoe width": "0.6 ft (0 m)",
+            "Tail Swing Radius": "2.5 ft (1 m)",
+            "Width to Outside of Tracks": "2.3 ft (1 m)"
+        },
+        "Electrical System": {
+            "Battery capacity": "150 CCA",
+            "Battery voltage": "12 VDC 30 AH",
+            "Engine shut-off": "Key",
+            "Lighting": "Front working"
+        },
+        "Engine": {
+            "Displacement": "44 cu in (0 m)",
+            "Engine Model": "KUBOTA D722-EBH",
+            "Engine Type": "Water cooled",
+            "Fuel Type": "Diesel",
+            "Gross Power": "7.7 hp (5 kw)",
+            "Net Power": "7.5 hp (5 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2050 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "3.2 gal (11 l)",
+            "Hydraulic Pump Flow Capacity": "5.6 gal/min (19 l/min)",
+            "Hydraulic System Fluid Capacity": "3.3 gal (11 l)",
+            "Operating Weight": "2200 lbs (998 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.3 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "1390 lbs (631 kg)",
+            "Ground Pressure": "3.5 psi",
+            "Max Travel Speed": "2.5 mph (3 kph)",
+            "Shoe Size": "7.1 in (18 cm)"
+        }
+    }
+}

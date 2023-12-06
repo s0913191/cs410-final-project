@@ -1,0 +1,16 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/8230/31075212",
+    "source_url_id": "31075212",
+    "source_url_model": "8230",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:23:56.890088",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "8230",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "245 hp (183 kw)"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/terex/ta30-is/30750518",
+    "source_url_id": "30750518",
+    "source_url_model": "ta30-is",
+    "source_url_make": "terex",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:29.866859",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Terex",
+    "equipment_model": "TA30-IS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2.4 ft (1 m)",
+            "Dump Height": "20.1 ft (6 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Overall Height": "11.4 ft (3 m)",
+            "Overall Length": "32.1 ft (10 m)",
+            "Overall Width": "9.5 ft (3 m)",
+            "Wheelbase": "16.8 ft (5 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "22.9 cu yds (17 m)",
+            "Capacity - Struck": "18.1 cu yds (14 m)",
+            "Dump Angle": "65  \t\u00b0",
+            "Lower Time": "7.5 sec",
+            "Raise Time": "12 sec",
+            "Rated Payload": "61730 lbs (28,001 kg)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "660 cu in (0 m)",
+            "Engine Model": "QSM11",
+            "Gross Power": "385 hp (287 kw)",
+            "Max Torque": "1310 lbs/ft",
+            "Net Power": "333 hp (248 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "14.3 gal (53 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Fuel Capacity": "103.1 gal (390 l)",
+            "Hydraulic System Fluid Capacity": "53.4 gal (201 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "23.5R25",
+            "Transmission Fluid Capacity": "16.7 gal (61 l)"
+        },
+        "Transmission": {
+            "Max Speed": "31.7 mph (50 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "ZF 6WG 310 RPC"
+        },
+        "Weights": {
+            "Center Axle - empty": "11685 lbs (5,300 kg)",
+            "Center Axle - loaded": "36860 lbs (16,720 kg)",
+            "Front Axle - empty": "25840 lbs (11,721 kg)",
+            "Front Axle - loaded": "37040 lbs (16,801 kg)",
+            "Rear Axle - empty": "11905 lbs (5,400 kg)",
+            "Rear Axle - loaded": "37360 lbs (16,946 kg)",
+            "Total Empty": "49430 lbs (22,421 kg)",
+            "Total Loaded": "111160 lbs (50,422 kg)"
+        }
+    }
+}

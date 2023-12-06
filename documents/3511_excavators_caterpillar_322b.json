@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/322b/3511",
+    "source_url_id": "3511",
+    "source_url_model": "322b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:15.354121",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "322B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "31.8 ft (9 m)",
+            "Max Digging Depth": "22.1 ft (7 m)",
+            "Max Loading Height": "22.1 ft (7 m)",
+            "Max Reach Along Ground": "32.9 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "18.8 ft (5 m)",
+            "Shipping Height of Unit": "10.3 ft (3 m)",
+            "Shipping Length of Unit": "32.7 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "31.2 ft (9 m)",
+            "Max Digging Depth": "20.6 ft (6 m)",
+            "Max Loading Height": "21.5 ft (6 m)",
+            "Max Reach Along Ground": "31.5 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17.3 ft (5 m)",
+            "Shipping Height of Unit": "10.8 ft (3 m)",
+            "Shipping Length of Unit": "32.9 ft (10 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "30.1 ft (9 m)",
+            "Max Digging Depth": "19.4 ft (6 m)",
+            "Max Loading Height": "19.7 ft (6 m)",
+            "Max Reach Along Ground": "30 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "17 ft (5 m)",
+            "Shipping Height of Unit": "11.4 ft (3 m)",
+            "Shipping Length of Unit": "30.9 ft (9 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1.3 cu yds (1 m)",
+            "Reference Bucket Capacity": "1.4 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.8 ft (3 m)",
+            "Length of Track on Ground": "11.4 ft (3 m)",
+            "Removal Counterweight Clearance": "3.6 ft (1 m)",
+            "Tail Swing Radius": "9.6 ft (3 m)",
+            "Width to Outside of Tracks": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and Aftercooled",
+            "Displacement": "403 cu in (0 m)",
+            "Engine Model": "3116TA",
+            "Net Gross": "161 hp (120 kw)",
+            "Net Power": "153 hp (114 kw)",
+            "Power Measured @": "1950 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55 A",
+            "Cooling System Fluid Capacity": "8.4 gal (30 l)",
+            "Engine Oil Capacity": "5.7 gal (19 l)",
+            "Fuel Capacity": "89.9 gal (337 l)",
+            "Hydraulic Pump Flow Capacity": "108.4 gal/min (409 l/min)",
+            "Hydraulic System Fluid Capacity": "70.1 gal (265 l)",
+            "Hydraulic System Relief Valve Pressure": "4980 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "50177.3 lbs (22,760 kg)",
+            "Swing Drive Fluid Capacity": "2.2 gal (8 l)"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "43613 lbs (19,783 kg)",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "7.9 ft (2 m)"
+        }
+    }
+}

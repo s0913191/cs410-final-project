@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx225lc-slr/30762618",
+    "source_url_id": "30762618",
+    "source_url_model": "dx225lc-slr",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:35.517530",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX225LC SLR",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "38.3 ft (12 m)",
+            "Max Reach Along Ground": "50.0 ft (15 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "38.3 ft (12 m)",
+            "Digging Reach": "50 ft (15 m)"
+        },
+        "Engine": {
+            "Net Power": "157 hp (117 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "51147 lbs (23,200 kg)"
+        }
+    }
+}

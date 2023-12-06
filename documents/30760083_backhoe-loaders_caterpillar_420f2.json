@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/420f2/30760083",
+    "source_url_id": "30760083",
+    "source_url_model": "420f2",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:38.084464",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "420F2",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14.3 ft (4 m)",
+            "Load Height": "11.9 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "93 hp (69 kw)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "11575 lbs (5,250 kg)",
+            "Lift Capacity": "3168 lbs (1,437 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "17732 lbs (8,043 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "25 mph (40 kph)"
+        }
+    }
+}

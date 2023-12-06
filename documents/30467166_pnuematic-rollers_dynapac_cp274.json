@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/dynapac/cp274/30467166",
+    "source_url_id": "30467166",
+    "source_url_model": "cp274",
+    "source_url_make": "dynapac",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:22.248350",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CP274",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "280 in (711 cm)"
+        },
+        "Drum": {
+            "Drum Width": "91 in (231 cm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "92 in (234 cm)"
+        }
+    }
+}

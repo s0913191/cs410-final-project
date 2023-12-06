@@ -1,0 +1,90 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/90z-1/30749971",
+    "source_url_id": "30749971",
+    "source_url_model": "90z-1",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:02.363894",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "90Z-1",
+    "equipment_spec": {
+        "Blades": {
+            "Approach angle": "27.8  \t\u00b0",
+            "Blade Height": "18.7 in (46 cm)",
+            "Blade width": "2320 mm (91 in)",
+            "Dig depth (below ground)": "1.6 ft (0 m)",
+            "Maximum height": "1.6 ft (0 m)",
+            "Reach in front of tracks": "2.1 ft (1 m)"
+        },
+        "Boom": {
+            "Boom swing left": "55  \t\u00b0",
+            "Boom swing right": "60  \t\u00b0",
+            "Bucket rotation": "188  \t\u00b0",
+            "Bucket tearout": "16231.3 lbs (7,362 kg)",
+            "Dipper rotation": "122  \t\u00b0",
+            "Dipper tearout": "11218 lbs (5,089 kg)",
+            "Slew speed": "10 rpm"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Reach": "26.3 ft in (66 cm)",
+            "Max Reach Along Ground": "25.8 ft (8 m)",
+            "Max.Dumping Height": "21.2 ft (6 m)",
+            "Maximum digging depth - dozer down": "15.2 ft (5 m)",
+            "Maximum digging depth - dozer up": "15.2 ft (5 m)",
+            "Maximum height to dipper nose pivot pin": "24.2 ft (7 m)",
+            "Maximum vertical wallcut depth": "12.9 ft (4 m)",
+            "Minimum front swing radius (fully offset)": "6.5 ft (2 m)",
+            "Minimum front swing radius (no offset)": "7.6 ft (2 m)"
+        },
+        "Dimensions": {
+            "Cab height": "61.2 in (155 cm)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Length of Track on Ground": "7.7 ft (2 m)",
+            "Overall width of superstructure": "7.2 ft (2 m)",
+            "Removal Counterweight Clearance": "2.5 ft (1 m)",
+            "Tail Swing Radius": "3.8 ft (1 m)",
+            "Track Gauge": "6.1 ft (2 m)",
+            "Transport Length, Minimum": "21604.4 ft (6,585 m)",
+            "Width Over Tracks": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "80 A",
+            "Cooling system": "Water cooled",
+            "Displacement": "152559.4 cu in (3 m)",
+            "Engine Model": "KDI 2504 TCR",
+            "Fuel": "Diesel",
+            "Gross Power": "73.8 hp (54 kw)",
+            "Net Power": "70.3 hp (52 kw)",
+            "Power Measured @": "2000 rpm",
+            "Starter Motor": "2 KW hp (1 kw)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "50.2 gal/min (189 l/min)",
+            "Excavator/track main relief": "300 bar",
+            "Nominal output": "41.9 gal/min (155 l/min)",
+            "Slew main relief": "226 lpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.2 gal (11 l)",
+            "Engine Oil Capacity": "17.5 gal (64 l)",
+            "Fuel Capacity": "29.6 gal (110 l)",
+            "Hydraulic Pump Flow Capacity": "17.5 gal/min (64 l/min)",
+            "Hydraulic System Fluid Capacity": "31.2 gal (117 l)",
+            "Operating Voltage": "12 V",
+            "Operating Weight": "21457.6 lbs (9,733 kg)"
+        },
+        "Performance": {
+            "Gradeability": "30%",
+            "Travel speed  low": "1.6 mph (2 kph)",
+            "Travel Speed - High": "2.9 mph (3 kph)"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "5",
+            "Track tension": "Grease",
+            "Tractive Effort": "143.4 lbs (65 kg)"
+        }
+    }
+}

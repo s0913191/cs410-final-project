@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ef330/31084904",
+    "source_url_id": "31084904",
+    "source_url_model": "ef330",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:36.546410",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "EF330",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "29 hp (22 kw)"
+        },
+        "Production": {
+            "Series": "EF300 Series",
+            "Years Manufactured": "2002 - 2004"
+        }
+    }
+}

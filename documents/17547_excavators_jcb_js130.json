@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/js130/17547",
+    "source_url_id": "17547",
+    "source_url_model": "js130",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:03.017029",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "JS130",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "18 ft (5 m)",
+            "Digging Reach": "18 ft (5 m)"
+        },
+        "Engine": {
+            "Net Power": "87 hp (65 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "30630 lbs (13,894 kg)"
+        }
+    }
+}

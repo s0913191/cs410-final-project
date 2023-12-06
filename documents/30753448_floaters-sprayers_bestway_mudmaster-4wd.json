@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/bestway/mudmaster-4wd/30753448",
+    "source_url_id": "30753448",
+    "source_url_model": "mudmaster-4wd",
+    "source_url_make": "bestway",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:05:57.007583",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Bestway",
+    "equipment_model": "MudMaster 4WD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "3.7 ft (1 m)",
+            "Overall Length": "12.7 in (30 cm)",
+            "Tire Size": "7.2 x 30, 4 ply",
+            "Transport Height": "8.7 ft (2 m)",
+            "Transport Width": "7.8 ft (2 m)",
+            "Wheelbase": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Gross Power": "47 hp (35 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "3400 lbs (1,542 kg)",
+            "Fuel Capacity": "15 gal (57 l)",
+            "Hydraulic Fluid Capacity": "15 gal (57 l)",
+            "Solution Tank Capacity": "110 gal (416 l)"
+        },
+        "Transmission": {
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

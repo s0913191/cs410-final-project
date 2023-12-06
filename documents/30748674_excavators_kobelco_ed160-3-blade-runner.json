@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/ed160-3-blade-runner/30748674",
+    "source_url_id": "30748674",
+    "source_url_model": "ed160-3-blade-runner",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:08.309284",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "ED160-3 BLADE RUNNER",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "0.1 ft (0 m)",
+            "Max Digging Height": "0.1 ft (0 m)",
+            "Max Digging Reach": "0.1 ft (0 m)",
+            "Max Digging Reach on Ground": "0.1 ft (0 m)",
+            "Max Dumping Clearance": "0.1 ft (0 m)",
+            "Min Dumping Clearance": "0.1 ft (0 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Digging Depth": "0.1 ft (0 m)",
+            "Max Digging Reach": "0.1 ft (0 m)",
+            "Max Digging Reach on Ground": "0.1 ft (0 m)",
+            "Max Dumping Clearance": "0.1 ft (0 m)",
+            "Max Vertical Wall Digging Depth": "0.1 ft (0 m)",
+            "Min Dumping Clearance": "7.9 ft (2 m)",
+            "Minimum swing radius": "0.1 in (0 cm)"
+        },
+        "Dimensions": {
+            "Gradeability": "35%",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Tail Swing Radius": "4.9 ft (1 m)",
+            "Track Gauge": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "203.4 cu in (0 m)",
+            "Engine Model": "D04EG-TAA",
+            "Max Torque": "265 lbs/ft",
+            "Net Power": "92.8 hp (69 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Hydraulic System": {
+            "34.4": "34.4 gal/min gal/min (129 l/min)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.7 gal (11 l)",
+            "Engine Oil Capacity": "4.9 gal (15 l)",
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Hydraulic Pump Flow Capacity": "22.6 gal/min (83 l/min)",
+            "Hydraulic System Fluid Capacity": "33.5 gal (125 l)",
+            "Operating Weight": "35053.5 lbs (15,900 kg)",
+            "Swing Drive Fluid Capacity": "0.5 gal (0 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11 rpm"
+        },
+        "Undercarriage": {
+            "Drawbar Pull": "44062.6 lbs (19,986 kg)",
+            "Ground Pressure": "6.1 psi",
+            "Shoe Size": "23.7 in (58 cm)"
+        }
+    }
+}

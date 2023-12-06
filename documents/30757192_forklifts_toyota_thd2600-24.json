@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/thd2600-24/30757192",
+    "source_url_id": "30757192",
+    "source_url_model": "thd2600-24",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:43:20.244378",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "THD2600-24",
+    "equipment_spec": {
+        "Dimensions": {
+            "Aisle width": "20.8 ft (6 m)",
+            "Gradeability": "27%",
+            "Length to Fork Face": "15.5 ft (5 m)",
+            "Overall Height - mast lowered": "11.9 ft (3 m)",
+            "Overall Width": "8.6 ft (2 m)",
+            "Right Angle Stack": "17 ft (5 m)"
+        },
+        "MAST": {
+            "Lift Speed": "64.1 ft/min",
+            "Load Capacity": "26000 lbs (11,794 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "23 mph (37 kph)",
+            "PrimaryLocation": "outdoor"
+        }
+    }
+}

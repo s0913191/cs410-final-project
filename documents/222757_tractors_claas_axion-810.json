@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/claas/axion-810/222757",
+    "source_url_id": "222757",
+    "source_url_model": "axion-810",
+    "source_url_make": "claas",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:10.851329",
+    "equipment_category": "Tractors",
+    "equipment_make": "Claas",
+    "equipment_model": "AXION 810",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "20.3 in (51 cm)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Overall Length": "18.8 in (46 cm)",
+            "Tire Size": "Front 16.9 R 28, Rear 20.8R38",
+            "Wheelbase": "9.8 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "414.3 cu in (0 m)",
+            "Engine Model": "FPT 6.7",
+            "Engine oil service interval hours": "600",
+            "Gross Power": "200 hp (149 kw)",
+            "Net Power": "190 hp (142 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "20 hp (15 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "5",
+            "Pump Flow Capacity": "29.1 gal/min (110 l/min)",
+            "Relief Valve Pressure": "2900.8 psi"
+        },
+        "Lift System": {
+            "Max front lift capacity": "10120 lbs (4,590 kg)",
+            "Max rear lift capacity": "21450 lbs (9,730 kg)"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "11 gal (42 l)",
+            "Fuel Capacity": "120 gal (454 l)",
+            "Hydraulic System Fluid Capacity": "40 gal (151 l)",
+            "Operating Weight": "19554 lbs (8,870 kg)",
+            "Turning Radius": "16.9 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed": "31.1 mph (50 kph)",
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "24",
+            "Transmission Type": "Hexashift"
+        }
+    }
+}

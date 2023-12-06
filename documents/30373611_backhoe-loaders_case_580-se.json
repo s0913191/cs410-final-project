@@ -1,0 +1,79 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/case/580-se/30373611",
+    "source_url_id": "30373611",
+    "source_url_model": "580-se",
+    "source_url_make": "case",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:06.572663",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "580 SE",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "11535 lbs (5,232 kg)",
+            "Bucket Dig Force - Extended": "11586 lbs (5,255 kg)",
+            "Dig Depth": "14.2 ft (4 m)",
+            "Dig Depth - Extended": "18.3 ft (5 m)",
+            "Load Height": "11.2 ft (3 m)",
+            "Load Height - Extended": "14.3 ft (4 m)",
+            "Reach at Load Height - Extended": "9 ft (3 m)",
+            "Reach From Swivel": "17.8 ft (5 m)",
+            "Reach From Swivel - Extended": "21.7 ft (6 m)"
+        },
+        "Dimensions": {
+            "Front Wheel Tread Width": "63 in (160 cm)",
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Height to Top of Suspended Cab": "8.8 ft (2 m)",
+            "Rear Tread Range": "61.9 in (155 cm)",
+            "Transport Length": "21.8 ft (6 m)",
+            "Transport Width": "6.8 ft (2 m)",
+            "Wheelbase": "10.8 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.1 in (10 cm)",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Make": "Case",
+            "Engine Model": "4-390",
+            "Gross Power": "69 hp (51 kw)",
+            "Net Max Torque": "181 lbs/ft",
+            "Net Power": "63 hp (47 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.8 in (10 cm)",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30 gal/min (114 l/min)",
+            "Pump Type": "Front mounted , positive displacement , gear type , taden pump",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "7040 lbs (3,193 kg)",
+            "Bucket Capacity": "1 cu yds (1 m)",
+            "Bucket Width": "82 in (208 cm)",
+            "Clearance at Max Dump Height": "10 ft (3 m)",
+            "Dig Depth": "5 in (13 cm)",
+            "Reach at Max Dump Height": "2.3 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "42  A",
+            "Cooling System Fluid Capacity": "4.8 gal (15 l)",
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "12.5 gal (45 l)",
+            "Max Weight": "10660 lbs (4,835 kg)",
+            "Oil System Fluid Capacity": "2.8 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size Front - 2wd / 4wd": "11L * 16"
+        },
+        "Tires": {
+            "Rear Tires Size": "17.5L*24"
+        },
+        "Transmission": {
+            "Max Speed": "21.9 mph (34 kph)",
+            "Max Speed - Reverse": "19.6 mph (31 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Full power shuttle and torque converter"
+        }
+    }
+}

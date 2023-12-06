@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx250c-lr/42742",
+    "source_url_id": "42742",
+    "source_url_model": "cx250c-lr",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:48.220419",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX250C LR",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "47.8 ft (14 m)",
+            "Max Reach Along Ground": "51.3 ft (16 m)"
+        },
+        "Engine": {
+            "Net Power": "177 hp (132 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "62100 lbs (28,168 kg)"
+        }
+    }
+}

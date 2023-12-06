@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/7320/30670599",
+    "source_url_id": "30670599",
+    "source_url_model": "7320",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:23:17.120605",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "7320",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "415 cu in (0 m)",
+            "Engine Make": "2240",
+            "Gross Power": "125 hp (93 kw)",
+            "Max Torque": "353 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2300 rpm",
+            "PTO Power": "109.8 hp (81 kw)",
+            "Torque Measured @": "1501 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "43500",
+            "Pump Flow Capacity": "26.7 gal/min (98 l/min)",
+            "Relief Valve Setting": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "7449.5 lbs (3,379 kg)",
+            "Fuel Capacity": "54.7 gal (204 l)",
+            "Operating Weight": "13172.7 lbs (5,975 kg)",
+            "Turning Radius": "15.1 ft (5 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "PowerQuad Plus"
+        }
+    }
+}

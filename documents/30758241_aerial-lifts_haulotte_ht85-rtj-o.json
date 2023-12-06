@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ht85-rtj-o/30758241",
+    "source_url_id": "30758241",
+    "source_url_model": "ht85-rtj-o",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:42.268954",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HT85 RTJ O",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "45%",
+            "Ground Clearance": "19 in (48 cm)",
+            "Overall Height - mast lowered": "9.4 ft (3 m)",
+            "Overall Length": "505.2 in (1,283 cm)",
+            "Overall Width": "8.2 ft (2 m)",
+            "Tailswing Radius": "5 ft (2 m)",
+            "Turning Radius": "21.6 ft (6 m)",
+            "Wheelbase": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Make": "Kubota",
+            "Gross Power": "72 hp (54 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "32 gal (121 l)",
+            "Max Speed": "3.1 mph (5 kph)",
+            "Operating Weight": "39500 lbs (17,917 kg)"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "78.3 ft (24 m)",
+            "Max Platform Height": "85 ft (26 m)",
+            "Max Platform Weight Capacity": "500.2 lbs (227 kg)",
+            "Max Working Height": "91 ft (28 m)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

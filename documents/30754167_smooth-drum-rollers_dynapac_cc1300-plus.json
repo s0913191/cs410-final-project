@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc1300-plus/30754167",
+    "source_url_id": "30754167",
+    "source_url_model": "cc1300-plus",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:14.414620",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC1300 PLUS",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "23.7 in (58 cm)",
+            "Gradeability": "37%",
+            "Ground Clearance": "10.3 in (25 cm)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Overall Length": "107.3 in (272 cm)",
+            "Overall Width": "4.8 ft (1 m)",
+            "Overhang Front": "0.2 ft (0 m)",
+            "Overhang Rear": "0.2 ft (0 m)",
+            "Turning Radius - Inside": "9.7 ft (3 m)",
+            "Turning Radius - Outside": "14 ft (4 m)",
+            "Wheelbase": "75.8 in (191 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "8093.2 lbs (3,671 kg)",
+            "Centrifugal Force - Low": "7418.7 lbs (3,365 kg)",
+            "Drum Diameter": "31.6 in (79 cm)",
+            "Drum thickness": "0.7 in (0 cm)",
+            "Drum Width": "51.2 in (130 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "86.3 lbs/in",
+            "Vibration Frequency 1": "52 hz (3,120 vpm)",
+            "Vibration Frequency 2": "53 hz (3,180 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Kubota",
+            "Engine Model": "V2203-M (IIIA)",
+            "Gross Power": "59.1 hp (44 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Max Speed": "6.3 mph (10 kph)",
+            "Operating Weight": "8884.7 lbs (4,030 kg)",
+            "Operating weight ROPS": "8598.1 lbs (3,900 kg)",
+            "Oscillating angle": "10  \t\u00b0",
+            "Steering Angle": "30  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "52.9 gal (197 l)"
+        }
+    }
+}

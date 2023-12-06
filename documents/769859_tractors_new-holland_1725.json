@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/1725/769859",
+    "source_url_id": "769859",
+    "source_url_model": "1725",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:19.622281",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "1725",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "29 hp (22 kw)"
+        },
+        "Production": {
+            "Series": "Boomer Series",
+            "Years Manufactured": "1997 - 1999"
+        }
+    }
+}

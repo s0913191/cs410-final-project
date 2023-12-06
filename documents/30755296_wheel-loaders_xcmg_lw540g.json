@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/xcmg/lw540g/30755296",
+    "source_url_id": "30755296",
+    "source_url_model": "lw540g",
+    "source_url_make": "xcmg",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:50.971613",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "XCMG",
+    "equipment_model": "LW540G",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4 cu yds (3 m)",
+            "Dump Clearance at Max Raise": "10.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Length with Bucket on Ground": "26.7 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.8 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "211.9 hp (157 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "60.8 gal (227 l)",
+            "Operating Weight": "39683.3 lbs (18,000 kg)",
+            "Static Tipping Weight": "32394.8 lbs (14,694 kg)",
+            "Tire Size": "23.5-25-16PR"
+        },
+        "Transmission": {
+            "Transmission Type": "countershaft powershift"
+        }
+    }
+}

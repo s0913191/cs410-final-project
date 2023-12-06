@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/430f2-it/30760086",
+    "source_url_id": "30760086",
+    "source_url_model": "430f2-it",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:48.292248",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "430F2 IT",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "15.3 ft (5 m)",
+            "Load Height": "13.0 ft (4 m)"
+        },
+        "Engine": {
+            "Net Power": "108 hp (81 kw)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "11484 lbs (5,209 kg)",
+            "Lift Capacity": "3493 lbs (1,584 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "19063 lbs (8,647 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "26 mph (42 kph)"
+        }
+    }
+}

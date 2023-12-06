@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/manitou/160atj/30758356",
+    "source_url_id": "30758356",
+    "source_url_model": "160atj",
+    "source_url_make": "manitou",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:35.670220",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "160ATJ",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16.8 in (41 cm)",
+            "Overall Height - mast lowered": "7.8 ft (2 m)",
+            "Overall Length": "23.1 in (58 cm)",
+            "Overall Width": "7.6 ft (2 m)",
+            "Turning Radius": "12.1 ft (4 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "404C22",
+            "Fuel Type": "Diesel",
+            "Gross Power": "45 hp (34 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "13.8 gal (49 l)",
+            "Hydraulic System Fluid Capacity": "14.3 gal (53 l)",
+            "Max Speed": "3.7 mph (5 kph)",
+            "Operating Weight": "16424.5 lbs (7,450 kg)",
+            "Tire Size": "12.5-18"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "29.9 ft (9 m)",
+            "Max Platform Height": "46.8 ft (14 m)",
+            "Max Platform Weight Capacity": "507.1 lbs (230 kg)",
+            "Max Working Height": "53.4 ft (16 m)",
+            "Platform Inner Length": "70.9 in (178 cm)",
+            "Platform Inner Width": "31.5 in (79 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

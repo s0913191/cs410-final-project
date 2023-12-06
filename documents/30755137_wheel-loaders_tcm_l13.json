@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/tcm/l13/30755137",
+    "source_url_id": "30755137",
+    "source_url_model": "l13",
+    "source_url_make": "tcm",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:24.376169",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "TCM",
+    "equipment_model": "L13",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "1.6 cu yds (1 m)",
+            "Dump Clearance at Max Raise": "8.9 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.4 ft (3 m)",
+            "Length with Bucket on Ground": "20 ft (6 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "BB-4GB1T",
+            "Net Power": "86.8 hp (64 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "37 gal (140 l)",
+            "Tire Size": "16.9-24-1-PRL2"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Max Speed - Reverse": "21.5 mph (34 kph)",
+            "Transmission Type": "powershift"
+        }
+    }
+}

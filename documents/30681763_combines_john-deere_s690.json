@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/john-deere/s690/30681763",
+    "source_url_id": "30681763",
+    "source_url_model": "s690",
+    "source_url_make": "john-deere",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:02:42.285836",
+    "equipment_category": "Combines",
+    "equipment_make": "John Deere",
+    "equipment_model": "S690",
+    "equipment_spec": {
+        "Cleaning System": {
+            "Cleaning Fan Speed - High": "1350 rpm",
+            "Cleaning Fan Speed - Low": "620 rpm",
+            "Total Cleaning Area": "8680.1 cu in (0 m)"
+        },
+        "Engine": {
+            "Displacement": "823.9 cu in (0 m)",
+            "Engine Model": "John Deere PowerTech PSS Engine",
+            "Number of Cylinders": "6",
+            "Power": "616.9 hp (459 kw)",
+            "Power Boost Power": "49.7 hp (37 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Feeding": {
+            "Conveyor Length": "68 in (173 cm)",
+            "Conveyor Width": "55 in (140 cm)"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "400.2 bu",
+            "Unloading Auger Length": "6.9 ft (2 m)",
+            "Unloading Speed": "3.8 bu/sec"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "330 gal (1,249 l)",
+            "Operating Weight w/o Attachment": "42376 lbs (19,222 kg)"
+        },
+        "Separating": {
+            "Discharge Grate Area": "698 cu in (0 m)",
+            "Separating Area": "2390 cu in (0 m)",
+            "Separator Type": "rotary"
+        },
+        "Threshing": {
+            "Concave Area": "1705.1 cu in (0 m)",
+            "Rotor Diameter": "30 in (76 cm)",
+            "Rotor Length": "123 in (312 cm)",
+            "Rotor Speed - High": "1000 rpm",
+            "Rotor Speed - Low": "210 rpm"
+        }
+    }
+}

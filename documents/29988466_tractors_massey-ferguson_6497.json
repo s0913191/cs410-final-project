@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/6497/29988466",
+    "source_url_id": "29988466",
+    "source_url_model": "6497",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:12.865734",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "6497",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "200 hp (149 kw)"
+        },
+        "Production": {
+            "Series": "6400 Series",
+            "Years Manufactured": "2008 - 2012"
+        }
+    }
+}

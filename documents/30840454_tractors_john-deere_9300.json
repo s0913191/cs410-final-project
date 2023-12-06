@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/9300/30840454",
+    "source_url_id": "30840454",
+    "source_url_model": "9300",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:25:01.434127",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "9300",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "11.5 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "5 in (13 cm)",
+            "Displacement": "765 cu in (0 m)",
+            "Gross Power": "360 hp (268 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Stroke": "6.5 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "44 gal/min (167 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "Engine Oil Capacity": "11 gal (42 l)",
+            "Fuel Capacity": "270 gal (1,022 l)",
+            "Hydraulic System Fluid Capacity": "16.1 gal (61 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "31440 lbs (14,261 kg)"
+        }
+    }
+}

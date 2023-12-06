@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/utility-trailers/eager-beaver/20halx/30781962",
+    "source_url_id": "30781962",
+    "source_url_model": "20halx",
+    "source_url_make": "eager-beaver",
+    "source_url_category": "utility-trailers",
+    "source_date_scraped": "2023-09-13 17:56:12.843024",
+    "equipment_category": "Utility Trailers",
+    "equipment_make": "Eager Beaver",
+    "equipment_model": "20HALX",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "24x8.5 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "8140 lbs (3,692 kg)",
+            "Weight Capacity": "40000 lbs (18,144 kg)"
+        }
+    }
+}

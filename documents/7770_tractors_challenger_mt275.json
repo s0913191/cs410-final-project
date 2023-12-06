@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/challenger/mt275/7770",
+    "source_url_id": "7770",
+    "source_url_model": "mt275",
+    "source_url_make": "challenger",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:13:26.971376",
+    "equipment_category": "Tractors",
+    "equipment_make": "Challenger",
+    "equipment_model": "MT275",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.8 ft (2 m)",
+            "Overall Length": "9.9 in (23 cm)",
+            "Tire Size": "Front 25x8.50 -14, Rear 15 - 19.5",
+            "Wheelbase": "5.8 ft (2 m)",
+            "Width Outside Frame": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "91.4 cu in (0 m)",
+            "Gross Power": "40.1 hp (30 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "32.4 hp (24 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "12.2 gal/min (45 l/min)",
+            "Relief Valve Pressure": "2130 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2100 lbs (953 kg)",
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "7.9 gal (27 l)",
+            "Operating Weight": "2935 lbs (1,331 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8",
+            "Transmission Type": "Synchronized Mech. Shuttle"
+        }
+    }
+}

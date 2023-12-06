@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/1804lc/30748554",
+    "source_url_id": "30748554",
+    "source_url_model": "1804lc",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:19:55.837762",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "1804LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "42 ft (13 m)",
+            "Max Digging Depth": "24.3 ft (7 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "43.5 ft (13 m)",
+            "Max Digging Depth": "26 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "27.4 ft (8 m)",
+            "Max Digging Depth": "20.9 ft (6 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "28.1 ft (9 m)",
+            "Max Digging Depth": "22.7 ft (7 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1.2 cu yds (1 m)",
+            "Reference Bucket Capacity": "2 cu yds (2 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "10.3 ft (3 m)",
+            "Length of Track on Ground": "12.8 ft (4 m)",
+            "Removal Counterweight Clearance": "4.1 ft (1 m)",
+            "Tail Swing Radius": "10.9 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharging/intercooler",
+            "Displacement": "436.4 cu in (0 m)",
+            "Engine Model": "BF6M 1013 ECP",
+            "Net Power": "231 hp (172 kw)",
+            "Power Measured @": "1900 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "112.3 gal (424 l)",
+            "Hydraulic Pump Flow Capacity": "84.6 gal/min (318 l/min)",
+            "Hydraulic System Fluid Capacity": "133.5 gal (503 l)",
+            "Hydraulic System Relief Valve Pressure": "5511.5 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "67241 lbs (30,500 kg)",
+            "Swing Drive Fluid Capacity": "5.6 gal (19 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.7 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3.3 mph (5 kph)",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "8.6 ft (2 m)"
+        }
+    }
+}

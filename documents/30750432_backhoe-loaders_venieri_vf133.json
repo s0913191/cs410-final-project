@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/venieri/vf133/30750432",
+    "source_url_id": "30750432",
+    "source_url_model": "vf133",
+    "source_url_make": "venieri",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:44.797192",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Venieri",
+    "equipment_model": "VF1.33",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "9.1 ft (3 m)",
+            "Load Height": "8.7 ft (2 m)",
+            "Reach From Swivel": "12.2 ft (4 m)"
+        },
+        "Dimensions": {
+            "Transport Length": "12.4 ft (4 m)",
+            "Transport Width": "4.5 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "177 cu in (0 m)",
+            "Engine Model": "104-22",
+            "Gross Power": "47 hp (35 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "11.7 gal/min (42 l/min)",
+            "Pump Type": "Piston",
+            "Relief Valve Pressure": "399.6 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Bucket Width": "53.2 in (135 cm)",
+            "Clearance at Max Dump Height": "10.8 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight 4wd": "7275.3 lbs (3,300 kg)",
+            "Turning Radius": "6.8 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "11.2 mph (18 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

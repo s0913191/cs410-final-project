@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/jcb/215e/41294",
+    "source_url_id": "41294",
+    "source_url_model": "215e",
+    "source_url_make": "jcb",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:35:25.400998",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "215E",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "12 ft (4 m)",
+            "Max Digging Depth": "16.3 ft (5 m)"
+        },
+        "Loader": {
+            "Breakout Force": "12250 lbs (5,557 kg)",
+            "Lift Capacity": "6900 lbs (3,130 kg)",
+            "SAE - Net": "86 hp (64 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "15552 lbs (7,054 kg)"
+        },
+        "Travel Speed": {
+            "4Th Gear Fwd": "21 mph (34 kph)"
+        }
+    }
+}

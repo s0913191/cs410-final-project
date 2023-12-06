@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/803-plus/17729",
+    "source_url_id": "17729",
+    "source_url_model": "803-plus",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:04:41.406343",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "803 PLUS",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "14.4 ft (4 m)",
+            "Max Digging Depth": "9.9 ft (3 m)",
+            "Max Loading Height": "10.6 ft (3 m)",
+            "Max Reach Along Ground": "15.6 ft (5 m)",
+            "Shipping Height of Unit": "8 ft (2 m)",
+            "Shipping Length of Unit": "14.3 ft (4 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "8 ft (2 m)",
+            "Tail Swing Radius": "4.8 ft (1 m)",
+            "Width to Outside of Tracks": "4.8 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "91.3 cu in (0 m)",
+            "Engine Model": "403-15",
+            "Gross Power": "27.8 hp (20 kw)",
+            "Max Torque": "67.9 lbs/ft",
+            "Net Power": "26.6 hp (19 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Engine Oil Capacity": "1.4 gal (4 l)",
+            "Fuel Capacity": "12.7 gal (45 l)",
+            "Hydraulic Pump Flow Capacity": "7.7 gal/min (27 l/min)",
+            "Hydraulic System Fluid Capacity": "18.5 gal (68 l)",
+            "Hydraulic System Relief Valve Pressure": "2755.8 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "14793.1 lbs (6,710 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.5 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.7 psi",
+            "Max Travel Speed": "2.3 mph (3 kph)",
+            "Number of Track Rollers per Side": "4",
+            "Shoe Size": "9.1 in (23 cm)"
+        }
+    }
+}

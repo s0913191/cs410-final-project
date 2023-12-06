@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/genie/z-30and-or20n/30852411",
+    "source_url_id": "30852411",
+    "source_url_model": "z-30and-or20n",
+    "source_url_make": "genie",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:09.200796",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Genie",
+    "equipment_model": "Z-30/20N",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "29.2 ft (9 m)",
+            "Ground Clearance": "3.6 in (8 cm)",
+            "Overall Height - mast lowered": "6.6 ft (2 m)",
+            "Overall Length": "16.8 in (41 cm)",
+            "Overall Width": "4 ft (1 m)",
+            "Platform Size": "2.5x4 ft (1 m)",
+            "Stowed Height": "6.65 ft (2 m)",
+            "Stowed Width": "3.11 ft (1 m)",
+            "Turning Radius": "10.6 ft (3 m)",
+            "Wheelbase": "5.3 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "350",
+            "Charger Amps": "24",
+            "Number of Batteries": "8",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "4 gal (15 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "14169.2 lbs (6,427 kg)",
+            "Tire Fill/Type": "Solid, non-marking",
+            "Tire Size": "22x7x17.75"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "21.5 ft (6 m)",
+            "Max Platform Height": "30 ft (9 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "36.6 ft (11 m)",
+            "Platform Inner Length": "46.9 in (117 cm)",
+            "Platform Inner Width": "30 in (76 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        },
+        "Tires": {
+            "Tire Size": "22x7x17.75"
+        }
+    }
+}

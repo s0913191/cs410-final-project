@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/volvo/mc70/32661",
+    "source_url_id": "32661",
+    "source_url_model": "mc70",
+    "source_url_make": "volvo",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:38.630535",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "MC70",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.1 ft (2 m)",
+            "Ground Clearance": "8.3 in (20 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length w/o Bucket": "8.6 ft (2 m)",
+            "Length with Bucket": "11.2 ft (3 m)",
+            "Reach at Max Lift and Dump": "26.5 in (66 cm)",
+            "Wheelbase": "3.4 ft (1 m)",
+            "Width Over Tires": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "122 cu in (0 m)",
+            "Engine Model": "V2003-TB",
+            "Gross Power": "60 hp (45 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "30.6 gal/min (114 l/min)",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Operating Load Rating": "1500 lbs (680 kg)",
+            "Tipping Angle": "3000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Chain Box Fluid Capacity - each side": "1.6 gal (4 l)",
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Engine Oil Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "17.5 gal (64 l)",
+            "Hydraulic System Fluid Capacity": "9.6 gal (34 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Speed": "6.9 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "5902 lbs (2,677 kg)",
+            "Tire Size": "10.00x16.5"
+        }
+    }
+}

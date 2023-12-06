@@ -1,0 +1,80 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/john-deere/jd570/30754476",
+    "source_url_id": "30754476",
+    "source_url_model": "jd570",
+    "source_url_make": "john-deere",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:06.479667",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "John Deere",
+    "equipment_model": "JD570",
+    "equipment_spec": {
+        "Circle": {
+            "Diameter": "54 in (137 cm)",
+            "Max Lift Above Ground": "12.3 in (30 cm)",
+            "Rotation": "360  \t\u00b0"
+        },
+        "Dimensions": {
+            "Blade Base": "7.7 ft (2 m)",
+            "Front Ground Clearance": "2 ft (1 m)",
+            "Height to Top of Isomount Cab": "10.5 ft (3 m)",
+            "Overall Length": "24.4 ft (7 m)",
+            "Tandem Axle Wheelbase": "4.8 ft (1 m)",
+            "Wheelbase": "17.4 ft (5 m)",
+            "Width Over Tires": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "303.6 cu in (0 m)",
+            "Max Power": "83 hp (62 kw)",
+            "Net Power Gears 7-8": "83 hp (62 kw)",
+            "Net Torque Gears 7-8": "212 lbs/ft",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Oscillation - Total": "30  \t\u00b0",
+            "Wheel Lean": "20  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "26.9 gal/min (98 l/min)",
+            "Pump Type": "Piston Pump",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Moldboard": {
+            "Moldboard Height": "24 in (61 cm)",
+            "Moldboard Thickness": "0.7 in (0 cm)",
+            "Moldboard Width": "12 ft (4 m)",
+            "Side Shift Left": "26.8 in (66 cm)",
+            "Side Shift Right": "31.3 in (79 cm)"
+        },
+        "Operating Specifications": {
+            "Circle Gearbox Fluid Capacity": "1.5 gal (4 l)",
+            "Cooling System Fluid Capacity": "5.5 gal (19 l)",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "21 gal (79 l)",
+            "Max Operation Weight - Front Axle": "5800 lbs (2,631 kg)",
+            "Max Operation Weight - Rear Axle": "13600 lbs (6,169 kg)",
+            "Max Operation Weight - Total": "18100 lbs (8,210 kg)",
+            "Oil System Fluid Capacity": "2.5 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Std Operation Weight - Front Axle": "5500 lbs (2,495 kg)",
+            "Std Operation Weight - Rear Axle": "12600 lbs (5,715 kg)",
+            "Std Operation Weight - Total": "20278 lbs (9,198 kg)",
+            "Tandem Case Fluid Capacity (each)": "5 gal (19 l)",
+            "Tire Size": "13.00-24"
+        },
+        "Steering System": {
+            "Articulation Angle": "22  \t\u00b0",
+            "Turning Radius": "18 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.4 mph (34 kph)",
+            "Max Speed - Reverse": "6.8 mph (10 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "4",
+            "Transmission Type": "Power shift"
+        }
+    }
+}

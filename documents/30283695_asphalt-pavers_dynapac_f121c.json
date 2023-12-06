@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/dynapac/f121c/30283695",
+    "source_url_id": "30283695",
+    "source_url_model": "f121c",
+    "source_url_make": "dynapac",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:06.961786",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "F121C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length of Track on Ground": "9.6 ft (3 m)",
+            "Length w/o Screed": "21.4 ft (6 m)",
+            "Transport Height": "11.9 ft (3 m)",
+            "Transport Width": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "TCD 2012 L06",
+            "Gross Power": "163 hp (122 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Diameter": "15 in (38 cm)",
+            "Hopper Capacity": "7.9 lbs (3 kg)",
+            "Paving Speed - max": "75.5 ft/min",
+            "Paving Thickness - max": "11.9 in (28 cm)",
+            "Paving Width - max": "23.8 ft (7 m)",
+            "Travel Speed - max": "2.4 mph (3 kph)"
+        },
+        "Operating Specifications": {
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/ Screed": "40124.2 lbs (18,200 kg)"
+        }
+    }
+}

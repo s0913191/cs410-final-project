@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hyundai/hr120c-9/30197943",
+    "source_url_id": "30197943",
+    "source_url_model": "hr120c-9",
+    "source_url_make": "hyundai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:29.270462",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HR120C-9",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "19.3 in (48 cm)",
+            "Height - Top of Cab": "9.6 ft (3 m)",
+            "Overall Length": "226.7 in (574 cm)",
+            "Overall Width": "7.5 ft (2 m)",
+            "Wheelbase": "125.8 in (318 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "53954.2 lbs (24,473 kg)",
+            "Centrifugal Force - Low": "31473.3 lbs (14,276 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum Width": "82.7 in (208 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Vibration Frequency 1": "40 hz (2,400 vpm)",
+            "Vibration Frequency 2": "140 hz (8,400 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 2012 L4",
+            "Gross Power": "130 hp (97 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "28.1 gal (106 l)",
+            "Max Speed": "7.8 mph (11 kph)",
+            "Operating Weight": "26455.5 lbs (12,000 kg)"
+        },
+        "Tires": {
+            "Tires": "23.1-26"
+        }
+    }
+}

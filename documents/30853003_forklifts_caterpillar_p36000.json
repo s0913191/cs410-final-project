@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/caterpillar/p36000/30853003",
+    "source_url_id": "30853003",
+    "source_url_model": "p36000",
+    "source_url_make": "caterpillar",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:24:44.438701",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "P36000",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "10.3 in (25 cm)",
+            "Height to Top of Overhead Guard": "9.8 ft (3 m)",
+            "Length to Fork Face": "16.6 ft (5 m)",
+            "Max Fork Height": "11.2 ft (3 m)",
+            "Overall Height - mast lowered": "12.1 ft (4 m)",
+            "Overall Width": "8.7 ft (2 m)",
+            "Turning Radius": "15.8 ft (5 m)",
+            "Wheelbase": "10.9 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "460 cu in (0 m)",
+            "Engine Model": "6M60-TL",
+            "Fuel Type": "diesel",
+            "Number of Cylinders": "6",
+            "Power": "148 hp (110 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque": "450 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "73 ft/min",
+            "Load Capacity": "35274 lbs (16,000 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Lower Speed": "73 ft/min",
+            "Mast Tip Forward": "15  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0",
+            "Max Fork Spread": "79.6 in (201 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "19 mph (31 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "44357 lbs (20,120 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

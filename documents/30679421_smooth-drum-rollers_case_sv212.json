@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/case/sv212/30679421",
+    "source_url_id": "30679421",
+    "source_url_model": "sv212",
+    "source_url_make": "case",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:33.185837",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Case",
+    "equipment_model": "SV212",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "5 ft (2 m)",
+            "Ground Clearance": "16.5 in (41 cm)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Overall Length": "18.7 in (46 cm)",
+            "Overall Width": "8 ft (2 m)",
+            "Turning Radius - Inside": "120 in (305 cm)",
+            "Wheelbase": "9.3 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "46294 lbs (20,999 kg)",
+            "Centrifugal Force - Low": "62250 lbs (28,236 kg)",
+            "Drum Diameter": "59 in (150 cm)",
+            "Drum Width": "84 in (213 cm)",
+            "Frequency": "1920 - 2,100 hz (115,200 - 126,000 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "187 lbs/in",
+            "Vibration Frequency": "32 - 35 hz (1,920 - 2,100 vpm)",
+            "Vibration Frequency 1": "35 hz (2,100 vpm)",
+            "Vibration Frequency 2": "32 hz (1,920 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "QSB 4.5 Tier III certified",
+            "Gross Power": "148 hp (110 kw)",
+            "Make": "Cummins",
+            "Model": "Tier II Certified"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Cooling System Fluid Capacity": "6.6 gal (23 l)",
+            "Engine Oil Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "108 gal (409 l)",
+            "Hydraulic System Fluid Capacity": "23.8 gal (87 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "25386 lbs (11,515 kg)",
+            "Operating Width": "88.9 in (224 cm)"
+        },
+        "Tires": {
+            "Tires": "23.1x26 in UK5 10PR"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/dynapac/ca2500pd/30681663",
+    "source_url_id": "30681663",
+    "source_url_model": "ca2500pd",
+    "source_url_make": "dynapac",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:32.854648",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA2500PD",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "18 in (46 cm)",
+            "Gradeability": "57%",
+            "Ground Clearance": "18 in (46 cm)",
+            "Height": "7.3 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "9.8 ft (3 m)",
+            "Overall Length": "236 in (599 cm)",
+            "Overhang Front": "0.4 ft (0 m)",
+            "Overhang Rear": "0.4 ft (0 m)",
+            "Turning Radius - Inside": "132 in (335 cm)",
+            "Turning Radius - Outside": "18 ft (5 m)",
+            "Wheelbase": "118 in (300 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "58450 lbs (26,513 kg)",
+            "Centrifugal Force - Low": "33720 lbs (15,295 kg)",
+            "Drum Diameter": "59 in (150 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Width": "84 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Pad Height": "4 in (10 cm)",
+            "Pad Surface Area": "22.6 cu in (0 m)",
+            "Vibration Frequency": "33 - 34 hz (1,980 - 2,040 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSF3.8",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "119.4 hp (89 kw)",
+            "Make": "Cummins QSB4.5 T4i",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "5 gal (19 l)",
+            "Fuel Capacity": "72 gal (273 l)",
+            "Max Speed": "7 mph (11 kph)",
+            "Operating Weight": "57540.7 lbs (26,100 kg)",
+            "Operating weight ROPS": "53572.4 lbs (24,300 kg)",
+            "Operating Width": "91 in (231 cm)",
+            "Tire Size": "23,1 x 26 TR"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/jcb/js330/37630",
+    "source_url_id": "37630",
+    "source_url_model": "js330",
+    "source_url_make": "jcb",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:05:38.601387",
+    "equipment_category": "Excavators",
+    "equipment_make": "JCB",
+    "equipment_model": "JS330",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "26.9 ft (8 m)",
+            "Max Reach Along Ground": "35.9 ft (11 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "26.9 ft (8 m)",
+            "Digging Reach": "38-.9 ft (12 m)"
+        },
+        "Engine": {
+            "Net Power": "271 hp (202 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "73700 lbs (33,430 kg)"
+        }
+    }
+}

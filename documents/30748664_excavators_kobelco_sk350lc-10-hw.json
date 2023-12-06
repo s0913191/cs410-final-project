@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk350lc-10-hw/30748664",
+    "source_url_id": "30748664",
+    "source_url_model": "sk350lc-10-hw",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:45.938257",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK350LC-10 H&W",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "23.9 ft (7 m)",
+            "Max Digging Height": "35.9 ft (11 m)",
+            "Max Digging Reach": "36.2 ft (11 m)",
+            "Max Digging Reach on Ground": "36.1 ft (11 m)",
+            "Max Dumping Clearance": "25.2 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "20.8 ft (6 m)",
+            "Min Dumping Clearance": "9.8 ft (3 m)",
+            "Minimum swing radius": "169.7 in (429 cm)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Horizontal Digging Stroke - Ground": "0.1 ft (0 m)",
+            "Max Digging Depth": "26.7 ft (8 m)",
+            "Max Digging Reach": "39.3 ft (12 m)",
+            "Max Digging Reach on Ground": "38.6 ft (12 m)",
+            "Max Dumping Clearance": "25.9 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "22.9 ft (7 m)",
+            "Max. digging height": "36.2 ft (11 m)",
+            "Min Dumping Clearance": "6.1 ft (2 m)",
+            "Minimum swing radius": "174.5 in (442 cm)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.7 ft (1 m)",
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Tail Swing Radius": "11.1 ft (3 m)",
+            "Track Gauge": "9.8 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "469 cu in (0 m)",
+            "Engine Model": "HINO J08EVV-KSDK",
+            "Engine Type": "Direct injection, water-cooled, 4-cycle, 6-cylinder diesel engine  with intercooler turbo-charger  (Complies with EPA Tier IV Final)",
+            "Max Torque": "729 lbs/ft",
+            "Net Power": "270 hp (201 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "NULL": {
+            "MaxPumpFlow": "77.7 gal/min"
+        },
+        "Operating Specifications": {
+            "DEF tank capacity": "22 gal (83 l)",
+            "Fuel Capacity": "132.9 gal (500 l)",
+            "Operating Weight": "87744 lbs (39,800 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "10.6 psi",
+            "Max Travel Speed": "3.6 mph (5 kph)",
+            "Shoe Size": "27.6 in (69 cm)"
+        }
+    }
+}

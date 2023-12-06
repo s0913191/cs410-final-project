@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/massey-ferguson/50e/24861",
+    "source_url_id": "24861",
+    "source_url_model": "50e",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:39.205886",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "50E",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "238 cu in (0 m)",
+            "Engine Make": "Perkins",
+            "Engine Model": "A4.236",
+            "Net Power": "68 hp (51 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Max Weight": "5899.6 lbs (2,676 kg)",
+            "Tire Size Front - 2wd / 4wd": "11x16"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9x28"
+        }
+    }
+}

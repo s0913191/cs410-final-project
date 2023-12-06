@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc1250/25352949",
+    "source_url_id": "25352949",
+    "source_url_model": "cc1250",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:13.931696",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC1250",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "22.6 in (56 cm)",
+            "Gradeability": "38%",
+            "Ground Clearance": "7.3 in (18 cm)",
+            "Overall Length": "98 in (249 cm)",
+            "Overall Width": "4.2 ft (1 m)",
+            "Overhang Front": "0.2 ft (0 m)",
+            "Overhang Rear": "0.2 ft (0 m)",
+            "Turning Radius - Inside": "9.6 ft (3 m)",
+            "Turning Radius - Outside": "13.5 ft (4 m)",
+            "Wheelbase": "71.3 in (180 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "6069.9 lbs (2,753 kg)",
+            "Drum Diameter": "26.9 in (66 cm)",
+            "Drum thickness": "0.6 in (0 cm)",
+            "Drum Width": "47.3 in (119 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "74.5 lbs/in",
+            "Vibration Frequency 1": "58 hz (3,480 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Kubota",
+            "Engine Model": "D1703-M",
+            "Gross Power": "35 hp (26 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "13.3 gal (49 l)",
+            "Operating Weight": "6834.4 lbs (3,100 kg)",
+            "Operating weight ROPS": "6613.9 lbs (3,000 kg)",
+            "Oscillating angle": "10  \t\u00b0",
+            "Steering Angle": "29  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "42.3 gal (159 l)"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/sl30sl/30671018",
+    "source_url_id": "30671018",
+    "source_url_model": "sl30sl",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:16.576348",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "SL30SL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.9 in (18 cm)",
+            "Height w/ Rails": "8.6 ft (2 m)",
+            "Overall Length": "14.5 in (36 cm)",
+            "Overall Width": "7 ft (2 m)",
+            "Wheelbase": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "diesel"
+        },
+        "Performance": {
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operating Weight": "7090.1 lbs (3,216 kg)",
+            "Tire Fill/Type": "poly filled / Super Terra-Grip",
+            "Tire Size": "26 x 12-12 NHS"
+        },
+        "Platform": {
+            "Lift Time": "24 sec",
+            "Lower Time": "36 sec",
+            "Max Platform Height": "29.6 ft (9 m)",
+            "Max Platform Weight Capacity": "1300.8 lbs (590 kg)",
+            "Max Working Height": "36.1 ft (11 m)",
+            "Platform Inner Length": "166.6 in (422 cm)",
+            "Platform Inner Width": "67.8 in (170 cm)"
+        }
+    }
+}

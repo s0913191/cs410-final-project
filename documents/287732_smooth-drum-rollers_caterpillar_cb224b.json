@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/caterpillar/cb224b/287732",
+    "source_url_id": "287732",
+    "source_url_model": "cb224b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:36.990913",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CB224B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Diameter - Front": "2.3 ft (1 m)",
+            "Drum Diameter - Rear": "2.3 ft (1 m)",
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Overall Length": "7.9 in (18 cm)",
+            "Overall Width": "4.3 ft (1 m)",
+            "Wheelbase": "5.6 in (13 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "5400 lbs (2,449 kg)",
+            "Drum Diameter": "27.6 in (69 cm)",
+            "Drum Width": "47.3 in (119 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "57 lbs/in",
+            "Vibration Frequency 1": "50 hz (3,000 vpm)"
+        },
+        "Engine": {
+            "Displacement": "104.8 cu in (0 m)",
+            "Engine Model": "2M40L",
+            "Gross Power": "32.9 hp (24 kw)",
+            "Number of Cylinders": "2",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Engine Oil Capacity": "1.2 gal (4 l)",
+            "Fuel Capacity": "14.2 gal (53 l)",
+            "Hydraulic System Fluid Capacity": "10.6 gal (38 l)",
+            "Max Speed": "6.6 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5401.4 lbs (2,450 kg)"
+        }
+    }
+}

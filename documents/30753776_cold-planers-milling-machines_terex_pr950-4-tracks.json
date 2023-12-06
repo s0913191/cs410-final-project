@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/terex/pr950-4-tracks/30753776",
+    "source_url_id": "30753776",
+    "source_url_model": "pr950-4-tracks",
+    "source_url_make": "terex",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:52:58.887222",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Terex",
+    "equipment_model": "PR950 4-Tracks",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Collecting Conveyor Width": "42.1 in (107 cm)",
+            "Discharge Conveyor Swing (R/L)": "60  \t\u00b0",
+            "Discharge Conveyor Width": "42.1 in (107 cm)"
+        },
+        "Dimensions": {
+            "Operating Length": "55.6 ft (17 m)",
+            "Shipping Height": "10.5 ft (3 m)",
+            "Shipping Width": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "1404 cu in (0 m)",
+            "Engine Model": "QSK-23",
+            "Gross Power": "950 hp (708 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "425.1 gal (1,609 l)",
+            "Hydraulic System Fluid Capacity": "125 gal (473 l)",
+            "Operating Speed": "167.4 ft/min",
+            "Operating Voltage": "24 V",
+            "Operating Weight - Full Load": "93000 lbs (42,185 kg)",
+            "Shipping Weight - Empty": "78000 lbs (35,381 kg)",
+            "Travel Speed": "3.4 mph (5 kph)",
+            "Water Spray System Fluid Capacity": "1379.8 gal (5,220 l)"
+        },
+        "Rotary Cutter": {
+            "Cutting Depth": "15 in (38 cm)",
+            "Cutting Width": "7.2 ft (2 m)"
+        },
+        "Track": {
+            "Number of Track Units": "4"
+        }
+    }
+}

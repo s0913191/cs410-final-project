@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/yanmar/cbl40/33748",
+    "source_url_id": "33748",
+    "source_url_model": "cbl40",
+    "source_url_make": "yanmar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:37:57.055380",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Yanmar",
+    "equipment_model": "CBL40",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "10.1 ft (3 m)",
+            "Load Height": "8.5 ft (2 m)",
+            "Reach From Swivel": "13.2 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Transport Length": "19.6 ft (6 m)",
+            "Transport Width": "5.9 ft (2 m)",
+            "Wheelbase": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Gross Power": "37.2 hp (28 kw)",
+            "Net Power": "35.4 hp (26 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "11.1 gal/min (42 l/min)",
+            "Pump Type": "2x piston",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Clearance at Max Dump Height": "7.3 ft (2 m)",
+            "Reach at Max Dump Height": "2 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "16.4 gal (61 l)",
+            "Max Weight": "7750 lbs (3,515 kg)",
+            "Tire Size Front - 2wd / 4wd": "27x10.5-15",
+            "Turning Radius": "8.4 ft (2 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "15-19.5"
+        },
+        "Transmission": {
+            "Max Speed": "13.7 mph (21 kph)",
+            "Max Speed - Reverse": "13.7 mph (21 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Mechanically controlled load sensing HMT"
+        }
+    }
+}

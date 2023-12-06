@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/12sp/30685655",
+    "source_url_id": "30685655",
+    "source_url_model": "12sp",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:17.334444",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "12SP",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "VL/18 ft (0 m)",
+            "Stowed Height": "6.5 ft (2 m)",
+            "Stowed Width": "2.83 ft (1 m)"
+        },
+        "Tires": {
+            "Tire Size": "n/a"
+        }
+    }
+}

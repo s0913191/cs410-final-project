@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/kx71-3/23046",
+    "source_url_id": "23046",
+    "source_url_model": "kx71-3",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:26.536003",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "KX71-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "9.74 ft (3 m)",
+            "Max Reach Along Ground": "16.01 ft (5 m)"
+        },
+        "Engine": {
+            "Net Power": "28 hp (21 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "6305 lbs (2,860 kg)"
+        }
+    }
+}

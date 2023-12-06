@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/410/31077219",
+    "source_url_id": "31077219",
+    "source_url_model": "410",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:40.565936",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "410",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "55 hp (41 kw)"
+        },
+        "Production": {
+            "Series": "400 Series",
+            "Years Manufactured": "2002 - 2012"
+        }
+    }
+}

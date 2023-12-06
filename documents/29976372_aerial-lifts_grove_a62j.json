@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/a62j/29976372",
+    "source_url_id": "29976372",
+    "source_url_model": "a62j",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:41.784191",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "A62J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height - mast lowered": "9 ft (3 m)",
+            "Overall Length": "30.6 in (76 cm)",
+            "Overall Width": "8.1 ft (2 m)",
+            "Turning Radius": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "Diesel",
+            "Fuel Type": "Dual Fuel"
+        },
+        "Performance": {
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "26801.6 lbs (12,157 kg)"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "47.6 ft (14 m)",
+            "Max Platform Height": "62 ft (19 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Max Working Height": "68.1 ft (21 m)",
+            "Platform Inner Length": "94.5 in (239 cm)",
+            "Platform Inner Width": "35.9 in (89 cm)"
+        }
+    }
+}

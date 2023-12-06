@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d3c-ii/30750626",
+    "source_url_id": "30750626",
+    "source_url_model": "d3c-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:41:58.619171",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D3C II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Length of Track on Ground": "6.3 ft (2 m)",
+            "Length w/ Blade": "12.3 ft (4 m)",
+            "Length w/o Blade": "9.1 ft (3 m)",
+            "Width Over Tracks": "5.9 ft in (13 cm)"
+        },
+        "Engine": {
+            "Displacement": "317.4 cu in (0 m)",
+            "Engine Model": "3204",
+            "Gross Power": "76 hp (57 kw)",
+            "Net Power": "70 hp (52 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.6 gal/min (53 l/min)",
+            "Pump type": "Single-section gear pump",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "5.3 gal (19 l)",
+            "Engine Oil Capacity": "3.2 gal (11 l)",
+            "Final Drives Fluid Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "32 gal (121 l)",
+            "Hydraulic Fluid Capacity": "15.1 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15434.6 lbs (7,001 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "1.7 cu yds (1 m)",
+            "Height": "33.1 in (84 cm)",
+            "Width": "8 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.7 mph (10 kph)",
+            "Max Speed - Reverse": "7.1 mph (11 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "planetary power shift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2092.6 cu in (0 m)",
+            "Ground Pressure": "7.2 psi",
+            "Number of Shoes per Side": "37",
+            "Number of Track Rollers per Side": "5",
+            "Standard Shoe Size": "14.1 in (36 cm)",
+            "Track Gauge": "4.7 ft (1 m)"
+        }
+    }
+}

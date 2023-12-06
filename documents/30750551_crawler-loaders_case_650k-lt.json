@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/case/650k-lt/30750551",
+    "source_url_id": "30750551",
+    "source_url_model": "650k-lt",
+    "source_url_make": "case",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:00.588213",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "650K LT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "9.1 ft (3 m)",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Length to Front of Track": "14.1 ft (4 m)",
+            "Length with Bucket on Ground": "16.8 ft (5 m)",
+            "Reach at Dump Height": "9.2 ft (3 m)",
+            "Width to Outside of Tracks": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "274 cu in (0 m)",
+            "Engine Model": "family III 445T/M2 diesel Tier II certified",
+            "Net Power": "74.8 hp (55 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "20.8 gal/min (76 l/min)",
+            "Pump Type": "Deep sump plate cooler with pressurized under piston nozzle",
+            "Relief Valve Pressure": "20855 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "20 gal (76 l)",
+            "Engine Oil Capacity": "14.4 gal (53 l)",
+            "Final Drive Fluid Capacity - each": "15 gal (57 l)",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "20 gal (76 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "18200 lbs (8,256 kg)"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "2810 cu in (0 m)",
+            "Ground Pressure": "6.5 psi",
+            "Length of Track on Ground": "16 ft (5 m)",
+            "Number of Shoes per Side": "38",
+            "Number of Track Rollers per Side": "6",
+            "Track Gauge": "57 in (145 cm)",
+            "Track Shoe Width": "16 in (41 cm)"
+        }
+    }
+}

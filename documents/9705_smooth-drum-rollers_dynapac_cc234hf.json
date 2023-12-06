@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc234hf/9705",
+    "source_url_id": "9705",
+    "source_url_model": "cc234hf",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:19.308107",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC234HF",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "200 in (508 cm)"
+        },
+        "Drum": {
+            "Drum Width": "59 in (150 cm)",
+            "Vibration Frequency": "2870/4010 hz (172,200 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "64 in (163 cm)"
+        }
+    }
+}

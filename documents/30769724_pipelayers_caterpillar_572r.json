@@ -1,0 +1,56 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pipelayers/caterpillar/572r/30769724",
+    "source_url_id": "30769724",
+    "source_url_model": "572r",
+    "source_url_make": "caterpillar",
+    "source_url_category": "pipelayers",
+    "source_date_scraped": "2023-09-13 16:35:11.155963",
+    "equipment_category": "Pipelayers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "572R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Boom Length": "20.1 ft (6 m)",
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.5 ft (3 m)",
+            "Length": "15.5 ft (5 m)",
+            "Length of Track on Ground": "10.5 ft (3 m)",
+            "Lift Capacity at Max Reach": "90000 lbs (40,824 kg)",
+            "Overall Height": "22.1 ft (7 m)",
+            "Overall Length": "15.6 ft (5 m)",
+            "Overall Width": "12.1 ft (4 m)",
+            "Shipping Height": "11.3 ft (3 m)",
+            "Shipping Width": "12 ft (4 m)",
+            "Width Over Tracks": "9.5 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "628.6 cu in (0 m)",
+            "Engine Model": "3306",
+            "Flywheel Power": "230 hp (172 kw)",
+            "Gross Power": "257.5 hp (192 kw)",
+            "Net Power": "240.1 hp (179 kw)",
+            "Net Power - ISO 9249": "230 hp (172 kw)"
+        },
+        "Hydraulic System": {
+            "Pump type": "Pressure compensating piston-type pump."
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "20.5 gal (76 l)",
+            "Final Drives Fluid Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "126.6 gal (477 l)",
+            "Operating Weight": "70206.3 lbs (31,845 kg)"
+        },
+        "Pipelaying Equipment": {
+            "Lift Capacity": "90000 lbs (40,824 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.6 mph (10 kph)",
+            "Max Speed - Reverse": "8.5 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Weights": {
+            "Operating Weight": "64170 lbs (29,107 kg)"
+        }
+    }
+}

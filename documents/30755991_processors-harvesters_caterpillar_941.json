@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/caterpillar/941/30755991",
+    "source_url_id": "30755991",
+    "source_url_model": "941",
+    "source_url_make": "caterpillar",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:11.361785",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "941",
+    "equipment_spec": {
+        "Boom": {
+            "Max Reach w/ Head": "32.9 ft (10 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Configuration": "6 wheeldrive",
+            "Number of Axels": "3",
+            "Tire Size - front": "650/65x26.5",
+            "Tire Size - rear": "700/70x34"
+        },
+        "Engine": {
+            "Aspiration": "Turbo with Commonrail",
+            "Displacement": "512.6 cu in (0 m)",
+            "Engine Model": "84 CTA 6-cyl, Tier 3",
+            "Net Power": "270 hp (201 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "145.3 gal (549 l)",
+            "Max Speed": "15.6 mph (24 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "51808.7 lbs (23,500 kg)",
+            "Transmission Type": "hydrostatic-mechanical"
+        }
+    }
+}

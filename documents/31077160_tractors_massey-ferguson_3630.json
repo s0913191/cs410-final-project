@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/3630/31077160",
+    "source_url_id": "31077160",
+    "source_url_model": "3630",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:33.846357",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "3630",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "127 hp (95 kw)"
+        },
+        "Production": {
+            "Series": "3600 Series",
+            "Years Manufactured": "1987 - 1990"
+        }
+    }
+}

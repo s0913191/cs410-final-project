@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/liebherr/ltm-1055and-or32/30760344",
+    "source_url_id": "30760344",
+    "source_url_model": "ltm-1055and-or32",
+    "source_url_make": "liebherr",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:51.779382",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1055/3.2",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "184 ft (56 m)",
+            "Max Lift Capacity": "65 t (58,967 kg)"
+        }
+    }
+}

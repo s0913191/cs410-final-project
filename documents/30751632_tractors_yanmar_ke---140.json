@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ke---140/30751632",
+    "source_url_id": "30751632",
+    "source_url_model": "ke---140",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:47.602692",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "Ke - 140",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "8.9 in (20 cm)",
+            "Height - Top of Cab": "7.1 ft (2 m)",
+            "Overall Length": "7.7 in (18 cm)",
+            "Tire Size": "Front 4.5 - 10, Rear 7-16",
+            "Wheelbase": "4 ft (1 m)",
+            "Width Outside Frame": "3.1 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "40.3 cu in (0 m)",
+            "Engine Model": "3TN66",
+            "Gross Power": "13.9 hp (10 kw)",
+            "Net Power": "12.4 hp (9 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat. 1",
+            "Alternator Supplied Amperage": "36  A",
+            "Fuel Capacity": "3.5 gal (11 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "1245.7 lbs (565 kg)",
+            "Turning Radius": "5.6 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "8.1 mph (13 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Transmission driven P/T/O (SAE 1 - 3/8)"
+        }
+    }
+}

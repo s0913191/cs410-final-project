@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tc34da/3572588",
+    "source_url_id": "3572588",
+    "source_url_model": "tc34da",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:14.852379",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TC34DA",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "35 hp (26 kw)"
+        },
+        "Production": {
+            "Series": "Boomer TC-A Series",
+            "Years Manufactured": "2005 - 2008"
+        }
+    }
+}

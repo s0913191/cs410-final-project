@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l90h-20/30761363",
+    "source_url_id": "30761363",
+    "source_url_model": "l90h-20",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:26.302817",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L90H 2.0",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Model": "D6J",
+            "Net Power": "184 hp (137 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2.9 - 9.20 cu yds (2 - 7 m)"
+        },
+        "Weights": {
+            "Operational Weight": "33030 lbs (14,982 kg)"
+        }
+    }
+}

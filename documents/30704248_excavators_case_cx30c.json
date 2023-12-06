@@ -1,0 +1,73 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx30c/30704248",
+    "source_url_id": "30704248",
+    "source_url_model": "cx30c",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:55.617203",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX30C",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "14.1 ft (4 m)",
+            "Max Digging Depth": "8.3 ft (2 m)",
+            "Max Loading Height": "9.7 ft (3 m)",
+            "Max Reach Along Ground": "14.9 ft (4 m)",
+            "Max Vertical Wall Digging Depth": "6.9 ft (2 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "13.8 ft (4 m)"
+        },
+        "Capacities": {
+            "Engine oil w/ filter change": "1.6 gal (4 l)",
+            "Fuel Tank": "8 gal (30 l)",
+            "Hydraulic Tank": "14.6 gal (53 l)",
+            "Radiator": "1.4 gal (4 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Length of Track on Ground": "4.9 ft (1 m)",
+            "Tail Swing Radius": "2.5 ft (1 m)",
+            "Width to Outside of Tracks": "5.1 ft (2 m)"
+        },
+        "Drive System": {
+            "Gradeability": "30  \t\u00b0",
+            "Ground pressure": "4.1 psi",
+            "Maximum traction force": "4800 lbs (2,177 kg)"
+        },
+        "Electrical System": {
+            "Alternator": "40 amp",
+            "Battery": "1 x 12 V x 80 Ah",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Cooling system": "Water-cooled",
+            "Displacement": "77 cu in (0 m)",
+            "Emissions level": "Tier 4 Final",
+            "Engine Model": "Kubota D1305",
+            "Fuel": "Diesel",
+            "Fuel injection": "Mechanical",
+            "Gross Power": "24.8 hp (18 kw)",
+            "Max speed": "2.7 mph (3 kph)",
+            "Max Torque": "60.1 lbs/ft",
+            "Net Power": "23.2 hp (17 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Main pump - Maximum flow": "14.6 gal/min (53 l/min)",
+            "Relief pressure": "3130 psi, 220 bar"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "6636 lbs (3,010 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.1 rpm"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "4"
+        }
+    }
+}

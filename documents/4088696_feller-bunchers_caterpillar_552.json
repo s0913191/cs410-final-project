@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/feller-bunchers/caterpillar/552/4088696",
+    "source_url_id": "4088696",
+    "source_url_model": "552",
+    "source_url_make": "caterpillar",
+    "source_url_category": "feller-bunchers",
+    "source_date_scraped": "2023-09-13 17:50:35.613869",
+    "equipment_category": "Feller Bunchers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "552",
+    "equipment_spec": {
+        "Boom": {
+            "Bare Pin Lift at Max Reach": "20723.5 lbs (9,400 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "3 in (8 cm)",
+            "Height - Top of Cab": "13 ft (4 m)",
+            "Max Reach": "28.3 ft (9 m)",
+            "Overall Length": "31 ft (9 m)",
+            "Overall Width": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "537.1 cu in (0 m)",
+            "Engine Model": "C9 ACERT",
+            "Gross Power": "305 hp (227 kw)",
+            "Net Power": "282 hp (210 kw)",
+            "Power Measured @": "2100 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "16.2 gal (61 l)",
+            "Engine Oil Capacity": "10.4 gal (38 l)",
+            "Fuel Capacity": "312 gal (1,181 l)",
+            "Hydraulic System Fluid Capacity": "97.8 gal (367 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight w/o Attachment": "78661 lbs (35,680 kg)"
+        },
+        "Undercarriage": {
+            "Shoe Size": "28 in (71 cm)",
+            "Track Gauge": "8.6 ft (2 m)",
+            "Track Pitch": "8.5 in (20 cm)",
+            "Tractive Effort": "104000.9 lbs (47,174 kg)"
+        },
+        "Upperstructure Leveling": {
+            "Front": "20  \t\u00b0",
+            "Side": "11  \t\u00b0"
+        }
+    }
+}

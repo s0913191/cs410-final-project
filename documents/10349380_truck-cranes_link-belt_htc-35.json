@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/link-belt/htc-35/10349380",
+    "source_url_id": "10349380",
+    "source_url_model": "htc-35",
+    "source_url_make": "link-belt",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:58.830826",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "HTC-35",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "80 ft (24 m)",
+            "Min Height @ Max Raise Angle": "32 ft (10 m)",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "bore": "3.9 in (8 cm)",
+            "Displacement": "318 cu in (0 m)",
+            "Gross Power": "216 hp (161 kw)",
+            "Make": "Link-Belt",
+            "Max Torque": "446 lbs/ft",
+            "Model": "6V53",
+            "Number of cylinders": "6",
+            "Power Measured @": "2800 rpm",
+            "Stroke": "4.5 in (10 cm)",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "34.9 ft (10 m)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "10 ft (3 m)",
+            "Transport Length": "39.9 ft (12 m)",
+            "Transport Width": "8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.8 ft (3 m)",
+            "Width w/ Outriggers Extended": "18.1 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "60 gal (227 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "60882.9 lbs (27,616 kg)",
+            "Tire Size": "11.00 x 20",
+            "Upper Structure Hydraulic System Fluid Capacity": "236 gal (893 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "49 mph (79 kph)",
+            "Max Speed - Reverse": "17.7 mph (27 kph)",
+            "Number of Forward Gears": "13",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Eaton Roadranger RT613"
+        }
+    }
+}

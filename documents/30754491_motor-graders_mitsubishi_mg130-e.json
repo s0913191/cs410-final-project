@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/mitsubishi/mg130-e/30754491",
+    "source_url_id": "30754491",
+    "source_url_model": "mg130-e",
+    "source_url_make": "mitsubishi",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:21:47.621033",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Mitsubishi",
+    "equipment_model": "MG130-E",
+    "equipment_spec": {
+        "Circle": {
+            "Blade Tip Angle - Front": "40  \t\u00b0",
+            "Blade Tip Angle - Rear": "5  \t\u00b0",
+            "Max Lift Above Ground": "15.8 in (38 cm)",
+            "Rotation": "360  \t\u00b0",
+            "Shift Left": "57.9 in (145 cm)",
+            "Shift Right": "48.5 in (122 cm)"
+        },
+        "Dimensions": {
+            "Blade Base": "7.1 ft (2 m)",
+            "Height to Top of Isomount Cab": "9.9 ft (3 m)",
+            "Overall Length": "22.7 ft (7 m)",
+            "Wheelbase": "16.1 ft (5 m)",
+            "Width Over Tires": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "259.3 cu in (0 m)",
+            "Engine Model": "SK4-T",
+            "Max Power": "95 hp (71 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm"
+        },
+        "Front Axle": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Oscillation - Total": "30  \t\u00b0",
+            "Wheel Lean": "20  \t\u00b0"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "28.1 gal/min (106 l/min)",
+            "Pump Type": "tandem gear",
+            "Relief Valve Pressure": "2.5 psi"
+        },
+        "Moldboard": {
+            "Moldboard Height": "24.1 in (61 cm)",
+            "Moldboard Thickness": "0.8 in (0 cm)",
+            "Moldboard Width": "10.2 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "30  A",
+            "Circle Gearbox Fluid Capacity": "1 gal (4 l)",
+            "Fuel Capacity": "30.4 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "17.7 gal (64 l)",
+            "Oil System Fluid Capacity": "3.2 gal (11 l)",
+            "Operating Voltage": "24 V V",
+            "Std Operation Weight - Total": "22178.6 lbs (10,060 kg)",
+            "Tandem Case Fluid Capacity (each)": "6.9 gal (23 l)",
+            "Tire Size": "10.00-20-12",
+            "Transmission Fluid Capacity": "6.1 gal (23 l)"
+        },
+        "Steering System": {
+            "Articulation Angle": "26  \t\u00b0"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.3 mph (32 kph)",
+            "Max Speed - Reverse": "20.7 mph (32 kph)",
+            "Number of Gears - Forward": "6",
+            "Number of Gears - Reverse": "6",
+            "Transmission Type": "planetary"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/ingersoll-rand/pt125r/30466895",
+    "source_url_id": "30466895",
+    "source_url_model": "pt125r",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:35.220941",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "PT125R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "10.6 ft (3 m)",
+            "Overall Length": "12.8 in (30 cm)",
+            "Overall Width": "6.5 ft (2 m)",
+            "Turning Radius - Inside": "129 in (328 cm)",
+            "Turning Radius - Outside": "244 in (620 cm)",
+            "Wheelbase": "9.6 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "68 in (173 cm)"
+        },
+        "Engine": {
+            "Engine Model": "B 3.3T-85",
+            "Gross Power": "86 hp (64 kw)",
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Fuel Capacity": "100.2 gal (379 l)",
+            "Hydraulic System Fluid Capacity": "16.2 gal (61 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Width": "78 in (198 cm)",
+            "Water Spray Tank Fluid Capacity": "100.2 gal (379 l)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "4",
+            "Number of Tires - Rear": "5",
+            "Oscillation Angle": "3  \t\u00b0",
+            "Standard Tire Size": "7.5-15, 14-ply",
+            "Wheel Track/Tire Overlap": "0.5 in (0 cm)"
+        },
+        "Weights": {
+            "Average Weight per Wheel - Max Ballast": "2705.1 lbs (1,227 kg)",
+            "Average Weight per Wheel - Standard": "1009.8 lbs (458 kg)",
+            "Operating Weight - max ballast": "16711.1 lbs (7,580 kg)",
+            "Operating Weight - standard": "9094.1 lbs (4,125 kg)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dump-trailers/bri-mar/r610lp-10/30835194",
+    "source_url_id": "30835194",
+    "source_url_model": "r610lp-10",
+    "source_url_make": "bri-mar",
+    "source_url_category": "dump-trailers",
+    "source_date_scraped": "2023-09-13 17:54:10.364832",
+    "equipment_category": "Dump Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "R610LP-10",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6x10 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "1940 lbs (880 kg)",
+            "Weight Capacity": "8060 lbs (3,656 kg)"
+        }
+    }
+}

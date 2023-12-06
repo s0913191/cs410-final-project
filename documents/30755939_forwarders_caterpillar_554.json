@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forwarders/caterpillar/554/30755939",
+    "source_url_id": "30755939",
+    "source_url_model": "554",
+    "source_url_make": "caterpillar",
+    "source_url_category": "forwarders",
+    "source_date_scraped": "2023-09-13 17:50:47.102572",
+    "equipment_category": "Forwarders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "554",
+    "equipment_spec": {
+        "Bunk": {
+            "Load Weight - 8wd": "22000 lbs (9,979 kg)"
+        },
+        "Crane": {
+            "Crane Type": "F61 F72",
+            "Gross Lift Torque": "15300 lbs/ft",
+            "Max Reach": "23.5 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height to Top of crane": "12.21 ft (4 m)",
+            "Height to Top of Crane": "12.3 ft (4 m)",
+            "Length": "28.4 ft (9 m)",
+            "Length of Bunk Area": "15.8 ft (5 m)",
+            "Width of Bunk Area": "8.5 ft (2 m)",
+            "Width Over Tires": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "243 cu in (0 m)",
+            "Engine Model": "3054 DITA",
+            "Flywheel Power": "111 hp (83 kw)",
+            "Gross Power": "122 hp (91 kw)",
+            "Power": "111.4 hp (83 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque": "329 lbs/ft",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Fuel Tank": {
+            "Fuel Tank Capacity": "23.4 gal (87 l)"
+        },
+        "Operating Specifications": {
+            "Front/Rear Tire Size - 8wd": "600/50-22.5 12PR B",
+            "Fuel Capacity": "23.8 gal (87 l)",
+            "Loader Net Lifting Capacity": "466 lbs (211 kg)",
+            "Maximum Travel Speed": "15.5 mph (24 kph)",
+            "Operating Weight - 8wd": "28500 lbs (12,928 kg)",
+            "Payload": "22046 lbs (10,000 kg)",
+            "Tractive Ability": "28102 lbs (12,747 kg)",
+            "Travel Speed - Roading": "15.5 mph (24 kph)"
+        },
+        "Performance": {
+            "Reach - Maximum - Any Height": "333 in (846 cm)"
+        },
+        "Transmission": {
+            "Max Speed": "15.5 mph (24 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission": "Powershift",
+            "Transmission Type": "Hydrostatic/Mechanical"
+        },
+        "Weights": {
+            "Gross (Loaded) Machine Weight": "48446 lbs (21,975 kg)"
+        }
+    }
+}

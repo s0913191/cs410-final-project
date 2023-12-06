@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa180-3/21452",
+    "source_url_id": "21452",
+    "source_url_model": "wa180-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:11.503521",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA180-3",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "20952.2 lbs (9,504 kg)",
+            "Bucket Capacity - heaped": "2.1 cu yds (2 m)",
+            "Bucket Width": "8.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Hinge Pin - Max Height": "11.7 ft (3 m)",
+            "Length with Bucket on Ground": "21.7 ft (6 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "8.9 ft (2 m)",
+            "Width Over Tires": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "360.1 cu in (0 m)",
+            "Engine Model": "S6D102 E1",
+            "Gross Power": "110 hp (82 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2400 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "2.5 sec",
+            "Pump Flow Capacity": "38.1 gal/min (144 l/min)",
+            "Raise Time": "5 sec",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "35  A",
+            "Fuel Capacity": "45 gal (170 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "20569.2 lbs (9,330 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Static Tipping Weight": "17482.7 lbs (7,930 kg)",
+            "Tire Size": "17.5 R25",
+            "Turning Radius": "17.9 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.5 mph (34 kph)",
+            "Max Speed - Reverse": "21.8 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Fully automatic, full powershift with 'kick-down' system"
+        }
+    }
+}

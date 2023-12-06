@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/tigercat/t234/30756023",
+    "source_url_id": "30756023",
+    "source_url_model": "t234",
+    "source_url_make": "tigercat",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:51:07.867142",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "Tigercat",
+    "equipment_model": "T234",
+    "equipment_spec": {
+        "Boom/Stick Log Loader Option 1": {
+            "Max Height": "25 ft (8 m)",
+            "Max Lift Capacity Over Front at Ground Level": "32500 lbs (14,742 kg)",
+            "Max Reach at Ground Level": "32 ft (10 m)",
+            "Shipping Height": "14.2 ft (4 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Overall Width": "11.3 ft (3 m)",
+            "Tail Swing Radius": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB6.7 Tier III",
+            "Net Power": "173 hp (129 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Type": "load sensing, variable displacement piston"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "60 gal (227 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "52492.1 lbs (23,810 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Undercarriage": {
+            "Shoe Size": "30 in (76 cm)"
+        }
+    }
+}

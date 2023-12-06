@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/af650/31084888",
+    "source_url_id": "31084888",
+    "source_url_model": "af650",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:32.099599",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "AF650",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "50 hp (37 kw)"
+        },
+        "Production": {
+            "Series": "AF600 Series",
+            "Years Manufactured": "2001 - 2005"
+        }
+    }
+}

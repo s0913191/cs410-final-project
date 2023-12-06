@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/volvo/sd70/30679673",
+    "source_url_id": "30679673",
+    "source_url_model": "sd70",
+    "source_url_make": "volvo",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:37.114699",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Volvo",
+    "equipment_model": "SD70",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "127.9 in (323 cm)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Vibration Frequency": "30.8 - 33.80 hz (1,800 - 1,980 vpm)"
+        },
+        "Engine": {
+            "Make": "Kubota V3800DI"
+        },
+        "Operating Specifications": {
+            "Operating Width": "73.6 in (185 cm)"
+        }
+    }
+}

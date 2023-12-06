@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/iseki/tg5390/30751488",
+    "source_url_id": "30751488",
+    "source_url_model": "tg5390",
+    "source_url_make": "iseki",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:44.823238",
+    "equipment_category": "Tractors",
+    "equipment_make": "Iseki",
+    "equipment_model": "TG5390",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "16.6 in (41 cm)",
+            "Height - Top of Cab": "8.5 ft (2 m)",
+            "Overall Length": "10.4 in (25 cm)",
+            "Tire Size": "Front 7-16, Rear 12.4-24",
+            "Wheelbase": "5.9 ft (2 m)",
+            "Width Outside Frame": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "91.5 cu in (0 m)",
+            "Net Power": "38 hp (28 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "9.1 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Operating Weight": "2888.1 lbs (1,310 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "19.4 mph (31 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12"
+        }
+    }
+}

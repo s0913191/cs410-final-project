@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/pnuematic-rollers/dynapac/cp201/30148167",
+    "source_url_id": "30148167",
+    "source_url_model": "cp201",
+    "source_url_make": "dynapac",
+    "source_url_category": "pnuematic-rollers",
+    "source_date_scraped": "2023-09-13 17:40:20.113076",
+    "equipment_category": "Pneumatic Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CP201",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height - Top of ROPS/FOPS": "8.4 ft (2 m)",
+            "Overall Length": "16.4 in (41 cm)",
+            "Overall Width": "6.8 ft (2 m)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "351.5 cu in (0 m)",
+            "Engine Model": "HIN0 W06D",
+            "Net Power": "96 hp (72 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Max Speed": "15 mph (24 kph)",
+            "Water Spray Tank Fluid Capacity": "1188.8 gal (4,497 l)"
+        },
+        "Tires": {
+            "Number of Tires - Front": "4",
+            "Number of Tires - Rear": "5",
+            "Standard Tire Size": "9.00-20-10 ply",
+            "Wheel Track/Tire Overlap": "1.4 in (3 cm)"
+        },
+        "Weights": {
+            "Operating Weight - max ballast": "33069.4 lbs (15,000 kg)",
+            "Operating Weight - standard": "18408.6 lbs (8,350 kg)"
+        }
+    }
+}

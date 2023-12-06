@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/komatsu/d31p-20/30750573",
+    "source_url_id": "30750573",
+    "source_url_model": "d31p-20",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:39.116628",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D31P-20",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.8 ft (2 m)",
+            "Length with Bucket on Ground": "10 ft (3 m)",
+            "Width to Outside of Tracks": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "239 cu in (0 m)",
+            "Engine Model": "S4D102E"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "30.4 gal (114 l)",
+            "Max Speed": "4.1 mph (6 kph)",
+            "Operating Weight": "12985.3 lbs (5,890 kg)"
+        },
+        "Undercarriage": {
+            "Length of Track on Ground": "7.2 ft (2 m)",
+            "Track Gauge": "57.1 in (145 cm)",
+            "Track Shoe Width": "23.7 in (58 cm)"
+        }
+    }
+}

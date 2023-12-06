@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/5325/30671554",
+    "source_url_id": "30671554",
+    "source_url_model": "5325",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:21:34.105411",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "5325",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "184 cu in (0 m)",
+            "Engine Make": "2240",
+            "Engine Model": "5030",
+            "Gross Power": "67 hp (50 kw)",
+            "Max Torque": "180.8 lbs/ft",
+            "Number of Cylinders": "5",
+            "Power Measured @": "2400 rpm",
+            "PTO Power": "55 hp (41 kw)",
+            "Torque Measured @": "1446 rpm"
+        },
+        "Hydraulic System": {
+            "Relief Valve Setting": "2828 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3374 lbs (1,530 kg)",
+            "Fuel Capacity": "25.5 gal (95 l)",
+            "Operating Weight": "4892.1 lbs (2,219 kg)",
+            "Tire Size Front - 2wd / 4wd": "9.5-24 6PR R1",
+            "Turning Radius": "10.2 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "14.9-28 6PR R1"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "SyncShuttle"
+        }
+    }
+}

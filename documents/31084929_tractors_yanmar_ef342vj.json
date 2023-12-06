@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/ef342vj/31084929",
+    "source_url_id": "31084929",
+    "source_url_model": "ef342vj",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:38.196742",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "EF342VJ",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "41 hp (31 kw)"
+        },
+        "Production": {
+            "Series": "EF300V Series",
+            "Years Manufactured": "2005 - 2009"
+        }
+    }
+}

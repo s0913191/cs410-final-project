@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td15r-extra-wt/30760553",
+    "source_url_id": "30760553",
+    "source_url_model": "td15r-extra-wt",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:55.251976",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD15R Extra WT",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB 6.7 (Tier IV final)",
+            "Net Power": "205 hp (153 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "47212 lbs (21,415 kg)"
+        }
+    }
+}

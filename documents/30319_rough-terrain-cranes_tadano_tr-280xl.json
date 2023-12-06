@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/tadano/tr-280xl/30319",
+    "source_url_id": "30319",
+    "source_url_model": "tr-280xl",
+    "source_url_make": "tadano",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:59.126735",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "TR-280XL",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "72.2 ft (22 m)",
+            "Min Height @ Max Raise Angle": "29.6 ft (9 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "3.4 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "22178.5 ft (6,760 m)",
+            "Transport Height": "11.4 ft (3 m)",
+            "Transport Length": "36 ft (11 m)",
+            "Transport Width": "8.6 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "5.8 ft (2 m)",
+            "Wheelbase": "122.1 in (310 cm)",
+            "Width w/ Outriggers Extended": "20.4 ft (6 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type, replacement element (dual)",
+            "Bore": "4.4 in (10 cm)",
+            "Cooling system": "Liquid pressurized, recirculating by-pass",
+            "Displacement": "400 cu in (0 m)",
+            "Engine Make": "Mitsubishi",
+            "Engine Model": "6D14T",
+            "Engine Type": "Direct Injection Diesel",
+            "Fuel Filter": "Full flow with replacement element",
+            "Max Torque": "420 lbs/ft",
+            "Net Power": "179.7 hp (133 kw)",
+            "Oil Filter": "Full flow with replacement element",
+            "Power Measured @": "2600 rpm",
+            "Radiator Core type": "Fin and tube core, thermostat controlled",
+            "Stroke": "4.6 in (10 cm)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "66.1 gal (250 l)",
+            "Hydraulic System Fluid Capacity": "115.8 gal (435 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "20.5 X 25-20 PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "31.2 mph (50 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Powershift"
+        }
+    }
+}

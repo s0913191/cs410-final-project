@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/hc-60/30863",
+    "source_url_id": "30863",
+    "source_url_model": "hc-60",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:09.529678",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "HC 60",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "160 ft (49 m)",
+            "Max Lift Capacity": "60 t (54,431 kg)"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/john-deere/329e/30472375",
+    "source_url_id": "30472375",
+    "source_url_model": "329e",
+    "source_url_make": "john-deere",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:40.587957",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "329E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump angle": "45  \t\u00b0",
+            "Dump Height": "102 in (259 cm)",
+            "Dump reach": "39.4 in (99 cm)",
+            "Ground Clearance": "10.4 in (25 cm)",
+            "Height - Top of ROPS/FOPS": "84.7 in (213 cm)",
+            "Hinge pin height, maximum height": "126 in (320 cm)",
+            "Length - with Bucket": "12.1 ft (4 m)",
+            "Length - without Bucket": "10.1 ft (3 m)",
+            "Turning Radius": "7.2 ft (2 m)",
+            "Width Over Tracks": "1.4 ft (0 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "428 cu in (0 m)",
+            "Engine Make": "Yanmar",
+            "Engine Model": "Cat C7.1 ACERT",
+            "Gross Power": "85.9 hp (63 kw)",
+            "Gross Power - SAE J1995": "241 hp (180 kw)",
+            "Net Power": "83.2 hp (62 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "265.6 lbs/ft",
+            "Power Measured @": "2500 rpm",
+            "Stroke": "5.4 in (13 cm)",
+            "Torque Measured @": "1700 rpm"
+        },
+        "Hydraulic System": {
+            "Hydraulic Horsepower-Standard Flow": "42 hp (31 kw)",
+            "Pump Flow": "21.2 gal/min (79 l/min)",
+            "Relief Valve Pressure": "3450.1 psi"
+        },
+        "Loader": {
+            "Boom breakout force": "4600 lbs (2,087 kg)",
+            "Breakout Force": "10335.3 lbs (4,688 kg)",
+            "Operating Load": "2903.5 lbs (1,317 kg)",
+            "Tipping Load": "8307.1 lbs (3,768 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "25.5 gal (95 l)",
+            "Max Speed - high range": "7.9 mph (11 kph)",
+            "Max Speed - low range": "5.3 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "11510.4 lbs (5,221 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "11.7 gal (42 l)",
+            "Hydraulic Tank": "41 gal (155 l)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5 psi",
+            "Number of Track Rollers per Side": "5"
+        },
+        "Weights": {
+            "Operating Weight": "68958 lbs (31,279 kg)"
+        }
+    }
+}

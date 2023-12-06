@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ursus/5712/30751115",
+    "source_url_id": "30751115",
+    "source_url_model": "5712",
+    "source_url_make": "ursus",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:04.210671",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ursus",
+    "equipment_model": "5712",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of ROPS/FOPS": "8.4 ft (2 m)",
+            "Overall Length": "12.6 in (30 cm)",
+            "Overall Width": "6.6 ft (2 m)",
+            "Wheelbase": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "248.4 cu in (0 m)",
+            "Engine Model": "4410",
+            "Gross Power": "86 hp (64 kw)",
+            "Max Torque": "210.3 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "75 hp (56 kw)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "12.3 gal/min (45 l/min)",
+            "Relief Valve Setting": "2320.7 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5732.1 lbs (2,600 kg)",
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "4.4 gal (15 l)",
+            "Engine Oil Capacity": "1.9 gal (4 l)",
+            "Fuel Capacity": "21.2 gal (79 l)",
+            "Hydraulic System Fluid Capacity": "11.7 gal (42 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "7936.7 lbs (3,600 kg)",
+            "Tire Size Front - 2wd / 4wd": "12.4R24"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9R30"
+        },
+        "Transmission": {
+            "Max Speed": "14.8 mph (23 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "mechanical with sliding gears"
+        }
+    }
+}

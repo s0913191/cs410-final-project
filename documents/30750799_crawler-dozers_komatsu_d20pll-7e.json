@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d20pll-7e/30750799",
+    "source_url_id": "30750799",
+    "source_url_model": "d20pll-7e",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:52.326271",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D20PLL-7E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Length of Track on Ground": "6.9 ft (2 m)",
+            "Length w/ Blade": "12 ft (4 m)",
+            "Length w/o Blade": "9.7 ft (3 m)",
+            "Width Over Tracks": "9.5 ft in (23 cm)"
+        },
+        "Engine": {
+            "Displacement": "169.4 cu in (0 m)",
+            "Engine Model": "4D94E",
+            "Gross Power": "40 hp (30 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2450 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "10383.8 lbs (4,710 kg)"
+        },
+        "Standard Blade": {
+            "Height": "19.7 in (48 cm)",
+            "Width": "10.5 ft (3 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "DD"
+        },
+        "Undercarriage": {
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "41.4 in (104 cm)",
+            "Track Gauge": "6.1 ft (2 m)",
+            "Track Pitch": "5.4 in (13 cm)"
+        }
+    }
+}

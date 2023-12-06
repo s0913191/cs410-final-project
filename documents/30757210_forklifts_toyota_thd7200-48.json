@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/thd7200-48/30757210",
+    "source_url_id": "30757210",
+    "source_url_model": "thd7200-48",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:43:32.902952",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "THD7200-48",
+    "equipment_spec": {
+        "Dimensions": {
+            "Aisle width": "30.1 ft (9 m)",
+            "Gradeability": "14%",
+            "Length to Fork Face": "22 ft (7 m)",
+            "Overall Height - mast lowered": "13.7 ft (4 m)",
+            "Overall Width": "11 ft (3 m)",
+            "Right Angle Stack": "26.3 ft (8 m)"
+        },
+        "MAST": {
+            "Lift Speed": "25 ft/min",
+            "Load Capacity": "72000 lbs (32,659 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "21.1 mph (34 kph)",
+            "PrimaryLocation": "outdoor"
+        }
+    }
+}

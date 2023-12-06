@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/terex/rt-440b/30837309",
+    "source_url_id": "30837309",
+    "source_url_model": "rt-440b",
+    "source_url_make": "terex",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:49:12.039502",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "RT 440B",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "123 ft (37 m)",
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "118 ft (36 m)",
+            "Max Lift Capacity": "40 t (36,287 kg)",
+            "Max Operating Radius": "70 ft (21 m)",
+            "Min Height @ Max Raise Angle": "26 ft (8 m)",
+            "Min Operating Radius": "10 ft (3 m)",
+            "Number of Sections": "5"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "22.7 ft (7 m)",
+            "Transport Length": "36.9 ft (11 m)",
+            "Upper Structure Tail Swing Radius": "12 ft (4 m)",
+            "Wheelbase": "11.9 in (28 cm)",
+            "Width w/ Outriggers Extended": "19.2 ft (6 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged + aircooled",
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Model": "QSB6.7",
+            "Max Torque": "540 lbs/ft",
+            "Net Power": "160 hp (119 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "111 gal (420 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "61290 lbs (27,801 kg)",
+            "Tire Size": "20.5x25 PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.2 mph (34 kph)",
+            "Max Speed - Reverse": "21.2 mph (34 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "range-shift type ower shift transmission with integral torque converter"
+        }
+    }
+}

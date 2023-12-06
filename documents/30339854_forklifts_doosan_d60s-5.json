@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/doosan/d60s-5/30339854",
+    "source_url_id": "30339854",
+    "source_url_model": "d60s-5",
+    "source_url_make": "doosan",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:26:12.465345",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Doosan",
+    "equipment_model": "D60S-5",
+    "equipment_spec": {
+        "Engine": {
+            "Displacement": "354 cu in (0 m)",
+            "Engine Model": "DB58S",
+            "Fuel Type": "diesel",
+            "Power": "100 hp (75 kw)",
+            "Power Measured @": "2400 rpm"
+        },
+        "MAST": {
+            "Load Capacity": "13500 lbs (6,124 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

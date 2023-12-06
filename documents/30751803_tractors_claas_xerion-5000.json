@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/claas/xerion-5000/30751803",
+    "source_url_id": "30751803",
+    "source_url_model": "xerion-5000",
+    "source_url_make": "claas",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:14:25.005121",
+    "equipment_category": "Tractors",
+    "equipment_make": "Claas",
+    "equipment_model": "XERION 5000",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Electrohydraulically disengaged spring-loaded brake",
+            "Service brake": "Hydraulically actuated wet multi-disc brakes"
+        },
+        "Dimensions": {
+            "Ground Clearance": "18 in (46 cm)",
+            "Overall height": "12.8 ft (4 m)",
+            "Overall Length": "299 in (759 cm)",
+            "Overall width": "9.8 ft (3 m)",
+            "Turning Radius": "5 ft (2 m)",
+            "Wheelbase": "11.8 ft (3 m)"
+        },
+        "Engine": {
+            "Alternator": "240 A",
+            "Displacement": "781.2 cu in (0 m)",
+            "Engine Make": "Mercedes",
+            "Gross Power": "509.6 hp (380 kw)",
+            "Max Torque": "1807.1 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm",
+            "PTO Power": "472 hp (352 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed Center - pressure and flow compensating",
+            "Maximum Operating Pressure": "3770 psi",
+            "Pump Flow Capacity": "66.1 gal/min (250 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "237.8 gal (897 l)",
+            "Hydraulic System Fluid Capacity": "31.8 gal (117 l)",
+            "Operating Voltage": "24 V V",
+            "Urea tank": "31.8 gal (117 l)"
+        },
+        "Transmission": {
+            "Max Speed": "31.1 mph (50 kph)",
+            "Transmission Type": "Hydrostatic-mechanical"
+        }
+    }
+}

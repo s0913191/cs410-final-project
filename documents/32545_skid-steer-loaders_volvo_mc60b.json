@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/volvo/mc60b/32545",
+    "source_url_id": "32545",
+    "source_url_model": "mc60b",
+    "source_url_make": "volvo",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:40:37.235403",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "MC60B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.2 ft (2 m)",
+            "Ground Clearance": "8.2 in (20 cm)",
+            "Height - Top of Cab": "6.6 ft (2 m)",
+            "Length w/o Bucket": "8.9 ft (2 m)",
+            "Length with Bucket": "10.9 ft (3 m)",
+            "Reach at Max Lift and Dump": "25.5 in (64 cm)",
+            "Turning Radius from Center - inc bucket": "85.5 in (216 cm)",
+            "Turning Radius from Center - machine rear": "55 in (140 cm)",
+            "Wheelbase": "3.4 ft (1 m)",
+            "Width Over Tires": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "134 cu in (0 m)",
+            "Engine Model": "D2.2A",
+            "Gross Power": "45.3 hp (34 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.1 gal/min (64 l/min)",
+            "Relief Valve Pressure": "2500 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Operating Load Rating": "1400 lbs (635 kg)",
+            "Tipping Angle": "2878  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "2.4 gal (8 l)",
+            "Engine Oil Fluid Capacity": "2.4 gal (8 l)",
+            "Hydraulic System Fluid Capacity": "15 gal (57 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "5624 lbs (2,551 kg)"
+        }
+    }
+}

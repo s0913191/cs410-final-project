@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/dd90/30800815",
+    "source_url_id": "30800815",
+    "source_url_model": "dd90",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:05.600910",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "DD90",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "140 in (356 cm)"
+        },
+        "Drum": {
+            "Drum Width": "66 in (168 cm)",
+            "Vibration Frequency": "41.7 hz (2,460 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB 4.5 Tier 3"
+        },
+        "Operating Specifications": {
+            "Operating Width": "75.2 in (191 cm)"
+        }
+    }
+}

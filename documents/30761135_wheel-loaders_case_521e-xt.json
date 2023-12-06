@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/521e-xt/30761135",
+    "source_url_id": "30761135",
+    "source_url_model": "521e-xt",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:06.808989",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "521E XT",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "2.2 cu yds (2 m)",
+            "Bucket Capacity - struck": "1.8 cu yds (1 m)",
+            "Bucket Width": "8.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "10.8 ft (3 m)",
+            "Hinge Pin - Max Height": "12.3 ft (4 m)",
+            "Length with Bucket on Ground": "21.9 ft (6 m)",
+            "Reach at Max Lift and Dump": "3.7 ft (1 m)",
+            "Wheelbase": "9.1 ft (3 m)",
+            "Width Over Tires": "8.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "274 cu in (0 m)",
+            "Engine Model": "445TA/EGE",
+            "Gross Power": "129 hp (96 kw)",
+            "Make": "Case",
+            "Model": "Family IV 445TA/EGE Tier 3",
+            "Net Power": "131 hp (98 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1300 rpm",
+            "Torque Rise": "19%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.1 sec",
+            "Lower Time": "2.7 sec",
+            "Pump Flow Capacity": "35.4 gal/min (132 l/min)",
+            "Raise Time": "5.6 sec",
+            "Relief Valve Setting": "3625 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Engine Oil Fluid Capacity": "3.2 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "5.7 gal (19 l)",
+            "Fuel Capacity": "50 gal (189 l)",
+            "Hydraulic System Fluid Capacity": "30.2 gal (114 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "26861 lbs (12,184 kg)",
+            "Rated Bucket Capacity": "2.60 cu yds (2 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "5.7 gal (19 l)",
+            "Static Tipping Weight": "15640 lbs (7,094 kg)",
+            "Tire Size": "17.5 x 25 L3",
+            "Transmission Fluid Capacity": "5 gal (19 l)",
+            "Turning Radius": "16.4 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.3 mph (35 kph)",
+            "Max Speed - Reverse": "14.1 mph (23 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3"
+        },
+        "Weights": {
+            "Operational Weight": "26861 lbs (12,184 kg)"
+        }
+    }
+}

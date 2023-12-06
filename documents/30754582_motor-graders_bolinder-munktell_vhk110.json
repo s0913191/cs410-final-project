@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/motor-graders/bolinder-munktell/vhk110/30754582",
+    "source_url_id": "30754582",
+    "source_url_model": "vhk110",
+    "source_url_make": "bolinder-munktell",
+    "source_url_category": "motor-graders",
+    "source_date_scraped": "2023-09-13 16:33:42.651661",
+    "equipment_category": "Motor Graders",
+    "equipment_make": "Bolinder Munktell",
+    "equipment_model": "VHK110",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "D 67",
+            "Max Power": "110 hp (82 kw)",
+            "Net Power Gears 7-8": "110 hp (82 kw)"
+        },
+        "Moldboard": {
+            "Moldboard Height": "24.3 in (61 cm)",
+            "Moldboard Width": "10.1 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Std Operation Weight - Total": "21649.4 lbs (9,820 kg)",
+            "Tire Size": "13.00-24"
+        },
+        "Transmission": {
+            "Transmission Type": "mechanical"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/624k-tool-carrier/30761231",
+    "source_url_id": "30761231",
+    "source_url_model": "624k-tool-carrier",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:00.355293",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "624K Tool Carrier",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.3 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Deere",
+            "Model": "PVX 6068",
+            "Net Power": "186 hp (139 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "3.5 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "34956 lbs (15,856 kg)"
+        }
+    }
+}

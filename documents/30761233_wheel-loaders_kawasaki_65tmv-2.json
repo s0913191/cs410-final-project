@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/65tmv-2/30761233",
+    "source_url_id": "30761233",
+    "source_url_model": "65tmv-2",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:20.783496",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "65TMV-2",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "13.0 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "Isuzu",
+            "Model": "4HK1X",
+            "Net Power": "149 hp (111 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2 - 2.50 cu yds (2 - 2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "26960 lbs (12,229 kg)"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/soil-compactors/hamm/h5i/30190494",
+    "source_url_id": "30190494",
+    "source_url_model": "h5i",
+    "source_url_make": "hamm",
+    "source_url_category": "soil-compactors",
+    "source_date_scraped": "2023-09-13 17:45:53.212200",
+    "equipment_category": "Soil Compactors",
+    "equipment_make": "Hamm",
+    "equipment_model": "H5I",
+    "equipment_spec": {
+        "Dimensions": {
+            "Angle of driving slope-Front": "43  \t\u00b0",
+            "Angle of driving slope-Rear": "36  \t\u00b0",
+            "Ground Clearance": "10.7 in (25 cm)",
+            "Height - Top of Cab": "9.5 ft (3 m)",
+            "Loadover height": "9.5 ft (3 m)",
+            "Overall Length": "159.1 in (404 cm)",
+            "Turning Radius - Inside": "11.1 ft (3 m)",
+            "Wheelbase": "85.4 in (216 cm)",
+            "Width over cab": "59.1 in (150 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "15511.9 lbs (7,036 kg)",
+            "Drum Diameter": "39.4 in (99 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Type": "smooth",
+            "Drum Width": "54 in (137 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "107.6 lbs/in",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)"
+        },
+        "Engine": {
+            "Emissions Certification": "EU Stage IIIB / EPA Tier 4",
+            "Engine Make": "Kubota",
+            "Engine Model": "V3307-CR-T",
+            "Engine power@ISO 14396": "73.3 hp (54 kw)",
+            "Engine power@SAEJ1349": "73.3 hp (54 kw)",
+            "Exhaust Gas Recirculation (EGR)": "DOC-DPF",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "5787.2 lbs (2,625 kg)",
+            "Axle load - rear": "5313.2 lbs (2,410 kg)",
+            "Fuel Capacity": "32.5 gal (121 l)",
+            "Max Weight": "13316 lbs (6,040 kg)",
+            "Operating weight Cabin": "11100.3 lbs (5,035 kg)",
+            "Operating weight ROPS": "10615.3 lbs (4,815 kg)"
+        },
+        "Speeds": {
+            "Size of tyres, rear": "AW 12.4-24 8 PR",
+            "Speed -  transportation gear": "12 mph (19 kph)",
+            "Speed -  working gear": "6 mph (10 kph)"
+        },
+        "Steering System": {
+            "Oscillating angle": "10  \t\u00b0",
+            "Steering Method": "Articulated steering"
+        }
+    }
+}

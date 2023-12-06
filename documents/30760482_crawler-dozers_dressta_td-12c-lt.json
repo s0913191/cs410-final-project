@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-12c-lt/30760482",
+    "source_url_id": "30760482",
+    "source_url_model": "td-12c-lt",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:58.759405",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-12C LT",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "S6D102E-1",
+            "Net Power": "125 hp (93 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "32366 lbs (14,681 kg)"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l220e/40254",
+    "source_url_id": "40254",
+    "source_url_model": "l220e",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:47.351196",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L220E",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "50177.4 lbs (22,760 kg)",
+            "Bucket Capacity - heaped": "6.9 cu yds (5 m)",
+            "Bucket Width": "11.3 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "12.3 ft (4 m)",
+            "Hinge Pin - Max Height": "15.4 ft (5 m)",
+            "Length with Bucket on Ground": "30.6 ft (9 m)",
+            "Reach at Max Lift and Dump": "4.6 ft (1 m)",
+            "Wheelbase": "12.2 ft (4 m)",
+            "Width Over Tires": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "732.3 cu in (0 m)",
+            "Engine Model": "D12CLBE2",
+            "Gross Power": "352 hp (262 kw)",
+            "Net Power": "351 hp (262 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1600 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.6 sec",
+            "Lower Time": "3.2 sec",
+            "Pump Flow Capacity": "61.9 gal/min (231 l/min)",
+            "Raise Time": "5.8 sec",
+            "Relief Valve Setting": "3626 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "11.4 gal (42 l)",
+            "Engine Oil Fluid Capacity": "12.7 gal (45 l)",
+            "Front Axle/Diff Fluid Capacity": "20.4 gal (76 l)",
+            "Fuel Capacity": "97.8 gal (367 l)",
+            "Hydraulic System Fluid Capacity": "64.2 gal (242 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "68960.6 lbs (31,280 kg)",
+            "Rear Axle Oscillation": "30  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "18.8 gal (68 l)",
+            "Static Tipping Weight": "51808.7 lbs (23,500 kg)",
+            "Tire Size": "29.5R25 L3",
+            "Transmission Fluid Capacity": "11.9 gal (42 l)",
+            "Turning Radius": "25.7 ft (8 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.4 mph (32 kph)",
+            "Max Speed - Reverse": "20.4 mph (32 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Volve HTE 305"
+        }
+    }
+}

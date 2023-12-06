@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/yanmar/af342/31084920",
+    "source_url_id": "31084920",
+    "source_url_model": "af342",
+    "source_url_make": "yanmar",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:31.627514",
+    "equipment_category": "Tractors",
+    "equipment_make": "Yanmar",
+    "equipment_model": "AF342",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "42 hp (31 kw)"
+        },
+        "Production": {
+            "Series": "AF300 Series",
+            "Years Manufactured": "2002 - 2005"
+        }
+    }
+}

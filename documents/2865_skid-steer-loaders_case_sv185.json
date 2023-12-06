@@ -1,0 +1,59 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/case/sv185/2865",
+    "source_url_id": "2865",
+    "source_url_model": "sv185",
+    "source_url_make": "case",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:37:02.869736",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "SV185",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "7.9 ft (2 m)",
+            "Ground Clearance": "7 in (18 cm)",
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length w/o Bucket": "8.9 ft (2 m)",
+            "Length with Bucket": "10.9 ft (3 m)",
+            "Reach at Max Lift and Dump": "30.8 in (76 cm)",
+            "Turning Radius from Center - inc bucket": "79.6 in (201 cm)",
+            "Turning Radius from Center - machine rear": "62.9 in (157 cm)",
+            "Wheelbase": "3.8 ft (1 m)",
+            "Width Over Tires": "5.4 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "135 cu in (0 m)",
+            "Engine Model": "ISM N844T/M3",
+            "Gross Power": "57 hp (43 kw)",
+            "Max Torque": "126 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2900 rpm",
+            "Torque Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "9.6 gal/min (34 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.6 cu yds (0 m)",
+            "Bucket Width": "66 in (168 cm)",
+            "Operating Load Rating": "1850 lbs (839 kg)",
+            "Operating Width": "64.07 in (163 cm)",
+            "Tipping Angle": "3700  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Chain Box Fluid Capacity - each side": "1.8 gal (4 l)",
+            "Engine Oil Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "20 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "4.3 gal (15 l)",
+            "Max Speed": "11.5 mph (18 kph)",
+            "Operating Speed": "7.4 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "6500 lbs (2,948 kg)",
+            "Tire Size": "10 x 16.5"
+        }
+    }
+}

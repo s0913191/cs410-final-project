@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/ab60j-4x4/30758328",
+    "source_url_id": "30758328",
+    "source_url_model": "ab60j-4x4",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:21.185572",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "AB60J 4x4",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "11.9 in (28 cm)",
+            "Overall Height - mast lowered": "8.3 ft (2 m)",
+            "Overall Length": "29.2 in (74 cm)",
+            "Overall Width": "7.9 ft (2 m)",
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "gas or diesel"
+        },
+        "Performance": {
+            "Fuel Capacity": "40 gal (151 l)",
+            "Hydraulic System Fluid Capacity": "25 gal (95 l)",
+            "Max Speed": "3 mph (5 kph)",
+            "Operating Weight": "24799.8 lbs (11,249 kg)",
+            "Tire Fill/Type": "foam filled",
+            "Tire Size": "15 x 19.5"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "43 ft (13 m)",
+            "Max Platform Height": "60.1 ft (18 m)",
+            "Max Platform Weight Capacity": "500.5 lbs (227 kg)",
+            "Platform Inner Length": "59.9 in (150 cm)",
+            "Platform Inner Width": "30 in (76 cm)",
+            "Platform Rotation": "170  \t\u00b0"
+        }
+    }
+}

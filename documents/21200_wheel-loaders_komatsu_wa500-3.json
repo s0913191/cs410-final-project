@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa500-3/21200",
+    "source_url_id": "21200",
+    "source_url_model": "wa500-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:49.308878",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA500-3",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "55752.7 lbs (25,289 kg)",
+            "Bucket Capacity - heaped": "6.6 cu yds (5 m)",
+            "Bucket Width": "11.4 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "12.7 ft (4 m)",
+            "Hinge Pin - Max Height": "14.8 ft (4 m)",
+            "Length with Bucket on Ground": "30.2 ft (9 m)",
+            "Reach at Max Lift and Dump": "4.4 ft (1 m)",
+            "Wheelbase": "11.9 ft (3 m)",
+            "Width Over Tires": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "927.6 cu in (0 m)",
+            "Engine Model": "SAD140E",
+            "Gross Power": "315 hp (235 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.7 sec",
+            "Lower Time": "3.5 sec",
+            "Pump Flow Capacity": "92 gal/min (348 l/min)",
+            "Pump Type": "gear pump",
+            "Raise Time": "6.4 sec",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50  A",
+            "Cooling System Fluid Capacity": "26.2 gal (98 l)",
+            "Engine Oil Fluid Capacity": "9.8 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "20.7 gal (76 l)",
+            "Fuel Capacity": "121.6 gal (458 l)",
+            "Hydraulic System Fluid Capacity": "46.3 gal (174 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "64970.3 lbs (29,470 kg)",
+            "Rear Axle Oscillation": "30  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "20.7 gal (76 l)",
+            "Static Tipping Weight": "51588.2 lbs (23,400 kg)",
+            "Tire Size": "26.5 - 25",
+            "Transmission Fluid Capacity": "16.4 gal (61 l)",
+            "Turning Radius": "21.5 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "20.6 mph (32 kph)",
+            "Max Speed - Reverse": "22.5 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "powershift, planetary gear type"
+        }
+    }
+}

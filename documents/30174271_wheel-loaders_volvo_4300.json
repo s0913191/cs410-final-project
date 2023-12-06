@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/4300/30174271",
+    "source_url_id": "30174271",
+    "source_url_model": "4300",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:56:07.375127",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "4300",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "4.6 cu yds (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "BM TD 42",
+            "Gross Power": "107 hp (80 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "18904.7 lbs (8,575 kg)",
+            "Static Tipping Weight": "12345.9 lbs (5,600 kg)",
+            "Tire Size": "17.5-25/12"
+        }
+    }
+}

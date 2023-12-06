@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/sakai/sw200/29750150",
+    "source_url_id": "29750150",
+    "source_url_model": "sw200",
+    "source_url_make": "sakai",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:42.777494",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Sakai",
+    "equipment_model": "SW200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.1 in (23 cm)",
+            "Height - Top of Cab": "4.9 ft (1 m)",
+            "Overall Length": "6.6 in (15 cm)",
+            "Overall Width": "3.1 ft (1 m)",
+            "Wheelbase": "4.3 in (10 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "2960 lbs (1,343 kg)",
+            "Drum Diameter": "22.1 in (56 cm)",
+            "Drum Width": "31.5 in (79 cm)",
+            "Vibration Frequency 1": "52.5 hz (3,120 vpm)"
+        },
+        "Engine": {
+            "Displacement": "47.9 cu in (0 m)",
+            "Engine Model": "3TNE-68",
+            "Gross Power": "13.9 hp (10 kw)",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "4 gal (15 l)",
+            "Hydraulic System Fluid Capacity": "10.6 gal (38 l)",
+            "Max Speed": "3.2 mph (5 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "2932.2 lbs (1,330 kg)"
+        }
+    }
+}

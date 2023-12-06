@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/material-handlers/caterpillar/m325d-mh/30854306",
+    "source_url_id": "30854306",
+    "source_url_model": "m325d-mh",
+    "source_url_make": "caterpillar",
+    "source_url_category": "material-handlers",
+    "source_date_scraped": "2023-09-13 15:44:31.062572",
+    "equipment_category": "Material Handlers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "M325D MH",
+    "equipment_spec": {
+        "Boom/Stick Mat. Handler Option 1": {
+            "Boom/Stick Option (MAT) 1": "Boom 8850mm w / stick 6000mm",
+            "Max Depth": "16.5 ft (5 m)",
+            "Max Height": "52.5 ft (16 m)",
+            "Max Reach Along Ground": "47.1 ft (14 m)"
+        },
+        "Boom/Stick Mat. Handler Option 2": {
+            "Boom/Stick Option (MAT) 2": "Boom 8850mm w / stick 7420mm",
+            "Max Depth": "21 ft (6 m)",
+            "Max Height": "56.3 ft (17 m)",
+            "Max Reach Along Ground": "51.4 ft (16 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Height to Top of Cab - Fixed Riser": "11.2 ft (3 m)",
+            "Height to Top of Cab - fixed riser": "11.15 ft (3 m)",
+            "Height to Top of Cab - hydraulic riser raised": "19.66 ft (6 m)",
+            "Height to Top of Cab - Hydraulic Riser Raised": "19.7 ft (6 m)",
+            "Shipping Height": "11.7 ft (3 m)",
+            "Shipping Length": "40.1 ft (12 m)",
+            "Undercarriage Width": "9.7 ft (3 m)",
+            "Upperstructure Clearance": "4.8 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "439.4 cu in (0 m)",
+            "Engine Model": "C7 ACERT",
+            "Net Power": "190 hp (142 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "124.2 gal/min (469 l/min)",
+            "Relief Pressure": "5076 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "8 gal (30 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Fuel Capacity": "137.4 gal (519 l)",
+            "Hydraulic System Fluid Capacity": "81.9 gal (307 l)",
+            "Max Drawbar Pull": "35677 lbs (16,183 kg)",
+            "Operating Weight w/o Attachment": "68059 lbs (30,871 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.2 rpm",
+            "Swing Torque": "60628 lbs/ft"
+        },
+        "Transmission": {
+            "Max Speed": "12.5 mph (19 kph)"
+        },
+        "Wheel Undercarriage": {
+            "Wheelbase": "9.9 ft (3 m)",
+            "Width w/ Stabilizers on Ground": "16 ft (5 m)"
+        }
+    }
+}

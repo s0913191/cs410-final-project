@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d65e-8e/30750857",
+    "source_url_id": "30750857",
+    "source_url_model": "d65e-8e",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:55.234635",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D65E-8E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.4 ft (2 m)",
+            "Length of Track on Ground": "8.7 ft (2 m)",
+            "Length w/ Blade": "13.4 ft (4 m)",
+            "Width Over Tracks": "7.9 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "855 cu in (0 m)",
+            "Engine Model": "N855C"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "84.6 gal (318 l)",
+            "Operating Weight": "31790.7 lbs (14,420 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "8.6 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Standard Shoe Size": "20.1 in (51 cm)",
+            "Track Gauge": "6.2 ft (2 m)"
+        }
+    }
+}

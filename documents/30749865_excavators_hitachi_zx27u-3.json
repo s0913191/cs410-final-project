@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx27u-3/30749865",
+    "source_url_id": "30749865",
+    "source_url_model": "zx27u-3",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:01:41.802629",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX27U-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "14.1 ft (4 m)",
+            "Max Digging Depth": "8.5 ft (2 m)",
+            "Max Loading Height": "10 ft (3 m)",
+            "Max Reach Along Ground": "15.1 ft (5 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "14.1 ft (4 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "14.3 ft (4 m)",
+            "Max Digging Depth": "9.5 ft (3 m)",
+            "Max Loading Height": "10.3 ft (3 m)",
+            "Max Reach Along Ground": "16.1 ft (5 m)",
+            "Shipping Height of Unit": "8.3 ft (2 m)",
+            "Shipping Length of Unit": "14.1 ft (4 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "8.5 ft (2 m)",
+            "Digging Reach": "15.3 ft (5 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "8.3 ft (2 m)",
+            "Length of Track on Ground": "4.9 ft (1 m)",
+            "Removal Counterweight Clearance": "1.9 ft (0 m)",
+            "Tail Swing Radius": "2.6 ft (1 m)",
+            "Width to Outside of Tracks": "5.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "100 cu in (0 m)",
+            "Engine Model": "3TNV88",
+            "Make": "Yanmar",
+            "Model": "3TNV88",
+            "Net Power": "26.4 hp (19 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "1.4 gal (4 l)",
+            "Engine Oil Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "10.6 gal (38 l)",
+            "Hydraulic Pump Flow Capacity": "16.4 gal/min (61 l/min)",
+            "Hydraulic System Fluid Capacity": "8.5 gal (30 l)",
+            "Operating Weight": "6730 lbs (3,053 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.1 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.4 psi",
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Shoe Size": "11.9 in (28 cm)"
+        }
+    }
+}

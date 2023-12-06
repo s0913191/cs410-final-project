@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hyundai/robex-140lc-9/30759800",
+    "source_url_id": "30759800",
+    "source_url_model": "robex-140lc-9",
+    "source_url_make": "hyundai",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:02:45.383070",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hyundai",
+    "equipment_model": "ROBEX 140LC-9",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "20 ft (6 m)",
+            "Max Reach Along Ground": "28.8 ft (9 m)"
+        },
+        "Engine": {
+            "Make": "Mitsubishi",
+            "Model": "D04FD-TAA",
+            "Net Power": "114 hp (85 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "30820 lbs (13,980 kg)"
+        }
+    }
+}

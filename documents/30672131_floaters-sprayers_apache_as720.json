@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/apache/as720/30672131",
+    "source_url_id": "30672131",
+    "source_url_model": "as720",
+    "source_url_make": "apache",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:05:51.600920",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Apache",
+    "equipment_model": "AS720",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Length": "290 in (737 cm)",
+            "Transport Height": "12 ft (4 m)",
+            "Transport Width": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Emission Tier Level": "Tier 3",
+            "Gross Power": "160 hp (119 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "100 gal (379 l)",
+            "Operational Weight": "19200 lbs (8,709 kg)",
+            "Rinse Tank Capacity": "100 gal (379 l)",
+            "Solution Tank Capacity": "750 gal (2,839 l)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Transmission Type": "Power shift"
+        }
+    }
+}

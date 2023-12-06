@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skidders-yarders/ranger/h66dsg-ii/30756077",
+    "source_url_id": "30756077",
+    "source_url_model": "h66dsg-ii",
+    "source_url_make": "ranger",
+    "source_url_category": "skidders-yarders",
+    "source_date_scraped": "2023-09-13 17:51:39.325698",
+    "equipment_category": "Skidders / Yarders",
+    "equipment_make": "Ranger",
+    "equipment_model": "H66DSG-II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Drum Capacity at Cable Width": "43750 ft (13,335 m)",
+            "Height of Grapple from Ground": "10.1 ft (3 m)",
+            "Max Blade Height": "14 in (36 cm)",
+            "Max Line Pull - bare drum": "269 lbs (122 kg)",
+            "Overall Length": "9.8 ft (3 m)",
+            "Overall Width": "10.9 ft (3 m)",
+            "Tong Opening at Tips": "447 in (1,135 cm)"
+        },
+        "Engine": {
+            "Aspiration": "25530",
+            "Engine Model": "174",
+            "Gross Power": "159 hp (119 kw)",
+            "Power Measured @": "359 rpm",
+            "Torque Measured @": "74 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "2750 gal/min (10,409 l/min)",
+            "Pump Type": "36.8"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "Clark 32000",
+            "Cooling System Fluid Capacity": "3.6 gal (11 l)",
+            "Fuel Capacity": "10 gal (38 l)",
+            "Operating Voltage": "70  A",
+            "Operating Weight": "24 V lbs (11 kg)",
+            "Steering Angle": "26 - 28 V  -",
+            "Transmission Fluid Capacity": "14 gal (53 l)"
+        },
+        "Transmission": {
+            "Number of Reverse Gears": "13.6",
+            "Transmission Type": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "gear type cu in (0 m)",
+            "Length of Track on Ground": "Cummins 6A 5.9 ft (0 m)"
+        }
+    }
+}

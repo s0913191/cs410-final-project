@@ -1,0 +1,90 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/303-cr/30750153",
+    "source_url_id": "30750153",
+    "source_url_model": "303-cr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:00.291737",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "303 CR",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Lift Height": "16 in (41 cm)",
+            "Blade Width": "5.1 ft (2 m)",
+            "Dig Depth": "15 in (38 cm)"
+        },
+        "Dimensions": {
+            "Center Ground Clearance": "1.1 ft (0 m)",
+            "Digging Depth": "9 ft (3 m)",
+            "Digging Reach": "9 ft (3 m)",
+            "Height - Over Cab": "8.2 ft (2 m)",
+            "Height - Over Canopy": "8.2 ft (2 m)",
+            "Maximum Cutting Height - Long Stick": "15.5 ft (5 m)",
+            "Maximum Cutting Height - Standard Stick": "15.3 ft (5 m)",
+            "Maximum Digging Depth - Long Stick": "10.2 ft (3 m)",
+            "Maximum Digging Depth - Standard Stick": "9.9 ft (3 m)",
+            "Maximum Dump Height - Long Stick": "10.8 ft (3 m)",
+            "Maximum Dump Height - Standard Stick": "10.4 ft (3 m)",
+            "Maximum Horizontal Reach - Long Stick": "18 ft (5 m)",
+            "Maximum Horizontal Reach - Standard Stick": "17.3 ft (5 m)",
+            "Maximum Reach - Ground Level - Long Stick": "16.1 ft (5 m)",
+            "Maximum Reach - Ground Level - Standard Stick": "17.3 ft (5 m)",
+            "Maximum Vertical Dig Depth - Long Stick": "8.2 ft (2 m)",
+            "Maximum Vertical Dig Depth - Standard Stick": "8.4 ft (2 m)",
+            "Shipping Length": "15.4 ft (5 m)",
+            "Swing Radius - Rear": "3 ft (1 m)",
+            "Track Gauge": "4.1 ft (1 m)",
+            "Track Shoe Width": "1 ft (0 m)",
+            "Width - Over Track": "5.1 ft (2 m)",
+            "Width - Upper Structure": "5.4 ft (2 m)"
+        },
+        "Electrical System": {
+            "Electrical System Type": "Twelve-volt system"
+        },
+        "Engine": {
+            "Bore": "3.1 in (8 cm)",
+            "Displacement": "80.5 cu in (0 m)",
+            "Engine Model": "S3L2",
+            "Gross Power": "27.1 hp (20 kw)",
+            "Net Power": "26.1 hp (19 kw)",
+            "Stroke": "3.7 in (8 cm)"
+        },
+        "Hydraulic System": {
+            "Auxiliary Circuit - Primary": "13.15 gal/min (49 l/min)",
+            "Auxiliary Circuit - Primary (245 bar/3,553 psi)": "13.15 gal/min (49 l/min)",
+            "Digging Force - Bucket": "6000 lbs (2,722 kg)",
+            "Digging Force - Stick - Long": "3484 lbs (1,580 kg)",
+            "Digging Force - Stick - Standard": "3822 lbs (1,734 kg)",
+            "Operating Pressure - Equipment": "3550 psi",
+            "Operating Pressure - Swing": "3550 psi",
+            "Operating Pressure - Travel": "3550 psi",
+            "Pump - Gear (Single)": "6.2 gal/min (23 l/min)",
+            "Pump - Gear (Tandem)": "8.7 gal/min (30 l/min)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "7403 lbs (3,358 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System TAG": "1 gal (4 l)",
+            "Engine Oil": "1.5 gal (4 l)",
+            "Fuel Tank": "10.9 gal (38 l)",
+            "Hydraulic System": "18.2 gal (68 l)",
+            "Hydraulic Tank": "7.8 gal (27 l)"
+        },
+        "Swing System": {
+            "Boom Swing - Left - With Stop": "65  \t\u00b0",
+            "Boom Swing - Left - Without Stop": "90  \t\u00b0",
+            "Boom Swing - Right": "50  \t\u00b0",
+            "Machine Swing Speed": "9.6 rpm",
+            "Swing System Type": "Hydraulic Motor Driven"
+        },
+        "Travel System": {
+            "Travel Speed - High": "3 mph (5 kph)",
+            "Travel Speed - Low": "1.7 mph (2 kph)"
+        },
+        "Weights": {
+            "Operating Weight - With Cab": "7524 lbs (3,413 kg)"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca134-d/30800669",
+    "source_url_id": "30800669",
+    "source_url_model": "ca134-d",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:52.041677",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA134 D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "94 in (239 cm)"
+        },
+        "Drum": {
+            "Drum Width": "54 in (137 cm)",
+            "Vibration Frequency": "2100 hz (126,000 vpm)"
+        },
+        "Engine": {
+            "Make": "John Deere 5030 TF270"
+        },
+        "Operating Specifications": {
+            "Operating Width": "59 in (150 cm)"
+        }
+    }
+}

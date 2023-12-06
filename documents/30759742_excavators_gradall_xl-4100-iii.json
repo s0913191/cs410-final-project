@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/gradall/xl-4100-iii/30759742",
+    "source_url_id": "30759742",
+    "source_url_model": "xl-4100-iii",
+    "source_url_make": "gradall",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:59:32.685688",
+    "equipment_category": "Excavators",
+    "equipment_make": "Gradall",
+    "equipment_model": "XL 4100 III",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "20.25 ft (6 m)",
+            "Max Reach Along Ground": "31.00 ft (9 m)"
+        },
+        "Engine": {
+            "Make": "Detroit Diesel",
+            "Model": "OM906"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "47500 lbs (21,546 kg)"
+        }
+    }
+}

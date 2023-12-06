@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/bomag/bw-172-pd-2/1898",
+    "source_url_id": "1898",
+    "source_url_model": "bw-172-pd-2",
+    "source_url_make": "bomag",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:24.098282",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 172 PD-2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.4 in (33 cm)",
+            "Height - Top of Cab": "9.4 ft (3 m)",
+            "Wheelbase": "8 in (20 cm)",
+            "Width Over Tires": "5.6 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "28775.6 lbs (13,052 kg)",
+            "Drum Diameter": "47.1 in (119 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Number of Pads": "104",
+            "Pad Surface Area": "15.4 cu in (0 m)",
+            "Vibration Frequency 1": "33 hz (1,980 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Engine Model": "BF4L 1011",
+            "Gross Power": "72.5 hp (54 kw)",
+            "Net Power": "76.5 hp (57 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2650 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Max Speed": "4.5 mph (6 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "15399.3 lbs (6,985 kg)"
+        },
+        "Tires": {
+            "Tires": "14.9-24/6PR"
+        }
+    }
+}

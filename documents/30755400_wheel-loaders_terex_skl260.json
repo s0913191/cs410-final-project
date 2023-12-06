@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/skl260/30755400",
+    "source_url_id": "30755400",
+    "source_url_model": "skl260",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:34.010696",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "SKL260",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "3.5 cu yds (2 m)",
+            "Dump Clearance at Max Raise": "8.5 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Length with Bucket on Ground": "24 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.8 ft (1 m)",
+            "Wheelbase": "10.2 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "1106C-E60 TA",
+            "Net Power": "173 hp (129 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "63.5 gal (238 l)",
+            "Operating Weight": "31746.6 lbs (14,400 kg)",
+            "Static Tipping Weight": "23633.6 lbs (10,720 kg)",
+            "Tire Size": "20.5 R25"
+        },
+        "Transmission": {
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

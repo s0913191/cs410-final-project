@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/link-belt-excavators/145-x4-spin-ace/30759880",
+    "source_url_id": "30759880",
+    "source_url_model": "145-x4-spin-ace",
+    "source_url_make": "link-belt-excavators",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:15:29.362187",
+    "equipment_category": "Excavators",
+    "equipment_make": "Link-Belt Excavators",
+    "equipment_model": "145 X4 Spin-Ace",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "19.90 ft (6 m)",
+            "Max Reach Along Ground": "28.25 ft (9 m)"
+        },
+        "Engine": {
+            "Net Power": "102 hp (76 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "33600 lbs (15,241 kg)"
+        }
+    }
+}

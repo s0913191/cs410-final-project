@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/terex/ts30rt/28518734",
+    "source_url_id": "28518734",
+    "source_url_model": "ts30rt",
+    "source_url_make": "terex",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:32:39.023015",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Terex",
+    "equipment_model": "TS30RT",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "2,000 lbs (907 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "SL/31 ft (0 m)",
+            "Stowed Height": "8.9 ft (2 m)",
+            "Stowed Width": "8.3 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "31.5x15.5"
+        },
+        "Transmission": {
+            "4WD": "opt."
+        }
+    }
+}

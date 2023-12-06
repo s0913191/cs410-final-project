@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/b3150/30303878",
+    "source_url_id": "30303878",
+    "source_url_model": "b3150",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:26:30.493497",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "B3150",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "30 hp (22 kw)"
+        },
+        "Production": {
+            "Series": "B50 Series",
+            "Years Manufactured": "2014 -"
+        }
+    }
+}

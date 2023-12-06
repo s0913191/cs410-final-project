@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/imt/577/30751120",
+    "source_url_id": "30751120",
+    "source_url_model": "577",
+    "source_url_make": "imt",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:39.401681",
+    "equipment_category": "Tractors",
+    "equipment_make": "IMT",
+    "equipment_model": "577",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13.4 in (33 cm)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.9 ft (2 m)",
+            "Overall Length": "12.9 in (30 cm)",
+            "Overall Width": "6.5 ft (2 m)",
+            "Tire Size": "front 9.5-24 rear 18.4-30",
+            "Width Outside Frame": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "S44/AT IMR",
+            "Gross Power": "69.1 hp (51 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "7650.1 lbs (3,470 kg)",
+            "Tire Size Front - 2wd / 4wd": "7.5-16"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4-30"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "10",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "partly synchronized"
+        }
+    }
+}

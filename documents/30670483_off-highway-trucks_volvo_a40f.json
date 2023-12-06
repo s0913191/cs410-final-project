@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/volvo/a40f/30670483",
+    "source_url_id": "30670483",
+    "source_url_model": "a40f",
+    "source_url_make": "volvo",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:53.565595",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "A40F",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2.8 ft (1 m)",
+            "Dump Height": "24 ft (7 m)",
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Overall Height": "12.4 ft (4 m)",
+            "Overall Length": "37 ft (11 m)",
+            "Overall Width": "11.3 ft (3 m)",
+            "Wheelbase": "14.9 ft (4 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "31.4 cu yds (24 m)",
+            "Capacity - Struck": "24.1 cu yds (18 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "10 sec",
+            "Raise Time": "12 sec",
+            "Rated Payload": "85980.3 lbs (39,000 kg)"
+        },
+        "Engine": {
+            "Displacement": "982.5 cu in (0 m)",
+            "Gross Power": "469.4 hp (350 kw)",
+            "Max Torque": "1862.4 lbs/ft",
+            "Net Power": "465.4 hp (347 kw)",
+            "Power Measured @": "1800 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "19.9 gal (72 l)",
+            "Fuel Capacity": "126.9 gal (477 l)",
+            "Hydraulic System Fluid Capacity": "64.8 gal (242 l)",
+            "Tire Size": "775/65R29",
+            "Transmission Fluid Capacity": "10.6 gal (38 l)"
+        },
+        "Transmission": {
+            "Max Speed": "35 mph (56 kph)",
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "PT2519"
+        },
+        "Weights": {
+            "Front Axle - empty": "36486.6 lbs (16,550 kg)",
+            "Front Axle - loaded": "45194.8 lbs (20,500 kg)",
+            "Operating Weight": "153880 lbs (69,800 kg)",
+            "Rear Axle - empty": "31415.9 lbs (14,250 kg)",
+            "Rear Axle - loaded": "108687.9 lbs (49,300 kg)",
+            "Total Empty": "67902.4 lbs (30,800 kg)",
+            "Total Loaded": "153882.7 lbs (69,800 kg)"
+        }
+    }
+}

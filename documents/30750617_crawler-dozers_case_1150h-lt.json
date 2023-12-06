@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/case/1150h-lt/30750617",
+    "source_url_id": "30750617",
+    "source_url_model": "1150h-lt",
+    "source_url_make": "case",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:40:59.248765",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Case",
+    "equipment_model": "1150H LT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Length of Track on Ground": "8.1 ft (2 m)",
+            "Length w/ Blade": "16.2 ft (5 m)",
+            "Width Over Tracks": "7 ft in (18 cm)"
+        },
+        "Engine": {
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "6T-590",
+            "Gross Power": "124 hp (92 kw)",
+            "Max Torque": "372 lbs/ft",
+            "Net Power": "119 hp (89 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "34.9 gal/min (129 l/min)",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "7.3 gal (27 l)",
+            "Engine Oil Capacity": "4 gal (15 l)",
+            "Final Drives Fluid Capacity": "2.1 gal (8 l)",
+            "Fuel Capacity": "56 gal (212 l)",
+            "Hydraulic Fluid Capacity": "17.1 gal (64 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "25300 lbs (11,476 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "25  \t\u00b0",
+            "Capacity": "3.5 cu yds (2 m)",
+            "Height": "44.1 in (112 cm)",
+            "Width": "9.2 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "5.8 mph (8 kph)",
+            "Max Speed - Reverse": "6.9 mph (10 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Case constant-mesh powershift modulated"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4255 cu in (0 m)",
+            "Ground Pressure": "6 psi",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "43",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22 in (56 cm)",
+            "Track Gauge": "5.2 ft (2 m)",
+            "Track Pitch": "6.7 in (15 cm)"
+        }
+    }
+}

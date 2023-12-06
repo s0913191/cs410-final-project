@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx225msr/30759905",
+    "source_url_id": "30759905",
+    "source_url_model": "cx225msr",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:37.911575",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX225MSR",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "22.00 ft (7 m)",
+            "Max Reach Along Ground": "35.83 ft (11 m)"
+        },
+        "Engine": {
+            "Net Power": "153 hp (114 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "53223 lbs (24,142 kg)"
+        }
+    }
+}

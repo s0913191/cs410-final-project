@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/landfill-compactors/caterpillar/816/30678274",
+    "source_url_id": "30678274",
+    "source_url_model": "816",
+    "source_url_make": "caterpillar",
+    "source_url_category": "landfill-compactors",
+    "source_date_scraped": "2023-09-13 17:39:16.310339",
+    "equipment_category": "Landfill Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "816",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "77.2 in (196 cm)",
+            "Blade Width": "14.4 ft (4 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "11.2 ft (3 m)",
+            "Length With Blade on Ground": "23 ft (7 m)",
+            "Wheelbase": "10.2 ft (3 m)",
+            "Width Over Wheels": "11 ft (3 m)"
+        },
+        "Engine": {
+            "Displacement": "640.8 cu in (0 m)",
+            "Engine Model": "3306",
+            "Gross Power": "170 hp (127 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "107 gal (405 l)",
+            "Operating Weight": "41006 lbs (18,600 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4"
+        },
+        "Wheels": {
+            "Front Wheels Drum Diameter": "63 in (160 cm)",
+            "Front Wheels Drum Width": "40.2 in (102 cm)"
+        }
+    }
+}

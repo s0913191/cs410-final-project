@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/bell/l1204c-plus-ii/30755126",
+    "source_url_id": "30755126",
+    "source_url_model": "l1204c-plus-ii",
+    "source_url_make": "bell",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:41:29.546038",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Bell",
+    "equipment_model": "L1204C Plus II",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "26752.3 lbs (12,135 kg)",
+            "Bucket Capacity - heaped": "2.5 cu yds (2 m)",
+            "Bucket Width": "8.4 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.5 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Length with Bucket on Ground": "22.7 ft (7 m)",
+            "Reach at Max Lift and Dump": "2.5 ft (1 m)",
+            "Wheelbase": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "6068TF250",
+            "Net Power": "116.7 hp (87 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Operating Weight": "22575.4 lbs (10,240 kg)",
+            "Static Tipping Weight": "18285.2 lbs (8,294 kg)",
+            "Tire Size": "17.5x25"
+        },
+        "Transmission": {
+            "Transmission Type": "countershaft"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/floaters-sprayers/miller/1250/30753461",
+    "source_url_id": "30753461",
+    "source_url_model": "1250",
+    "source_url_make": "miller",
+    "source_url_category": "floaters-sprayers",
+    "source_date_scraped": "2023-09-13 17:06:44.454396",
+    "equipment_category": "Floaters / Sprayers",
+    "equipment_make": "Miller",
+    "equipment_model": "1250",
+    "equipment_spec": {
+        "Boom": {
+            "Max Adjustable Height": "68 in (173 cm)",
+            "Max Boom Width": "90 ft (27 m)",
+            "Min Adjustable Height": "25 in (64 cm)",
+            "Min Boom Width": "60 ft (18 m)"
+        },
+        "Dimensions": {
+            "Overall Length": "20.7 in (51 cm)",
+            "Tire Size": "320/90R46",
+            "Transport Height": "10 ft (3 m)",
+            "Transport Width": "12.5 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Dry Weight - min": "8870 lbs (4,023 kg)",
+            "Foam Marker Tank Capacity": "6 gal (23 l)",
+            "Hand/Eye Wash Tank Capacity": "5 gal (19 l)",
+            "Rinse Tank Capacity": "150 gal (568 l)",
+            "Solution Tank Capacity": "1250 gal (4,731 l)"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/concrete-pavers/gomaco/gt-6300/29939174",
+    "source_url_id": "29939174",
+    "source_url_model": "gt-6300",
+    "source_url_make": "gomaco",
+    "source_url_category": "concrete-pavers",
+    "source_date_scraped": "2023-09-13 17:53:07.600959",
+    "equipment_category": "Concrete Pavers",
+    "equipment_make": "Gomaco",
+    "equipment_model": "GT-6300",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "Cummins",
+            "Make": "Cummins"
+        },
+        "Hopper/Paver": {
+            "Paving Speed": "28.0 ft/min",
+            "Paving Width - max": "16 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "23100 lbs (10,478 kg)"
+        }
+    }
+}

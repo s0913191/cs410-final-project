@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec210bnc/30748727",
+    "source_url_id": "30748727",
+    "source_url_model": "ec210bnc",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:13.150149",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC210BNC",
+    "equipment_spec": {
+        "Bucket": {
+            "Maximum Bucket Capacity": "2.1 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1 cu yds (1 m)",
+            "Reference Bucket Capacity": "1 cu yds (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "347.9 cu in (0 m)",
+            "Engine Model": "D6D EFE2",
+            "Gross Power": "159 hp (119 kw)",
+            "Max Torque": "477.3 lbs/ft",
+            "Net Power": "143.5 hp (107 kw)",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1425 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80 A",
+            "Cooling System Fluid Capacity": "7.3 gal (27 l)",
+            "Engine Oil Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "92.5 gal (348 l)",
+            "Hydraulic Pump Flow Capacity": "5.1 gal/min (19 l/min)",
+            "Hydraulic System Fluid Capacity": "78 gal (295 l)",
+            "Hydraulic System Relief Valve Pressure": "4974.8 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "46076.7 lbs (20,900 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.6 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "46",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "27.6 in (69 cm)"
+        }
+    }
+}

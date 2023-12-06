@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/cukurova/cf60/30757503",
+    "source_url_id": "30757503",
+    "source_url_model": "cf60",
+    "source_url_make": "cukurova",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:25:31.027728",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Cukurova",
+    "equipment_model": "CF60",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "7.5 in (18 cm)",
+            "Height to Top of Overhead Guard": "7.8 ft (2 m)",
+            "Length to Fork Face": "11.7 ft (3 m)",
+            "Max Fork Height": "10 ft (3 m)",
+            "Overall Height - mast lowered": "8.5 ft (2 m)",
+            "Overall Width": "7 ft (2 m)",
+            "Right Angle Stack": "17.3 ft (5 m)",
+            "Turning Radius": "10.7 ft (3 m)",
+            "Wheelbase": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "1104C-44T",
+            "Fuel Type": "Diesel",
+            "Number of Cylinders": "4",
+            "Power": "100 hp (75 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque": "303.9 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "82.7 ft/min",
+            "Load Capacity": "13227.8 lbs (6,000 kg)",
+            "Load Center": "23.7 in (58 cm)",
+            "Lower Speed": "88.6 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "10  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "11.2 mph (18 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "20503 lbs (9,300 kg)",
+            "Tire Type": "Pneumatic"
+        }
+    }
+}

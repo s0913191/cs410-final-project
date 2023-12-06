@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/terex-american/stinger-1600/30836141",
+    "source_url_id": "30836141",
+    "source_url_model": "stinger-1600",
+    "source_url_make": "terex-american",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:17.482699",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Terex American",
+    "equipment_model": "STINGER 1600",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "101.7 ft (31 m)",
+            "Max Lift Capacity": "8 t (7,257 kg)"
+        }
+    }
+}

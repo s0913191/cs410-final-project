@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/vibromax/1405d/30754239",
+    "source_url_id": "30754239",
+    "source_url_model": "1405d",
+    "source_url_make": "vibromax",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:14.606011",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Vibromax",
+    "equipment_model": "1405D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.2 in (46 cm)",
+            "Height - Top of Cab": "10.7 ft (3 m)",
+            "Overall Length": "18.7 in (46 cm)",
+            "Turning Radius - Inside": "142 in (361 cm)",
+            "Wheelbase": "9.8 in (23 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - Med": "60024 lbs (27,227 kg)",
+            "Centrifugal Force - MEd": "38667.2 lbs (17,539 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum Width": "82.7 in (208 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "206 lbs/in",
+            "Vibration Frequency": "1,740/2,100 hz (104,400 vpm)",
+            "Vibration Frequency 1": "29 hz (1,740 vpm)",
+            "Vibration Frequency 2": "35 hz (2,100 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "6BT5.9C",
+            "Gross Power": "185.1 hp (138 kw)",
+            "Make": "Cummins",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "104.9 gal (394 l)",
+            "Max Speed": "7.1 mph (11 kph)",
+            "Operating Weight": "31305.7 lbs (14,200 kg)",
+            "Operating Width": "88.6 in (224 cm)"
+        },
+        "Tires": {
+            "Tires": "23.1x20-26 8PR"
+        }
+    }
+}

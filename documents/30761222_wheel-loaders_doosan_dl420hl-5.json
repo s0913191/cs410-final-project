@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/doosan/dl420hl-5/30761222",
+    "source_url_id": "30761222",
+    "source_url_model": "dl420hl-5",
+    "source_url_make": "doosan",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:58.115524",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "DL420HL-5",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "11.8 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Scania",
+            "Net Power": "345 hp (257 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "5.5 cu yds (4 m)"
+        },
+        "Weights": {
+            "Operational Weight": "51919 lbs (23,550 kg)"
+        }
+    }
+}

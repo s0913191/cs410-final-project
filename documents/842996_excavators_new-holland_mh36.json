@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/new-holland/mh36/842996",
+    "source_url_id": "842996",
+    "source_url_model": "mh36",
+    "source_url_make": "new-holland",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:17:49.899928",
+    "equipment_category": "Excavators",
+    "equipment_make": "New Holland",
+    "equipment_model": "MH3.6",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "28.8 ft (9 m)",
+            "Max Digging Depth": "14.8 ft (4 m)",
+            "Max Loading Height": "20.4 ft (6 m)",
+            "Max Reach Along Ground": "27.9 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "8.5 ft (2 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "25.4 ft (8 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "29.8 ft (9 m)",
+            "Max Digging Depth": "15.9 ft (5 m)",
+            "Max Loading Height": "21.4 ft (6 m)",
+            "Max Reach Along Ground": "29 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "9.4 ft (3 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "26.4 ft (8 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.4 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.1 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Overall Width": "8.2 in (20 cm)",
+            "Tail Swing Radius": "5.5 ft (2 m)",
+            "Upper Structure Clearance": "3.8 ft (1 m)",
+            "Wheelbase": "7.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged with intercooler",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "CNH F4BE0484B*",
+            "Net Power": "117 hp (87 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "70  A",
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Engine Oil Capacity": "3.5 gal (11 l)",
+            "Fuel Capacity": "42.8 gal (159 l)",
+            "Hydraulic Pump Flow Capacity": "48.1 gal/min (182 l/min)",
+            "Hydraulic Pump Type": "Gear Pump",
+            "Hydraulic System Fluid Capacity": "29.1 gal (110 l)",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "27778.3 lbs (12,600 kg)",
+            "Oscillating Axle Angle": "14  \t\u00b0",
+            "Tire Size": "600/40-22.5"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.3 rpm",
+            "Swing Torque": "19176.7 lbs/ft"
+        },
+        "Transmission": {
+            "Drawbar Pull": "17760 lbs (8,056 kg)",
+            "Max Travel Speed": "20.6 mph (32 kph)",
+            "Transmission Type": "hydrostatic, two-speed, 4 wheels drive"
+        }
+    }
+}

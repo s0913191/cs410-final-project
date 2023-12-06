@@ -1,0 +1,69 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/kawasaki/85ziv/30755261",
+    "source_url_id": "30755261",
+    "source_url_model": "85ziv",
+    "source_url_make": "kawasaki",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:50:40.974295",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Kawasaki",
+    "equipment_model": "85ZIV",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "41225 lbs (18,700 kg)",
+            "Bucket Capacity - heaped": "4.4 cu yds (3 m)",
+            "Bucket Capacity - struck": "3.7 cu yds (2 m)",
+            "Bucket Width": "10.2 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "11.6 ft (3 m)",
+            "Hinge Pin - Max Height": "13.6 ft (4 m)",
+            "Length with Bucket on Ground": "26.3 ft (8 m)",
+            "Reach at Max Lift and Dump": "3.6 ft (1 m)",
+            "Wheelbase": "10.9 ft (3 m)",
+            "Width Over Tires": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "660 cu in (0 m)",
+            "Engine Model": "M11-C",
+            "Net Power": "226 hp (169 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.4 sec",
+            "Lower Time": "3.5 sec",
+            "Pump Flow Capacity": "19.5 gal/min (72 l/min)",
+            "Pump Type": "gear type",
+            "Raise Time": "6.3 sec",
+            "Relief Valve Setting": "3000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "75  A",
+            "Cooling System Fluid Capacity": "14.8 gal (53 l)",
+            "Engine Oil Fluid Capacity": "9.8 gal (34 l)",
+            "Front Axle/Diff Fluid Capacity": "19.9 gal (72 l)",
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "55.5 gal (208 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "43232.7 lbs (19,610 kg)",
+            "Rear Axle Oscillation": "22  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "21.2 gal (79 l)",
+            "Static Tipping Weight": "32650.5 lbs (14,810 kg)",
+            "Tire Size": "26.5x25-20PR (L-3)",
+            "Transmission Fluid Capacity": "14.1 gal (53 l)",
+            "Turning Radius": "21.8 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "21.1 mph (34 kph)",
+            "Max Speed - Reverse": "21.6 mph (34 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "full powershift"
+        }
+    }
+}

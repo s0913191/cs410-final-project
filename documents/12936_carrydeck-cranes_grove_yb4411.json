@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/carrydeck-cranes/grove/yb4411/12936",
+    "source_url_id": "12936",
+    "source_url_model": "yb4411",
+    "source_url_make": "grove",
+    "source_url_category": "carrydeck-cranes",
+    "source_date_scraped": "2023-09-13 17:47:25.859518",
+    "equipment_category": "Carrydeck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "YB4411",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "38.2 ft (12 m)",
+            "Max Elevating Angle": "72  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "32.9 ft (10 m)",
+            "Max Lift Capacity": "21000 lbs (9,526 kg)",
+            "Max Working Radius": "31 ft (9 m)",
+            "Min Height @ Max Raise Angle": "13.8 ft (4 m)",
+            "Min Working Radius": "4 ft (1 m)",
+            "Number of Sections": "3",
+            "Swing Speed": "2.1 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "183.1 cu in (0 m)",
+            "Gross Power": "70.1 hp (52 kw)",
+            "Make": "Grove",
+            "Model": "EFI",
+            "Power Measured @": "2600 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "12.1 ft (4 m)",
+            "Ground Clearance": "0.9 ft (0 m)",
+            "Transport Height": "7.3 ft (2 m)",
+            "Transport Length": "18.1 ft (5 m)",
+            "Transport Width": "6.8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "4.4 ft (1 m)",
+            "Width w/ Outriggers Extended": "11.2 ft (3 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "63  A",
+            "Carrier Fuel Capacity": "18.5 gal (68 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "16600.9 lbs (7,530 kg)",
+            "Tire Size": "10.00x15 14PR",
+            "Upper Structure Hydraulic System Fluid Capacity": "23.6 gal (87 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.2 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Clark powershift"
+        }
+    }
+}

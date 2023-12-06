@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/sany/sw405k/30131475",
+    "source_url_id": "30131475",
+    "source_url_model": "sw405k",
+    "source_url_make": "sany",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:07.108423",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Sany",
+    "equipment_model": "SW405K",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "10.2 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "Deutz TCD7.8",
+            "Gross Power": "262 hp (195 kw)",
+            "Max Gross Torque": "962 lbs/ft",
+            "Net Power": "252 hp (188 kw)"
+        },
+        "Hydraulic Cycle Times": {
+            "Raise": "5.4 sec"
+        },
+        "Hydraulic System": {
+            "Max Pressure": "3916 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "40786 lbs (18,500 kg)",
+            "Tipping Load @ Full Turn": "28881 lbs (13,100 kg)",
+            "Tipping Load Straight": "31967 lbs (14,500 kg)"
+        }
+    }
+}

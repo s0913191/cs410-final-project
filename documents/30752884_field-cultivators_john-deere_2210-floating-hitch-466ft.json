@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/field-cultivators/john-deere/2210-floating-hitch-466ft/30752884",
+    "source_url_id": "30752884",
+    "source_url_model": "2210-floating-hitch-466ft",
+    "source_url_make": "john-deere",
+    "source_url_category": "field-cultivators",
+    "source_date_scraped": "2023-09-13 17:04:54.344924",
+    "equipment_category": "Field Cultivators",
+    "equipment_make": "John Deere",
+    "equipment_model": "2210 Floating-Hitch 46.6ft",
+    "equipment_spec": {
+        "Dimensions": {
+            "PTO Power Required per Width Ft.": "4 hp (3 kw)",
+            "Transport Height": "14.1 ft (4 m)",
+            "Transport Width": "19.6 ft (6 m)",
+            "Under Frame Clearance": "24 in (61 cm)"
+        },
+        "Frame": {
+            "Main Frame Width": "15 ft (5 m)",
+            "Max Working Width": "64.5 ft (20 m)",
+            "Min Working Width": "46.5 ft (14 m)",
+            "Spacing Option 1": "4.5 in (10 cm)",
+            "Spacing Option 2": "6 in (15 cm)",
+            "Spacing Option 3": "9 in (23 cm)"
+        },
+        "Harrow": {
+            "Basket Diameter": "11 in (28 cm)",
+            "Effective Spike/Tine Spacing": "3.4 in (8 cm)",
+            "Option 1 Type": "4-Bar Coil-Tine Harrow",
+            "Option 3 Type": "3-Bar Spike with rolling basket",
+            "Spike/Tine Spacing": "10 in (25 cm)"
+        },
+        "Operating Specifications": {
+            "Max Operating Depth": "5 in (13 cm)",
+            "Max Speed": "8 mph (13 kph)",
+            "Number of Sections": "5",
+            "Shank Trip Force": "200 lbs (91 kg)"
+        }
+    }
+}

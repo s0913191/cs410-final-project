@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/824k-high-lift/30761171",
+    "source_url_id": "30761171",
+    "source_url_model": "824k-high-lift",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:49:38.326688",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "824K High Lift",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "12 ft (4 m)"
+        },
+        "Engine": {
+            "Make": "John Deere",
+            "Model": "6135H",
+            "Net Power": "333 hp (248 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "5.25 cu yds (4 m)"
+        },
+        "Weights": {
+            "Operational Weight": "57618 lbs (26,135 kg)"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/case/cx25/2365",
+    "source_url_id": "2365",
+    "source_url_model": "cx25",
+    "source_url_make": "case",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:53:47.337509",
+    "equipment_category": "Excavators",
+    "equipment_make": "Case",
+    "equipment_model": "CX25",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "14.9 ft (4 m)",
+            "Max Digging Depth": "8.4 ft (2 m)",
+            "Max Loading Height": "10.8 ft (3 m)",
+            "Max Reach Along Ground": "15 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "8 ft (2 m)",
+            "Shipping Height of Unit": "7.9 ft (2 m)",
+            "Shipping Length of Unit": "13.6 ft (4 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "0.2 cu yds (0 m)",
+            "Minimum Bucket Capacity": "0.1 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.2 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "8 ft (2 m)",
+            "Digging Reach": "8 ft (2 m)",
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Length of Track on Ground": "5 ft (2 m)",
+            "Removal Counterweight Clearance": "1.6 ft (0 m)",
+            "Tail Swing Radius": "2.5 ft (1 m)",
+            "Width to Outside of Tracks": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "61.6 cu in (0 m)",
+            "Engine Model": "3TNE74",
+            "Max Torque": "48.4 lbs/ft",
+            "Net Power": "17.7 hp (13 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2400 rpm",
+            "Torque Measured @": "1700 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "20  A",
+            "Cooling System Fluid Capacity": "0.8 gal (0 l)",
+            "Engine Oil Capacity": "1 gal (4 l)",
+            "Fuel Capacity": "6.6 gal (23 l)",
+            "Hydraulic Pump Flow Capacity": "12.7 gal/min (45 l/min)",
+            "Hydraulic System Fluid Capacity": "11.1 gal (42 l)",
+            "Hydraulic System Relief Valve Pressure": "3277 psi",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "5556 lbs (2,520 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9.4 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.4 psi",
+            "Max Travel Speed": "2.7 mph (3 kph)",
+            "Number of Track Rollers per Side": "4",
+            "Shoe Size": "9.9 in (23 cm)"
+        }
+    }
+}

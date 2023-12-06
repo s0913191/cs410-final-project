@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/7840/30679434",
+    "source_url_id": "30679434",
+    "source_url_model": "7840",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:38.164434",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "7840",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "100  hp"
+        },
+        "Production": {
+            "Series": "PowerStar 40 Series",
+            "Year Manufactured": "1991 - 1995"
+        }
+    }
+}

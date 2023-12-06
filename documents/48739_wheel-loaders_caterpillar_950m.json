@@ -1,0 +1,136 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/950m/48739",
+    "source_url_id": "48739",
+    "source_url_model": "950m",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:37.787363",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "950M",
+    "equipment_spec": {
+        "BUCKETS": {
+            "Bucket Capacities": "2.5-9.2 m\u00b3 (3.3-12 yd\u00b3)",
+            "Bucket Range": "2.5-9.2 m\u00b3 (3.3-12 yd\u00b3)"
+        },
+        "DIMENSIONS": {
+            "Centerline of Rear Axle to Edge of Counterweight": "6.4 ft",
+            "Centerline of Rear Axle to Hitch": "5.6 ft",
+            "Ground Clearance": "1.2 ft",
+            "Height - Top of Exhaust Pipe": "11.2 ft",
+            "Height - Top of Hood": "8.1 ft",
+            "Height - Top of ROPS": "11.4 ft",
+            "Hinge Pin Height at Carry Height": "2.1 ft",
+            "Hinge Pin Height at Maximum Lift": "13.3 ft",
+            "Maximum Width over Tires (loaded)": "9.3 ft",
+            "Note": "All dimensions are approximate and based on Michelin 23.5R25 XHA2 L3 radial tires.",
+            "Overall Length (without bucket)": "22.8 ft",
+            "Tread Width": "7 ft",
+            "Wheel Base": "11 ft"
+        },
+        "DIMENSIONS - HIGH LIFT": {
+            "Centerline of Rear Axle to Edge of Counterweight": "6.33 ft",
+            "Centerline of Rear Axle to Hitch": "5.5 ft",
+            "Ground Clearance": "1.17 ft",
+            "Height - Top of Exhaust Pipe": "11.17 ft",
+            "Height - Top of Hood": "8.83 ft",
+            "Height - Top of ROPS": "11.33 ft",
+            "Hinge Pin Height at Carry Height": "2.58 ft",
+            "Hinge Pin Height at Maximum Lift": "14.83 ft",
+            "Lift Arm Clearance at Maximum Lift": "11.92 ft",
+            "Maximum Width - Over Tires - Loaded": "9.25 ft",
+            "Note": "All dimensions are approximate and based on Michelin 23.5R25 XHA2 L3 radial tires.",
+            "Overall Length - Without Bucket": "24.58 ft",
+            "Rack Back - Carry Height": "49 degrees",
+            "Rack Back - Maximum Lift": "59 degrees",
+            "Rack Back at Ground": "40 degrees",
+            "Tread Width": "7 ft",
+            "Wheel Base": "11 ft"
+        },
+        "DIMENSIONS - STANDARD LIFT": {
+            "Centerline of Rear Axle to Edge of Counterweight": "6.33 ft",
+            "Centerline of Rear Axle to Hitch": "5.5 ft",
+            "DIMENSIONS - STANDARD LIFT": "",
+            "Ground Clearance": "1.17 ft",
+            "Height - Top of Exhaust Pipe": "11.17 ft",
+            "Height - Top of Hood": "8.83 ft",
+            "Height - Top of ROPS": "11.33 ft",
+            "Hinge Pin Height at Carry Height": "2.08 ft",
+            "Hinge Pin Height at Maximum Lift": "13.25 ft",
+            "Lift Arm Clearance at Maximum Lift": "10.75 ft",
+            "Maximum Width - Over Tires - Loaded": "9.25 ft",
+            "Overall Length - Without Bucket": "22.67 ft",
+            "Rack Back - Carry Height": "49 degrees",
+            "Rack Back - Maximum Lift": "59 degrees",
+            "Rack Back at Ground": "36 degrees",
+            "Tread Width": "7 ft",
+            "Wheel Base": "11 ft"
+        },
+        "ENGINE": {
+            "Displacement": "428 in\u00b3",
+            "Emissions": "Tier 4/Stage V",
+            "Engine Model": "Cat C7.1",
+            "Maximum Net Power - 2,100 rpm - ISO 9249": "230 HP",
+            "Maximum Net Power - 2,100 rpm - ISO 9249 - Metric": "232 HP",
+            "Maximum Net Power - 2,100 rpm - SAE J1349": "230 HP",
+            "Maximum Net Torque - 1,300 rpm": "858 ft\u00b7lbf",
+            "Maximum Power - 2,100 rpm - ISO 14396": "249 HP",
+            "Maximum Power - 2,100 rpm - ISO 14396 - Metric": "253 HP",
+            "Maximum Power - 2,100 rpm - SAE J1995": "250 HP",
+            "Net Power - ISO 9249": "250 HP",
+            "Peak Gross Torque - 1,300 rpm - ISO 14396": "908 ft\u00b7lbf",
+            "Peak Gross Torque - 1,300 rpm - SAE J1995": "911 ft\u00b7lbf"
+        },
+        "ENGINE - TIER 4 FINAL/STAGE IV": {
+            "Emissions": "Tier 4/Stage IV"
+        },
+        "HYDRAULIC SYSTEM": {
+            "Hydraulic Cycle Time - Total": "8.9 s",
+            "Implement Pump Type": "Variable Axial Piston",
+            "Implement System - Maximum Operating Pressure": "4250 psi",
+            "Implement System - Maximum Pump Output at 2,150 rpm": "76 gal/min"
+        },
+        "OPERATING SPECIFICATIONS": {
+            "Breakout Force": "40690 lbf",
+            "Note (1)": "For a machine configuration as defined under \"Weight.\"",
+            "Note (2)": "Full compliance to ISO 143971:2007 Sections 1 thru 6, which requires 2% verification between calculations and testing.",
+            "OPERATING SPECIFICATIONS": "",
+            "Static Tipping Load - Full 40\u00b0 Turn - No Tire Deflection": "25926 lb",
+            "Static Tipping Load - Full 40\u00b0 Turn - With Tire Deflection": "24262 lb"
+        },
+        "SERVICE REFILL CAPACITIES": {
+            "Cooling System": "15.6 gal (US)",
+            "Crankcase": "5.8 gal (US)",
+            "DEF Tank": "4.2 gal (US)",
+            "Differential - Final Drives - Front": "11.4 gal (US)",
+            "Differential - Final Drives - Rear": "11.4 gal (US)",
+            "Fuel Tank": "72.6 gal (US)",
+            "Hydraulic Tank": "33 gal (US)",
+            "Transmission": "11.4 gal (US)"
+        },
+        "SOUND": {
+            "ENGINE - TIER 4 FINAL/STAGE IV": "",
+            "Note (1)": "*Distance of 15 m (49.2 ft), moving forward in second gear ratio.",
+            "Note (2)": "**For machines in European Union countries and in countries that adopt the EU Directives.",
+            "Note (3)": "***European Union Directive 2000/14/EC as amended by 2005/88/EC.",
+            "With Cooling Fan Speed at 70% of Maximum Value - Exterior Sound Power Level (ISO 6395:2008)": "104 LWA***",
+            "With Cooling Fan Speed at 70% of Maximum Value - Operator Sound Pressure Level (ISO 6396:2008)": "69 dB(A)",
+            "With Cooling Fan Speed at Maximum Value - Exterior Sound Power Level (ISO 6395:2008)": "107 dB(A)",
+            "With Cooling Fan Speed at Maximum Value - Exterior Sound Pressure Level (SAE J88:2013)": "75 dB(A)*",
+            "With Cooling Fan Speed at Maximum Value - Operator Sound Pressure Level (ISO 6396:2008)": "70 dB(A)"
+        },
+        "TRANSMISSION": {
+            "Forward - 1": "4.3 mile/h",
+            "Forward - 2": "7.5 mile/h",
+            "Forward - 3": "12 mile/h",
+            "Forward - 4": "16 mile/h",
+            "Forward - 5": "24.5 mile/h",
+            "Reverse - 1": "4.3 mile/h",
+            "Reverse - 2": "7.5 mile/h",
+            "Reverse - 3": "16 mile/h"
+        },
+        "WEIGHTS": {
+            "Operating Weight": "42357 lb"
+        }
+    }
+}

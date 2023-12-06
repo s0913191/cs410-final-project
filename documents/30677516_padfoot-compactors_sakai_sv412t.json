@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/sakai/sv412t/30677516",
+    "source_url_id": "30677516",
+    "source_url_model": "sv412t",
+    "source_url_make": "sakai",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:59.828312",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV412T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "10.5 in (25 cm)"
+        },
+        "Drum": {
+            "Drum Width": "67 in (170 cm)",
+            "Vibration Frequency": "38 hz (2,280 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Operating Specifications": {
+            "Operating Width": "6.3 in (15 cm)"
+        }
+    }
+}

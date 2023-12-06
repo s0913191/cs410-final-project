@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/wacker-neuson/st31/30699652",
+    "source_url_id": "30699652",
+    "source_url_model": "st31",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:40:48.194783",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "ST31",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.2 ft (2 m)",
+            "Ground Clearance": "9.1 in (23 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length - with Bucket": "11.4 ft (3 m)",
+            "Length - without Bucket": "8.9 ft (2 m)",
+            "Reach at Max Lift and Dump": "3 ft (1 m)",
+            "Width Over Tracks": "1.1 ft (0 m)"
+        },
+        "Engine": {
+            "Displacement": "151.5 cu in (0 m)",
+            "Engine Make": "Kohler",
+            "Engine Model": "KDI 2504 TCR",
+            "Gross Power": "74 hp (55 kw)",
+            "Power Measured @": "2750 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "2.9 gal/min (8 l/min)",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Loader": {
+            "Boom breakout force": "5000 lbs (2,268 kg)",
+            "Operating Load Rating": "3100 lbs (1,406 kg)",
+            "Operating Width": "67.1 in (170 cm)",
+            "Tipping Angle": "42  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "30 gal (114 l)",
+            "Max Speed - high range": "10 mph (16 kph)",
+            "Max Speed - low range": "7 mph (11 kph)",
+            "Operating Weight": "8095 lbs (3,672 kg)"
+        }
+    }
+}

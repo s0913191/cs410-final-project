@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/cc-6800/8928",
+    "source_url_id": "8928",
+    "source_url_model": "cc-6800",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:06.722724",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "CC 6800",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "668 ft (204 m)",
+            "Max Lift Capacity": "1680 t (1,524,071 kg)"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/846/52398",
+    "source_url_id": "52398",
+    "source_url_model": "846",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:41.041040",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "846",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "230  hp"
+        },
+        "Production": {
+            "Series": "800 Series",
+            "Year Manufactured": "1989 - 1993"
+        }
+    }
+}

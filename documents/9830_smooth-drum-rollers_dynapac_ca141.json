@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca141/9830",
+    "source_url_id": "9830",
+    "source_url_model": "ca141",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:52.759973",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA141",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "93 in (236 cm)"
+        },
+        "Drum": {
+            "Drum Width": "60 in (152 cm)",
+            "Vibration Frequency": "1950 hz (117,000 vpm)"
+        },
+        "Engine": {
+            "Make": "John Deere"
+        },
+        "Operating Specifications": {
+            "Operating Width": "64 in (163 cm)"
+        }
+    }
+}

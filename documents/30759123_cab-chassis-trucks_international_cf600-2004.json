@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/international/cf600-2004/30759123",
+    "source_url_id": "30759123",
+    "source_url_model": "cf600-2004",
+    "source_url_make": "international",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:56:30.141980",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "International",
+    "equipment_model": "CF600 (2004)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Number of Rear Axles": "1",
+            "Tire Size": "227/70R19.5",
+            "Weight Class": "4"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Total GVW": "17999 lbs (8,164 kg)",
+            "Wheelbase": "113 in (287 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Total GVW": "17999 lbs (8,164 kg)",
+            "Wheelbase": "137 in (348 cm)"
+        },
+        "Wheelbase Cab Chassis Option 3": {
+            "Total GVW": "17999 lbs (8,164 kg)",
+            "Wheelbase": "149 in (378 cm)"
+        },
+        "Wheelbase Cab Chassis Option 4": {
+            "Total GVW": "17999 lbs (8,164 kg)",
+            "Wheelbase": "167 in (424 cm)"
+        },
+        "Wheelbase Cab Chassis Option 5": {
+            "Total GVW": "17999 lbs (8,164 kg)",
+            "Wheelbase": "185 in (470 cm)"
+        }
+    }
+}

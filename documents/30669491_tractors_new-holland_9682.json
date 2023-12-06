@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/9682/30669491",
+    "source_url_id": "30669491",
+    "source_url_model": "9682",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:28.143107",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "9682",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Overall Length": "265.8 in (673 cm)",
+            "Overall width": "12.5 ft (4 m)",
+            "Shipping weight": "19729.2 lbs (8,949 kg)",
+            "Wheelbase": "11.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Bore": "5.6 in (13 cm)",
+            "Displacement": "854.4 cu in (0 m)",
+            "Engine Make": "New Holland",
+            "Engine Model": "Cummins N14",
+            "Gross Power": "360 hp (268 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "320 hp (239 kw)",
+            "Stroke": "6 in (15 cm)",
+            "Torque": "1215 lbs/ft"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed center load sensing",
+            "Number of Remote Control Valves": "1 to  4",
+            "Pump Flow Capacity": "31 gal/min (117 l/min)",
+            "Relief Valve Pressure": "2900 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "12998.5 lbs (5,896 kg)",
+            "3 Point Hitch Type": "IVN/3",
+            "Alternator Supplied Amperage": "130  A",
+            "Front Tire Size": "20.8R42",
+            "Fuel Capacity": "245 gal (927 l)",
+            "Hydraulic System Fluid Capacity": "31 gal (117 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "31865 lbs (14,454 kg)",
+            "Rear Tire Size": "20.8R42"
+        },
+        "Production": {
+            "Series": "9082 Series",
+            "Years Manufactured": "1996 - 2000"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "17.1 mph (27 kph)",
+            "Max Speed - Reverse": "6.1 mph (10 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Partially synchronized"
+        }
+    }
+}

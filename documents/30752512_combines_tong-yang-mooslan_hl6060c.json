@@ -1,0 +1,36 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/tong-yang-mooslan/hl6060c/30752512",
+    "source_url_id": "30752512",
+    "source_url_model": "hl6060c",
+    "source_url_make": "tong-yang-mooslan",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:53.807922",
+    "equipment_category": "Combines",
+    "equipment_make": "Tong Yang Mooslan",
+    "equipment_model": "HL6060C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "7.5 ft (2 m)",
+            "Overall Length": "14.8 ft (4 m)",
+            "Width Over Tires": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "199.5 cu in (0 m)",
+            "Engine Model": "DB33",
+            "Number of Cylinders": "4",
+            "Power": "60 hp (45 kw)",
+            "Power Measured @": "2600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Operating Weight w/o Attachment": "6415.5 lbs (2,910 kg)",
+            "Transmission Type": "HST + sub 3 steps"
+        },
+        "Threshing": {
+            "Rotor Diameter": "17.6 in (43 cm)",
+            "Rotor Length": "35.5 in (89 cm)",
+            "Rotor Speed - High": "542 rpm",
+            "Rotor Speed - Low": "480 rpm"
+        }
+    }
+}

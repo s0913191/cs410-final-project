@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/grove/mz66b/12823",
+    "source_url_id": "12823",
+    "source_url_model": "mz66b",
+    "source_url_make": "grove",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:26:54.804806",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Grove",
+    "equipment_model": "MZ66B",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "AT/80 ft (0 m)",
+            "Stowed Height": "7.9 ft (2 m)",
+            "Stowed Width": "7.9 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "15x19.5"
+        },
+        "Transmission": {
+            "4WD": "no"
+        }
+    }
+}

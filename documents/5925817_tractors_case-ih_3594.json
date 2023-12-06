@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/3594/5925817",
+    "source_url_id": "5925817",
+    "source_url_model": "3594",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:49.005967",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "3594",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "17.8 in (43 cm)",
+            "Height - Top of ROPS/FOPS": "10 ft (3 m)",
+            "Overall Length": "192.2 in (488 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Wheelbase": "9.7 ft (3 m)"
+        },
+        "Engine": {
+            "Bore": "4.7 in (10 cm)",
+            "Displacement": "506.5 cu in (0 m)",
+            "Engine Make": "CaseIH",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "182 hp (136 kw)",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Maximum system pressure": "2250 psi",
+            "Number of Remote Control Valves": "2 to 4",
+            "Pump Flow Capacity": "30 gal/min (114 l/min)",
+            "Pump Type": "Closed center"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "7749.3 lbs (3,515 kg)",
+            "Fuel Capacity": "85 gal (322 l)",
+            "Hydraulic System Fluid Capacity": "33.3 gal (125 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "17588.5 lbs (7,978 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "24",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Partial power shift"
+        }
+    }
+}

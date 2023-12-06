@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/bobcat/t595/30131467",
+    "source_url_id": "30131467",
+    "source_url_model": "t595",
+    "source_url_make": "bobcat",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:38:25.985595",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "T595",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "6.5 ft (2 m)",
+            "Length - with Bucket": "11.1 ft (3 m)",
+            "Length - without Bucket": "8.8 ft (2 m)",
+            "Overall height": "6.5 ft (2 m)",
+            "Overall Track Length": "4.6 ft (1 m)",
+            "Overall width": "5.6 ft (2 m)",
+            "Reach at Max Lift and Dump": "3 ft (1 m)",
+            "Turning Radius from Center - machine rear": "6.7 in (15 cm)"
+        },
+        "Engine": {
+            "Emission Tier Level": "Tier 4",
+            "Fuel": "Diesel",
+            "Gross Power": "74 hp (55 kw)",
+            "Horsepower - Gross": "74 hp (55 kw)"
+        },
+        "Hydraulic System": {
+            "Auxiliary hydraulic flow": "17.1 gal/min (64 l/min)",
+            "Relief Valve Pressure": "3500 psi"
+        },
+        "Loader": {
+            "Operating Load": "2200 lbs (998 kg)",
+            "Operating Width": "67 in (170 cm)",
+            "Tipping Angle": "6285  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "36.5 gal (136 l)",
+            "Operating Weight": "8055 lbs (3,654 kg)",
+            "Travel Speed": "7.1 mph (11 kph)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.1 psi",
+            "Width of Track": "12.6 in (30 cm)"
+        }
+    }
+}

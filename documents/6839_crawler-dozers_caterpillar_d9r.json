@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d9r/6839",
+    "source_url_id": "6839",
+    "source_url_model": "d9r",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:43.329232",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D9R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Length of Track on Ground": "11.4 ft (3 m)",
+            "Length w/ Blade": "17 ft (5 m)",
+            "Length w/o Blade": "22.5 ft (7 m)",
+            "Width Over Tracks": "9.7 ft in (23 cm)"
+        },
+        "Engine": {
+            "Displacement": "1098.5 cu in (0 m)",
+            "Engine Model": "3408E",
+            "Gross Power": "405 hp (302 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "216.1 gal (818 l)",
+            "Operating Weight": "105630.1 lbs (47,914 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "37.7 cu yds (28 m)",
+            "Height": "112.1 in (284 cm)",
+            "Width": "14.2 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.4 mph (11 kph)",
+            "Max Speed - Reverse": "9.1 mph (14 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "6572.1 cu in (0 m)",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24.1 in (61 cm)",
+            "Track Gauge": "7.4 ft (2 m)"
+        }
+    }
+}

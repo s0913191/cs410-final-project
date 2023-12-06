@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/liugong/385b/30759650",
+    "source_url_id": "30759650",
+    "source_url_model": "385b",
+    "source_url_make": "liugong",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:17.705593",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "385B",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "72 hp (54 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "2300 lbs (1,043 kg)",
+            "Operating Width": "73 in (185 cm)"
+        }
+    }
+}

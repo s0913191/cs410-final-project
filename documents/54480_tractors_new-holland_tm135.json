@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tm135/54480",
+    "source_url_id": "54480",
+    "source_url_model": "tm135",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:34.718338",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TM135",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "135 hp (101 kw)"
+        },
+        "Production": {
+            "Series": "TM Series",
+            "Years Manufactured": "2000 - 2002"
+        }
+    }
+}

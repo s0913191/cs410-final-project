@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/sakai/sv510tf-iii/30706249",
+    "source_url_id": "30706249",
+    "source_url_model": "sv510tf-iii",
+    "source_url_make": "sakai",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:40:03.131362",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Sakai",
+    "equipment_model": "SV510TF-III",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Width": "3 ft (1 m)",
+            "Turning Radius - Inside": "11.3 ft (3 m)"
+        },
+        "Drum": {
+            "Drum Width": "84 in (213 cm)",
+            "Frequency": "1650 - 2,200 hz (99,000 - 132,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB4.5"
+        }
+    }
+}

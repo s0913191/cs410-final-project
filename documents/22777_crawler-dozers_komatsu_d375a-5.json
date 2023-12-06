@@ -1,0 +1,60 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d375a-5/22777",
+    "source_url_id": "22777",
+    "source_url_model": "d375a-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:26.692346",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D375A-5",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Height - Top of Cab": "14.1 ft (4 m)",
+            "Length w/ Blade": "34.2 ft (10 m)",
+            "Width Over Tracks": "8.2 ft in (20 cm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged, air-to-air aftercooled, cooled EGR",
+            "Displacement": "1413 cu in (0 m)",
+            "Engine Model": "SA6D170E-3",
+            "Gross Power": "605 hp (451 kw)",
+            "Make": "Komatsu",
+            "Model": "SAA6D170E-5",
+            "Net Power": "525 hp (391 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "107 gal/min (405 l/min)",
+            "Relief Valve Pressure": "2990 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "31.7 gal (117 l)",
+            "Engine Oil Capacity": "22.7 gal (83 l)",
+            "Final Drives Fluid Capacity": "17.1 gal (64 l)",
+            "Fuel Capacity": "277 gal (1,048 l)",
+            "Hydraulic Fluid Capacity": "36.5 gal (136 l)",
+            "Operating Weight": "153350 lbs (69,559 kg)"
+        },
+        "Standard Blade": {
+            "Height": "7.5 in (18 cm)",
+            "Width": "15.5 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "7.3 mph (11 kph)",
+            "Max Speed - Reverse": "9.8 mph (14 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Komatsu TORQFLOW transmission"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "7527 cu in (0 m)",
+            "Ground Pressure": "20.3 psi",
+            "Number of Shoes per Side": "41",
+            "Number of Track Rollers per Side": "8",
+            "Standard Shoe Size": "24 in (61 cm)"
+        }
+    }
+}

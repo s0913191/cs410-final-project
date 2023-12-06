@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/vibromax/w365k/30754236",
+    "source_url_id": "30754236",
+    "source_url_model": "w365k",
+    "source_url_make": "vibromax",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:19.686829",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Vibromax",
+    "equipment_model": "W365K",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.1 in (30 cm)",
+            "Height - Top of Cab": "8.4 ft (2 m)",
+            "Overall Length": "9.3 in (23 cm)",
+            "Overall Width": "4.2 ft (1 m)",
+            "Wheelbase": "6.7 in (15 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - MEd": "12814.2 lbs (5,812 kg)",
+            "Centrifugal Force - Med": "11465.3 lbs (5,201 kg)",
+            "Drum Diameter": "31.5 in (79 cm)",
+            "Drum Width": "55.2 in (140 cm)",
+            "Nominal Amplitude - Med": "0.1 in (0 cm)",
+            "Static Linear Load": "72 lbs/in",
+            "Vibration Frequency 1": "55 hz (3,300 vpm)",
+            "Vibration Frequency 2": "50 hz (3,000 vpm)"
+        },
+        "Engine": {
+            "Displacement": "134.1 cu in (0 m)",
+            "Engine Model": "V2203-E",
+            "Gross Power": "46 hp (34 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "45  A",
+            "Engine Oil Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "20.1 gal (76 l)",
+            "Hydraulic System Fluid Capacity": "13.3 gal (49 l)",
+            "Max Speed": "6.9 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8697.3 lbs (3,945 kg)"
+        },
+        "Tires": {
+            "Tires": "8.25R15"
+        }
+    }
+}

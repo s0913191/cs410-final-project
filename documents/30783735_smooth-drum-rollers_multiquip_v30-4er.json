@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/multiquip/v30-4er/30783735",
+    "source_url_id": "30783735",
+    "source_url_model": "v30-4er",
+    "source_url_make": "multiquip",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:44:19.274166",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Multiquip",
+    "equipment_model": "V30-4ER",
+    "equipment_spec": {
+        "Drum": {
+            "Drum Width": "30 in (76 cm)",
+            "Vibration Frequency": "4400 hz (264,000 vpm)"
+        },
+        "Engine": {
+            "Make": "Robin"
+        },
+        "Operating Specifications": {
+            "Operating Width": "35.5 in (89 cm)"
+        }
+    }
+}

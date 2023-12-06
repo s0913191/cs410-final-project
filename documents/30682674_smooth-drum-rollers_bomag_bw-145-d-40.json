@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-145-d-40/30682674",
+    "source_url_id": "30682674",
+    "source_url_model": "bw-145-d-40",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:00.338699",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 145 D-40",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "109.5 in (277 cm)"
+        },
+        "Drum": {
+            "Drum Width": "56.1 in (142 cm)",
+            "Vibration Frequency": "2040 hz (122,400 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "60.8 in (152 cm)"
+        }
+    }
+}

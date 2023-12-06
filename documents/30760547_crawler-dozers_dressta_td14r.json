@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td14r/30760547",
+    "source_url_id": "30760547",
+    "source_url_model": "td14r",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:45.759966",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD14R",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB 6.7 (Tier IV interim)",
+            "Net Power": "160 hp (119 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "36530 lbs (16,570 kg)"
+        }
+    }
+}

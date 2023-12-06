@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/branson/2800/30751470",
+    "source_url_id": "30751470",
+    "source_url_model": "2800",
+    "source_url_make": "branson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:09:16.037369",
+    "equipment_category": "Tractors",
+    "equipment_make": "Branson",
+    "equipment_model": "2800",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.3 ft (2 m)",
+            "Overall Length": "10 in (25 cm)",
+            "Tire Size": "front: 12x8.5-12, rear: 12-16.5",
+            "Wheelbase": "5 ft (2 m)",
+            "Width Outside Frame": "3.7 ft (1 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo",
+            "Displacement": "67.2 cu in (0 m)",
+            "Engine Model": "diesel",
+            "Net Power": "28 hp (21 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "25 hp (19 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "8.3 gal/min (30 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Type": "Cat I",
+            "Fuel Capacity": "6.1 gal (23 l)",
+            "Operating Weight": "2023 lbs (918 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "mechanical"
+        }
+    }
+}

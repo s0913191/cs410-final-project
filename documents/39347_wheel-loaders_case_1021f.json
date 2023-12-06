@@ -1,0 +1,86 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/1021f/39347",
+    "source_url_id": "39347",
+    "source_url_model": "1021f",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:41:36.120924",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "1021F",
+    "equipment_spec": {
+        "Brakes": {
+            "Service brake": "Wet Multi Disc"
+        },
+        "Bucket": {
+            "Breakout Force": "45096.7 lbs (20,455 kg)",
+            "Bucket Capacity - heaped": "5.5 cu yds (4 m)",
+            "Bucket Capacity - struck": "4.1 cu yds (3 m)",
+            "Bucket Width": "10.5 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Dump reach @ full height, 45 degrees dump": "4.2 ft (1 m)",
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "11.8 ft (3 m)",
+            "Hinge Pin - Max Height": "14 ft (4 m)",
+            "Length with Bucket on Ground": "29.2 ft (9 m)",
+            "Reach at Max Lift and Dump": "6.2 ft (2 m)",
+            "Wheelbase": "11.7 ft (3 m)",
+            "Width Over Tires": "9.9 ft (3 m)"
+        },
+        "Engine": {
+            "Alternator": "95 A",
+            "Aspiration": "Turbocharged",
+            "Displacement": "531 cu in (0 m)",
+            "Emissions level": "Interim Tier 4",
+            "Engine Model": "FPT F2FE614C",
+            "Engine speed - Rated speed, full load": "2100 rpm",
+            "Gross Power": "290 hp (216 kw)",
+            "Make": "Case",
+            "Max. torque ISO14396": "1090.9 lbs/ft",
+            "Net Power": "262 hp (195 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1100 rpm",
+            "Torque Rise": "49%"
+        },
+        "Hydraulic cycle times (unloaded)": {
+            "Total cycle time": "10.1 sec"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.3 sec",
+            "Lower Time": "2.6 sec",
+            "Maximum system pressure": "3650 psi",
+            "Pump Flow Capacity": "93 gal/min (352 l/min)",
+            "Pump Type": "Axial Piston Pump",
+            "Raise Time": "6.2 sec",
+            "Steering pump type": "Articulation"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "15 gal (57 l)",
+            "Engine Oil Fluid Capacity": "8.1 gal (30 l)",
+            "Front Axle/Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Fuel Capacity": "125 gal (473 l)",
+            "Hydraulic System Fluid Capacity": "66 gal (250 l)",
+            "Operating Weight": "53791 lbs (24,399 kg)",
+            "Rated Bucket Capacity": "5.5 cu yds (4 m)",
+            "Rear Axle/Diff Fluid Capacity": "13.5 gal (49 l)",
+            "Static Tipping Weight": "35001 lbs (15,876 kg)",
+            "Tire Size": "26.5R25",
+            "Transmission Fluid Capacity": "12 gal (45 l)",
+            "Turning Radius": "20.9 ft (6 m)"
+        },
+        "Transmission": {
+            "Differential lock": "F: Open / R: Open",
+            "Max Speed - Forward": "23.6 mph (37 kph)",
+            "Max Speed - Reverse": "16.1 mph (26 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Powershift"
+        },
+        "Weights": {
+            "Operational Weight": "53791 lbs (24,399 kg)"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skip-loaders/case/570n-ep/30750450",
+    "source_url_id": "30750450",
+    "source_url_model": "570n-ep",
+    "source_url_make": "case",
+    "source_url_category": "skip-loaders",
+    "source_date_scraped": "2023-09-13 16:40:58.164692",
+    "equipment_category": "Skip Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "570N EP",
+    "equipment_spec": {
+        "Brakes": {
+            "Service brake": "Wet Multi Disc"
+        },
+        "Dimensions": {
+            "Ground Clearance": "10.9 ft (3 m)",
+            "Height to Top of Suspended Cab": "9 ft (3 m)",
+            "Wheelbase": "7 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "120",
+            "Battery": "850 cold-cranking"
+        },
+        "Engine": {
+            "Bore": "4.4 in (10 cm)",
+            "Displacement": "207.5 cu in (0 m)",
+            "Emissions Certification": "Tier 4 Final",
+            "Engine Model": "FPT F5HFL463D",
+            "Engine Type": "Diesel 4-stroke, Turbocharged",
+            "Gross Power": "74 hp (55 kw)",
+            "Net Max Torque": "228 lbs/ft",
+            "Net Power": "72 hp (54 kw)",
+            "Net Torque Rise": "0.35",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.4 in (10 cm)",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "28.6 gal/min (106 l/min)",
+            "Pump Type": "Gear",
+            "Relief Valve Pressure": "3000 psi"
+        },
+        "Loader": {
+            "Reach at Max Dump Height": "0.2 ft (0 m)"
+        },
+        "Operating Specifications": {
+            "Front Axle Fluid Capacity": "0.2 gal (0 l)",
+            "Fuel Capacity": "30.2 gal (114 l)",
+            "Hydraulic System Fluid Capacity": "28.5 gal (106 l)",
+            "Oil System Fluid Capacity": "2.2 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "11135.6 lbs (5,051 kg)",
+            "Rear Axle Fluid Capacity": "3.6 gal (11 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5 L x 24.0, 10-ply"
+        },
+        "Transmission": {
+            "Max Speed": "24 mph (39 kph)",
+            "Max Speed - Reverse": "24 mph (39 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Syncroshuttle"
+        }
+    }
+}

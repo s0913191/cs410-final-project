@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tower-cranes/favelle-favco/m760d/30760332",
+    "source_url_id": "30760332",
+    "source_url_model": "m760d",
+    "source_url_make": "favelle-favco",
+    "source_url_category": "tower-cranes",
+    "source_date_scraped": "2023-09-13 17:49:16.729984",
+    "equipment_category": "Tower Cranes",
+    "equipment_make": "Favelle Favco",
+    "equipment_model": "M760D",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "225 ft (69 m)",
+            "Max Lift Capacity": "71 t (64,410 kg)"
+        }
+    }
+}

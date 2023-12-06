@@ -1,0 +1,121 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-dozers/caterpillar/824h/264197",
+    "source_url_id": "264197",
+    "source_url_model": "824h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-dozers",
+    "source_date_scraped": "2023-09-13 16:41:09.490468",
+    "equipment_category": "Wheel Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "824H",
+    "equipment_spec": {
+        "Axles": {
+            "Front": "Planetary-Fixed",
+            "Oscillating Rear": "13",
+            "Rear": "Oscillating 13  \t\u00b0"
+        },
+        "Blades": {
+            "Blade Capacity": "21 cu yds (16 m)",
+            "Blade Height": "4.1 ft (1 m)",
+            "Blade Width": "14.8 ft (4 m)",
+            "Straight Blade - Capacity": "14.8 cu yds (11 m)",
+            "Straight Blade - Digging Depth": "1.4 ft (0 m)",
+            "Straight Blade - Ground Clearance": "3.6 ft (1 m)",
+            "Straight Blade - Height": "4.1 ft (1 m)",
+            "Straight Blade - Maximum Tilt": "3.9 ft (1 m)",
+            "Straight Blade - Overall Width": "1.4 ft (0 m)",
+            "Straight Blade - Total Operating Weight": "63325 lbs (28,724 kg)"
+        },
+        "Brakes": {
+            "Brakes": "Meet SAE/ISO 3450 1996"
+        },
+        "Cab": {
+            "Cab": "ROPS/FOPS is standard",
+            "ROPS/FOPS": "Meets SAE and ISO standards",
+            "Sound Performance Levels": "Meet ANSI/SAE, SAE and ISO standards"
+        },
+        "Dimensions": {
+            "Centerline of Rear Axle to Edge of Bumper": "8.9 ft (2 m)",
+            "Centerline of Rear Axle to Hitch": "72.9 in (183 cm)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Ground Clearance - Bumper": "2.9 ft (1 m)",
+            "Height - Bottom of Ladder": "1.5 ft (0 m)",
+            "Height - Top of Cab": "12.2 ft (4 m)",
+            "Height - Top of Exhaust": "141.4 in (358 cm)",
+            "Height - Top of Hood": "103.7 in (262 cm)",
+            "Length - With Blade on Ground": "27 ft (8 m)",
+            "Length with Blade on Ground": "27 ft (8 m)",
+            "Wheel Base": "12.2 ft (4 m)",
+            "Wheelbase": "12.2 ft (4 m)"
+        },
+        "Engine": {
+            "Bore": "5.4 in (13 cm)",
+            "Cylinders": "6",
+            "Direct Drive - Flywheel Power": "354 hp (264 kw)",
+            "Direct Drive - Gross Power": "401 hp (299 kw)",
+            "Displacement": "928 cu in (0 m)",
+            "Engine Make": "2236",
+            "Engine Model": "Cat C15 ACERT",
+            "Flywheel Power": "354 hp (264 kw)",
+            "Gross Power": "401 hp (299 kw)",
+            "Net Power - EEC 80/1269": "354 hp (264 kw)",
+            "Net Power - ISO 9249": "354 hp (264 kw)",
+            "Net Power - SAE J1349 (JAN90)": "350.1 hp (261 kw)",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "6.7 in (15 cm)"
+        },
+        "Hydraulic System": {
+            "Left Tilt and Tip, Bore and Stroke": "133.75 mm x 255 mm (5.3 in x 10.0 in)",
+            "Lift Cylinder, Bore and Stroke": "120.65 mm x 915 mm (4.75 in x 36.0 in)",
+            "Relief Valve Setting": "3500 psi",
+            "Right Tilt and Tip, Bore and Stroke": "152.4 mm x 255 mm (6 in x 10.0 in)",
+            "Steering Cylinder, Bore and Stroke": "114.3 mm x 576 mm (4.5 in x 22.7 in)"
+        },
+        "Operating Specifications": {
+            "Axle Oscillation": "13  \t\u00b0",
+            "Cooling System Fluid Capacity": "21.9 gal (79 l)",
+            "Engine Oil Capacity": "9 gal (34 l)",
+            "Front Diff Fluid Capacity": "23.8 gal (87 l)",
+            "Fuel Capacity": "185 gal (700 l)",
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Operating Weight": "63325 lbs (28,724 kg)",
+            "Rear Diff Fluid Capacity": "23.8 gal (87 l)",
+            "Tire Size": "29.5-25 L-3",
+            "Transmission Fluid Capacity": "16.4 gal (61 l)"
+        },
+        "Scoop Capacities": {
+            "Carry": "17.5 cu yds (13 m)",
+            "Doze": "35 cu yds (27 m)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "21.9 gal (79 l)",
+            "Crankcase": "9 gal (34 l)",
+            "Differential - Final Drives - Front": "23.8 gal (87 l)",
+            "Fuel Tank": "185 gal (700 l)",
+            "Fuel Tank - Standard": "185 gal (700 l)",
+            "Hydraulic Tank": "23.2 gal (87 l)",
+            "Transmission": "16.4 gal (61 l)"
+        },
+        "Tires": {
+            "Standard Tire Size": "29.5RR25 XHA MX L3"
+        },
+        "Transmission": {
+            "Converter Drive - Forward 1": "3.8 mph (5 kph)",
+            "Converter Drive - Forward 2": "6.5 mph (10 kph)",
+            "Converter Drive - Forward 3": "11.5 mph (18 kph)",
+            "Converter Drive - Forward 4": "20 mph (32 kph)",
+            "Converter Drive - Reverse 1": "4.3 mph (6 kph)",
+            "Converter Drive - Reverse 2": "7.5 mph (11 kph)",
+            "Converter Drive - Reverse 3": "13 mph (21 kph)",
+            "Max Speed - Forward": "20 mph (32 kph)",
+            "Max Speed - Reverse": "22.7 mph (35 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Forward Speeds": "4",
+            "Number of Reverse Gears": "4",
+            "Number of Reverse Speeds": "4"
+        },
+        "Weights": {
+            "Operating Weight": "63325 lbs (28,724 kg)"
+        }
+    }
+}

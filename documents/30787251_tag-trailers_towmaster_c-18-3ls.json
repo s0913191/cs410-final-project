@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tag-trailers/towmaster/c-18-3ls/30787251",
+    "source_url_id": "30787251",
+    "source_url_model": "c-18-3ls",
+    "source_url_make": "towmaster",
+    "source_url_category": "tag-trailers",
+    "source_date_scraped": "2023-09-13 17:55:21.730755",
+    "equipment_category": "Tag Trailers",
+    "equipment_make": "Towmaster",
+    "equipment_model": "C-18-3LS",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "8x16 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "3",
+            "Suspension Type": "SLIPPER SPRING"
+        },
+        "Weights": {
+            "Equipment Weight": "5440 lbs (2,468 kg)",
+            "Weight Capacity": "18000 lbs (8,165 kg)"
+        }
+    }
+}

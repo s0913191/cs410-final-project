@@ -1,0 +1,34 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/john-deere/310sl/50436",
+    "source_url_id": "50436",
+    "source_url_model": "310sl",
+    "source_url_make": "john-deere",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:15.580039",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "310SL",
+    "equipment_spec": {
+        "Description:": {
+            "Dig Depth": "14.2 ft (4 m)",
+            "Load Height": "11.3 ft (3 m)"
+        },
+        "Backhoe": {
+            "Dig Depth": "14.2 ft (4 m)",
+            "Load Height": "11.3 ft (3 m)"
+        },
+        "Engine": {
+            "Net Power": "99 hp (74 kw)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "11045 lbs (5,010 kg)",
+            "Lift Capacity": "7632 lbs (3,462 kg)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "16549 lbs (7,507 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "25.0 mph (40 kph)"
+        }
+    }
+}

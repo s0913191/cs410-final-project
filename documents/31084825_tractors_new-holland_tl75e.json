@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tl75e/31084825",
+    "source_url_id": "31084825",
+    "source_url_model": "tl75e",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:31.982571",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TL75E",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "75 hp (56 kw)"
+        },
+        "Production": {
+            "Series": "TL Exitus Series",
+            "Years Manufactured": "2002 -"
+        }
+    }
+}

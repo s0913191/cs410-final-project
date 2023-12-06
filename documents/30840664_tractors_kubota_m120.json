@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m120/30840664",
+    "source_url_id": "30840664",
+    "source_url_model": "m120",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:31:30.543573",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M120",
+    "equipment_spec": {
+        "Axles": {
+            "Final Drive": "inboard planetary"
+        },
+        "Dimensions": {
+            "Ground Clearance": "20.9 in (51 cm)",
+            "Height - Top of Cab": "9 ft (3 m)",
+            "Height - Top of ROPS/FOPS": "9 ft (3 m)",
+            "Overall Length": "14 in (36 cm)",
+            "Overall Width": "6.9 ft (2 m)",
+            "Tire Size": "front 14.9-24 rear 18.4R-38R1",
+            "Wheelbase": "8.7 ft (2 m)",
+            "Width Outside Frame": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "356 cu in (0 m)",
+            "Engine Model": "F5802TE2",
+            "Gross Power": "120 hp (89 kw)",
+            "Net Power": "120 hp (89 kw)",
+            "Number of Cylinders": "5",
+            "Power Measured @": "2400 rpm",
+            "PTO Power": "99.5 hp (74 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "31.8 gal/min (117 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "5203 lbs (2,360 kg)",
+            "3 Point Hitch Type": "Cat II",
+            "Alternator Supplied Amperage": "120  A",
+            "Cooling System Fluid Capacity": "3.5 gal (11 l)",
+            "Engine Oil Capacity": "5.5 gal (19 l)",
+            "Fuel Capacity": "52.9 gal (197 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9039 lbs (4,100 kg)",
+            "Tire Size Front - 2wd / 4wd": "11.00-16F2",
+            "Turning Radius": "13.2 ft (4 m)"
+        },
+        "Production": {
+            "Series": "M Series",
+            "Years Manufactured": "1998 - 2004"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4R-38R1"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "power shift dual range"
+        }
+    }
+}

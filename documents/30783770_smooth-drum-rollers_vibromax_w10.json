@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/vibromax/w10/30783770",
+    "source_url_id": "30783770",
+    "source_url_model": "w10",
+    "source_url_make": "vibromax",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:18.986126",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Vibromax",
+    "equipment_model": "W10",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "138 in (351 cm)"
+        },
+        "Drum": {
+            "Drum Width": "68.1 in (173 cm)",
+            "Vibration Frequency": "3840/2880 hz (230,400 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "73.2 in (185 cm)"
+        }
+    }
+}

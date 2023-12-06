@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liebherr/l580-2plus2/23426",
+    "source_url_id": "23426",
+    "source_url_model": "l580-2plus2",
+    "source_url_make": "liebherr",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:04.411164",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liebherr",
+    "equipment_model": "L580 2PLUS2",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "39341.6 lbs (17,845 kg)",
+            "Bucket Capacity - heaped": "6.6 cu yds (5 m)",
+            "Bucket Width": "10.9 ft (3 m)",
+            "Dump Clearance at Max Raise": "10.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Hinge Pin - Max Height": "15 ft (5 m)",
+            "Length with Bucket on Ground": "29.6 ft (9 m)",
+            "Reach at Max Lift and Dump": "3.8 ft (1 m)",
+            "Wheelbase": "11.8 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbo-charged with intercooler",
+            "Engine Model": "D 926 TI-E A2",
+            "Gross Power": "265 hp (198 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2000 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2 sec",
+            "Lower Time": "3.5 sec",
+            "Pump Flow Capacity": "76.7 gal/min (288 l/min)",
+            "Pump Type": "Load-sensing variable axial piston pump with output control and pressure cut-off",
+            "Raise Time": "5.5 sec",
+            "Relief Valve Setting": "5076.4 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Engine Oil Fluid Capacity": "6.3 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "15.4 gal (57 l)",
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Hydraulic System Fluid Capacity": "63.5 gal (238 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "54542.4 lbs (24,740 kg)",
+            "Rear Axle Oscillation": "26  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "13.3 gal (49 l)",
+            "Static Tipping Weight": "44665.7 lbs (20,260 kg)",
+            "Tire Size": "26.5R25",
+            "Turning Radius": "23.8 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "24.9 mph (39 kph)",
+            "Max Speed - Reverse": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "hydrostatic 2plus2"
+        }
+    }
+}

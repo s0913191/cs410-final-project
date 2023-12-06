@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/hamm/h-18i-p/30803563",
+    "source_url_id": "30803563",
+    "source_url_model": "h-18i-p",
+    "source_url_make": "hamm",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:45.444437",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Hamm",
+    "equipment_model": "H 18i P",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "165.4 in (419 cm)"
+        },
+        "Drum": {
+            "Drum Width": "84.3 in (213 cm)",
+            "Vibration Frequency": "27 - 30 hz (1,620 - 1,800 vpm)"
+        },
+        "Engine": {
+            "Make": "Deutz"
+        },
+        "Operating Specifications": {
+            "Operating Width": "91 in (231 cm)"
+        }
+    }
+}

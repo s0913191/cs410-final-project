@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/bomag/cr-662-rm/30169943",
+    "source_url_id": "30169943",
+    "source_url_model": "cr-662-rm",
+    "source_url_make": "bomag",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:55.866098",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Bomag",
+    "equipment_model": "CR 662 RM",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Multiple disc"
+        },
+        "Dimensions": {
+            "Length w/ Screed": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Emission Tier Level": "Tier 4f",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "260 hp (194 kw)",
+            "Make": "Cummins",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hopper/Paver": {
+            "Auger Construction": "Cast , High alloy",
+            "Auger Diameter": "16 in (41 cm)",
+            "Auger Thickness": "0.7 in (0 cm)",
+            "Feed Tunnel Width": "30 in (76 cm)",
+            "Hopper Capacity": "30000.1 lbs (13,608 kg)",
+            "Hopper Length": "90 in (229 cm)",
+            "Hopper Volume": "9.9 cu yds (7 m)",
+            "Hopper Width": "118.7 in (300 cm)",
+            "Paving Depth - max": "12.1 in (30 cm)",
+            "Paving Speed - max": "225 ft/min",
+            "Paving Width - max": "30 ft (9 m)",
+            "Travel Speed - max": "9.6 mph (14 kph)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.5 gal (23 l)",
+            "Fuel Capacity": "72 gal (273 l)",
+            "Hydraulic System Fluid Capacity": "75 gal (284 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "48300 lbs (21,909 kg)"
+        },
+        "Screed": {
+            "Fastach 8 (electric heat) generator": "45.6 hp (34 kw)",
+            "Fastach 8 (two oil heaters) 178,000 BTU": "1.3 gph",
+            "Negative crown": "1 in (3 cm)",
+            "Positive crown": "3 in (8 cm)",
+            "Screed plate thickness": "0.5 in (0 cm)",
+            "Stretch 16 (four oil heaters) 274,000 BTU (total)": "2.0 gph",
+            "Stretch\u00c3?\u00c2\u00ae 16 (electric heat) generator": "45.6 hp (34 kw)",
+            "Vibrations per minute (max)": "3000"
+        },
+        "Weights": {
+            "Tractor Weight": "36200 lbs (16,420 kg)",
+            "Tractor Weight - with Fastach 8 and hydroflated tires": "40200 lbs (18,235 kg)",
+            "Tractor Weight - with Stretch 16 and hydroflated tires": "44100 lbs (20,004 kg)"
+        }
+    }
+}

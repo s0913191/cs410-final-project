@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/ha43-je/30150295",
+    "source_url_id": "30150295",
+    "source_url_model": "ha43-je",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:28:17.885950",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "HA43 JE",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "25%",
+            "Ground Clearance": "6 in (15 cm)",
+            "Overall Height": "6.2 ft (2 m)",
+            "Overall Length": "253.2 in (643 cm)",
+            "Overall Width": "5 ft (2 m)",
+            "Tilt alarm": "3  \t\u00b0",
+            "Track Width": "109.4 in (277 cm)",
+            "Transport length": "214.8 in (544 cm)",
+            "Turning Radius - Outside": "13 ft (4 m)",
+            "Turntable rotation": "355  \t\u00b0",
+            "Wheelbase": "6.7 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "345",
+            "System Voltage": "48 V"
+        },
+        "Performance": {
+            "Hydraulic System Fluid Capacity": "8 gal (30 l)",
+            "Max Speed": "2.8 mph (3 kph)",
+            "Operating Weight": "15942 lbs (7,231 kg)",
+            "Tire Size": "23x10-12"
+        },
+        "Platform": {
+            "Jib Range of Motion - Vertical": "130  \t\u00b0",
+            "Max Horizontal Reach": "28.5 ft (9 m)",
+            "Max Platform Height": "42.3 ft (13 m)",
+            "Max Platform Weight Capacity": "500 lbs (227 kg)",
+            "Max Working Height": "48.3 ft (15 m)",
+            "Platform Inner Length": "46.8 in (117 cm)",
+            "Platform Inner Width": "32.4 in (81 cm)",
+            "Platform Rotation": "180  \t\u00b0"
+        }
+    }
+}

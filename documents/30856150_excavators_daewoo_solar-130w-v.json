@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/daewoo/solar-130w-v/30856150",
+    "source_url_id": "30856150",
+    "source_url_model": "solar-130w-v",
+    "source_url_make": "daewoo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:57:48.372267",
+    "equipment_category": "Excavators",
+    "equipment_make": "Daewoo",
+    "equipment_model": "SOLAR 130W V",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "15.2 ft (5 m)",
+            "Digging Reach": "15.2 ft (5 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "28000 lbs (12,701 kg)"
+        }
+    }
+}

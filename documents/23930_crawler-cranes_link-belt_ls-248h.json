@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/link-belt/ls-248h/23930",
+    "source_url_id": "23930",
+    "source_url_model": "ls-248h",
+    "source_url_make": "link-belt",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:47:50.250277",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Link-Belt",
+    "equipment_model": "LS-248H",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "30%",
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Transport Width": "22.6 ft (7 m)",
+            "Wheelbase": "24.2 ft (7 m)"
+        },
+        "Engine": {
+            "Bore": "4.8 in (10 cm)",
+            "Engine Make": "ISUZU",
+            "Engine Model": "6SD1TPB-01",
+            "Max Torque": "644 lbs/ft",
+            "Net Power": "237 hp (177 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2400 rpm",
+            "Stroke": "5.8 in (13 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "76.9 gal (288 l)",
+            "Hydraulic System Fluid Capacity": "42.1 gal (159 l)",
+            "Operating Voltage": "12 V V"
+        },
+        "Transmission": {
+            "Max Speed": "0.5 mph (0 kph)"
+        },
+        "Undercarriage": {
+            "Number of Shoes per Side": "51",
+            "Number of Track Rollers per Side": "12",
+            "Width of Shoes": "44.1 in (112 cm)"
+        }
+    }
+}

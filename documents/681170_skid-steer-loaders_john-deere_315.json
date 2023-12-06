@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/315/681170",
+    "source_url_id": "681170",
+    "source_url_model": "315",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:47.056194",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "315",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "45 hp (34 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "5200 lbs (2,359 kg)",
+            "Operating Width": "59 in (150 cm)"
+        }
+    }
+}

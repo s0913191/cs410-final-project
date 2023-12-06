@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/eand-orm600j/30774344",
+    "source_url_id": "30774344",
+    "source_url_model": "eand-orm600j",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:30:11.525358",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "E/M600J",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "60 ft (18 m)",
+            "Stowed Height": "8 ft (2 m)",
+            "Stowed Width": "7-11 ft (2 m)"
+        },
+        "Tires": {
+            "Tire Size": "14x22.5"
+        },
+        "Transmission": {
+            "4WD": "AWD"
+        }
+    }
+}

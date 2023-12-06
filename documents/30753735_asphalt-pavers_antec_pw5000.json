@@ -1,0 +1,31 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/antec/pw5000/30753735",
+    "source_url_id": "30753735",
+    "source_url_model": "pw5000",
+    "source_url_make": "antec",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:51:46.754509",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Antec",
+    "equipment_model": "PW5000",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "18.6 ft (5 m)",
+            "Transport Height": "8.6 ft (2 m)",
+            "Transport Width": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSB4.5",
+            "Gross Power": "110 hp (82 kw)",
+            "Power Measured @": "1500 rpm"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "7.2 lbs (3 kg)",
+            "Paving Speed - max": "49.3 ft/min",
+            "Paving Width - max": "21.4 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight w/ Screed": "27557.8 lbs (12,500 kg)"
+        }
+    }
+}

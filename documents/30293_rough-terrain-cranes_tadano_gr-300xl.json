@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/rough-terrain-cranes/tadano/gr-300xl/30293",
+    "source_url_id": "30293",
+    "source_url_model": "gr-300xl",
+    "source_url_make": "tadano",
+    "source_url_category": "rough-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:48:55.026777",
+    "equipment_category": "Rough Terrain Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "GR-300XL",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "81  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "101.8 ft (31 m)",
+            "Min Height @ Max Raise Angle": "31.9 ft (9 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.7 rpm"
+        },
+        "Dimensions": {
+            "Carrier/Base Length": "24.1 ft (7 m)",
+            "Transport Height": "11.6 ft (3 m)",
+            "Transport Length": "36.9 ft (11 m)",
+            "Transport Width": "9 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "11 ft (3 m)",
+            "Wheelbase": "11.5 in (28 cm)",
+            "Width w/ Outriggers Extended": "20.7 ft (6 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Dry type, replaceable element",
+            "Aspiration": "Turbocharged",
+            "Bore": "4.3 in (10 cm)",
+            "Cooling system": "Liquid pressurized, recirculating by-pass",
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB6.7",
+            "Fuel Filter": "Full flow with replaceable element",
+            "Gross Power": "215 hp (160 kw)",
+            "Max Torque": "630 lbs/ft",
+            "Oil Filter": "Full flow with replaceable element",
+            "Power Measured @": "2500 rpm",
+            "Radiator Core type": "Fin and tube core, thermostat controlled",
+            "Stroke": "4.9 in (10 cm)",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "79.3 gal (299 l)",
+            "Hydraulic System Fluid Capacity": "100.4 gal (379 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "20.5-25 24PR"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "29.3 mph (47 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Full powershift"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/bobcat/b250/1435",
+    "source_url_id": "1435",
+    "source_url_model": "b250",
+    "source_url_make": "bobcat",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:33:59.825436",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "B250",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "5340 lbs (2,422 kg)",
+            "Dig Depth": "10.6 ft (3 m)",
+            "Load Height": "7.9 ft (2 m)",
+            "Reach From Swivel": "12.8 ft (4 m)"
+        },
+        "Dimensions": {
+            "Height to Top of Suspended Cab": "7.8 ft (2 m)",
+            "Transport Length": "19.3 ft (6 m)",
+            "Transport Width": "5.3 ft (2 m)",
+            "Wheelbase": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Engine Model": "D1105",
+            "Net Power": "31.5 hp (23 kw)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "4250 lbs (1,928 kg)",
+            "Bucket Capacity": "0.5 cu yds (0 m)",
+            "Bucket Width": "63 in (160 cm)",
+            "Clearance at Max Dump Height": "6.2 ft (2 m)",
+            "Dig Depth": "5.3 in (13 cm)",
+            "Reach at Max Dump Height": "3.2 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "14.5 gal (53 l)",
+            "Operating Weight 4wd": "6770 lbs (3,071 kg)",
+            "Tire Size Front - 2wd / 4wd": "10x16.5",
+            "Turning Radius": "11.9 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "10x16.5"
+        },
+        "Transmission": {
+            "Max Speed": "4 mph (6 kph)",
+            "Transmission Type": "hydrostatic"
+        }
+    }
+}

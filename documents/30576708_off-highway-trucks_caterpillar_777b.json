@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/777b/30576708",
+    "source_url_id": "30576708",
+    "source_url_model": "777b",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:40.311173",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "777B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Height": "30.6 ft (9 m)",
+            "Overall Height": "16.1 ft (5 m)",
+            "Overall Length": "32.2 ft (10 m)",
+            "Overall Width": "18 ft (5 m)",
+            "Wheelbase": "15 ft (5 m)"
+        },
+        "Dump": {
+            "Load Capacity - heaped": "67.1 cu yds (51 m)",
+            "Load Capacity - Struck": "47.7 cu yds (36 m)",
+            "Rated Payload": "190000 lbs (86,183 kg)"
+        },
+        "Engine": {
+            "Displacement": "2105.4 cu in (0 m)",
+            "Engine Model": "3508",
+            "Gross Power": "920 hp (686 kw)",
+            "Net Power": "870.4 hp (649 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "250 gal (946 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Tire Size": "24.00-49 48PR"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "190000 gal (719,150 l)"
+        },
+        "Transmission": {
+            "Max Speed": "37.3 mph (60 kph)",
+            "Number of Gears - Forward": "7"
+        },
+        "Weights": {
+            "Empty Weight": "132398.7 lbs (60,055 kg)",
+            "Loaded Weight": "324004.6 lbs (146,967 kg)",
+            "Weight Distribution Front - empty": "47%",
+            "Weight Distribution Front - loaded": "33%",
+            "Weight Distribution Rear - empty": "53%",
+            "Weight Distribution Rear - loaded": "67%"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/jcb/4cx/17849",
+    "source_url_id": "17849",
+    "source_url_model": "4cx",
+    "source_url_make": "jcb",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:35:49.719774",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "JCB",
+    "equipment_model": "4CX",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "11851 lbs (5,376 kg)",
+            "Bucket Dig Force - Extended": "11851 lbs (5,376 kg)",
+            "Dig Depth": "14.2 ft (4 m)",
+            "Dig Depth - Extended": "18.2 ft (5 m)",
+            "Load Height": "12.6 ft (4 m)",
+            "Load Height - Extended": "14.1 ft (4 m)",
+            "Reach at Load Height - Extended": "12.4 ft (4 m)",
+            "Reach From Swivel": "17.8 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.5 ft (3 m)",
+            "Transport Length": "19.4 ft (6 m)",
+            "Transport Width": "7.8 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "95 amp",
+            "Battery": "1000 CCA (120 amp)",
+            "Front working lights": "4 adjustable",
+            "Gauges": "Tachometer, engine coolant temp, fuel level, hourmeter, clock",
+            "Pre-wire": "Radio speakers (cab), beacon (all)",
+            "Rear working lights": "4 adjustable"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "268.6 cu in (0 m)",
+            "Gross Power": "81 hp (60 kw)",
+            "Net Max Torque": "380.6 lbs/ft",
+            "Net Power": "97.6 hp (72 kw)",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "21.4 gal/min (79 l/min)",
+            "Pump Type": "open centre systen with twin gear pumps and hydraulic speed control",
+            "Relief Valve Pressure": "3650 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "13699 lbs (6,214 kg)",
+            "Bucket Capacity": "1.8 cu yds (1 m)",
+            "Bucket Width": "88 in (224 cm)",
+            "Clearance at Max Dump Height": "8.9 ft (2 m)",
+            "Dig Depth": "5.6 in (13 cm)",
+            "Lift Capacity": "4510.7 lbs (2,046 kg)",
+            "Reach at Max Dump Height": "4 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "4.9 gal (15 l)",
+            "Front Axle Fluid Capacity": "4.3 gal (15 l)",
+            "Fuel Capacity": "42.3 gal (159 l)",
+            "Hydraulic System Fluid Capacity": "34.9 gal (129 l)",
+            "Oil System Fluid Capacity": "4 gal (15 l)",
+            "Operating Voltage": "12 V V",
+            "Rear Axle Fluid Capacity": "4.3 gal (15 l)",
+            "Tire Size Front - 2wd / 4wd": "16.9x28 10PR Industrial",
+            "Transmission Fluid Capacity": "4.3 gal (15 l)"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9x28 10PR Industrial"
+        },
+        "Transmission": {
+            "Max Speed": "23.7 mph (37 kph)",
+            "Max Speed - Reverse": "23.7 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "powershift"
+        }
+    }
+}

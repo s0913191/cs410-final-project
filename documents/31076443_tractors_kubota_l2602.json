@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l2602/31076443",
+    "source_url_id": "31076443",
+    "source_url_model": "l2602",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:29:23.985726",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L2602",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "28 hp (21 kw)"
+        },
+        "Production": {
+            "Series": "L02 Series",
+            "Years Manufactured": "1978 - 1985"
+        }
+    }
+}

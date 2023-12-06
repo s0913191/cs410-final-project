@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/mccormick/ct41/30751412",
+    "source_url_id": "30751412",
+    "source_url_model": "ct41",
+    "source_url_make": "mccormick",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:10.008547",
+    "equipment_category": "Tractors",
+    "equipment_make": "Mccormick",
+    "equipment_model": "CT41",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14 in (36 cm)",
+            "Height - Top of Cab": "8 ft (2 m)",
+            "Overall Length": "10.5 in (25 cm)",
+            "Wheelbase": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "141 cu in (0 m)",
+            "Gross Power": "41 hp (31 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "36 hp (27 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "8.2 gal/min (30 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "2755.8 lbs (1,250 kg)",
+            "3 Point Hitch Type": "1",
+            "Alternator Supplied Amperage": "50  A",
+            "Fuel Capacity": "10.1 gal (38 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "3582.6 lbs (1,625 kg)",
+            "Turning Radius": "8.4 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed": "17.9 mph (27 kph)",
+            "Number of Forward Gears": "16",
+            "Number of Reverse Gears": "16",
+            "Transmission Type": "synchro"
+        }
+    }
+}

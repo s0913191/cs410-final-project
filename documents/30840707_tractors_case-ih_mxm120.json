@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/mxm120/30840707",
+    "source_url_id": "30840707",
+    "source_url_model": "mxm120",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:24.390721",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "MXM120",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "122 hp (91 kw)"
+        },
+        "Production": {
+            "Series": "Maxxum Series",
+            "Years Manufactured": "2002 - 2007"
+        }
+    }
+}

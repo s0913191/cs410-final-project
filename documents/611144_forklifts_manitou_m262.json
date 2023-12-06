@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/manitou/m262/611144",
+    "source_url_id": "611144",
+    "source_url_model": "m262",
+    "source_url_make": "manitou",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:34:52.386846",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Manitou",
+    "equipment_model": "M26.2",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "15 in (38 cm)",
+            "Height to Top of Overhead Guard": "8.4 ft (2 m)",
+            "Length to Fork Face": "0.2 ft (0 m)",
+            "Max Fork Height": "12.2 ft (4 m)",
+            "Overall Height - mast lowered": "9 ft (3 m)",
+            "Overall Width": "6.3 ft (2 m)",
+            "Turning Radius": "11.5 ft (3 m)",
+            "Wheelbase": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "Euro 2 1104C 44",
+            "Engine Type": "PERKINS 854F-E34T 54009.1.1",
+            "Power": "100.6 hp (75 kw)",
+            "Torque": "234.6 lbs/ft",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Lift System": {
+            "Max Lift Capacity": "5732.1 lbs (2,600 kg)",
+            "Max Lift Height": "23 ft (7 m)"
+        },
+        "MAST": {
+            "Load Capacity": "5732.1 lbs (2,600 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0",
+            "Max Fork Spread": "57.9 in (145 cm)",
+            "Number of Mast Sections": "1"
+        },
+        "Operating Specifications": {
+            "Max Speed": "13.8 mph (21 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "12786.9 lbs (5,800 kg)",
+            "Tire Type": "FRWD-145R20 18PR MPT80 TL,Backward-10R 17.5 134/132 M G291"
+        },
+        "Transmission": {
+            "Transmission Type": "Torque converter"
+        }
+    }
+}

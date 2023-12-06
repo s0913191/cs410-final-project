@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/dd70/30800813",
+    "source_url_id": "30800813",
+    "source_url_model": "dd70",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:04.866541",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "DD70",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "141 in (358 cm)"
+        },
+        "Drum": {
+            "Drum Width": "57 in (145 cm)",
+            "Vibration Frequency": "55 hz (3,300 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins 4B NA"
+        },
+        "Operating Specifications": {
+            "Operating Width": "64 in (163 cm)"
+        }
+    }
+}

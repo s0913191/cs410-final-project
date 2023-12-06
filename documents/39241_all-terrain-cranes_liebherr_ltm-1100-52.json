@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1100-52/39241",
+    "source_url_id": "39241",
+    "source_url_model": "ltm-1100-52",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:49.549213",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1100-5.2",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "82  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "170.7 ft (52 m)",
+            "Max Lift Capacity": "209439.2 lbs (95,001 kg)",
+            "Max Working Radius": "157.5 ft (48 m)",
+            "Min Height @ Max Raise Angle": "37.8 ft (11 m)",
+            "Min Working Radius": "9.9 ft (3 m)",
+            "Number of Sections": "6",
+            "Swing Speed": "2 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Make": "Liebherr",
+            "Max Torque": "1725.9 lbs/ft",
+            "Model": "D846 A7",
+            "Net Power": "503 hp (375 kw)"
+        },
+        "Dimensions": {
+            "Carrier Length": "37.6 ft (11 m)",
+            "Transport Height": "13 ft (4 m)",
+            "Transport Length": "44.8 ft (13 m)",
+            "Transport Width": "9.1 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "12.6 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "170  A",
+            "Carrier Fuel Capacity": "129.5 gal (488 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "14R25",
+            "Upper Structure Fuel Capacity": "67.7 gal (254 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)",
+            "Max Speed - Reverse": "4.5 mph (6 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Make": "Liebherr",
+            "Max Torque": "678.6 lbs/ft",
+            "Model": "D934S A6",
+            "Net Power": "197 hp (147 kw)"
+        }
+    }
+}

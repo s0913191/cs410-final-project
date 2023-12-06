@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/case-ih/pj65/31076051",
+    "source_url_id": "31076051",
+    "source_url_model": "pj65",
+    "source_url_make": "case-ih",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:12:34.320143",
+    "equipment_category": "Tractors",
+    "equipment_make": "Case Ih",
+    "equipment_model": "PJ65",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "65 hp (48 kw)"
+        },
+        "Production": {
+            "Series": "PJ Series",
+            "Years Manufactured": "2001 - 2004"
+        }
+    }
+}

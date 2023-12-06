@@ -1,0 +1,22 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kobelco/sk485-mark-9/42829",
+    "source_url_id": "42829",
+    "source_url_model": "sk485-mark-9",
+    "source_url_make": "kobelco",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:08:51.637227",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kobelco",
+    "equipment_model": "SK485 MARK 9",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "25.6 ft (8 m)"
+        },
+        "Engine": {
+            "Net Power": "345 hp (257 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "111774 lbs (50,700 kg)"
+        }
+    }
+}

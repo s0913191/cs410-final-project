@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/xcmg/qy25k-ii/7945337",
+    "source_url_id": "7945337",
+    "source_url_model": "qy25k-ii",
+    "source_url_make": "xcmg",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:47:19.070125",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "XCMG",
+    "equipment_model": "QY25K-II",
+    "equipment_spec": {
+        "Boom": {
+            "Max Height @ Max Raise Angle - no jib": "112.2 ft (34 m)",
+            "Max Lift Capacity": "50000 lbs (22,680 kg)",
+            "Min Height @ Max Raise Angle": "35.2 ft (11 m)",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "276.3 hp (206 kw)",
+            "Max Torque": "820.2 lbs/ft",
+            "Model": "SC8DK280Q3",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Angle of departure": "13  \t\u00b0",
+            "Approach Angle": "16  \t\u00b0",
+            "Gradeability": "30%",
+            "Ground Clearance": "1 ft (0 m)",
+            "Transport Height": "11.1 ft (3 m)",
+            "Transport Length": "41.6 ft (13 m)",
+            "Transport Width": "8.3 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "64816 lbs (29,400 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)"
+        }
+    }
+}

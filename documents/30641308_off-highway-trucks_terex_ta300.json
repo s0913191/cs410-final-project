@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/terex/ta300/30641308",
+    "source_url_id": "30641308",
+    "source_url_model": "ta300",
+    "source_url_make": "terex",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:30.516644",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Terex",
+    "equipment_model": "TA300",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Overall Height": "11.5 ft (3 m)",
+            "Overall Length": "32.7 ft (10 m)",
+            "Overall Width": "9.5 ft (3 m)",
+            "Wheelbase": "29.4 ft (9 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "11.3 cu yds (8 m)",
+            "Capacity - Struck": "18 cu yds (14 m)",
+            "Dump Angle": "66  \t\u00b0",
+            "Lower Time": "19.5 sec",
+            "Raise Time": "19.5 sec",
+            "Rated Payload": "30.9 t (27,216 kg)"
+        },
+        "Engine": {
+            "Engine Model": "Scania DC9",
+            "Make": "Scania",
+            "Max Torque": "1387 lbs/ft",
+            "Model": "DC9",
+            "Net Power": "370 hp (276 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "97.7 gal (367 l)",
+            "Tire Size": "23.5"
+        },
+        "Transmission": {
+            "Max Speed": "31 mph (50 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Auto"
+        },
+        "Weights": {
+            "Operating Weight": "111303 lbs (50,487 kg)",
+            "Total Empty": "53352 lbs (24,200 kg)",
+            "Total Loaded": "115038 lbs (52,181 kg)"
+        }
+    }
+}

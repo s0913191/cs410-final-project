@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/bobcat/316/1690",
+    "source_url_id": "1690",
+    "source_url_model": "316",
+    "source_url_make": "bobcat",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:52:45.474081",
+    "equipment_category": "Excavators",
+    "equipment_make": "Bobcat",
+    "equipment_model": "316",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "9.4 ft (3 m)",
+            "Max Digging Depth": "5.1 ft (2 m)",
+            "Max Loading Height": "6.6 ft (2 m)",
+            "Max Reach Along Ground": "9.1 ft (3 m)",
+            "Max Vertical Wall Digging Depth": "3.8 ft (1 m)",
+            "Shipping Height of Unit": "6.9 ft (2 m)",
+            "Shipping Length of Unit": "9.6 ft (3 m)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "6.9 ft (2 m)",
+            "Length of Track on Ground": "3.2 ft (1 m)",
+            "Tail Swing Radius": "3 ft (1 m)",
+            "Width to Outside of Tracks": "2.3 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "44 cu in (0 m)",
+            "Engine Model": "D722-EB",
+            "Net Power": "10 hp (7 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "1.1 gal (4 l)",
+            "Fuel Capacity": "2.4 gal (8 l)",
+            "Hydraulic Pump Flow Capacity": "5.4 gal/min (19 l/min)",
+            "Hydraulic System Fluid Capacity": "3.5 gal (11 l)",
+            "Operating Weight": "1675.6 lbs (760 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.5 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "3.5 psi",
+            "Max Travel Speed": "1.3 mph (2 kph)",
+            "Shoe Size": "7.1 in (18 cm)",
+            "Track Gauge": "1.8 ft (0 m)"
+        }
+    }
+}

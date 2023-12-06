@@ -1,0 +1,100 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx140lc/9352",
+    "source_url_id": "9352",
+    "source_url_model": "dx140lc",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:17.534669",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX140LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "26.9 ft (8 m)",
+            "Max Digging Depth": "17.3 ft (5 m)",
+            "Max Loading Height": "19.3 ft (6 m)",
+            "Max Reach Along Ground": "25.3 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "12.5 ft (4 m)",
+            "Shipping Height of Unit": "8.5 ft (2 m)",
+            "Shipping Length of Unit": "25.3 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "28.5 ft (9 m)",
+            "Max Digging Depth": "18.6 ft (5 m)",
+            "Max Loading Height": "20.7 ft (6 m)",
+            "Max Reach Along Ground": "26.8 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "15 ft (5 m)",
+            "Shipping Height of Unit": "8.9 ft (2 m)",
+            "Shipping Length of Unit": "25.2 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "28.7 ft (9 m)",
+            "Max Digging Depth": "20.2 ft (6 m)",
+            "Max Loading Height": "21.1 ft (6 m)",
+            "Max Reach Along Ground": "28.1 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "15.9 ft (5 m)",
+            "Shipping Height of Unit": "10.2 ft (3 m)",
+            "Shipping Length of Unit": "25.1 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "29 ft (9 m)",
+            "Max Digging Depth": "17.9 ft (5 m)",
+            "Max Loading Height": "21.1 ft (6 m)",
+            "Max Reach Along Ground": "27.1 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "15.8 ft (5 m)",
+            "Shipping Length of Unit": "26.5 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 5": {
+            "Max Cutting Height": "30.3 ft (9 m)",
+            "Max Digging Depth": "19.2 ft (6 m)",
+            "Max Loading Height": "22.4 ft (7 m)",
+            "Max Reach Along Ground": "28.5 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "17.8 ft (5 m)",
+            "Shipping Height of Unit": "9.1 ft (3 m)",
+            "Shipping Length of Unit": "26.3 ft (8 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "0.7 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Length of Track on Ground": "10 ft (3 m)",
+            "Removal Counterweight Clearance": "3 ft (1 m)",
+            "Tail Swing Radius": "7.3 ft (2 m)",
+            "Width to Outside of Tracks": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged with air to air intercooler",
+            "Displacement": "359 cu in (0 m)",
+            "Engine Model": "DL06",
+            "Max Torque": "321.6 lbs/ft",
+            "Net Power": "95 hp (71 kw)",
+            "Power Measured @": "1850 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60 A",
+            "Cooling System Fluid Capacity": "5.3 gal (19 l)",
+            "Engine Oil Capacity": "6.7 gal (23 l)",
+            "Fuel Capacity": "70.6 gal (265 l)",
+            "Hydraulic Pump Flow Capacity": "60.3 gal/min (227 l/min)",
+            "Hydraulic System Fluid Capacity": "39.1 gal (148 l)",
+            "Hydraulic System Relief Valve Pressure": "4699.3 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "30864 lbs (14,000 kg)",
+            "Swing Drive Fluid Capacity": "1.1 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.7 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.2 psi",
+            "Max Travel Speed": "3 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Shoes per Side": "46",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "23.7 in (58 cm)"
+        }
+    }
+}

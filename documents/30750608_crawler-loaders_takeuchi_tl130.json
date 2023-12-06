@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/takeuchi/tl130/30750608",
+    "source_url_id": "30750608",
+    "source_url_model": "tl130",
+    "source_url_make": "takeuchi",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:52:12.820071",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "Takeuchi",
+    "equipment_model": "TL130",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Full Height and Dump": "7.8 ft (2 m)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Reach at Dump Height": "2.4 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "67 cu in (0 m)",
+            "Engine Model": "4TNV98"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.7 sec",
+            "Lower Time": "2.7 sec",
+            "Raise Time": "4.2 sec"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "40  A",
+            "Breakout Force  Bucket": "6729 lbs (3,052 kg)",
+            "Cooling System Fluid Capacity": "10.9 gal (38 l)",
+            "Engine Oil Capacity": "10.3 gal (38 l)",
+            "Fuel Capacity": "19.8 gal (72 l)",
+            "Hydraulic System Fluid Capacity": "10.6 gal (38 l)",
+            "Max Speed": "4.4 mph (6 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "7646 lbs (3,468 kg)",
+            "Static Tipping Load": "4630 lbs (2,100 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.9 psi",
+            "Length of Track on Ground": "4.6 ft (1 m)",
+            "Number of Track Rollers per Side": "5"
+        }
+    }
+}

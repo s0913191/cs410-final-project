@@ -1,0 +1,68 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/750j/19578",
+    "source_url_id": "19578",
+    "source_url_model": "750j",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:09.123478",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "750J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Length of Track on Ground": "8.6 ft (2 m)",
+            "Length w/ Blade": "16.4 ft (5 m)",
+            "Width Over Tracks": "8 ft in (20 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged w/ after-cooler",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "6068H",
+            "Gross Power": "157 hp (117 kw)",
+            "Make": "Deere",
+            "Max Torque": "500 lbs/ft",
+            "Model": "6068H",
+            "Net Power": "145 hp (108 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "38 gal/min (144 l/min)",
+            "Pump type": "Piston",
+            "Relief Valve Pressure": "3625 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "5.7 gal (19 l)",
+            "Engine Oil Capacity": "7 gal (27 l)",
+            "Final Drives Fluid Capacity": "4 gal (15 l)",
+            "Fuel Capacity": "98 gal (371 l)",
+            "Hydraulic Fluid Capacity": "28 gal (106 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "32585 lbs (14,781 kg)"
+        },
+        "Standard Blade": {
+            "Blade Angle (both directions)": "23.5  \t\u00b0",
+            "Capacity": "4.3 cu yds (3 m)",
+            "Height": "47 in (119 cm)",
+            "Width": "10.9 ft (3 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.3 mph (10 kph)",
+            "Max Speed - Reverse": "6.3 mph (10 kph)",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4488 cu in (0 m)",
+            "Ground Pressure": "7.3 psi",
+            "Number of Shoes per Side": "40",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22 in (56 cm)",
+            "Track Gauge": "6.2 ft (2 m)",
+            "Track Pitch": "7.5 in (18 cm)"
+        }
+    }
+}

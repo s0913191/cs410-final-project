@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tk85/31084828",
+    "source_url_id": "31084828",
+    "source_url_model": "tk85",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:28.896894",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TK85",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "80 hp (60 kw)"
+        },
+        "Production": {
+            "Series": "TK Series",
+            "Years Manufactured": "2000 - 2004"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/tcm/ftb15/30756399",
+    "source_url_id": "30756399",
+    "source_url_model": "ftb15",
+    "source_url_make": "tcm",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:41:20.713462",
+    "equipment_category": "Forklifts",
+    "equipment_make": "TCM",
+    "equipment_model": "FTB15",
+    "equipment_spec": {
+        "Dimensions": {
+            "Max Fork Height": "10.9 ft (3 m)",
+            "Overall Height - mast lowered": "7.1 ft (2 m)",
+            "Overall Width": "3.6 ft (1 m)",
+            "Turning Radius": "5 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "Battery",
+            "Power": "35.6 hp (26 kw)"
+        },
+        "MAST": {
+            "Lift Speed": "90 ft/min",
+            "Load Capacity": "3000 lbs (1,361 kg)",
+            "Load Center": "24 in (61 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "8.7 mph (13 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "1",
+            "Operating Weight": "5190 lbs (2,354 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

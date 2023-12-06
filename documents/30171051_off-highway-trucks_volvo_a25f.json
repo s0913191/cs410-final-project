@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/volvo/a25f/30171051",
+    "source_url_id": "30171051",
+    "source_url_model": "a25f",
+    "source_url_make": "volvo",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:40.497040",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "A25F",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2.3 ft (1 m)",
+            "Dump Height": "21.5 ft (6 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Overall Height": "11.3 ft (3 m)",
+            "Overall Length": "33.6 ft (10 m)",
+            "Overall Width": "9.4 ft (3 m)",
+            "Wheelbase": "16.5 ft (5 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6x6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "19.7 cu yds (15 m)",
+            "Capacity - Struck": "15.4 cu yds (11 m)",
+            "Dump Angle": "74  \t\u00b0",
+            "Lower Time": "10 sec",
+            "Raise Time": "12 sec",
+            "Rated Payload": "52911 lbs (24,000 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "610 cu in (0 m)",
+            "Engine Model": "D11H-A",
+            "Gross Power": "315 hp (235 kw)",
+            "Make": "Volvo",
+            "Max Torque": "1504 lbs/ft",
+            "Model": "D11H-A",
+            "Net Power": "314 hp (234 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1100 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "25.1 gal (95 l)",
+            "Engine Oil Capacity": "10.1 gal (38 l)",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "46.3 gal (174 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "25.5R25",
+            "Transmission Fluid Capacity": "12.7 gal (45 l)"
+        },
+        "Transmission": {
+            "Max Speed": "33 mph (53 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "PT2116"
+        },
+        "Weights": {
+            "Front Axle - empty": "27668.1 lbs (12,550 kg)",
+            "Front Axle - loaded": "32077.3 lbs (14,550 kg)",
+            "Operating Weight": "101200 lbs (45,904 kg)",
+            "Rear Axle - empty": "20613.3 lbs (9,350 kg)",
+            "Rear Axle - loaded": "69115 lbs (31,350 kg)",
+            "Total Empty": "48281.3 lbs (21,900 kg)",
+            "Total Loaded": "101192.2 lbs (45,900 kg)"
+        }
+    }
+}

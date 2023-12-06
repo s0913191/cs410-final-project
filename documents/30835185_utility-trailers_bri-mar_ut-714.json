@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/utility-trailers/bri-mar/ut-714/30835185",
+    "source_url_id": "30835185",
+    "source_url_model": "ut-714",
+    "source_url_make": "bri-mar",
+    "source_url_category": "utility-trailers",
+    "source_date_scraped": "2023-09-13 17:56:11.814751",
+    "equipment_category": "Utility Trailers",
+    "equipment_make": "Bri-Mar",
+    "equipment_model": "UT-714",
+    "equipment_spec": {
+        "Deck": {
+            "Deck Size": "6.8x14 ft (2 m)"
+        },
+        "Engine": {
+            "Speed Rating": "55 mph (89 kph)"
+        },
+        "Operating Specifications": {
+            "Number of Axles": "2",
+            "Suspension Type": "Spring"
+        },
+        "Weights": {
+            "Equipment Weight": "1720 lbs (780 kg)",
+            "Weight Capacity": "5280 lbs (2,395 kg)"
+        }
+    }
+}

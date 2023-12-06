@@ -1,0 +1,64 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/4880/30672943",
+    "source_url_id": "30672943",
+    "source_url_model": "4880",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:34:53.778591",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "4880",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Axle Clearance": "4 in (10 cm)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Overall Length": "252 in (640 cm)",
+            "Rear axle clearance": "0.4 ft (0 m)",
+            "Shipping weight": "27000 lbs (12,247 kg)",
+            "Wheelbase": "11.4 ft (3 m)",
+            "Width Outside Frame": "9 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Liquid cooled",
+            "Bore": "5.6 in (13 cm)",
+            "Displacement": "903.2 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "V-903",
+            "Gross Power": "320 hp (239 kw)",
+            "Number of Cylinders": "8",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "270 hp (201 kw)",
+            "Stroke": "4.8 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Open center",
+            "Number of Remote Control Valves": "3 to 4",
+            "Pump Flow Capacity": "60 gal/min (227 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "13000 lbs (5,897 kg)",
+            "3 Point Hitch Type": "IV",
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "15.1 gal (57 l)",
+            "Engine Oil Capacity": "9.4 gal (34 l)",
+            "Front Tire Size": "23.1-34",
+            "Fuel Capacity": "190 gal (719 l)",
+            "Hydraulic System Fluid Capacity": "16 gal (61 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "33999.7 lbs (15,422 kg)",
+            "Rear Tire Size": "23.1-34",
+            "Turning Radius": "17.1 ft (5 m)"
+        },
+        "Production": {
+            "Series": "4000 4WD Series",
+            "Years Manufactured": "1978 - 1983"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "19.3 mph (31 kph)",
+            "Max Speed - Reverse": "5.9 mph (8 kph)",
+            "Number of Forward Gears": "18",
+            "Number of Reverse Gears": "6",
+            "Transmission Type": "Partial power shift"
+        }
+    }
+}

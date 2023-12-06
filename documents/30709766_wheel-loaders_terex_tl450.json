@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/tl450/30709766",
+    "source_url_id": "30709766",
+    "source_url_model": "tl450",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:47.613925",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TL450",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacity - heaped": "525.8 cu yds (401 m)",
+            "Dump Clearance at Max Raise": "10.4 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "12 ft (4 m)",
+            "Length with Bucket on Ground": "28.3 ft (9 m)",
+            "Reach at Max Lift and Dump": "3.7 ft (1 m)",
+            "Wheelbase": "11.6 ft (3 m)"
+        },
+        "Engine": {
+            "Engine Model": "QSM11",
+            "Net Power": "340.7 hp (254 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "120.2 gal (454 l)",
+            "Operating Weight": "5291.1 lbs (2,400 kg)",
+            "Static Tipping Weight": "41226.5 lbs (18,700 kg)",
+            "Tire Size": "26.5R25"
+        },
+        "Transmission": {
+            "Transmission Type": "4WG260"
+        }
+    }
+}

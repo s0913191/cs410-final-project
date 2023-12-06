@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec700b/42952",
+    "source_url_id": "42952",
+    "source_url_model": "ec700b",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:21:57.462566",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC700B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Digging Depth": "27 ft (8 m)",
+            "Digging Reach": "43 ft (13 m)"
+        },
+        "Engine": {
+            "Net Power": "425 hp (317 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "154980 lbs (70,299 kg)"
+        }
+    }
+}

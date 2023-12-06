@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/6210r/2321387",
+    "source_url_id": "2321387",
+    "source_url_model": "6210r",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:22:22.944576",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "6210R",
+    "equipment_spec": {
+        "Dimensions": {
+            "Front Axle Clearance": "23.9 in (58 cm)",
+            "Front Tread Range": "88 in (224 cm)",
+            "Wheelbase": "9.2 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Dual series turbocharger with fixed geometry first-stage, variable geometry second-stage air-to-air aftercooling and cooled exhaust gas recirculation",
+            "Displacement": "6.8 L cu in (0 m)",
+            "Engine Make": "John Deere PowerTech PSX",
+            "Gross Power": "154 hp (115 kw)",
+            "Max Torque": "1180.9 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "131 hp (98 kw)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Closed-center, pressure/flow compensated",
+            "Maximum system pressure": "2900 psi",
+            "Pump Flow Capacity": "41 gal/min (155 l/min)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "95.2 gal (360 l)",
+            "Operating Weight": "37919.6 lbs (17,200 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "24.9 mph (39 kph)",
+            "Number of Forward Gears": "20"
+        }
+    }
+}

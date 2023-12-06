@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/bobcat/553/1491",
+    "source_url_id": "1491",
+    "source_url_model": "553",
+    "source_url_make": "bobcat",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:10.698991",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Bobcat",
+    "equipment_model": "553",
+    "equipment_spec": {
+        "Dimensions": {
+            "Axle Height": "29.8 in (74 cm)",
+            "Clearance at Max Lift and Dump": "6.9 ft (2 m)",
+            "Ground Clearance": "20.1 in (51 cm)",
+            "Height - Overall": "130.1 in (330 cm)",
+            "Height - Top of Cab": "6.1 ft (2 m)",
+            "Length - With 20HC High Capacity Saw": "278 in (706 cm)",
+            "Length w/o Bucket": "7.4 ft (2 m)",
+            "Length with Bucket": "9 ft (3 m)",
+            "Overall Length": "25 ft in (64 cm)",
+            "Reach at Max Lift and Dump": "12.3 in (30 cm)",
+            "Tread Width": "87.6 in (221 cm)",
+            "Turning Radius from Center - inc bucket": "62.1 in (157 cm)",
+            "Wheel Base": "9.3 ft (3 m)",
+            "Wheelbase": "2.6 ft (1 m)",
+            "Width - Overall - 28L Tires": "115.7 in (292 cm)",
+            "Width - Overall - 30.5 Tires": "126.7 in (320 cm)",
+            "Width Over Tires": "4 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "67.2 cu in (0 m)",
+            "Engine Model": "Cat C6.6 ACERT",
+            "Engine Power": "173 hp (129 kw)",
+            "Gross Power": "190.5 hp (142 kw)",
+            "Rated Power": "175 hp (131 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "11 gal/min (42 l/min)"
+        },
+        "Loader": {
+            "Operating Load Rating": "950 lbs (431 kg)",
+            "Tipping Angle": "1905  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "10 gal (38 l)",
+            "Max Speed": "6.4 mph (10 kph)",
+            "Operational Weight": "3704 lbs (1,680 kg)",
+            "Tire Size": "27x8.50-15"
+        },
+        "Service Refill Capacities": {
+            "Fuel Tank": "79.3 gal (299 l)"
+        }
+    }
+}

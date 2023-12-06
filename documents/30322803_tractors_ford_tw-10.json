@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/tw-10/30322803",
+    "source_url_id": "30322803",
+    "source_url_model": "tw-10",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:56.924581",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "TW-10",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "123  hp"
+        },
+        "Production": {
+            "Series": "TW Series",
+            "Year Manufactured": "1979 - 1983"
+        }
+    }
+}

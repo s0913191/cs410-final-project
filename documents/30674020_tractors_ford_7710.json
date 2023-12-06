@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/7710/30674020",
+    "source_url_id": "30674020",
+    "source_url_model": "7710",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:36.108010",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "7710",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "20.5 in (51 cm)",
+            "Height - Top of ROPS/FOPS": "9.3 ft (3 m)",
+            "Overall Length": "152.4 in (386 cm)",
+            "Overall Width": "6.4 ft (2 m)",
+            "Wheelbase": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.5 in (10 cm)",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Make": "Ford",
+            "Gross Power": "97 hp (72 kw)",
+            "Max Torque": "278.1 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "86 hp (64 kw)",
+            "Stroke": "4.5 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Open center",
+            "Maximum system pressure": "2500 psi",
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "18.2 gal/min (68 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4471 lbs (2,028 kg)",
+            "Alternator Supplied Amperage": "51  A",
+            "Fuel Capacity": "47 gal (178 l)",
+            "Hydraulic System Fluid Capacity": "15 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "8648.8 lbs (3,923 kg)"
+        },
+        "Production": {
+            "Series": "10 Series",
+            "Year Manufactured": "1982 - 1990"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2"
+        }
+    }
+}

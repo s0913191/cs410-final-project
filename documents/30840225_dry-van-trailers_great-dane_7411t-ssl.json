@@ -1,0 +1,30 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/dry-van-trailers/great-dane/7411t-ssl/30840225",
+    "source_url_id": "30840225",
+    "source_url_model": "7411t-ssl",
+    "source_url_make": "great-dane",
+    "source_url_category": "dry-van-trailers",
+    "source_date_scraped": "2023-09-13 17:53:56.624434",
+    "equipment_category": "Dry Van Trailers",
+    "equipment_make": "Great Dane",
+    "equipment_model": "7411T-SSL",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height": "13'6\"",
+            "Length": "53 ft",
+            "Load width": "7'9\"",
+            "Width": "102 in"
+        },
+        "Operating Specifications": {
+            "Brakes": "Air",
+            "Suspension": "Spring"
+        },
+        "Tires": {
+            "Tires": "295/75R22.5"
+        },
+        "Weights": {
+            "GAWR": "34,000 lbs",
+            "GVWR": "68,000 lbs"
+        }
+    }
+}

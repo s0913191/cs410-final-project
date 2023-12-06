@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/5075e/30681521",
+    "source_url_id": "30681521",
+    "source_url_model": "5075e",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:21:00.992917",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "5075E",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18 in (46 cm)",
+            "Wheelbase": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "179 cu in (0 m)",
+            "Engine Model": "3029",
+            "Gross Power": "75 hp (56 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2400 rpm",
+            "PTO Power": "61 hp (45 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "18.3 gal/min (68 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3190.1 lbs (1,447 kg)",
+            "Fuel Capacity": "18 gal (68 l)",
+            "Tire Size Front - 2wd / 4wd": "7.5-16",
+            "Turning Radius": "10.5 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.8-28"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/Chetra/tg301c1/30754411",
+    "source_url_id": "30754411",
+    "source_url_model": "tg301c1",
+    "source_url_make": "Chetra",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:48.730048",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Chetra",
+    "equipment_model": "TG301C1",
+    "equipment_spec": {
+        "Boom": {
+            "Max Lift Capacity": "144623.3 lbs (65,601 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.2 ft (3 m)",
+            "Length of Track on Ground": "10 ft (3 m)",
+            "Lift Capacity at Max Reach": "19621.2 lbs (8,900 kg)",
+            "Overall Height": "23.6 ft (7 m)",
+            "Overall Length": "15.5 ft (5 m)",
+            "Overall Width": "16 ft (5 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "659.1 cu in (0 m)",
+            "Engine Model": "M11-C330",
+            "Gross Power": "300 hp (224 kw)",
+            "Max Torque": "1075 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "97003.4 lbs (44,000 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.8 mph (10 kph)",
+            "Max Speed - Reverse": "8.6 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Shoe Size": "28 in (71 cm)",
+            "Track Gauge": "7.3 ft (2 m)"
+        }
+    }
+}

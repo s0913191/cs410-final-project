@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/dalian/cpc30ba/30757633",
+    "source_url_id": "30757633",
+    "source_url_model": "cpc30ba",
+    "source_url_make": "dalian",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:25:35.616923",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Dalian",
+    "equipment_model": "CPC30BA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "4.6 in (10 cm)",
+            "Height to Top of Overhead Guard": "6.9 ft (2 m)",
+            "Length to Fork Face": "8.9 ft (2 m)",
+            "Max Fork Height": "9.9 ft (3 m)",
+            "Overall Height - mast lowered": "6.9 ft (2 m)",
+            "Overall Width": "4.1 ft (1 m)",
+            "Right Angle Stack": "6.7 ft (2 m)",
+            "Turning Radius": "8 ft (2 m)",
+            "Wheelbase": "5.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "144.6 cu in (0 m)",
+            "Engine Model": "C240PKJ",
+            "Fuel Type": "Diesel",
+            "Power": "46.4 hp (34 kw)",
+            "Power Measured @": "2650 rpm",
+            "Torque": "101.2 lbs/ft",
+            "Torque Measured @": "2000 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "80.8 ft/min",
+            "Load Capacity": "6613.9 lbs (3,000 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Lower Speed": "108.3 ft/min",
+            "Mast Tip Forward": "6  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.5 mph (19 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "9524 lbs (4,320 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

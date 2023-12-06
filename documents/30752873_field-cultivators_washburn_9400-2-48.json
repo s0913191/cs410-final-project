@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/field-cultivators/washburn/9400-2-48/30752873",
+    "source_url_id": "30752873",
+    "source_url_model": "9400-2-48",
+    "source_url_make": "washburn",
+    "source_url_category": "field-cultivators",
+    "source_date_scraped": "2023-09-13 17:05:27.303999",
+    "equipment_category": "Field Cultivators",
+    "equipment_make": "Washburn",
+    "equipment_model": "9400-2 48",
+    "equipment_spec": {
+        "Dimensions": {
+            "PTO Power Required per Width Ft.": "15 hp (11 kw)",
+            "Transport Height": "9.5 ft (3 m)",
+            "Transport Width": "6 ft (2 m)"
+        },
+        "Operating Specifications": {
+            "Number of Rows": "2",
+            "Operational Weight": "1680 lbs (762 kg)",
+            "Row/Rank Spacing": "48 in (122 cm)"
+        },
+        "Tires": {
+            "Tires": "4x16 semi-pneumatic"
+        }
+    }
+}

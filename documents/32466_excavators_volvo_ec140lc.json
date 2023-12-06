@@ -1,0 +1,111 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/volvo/ec140lc/32466",
+    "source_url_id": "32466",
+    "source_url_model": "ec140lc",
+    "source_url_make": "volvo",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:57.444884",
+    "equipment_category": "Excavators",
+    "equipment_make": "Volvo",
+    "equipment_model": "EC140LC",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "26.9 ft (8 m)",
+            "Max Digging Depth": "16.9 ft (5 m)",
+            "Max Loading Height": "18.9 ft (5 m)",
+            "Max Reach Along Ground": "25.7 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "15.1 ft (5 m)",
+            "Shipping Height of Unit": "9.1 ft (3 m)",
+            "Shipping Length of Unit": "25.5 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "27.7 ft (8 m)",
+            "Max Digging Depth": "18.2 ft (5 m)",
+            "Max Loading Height": "19.7 ft (6 m)",
+            "Max Reach Along Ground": "26.9 ft (8 m)",
+            "Max Vertical Wall Digging Depth": "16.7 ft (5 m)",
+            "Shipping Height of Unit": "9.2 ft (3 m)",
+            "Shipping Length of Unit": "25.5 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "28.8 ft (9 m)",
+            "Max Digging Depth": "19.8 ft (6 m)",
+            "Max Loading Height": "20.8 ft (6 m)",
+            "Max Reach Along Ground": "28.6 ft (9 m)",
+            "Max Vertical Wall Digging Depth": "18.1 ft (5 m)",
+            "Shipping Height of Unit": "10.5 ft (3 m)",
+            "Shipping Length of Unit": "25.1 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 4": {
+            "Max Cutting Height": "30.4 ft (9 m)",
+            "Max Digging Depth": "16.7 ft (5 m)",
+            "Max Loading Height": "22.3 ft (7 m)",
+            "Max Reach Along Ground": "26 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "14.1 ft (4 m)",
+            "Shipping Length of Unit": "25.4 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 5": {
+            "Max Cutting Height": "31.6 ft (9 m)",
+            "Max Digging Depth": "17.9 ft (5 m)",
+            "Max Loading Height": "23.5 ft (7 m)",
+            "Max Reach Along Ground": "27.3 ft (8 m)",
+            "Max Vertical Wall Dig Depth": "15.3 ft (5 m)",
+            "Shipping Height of Unit": "9.4 ft (3 m)",
+            "Shipping Length of Unit": "25.2 ft (8 m)"
+        },
+        "Boom/Stick Excavator Option 6": {
+            "Max Cutting Height": "33.2 ft (10 m)",
+            "Max Digging Depth": "19.6 ft (6 m)",
+            "Max Loading Height": "25.1 ft (8 m)",
+            "Max Reach Along Ground": "28.9 ft (9 m)",
+            "Max Vertical Wall Dig Depth": "17.1 ft (5 m)",
+            "Shipping Height of Unit": "11 ft (3 m)",
+            "Shipping Length of Unit": "24.5 ft (7 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "1 cu yds (1 m)",
+            "Minimum Bucket Capacity": "0.5 cu yds (0 m)",
+            "Reference Bucket Capacity": "0.7 cu yds (0 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "9.1 ft (3 m)",
+            "Length of Track on Ground": "9.9 ft (3 m)",
+            "Removal Counterweight Clearance": "3 ft (1 m)",
+            "Tail Swing Radius": "7.3 ft (2 m)",
+            "Width to Outside of Tracks": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "238 cu in (0 m)",
+            "Engine Model": "B3.9-C",
+            "Gross Power": "106.5 hp (79 kw)",
+            "Max Torque": "317.9 lbs/ft",
+            "Net Power": "98.6 hp (73 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "50 A",
+            "Cooling System Fluid Capacity": "6.3 gal (23 l)",
+            "Engine Oil Capacity": "4.7 gal (15 l)",
+            "Fuel Capacity": "68.7 gal (257 l)",
+            "Hydraulic Pump Flow Capacity": "5.6 gal/min (19 l/min)",
+            "Hydraulic System Fluid Capacity": "62.1 gal (235 l)",
+            "Hydraulic System Relief Valve Pressure": "4551.5 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "29475.9 lbs (13,370 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "11.2 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.9 psi",
+            "Max Travel Speed": "3.5 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "1",
+            "Number of Track Rollers per Side": "7",
+            "Shoe Size": "23.7 in (58 cm)",
+            "Track Gauge": "6.6 ft (2 m)"
+        }
+    }
+}

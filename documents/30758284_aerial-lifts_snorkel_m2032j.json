@@ -1,0 +1,37 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/snorkel/m2032j/30758284",
+    "source_url_id": "30758284",
+    "source_url_model": "m2032j",
+    "source_url_make": "snorkel",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:31:28.821466",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Snorkel",
+    "equipment_model": "M2032J",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height - mast lowered": "6.5 ft (2 m)",
+            "Overall Length": "8 in (20 cm)",
+            "Overall Width": "2.7 ft (1 m)",
+            "Turning Radius": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Battery Amp Hours": "375",
+            "Number of Batteries": "4",
+            "System Voltage": "24 V"
+        },
+        "Performance": {
+            "Max Speed": "1.9 mph (2 kph)",
+            "Operating Weight": "5665.9 lbs (2,570 kg)",
+            "Tire Fill/Type": "solid/non marking"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "8.6 ft (2 m)",
+            "Max Platform Height": "19.7 ft (6 m)",
+            "Max Platform Weight Capacity": "474 lbs (215 kg)",
+            "Max Working Height": "26.3 ft (8 m)",
+            "Platform Inner Length": "31 in (79 cm)",
+            "Platform Inner Width": "29 in (74 cm)"
+        }
+    }
+}

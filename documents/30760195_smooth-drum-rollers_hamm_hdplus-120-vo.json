@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/hamm/hdplus-120-vo/30760195",
+    "source_url_id": "30760195",
+    "source_url_model": "hdplus-120-vo",
+    "source_url_make": "hamm",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:07.347534",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Hamm",
+    "equipment_model": "HD+ 120 VO",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Overall Length": "196.9 in (498 cm)",
+            "Overall Width": "7 ft (2 m)",
+            "Turning Radius - Inside": "1.4 ft (0 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "35744.7 lbs (16,213 kg)",
+            "Centrifugal Force - Low": "21356.9 lbs (9,687 kg)",
+            "Drum Diameter": "55.2 in (140 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Width": "78 in (198 cm)",
+            "Frequency": "2400 - 3,000 hz (144,000 - 180,000 vpm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)"
+        },
+        "Engine": {
+            "Engine Make": "DEUTZ",
+            "Engine Model": "TCD 2012 L04 2V",
+            "Gross Power": "134.2 hp (100 kw)",
+            "Make": "Deutz",
+            "Net Power": "134.2 hp (100 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "47.6 gal (178 l)",
+            "Max Speed": "3.8 mph (5 kph)",
+            "Operating Weight": "29740.4 lbs (13,490 kg)",
+            "Operating weight Cabin": "28086.9 lbs (12,740 kg)",
+            "Operating weight ROPS": "27557.8 lbs (12,500 kg)",
+            "Steering Angle": "10  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "306.5 gal (1,158 l)"
+        }
+    }
+}

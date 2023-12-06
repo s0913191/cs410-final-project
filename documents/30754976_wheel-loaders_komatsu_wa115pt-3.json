@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/komatsu/wa115pt-3/30754976",
+    "source_url_id": "30754976",
+    "source_url_model": "wa115pt-3",
+    "source_url_make": "komatsu",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:51:03.374465",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WA115PT-3",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "16478.5 lbs (7,474 kg)",
+            "Bucket Capacity - heaped": "1.8 cu yds (1 m)",
+            "Bucket Width": "7.6 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.2 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Hinge Pin - Max Height": "11.8 ft (3 m)",
+            "Length with Bucket on Ground": "19.7 ft (6 m)",
+            "Reach at Max Lift and Dump": "2.7 ft (1 m)",
+            "Wheelbase": "8.1 ft (2 m)",
+            "Width Over Tires": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharger",
+            "Displacement": "269.3 cu in (0 m)",
+            "Engine Model": "S4D 106-1HC",
+            "Gross Power": "87 hp (65 kw)",
+            "Number of Cylinders": "4"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.5 sec",
+            "Lower Time": "3.7 sec",
+            "Pump Flow Capacity": "30.4 gal/min (114 l/min)",
+            "Pump Type": "closed hydraulic system",
+            "Raise Time": "4.9 sec",
+            "Relief Valve Setting": "3045.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Engine Oil Fluid Capacity": "3.7 gal (11 l)",
+            "Front Axle/Diff Fluid Capacity": "1.2 gal (4 l)",
+            "Fuel Capacity": "31.8 gal (117 l)",
+            "Hydraulic System Fluid Capacity": "22.5 gal (83 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "16435.5 lbs (7,455 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "1.2 gal (4 l)",
+            "Static Tipping Weight": "13371.1 lbs (6,065 kg)",
+            "Tire Size": "455/70 R24 SPT 9",
+            "Transmission Fluid Capacity": "0.5 gal (0 l)",
+            "Turning Radius": "14.9 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        }
+    }
+}

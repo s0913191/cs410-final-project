@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/244k-ii/30694961",
+    "source_url_id": "30694961",
+    "source_url_model": "244k-ii",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:47:57.278029",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "244K-II",
+    "equipment_spec": {
+        "Brakes": {
+            "Actuation": "Hydraulic",
+            "Brakes Type": "Wet Disc & Drum",
+            "Parking brake": "Wet Disc"
+        },
+        "Bucket": {
+            "Dump Clearance at Max Raise": "8.4 ft (2 m)"
+        },
+        "Capacities": {
+            "Fuel Tank": "21.2 gal (79 l)",
+            "Heaped Capacity": "1.1 cu yds (1 m)",
+            "Hydraulic Tank": "14.6 gal (53 l)",
+            "Transmission": "0.2 gal (0 l)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Length with Bucket on Ground": "17.8 ft (5 m)",
+            "Turning clearance circle": "24 10 in ft (7 m)",
+            "Wheelbase": "7.1 ft (2 m)",
+            "Width Over Tires": "6.3 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "80 A",
+            "Displacement": "201.4 cu in (0 m)",
+            "Emission level": "Tier 4",
+            "Engine Make": "YANMAR",
+            "Engine Model": "4TNV98CT",
+            "Engine Output-Net": "69.8 hp (51 kw)",
+            "Make": "YANMAR",
+            "Model": "4TNV98C",
+            "Net Power": "61 hp (45 kw)",
+            "Pump": "Gear",
+            "Rated Speed": "2200 rpm",
+            "System Voltage": "12 V",
+            "Torque": "205.8 lbs/ft",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "12059.3 lbs (5,470 kg)",
+            "Rated Bucket Capacity": "1.0 cu yds (1 m)",
+            "Tire Size": "365/70 R18"
+        },
+        "Transmission": {
+            "Pump Flow": "17.7 gal/min (64 l/min)",
+            "Transmission Type": "Gear"
+        },
+        "Weights": {
+            "Operational Weight": "12060 lbs (5,470 kg)"
+        }
+    }
+}

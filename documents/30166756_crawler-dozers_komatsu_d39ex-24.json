@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d39ex-24/30166756",
+    "source_url_id": "30166756",
+    "source_url_model": "d39ex-24",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:42.824542",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D39EX-24",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Komatsu",
+            "Model": "SAA4D95LE-7",
+            "Net Power": "105 hp (78 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "21891 lbs (9,930 kg)"
+        }
+    }
+}

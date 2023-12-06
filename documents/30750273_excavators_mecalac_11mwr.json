@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/mecalac/11mwr/30750273",
+    "source_url_id": "30750273",
+    "source_url_model": "11mwr",
+    "source_url_make": "mecalac",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:16:18.230223",
+    "equipment_category": "Excavators",
+    "equipment_make": "Mecalac",
+    "equipment_model": "11MWR",
+    "equipment_spec": {
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max breakout force": "13488.6 lbs (6,118 kg)",
+            "Max Digging Depth": "12.5 ft (4 m)",
+            "Max Reach Along Ground": "24.7 ft (7 m)",
+            "Max Vertical Wall Dig Depth": "6.4 ft (2 m)",
+            "Shipping Height of Unit": "9.7 ft (3 m)",
+            "Shipping Length of Unit": "15.9 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Height - Top of Cab": "9.7 ft (3 m)",
+            "Overall Width": "98.5 in (249 cm)",
+            "Tail Swing Radius": "4.8 ft (1 m)",
+            "Wheelbase": "7.6 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "14 V (120 A)",
+            "Batteries": "100 Ah / 720 A",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Cooling system": "Water",
+            "Displacement": "220 cu in (0 m)",
+            "Engine Model": "DEUTZ TCD 3.6 L4",
+            "Net Power": "75 hp (56 kw)",
+            "Net Torque": "287.7 lbs/ft",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "43.6 gal (163 l)",
+            "Hydraulic Pump Flow Capacity": "43.6 gal/min (163 l/min)",
+            "Hydraulic Pump Type": "Variable displacement pump",
+            "Hydraulic System Fluid Capacity": "20.4 gal (76 l)",
+            "Hydraulic System Relief Valve Pressure": "4350 psi",
+            "Operating Weight": "24228.9 lbs (10,990 kg)"
+        }
+    }
+}

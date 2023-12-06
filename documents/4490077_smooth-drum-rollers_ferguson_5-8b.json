@@ -1,0 +1,25 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ferguson/5-8b/4490077",
+    "source_url_id": "4490077",
+    "source_url_model": "5-8b",
+    "source_url_make": "ferguson",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:40.395203",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ferguson",
+    "equipment_model": "5-8B",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "180 in (457 cm)"
+        },
+        "Drum": {
+            "Drum Width": "50 in (127 cm)"
+        },
+        "Engine": {
+            "Make": "John Deere"
+        },
+        "Operating Specifications": {
+            "Operating Width": "50 in (127 cm)"
+        }
+    }
+}

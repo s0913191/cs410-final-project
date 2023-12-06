@@ -1,0 +1,23 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/doosan/dx420lc-3/41484",
+    "source_url_id": "41484",
+    "source_url_model": "dx420lc-3",
+    "source_url_make": "doosan",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:58:50.925792",
+    "equipment_category": "Excavators",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX420LC-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "25.4 ft (8 m)",
+            "Max Reach Along Ground": "37 ft (11 m)"
+        },
+        "Engine": {
+            "Net Power": "362 hp (270 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "94503 lbs (42,866 kg)"
+        }
+    }
+}

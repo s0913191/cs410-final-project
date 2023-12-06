@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/2120/29989668",
+    "source_url_id": "29989668",
+    "source_url_model": "2120",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:36:20.074263",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "2120",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "42 hp (31 kw)"
+        },
+        "Production": {
+            "Series": "Twenty Compact Series",
+            "Years Manufactured": "1991 - 2000"
+        }
+    }
+}

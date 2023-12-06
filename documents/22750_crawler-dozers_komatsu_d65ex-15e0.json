@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d65ex-15e0/22750",
+    "source_url_id": "22750",
+    "source_url_model": "d65ex-15e0",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:48:58.930513",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D65EX-15E0",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "10.6 ft (3 m)",
+            "Length w/o Blade": "17.9 ft (5 m)",
+            "Width Over Tracks": "6.2 ft in (15 cm)"
+        },
+        "Engine": {
+            "Displacement": "504.7 cu in (0 m)",
+            "Engine Model": "SAA6D114E-3",
+            "Gross Power": "207 hp (154 kw)",
+            "Net Power": "205 hp (153 kw)",
+            "Power Measured @": "1950 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "65.6 gal/min (246 l/min)",
+            "Relief Valve Pressure": "2990 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "9.8 gal (34 l)",
+            "Engine Oil Capacity": "7.4 gal (27 l)",
+            "Final Drives Fluid Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "109.7 gal (413 l)",
+            "Operating Weight": "44709.8 lbs (20,280 kg)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "6.3 mph (10 kph)",
+            "Max Speed - Reverse": "8.1 mph (13 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "4230 cu in (0 m)",
+            "Ground Pressure": "9 psi",
+            "Number of Shoes per Side": "39",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "20.1 in (51 cm)",
+            "Track Gauge": "6.2 ft (2 m)"
+        }
+    }
+}

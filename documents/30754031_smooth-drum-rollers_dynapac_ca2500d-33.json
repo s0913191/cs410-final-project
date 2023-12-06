@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/ca2500d-33/30754031",
+    "source_url_id": "30754031",
+    "source_url_model": "ca2500d-33",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:58.001740",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CA2500D (3.3)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "17 in (43 cm)",
+            "Gradeability": "51%",
+            "Ground Clearance": "12.6 in (30 cm)",
+            "Height - Top of ROPS/FOPS": "9.3 ft (3 m)",
+            "Overall Length": "218.9 in (554 cm)",
+            "Overhang Front": "0.4 ft (0 m)",
+            "Overhang Rear": "0.4 ft (0 m)",
+            "Turning Radius - Inside": "10.2 ft (3 m)",
+            "Turning Radius - Outside": "17.8 ft (5 m)",
+            "Wheelbase": "111.9 in (282 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "46085.9 lbs (20,904 kg)",
+            "Centrifugal Force - Low": "22480.9 lbs (10,197 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum thickness": "1 in (3 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Pad Surface Area": "84 cu in (0 m)",
+            "Static Linear Load": "145.6 lbs/in"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB3.3",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "110 hp (82 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "190 gal (719 l)",
+            "Max Speed": "8 mph (13 kph)",
+            "Operating Weight": "22928.1 lbs (10,400 kg)",
+            "Operating weight ROPS": "22046.3 lbs (10,000 kg)",
+            "Tire Size": "550/60-22.5"
+        }
+    }
+}

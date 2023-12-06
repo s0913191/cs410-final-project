@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m5091/30717302",
+    "source_url_id": "30717302",
+    "source_url_model": "m5091",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:31:56.112020",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M5091",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "75 hp (56 kw)"
+        },
+        "Production": {
+            "Series": "M5001 Series",
+            "Years Manufactured": "2016 - 2020"
+        }
+    }
+}

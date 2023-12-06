@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/daewoo/mega-250-v/8865",
+    "source_url_id": "8865",
+    "source_url_model": "mega-250-v",
+    "source_url_make": "daewoo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:44:31.424746",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Daewoo",
+    "equipment_model": "MEGA 250 V",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "29101 lbs (13,200 kg)",
+            "Bucket Capacity - heaped": "3.2 cu yds (2 m)",
+            "Bucket Width": "9 ft (3 m)",
+            "Dump Clearance at Max Raise": "9.1 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "10.9 ft (3 m)",
+            "Hinge Pin - Max Height": "12.8 ft (4 m)",
+            "Length with Bucket on Ground": "24.7 ft (7 m)",
+            "Reach at Max Lift and Dump": "3.9 ft (1 m)",
+            "Wheelbase": "10 ft (3 m)",
+            "Width Over Tires": "8.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "353.1 cu in (0 m)",
+            "Engine Model": "D1146T",
+            "Gross Power": "162.3 hp (121 kw)",
+            "Net Power": "152.9 hp (113 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "3.3 sec",
+            "Pump Flow Capacity": "66.1 gal/min (250 l/min)",
+            "Pump Type": "tandem vane pumps",
+            "Raise Time": "5.3 sec",
+            "Relief Valve Setting": "2900.8 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "60  A",
+            "Cooling System Fluid Capacity": "13.3 gal (49 l)",
+            "Engine Oil Fluid Capacity": "5.6 gal (19 l)",
+            "Front Axle/Diff Fluid Capacity": "8.2 gal (30 l)",
+            "Fuel Capacity": "71.4 gal (269 l)",
+            "Hydraulic System Fluid Capacity": "51.6 gal (193 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "30864.8 lbs (14,000 kg)",
+            "Rear Axle Oscillation": "22  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "6.4 gal (23 l)",
+            "Static Tipping Weight": "26455.5 lbs (12,000 kg)",
+            "Tire Size": "20.5-25-16PR",
+            "Transmission Fluid Capacity": "7.2 gal (27 l)",
+            "Turning Radius": "19.9 ft (6 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "23 mph (37 kph)",
+            "Max Speed - Reverse": "15.3 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full power shift"
+        }
+    }
+}

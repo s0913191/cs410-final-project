@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/padfoot-compactors/caterpillar/cp563e/30468089",
+    "source_url_id": "30468089",
+    "source_url_model": "cp563e",
+    "source_url_make": "caterpillar",
+    "source_url_category": "padfoot-compactors",
+    "source_date_scraped": "2023-09-13 17:39:27.221416",
+    "equipment_category": "Padfoot Compactors",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "CP563E",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "26.8 in (66 cm)",
+            "Blade Width": "8.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "18 in (46 cm)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Overall Length w/ Blade": "20.7 ft (6 m)",
+            "Overall Length w/o Blade": "18.9 ft (5 m)",
+            "Turning Radius - Inside": "145 in (368 cm)",
+            "Wheelbase": "9.6 in (23 cm)",
+            "Width Over Tires": "7.6 ft (2 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "59799.2 lbs (27,125 kg)",
+            "Centrifugal Force - Low": "29899.6 lbs (13,562 kg)",
+            "Drum Diameter": "51 in (130 cm)",
+            "Drum Width": "84.1 in (213 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Number of Pads": "140",
+            "Pad Height": "5 in (13 cm)",
+            "Pad Surface Area": "13.9 cu in (0 m)",
+            "Vibration Frequency": "1,400-1,914 hz (84,000 vpm)",
+            "Vibration Frequency 1": "31.9 hz (1,860 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "366.2 cu in (0 m)",
+            "Engine Model": "3056E ATAAC",
+            "Gross Power": "150.2 hp (112 kw)",
+            "Make": "Caterpillar",
+            "Net Power": "143.5 hp (107 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "6.9 gal (23 l)",
+            "Engine Oil Capacity": "3.2 gal (11 l)",
+            "Fuel Capacity": "87.2 gal (329 l)",
+            "Hydraulic System Fluid Capacity": "17 gal (64 l)",
+            "Max Speed": "7.3 mph (11 kph)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "26191 lbs (11,880 kg)",
+            "Operating Width": "90 in (229 cm)"
+        },
+        "Tires": {
+            "Tires": "23.1x26 10ply"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/caterpillar/906h/6391",
+    "source_url_id": "6391",
+    "source_url_model": "906h",
+    "source_url_make": "caterpillar",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:43:05.692780",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "906H",
+    "equipment_spec": {
+        "Bucket": {
+            "Bucket Capacities": "1 - 1.60 cu yds (1 - 1 m)",
+            "Bucket Capacity - heaped": "1.2 cu yds (1 m)",
+            "Bucket Width": "6.2 ft (2 m)",
+            "Dump Clearance at Max Raise": "7.9 ft (2 m)"
+        },
+        "Cab": {
+            "FOPS": "SAE J/ISO 3449 APR98 Level II, ISO 3449 1992 Level II",
+            "ROPS": "SAE J1040 MAY94, ISO 3471-1994"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1 ft (0 m)",
+            "Height - Top of Cab": "8.1 ft (2 m)",
+            "Hinge Pin - Max Height": "10.6 ft (3 m)",
+            "Length with Bucket on Ground": "18.4 ft (5 m)",
+            "Reach at Max Lift and Dump": "2.7 ft (1 m)",
+            "Wheel Base": "7.1 ft (2 m)",
+            "Wheelbase": "7.2 ft (2 m)",
+            "Width Over Tires": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "3.7 in (8 cm)",
+            "Displacement": "203 cu in (0 m)",
+            "EEC 80/1269 Rating": "71 hp (53 kw)",
+            "Engine Model": "C3.4",
+            "Gross Power": "74 hp (55 kw)",
+            "ISO 9249 Rating": "71 hp (53 kw)",
+            "Make": "Cat",
+            "Model": "C3.4",
+            "Net Power": "70 hp (52 kw)",
+            "Power Measured @": "2500 rpm",
+            "SAE J1349 Rating": "70 hp (52 kw)",
+            "Stroke": "4.7 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2 sec",
+            "Lower Time": "4 sec",
+            "Main Relief": "3400 psi",
+            "Pump Flow Capacity": "22 gal/min (83 l/min)",
+            "Raise Time": "5 sec",
+            "Relief Valve Setting": "3400 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "90  A",
+            "Breakout Force": "9442 lbs (4,283 kg)",
+            "Cooling System Fluid Capacity": "6.4 gal (23 l)",
+            "Engine Oil Fluid Capacity": "2.7 gal (8 l)",
+            "Fuel Capacity": "13.8 gal (49 l)",
+            "Full Turn Static Tipping Load - Bucket": "6967 lbs (3,160 kg)",
+            "Hydraulic System Fluid Capacity": "22.2 gal (83 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "12412.1 lbs (5,630 kg)",
+            "Rack Back - Transport Position": "52  \t\u00b0",
+            "Rated Bucket Capacity": "1.2 cu yds (1 m)",
+            "Rated Operating Load at Full Turn - Forks (EN 474-3:2006, Firm and Level Ground, 500 mm (20 in) Load Center, Transport 100 mm (4 in) Above Ground)": "5997 lbs (2,720 kg)",
+            "Static Tipping Weight": "8785.5 lbs (3,985 kg)",
+            "Straight Tipping Load - Bucket": "8785 lbs (3,985 kg)",
+            "Tire Size": "405/70 R18",
+            "Turning Radius": "7.3 ft (2 m)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "6.3 gal (23 l)",
+            "Engine Oil": "2.6 gal (8 l)",
+            "Fuel Tank": "13.7 gal (49 l)",
+            "Hydraulic System": "22.2 gal (83 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic",
+            "Travel Speed 1": "4.3 mph (6 kph)",
+            "Travel Speed 2": "12.4 mph (19 kph)"
+        },
+        "Weights": {
+            "Operating Weight": "12412 lbs (5,630 kg)",
+            "Operational Weight": "12412 lbs (5,630 kg)"
+        }
+    }
+}

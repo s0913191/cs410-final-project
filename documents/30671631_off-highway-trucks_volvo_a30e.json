@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/volvo/a30e/30671631",
+    "source_url_id": "30671631",
+    "source_url_model": "a30e",
+    "source_url_make": "volvo",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:34:44.057229",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Volvo",
+    "equipment_model": "A30E",
+    "equipment_spec": {
+        "Articulating/Rigid": {
+            "Articulating/Rigid": "Articulated"
+        },
+        "Dimensions": {
+            "Dump Ground Clearance": "2.3 ft (1 m)",
+            "Dump Height": "21.6 ft (6 m)",
+            "Ground Clearance": "2.2 ft (1 m)",
+            "Overall Height": "10.9 ft (3 m)",
+            "Overall Length": "33.8 ft (10 m)",
+            "Overall Width": "9.5 ft (3 m)",
+            "Wheelbase": "13.7 ft (4 m)"
+        },
+        "DRIVE SYSTEM": {
+            "Drive Config": "6X6"
+        },
+        "Dump": {
+            "Capacity - Heaped": "22.9 cu yds (17 m)",
+            "Capacity - Struck": "17.8 cu yds (13 m)",
+            "Dump Angle": "70  \t\u00b0",
+            "Lower Time": "9 sec",
+            "Raise Time": "12 sec",
+            "Rated Payload": "61729 lbs (28,000 kg)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and Intercooled",
+            "Displacement": "574 cu in (0 m)",
+            "Engine Model": "D9B ACE3",
+            "Gross Power": "338 hp (252 kw)",
+            "Make": "Volvo",
+            "Max Torque": "1254 lbs/ft",
+            "Model": "D9BBADE3",
+            "Net Power": "336 hp (251 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "80  A",
+            "Cooling System Fluid Capacity": "30.4 gal (114 l)",
+            "Engine Oil Capacity": "10.6 gal (38 l)",
+            "Fuel Capacity": "106 gal (401 l)",
+            "Hydraulic System Fluid Capacity": "46 gal (174 l)",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "750/65R25",
+            "Transmission Fluid Capacity": "11 gal (42 l)"
+        },
+        "Transmission": {
+            "Max Speed": "32.9 mph (51 kph)",
+            "Number of Forward Gears": "6",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "PT 1562"
+        },
+        "Weights": {
+            "Front Axle - empty": "27557 lbs (12,500 kg)",
+            "Front Axle - loaded": "33047 lbs (14,990 kg)",
+            "Operating Weight": "50838 lbs (23,060 kg)",
+            "Rear Axle - empty": "23280 lbs (10,560 kg)",
+            "Rear Axle - loaded": "79520 lbs (36,070 kg)",
+            "Total Empty": "50383 lbs (22,854 kg)",
+            "Total Loaded": "112568 lbs (51,061 kg)"
+        }
+    }
+}

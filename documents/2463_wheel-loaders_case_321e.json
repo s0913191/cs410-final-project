@@ -1,0 +1,74 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/321e/2463",
+    "source_url_id": "2463",
+    "source_url_model": "321e",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:02.207518",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "321E",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "11241 lbs (5,099 kg)",
+            "Bucket Capacity - heaped": "1.5 cu yds (1 m)",
+            "Bucket Capacity - struck": "1.2 cu yds (1 m)",
+            "Bucket Width": "6.9 ft (2 m)",
+            "Dump Clearance at Max Raise": "8.7 ft (2 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Hinge Pin - Max Height": "11.4 ft (3 m)",
+            "Length with Bucket on Ground": "18.9 ft (5 m)",
+            "Reach at Max Lift and Dump": "3 ft (1 m)",
+            "Wheelbase": "7.8 ft (2 m)",
+            "Width Over Tires": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "190 cu in (0 m)",
+            "Engine Model": "BF4M2011 tier 2 certified",
+            "Gross Power": "75 hp (56 kw)",
+            "Make": "Case",
+            "Model": "432T/M3 Tier 3",
+            "Net Power": "72 hp (54 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2300 rpm",
+            "Torque Measured @": "1600 rpm",
+            "Torque Rise": "9%"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1 sec",
+            "Lower Time": "3 sec",
+            "Pump Flow Capacity": "19.3 gal/min (72 l/min)",
+            "Pump Type": "open centered pressure/flow compensated",
+            "Raise Time": "6 sec",
+            "Relief Valve Setting": "3626 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Engine Oil Fluid Capacity": "2.7 gal (8 l)",
+            "Front Axle/Diff Fluid Capacity": "2.2 gal (8 l)",
+            "Fuel Capacity": "26.4 gal (98 l)",
+            "Hydraulic System Fluid Capacity": "19.5 gal (72 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "12676 lbs (5,750 kg)",
+            "Rated Bucket Capacity": "1.44 cu yds (1 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "2.2 gal (8 l)",
+            "Static Tipping Weight": "9744 lbs (4,420 kg)",
+            "Tire Size": "405/70 R20",
+            "Turning Radius": "13.6 ft (4 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.4 mph (19 kph)",
+            "Max Speed - Reverse": "12.4 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Weights": {
+            "Operational Weight": "12676 lbs (5,750 kg)"
+        }
+    }
+}

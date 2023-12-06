@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/bx25d/30840434",
+    "source_url_id": "30840434",
+    "source_url_model": "bx25d",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:26:52.164031",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "BX25D",
+    "equipment_spec": {
+        "Backhoe": {
+            "Bucket Dig Force": "1936 lbs (878 kg)",
+            "Dig Depth": "6.1 ft (2 m)",
+            "Load Height": "5.1 ft (2 m)",
+            "Reach From Swivel": "2.4 ft (1 m)"
+        },
+        "Dimensions": {
+            "Front Wheel Tread Width": "36.7 in (91 cm)",
+            "Ground Clearance": "0.8 ft (0 m)",
+            "Height to Top of Suspended Cab": "7.3 ft (2 m)",
+            "Rear Tread Range": "32.3 in (81 cm)",
+            "Transport Length": "8 ft (2 m)",
+            "Transport Width": "3.8 ft (1 m)",
+            "Wheelbase": "4.6 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "54.8 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "D902",
+            "Gross Power": "23 hp (17 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "3200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "6.2 gal/min (23 l/min)"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "991407.4 lbs (449,699 kg)",
+            "Bucket Width": "48 in (122 cm)",
+            "Clearance at Max Dump Height": "4.4 ft (1 m)",
+            "Dig Depth": "4.8 in (10 cm)",
+            "Reach at Max Dump Height": "2.2 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "6.6 gal (23 l)",
+            "Max Weight": "1587.4 lbs (720 kg)",
+            "Tire Size Front - 2wd / 4wd": "18\u00c3?8.5\u00e2??10"
+        },
+        "Tires": {
+            "Rear Tires Size": "26\u00c3?12\u00e2??12"
+        },
+        "Transmission": {
+            "Max Speed": "8.4 mph (13 kph)",
+            "Max Speed - Reverse": "6.6 mph (10 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "HST, High-Low gear shift"
+        }
+    }
+}

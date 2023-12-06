@@ -1,0 +1,65 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/log-loaders/doosan/dx380ll-5/30756009",
+    "source_url_id": "30756009",
+    "source_url_model": "dx380ll-5",
+    "source_url_make": "doosan",
+    "source_url_category": "log-loaders",
+    "source_date_scraped": "2023-09-13 17:50:59.693879",
+    "equipment_category": "Log Loaders",
+    "equipment_make": "Doosan",
+    "equipment_model": "DX380LL-5",
+    "equipment_spec": {
+        "Boom/Stick Log Loader Option 1": {
+            "Boom/Stick Option (LGL) 1": "Boom - 23 ft 4 in / Arm 15 ft 7 in",
+            "Max Depth Below Ground": "13.7 ft (4 m)",
+            "Max Height": "49.2 ft (15 m)",
+            "Max Reach at Ground Level": "43346.5 ft (13,212 m)",
+            "Shipping Height": "11.6 ft (3 m)",
+            "Shipping Length": "55 ft (17 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "2.5 ft (1 m)",
+            "Height - Top of Cab": "15.7 ft (5 m)",
+            "Length of Track on Ground": "55 ft (17 m)",
+            "Overall Width": "12 ft (4 m)",
+            "Tail Swing Radius": "11.6 ft (3 m)"
+        },
+        "Engine": {
+            "Air cleaner": "Double Elements",
+            "Alternator": "100 A",
+            "Battery": "12 V",
+            "Bore": "5.2 in (13 cm)",
+            "Displacement": "568 cu in (0 m)",
+            "Engine Model": "DC09",
+            "Gross horsepower": "318 hp (237 kw)",
+            "Net Power": "313 hp (233 kw)",
+            "Net Torque": "976 lbs/ft",
+            "Number of Cylinders": "5",
+            "Power Measured @": "1800 rpm",
+            "Starter": "8 hp (6 kw)",
+            "Stroke": "5.6 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "190.2 gal/min (719 l/min)",
+            "Relief Valve Pressure": "5511 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "14.2 gal (53 l)",
+            "DEF tank capacity": "18.5 gal (68 l)",
+            "Engine Oil Capacity": "9.6 gal (34 l)",
+            "Fuel Capacity": "158.6 gal (598 l)",
+            "Hydraulic System Fluid Capacity": "118.9 gal (447 l)",
+            "Operating Weight": "113538.1 lbs (51,501 kg)",
+            "Swing Drive Fluid Capacity": "2.2 gal (8 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "7.7 rpm",
+            "Swing Torque": "129876 lbs/ft"
+        },
+        "Undercarriage": {
+            "Counterweight, Standard": "18739.3 lbs (8,500 kg)",
+            "Ground Pressure": "13 psi",
+            "Rollers And Idlers": "2"
+        }
+    }
+}

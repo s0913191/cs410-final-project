@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/processors-harvesters/wacker-neuson/mht-18002hvt/30755965",
+    "source_url_id": "30755965",
+    "source_url_model": "mht-18002hvt",
+    "source_url_make": "wacker-neuson",
+    "source_url_category": "processors-harvesters",
+    "source_date_scraped": "2023-09-13 17:51:23.866047",
+    "equipment_category": "Processors / Harvesters",
+    "equipment_make": "Wacker Neuson",
+    "equipment_model": "mht 18002HVT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "11.5 ft (3 m)",
+            "Overall Width": "8.4 ft (2 m)",
+            "Shipping Length - non tilt": "27 ft (8 m)"
+        },
+        "Engine": {
+            "Engine Model": "e 6068TF275",
+            "Net Power": "167 hp (125 kw)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "140  A",
+            "Fuel Capacity": "105.7 gal (397 l)",
+            "Hydraulic System Fluid Capacity": "58.2 gal (220 l)",
+            "Max Speed": "2 mph (3 kph)",
+            "Operating Voltage": "24 V V"
+        },
+        "Undercarriage": {
+            "Ground Clearance": "2 ft (1 m)",
+            "Ground Pressure": "6 psi"
+        }
+    }
+}

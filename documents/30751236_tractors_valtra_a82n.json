@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/valtra/a82n/30751236",
+    "source_url_id": "30751236",
+    "source_url_model": "a82n",
+    "source_url_make": "valtra",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:38:06.500321",
+    "equipment_category": "Tractors",
+    "equipment_make": "Valtra",
+    "equipment_model": "A82n",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.4 in (46 cm)",
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.9 ft (2 m)",
+            "Overall Length": "13.5 in (33 cm)",
+            "Overall Width": "7.2 ft (2 m)",
+            "Tire Size": "Front 14.9R24, Rear 18.4R34",
+            "Wheelbase": "7.4 ft (2 m)",
+            "Width Outside Frame": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Model": "44DTA",
+            "Gross Power": "88 hp (66 kw)",
+            "Max Torque": "239 lbs/ft",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2270 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "14.6 gal/min (53 l/min)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "7606 lbs (3,450 kg)",
+            "Tire Size Front - 2wd / 4wd": "11.0-16"
+        },
+        "Tires": {
+            "Rear Tires Size": "18.4R34"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "12",
+            "Transmission Type": "Fully Synchronized"
+        }
+    }
+}

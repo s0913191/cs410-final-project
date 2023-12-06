@@ -1,0 +1,17 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/terex/cc-8800-1-twin/30760269",
+    "source_url_id": "30760269",
+    "source_url_model": "cc-8800-1-twin",
+    "source_url_make": "terex",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:07.445621",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Terex",
+    "equipment_model": "CC 8800-1 TWIN",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "766 ft (233 m)",
+            "Max Lift Capacity": "3527 t (3,199,642 kg)"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/750/30710238",
+    "source_url_id": "30710238",
+    "source_url_model": "750",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:46:04.764426",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "750",
+    "equipment_spec": {
+        "Dimensions": {
+            "Width Over Tracks": "10 ft in (25 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "414 cu in (0 m)",
+            "Engine Model": "300 Series",
+            "Max Torque": "345 lbs/ft",
+            "Net Power": "110 hp (82 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "38 gal/min (144 l/min)",
+            "Pump type": "Gear",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "7 gal (27 l)",
+            "Engine Oil Capacity": "5 gal (19 l)",
+            "Final Drives Fluid Capacity": "8.5 gal (30 l)",
+            "Fuel Capacity": "73 gal (276 l)",
+            "Hydraulic Fluid Capacity": "33 gal (125 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "29300 lbs (13,290 kg)"
+        },
+        "Transmission": {
+            "Transmission Type": "Hydrostatic: variable speed"
+        }
+    }
+}

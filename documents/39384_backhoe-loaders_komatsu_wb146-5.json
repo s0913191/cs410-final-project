@@ -1,0 +1,78 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/komatsu/wb146-5/39384",
+    "source_url_id": "39384",
+    "source_url_model": "wb146-5",
+    "source_url_make": "komatsu",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:36:45.064449",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Komatsu",
+    "equipment_model": "WB146-5",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "14.6 ft (4 m)",
+            "Dig Depth - Extended": "18.2 ft (5 m)",
+            "Load Height": "12.1 ft (4 m)",
+            "Load Height - Extended": "14.4 ft (4 m)",
+            "Reach From Swivel": "18.9 ft (5 m)",
+            "Reach From Swivel - Extended": "22.2 ft (7 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.7 ft (3 m)",
+            "Transport Length": "24.4 ft (7 m)",
+            "Transport Width": "7.8 ft (2 m)",
+            "Wheelbase": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "275 cu in (0 m)",
+            "Engine Model": "S4D102LE-2",
+            "Gross Power": "92.6 hp (69 kw)",
+            "Net Max Torque": "300 lbs/ft",
+            "Net Power": "88.6 hp (66 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "43.6 gal/min (163 l/min)",
+            "Pump Type": "variable displacement piston",
+            "Relief Valve Pressure": "3553 psi"
+        },
+        "Loader": {
+            "Bucket Breakout Force": "13224 lbs (5,998 kg)",
+            "Bucket Capacity": "1.3 cu yds (1 m)",
+            "Bucket Width": "92.8 in (234 cm)",
+            "Clearance at Max Dump Height": "8.7 ft (2 m)",
+            "Dig Depth": "5.5 in (13 cm)",
+            "Lift Capacity": "1834.3 lbs (832 kg)",
+            "Reach at Max Dump Height": "2.5 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "95  A",
+            "Cooling System Fluid Capacity": "3.7 gal (11 l)",
+            "Front Axle Fluid Capacity": "1.9 gal (4 l)",
+            "Fuel Capacity": "39.7 gal (148 l)",
+            "Hydraulic System Fluid Capacity": "25.7 gal (95 l)",
+            "Oil System Fluid Capacity": "2.4 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 2wd": "16093.8 lbs (7,300 kg)",
+            "Operating Weight 4wd": "16093.8 lbs (7,300 kg)",
+            "Rear Axle Fluid Capacity": "3.9 gal (11 l)",
+            "Tire Size Front - 2wd / 4wd": "14 x 17.5 10ply R4",
+            "Transmission Fluid Capacity": "5.4 gal (19 l)",
+            "Turning Radius": "11.2 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "19.5 x 24 10ply R4"
+        },
+        "Transmission": {
+            "Max Speed": "23.5 mph (37 kph)",
+            "Max Speed - Reverse": "23.5 mph (37 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "synchronized gearbox, powershift shuttle"
+        }
+    }
+}

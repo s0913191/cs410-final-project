@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/grove/tm9100/67321",
+    "source_url_id": "67321",
+    "source_url_model": "tm9100",
+    "source_url_make": "grove",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:49:36.975704",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "TM9100",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "81.5  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "147.6 ft (45 m)",
+            "Max Lift Capacity": "200000 lbs (90,719 kg)",
+            "Max Working Radius": "130 ft (40 m)",
+            "Min Height @ Max Raise Angle": "39.6 ft (12 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.4 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "659.1 cu in (0 m)",
+            "Gross Power": "400 hp (298 kw)",
+            "Make": "Grove",
+            "Max Torque": "1450 lbs/ft",
+            "Model": "M11-400E Plus",
+            "Net Power": "375 hp (280 kw)",
+            "Number of cylinders": "6",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "39.1 ft (12 m)",
+            "Ground Clearance": "1 ft (0 m)",
+            "Transport Height": "12.5 ft (4 m)",
+            "Transport Length": "46.9 ft (14 m)",
+            "Transport Width": "11 ft (3 m)",
+            "Upper Structure Tail Swing Radius": "16 ft (5 m)",
+            "Width w/ Outriggers Extended": "25 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "100 gal (379 l)",
+            "Number of Axels": "4",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "137159 lbs (62,215 kg)",
+            "Tire Size": "front 445/65R22.5 rear 14.00R20",
+            "Upper Structure Fuel Capacity": "70 gal (265 l)",
+            "Upper Structure Hydraulic System Fluid Capacity": "274 gal (1,037 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "54.7 mph (87 kph)",
+            "Number of Forward Gears": "10",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Eaton Fuller RTX-14710C"
+        },
+        "UPPER STRUCTURE ENGINE": {
+            "Displacement": "696 cu in (0 m)",
+            "Gross Power": "250 hp (186 kw)",
+            "Make": "Grove",
+            "Max Torque": "716 lbs/ft",
+            "Model": "6CTA8.3",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1500 rpm"
+        }
+    }
+}

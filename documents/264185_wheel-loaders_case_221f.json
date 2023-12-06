@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/case/221f/264185",
+    "source_url_id": "264185",
+    "source_url_model": "221f",
+    "source_url_make": "case",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:42:00.521675",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "221F",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "8.3 ft (2 m)"
+        },
+        "Dimensions": {
+            "Angle of departure": "27  \t\u00b0",
+            "Ground Clearance": "1.5 ft (0 m)",
+            "Height - Top of Cab": "8.7 ft (2 m)",
+            "Hinge Pin - Max Height": "10.8 ft (3 m)",
+            "Length with Bucket on Ground": "19.3 ft (6 m)",
+            "Reach at Max Lift and Dump": "3.4 ft (1 m)",
+            "Wheelbase": "7.3 ft (2 m)",
+            "Width Over Tires": "6.2 ft (2 m)"
+        },
+        "Electrical System": {
+            "Alternator": "120",
+            "Batteries": "95 AHR, 900 CCA",
+            "Voltage": "12 V"
+        },
+        "Engine": {
+            "Make": "Case",
+            "Net Power": "70 hp (52 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "22.5 gal/min (83 l/min)",
+            "Pump Type": "Gear",
+            "Standard pressure": "3626 psi"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "1.73 cu yds (1 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "11.4 mph (18 kph)",
+            "Max Speed - Reverse": "11.4 mph (18 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "Hydrostatic transmission"
+        },
+        "Weights": {
+            "Operational Weight": "12500 lbs (5,670 kg)"
+        }
+    }
+}

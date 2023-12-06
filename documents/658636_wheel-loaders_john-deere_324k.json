@@ -1,0 +1,67 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/john-deere/324k/658636",
+    "source_url_id": "658636",
+    "source_url_model": "324k",
+    "source_url_make": "john-deere",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:48:01.828358",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "324K",
+    "equipment_spec": {
+        "Brakes": {
+            "Actuation": "Hydraulic",
+            "Brakes Type": "Wet Disc / Drum",
+            "Parking brake": "Wet Disc",
+            "Service brake": "All Wheels"
+        },
+        "Bucket": {
+            "Breakout Force": "12364 lbs (5,608 kg)",
+            "Bucket Capacity - Smallest": "1.5 cu yds (1 m)",
+            "Dump Clearance at Max Raise": "8.8 ft (2 m)",
+            "Largest bucket capacity": "2.1 cu yds (2 m)"
+        },
+        "Capacities": {
+            "Heaped Capacity": "1.5 cu yds (1 m)",
+            "Hydraulic Tank": "21.2 gal (79 l)",
+            "Transmission": "0.3 gal (0 l)"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "9.2 ft (3 m)",
+            "Turning Circle": "27.5 ft (8 m)",
+            "Wheelbase": "7.6 ft (2 m)",
+            "Width Over Tires": "7 ft (2 m)"
+        },
+        "Engine": {
+            "Alternator": "80 A",
+            "Displacement": "201.4 cu in (0 m)",
+            "Emission level": "Tier 4",
+            "Engine Make": "YANMAR",
+            "Engine Model": "4TNC98CT",
+            "Engine Output-Net": "70 hp (52 kw)",
+            "Make": "YANMAR",
+            "Model": "4TNC98CT",
+            "Net Power": "61 hp (45 kw)",
+            "Pump": "Gear",
+            "Rated Speed": "2400 rpm",
+            "System Voltage": "12 V",
+            "Torque": "206 lbs/ft",
+            "Transmission Type": "Hydrostatic"
+        },
+        "Operating Specifications": {
+            "Front Axle/Diff Fluid Capacity": "2 gal (8 l)",
+            "Fuel Capacity": "21.4 gal (79 l)",
+            "Operating Weight": "14087.6 lbs (6,390 kg)",
+            "Rated Bucket Capacity": "1.4 cu yds (1 m)",
+            "Rear Axle/Diff Fluid Capacity": "1.8 gal (4 l)",
+            "Tire Size": "405 / 70 R20"
+        },
+        "Transmission": {
+            "Pump Flow": "24.6 gal/min (91 l/min)",
+            "System Pressure": "2750 psi"
+        },
+        "Weights": {
+            "Operational Weight": "14087 lbs (6,390 kg)"
+        }
+    }
+}

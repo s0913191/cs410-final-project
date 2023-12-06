@@ -1,0 +1,39 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/combines/yanmar/aw465k-c/30752583",
+    "source_url_id": "30752583",
+    "source_url_model": "aw465k-c",
+    "source_url_make": "yanmar",
+    "source_url_category": "combines",
+    "source_date_scraped": "2023-09-13 17:03:56.888498",
+    "equipment_category": "Combines",
+    "equipment_make": "Yanmar",
+    "equipment_model": "AW465K (C)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Isomount Cab": "8.9 ft (2 m)",
+            "Overall Length": "14.5 ft (4 m)",
+            "Width Over Tires": "6.6 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "202.5 cu in (0 m)",
+            "Engine Model": "4TNV98",
+            "Power": "65.8 hp (48 kw)",
+            "Power Measured @": "2500 rpm"
+        },
+        "Grain Handling": {
+            "Grain Tank Capacity": "36.9 bu",
+            "Unloading Auger Length": "13.4 ft (4 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17.2 gal (64 l)",
+            "Operating Weight w/o Attachment": "7500.2 lbs (3,402 kg)",
+            "Transmission Type": "Hydrostatic Transmission"
+        },
+        "Threshing": {
+            "Rotor Diameter": "7.5 in (18 cm)",
+            "Rotor Length": "9.1 in (23 cm)",
+            "Rotor Speed - High": "1450 rpm",
+            "Rotor Speed - Low": "1450 rpm"
+        }
+    }
+}

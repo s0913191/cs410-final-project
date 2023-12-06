@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cc4200/30682905",
+    "source_url_id": "30682905",
+    "source_url_model": "cc4200",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:23.738275",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CC4200",
+    "equipment_spec": {
+        "Dimensions": {
+            "Curb clearance": "34.1 in (86 cm)",
+            "Gradeability": "45%",
+            "Ground Clearance": "12.3 in (30 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "196.5 in (498 cm)",
+            "Overall Width": "6.2 ft (2 m)",
+            "Turning Radius - Outside": "19.6 ft (6 m)",
+            "Wheelbase": "145.3 in (368 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "31248.5 lbs (14,174 kg)",
+            "Centrifugal Force - Low": "20682.5 lbs (9,381 kg)",
+            "Drum Diameter": "51.2 in (130 cm)",
+            "Drum thickness": "0.8 in (0 cm)",
+            "Drum Width": "68.2 in (173 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Nominal Amplitude - Low": "0.1 in (0 cm)",
+            "Static Linear Load": "165.2 lbs/in",
+            "Vibration Frequency 1": "51 hz (3,060 vpm)",
+            "Vibration Frequency 2": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB 4.5 IIIB",
+            "Engine Type": "Water cooled turbo Diesel",
+            "Gross Power": "130.1 hp (97 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "63.5 gal (238 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Weight": "25022.5 lbs (11,350 kg)",
+            "Operating weight ROPS": "22487.2 lbs (10,200 kg)",
+            "Oscillating angle": "7  \t\u00b0",
+            "Steering Angle": "32  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "237.8 gal (897 l)"
+        }
+    }
+}

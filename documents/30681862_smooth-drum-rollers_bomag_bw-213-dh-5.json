@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/bomag/bw-213-dh-5/30681862",
+    "source_url_id": "30681862",
+    "source_url_model": "bw-213-dh-5",
+    "source_url_make": "bomag",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:41:19.253151",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Bomag",
+    "equipment_model": "BW 213 DH-5",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Hydromec",
+            "Service brake": "Hydrostatic"
+        },
+        "Dimensions": {
+            "Ground Clearance": "19.3 in (48 cm)",
+            "Height - Top of Cab": "9.9 ft (3 m)",
+            "Overall Length": "231.1 in (587 cm)",
+            "Overall Width": "7 ft (2 m)",
+            "Wheelbase": "89.4 in (226 cm)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "44063 lbs (19,987 kg)",
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum Width": "83.9 in (211 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Static Linear Load": "198.8 lbs/in",
+            "Vibration Frequency 1": "30 hz (1,800 vpm)",
+            "Vibration Frequency 2": "34 hz (2,040 vpm)"
+        },
+        "Engine": {
+            "Aspiration": "Tier 4",
+            "Cooling method": "Liquid",
+            "Emissions level": "Stage 4",
+            "Engine Make": "Deutz",
+            "Engine Model": "TCD 4.1",
+            "Fuel": "Diesel",
+            "Gross Power": "154.2 hp (115 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "66 gal (250 l)",
+            "Max Speed": "7.5 mph (11 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "28043 lbs (12,720 kg)"
+        },
+        "Steering System": {
+            "Oscillating angle": "12  \t\u00b0",
+            "Steering angle": "35  \t\u00b0",
+            "Steering Method": "Hydrostatic",
+            "System": "Oscillatory Articulation"
+        },
+        "Tires": {
+            "Tires": "23.1-26 12PR"
+        },
+        "Weights": {
+            "Grossweight": "34547 lbs (15,670 kg)",
+            "Loaded Weight": "16667 lbs (7,560 kg)"
+        }
+    }
+}

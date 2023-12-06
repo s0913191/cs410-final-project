@@ -1,0 +1,53 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/haulmax/3900d/30750509",
+    "source_url_id": "30750509",
+    "source_url_model": "3900d",
+    "source_url_make": "haulmax",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:24:22.478954",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Haulmax",
+    "equipment_model": "3900D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Dump Ground Clearance": "2.3 ft (1 m)",
+            "Dump Height": "31.4 ft (9 m)",
+            "Ground Clearance": "2.1 ft (1 m)",
+            "Overall Height": "14.3 ft (4 m)",
+            "Overall Length": "48 ft (15 m)",
+            "Overall Width": "13.8 ft (4 m)",
+            "Wheelbase": "25.8 ft (8 m)"
+        },
+        "Dump": {
+            "Capacity - Heaped": "65 cu yds (50 m)",
+            "Dump Angle": "55  \t\u00b0",
+            "Lower Time": "15 sec",
+            "Raise Time": "16 sec",
+            "Rated Payload": "207234.6 lbs (94,001 kg)"
+        },
+        "Engine": {
+            "Displacement": "1647.7 cu in (0 m)",
+            "Engine Model": "C27 Acert",
+            "Gross Power": "787 hp (587 kw)",
+            "Net Power": "740 hp (552 kw)",
+            "Number of Cylinders": "12",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "46.3 gal (174 l)",
+            "Engine Oil Capacity": "25.1 gal (95 l)",
+            "Fuel Capacity": "264.2 gal (999 l)",
+            "Hydraulic System Fluid Capacity": "118.9 gal (447 l)",
+            "Tire Size": "21.00xR35",
+            "Transmission Fluid Capacity": "19.1 gal (72 l)"
+        },
+        "Transmission": {
+            "Max Speed": "46.8 mph (74 kph)",
+            "Number of Forward Gears": "7",
+            "Number of Reverse Gears": "1"
+        },
+        "Weights": {
+            "Total Loaded": "297624.1 lbs (135,001 kg)"
+        }
+    }
+}

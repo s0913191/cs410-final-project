@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/john-deere/450d/2375141",
+    "source_url_id": "2375141",
+    "source_url_model": "450d",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:45:38.969512",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "John Deere",
+    "equipment_model": "450D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Width Over Tracks": "7.5 ft in (18 cm)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "219 cu in (0 m)",
+            "Engine Model": "300 Series",
+            "Max Torque": "190 lbs/ft",
+            "Net Power": "67 hp (50 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.1 gal/min (64 l/min)",
+            "Pump type": "Open Center",
+            "Relief Valve Pressure": "2000 psi"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Engine Oil Capacity": "2.3 gal (8 l)",
+            "Final Drives Fluid Capacity": "1.6 gal (4 l)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Hydraulic Fluid Capacity": "7 gal (27 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "14400 lbs (6,532 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "HLR:4 speed ranges with high, low and reverse"
+        }
+    }
+}

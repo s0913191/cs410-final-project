@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/yanmar/vio45-5b/37684",
+    "source_url_id": "37684",
+    "source_url_model": "vio45-5b",
+    "source_url_make": "yanmar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:51.439219",
+    "equipment_category": "Excavators",
+    "equipment_make": "Yanmar",
+    "equipment_model": "VIO45-5B",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "19.6 ft (6 m)",
+            "Max Digging Depth": "12.1 ft (4 m)",
+            "Max Loading Height": "12.9 ft (4 m)",
+            "Max Reach Along Ground": "19.1 ft (6 m)",
+            "Max Vertical Wall Digging Depth": "8.9 ft (2 m)",
+            "Shipping Height of Unit": "8.6 ft (2 m)",
+            "Shipping Length of Unit": "17.3 ft (5 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.2 ft (0 m)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Tail Swing Radius": "3.2 ft (1 m)",
+            "Width to Outside of Tracks": "6.4 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "4TNV88",
+            "Net Power": "39.5 hp (29 kw)",
+            "Power Measured @": "2400 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17 gal (64 l)",
+            "Hydraulic Pump Flow Capacity": "19.8 gal/min (72 l/min)",
+            "Hydraulic System Relief Valve Pressure": "3133 psi",
+            "Operating Weight": "10560.2 lbs (4,790 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.4 psi",
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Shoe Size": "13.8 in (33 cm)"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/l47/30770279",
+    "source_url_id": "30770279",
+    "source_url_model": "l47",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:30:33.429362",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "L47",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "10.1 ft (3 m)",
+            "Load Height": "7.8 ft (2 m)",
+            "Reach From Swivel": "13.5 ft (4 m)"
+        },
+        "Dimensions": {
+            "Front Tread Range": "45.9 in (114 cm)",
+            "Rear Tread Range": "56.2 in (142 cm)",
+            "Wheelbase": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "148.5 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Type": "Diesel",
+            "Gross Power": "47.1 hp (35 kw)",
+            "Net Power": "44.7 hp (33 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2700 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "25 gal/min (95 l/min)"
+        },
+        "Loader": {
+            "Clearance at Max Dump Height": "7.6 ft (2 m)",
+            "Reach at Max Dump Height": "1.4 ft (0 m)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "17.7 gal (64 l)",
+            "Operating Weight 4wd": "7204.8 lbs (3,268 kg)",
+            "Tire Size Front - 2wd / 4wd": "27 x 10.5\u00e2??15R4",
+            "Turning Radius": "9.2 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "15\u00e2??19.5R4"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "6",
+            "Transmission Type": "Hydrostatic, HST-PLUS"
+        }
+    }
+}

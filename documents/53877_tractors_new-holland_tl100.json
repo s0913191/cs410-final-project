@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/new-holland/tl100/53877",
+    "source_url_id": "53877",
+    "source_url_model": "tl100",
+    "source_url_make": "new-holland",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:37:29.619186",
+    "equipment_category": "Tractors",
+    "equipment_make": "New Holland",
+    "equipment_model": "TL100",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "95 hp (71 kw)"
+        },
+        "Production": {
+            "Series": "TL Series",
+            "Years Manufactured": "1999 - 2004"
+        }
+    }
+}

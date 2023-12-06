@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/grove/at635e/30862472",
+    "source_url_id": "30862472",
+    "source_url_model": "at635e",
+    "source_url_make": "grove",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:22.284266",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Grove",
+    "equipment_model": "AT635E",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "90.1 ft (27 m)",
+            "Min Height @ Max Raise Angle": "28 ft (9 m)",
+            "Number of Sections": "4",
+            "Swing Speed": "2.5 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "506.5 cu in (0 m)",
+            "Gross Power": "240.1 hp (179 kw)",
+            "Make": "Grove",
+            "Max Torque": "701.5 lbs/ft",
+            "Model": "C8.3-240",
+            "Power Measured @": "2200 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "26.2 ft (8 m)",
+            "Transport Height": "11 ft (3 m)",
+            "Transport Length": "31.6 ft (9 m)",
+            "Transport Width": "8.3 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "10.6 ft (3 m)",
+            "Width w/ Outriggers Extended": "19.7 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Fuel Capacity": "52.9 gal (197 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "52911 lbs (24,000 kg)",
+            "Tire Size": "14.00R25"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "46.7 mph (74 kph)",
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "8"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-cranes/tadano/10010mx/30758408",
+    "source_url_id": "30758408",
+    "source_url_model": "10010mx",
+    "source_url_make": "tadano",
+    "source_url_category": "crawler-cranes",
+    "source_date_scraped": "2023-09-13 17:48:02.406343",
+    "equipment_category": "Crawler Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "10010MX",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "78  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "111.6 ft (34 m)",
+            "Max Lift Capacity": "100000 lbs (45,360 kg)",
+            "Min Height @ Max Raise Angle": "37.5 ft (11 m)",
+            "Swing Speed": "2.2 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Tail Swing Radius": "13.7 ft (4 m)",
+            "Transport Height": "10.1 ft (3 m)",
+            "Transport Length": "47.4 ft (14 m)",
+            "Transport Width": "12.1 ft (4 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and Aftercooled",
+            "Bore": "4.3 in (10 cm)",
+            "Displacement": "408.9 cu in (0 m)",
+            "Engine Make": "Cummins",
+            "Engine Model": "QSB6.7",
+            "Gross Power": "260.2 hp (194 kw)",
+            "Max Torque": "728 lbs/ft",
+            "Number of Cylinders": "6",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "4.9 in (10 cm)",
+            "Torque Measured @": "1500 rpm"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "130  A",
+            "Fuel Capacity": "99.9 gal (375 l)",
+            "Hydraulic System Fluid Capacity": "150.1 gal (568 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "103639.4 lbs (47,010 kg)"
+        },
+        "Transmission": {
+            "Max Speed": "1.4 mph (2 kph)"
+        },
+        "Undercarriage": {
+            "Number of Track Rollers per Side": "15",
+            "Width of Shoes": "35.5 in (89 cm)"
+        }
+    }
+}

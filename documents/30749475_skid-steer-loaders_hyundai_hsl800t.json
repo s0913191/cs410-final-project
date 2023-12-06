@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/hyundai/hsl800t/30749475",
+    "source_url_id": "30749475",
+    "source_url_model": "hsl800t",
+    "source_url_make": "hyundai",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:38:19.139621",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Hyundai",
+    "equipment_model": "HSL800T",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "9.3 ft (3 m)",
+            "Ground Clearance": "8.8 in (20 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length w/o Bucket": "9.2 ft (3 m)",
+            "Length with Bucket": "11.7 ft (3 m)",
+            "Reach at Max Lift and Dump": "29.5 in (74 cm)",
+            "Turning Radius from Center - inc bucket": "82.6 in (208 cm)",
+            "Turning Radius from Center - machine rear": "65.6 in (165 cm)",
+            "Wheelbase": "3.3 ft (1 m)",
+            "Width Over Tires": "5.7 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V2003T",
+            "Gross Power": "56 hp (42 kw)",
+            "Power Measured @": "2800 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "16.6 gal/min (61 l/min)",
+            "Relief Valve Pressure": "2400 psi"
+        },
+        "Loader": {
+            "Operating Load Rating": "1750.5 lbs (794 kg)",
+            "Tipping Angle": "3496.6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "19.3 gal (72 l)",
+            "Hydraulic System Fluid Capacity": "14.8 gal (53 l)",
+            "Max Speed": "7.8 mph (11 kph)",
+            "Operational Weight": "6999.7 lbs (3,175 kg)",
+            "Tire Size": "12.00X16.5"
+        }
+    }
+}

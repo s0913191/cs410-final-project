@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/330l/4455",
+    "source_url_id": "4455",
+    "source_url_model": "330l",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:56:47.956023",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "330L",
+    "equipment_spec": {
+        "Engine": {
+            "Engine Model": "3306",
+            "Net Power": "222 hp (166 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "59750 lbs (27,102 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.9 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.9 mph (3 kph)"
+        }
+    }
+}

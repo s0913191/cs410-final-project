@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d4k2/30750981",
+    "source_url_id": "30750981",
+    "source_url_model": "d4k2",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:42:24.017786",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D4K2",
+    "equipment_spec": {
+        "Engine": {
+            "Bore": "4.2 in (10 cm)",
+            "Displacement": "269 cu in (0 m)",
+            "Engine Model": "Cat C4.4 ACERT",
+            "Gross Power": "92 hp (69 kw)",
+            "Net Power": "92 hp (69 kw)",
+            "Power Measured @": "2200 rpm",
+            "Stroke": "5 in (13 cm)"
+        },
+        "Ripper": {
+            "Ripper Type": "Parallelogram"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "6 gal (23 l)",
+            "Fuel Tank": "51.5 gal (193 l)"
+        },
+        "Standards": {
+            "FOPS": "SAE J231-JAN81, ISO 3449-92",
+            "ROPS": "SAE J397-OCT95, SAE J1040-MAY94, ISO 3471-94, ISO 3164-95"
+        },
+        "Winch": {
+            "Drum Diameter": "10 in (25 cm)",
+            "Drum Width": "10.8 in (25 cm)",
+            "Weight": "1345 lbs (610 kg)"
+        }
+    }
+}

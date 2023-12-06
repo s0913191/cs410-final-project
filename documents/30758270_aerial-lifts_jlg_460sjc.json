@@ -1,0 +1,42 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/jlg/460sjc/30758270",
+    "source_url_id": "30758270",
+    "source_url_model": "460sjc",
+    "source_url_make": "jlg",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:29:53.381441",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "JLG",
+    "equipment_model": "460SJC",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Overall Height - mast lowered": "7.7 ft (2 m)",
+            "Overall Length": "29.3 in (74 cm)",
+            "Overall Width": "7.4 ft (2 m)",
+            "Tailswing Radius": "3.2 ft (1 m)",
+            "Track width": "1.4 ft (0 m)",
+            "Turning Radius": "3.2 ft (1 m)"
+        },
+        "Engine": {
+            "Diesel Engine Power": "49 hp (37 kw)",
+            "Diesel Engine Type": "Deutz D2.9L4 Tier 4 Final",
+            "Fuel Type": "Diesel",
+            "Maximum Ground Bearing Pressure": "8.4 psi",
+            "System Voltage": "12 V"
+        },
+        "Performance": {
+            "Drive Speed": "1.8 mph (2 kph)",
+            "Fuel Capacity": "31 gal (117 l)",
+            "Gradeability": "51%",
+            "Hydraulic System Fluid Capacity": "36 gal (136 l)",
+            "Operating Weight": "17998 lbs (8,164 kg)",
+            "Swing": "360  \t\u00b0"
+        },
+        "Platform": {
+            "Max Horizontal Reach": "39 ft (12 m)",
+            "Max Platform Height": "45.6 ft (14 m)",
+            "Platform Capacity - Unrestricted": "600 lbs (272 kg)"
+        }
+    }
+}

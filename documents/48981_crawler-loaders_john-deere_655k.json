@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-loaders/john-deere/655k/48981",
+    "source_url_id": "48981",
+    "source_url_model": "655k",
+    "source_url_make": "john-deere",
+    "source_url_category": "crawler-loaders",
+    "source_date_scraped": "2023-09-13 14:51:28.485152",
+    "equipment_category": "Crawler Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "655K",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "J. Deere PowerTech",
+            "Model": "PVX 6068",
+            "Net Power": "145 hp (108 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "40614 lbs (18,422 kg)"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/ingersoll-rand/dd10s/15554",
+    "source_url_id": "15554",
+    "source_url_model": "dd10s",
+    "source_url_make": "ingersoll-rand",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:43:36.001383",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Ingersoll Rand",
+    "equipment_model": "DD10S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "7.9 ft (2 m)",
+            "Overall Length": "7 in (18 cm)",
+            "Overall Width": "3.5 ft (1 m)"
+        },
+        "Drum": {
+            "Centrifugal Force - High": "4001.6 lbs (1,815 kg)",
+            "Drum Diameter": "22.1 in (56 cm)",
+            "Drum Width": "30 - 38 in (76 - 97 cm)",
+            "Nominal Amplitude - High": "0.1 in (0 cm)",
+            "Vibration Frequency": "3400 hz (204,000 vpm)",
+            "Vibration Frequency 1": "56.6 hz (3,360 vpm)"
+        },
+        "Engine": {
+            "Engine Model": "GX620",
+            "Gross Power": "20 hp (15 kw)",
+            "Make": "Honda"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "20  A",
+            "Fuel Capacity": "3 gal (11 l)",
+            "Hydraulic System Fluid Capacity": "7.1 gal (27 l)",
+            "Max Speed": "6.1 mph (10 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "2998.3 lbs (1,360 kg)",
+            "Operating Width": "42 in (107 cm)"
+        }
+    }
+}

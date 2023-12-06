@@ -1,0 +1,58 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/compact-track-loaders/gehl/rt210/47629",
+    "source_url_id": "47629",
+    "source_url_model": "rt210",
+    "source_url_make": "gehl",
+    "source_url_category": "compact-track-loaders",
+    "source_date_scraped": "2023-09-13 14:39:24.056160",
+    "equipment_category": "Compact Track Loaders",
+    "equipment_make": "Gehl",
+    "equipment_model": "RT210",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8 ft (2 m)",
+            "Ground Clearance": "13 in (33 cm)",
+            "Height - Top of Cab": "7 ft (2 m)",
+            "Length - with Bucket": "12.7 ft (4 m)",
+            "Length - without Bucket": "9.6 ft (3 m)",
+            "Reach at Max Lift and Dump": "1.2 ft (0 m)",
+            "Turning Radius from Center - inc bucket": "98.2 in (249 cm)",
+            "Turning Radius from Center - machine rear": "64.7 in (163 cm)",
+            "Width Over Tracks": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "203 cu in (0 m)",
+            "Engine Model": "4TNV98-XNMS",
+            "Net Power": "70.7 hp (52 kw)",
+            "Number of Cylinders": "4",
+            "Peak Torque": "206 lbs/ft",
+            "Power Measured @": "2500 rpm",
+            "Torque Measured @": "1600 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow": "21.8 gal/min (79 l/min)"
+        },
+        "Loader": {
+            "Bucket Width": "73.9 in (185 cm)",
+            "Operating Load": "2100 lbs (953 kg)",
+            "Tipping Angle": "6000  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "3.9 gal (11 l)",
+            "Fuel Capacity": "24.4 gal (91 l)",
+            "Hydraulic System Fluid Capacity": "13.8 gal (49 l)",
+            "Max Speed - high range": "7.9 mph (11 kph)",
+            "Max Speed - low range": "5.5 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "9890 lbs (4,486 kg)"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "4.7 psi",
+            "Length of Track on Ground": "4.9 ft (1 m)",
+            "Number of Track Rollers per Side": "4",
+            "Track Gauge": "4.4 ft (1 m)",
+            "Width of Track": "17.8 in (43 cm)"
+        }
+    }
+}

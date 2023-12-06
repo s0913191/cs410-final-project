@@ -1,0 +1,80 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/hitachi/zx220w-3/13404",
+    "source_url_id": "13404",
+    "source_url_model": "zx220w-3",
+    "source_url_make": "hitachi",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:01:14.619529",
+    "equipment_category": "Excavators",
+    "equipment_make": "Hitachi",
+    "equipment_model": "ZX220W-3",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "20.67 ft (6 m)",
+            "Max Reach Along Ground": "33.33 ft (10 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 1": {
+            "Max Cutting Height": "33.5 ft (10 m)",
+            "Max Digging Depth": "20.7 ft (6 m)",
+            "Max Loading Height": "24.2 ft (7 m)",
+            "Max Reach Along Ground": "32.7 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "18.4 ft (5 m)",
+            "Shipping Height of Unit": "10.5 ft (3 m)",
+            "Shipping Length of Unit": "31.9 ft (9 m)"
+        },
+        "Boom/Stick Mobile Excavator Option 2": {
+            "Max Cutting Height": "34.7 ft (10 m)",
+            "Max Digging Depth": "20 ft (6 m)",
+            "Max Loading Height": "25.1 ft (8 m)",
+            "Max Reach Along Ground": "32 ft (10 m)",
+            "Max Vertical Wall Dig Depth": "17.3 ft (5 m)",
+            "Shipping Height of Unit": "11.2 ft (3 m)",
+            "Shipping Length of Unit": "30.6 ft (9 m)"
+        },
+        "Bucket": {
+            "Reference Bucket Capacity": "1 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Digging Depth": "206.75 ft (63 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height - Top of Cab": "10.5 ft (3 m)",
+            "Overall Width": "8.2 in (20 cm)",
+            "Overall Width - Outriggers Down": "11.3 ft (3 m)",
+            "Tail Swing Radius": "9.1 ft (3 m)",
+            "Upper Structure Clearance": "4.1 ft (1 m)",
+            "Wheelbase": "9.1 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged and Aftercooled",
+            "Displacement": "317 cu in (0 m)",
+            "Engine Model": "4HK1X",
+            "Make": "Isuzu",
+            "Model": "4HK1X",
+            "Net Power": "159 hp (119 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "6.9 gal (23 l)",
+            "Engine Oil Capacity": "6.1 gal (23 l)",
+            "Front Diff Fluid Capacity": "2.6 gal (8 l)",
+            "Fuel Capacity": "93.8 gal (352 l)",
+            "Hydraulic Pump Flow Capacity": "100 gal/min (379 l/min)",
+            "Hydraulic Pump Type": "2x piston pumps",
+            "Hydraulic System Fluid Capacity": "89.9 gal (337 l)",
+            "Hydraulic System Relief Valve Pressure": "4975 psi",
+            "Operating Weight": "49888.5 lbs (22,629 kg)",
+            "Oscillating Axle Angle": "7  \t\u00b0",
+            "Rear Diff Fluid Capacity": "3.5 gal (11 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "12.2 rpm",
+            "Swing Torque": "43789.1 lbs/ft"
+        },
+        "Transmission": {
+            "Max Travel Speed": "17.1 mph (27 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2"
+        }
+    }
+}

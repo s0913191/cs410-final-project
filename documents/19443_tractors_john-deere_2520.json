@@ -1,0 +1,48 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/2520/19443",
+    "source_url_id": "19443",
+    "source_url_model": "2520",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:19:37.936259",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "2520",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "natural",
+            "Displacement": "81.2 cu in (0 m)",
+            "Engine Model": "3TNV82A",
+            "Gross Power": "26.5 hp (19 kw)",
+            "Max Torque": "51.3 lbs/ft",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "20.5 hp (15 kw)",
+            "Torque Measured @": "2600 rpm"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "10.5 gal/min (38 l/min)",
+            "Relief Valve Setting": "2418 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "1150.9 lbs (522 kg)",
+            "Alternator Supplied Amperage": "40  A",
+            "Cooling System Fluid Capacity": "1.1 gal (4 l)",
+            "Engine Oil Capacity": "0.8 gal (0 l)",
+            "Fuel Capacity": "7.2 gal (27 l)",
+            "Operating Voltage": "12 V V",
+            "Tire Size Front - 2wd / 4wd": "23x8.5-12R4",
+            "Turning Radius": "7.6 ft (2 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "36x14.00-17.5R4"
+        },
+        "Transmission": {
+            "Transmission Type": "hydro- 2 range"
+        }
+    }
+}

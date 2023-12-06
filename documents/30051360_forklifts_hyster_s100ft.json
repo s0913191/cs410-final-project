@@ -1,0 +1,55 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/hyster/s100ft/30051360",
+    "source_url_id": "30051360",
+    "source_url_model": "s100ft",
+    "source_url_make": "hyster",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:29:48.356145",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Hyster",
+    "equipment_model": "S100FT",
+    "equipment_spec": {
+        "Dimensions": {
+            "Gradeability": "32%",
+            "Ground Clearance": "6.2 in (15 cm)",
+            "Height to Top of Overhead Guard": "7.2 ft (2 m)",
+            "Length to Fork Face": "9.1 ft (3 m)",
+            "Overall Height - mast lowered": "7.1 ft (2 m)",
+            "Overall Width": "3.9 ft (1 m)",
+            "Turning Radius": "8.1 ft (2 m)",
+            "Wheelbase": "5.9 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "230 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "WG3800 LPG",
+            "Number of Cylinders": "4",
+            "Power": "91 hp (68 kw)",
+            "Power Measured @": "2400 rpm",
+            "Torque": "221 lbs/ft",
+            "Torque Measured @": "1000 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "112 ft/min",
+            "Load Capacity": "10000.2 lbs (4,536 kg)",
+            "Load Center": "24.1 in (61 cm)",
+            "Lower Speed": "108 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "6  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Axle load - front": "6338.3 lbs (2,875 kg)",
+            "Axle load - rear": "8990.5 lbs (4,078 kg)",
+            "Drawbar Pull": "3803 lbs (1,725 kg)",
+            "Front Tire Size": "22 X 12 x 16",
+            "Hydraulic System Relief Valve Pressure": "2250 psi",
+            "Hydraulic Tank": "20.6 gal (76 l)",
+            "Max Speed": "10.5 mph (16 kph)",
+            "Number of Front Wheels": "2X",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "15328.8 lbs (6,953 kg)",
+            "Rear Tire Size": "18 x 8 x 12.2",
+            "Tire Type": "Cushion"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/caterpillar/305d-cr/30750166",
+    "source_url_id": "30750166",
+    "source_url_model": "305d-cr",
+    "source_url_make": "caterpillar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 14:55:12.815931",
+    "equipment_category": "Excavators",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "305D CR",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Height": "14.8 in (36 cm)",
+            "Blade Lift Height": "15.9 in (38 cm)",
+            "Blade Width": "6.5 ft (2 m)",
+            "Dig Depth": "21.9 in (53 cm)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "12 ft (4 m)",
+            "Max Reach Along Ground": "19 ft (6 m)"
+        },
+        "Dimensions": {
+            "Height - Over Cab": "8.3 ft (2 m)",
+            "Maximum Cutting Height - Long Stick": "17.8 ft (5 m)",
+            "Maximum Cutting Height - Standard Stick": "17.3 ft (5 m)",
+            "Maximum Digging Depth - Standard Stick": "10.8 ft (3 m)",
+            "Maximum Dump Height - Long Stick": "12.8 ft (4 m)",
+            "Maximum Dump Height - Standard Stick": "12.2 ft (4 m)",
+            "Maximum Horizontal Reach - Long Stick": "19.6 ft (6 m)",
+            "Maximum Horizontal Reach - Standard Stick": "18.4 ft (5 m)",
+            "Maximum Reach - Ground Level - Standard Stick": "17.8 ft (5 m)",
+            "Maximum Vertical Dig Depth - Long Stick": "8.7 ft (2 m)",
+            "Maximum Vertical Dig Depth - Standard Stick": "7.6 ft (2 m)",
+            "Shipping Height": "8.3 ft (2 m)",
+            "Shipping Length": "17 ft (5 m)",
+            "Track Shoe Width": "1.3 ft (0 m)",
+            "Transport Width": "6.5 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "3.5 in (8 cm)",
+            "Displacement": "153 cu in (0 m)",
+            "Engine Model": "Mitsubishi S4Q2",
+            "Gross Power": "43 hp (32 kw)",
+            "Make": "Mitsubishi",
+            "Model": "S4Q2-T",
+            "Net Power": "42 hp (31 kw)",
+            "Stroke": "4.1 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Auxiliary Circuit - Primary": "18.5 gal/min (68 l/min)",
+            "Auxiliary Circuit - Secondary": "9.3 gal/min (34 l/min)",
+            "Digging Force - Bucket": "10050 lbs (4,559 kg)",
+            "Digging Force - Stick - Long": "4788 lbs (2,172 kg)",
+            "Digging Force - Stick - Standard": "5550 lbs (2,518 kg)",
+            "Operating Pressure - Equipment": "3553 psi",
+            "Operating Pressure - Swing": "2690 psi",
+            "Operating Pressure - Travel": "3553 psi"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "11012 lbs (4,995 kg)"
+        },
+        "Service Refill Capacities": {
+            "Cooling System": "2.8 gal (8 l)",
+            "Engine Oil": "2.2 gal (8 l)",
+            "Fuel Tank": "18.5 gal (68 l)",
+            "Hydraulic System": "20.6 gal (76 l)",
+            "Hydraulic Tank": "12.7 gal (45 l)"
+        },
+        "Swing System": {
+            "Boom Swing - Left - With Stop": "60  \t\u00b0",
+            "Boom Swing - Left - Without Stop": "80  \t\u00b0",
+            "Boom Swing - Right": "50  \t\u00b0",
+            "Machine Swing Speed": "9 rpm"
+        },
+        "Travel System": {
+            "Maximum Traction Force - High Speed": "5395 lbs (2,447 kg)",
+            "Maximum Traction Force - Low Speed": "10161 lbs (4,609 kg)",
+            "Travel Speed - High": "2.8 mph (3 kph)",
+            "Travel Speed - Low": "1.7 mph (2 kph)"
+        },
+        "Weights": {
+            "Operating Weight - With Cab": "11365 lbs (5,155 kg)"
+        }
+    }
+}

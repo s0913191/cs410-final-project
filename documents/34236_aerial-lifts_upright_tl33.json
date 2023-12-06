@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/upright/tl33/34236",
+    "source_url_id": "34236",
+    "source_url_model": "tl33",
+    "source_url_make": "upright",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:33:16.978959",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Upright",
+    "equipment_model": "TL33",
+    "equipment_spec": {
+        "Capacity": {
+            "Platform Capacity": "500 lbs (227 kg)"
+        },
+        "Dimensions": {
+            "Boom Type/Size": "ATM/339 ft (0 m)",
+            "Stowed Height": "6.5 ft (2 m)",
+            "Stowed Width": "4.9 ft (1 m)"
+        },
+        "Tires": {
+            "Tire Size": "175R-13CR-6 PLY"
+        },
+        "Transmission": {
+            "4WD": "no"
+        }
+    }
+}

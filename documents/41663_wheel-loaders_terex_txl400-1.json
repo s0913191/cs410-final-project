@@ -1,0 +1,66 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/txl400-1/41663",
+    "source_url_id": "41663",
+    "source_url_model": "txl400-1",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:58.901329",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TXL400-1",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "48501 lbs (22,000 kg)",
+            "Bucket Capacity - heaped": "5.2 cu yds (4 m)",
+            "Bucket Width": "12.6 ft (4 m)",
+            "Dump Clearance at Max Raise": "9.8 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "11.7 ft (3 m)",
+            "Hinge Pin - Max Height": "14.2 ft (4 m)",
+            "Length with Bucket on Ground": "28.3 ft (9 m)",
+            "Reach at Max Lift and Dump": "4.5 ft (1 m)",
+            "Wheelbase": "11.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "671.3 cu in (0 m)",
+            "Engine Model": "DE12Tis",
+            "Gross Power": "300 hp (224 kw)",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1200 rpm"
+        },
+        "Hydraulic System": {
+            "Dump Time": "1.2 sec",
+            "Lower Time": "3.4 sec",
+            "Pump Flow Capacity": "51.2 gal/min (193 l/min)",
+            "Pump Type": "vane type",
+            "Raise Time": "5.8 sec",
+            "Relief Valve Setting": "2631 psi"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Cooling System Fluid Capacity": "13.3 gal (49 l)",
+            "Engine Oil Fluid Capacity": "6.7 gal (23 l)",
+            "Front Axle/Diff Fluid Capacity": "20.9 gal (76 l)",
+            "Fuel Capacity": "96.2 gal (363 l)",
+            "Hydraulic System Fluid Capacity": "70.1 gal (265 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "48590 lbs (22,040 kg)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Rear Axle/Diff Fluid Capacity": "14.1 gal (53 l)",
+            "Static Tipping Weight": "39683.3 lbs (18,000 kg)",
+            "Tire Size": "26.5x25",
+            "Transmission Fluid Capacity": "14.3 gal (53 l)",
+            "Turning Radius": "22.9 ft (7 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "22.7 mph (35 kph)",
+            "Max Speed - Reverse": "15 mph (24 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "full auto powershift countershaft"
+        }
+    }
+}

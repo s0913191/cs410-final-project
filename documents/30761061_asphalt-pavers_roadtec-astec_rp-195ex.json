@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/asphalt-pavers/roadtec-astec/rp-195ex/30761061",
+    "source_url_id": "30761061",
+    "source_url_model": "rp-195ex",
+    "source_url_make": "roadtec-astec",
+    "source_url_category": "asphalt-pavers",
+    "source_date_scraped": "2023-09-13 17:52:31.156528",
+    "equipment_category": "Asphalt Pavers",
+    "equipment_make": "Roadtec / Astec",
+    "equipment_model": "RP-195ex",
+    "equipment_spec": {
+        "Dimensions": {
+            "Length w/ Screed": "10 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins"
+        },
+        "Hopper/Paver": {
+            "Hopper Capacity": "13 lbs (6 kg)",
+            "Paving Speed": "215 ft/min",
+            "Paving Width - max": "22.5 ft (7 m)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "41525 lbs (18,836 kg)"
+        }
+    }
+}

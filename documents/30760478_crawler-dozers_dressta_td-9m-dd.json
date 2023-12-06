@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-9m-dd/30760478",
+    "source_url_id": "30760478",
+    "source_url_model": "td-9m-dd",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:36.226771",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-9M DD",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "B4.5",
+            "Net Power": "93 hp (69 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "19210 lbs (8,714 kg)"
+        }
+    }
+}

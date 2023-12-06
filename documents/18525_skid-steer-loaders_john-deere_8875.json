@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/8875/18525",
+    "source_url_id": "18525",
+    "source_url_model": "8875",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:03.661451",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "8875",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "8.1 ft (2 m)",
+            "Ground Clearance": "8 in (20 cm)",
+            "Height - Top of Cab": "6.1 ft (2 m)",
+            "Length w/o Bucket": "9.4 ft (3 m)",
+            "Length with Bucket": "11.9 ft (3 m)",
+            "Reach at Max Lift and Dump": "30 in (76 cm)",
+            "Turning Radius from Center - inc bucket": "82.8 in (208 cm)",
+            "Turning Radius from Center - machine rear": "69.3 in (175 cm)",
+            "Wheelbase": "4 ft (1 m)",
+            "Width Over Tires": "5.8 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "177 cu in (0 m)",
+            "Engine Model": "3029T",
+            "Gross Power": "64 hp (48 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2100 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "17.6 gal/min (64 l/min)",
+            "Pump Type": "3 spool open-center",
+            "Relief Valve Pressure": "2600 psi"
+        },
+        "Loader": {
+            "Breakout Force": "5203 psi",
+            "Operating Load Rating": "2352 lbs (1,067 kg)",
+            "Tipping Angle": "6284  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "55  A",
+            "Cooling System Fluid Capacity": "4 gal (15 l)",
+            "Engine Oil Fluid Capacity": "2.3 gal (8 l)",
+            "Fuel Capacity": "18.8 gal (68 l)",
+            "Hydraulic System Fluid Capacity": "6.8 gal (23 l)",
+            "Max Speed": "12.1 mph (19 kph)",
+            "Operating Speed": "12.1 mph (19 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "7004 lbs (3,177 kg)"
+        }
+    }
+}

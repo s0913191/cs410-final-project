@@ -1,0 +1,21 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/dressta/td-9s-lt/30108160",
+    "source_url_id": "30108160",
+    "source_url_model": "td-9s-lt",
+    "source_url_make": "dressta",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:44:42.441353",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Dressta",
+    "equipment_model": "TD-9S LT",
+    "equipment_spec": {
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSF3.8 Tier 4f",
+            "Net Power": "113 hp (84 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "24251 lbs (11,000 kg)"
+        }
+    }
+}

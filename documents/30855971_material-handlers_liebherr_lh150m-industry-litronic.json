@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/material-handlers/liebherr/lh150m-industry-litronic/30855971",
+    "source_url_id": "30855971",
+    "source_url_model": "lh150m-industry-litronic",
+    "source_url_make": "liebherr",
+    "source_url_category": "material-handlers",
+    "source_date_scraped": "2023-09-13 15:45:03.147488",
+    "equipment_category": "Material Handlers",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LH150M INDUSTRY LITRONIC",
+    "equipment_spec": {
+        "Brakes": {
+            "Service brake": "two circuit travel brake system with accumulator"
+        },
+        "Dimensions": {
+            "Height - Top of Cab": "15.6 in (38 cm)",
+            "Undercarriage Width": "22 ft (7 m)",
+            "Upper Structure Ground Clearance": "6.5 ft (2 m)",
+            "Wheelbase": "24.3 ft (7 m)"
+        },
+        "Engine": {
+            "Air cleaner": "dry-type air cleaner with pre-cleaner, primary and safety elements",
+            "Alternator": "140 A",
+            "Battery": "4 x 180 Ah/12 V",
+            "Bore": "5.1 in (13 cm)",
+            "Displacement": "4450035.6 cu in (73 m)",
+            "Emission Tier Level": "Tier 4f",
+            "Engine Model": "D9508",
+            "Gross Power": "536 hp (400 kw)",
+            "Net Power": "543 hp (405 kw)",
+            "Number of Cylinders": "8",
+            "Power Measured @": "1800 rpm",
+            "Stroke": "5.9 in (13 cm)"
+        },
+        "Hydraulic System": {
+            "Pump Capacity": "292 gal/min (1,105 l/min)",
+            "Pump Type": "2 Liebherr axial piston variable displacement pumps",
+            "Relief Pressure": "5067 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "740 gal (2,801 l)",
+            "Hydraulic Fluid Capacity": "328 gal (1,241 l)",
+            "Hydraulic System Fluid Capacity": "502 gal (1,900 l)",
+            "Urea tank": "48 gal (182 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "6.5 rpm",
+            "Swing Torque": "147512 lbs/ft"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/terex/txc-300lc-1/30748546",
+    "source_url_id": "30748546",
+    "source_url_model": "txc-300lc-1",
+    "source_url_make": "terex",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:20:31.469987",
+    "equipment_category": "Excavators",
+    "equipment_make": "Terex",
+    "equipment_model": "TXC 300LC-1",
+    "equipment_spec": {
+        "Boom/Stick Excavator Option 1": {
+            "Max Cutting Height": "33.9 ft (10 m)",
+            "Max Digging Depth": "24.2 ft (7 m)",
+            "Max Loading Height": "23.9 ft (7 m)",
+            "Max Reach Along Ground": "34.7 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "20.4 ft (6 m)"
+        },
+        "Boom/Stick Excavator Option 2": {
+            "Max Cutting Height": "34.6 ft (10 m)",
+            "Max Digging Depth": "26.2 ft (8 m)",
+            "Max Loading Height": "24.6 ft (7 m)",
+            "Max Reach Along Ground": "37.1 ft (11 m)",
+            "Max Vertical Wall Digging Depth": "22.2 ft (7 m)"
+        },
+        "Boom/Stick Excavator Option 3": {
+            "Max Cutting Height": "34 ft (10 m)",
+            "Max Digging Depth": "24.1 ft (7 m)",
+            "Max Loading Height": "24 ft (7 m)",
+            "Max Reach Along Ground": "34.6 ft (10 m)",
+            "Max Vertical Wall Digging Depth": "20.2 ft (6 m)"
+        },
+        "Bucket": {
+            "Maximum Bucket Capacity": "2.3 cu yds (2 m)",
+            "Minimum Bucket Capacity": "1.1 cu yds (1 m)",
+            "Reference Bucket Capacity": "1.7 cu yds (1 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.7 ft (0 m)",
+            "Height - Top of Cab": "10.1 ft (3 m)",
+            "Length of Track on Ground": "13.2 ft (4 m)",
+            "Removal Counterweight Clearance": "3.9 ft (1 m)",
+            "Tail Swing Radius": "10.5 ft (3 m)",
+            "Width to Outside of Tracks": "10.5 ft (3 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged, air to air intercooled",
+            "Displacement": "493 cu in (0 m)",
+            "Engine Model": "DE08TIS",
+            "Gross Power": "200 hp (149 kw)",
+            "Max Torque": "621.8 lbs/ft",
+            "Net Power": "197 hp (147 kw)",
+            "Power Measured @": "1900 rpm",
+            "Torque Measured @": "1300 rpm"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "11.4 gal (42 l)",
+            "Engine Oil Capacity": "6.4 gal (23 l)",
+            "Fuel Capacity": "118.9 gal (447 l)",
+            "Hydraulic Pump Flow Capacity": "130.6 gal/min (492 l/min)",
+            "Hydraulic System Fluid Capacity": "76.7 gal (288 l)",
+            "Hydraulic System Relief Valve Pressure": "4690 psi",
+            "Operating Voltage": "24 V",
+            "Operating Weight": "67461.5 lbs (30,600 kg)",
+            "Swing Drive Fluid Capacity": "1.6 gal (4 l)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "10.1 rpm"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "6.1 psi",
+            "Max Travel Speed": "3.2 mph (5 kph)",
+            "Number of Carrier Rollers per Side": "2",
+            "Number of Shoes per Side": "48",
+            "Number of Track Rollers per Side": "9",
+            "Shoe Size": "31.5 in (79 cm)",
+            "Track Gauge": "8.6 ft (2 m)"
+        }
+    }
+}

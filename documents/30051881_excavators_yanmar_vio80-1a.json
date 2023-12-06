@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/yanmar/vio80-1a/30051881",
+    "source_url_id": "30051881",
+    "source_url_model": "vio80-1a",
+    "source_url_make": "yanmar",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:22:56.882747",
+    "equipment_category": "Excavators",
+    "equipment_make": "Yanmar",
+    "equipment_model": "VIO80-1A",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Raise": "1.6 ft (0 m)",
+            "Blade Stroke": "1.6 ft (0 m)",
+            "Blade Width": "7.5 ft (2 m)"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Boom Swing - Left": "57  \t\u00b0",
+            "Boom Swing - Right": "60  \t\u00b0",
+            "Max Digging Depth": "15.4 ft (5 m)",
+            "Max Reach Along Ground": "23.92 ft (7 m)"
+        },
+        "Bucket": {
+            "Arm digging Force": "14275 lbs (6,475 kg)",
+            "Bucket digging Force - SAE": "11330 lbs (5,139 kg)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.3 ft (0 m)",
+            "Height - Top of Cab": "8.8 ft (2 m)",
+            "Overall height": "23.8 ft (7 m)",
+            "Removal Counterweight Clearance": "3.9 ft (1 m)",
+            "Wheelbase": "9.5 ft (3 m)",
+            "Width to Outside of Tracks": "7.5 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Water-cooled 4-cycle diesel",
+            "Engine Model": "YANMAR 4TNV98C-WBV",
+            "Gross Power": "56.9 hp (42 kw)",
+            "Net Power": "55.7 hp (41 kw)",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "30.4 gal (114 l)",
+            "Hydraulic Pump Flow Capacity": "56.3 gal/min (212 l/min)",
+            "Hydraulic System Relief Valve Pressure": "11298 psi",
+            "Operating Weight": "18136 lbs (8,226 kg)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "9 rpm"
+        },
+        "Undercarriage": {
+            "Max Travel Speed": "2.8 mph (3 kph)",
+            "Min Travel Speed": "1.6 mph (2 kph)"
+        },
+        "Weights": {
+            "Ground bearing pressure (rubber tracks)": "5.2 psi",
+            "Ground bearing pressure (steel tracks)": "5.3 psi",
+            "Rubber Tracks": "18136 lbs (8,226 kg)",
+            "Steel tracks": "18268 lbs (8,286 kg)"
+        }
+    }
+}

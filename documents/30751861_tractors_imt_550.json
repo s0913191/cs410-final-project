@@ -1,0 +1,33 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/imt/550/30751861",
+    "source_url_id": "30751861",
+    "source_url_model": "550",
+    "source_url_make": "imt",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:18:36.691925",
+    "equipment_category": "Tractors",
+    "equipment_make": "IMT",
+    "equipment_model": "550",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "12.3 in (30 cm)",
+            "Height - Top of Cab": "7.5 ft (2 m)",
+            "Overall Length": "10.7 in (25 cm)",
+            "Tire Size": "front 7.50-20 rear 13.6-28",
+            "Width Outside Frame": "5.5 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "3029DF186",
+            "Gross Power": "53 hp (40 kw)",
+            "Power Measured @": "2300 rpm"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "4960.5 lbs (2,250 kg)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "10",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "partly synchronized"
+        }
+    }
+}

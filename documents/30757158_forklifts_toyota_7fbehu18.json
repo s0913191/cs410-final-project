@@ -1,0 +1,29 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/7fbehu18/30757158",
+    "source_url_id": "30757158",
+    "source_url_model": "7fbehu18",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:41:44.852139",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "7FBEHU18***",
+    "equipment_spec": {
+        "Dimensions": {
+            "Right Angle Stack": "6.4 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "Electric engine"
+        },
+        "MAST": {
+            "Lift Speed": "83 ft/min",
+            "Load Capacity": "3500 lbs (1,588 kg)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "9.3 mph (14 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "1",
+            "Tire Type": "Cushion"
+        }
+    }
+}

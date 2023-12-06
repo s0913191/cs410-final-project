@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/balkancar/record-gv379840159s/30757814",
+    "source_url_id": "30757814",
+    "source_url_model": "record-gv379840159s",
+    "source_url_make": "balkancar",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:23:31.141772",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Balkancar",
+    "equipment_model": "Record GV3798.40.159S",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "5.6 in (13 cm)",
+            "Height to Top of Overhead Guard": "7.3 ft (2 m)",
+            "Length to Fork Face": "10.5 ft (3 m)",
+            "Max Fork Height": "13.2 ft (4 m)",
+            "Overall Height - mast lowered": "9.3 ft (3 m)",
+            "Overall Width": "5.7 ft (2 m)",
+            "Turning Radius": "9.7 ft (3 m)",
+            "Wheelbase": "6.8 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "235.6 cu in (0 m)",
+            "Engine Model": "G3900K",
+            "Fuel Type": "LPG",
+            "Power": "64.4 hp (48 kw)",
+            "Power Measured @": "2250 rpm"
+        },
+        "MAST": {
+            "Lift Speed": "78.8 ft/min",
+            "Load Capacity": "11023.2 lbs (5,000 kg)",
+            "Load Center": "19.7 in (48 cm)",
+            "Lower Speed": "68.9 ft/min",
+            "Mast Tip Forward": "5  \t\u00b0",
+            "Mast Tip Rear": "12  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Max Speed": "12.5 mph (19 kph)",
+            "Number of Front Wheels": "4",
+            "Number of Rear Wheels": "2",
+            "Operating Weight": "15167.9 lbs (6,880 kg)",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

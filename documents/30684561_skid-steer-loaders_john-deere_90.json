@@ -1,0 +1,50 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/john-deere/90/30684561",
+    "source_url_id": "30684561",
+    "source_url_model": "90",
+    "source_url_make": "john-deere",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:04.626630",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "John Deere",
+    "equipment_model": "90",
+    "equipment_spec": {
+        "Dimensions": {
+            "Clearance at Max Lift and Dump": "6.1 ft (2 m)",
+            "Ground Clearance": "6.8 in (15 cm)",
+            "Height - Top of Cab": "6.2 ft (2 m)",
+            "Length w/o Bucket": "6.7 ft (2 m)",
+            "Length with Bucket": "8.6 ft (2 m)",
+            "Reach at Max Lift and Dump": "125 in (318 cm)",
+            "Turning Radius from Center - inc bucket": "47 in (119 cm)",
+            "Turning Radius from Center - machine rear": "47 in (119 cm)",
+            "Wheelbase": "2.6 ft (1 m)",
+            "Width Over Tires": "3.8 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "60 cu in (0 m)",
+            "Gross Power": "23 hp (17 kw)",
+            "Number of Cylinders": "2",
+            "Power Measured @": "3000 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "7.5 gal/min (27 l/min)",
+            "Pump Type": "Open-center",
+            "Relief Valve Pressure": "1750 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "0.4 cu yds (0 m)",
+            "Operating Load Rating": "700 lbs (318 kg)",
+            "Tipping Angle": "1400  \t\u00b0"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "7.2 gal (27 l)",
+            "Hydraulic System Fluid Capacity": "11 gal (42 l)",
+            "Max Speed": "5 mph (8 kph)",
+            "Operating Speed": "5 mph (8 kph)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "2825 lbs (1,281 kg)",
+            "Tire Size": "8.50-15"
+        }
+    }
+}

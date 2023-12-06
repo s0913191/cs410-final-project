@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/new-holland/w130b-tc/30761190",
+    "source_url_id": "30761190",
+    "source_url_model": "w130b-tc",
+    "source_url_make": "new-holland",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:54:36.928900",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "New Holland",
+    "equipment_model": "W130B TC",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.4 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "FPT",
+            "Model": "667TA/EDB",
+            "Net Power": "151 hp (113 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "2.66 cu yds (2 m)"
+        },
+        "Weights": {
+            "Operational Weight": "28709 lbs (13,022 kg)"
+        }
+    }
+}

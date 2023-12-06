@@ -1,0 +1,41 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/iveco/at340t39and-orp-2005/30759361",
+    "source_url_id": "30759361",
+    "source_url_model": "at340t39and-orp-2005",
+    "source_url_make": "iveco",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:56:48.551938",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "Iveco",
+    "equipment_model": "AT340T39/P (2005)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "10.2 ft (3 m)",
+            "Number of Rear Axles": "3",
+            "Tire Size": "315/80R22.5",
+            "Weight Class": "8"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length from Back of Cab to End of Frame": "270.8 in (686 cm)",
+            "Length From Back of Cab to End of Frame": "270.75 in (686 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "58.9 in (147 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "58.86 in (147 cm)",
+            "Overall Length": "30.8 ft (9 m)",
+            "Total Chassis Weight": "20635.3 lbs (9,360 kg)",
+            "Total GVW": "70548 lbs (32,000 kg)",
+            "Turning Radius": "33.6 ft (10 m)",
+            "Wheelbase": "197.7 in (500 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length From Back of Cab to End of Frame": "291.62 in (739 cm)",
+            "Length from Back of Cab to End of Frame": "291.7 in (739 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "48.3 in (122 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "48.23 in (122 cm)",
+            "Overall Length": "32.5 ft (10 m)",
+            "Total Chassis Weight": "20767.6 lbs (9,420 kg)",
+            "Total GVW": "70548 lbs (32,000 kg)",
+            "Turning Radius": "36.9 ft (11 m)",
+            "Wheelbase": "229.2 in (582 cm)"
+        }
+    }
+}

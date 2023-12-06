@@ -1,0 +1,27 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/liugong/856iii-tc/30761185",
+    "source_url_id": "30761185",
+    "source_url_model": "856iii-tc",
+    "source_url_make": "liugong",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:53:18.227211",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Liugong",
+    "equipment_model": "856III TC",
+    "equipment_spec": {
+        "Bucket": {
+            "Dump Clearance at Max Raise": "9.83 ft (3 m)"
+        },
+        "Engine": {
+            "Make": "Cummins",
+            "Model": "QSB 6.7",
+            "Net Power": "230 hp (172 kw)"
+        },
+        "Operating Specifications": {
+            "Rated Bucket Capacity": "4 cu yds (3 m)"
+        },
+        "Weights": {
+            "Operational Weight": "40123 lbs (18,200 kg)"
+        }
+    }
+}

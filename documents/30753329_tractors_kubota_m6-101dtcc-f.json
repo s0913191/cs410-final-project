@@ -1,0 +1,72 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/kubota/m6-101dtcc-f/30753329",
+    "source_url_id": "30753329",
+    "source_url_model": "m6-101dtcc-f",
+    "source_url_make": "kubota",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:32:11.634506",
+    "equipment_category": "Tractors",
+    "equipment_make": "Kubota",
+    "equipment_model": "M6-101DTCC-F",
+    "equipment_spec": {
+        "Capacities": {
+            "Diesel exhaust fluid (DEF) tank": "4.3 gal (15 l)",
+            "Engine coolant": "2.7 gal (8 l)",
+            "Engine Oil": "2.8 gal (8 l)",
+            "Fuel Tank": "50.2 gal (189 l)",
+            "Transmission": "4 gal (15 l)"
+        },
+        "Dimensions": {
+            "Front Tread Range": "62.3 in (157 cm)",
+            "Ground Clearance": "17.8 in (43 cm)",
+            "Overall height": "9.2 ft (3 m)",
+            "Overall Length": "165.4 in (419 cm)",
+            "Overall Width": "6.9 ft (2 m)",
+            "Rear Tread Range": "81.2 in (206 cm)",
+            "Turning radius without brakes 1": "13.2 ft (4 m)",
+            "Wheelbase": "8 ft (2 m)"
+        },
+        "Engine": {
+            "Air cleaner": "8 Dry, dual-element",
+            "Alternator": "130 A",
+            "Aspiration": "Turbocharger with intercooler",
+            "Battery": "12V, 100Ah at 20hours, 900CCA",
+            "Bore": "4 in (10 cm)",
+            "Displacement": "230 cu in (0 m)",
+            "Engine Make": "KUBOTA",
+            "Engine Model": "V3800-TIEF4",
+            "Engine Type": "Direct Injection",
+            "Gross Power": "104.5 hp (78 kw)",
+            "Model Name": "M6-101DTCC-F",
+            "Net Power": "97.1 hp (72 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2600 rpm",
+            "PTO Power": "82 hp (61 kw)",
+            "Stroke": "4.8 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic system": "Electronic draft control",
+            "Pump Flow Capacity": "18.7 gal/min (68 l/min)",
+            "system pressure": "2842.8 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "6834.4 lbs (3,100 kg)",
+            "3 Point Hitch Type": "Telescopic lower link ends, telescopic stabilizers",
+            "Operating Weight": "9601.2 lbs (4,355 kg)"
+        },
+        "Power Take-Off (PTO)": {
+            "Mid- PTO": "21 splines",
+            "PTO": "Live-independent PTO",
+            "PTO Speed Mid": "1000 rpm",
+            "PTO speed rear": "540 rpm",
+            "Rear PTO": "6 splines"
+        },
+        "Tires": {
+            "Tires": "Front - 12.4 R24 , Rear -  18.4 R30"
+        },
+        "Transmission": {
+            "Brake type": "Hydraulically operated wet disc brakes",
+            "Max Speed": "21.9 mph (34 kph)"
+        }
+    }
+}

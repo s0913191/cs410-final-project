@@ -1,0 +1,62 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/terex/tl160/30339813",
+    "source_url_id": "30339813",
+    "source_url_model": "tl160",
+    "source_url_make": "terex",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:55:43.814084",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Terex",
+    "equipment_model": "TL160",
+    "equipment_spec": {
+        "Bucket": {
+            "Breakout Force": "19334 lbs (8,770 kg)",
+            "Bucket Capacity - heaped": "2.1 cu yds (2 m)",
+            "Bucket Width": "7.6 ft (2 m)",
+            "Dump Clearance at Max Raise": "9.7 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.8 ft (0 m)",
+            "Height - Top of Cab": "10 ft (3 m)",
+            "Hinge Pin - Max Height": "12.8 ft (4 m)",
+            "Length with Bucket on Ground": "22 ft (7 m)",
+            "Reach at Max Lift and Dump": "2.9 ft (1 m)",
+            "Wheelbase": "9.1 ft (3 m)",
+            "Width Over Tires": "7.1 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "turbocharged",
+            "Displacement": "268 cu in (0 m)",
+            "Engine Model": "1104C-44T",
+            "Make": "Perkins",
+            "Net Power": "102 hp (76 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "26.2 gal/min (98 l/min)",
+            "Relief Valve Setting": "4061 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "37 gal (140 l)",
+            "Hydraulic System Fluid Capacity": "24.6 gal (91 l)",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "20283 lbs (9,200 kg)",
+            "Rated Bucket Capacity": "2 - 4 cu yds (2 - 3 m)",
+            "Rear Axle Oscillation": "24  \t\u00b0",
+            "Static Tipping Weight": "15985.8 lbs (7,251 kg)",
+            "Tire Size": "15.5R25 EM 60 12 PR",
+            "Turning Radius": "17.8 ft (5 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "12.5 mph (19 kph)",
+            "Max Speed - Reverse": "12.5 mph (19 kph)",
+            "Number of Forward Gears": "2",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "hydrostatic"
+        },
+        "Weights": {
+            "Operational Weight": "20283 lbs (9,200 kg)"
+        }
+    }
+}

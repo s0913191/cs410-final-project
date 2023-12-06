@@ -1,0 +1,45 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/all-terrain-cranes/liebherr/ltm-1055-31/30836929",
+    "source_url_id": "30836929",
+    "source_url_model": "ltm-1055-31",
+    "source_url_make": "liebherr",
+    "source_url_category": "all-terrain-cranes",
+    "source_date_scraped": "2023-09-13 17:46:45.876195",
+    "equipment_category": "All Terrain Cranes",
+    "equipment_make": "Liebherr",
+    "equipment_model": "LTM 1055-3.1",
+    "equipment_spec": {
+        "Boom": {
+            "Height": "184 ft (56 m)",
+            "Max Height @ Max Raise Angle - no jib": "106.7 ft (32 m)",
+            "Max Lift Capacity": "61 t (55,338 kg)",
+            "Min Height @ Max Raise Angle": "33.5 ft (10 m)",
+            "Number of Sections": "5"
+        },
+        "CARRIER ENGINE": {
+            "Gross Power": "362.1 hp (270 kw)",
+            "Make": "Liebherr",
+            "Max Torque": "1217 lbs/ft",
+            "Model": "D 926 TI-E A5",
+            "Power Measured @": "2100 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Carrier Length": "31.9 ft (9 m)",
+            "Ground Clearance": "1.6 ft (0 m)",
+            "Transport Height": "12.4 ft (4 m)",
+            "Transport Length": "37.3 ft (11 m)",
+            "Transport Width": "8.8 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "11.5 ft (3 m)",
+            "Width w/ Outriggers Extended": "20.7 ft (6 m)"
+        },
+        "Operating Specifications": {
+            "Number of Axels": "3",
+            "Operating Voltage": "24 V V",
+            "Tire Size": "16.00 R 25"
+        },
+        "Transmission": {
+            "Transmission Type": "ZF AS-TRONIC"
+        }
+    }
+}

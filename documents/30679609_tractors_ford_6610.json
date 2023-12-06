@@ -1,0 +1,54 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/6610/30679609",
+    "source_url_id": "30679609",
+    "source_url_model": "6610",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:28.003875",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "6610",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "18.2 in (46 cm)",
+            "Height - Top of ROPS/FOPS": "8 ft (2 m)",
+            "Overall Length": "144.9 in (366 cm)",
+            "Overall Width": "5.8 ft (2 m)",
+            "Wheelbase": "7.3 ft (2 m)"
+        },
+        "Engine": {
+            "Bore": "4.5 in (10 cm)",
+            "Displacement": "268.6 cu in (0 m)",
+            "Engine Make": "Ford",
+            "Gross Power": "82 hp (61 kw)",
+            "Max Torque": "219.1 lbs/ft",
+            "Net Power": "78.5 hp (58 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2100 rpm",
+            "PTO Power": "72 hp (54 kw)",
+            "Stroke": "4.5 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Hydraulic System Type": "Open center",
+            "Maximum system pressure": "2500 psi",
+            "Number of Remote Control Valves": "1",
+            "Pump Flow Capacity": "9.7 gal/min (34 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "4135.9 lbs (1,876 kg)",
+            "Alternator Supplied Amperage": "32  A",
+            "Fuel Capacity": "21 gal (79 l)",
+            "Hydraulic System Fluid Capacity": "15 gal (57 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight": "6799.1 lbs (3,084 kg)"
+        },
+        "Production": {
+            "Series": "10 Series",
+            "Year Manufactured": "1982 - 1993"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/balers/massey-ferguson/2290/23542158",
+    "source_url_id": "23542158",
+    "source_url_model": "2290",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "balers",
+    "source_date_scraped": "2023-09-13 17:00:34.805184",
+    "equipment_category": "Balers",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "2290",
+    "equipment_spec": {
+        "Bale Size": {
+            "Bale Height": "4.2 ft (1 m)",
+            "Bale Length - max": "9 ft (3 m)",
+            "Bale Width": "4 ft (1 m)",
+            "Baler weight w/single axle": "23197.1 lbs (10,522 kg)",
+            "Baler weight w/tandem axle, Packer version": "24321.4 lbs (11,032 kg)"
+        },
+        "Baler Pickup": {
+            "Inside Width": "85.1 in (216 cm)",
+            "Number of Tines": "64",
+            "Overall Width": "9822.9 ft (2,994 m)",
+            "Tine spacing": "2.6 in (5 cm)"
+        },
+        "Dimensions": {
+            "Overall height - To top of folded hand rails": "130.6 in (330 cm)",
+            "Overall height - To top of raised hand rails": "140.8 in (356 cm)",
+            "Overall Length": "27.1 ft (8 m)",
+            "Overall width w/single axle": "129.7 in (328 cm)",
+            "Overall width w/tandem axles": "118.2 in (300 cm)"
+        },
+        "Driveline": {
+            "Driveline Type": "Type 2 or Type 3 PTO",
+            "Gearbox": "Enclosed double reduction",
+            "Protection": "Overrunning , slip clutch and shear bolt"
+        },
+        "Engine": {
+            "Electrical system": "12 volt DC",
+            "Horsepower - Gross": "150 hp (112 kw)",
+            "PTO Speed": "1000 rpm",
+            "Weight": "21537 lbs (9,769 kg)"
+        },
+        "Feeding Chamber": {
+            "Packer protection": "Slip Clutch",
+            "Packer Type": "RC 100 Roller Chains",
+            "Stuffer Fingers": "6",
+            "Stuffer protection": "Shear bolt on main drive sprocket"
+        },
+        "Plunger": {
+            "Plunger speed (strokes/min)": "33",
+            "Stroke Length": "32.3 in (81 cm)"
+        },
+        "Tires": {
+            "Single axle": "28L x 26, 16 ply",
+            "Tandem axle": "500-50 x 17 , 16 ply"
+        },
+        "Wrapping System": {
+            "Knotters": "Six double knot",
+            "Twine Ball Capacity": "30",
+            "Twine Type": "High quality split film polypropylene or sisal twine"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/dynapac/cs1400n/30698549",
+    "source_url_id": "30698549",
+    "source_url_model": "cs1400n",
+    "source_url_make": "dynapac",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:42:38.182916",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Dynapac",
+    "equipment_model": "CS1400N",
+    "equipment_spec": {
+        "Brakes": {
+            "Parking brake": "Failsafe multidisc on all 3 drums",
+            "Service brake": "Hydrostatic in forward and reverse lever"
+        },
+        "Dimensions": {
+            "Ground Clearance": "13 in (33 cm)",
+            "Height - Top of Cab": "11.4 ft (3 m)",
+            "Overall Length": "188.2 in (478 cm)",
+            "Overall Width": "7.1 ft (2 m)",
+            "Turning Radius - Inside": "11.7 ft (3 m)",
+            "Turning Radius - Outside": "18.6 ft (5 m)",
+            "Wheelbase": "114 in (290 cm)"
+        },
+        "Drum": {
+            "Drum Diameter": "59.1 in (150 cm)",
+            "Drum Width": "82.7 in (208 cm)",
+            "Static Linear Load": "280 lbs/in"
+        },
+        "Engine": {
+            "Aspiration": "Water cooled turbo diesel",
+            "Engine Make": "Deutz",
+            "Engine Model": "TD 3.6 L4 IIIB",
+            "Gross Power": "73.8 hp (54 kw)",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "29 gal (110 l)",
+            "Max Speed": "9 mph (14 kph)",
+            "Operating Weight": "28665 lbs (13,002 kg)",
+            "Operating weight ROPS": "23814 lbs (10,802 kg)",
+            "Oscillating angle": "9  \t\u00b0",
+            "Steering Angle": "35  \t\u00b0",
+            "Water Spray Tank Fluid Capacity": "140 gal (530 l)"
+        }
+    }
+}

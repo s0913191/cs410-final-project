@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/truck-cranes/tadano/tt-800xxl/44673",
+    "source_url_id": "44673",
+    "source_url_model": "tt-800xxl",
+    "source_url_make": "tadano",
+    "source_url_category": "truck-cranes",
+    "source_date_scraped": "2023-09-13 17:50:09.124735",
+    "equipment_category": "Truck Cranes",
+    "equipment_make": "Tadano",
+    "equipment_model": "TT-800XXL",
+    "equipment_spec": {
+        "Boom": {
+            "Max Elevating Angle": "80  \t\u00b0",
+            "Max Height @ Max Raise Angle - no jib": "144.4 ft (44 m)",
+            "Max Lift Capacity": "160000 lbs (72,576 kg)",
+            "Max Working Radius": "120 ft (37 m)",
+            "Min Height @ Max Raise Angle": "37.7 ft (11 m)",
+            "Min Working Radius": "10 ft (3 m)",
+            "Number of Sections": "5",
+            "Swing Speed": "1.7 rpm"
+        },
+        "CARRIER ENGINE": {
+            "Displacement": "660 cu in (0 m)",
+            "Gross Power": "385 hp (287 kw)",
+            "Make": "Tadano",
+            "Max Torque": "1310 lbs/ft",
+            "Model": "QSM11",
+            "Power Measured @": "1800 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Transport Height": "12 ft (4 m)",
+            "Transport Length": "46.3 ft (14 m)",
+            "Transport Width": "8.5 ft (2 m)",
+            "Upper Structure Tail Swing Radius": "13.6 ft (4 m)",
+            "Width w/ Outriggers Extended": "25.3 ft (8 m)"
+        },
+        "Operating Specifications": {
+            "Carrier Cooling System Fluid Capacity": "3.5 gal (11 l)",
+            "Carrier Fuel Capacity": "105.7 gal (397 l)",
+            "Carrier Oil Capacity": "9.6 gal (34 l)",
+            "Number of Axels": "2",
+            "Operating Voltage": "24 V V",
+            "Operating Weight": "89250 lbs (40,484 kg)",
+            "Tire Size": "FRONT 445/65R22.5 REAR 315/80R22.5 Dual",
+            "Upper Structure Hydraulic System Fluid Capacity": "185 gal (700 l)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "61.6 mph (98 kph)",
+            "Max Speed - Reverse": "5.5 mph (8 kph)",
+            "Number of Forward Gears": "12",
+            "Number of Reverse Gears": "2",
+            "Transmission Type": "ZF AS Tronic 12AS2301"
+        }
+    }
+}

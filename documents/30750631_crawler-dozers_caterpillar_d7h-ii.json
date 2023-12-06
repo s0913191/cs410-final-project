@@ -1,0 +1,49 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/caterpillar/d7h-ii/30750631",
+    "source_url_id": "30750631",
+    "source_url_model": "d7h-ii",
+    "source_url_make": "caterpillar",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:43:22.647695",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "D7H II",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "1.4 ft (0 m)",
+            "Height - Top of Cab": "11.3 ft (3 m)",
+            "Length of Track on Ground": "9.6 ft (3 m)",
+            "Length w/ Blade": "18.3 ft (5 m)",
+            "Width Over Tracks": "8.4 ft in (20 cm)"
+        },
+        "Engine": {
+            "Displacement": "640.8 cu in (0 m)",
+            "Engine Model": "3306",
+            "Gross Power": "215 hp (160 kw)"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "46.3 gal/min (174 l/min)",
+            "Relief Valve Pressure": "3300 psi"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "129 gal (488 l)",
+            "Operating Weight": "55001 lbs (24,948 kg)"
+        },
+        "Standard Blade": {
+            "Capacity": "12.7 cu yds (9 m)",
+            "Height": "74.1 in (188 cm)",
+            "Width": "12.5 ft (4 m)"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "powershift"
+        },
+        "Undercarriage": {
+            "Ground Contact Area": "5022.1 cu in (0 m)",
+            "Number of Track Rollers per Side": "7",
+            "Standard Shoe Size": "22.1 in (56 cm)",
+            "Track Gauge": "6.5 ft (2 m)"
+        }
+    }
+}

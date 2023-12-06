@@ -1,0 +1,75 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/caterpillar/428c/34020",
+    "source_url_id": "34020",
+    "source_url_model": "428c",
+    "source_url_make": "caterpillar",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:41.663940",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "428C",
+    "equipment_spec": {
+        "Backhoe": {
+            "Dig Depth": "15.7 ft (5 m)",
+            "Dig Depth - Extended": "19.2 ft (6 m)",
+            "Load Height": "5.4 ft (2 m)",
+            "Load Height - Extended": "14.7 ft (4 m)",
+            "Reach at Load Height - Extended": "8.5 ft (2 m)",
+            "Reach From Swivel": "18.4 ft (5 m)",
+            "Reach From Swivel - Extended": "21.8 ft (6 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Height to Top of Suspended Cab": "9.6 ft (3 m)",
+            "Transport Length": "18.9 ft (5 m)",
+            "Transport Width": "7.9 ft (2 m)",
+            "Wheelbase": "6.9 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "244.1 cu in (0 m)",
+            "Engine Model": "3054",
+            "Gross Power": "75 hp (56 kw)",
+            "Net Power": "78 hp (58 kw)",
+            "Net Torque Rise": "0.152",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Hydraulic System": {
+            "Pump Flow Capacity": "43.1 gal/min (163 l/min)",
+            "Pump Type": "Piston",
+            "Relief Valve Pressure": "3002.3 psi"
+        },
+        "Loader": {
+            "Bucket Capacity": "1.4 cu yds (1 m)",
+            "Bucket Width": "94.4 in (239 cm)",
+            "Clearance at Max Dump Height": "8.5 ft (2 m)",
+            "Dig Depth": "5.4 in (13 cm)",
+            "Reach at Max Dump Height": "2.7 ft (1 m)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "52  A",
+            "Cooling System Fluid Capacity": "5 gal (19 l)",
+            "Fuel Capacity": "33.9 gal (125 l)",
+            "Hydraulic System Fluid Capacity": "20.9 gal (76 l)",
+            "Max Weight": "21384.9 lbs (9,700 kg)",
+            "Oil System Fluid Capacity": "2 gal (8 l)",
+            "Operating Voltage": "12 V V",
+            "Operating Weight 2wd": "13889.2 lbs (6,300 kg)",
+            "Rear Axle Fluid Capacity": "6.4 gal (23 l)",
+            "Tire Size Front - 2wd / 4wd": "11 x 16 / 10.5 x 20",
+            "Transmission Fluid Capacity": "4 gal (15 l)",
+            "Turning Radius": "26.6 ft (8 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "16.9 x 28"
+        },
+        "Transmission": {
+            "Max Speed": "19.8 mph (31 kph)",
+            "Max Speed - Reverse": "19.8 mph (31 kph)",
+            "Number of Forward Gears": "4",
+            "Number of Reverse Gears": "4",
+            "Transmission Type": "Power Shuttle"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/dd24/30800809",
+    "source_url_id": "30800809",
+    "source_url_model": "dd24",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:03.932610",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "DD24",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "106 in (269 cm)"
+        },
+        "Drum": {
+            "Drum Width": "47 in (119 cm)",
+            "Vibration Frequency": "67 hz (4,020 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins A1700"
+        },
+        "Operating Specifications": {
+            "Operating Width": "51 in (130 cm)"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/case/1835c/2454",
+    "source_url_id": "2454",
+    "source_url_model": "1835c",
+    "source_url_make": "case",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:36:36.959039",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "1835C",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "6.5 in (15 cm)",
+            "Height - Top of ROPS/FOPS": "77 in (196 cm)",
+            "Hinge pin height - fully raised": "110.5 in (279 cm)",
+            "Length w/o Bucket": "8.1 ft (2 m)",
+            "Length with Bucket": "10.5 ft (3 m)",
+            "Wheelbase": "3.1 ft (1 m)",
+            "Width Over Tires": "4.1 ft (1 m)"
+        },
+        "Engine": {
+            "Bore": "3.6 in (8 cm)",
+            "Displacement": "123 cu in (0 m)",
+            "Engine Model": "Wis-Con TM20",
+            "Gross Power": "48 hp (36 kw)",
+            "Number of Cylinders": "3",
+            "Power Measured @": "2700 rpm",
+            "Stroke": "4.1 in (10 cm)"
+        },
+        "Hydraulic System": {
+            "Dump Time": "2.2 sec",
+            "Lower Time": "2.3 sec",
+            "Pump Type": "Gear pump driven directl"
+        },
+        "Loader": {
+            "Operating Load Rating": "1200 lbs (544 kg)",
+            "Tipping load (ISO 14397)": "2400 lbs (1,089 kg)"
+        },
+        "Operating Specifications": {
+            "Alternator Supplied Amperage": "65  A",
+            "Chain Box Fluid Capacity - each side": "1.5 gal (4 l)",
+            "Cooling System Fluid Capacity": "4.5 gal (15 l)",
+            "Engine Oil Fluid Capacity": "1.5 gal (4 l)",
+            "Fuel Capacity": "19.5 gal (72 l)",
+            "Hydraulic System Fluid Capacity": "10.5 gal (38 l)",
+            "Operating Voltage": "12 V V",
+            "Operational Weight": "10912.9 lbs (4,950 kg)",
+            "Tire Size": "10.00 x 16.5"
+        }
+    }
+}

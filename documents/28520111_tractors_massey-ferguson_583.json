@@ -1,0 +1,47 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/massey-ferguson/583/28520111",
+    "source_url_id": "28520111",
+    "source_url_model": "583",
+    "source_url_make": "massey-ferguson",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:35:05.423427",
+    "equipment_category": "Tractors",
+    "equipment_make": "Massey Ferguson",
+    "equipment_model": "583",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "14.8 in (36 cm)",
+            "Height - Top of Cab": "8.6 ft (2 m)",
+            "Height - Top of ROPS/FOPS": "8.6 ft (2 m)",
+            "Overall Length": "11.8 in (28 cm)",
+            "Overall Width": "6.6 ft (2 m)",
+            "Wheelbase": "7.6 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Natural",
+            "Displacement": "269 cu in (0 m)",
+            "Engine Model": "1104C-44",
+            "Gross Power": "80 hp (60 kw)",
+            "Power Measured @": "2200 rpm",
+            "PTO Power": "77 hp (57 kw)"
+        },
+        "Hydraulic System": {
+            "Number of Remote Control Valves": "2",
+            "Pump Flow Capacity": "22.5 gal/min (83 l/min)"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3947 lbs (1,790 kg)",
+            "3 Point Hitch Type": "Cat II",
+            "Fuel Capacity": "26.5 gal (98 l)",
+            "Operating Weight": "5578 lbs (2,530 kg)"
+        },
+        "Production": {
+            "Series": "500 Series",
+            "Years Manufactured": "2006 - 2010"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "8",
+            "Number of Reverse Gears": "2"
+        }
+    }
+}

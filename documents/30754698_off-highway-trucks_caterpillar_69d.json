@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/off-highway-trucks/caterpillar/69d/30754698",
+    "source_url_id": "30754698",
+    "source_url_model": "69d",
+    "source_url_make": "caterpillar",
+    "source_url_category": "off-highway-trucks",
+    "source_date_scraped": "2023-09-13 16:23:12.293027",
+    "equipment_category": "Off-Highway Trucks",
+    "equipment_make": "Caterpillar",
+    "equipment_model": "69D",
+    "equipment_spec": {
+        "Dimensions": {
+            "Overall Height": "11.3 ft (3 m)",
+            "Overall Length": "25.7 ft (8 m)",
+            "Overall Width": "12.1 ft (4 m)"
+        },
+        "Dump": {
+            "Load Capacity - heaped": "23.8 cu yds (18 m)",
+            "Rated Payload": "80000 lbs (36,288 kg)"
+        },
+        "Engine": {
+            "Engine Model": "3408E HEUI",
+            "Gross Power": "510 hp (380 kw)"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "140.1 gal (530 l)",
+            "Not to Exceed Payload (120%)*": "lbs (0 kg)",
+            "Tire Size": "18x33 2 ** Radials"
+        },
+        "Service Refill Capacities": {
+            "Brake/Hoist Hydraulic Tank": "80000 gal (302,800 l)"
+        },
+        "Transmission": {
+            "Max Speed": "47.6 mph (76 kph)",
+            "Number of Gears - Forward": "8",
+            "Number of Gears - Reverse": "2"
+        },
+        "Weights": {
+            "Empty Weight": "78500 lbs (35,607 kg)",
+            "Weight Distribution Front - loaded": "31%",
+            "Weight Distribution Rear - loaded": "69%"
+        }
+    }
+}

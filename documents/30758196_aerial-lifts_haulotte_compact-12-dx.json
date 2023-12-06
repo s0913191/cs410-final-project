@@ -1,0 +1,44 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/aerial-lifts/haulotte/compact-12-dx/30758196",
+    "source_url_id": "30758196",
+    "source_url_model": "compact-12-dx",
+    "source_url_make": "haulotte",
+    "source_url_category": "aerial-lifts",
+    "source_date_scraped": "2023-09-13 14:27:38.402884",
+    "equipment_category": "Aerial Lifts",
+    "equipment_make": "Haulotte",
+    "equipment_model": "COMPACT 12 DX",
+    "equipment_spec": {
+        "Dimensions": {
+            "Ground Clearance": "9.9 in (23 cm)",
+            "Height w/ Rails": "8.4 ft (2 m)",
+            "Height w/o Rails": "5.6 ft (2 m)",
+            "Overall Length": "8.7 in (20 cm)",
+            "Overall Width": "6 ft (2 m)",
+            "Turning Radius": "12.3 ft (4 m)",
+            "Wheelbase": "6.2 ft (2 m)"
+        },
+        "Engine": {
+            "Fuel Type": "diesel",
+            "Gross Power": "32.9 hp (24 kw)"
+        },
+        "Performance": {
+            "Fuel Capacity": "8 gal (30 l)",
+            "Hydraulic System Fluid Capacity": "21.2 gal (79 l)",
+            "Max Speed": "3.5 mph (5 kph)",
+            "Operating Weight": "8443.8 lbs (3,830 kg)",
+            "Tire Fill/Type": "foam filled",
+            "Tire Size": "26x12-12"
+        },
+        "Platform": {
+            "Deck Extension": "47.3 in (119 cm)",
+            "Lift Time": "40 sec",
+            "Lower Time": "45 sec",
+            "Max Platform Height": "33.4 ft (10 m)",
+            "Max Platform Weight Capacity": "992.1 lbs (450 kg)",
+            "Max Working Height": "39.9 ft (12 m)",
+            "Platform Inner Length": "98.5 in (249 cm)",
+            "Platform Inner Width": "60.7 in (152 cm)"
+        }
+    }
+}

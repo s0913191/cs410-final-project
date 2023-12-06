@@ -1,0 +1,26 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/smooth-drum-rollers/stone/dd118hfa/30800819",
+    "source_url_id": "30800819",
+    "source_url_model": "dd118hfa",
+    "source_url_make": "stone",
+    "source_url_category": "smooth-drum-rollers",
+    "source_date_scraped": "2023-09-13 17:45:02.265752",
+    "equipment_category": "Smooth Drum Rollers",
+    "equipment_make": "Stone",
+    "equipment_model": "DD118HFA",
+    "equipment_spec": {
+        "Dimensions": {
+            "Turning Radius - Inside": "148.5 in (376 cm)"
+        },
+        "Drum": {
+            "Drum Width": "78.7 in (198 cm)",
+            "Vibration Frequency": "70 hz (4,200 vpm)"
+        },
+        "Engine": {
+            "Make": "Cummins QSB 4.5 Tier 3"
+        },
+        "Operating Specifications": {
+            "Operating Width": "87 in (221 cm)"
+        }
+    }
+}

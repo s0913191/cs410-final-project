@@ -1,0 +1,28 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/backhoe-loaders/case/580-sm-ii/30335635",
+    "source_url_id": "30335635",
+    "source_url_model": "580-sm-ii",
+    "source_url_make": "case",
+    "source_url_category": "backhoe-loaders",
+    "source_date_scraped": "2023-09-13 14:34:08.110076",
+    "equipment_category": "Backhoe Loaders",
+    "equipment_make": "Case",
+    "equipment_model": "580 SM II",
+    "equipment_spec": {
+        "Backhoe": {
+            "Loading Height": "11.2 ft (3 m)",
+            "Max Digging Depth": "14.3 ft (4 m)"
+        },
+        "Loader": {
+            "Breakout Force": "9164 lbs (4,157 kg)",
+            "Lift Capacity": "6182 lbs (2,804 kg)",
+            "SAE - Net": "90 hp (67 kw)"
+        },
+        "Operating Specifications": {
+            "Operating Weight": "13359 lbs (6,060 kg)"
+        },
+        "Travel Speed": {
+            "4Th Gear Fwd": "25.5 mph (40 kph)"
+        }
+    }
+}

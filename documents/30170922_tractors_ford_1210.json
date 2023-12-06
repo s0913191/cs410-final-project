@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/ford/1210/30170922",
+    "source_url_id": "30170922",
+    "source_url_model": "1210",
+    "source_url_make": "ford",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:17:04.457354",
+    "equipment_category": "Tractors",
+    "equipment_make": "Ford",
+    "equipment_model": "1210",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "16  hp"
+        },
+        "Production": {
+            "Series": "Ten Compact Series",
+            "Year Manufactured": "1983 - 1986"
+        }
+    }
+}

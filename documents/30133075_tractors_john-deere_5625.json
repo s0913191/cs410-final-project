@@ -1,0 +1,43 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/tractors/john-deere/5625/30133075",
+    "source_url_id": "30133075",
+    "source_url_model": "5625",
+    "source_url_make": "john-deere",
+    "source_url_category": "tractors",
+    "source_date_scraped": "2023-09-13 17:21:45.578375",
+    "equipment_category": "Tractors",
+    "equipment_make": "John Deere",
+    "equipment_model": "5625",
+    "equipment_spec": {
+        "Dimensions": {
+            "Wheelbase": "7.2 ft (2 m)"
+        },
+        "Engine": {
+            "Aspiration": "Turbocharged",
+            "Displacement": "276 cu in (0 m)",
+            "Engine Make": "2240",
+            "Engine Model": "4045",
+            "Gross Power": "99 hp (74 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2400 rpm",
+            "PTO Power": "82 hp (61 kw)"
+        },
+        "Hydraulic System": {
+            "Relief Valve Setting": "2860 psi"
+        },
+        "Operating Specifications": {
+            "3 Point Hitch Lift Capacity @ 24 inches": "3374 lbs (1,530 kg)",
+            "Fuel Capacity": "25.5 gal (95 l)",
+            "Tire Size Front - 2wd / 4wd": "11.2-24 6PR R1",
+            "Turning Radius": "10.2 ft (3 m)"
+        },
+        "Tires": {
+            "Rear Tires Size": "420/90 R30 R1 Radial"
+        },
+        "Transmission": {
+            "Number of Forward Gears": "9",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "Sync Shuttle"
+        }
+    }
+}

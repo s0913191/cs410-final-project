@@ -1,0 +1,89 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/wheel-loaders/volvo/l350h/30706812",
+    "source_url_id": "30706812",
+    "source_url_model": "l350h",
+    "source_url_make": "volvo",
+    "source_url_category": "wheel-loaders",
+    "source_date_scraped": "2023-09-13 16:57:01.116057",
+    "equipment_category": "Wheel Loaders",
+    "equipment_make": "Volvo",
+    "equipment_model": "L350H",
+    "equipment_spec": {
+        "Axles": {
+            "Axle oil front": "41 gal (155 l)",
+            "Axle oil rear": "41 gal (155 l)",
+            "Front": "Volvo AHW 90",
+            "Rear": "Volvo AHW 90",
+            "Rear axle oscillation": "12  \t\u00b0"
+        },
+        "Bucket": {
+            "Breakout Force": "100152.4 lbs (45,429 kg)",
+            "Bucket Width": "13.1 ft (4 m)",
+            "Dump Clearance at Max Raise": "11.9 ft (3 m)"
+        },
+        "Dimensions": {
+            "Ground Clearance": "1.9 ft (0 m)",
+            "Height - Top of Cab": "13.8 ft (4 m)",
+            "Hinge Pin - Max Height": "17.5 ft (5 m)",
+            "Length with Bucket on Ground": "36.8 ft (11 m)",
+            "Reach at Max Lift and Dump": "6.2 ft (2 m)",
+            "Wheelbase": "14.2 ft (4 m)",
+            "Width Over Tires": "12 ft (4 m)"
+        },
+        "Drive System": {
+            "Torque multiplication, stall ratio": "2.65",
+            "Transmission": "Volvo HTE 400",
+            "Transport speed, maximum": "23.7 mph (37 kph)"
+        },
+        "Electrical System": {
+            "Alternator rating": "2280/80 (W/A)",
+            "Batteries": "V",
+            "Battery capacity": "2 x 170 Ah",
+            "Cold cranking capacity": "1000 A",
+            "Starter motor output": "9.4 hp (7 kw)",
+            "Voltage": "24 V"
+        },
+        "Engine": {
+            "Aspiration": "VGT (Variable Geometry Turbocharged)",
+            "Displacement": "982.5 cu in (0 m)",
+            "Engine Model": "Volvo D16J",
+            "Gross Power": "532 hp (397 kw)",
+            "Model": "D16J",
+            "Net Power": "528 hp (394 kw)",
+            "Number of Cylinders": "6",
+            "Power Measured @": "1700 rpm",
+            "Torque Measured @": "1400 rpm"
+        },
+        "Hydraulic cycle times (unloaded)": {
+            "Lift": "8 sec",
+            "Lower": "4.7 sec",
+            "Tilt": "1.9 sec",
+            "Total cycle time": "14.6 sec"
+        },
+        "Hydraulic System": {
+            "Engine speed": "1800 rpm",
+            "Working pressure": "Pump 1 - 25 MPa, Pump 2 - 26 MPa, Pump 3 - 26 MPa"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "18 gal (68 l)",
+            "DEF tank capacity": "14.1 gal (53 l)",
+            "Engine Oil Fluid Capacity": "14.6 gal (53 l)",
+            "Fuel Capacity": "153.5 gal (579 l)",
+            "Hydraulic System Fluid Capacity": "96.5 gal (363 l)",
+            "Rated Bucket Capacity": "8.6 - 16.60 cu yds (6 - 12 m)",
+            "Transmission Fluid Capacity": "20.9 gal (76 l)"
+        },
+        "Steering System": {
+            "Articulation angle": "37  \t\u00b0",
+            "Cylinder bore": "4.4 in (10 cm)",
+            "Maximum flow": "89.9 gal/min (337 l/min)",
+            "Rod diameter": "2.8 in (5 cm)",
+            "Steering cylinders": "2",
+            "Stroke": "2 ft (1 m)",
+            "Working pressure": "26 MPa, 260 bar"
+        },
+        "Weights": {
+            "Operational Weight": "116460 lbs (52,826 kg)"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/crawler-dozers/komatsu/d31a-17/20920",
+    "source_url_id": "20920",
+    "source_url_model": "d31a-17",
+    "source_url_make": "komatsu",
+    "source_url_category": "crawler-dozers",
+    "source_date_scraped": "2023-09-13 14:47:11.001137",
+    "equipment_category": "Crawler Dozers",
+    "equipment_make": "Komatsu",
+    "equipment_model": "D31A-17",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height - Top of Cab": "8.9 ft (2 m)",
+            "Length of Track on Ground": "6.2 ft (2 m)",
+            "Length w/o Blade": "9.4 ft (3 m)",
+            "Width Over Tracks": "6.1 ft in (15 cm)"
+        },
+        "Engine": {
+            "Displacement": "264 cu in (0 m)",
+            "Engine Model": "4D105-5",
+            "Gross Power": "66 hp (49 kw)"
+        },
+        "Operating Specifications": {
+            "Cooling System Fluid Capacity": "5.9 gal (19 l)",
+            "Fuel Capacity": "30.4 gal (114 l)",
+            "Operating Weight": "11290 lbs (5,121 kg)"
+        },
+        "Standard Blade": {
+            "Height": "29.4 in (74 cm)",
+            "Width": "8 ft (2 m)"
+        },
+        "Transmission": {
+            "Max Speed - Forward": "4.1 mph (6 kph)",
+            "Max Speed - Reverse": "4.5 mph (6 kph)",
+            "Number of Forward Gears": "3",
+            "Number of Reverse Gears": "3",
+            "Transmission Type": "planetary gear"
+        },
+        "Undercarriage": {
+            "Ground Pressure": "5.9 psi",
+            "Number of Track Rollers per Side": "5",
+            "Standard Shoe Size": "13 in (33 cm)",
+            "Track Gauge": "4.8 ft (1 m)"
+        }
+    }
+}

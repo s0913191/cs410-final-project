@@ -1,0 +1,63 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cab-chassis-trucks/international/9200i-sba-4x2-2004/30759109",
+    "source_url_id": "30759109",
+    "source_url_model": "9200i-sba-4x2-2004",
+    "source_url_make": "international",
+    "source_url_category": "cab-chassis-trucks",
+    "source_date_scraped": "2023-09-13 17:56:28.902874",
+    "equipment_category": "Cab / Chassis Trucks",
+    "equipment_make": "International",
+    "equipment_model": "9200i SBA 4x2 (2004)",
+    "equipment_spec": {
+        "Dimensions": {
+            "Number of Rear Axles": "1",
+            "Weight Class": "7"
+        },
+        "Wheelbase Cab Chassis Option 1": {
+            "Length From Back of Cab to End of Frame": "105 in (267 cm)",
+            "Length from Center of Rear Axle(s) to End of Frame": "31 in (79 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "30.99 in (76 cm)",
+            "Overall Length": "18.1 ft (5 m)",
+            "Total Chassis Weight": "10902 lbs (4,945 kg)",
+            "Total GVW": "32000 lbs (14,515 kg)",
+            "Turning Radius": "24.6 ft (7 m)",
+            "Wheelbase": "140 in (356 cm)"
+        },
+        "Wheelbase Cab Chassis Option 2": {
+            "Length From Back of Cab to End of Frame": "109 in (277 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "31 in (79 cm)",
+            "Overall Length": "18.5 ft (5 m)",
+            "Total Chassis Weight": "10913 lbs (4,950 kg)",
+            "Total GVW": "32000 lbs (14,515 kg)",
+            "Turning Radius": "25.2 ft (8 m)",
+            "Wheelbase": "144 in (366 cm)"
+        },
+        "Wheelbase Cab Chassis Option 3": {
+            "Length From Back of Cab to End of Frame": "119 in (302 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "31 in (79 cm)",
+            "Overall Length": "19.3 ft (6 m)",
+            "Total Chassis Weight": "10942 lbs (4,963 kg)",
+            "Total GVW": "32000 lbs (14,515 kg)",
+            "Turning Radius": "26.5 ft (8 m)",
+            "Wheelbase": "154 in (391 cm)"
+        },
+        "Wheelbase Cab Chassis Option 4": {
+            "Length From Back of Cab to End of Frame": "130 in (330 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "31 in (79 cm)",
+            "Overall Length": "20.2 ft (6 m)",
+            "Total Chassis Weight": "10975 lbs (4,978 kg)",
+            "Total GVW": "32000 lbs (14,515 kg)",
+            "Turning Radius": "28.1 ft (9 m)",
+            "Wheelbase": "165 in (419 cm)"
+        },
+        "Wheelbase Cab Chassis Option 5": {
+            "Length From Back of Cab to End of Frame": "150 in (381 cm)",
+            "Length From Center of Rear Axle(s) to End of Frame": "31 in (79 cm)",
+            "Overall Length": "21.9 ft (6 m)",
+            "Total Chassis Weight": "11052 lbs (5,013 kg)",
+            "Total GVW": "32000 lbs (14,515 kg)",
+            "Turning Radius": "30.9 ft (9 m)",
+            "Wheelbase": "185 in (470 cm)"
+        }
+    }
+}

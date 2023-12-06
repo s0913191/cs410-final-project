@@ -1,0 +1,61 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/excavators/kubota/u55-4a1/30749993",
+    "source_url_id": "30749993",
+    "source_url_model": "u55-4a1",
+    "source_url_make": "kubota",
+    "source_url_category": "excavators",
+    "source_date_scraped": "2023-09-13 15:13:46.582038",
+    "equipment_category": "Excavators",
+    "equipment_make": "Kubota",
+    "equipment_model": "U55-4A1",
+    "equipment_spec": {
+        "Blades": {
+            "Blade Lift Height": "17.4 in (43 cm)",
+            "Maximum Drop below ground": "1.4 ft (0 m)",
+            "Overall Height": "8.4 ft (2 m)"
+        },
+        "Boom": {
+            "Boom swing left": "75  \t\u00b0",
+            "Boom swing right": "55  \t\u00b0"
+        },
+        "Boom/Stick Excavator Option 1": {
+            "Max Digging Depth": "11.9 ft (3 m)",
+            "Max Digging Height": "18.4 ft (5 m)",
+            "Max Vertical Wall Digging Depth": "5 ft (2 m)",
+            "Max.Dumping Height": "13.2 ft (4 m)",
+            "Mximum dig radius": "239.4 in (607 cm)"
+        },
+        "Dimensions": {
+            "Crawler length": "8.3 ft (2 m)",
+            "Ground Clearance": "1.1 ft (0 m)",
+            "Overall length": "18.1 ft (5 m)",
+            "Overall Width": "77.2 in (196 cm)",
+            "Tail Swing Radius": "3.5 ft (1 m)"
+        },
+        "Engine": {
+            "Displacement": "9739.4 cu in (0 m)",
+            "Engine Make": "Kubota",
+            "Engine Model": "V2607-CR-E4",
+            "Gross Power": "49.5 hp (37 kw)",
+            "Model Name": "U55-4A1",
+            "Net Power": "45.1 hp (34 kw)",
+            "Number of Cylinders": "4",
+            "Power Measured @": "2200 rpm"
+        },
+        "Operating Specifications": {
+            "Auxiliary fuel tank": "9.8 gal (34 l)",
+            "Auxiliary hydraulic flow": "19.9 gal/min (72 l/min)",
+            "Fuel Capacity": "18 gal (68 l)",
+            "Hydraulic Pump Flow Capacity": "11.9 gal/min (42 l/min)",
+            "Hydraulic System Fluid Capacity": "20.9 gal (76 l)",
+            "Travel speed, high range": "3.1 mph (5 kph)",
+            "Travel speed, low range": "2 mph (3 kph)"
+        },
+        "Swing Mechanism": {
+            "Swing Speed": "8.9 rpm"
+        },
+        "Undercarriage": {
+            "Shoe Size": "15.8 in (38 cm)"
+        }
+    }
+}

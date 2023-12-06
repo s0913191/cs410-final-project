@@ -1,0 +1,57 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/cold-planers-milling-machines/wirtgen/w1900/30332766",
+    "source_url_id": "30332766",
+    "source_url_model": "w1900",
+    "source_url_make": "wirtgen",
+    "source_url_category": "cold-planers-milling-machines",
+    "source_date_scraped": "2023-09-13 17:53:00.304065",
+    "equipment_category": "Cold Planers / Milling Machines",
+    "equipment_make": "Wirtgen",
+    "equipment_model": "W1900",
+    "equipment_spec": {
+        "Conveyor System": {
+            "Collecting Conveyor Width": "31.5 in (79 cm)",
+            "Discharge Conveyor Swing (R/L)": "45  \t\u00b0",
+            "Discharge Conveyor Width": "31.5 in (79 cm)"
+        },
+        "Dimensions": {
+            "Max Operating Height": "14.8 ft (4 m)",
+            "Operating Length": "44.5 ft (13 m)",
+            "Shipping Height": "9.9 ft (3 m)",
+            "Shipping Length": "22.1 ft (7 m)",
+            "Shipping Width": "8.4 ft (2 m)"
+        },
+        "Engine": {
+            "Displacement": "970.3 cu in (0 m)",
+            "Engine Model": "OM502LA",
+            "Gross Power": "469 hp (350 kw)",
+            "Net Power": "455 hp (339 kw)",
+            "Number of Cylinders": "8",
+            "Power Measured @": "2000 rpm"
+        },
+        "Operating Specifications": {
+            "Fuel Capacity": "224.6 gal (848 l)",
+            "Hydraulic System Fluid Capacity": "71.4 gal (269 l)",
+            "Operating Speed": "96.8 ft/min",
+            "Operating Voltage": "24 V",
+            "Operating Weight - Full Load": "61641.3 lbs (27,960 kg)",
+            "Shipping Weight - Empty": "55997.5 lbs (25,400 kg)",
+            "Travel Speed": "2.8 mph (3 kph)",
+            "Water Spray System Fluid Capacity": "422.7 gal (1,597 l)"
+        },
+        "Rotary Cutter": {
+            "Cutter Diameter": "38.6 in (97 cm)",
+            "Cutting Depth": "12.6 in (30 cm)",
+            "Cutting Width": "6.6 ft (2 m)",
+            "Number of Tools": "162",
+            "Tool Spacing": "0.6 in (0 cm)"
+        },
+        "Track": {
+            "Front Track Length": "5.3 ft (2 m)",
+            "Front Track Width": "10.3 in (25 cm)",
+            "Number of Track Units": "4",
+            "Rear Track Length": "5.3 ft (2 m)",
+            "Rear Track Width": "10.3 in (25 cm)"
+        }
+    }
+}

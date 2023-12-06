@@ -1,0 +1,38 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/forklifts/toyota/7fgu40/4215170",
+    "source_url_id": "4215170",
+    "source_url_model": "7fgu40",
+    "source_url_make": "toyota",
+    "source_url_category": "forklifts",
+    "source_date_scraped": "2023-09-13 15:42:27.776035",
+    "equipment_category": "Forklifts",
+    "equipment_make": "Toyota",
+    "equipment_model": "7FGU40",
+    "equipment_spec": {
+        "Dimensions": {
+            "Height to Top of Overhead Guard": "7.2 ft (2 m)",
+            "Length to Fork Face": "9.8 ft (3 m)",
+            "Overall Width": "4.5 ft (1 m)",
+            "Turning Radius": "8.7 ft (2 m)",
+            "Wheelbase": "6.1 ft (2 m)"
+        },
+        "Engine": {
+            "Engine Model": "V6 4.3 L LPG",
+            "Fuel Type": "Gas",
+            "Power": "91 hp (68 kw)",
+            "Power Measured @": "2350 rpm",
+            "Torque": "216.9 lbs/ft",
+            "Torque Measured @": "1200 rpm"
+        },
+        "MAST": {
+            "Load Capacity": "8999.3 lbs (4,082 kg)",
+            "Load Center": "23.7 in (58 cm)"
+        },
+        "Operating Specifications": {
+            "Max Speed": "13.7 mph (21 kph)",
+            "Number of Front Wheels": "2",
+            "Number of Rear Wheels": "2",
+            "Tire Type": "pneumatic"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source_url": "https://www.constructionequipmentguide.com/charts/charts/skid-steer-loaders/mustang/3300v-nxt2/30759625",
+    "source_url_id": "30759625",
+    "source_url_model": "3300v-nxt2",
+    "source_url_make": "mustang",
+    "source_url_category": "skid-steer-loaders",
+    "source_date_scraped": "2023-09-13 16:39:35.579492",
+    "equipment_category": "Skid Steer Loaders",
+    "equipment_make": "Mustang",
+    "equipment_model": "3300V NXT2",
+    "equipment_spec": {
+        "Engine": {
+            "Gross Power": "72 hp (54 kw)"
+        },
+        "Loader": {
+            "Operating Load Rating": "3300 lbs (1,497 kg)",
+            "Operating Width": "72 in (183 cm)"
+        }
+    }
+}

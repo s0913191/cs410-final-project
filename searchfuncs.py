@@ -50,7 +50,7 @@ def search_result(query: str, n=3, similarity_func=u.cosine_similarity, top=10, 
         if i > top: break
         idx = similarities_sorted_idx[-i]
         if similarities[idx] < cutoff: break
-        result = np.append(result, np.array([[data[idx], similarities[idx]]]), axis=0)
+        result = np.append(result, np.array([[data[idx], similarities[idx]]], dtype=object), axis=0)
     return result
 
 def search_result_match_rank(query: str, answer: str, n=3, similarity_func=u.cosine_similarity, top=10, cutoff=0.0):

@@ -7,11 +7,12 @@ My proposed system accepts a set of make/model as a query, calculates similariti
 This is a course project for [CS410: Text Information Systems](https://courses.engr.illinois.edu/cs410/fa2023/) at [University of Illinois Urbana-Champaign](https://illinois.edu/).
 
 ## :point_right: Final Deliverables
-1. [Web Demo](https://storage.googleapis.com/my-front/index.html)
-2. [API Endpoint](https://my-api-y7vscpfafa-ue.a.run.app/)
-3. [API Documentation](https://my-api-y7vscpfafa-ue.a.run.app/docs) (FastAPI)
-4. Software Documentation
-5. Software Usage Tutorial Presentation
+1. Software Documentation
+2. Software Usage Tutorial Presentation
+3. [Web Demo](https://storage.googleapis.com/my-front/index.html)
+4. [API Endpoint](https://my-api-y7vscpfafa-ue.a.run.app/)
+5. [API Documentation](https://my-api-y7vscpfafa-ue.a.run.app/docs) (FastAPI)
+
 
 ## :point_right: Past Deliverables
 1. [Project Proposal](reports/Project%20proposal.pdf) (due Oct 27, 2023)

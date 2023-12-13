@@ -7,7 +7,7 @@ import searchfuncs as s
 from collections import Counter
 from math import sqrt
 
-validation_labeled_path = fr"validation_labeled.txt"
+validation_labeled_path = fr"data/validation_labeled.txt"
 df_validation_labeled = pd.read_csv(validation_labeled_path, sep='|')
 
 # Get match rankings

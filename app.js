@@ -9,7 +9,8 @@ $(document).ready(function() {
         };
 
         $.ajax({
-            url: 'http://127.0.0.1:8000/', // API Endpoint
+            //url: 'http://127.0.0.1:8000/', // API Endpoint
+            url: 'https://my-api-y7vscpfafa-ue.a.run.app/',
             type: 'POST',
             contentType: 'application/json',
             data: JSON.stringify(data),

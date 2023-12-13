@@ -22,7 +22,7 @@ make_dict = {
     ,'NH':'New Holland'
 }
 
-dataset_path = fr"consolidated_docs.json"
+dataset_path = fr"data/consolidated_docs.json"
 data = []
 with open(dataset_path, 'r') as f:
     jsonl_data = [json.loads(l) for l in f.readlines()]

@@ -8,7 +8,7 @@ This is a course project for [CS410: Text Information Systems](https://courses.e
 
 ## :point_right: Final Deliverables
 1. [Software Documentation](reports/Final%20documentation.pdf)
-2. Software Usage Tutorial Presentation
+2. [Software Usage Tutorial Presentation](https://youtu.be/46hnCDLBHwo)
 3. [Web Demo](https://storage.googleapis.com/my-front/index.html)
 4. [API Endpoint](https://my-api-y7vscpfafa-ue.a.run.app/)
 5. [API Documentation](https://my-api-y7vscpfafa-ue.a.run.app/docs) (FastAPI)

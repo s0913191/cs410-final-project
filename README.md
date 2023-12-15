@@ -7,7 +7,7 @@ My proposed system accepts a set of make/model as a query, calculates similariti
 This is a course project for [CS410: Text Information Systems](https://courses.engr.illinois.edu/cs410/fa2023/) at [University of Illinois Urbana-Champaign](https://illinois.edu/).
 
 ## :point_right: Final Deliverables
-1. Software Documentation
+1. [Software Documentation](reports/Final%20documentation.pdf)
 2. Software Usage Tutorial Presentation
 3. [Web Demo](https://storage.googleapis.com/my-front/index.html)
 4. [API Endpoint](https://my-api-y7vscpfafa-ue.a.run.app/)
